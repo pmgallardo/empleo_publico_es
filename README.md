@@ -7,7 +7,7 @@ Ayuda para candidatos al INAP de empleo público español.
 
 ### Inaplazable Test CLI
 
-Programa de línea de comando que ayuda a poner a prueba conocimientos sobre el .
+Programa de línea de comando que ayuda a poner a prueba conocimientos sobre los test de INAP.
 
 Prerrequisitos:
 
