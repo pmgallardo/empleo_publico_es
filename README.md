@@ -16,10 +16,11 @@ El repositorio incluye:
 Se recopila la documentación original de las convocatorias públicas que se distribuye únicamente en PDF.
 
 La estructura de carpetas es:
+
 /data/raw/<num_cuerpo>/<año_convocatoria>
 
-_<num_cuerpo>_ es el número de cuerpo. Ejemplo: 1188. Los códigos de cuerpos se pueden consultar en el fichero /data/cuerpos.csv
-_<año_convocatoria>_ es el año de la convocatoria. Ejemplo: 2022
+* _<num_cuerpo>_ es el código de cuerpo. Ejemplo: 1188. Los códigos de cuerpos se pueden consultar en el fichero [/data/cuerpos.csv](https://github.com/pmgallardo/empleo_publico_es/blob/main/data/cuerpos.csv)
+* _<año_convocatoria>_ es el año de la convocatoria. Ejemplo: 2022
 
 ## Datos de convocatorias procesables
 
@@ -30,11 +31,12 @@ El tipo de material encontrado puede ser:
 * test: preguntas de tests
 
 La estructura de las carpetas es:
+
 /data/processed/<num_cuerpo>/<tipo_material>/<ref_temporal>
 
-_<num_cuerpo>_ es el número de cuerpo. Ejemplo: 1188. Los códigos de cuerpos se pueden consultar en el fichero /data/cuerpos.csv
-_<tipo_material>_ es el tipo de material ofrecido para las convocatorias de ese cuerpo. Pueden ser títulos del temario (temario) o preguntas de test (test).
-_<ref_temporal>_ es una referencia temporal, que puede ser el año de convocatoria (ejemplo: 2022) o una fecha en formato yyyymmdd (ejemplo: 20230606)
+* _<num_cuerpo>_ es el código de cuerpo. Ejemplo: 1188. Los códigos de cuerpos se pueden consultar en el fichero [/data/cuerpos.csv](https://github.com/pmgallardo/empleo_publico_es/blob/main/data/cuerpos.csv)
+* _<tipo_material>_ es el tipo de material ofrecido para las convocatorias de ese cuerpo. Pueden ser títulos del temario (temario) o preguntas de test (test).
+* _<ref_temporal>_ es una referencia temporal, que puede ser el año de convocatoria (ejemplo: 2022) o una fecha en formato yyyymmdd (ejemplo: 20230606)
 
 ## Aplicaciones
 
