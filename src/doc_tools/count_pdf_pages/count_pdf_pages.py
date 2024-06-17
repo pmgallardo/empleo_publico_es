@@ -37,5 +37,5 @@ def main(folder_path):
 
 # Replace 'your/folder/path' with the path to the folder containing the PDF files
 if __name__ == "__main__":
-    folder_path = "/home/enteruser/Documents/inap/programa/pdf/Temario-ASTIC-2023-Temas-Especificos-6e7wxd/Temario Especifico 2023/Temario Especifico 2023/vol4"
+    folder_path = "/home/pablo/Documents/inap/programa/pdf/Temario-ASTIC-2023-Temas-Especificos-6e7wxd/Temario Especifico 2023/Temario Especifico 2023/vol4"
     main(folder_path)

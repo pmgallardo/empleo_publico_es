@@ -1,0 +1,1034 @@
+1. En desarrollo de proyectos, el registro de impactos de la adaptación a un proceso es una
+actividad incluída en la fase de procesos de:
+a) Información.
+b) Cierre.
+c) Monitorización y Control.
+d) Ejecución.
+2. El histograma de recursos refleja la cantidad de técnicos que intervienen en un proyecto.
+Indique la respuesta VERDADERA en relación a esta afirmación:
+a) En el histograma de recursos se representan los recursos materiales necesarios para la
+realización de un proyecto, no recursos humanos.
+b) Para que un diagrama de Gantt sea realista y fiable debe ir acompañado de un histograma de
+recursos.
+c) El histograma de recursos también se denomina Patrón de límites.
+d) El histograma de recursos, usando redes, permite establecer dependencias entre los recursos
+humanos que participan en el proyecto.
+3. En la asignación de tiempos de un proyecto el tiempo Early del suceso inicial del proyecto
+es:
+a) Igual a la duración mínima del proyecto.
+b) La duración mínima esperada para la primera actividad.
+c) Igual a cero.
+d) Igual a 1.
+4. En el caso de que a una licitación se presente una Unión Temporal de Empresas (UTE):
+a) Es necesario que esté constituida previamente a la adjudicación del contrato.
+b) Es necesario que esté constituida en el momento de la valoración de las ofertas.
+c) No es necesario que esté constituida previamente hasta la finalización del contrato, momento
+en que será obligatoria su constitución.
+d) No es necesario que esté constituida previamente a la adjudicación del contrato, solo un
+compromiso de que lo estará si resulta adjudicataria.
+5. Cuando el precio del contrato se formule en función de precios unitarios, el importe de la
+garantía a constituir se fijará atendiendo:
+a) Al presupuesto base de licitación, IVA excluido.
+b) Al presupuesto base de licitación, IVA incluido.
+c) Al precio final de adjudicación, IVA incluido.
+d) Al precio final de adjudicación, IVA incluido.
+6. Las normas o recomendaciones publicadas por ITU-T se agrupan en series según su
+temática. Las normas que comienzan por H se refieren a:
+a) Sistemas audiovisuales y multimedia (por ejemplo, sistemas de comunicaciones multimedia
+basados en paquetes).
+b) Sistemas y medios de transmisión, sistemas y redes digitales (por ejemplo,codificación de
+audio PCM).
+c) Redes públicas de datos, comunicaciones de sistemas abiertos y seguridad (por ejemplo sobre
+estructura de certificados).
+d) Terminales y servicios telemáticos (por ejemplo, protocolos de datos para conferencia
+multimedia).
+7. ¿Qué es un “balanceador de carga” en el diseño arquitectónico de sistemas?
+a) Un componente de software que gestiona la seguridad de datos.
+b) Un nodo de ejecución que ejecuta código en tiempo real.
+c) Un nodo de hardware que almacena datos de forma segura.
+d) Un componente de hardware o software que distribuye el tráfico entre múltiples servidores.
+8. ¿Cuál de las herramientas de la AEPD (Agencia Española de Protección de Datos) está
+diseñada para el análisis de necesidad de una Evaluación de Impacto en Protección de
+Datos?:
+a) Facilita RGPD.
+b) Comunica-Brecha RGPD.
+c) Gestiona RGPD.
+d) Evalua-Riesgo RGPD.
+9. Para el escaneado de documentos, la calidad mínima aceptable de la reproducción, basada
+en la relación del tamaño del carácter de los documentos y la resolución de captura, será de:
+a) IQ 3,6.
+b) 300 dpi.
+c) IQ 5.
+d) WCAG 2.1.
+10. ¿Cuál de los conceptos de calidad de un sistema de identificación biométrica está
+relacionado con la conveniencia para el usuario?:
+a) Attack Presentation Classification Error Rate (APCER).
+b) Impostor Attack Presentation Acceptance Rate (IAPAR).
+c) False Rejection Rate (FRR).
+d) False Match Rate (FMR).
+11. Cuál de las siguientes soluciones DLT es "permissioned" (autorizada o autenticada):
+a) Cardano.
+b) Solana.
+c) Avalanche.
+d) Corda.
+12. Un oráculo (oracle) es un servicio mediante el cual un Smart Contract (Contrato Inteligente)
+puede acceder a información externa a su blockchain (cadena de bloques). Uno de los
+siguientes tipos de oráculo NO es correcto, indique cuál es:
+a) De hardware.
+b) De consenso.
+c) De agregación.
+d) De salida (Outbounds oracles).
+13. ¿Cuál de las siguientes NO es una técnica de Gestión de Proyectos?:
+a) Diagrama de componentes.
+b) Técnicas de estimación.
+c) Diagrama de extrapolación.
+d) Diagrama de descomposición de trabajo.
+14. De acuerdo con la ISO 9004 ¿Cuál de las siguientes afirmaciones referidas a las
+organizaciones excelentes en relación con las personas que trabajan en ellas, NO es
+correcta?:
+a) Valoran a las personas que las integran.
+b) Desarrollan las capacidades de las personas y garantizan la imparcialidad y la igualdad.
+c) Dan reconocimiento a los esfuerzos para motivar a las personas, e incrementar su compromiso
+con la organización.
+d) Adaptan su estructura organizativa para lograr los objetivos económicos.
+15. ¿Cuál es la principal ventaja de la tecnología 802.11ax frente a la 802.11ac?:
+a) Mejoras en eficiencia en entornos densos.
+b) Permite el uso de la banda de 6 GHz.
+c) Todas las opciones son correctas.
+d) Permite modulación 1024QAM.
+16. El protocolo de resolución de nombres de Internet o DNS, en IPv4 define los registros tipo 'A'
+para traducir un nombre a una IP(v4). En IPv6:
+a) Se siguen usando los registros A para traducir un nombre a una dirección IPv6.
+b) Se usan los registros AAAA.
+c) Se usan los registros Av6.
+d) Se usan los registros TXT.
+17. ¿Cuál es el propósito del protocolo H.245 en H.323?:
+a) Comunicación entre las partes de un Gateway.
+b) Negociar las capacidades de los terminales y para establecer y controlar los canales de
+medios.
+c) Gestionar la autenticación de dispositivos terminales.
+d) Definir las direcciones IP de los dispositivos.
+18. ¿Cuál de los siguientes NO es uno de los cuatro planos principales en la arquitectura IMS?:
+a) Plano de control.
+b) Plano de acceso.
+c) Plano de aplicación.
+d) Plano de infraestructura.
+19. ¿Cuál es la iniciativa open source, soportada por la Unión Europea, que impulsa la creación
+de estándares necesarios para desarrollar aplicaciones en dominios como Smart Cities o
+Smart Factories?:
+a) LoRA.
+b) NGSI-LD.
+c) Sigfox.
+d) FIWARE.
+20. ¿Cuál es elemento de electrónica de red que divide el dominio de difusión en varios
+dominios de colisión, sin eliminarlos?:
+a) Bridge.
+b) Hub.
+c) Switch.
+d) Router.
+21. Según la NTI de Requisitos de conexión a la red de comunicaciones de las Administraciones
+Públicas, los elementos del AC (área de conexión) albergarán los servicios telemáticos
+básicos prestados por la Red SARA, que son:
+a) DNS, SMTP, NTP, Proxy y Proxy inverso.
+b) SMTP, LDAP, AV, Proxy, Load Balancer.
+c) NTP, SMTP, Proxy e IDS.
+d) DNS, SAT-INET, NTP, OCSP.
+22. La MIB SNMP empleada para la gestión de dispositivos de una red de comunicaciones es un
+conjunto de objetos estandarizados definidos por:
+a) IEEE.
+b) OASIS.
+c) IETF.
+d) International Telecommunication Union.
+23. ¿Cuál es el espaciado de las subportadoras OFDM en el estándar DOCSIS 3.1?:
+a) 1 y 5 MHz.
+b) 15kHz.
+c) 192 MHz.
+d) 25 y 50 kHz.
+24. Procedimiento para generar de forma dinámica dominios donde se alojarán los servidores de
+Comando y Control, técnica usada en redes Botnet para dificultar su detención:
+a) AXFR.
+b) DGA.
+c) Ataque POODLE.
+d) CSFR.
+25. Proof Key for Code Exchange, PKCE, (RFC 7636) es una extensión del flujo de código
+autorización de OAuth 2.0 con el objetivo de:
+a) Mejorar el rendimiento en el proceso de autorización.
+b) Limitar ataques CSRF y de inyección de código de autorización.
+c) Compatibilizar el flujo de autorización con sistemas legacy basados en WSS.
+d) Permitir la concesión Implícita, un flujo simplificado en el que el token de acceso se devuelve
+directamente al cliente.
+26. ¿Cómo se da cumplimiento en España a la Directiva (UE) 2016/1148 relativa a las medidas
+destinadas a garantizar un elevado nivel común de seguridad de las redes y sistemas de
+información en la Unión, comúnmente conocida como Directiva NIS 1?:
+a) No es una directiva, sino un reglamento comunitario, directamente aplicable en todos los
+Estados Miembros que por tanto no necesita ningún tipo de transposición.
+b) Se transpone al ordenamiento jurídico en España a través del Real Decreto Ley 12/2018 de
+seguridad de las redes y los sistemas de información.
+c) En España todavía no se ha finalizado el proceso de transposición de esta directiva NIS 1.
+d) No es necesario dar cumplimiento a esta Directiva puesto que la Directiva (UE) 2022/2555 del
+Parlamento Europeo y del Consejo de 14 de diciembre de 2022 relativa a las medidas
+destinadas a garantizar un elevado nivel común de ciberseguridad en toda la Unión,
+comúnmente conocida como Directiva NIS 2, deroga la Directiva 2016/1148 a partir del
+01.01.2023.
+27. ¿A qué nivel de la capa OSI actúan los WAFs?:
+a) Nivel de la capa 4 – Transporte.
+b) Nivel de la capa 5 – Sesión.
+c) Nivel de la capa 6 – Presentación.
+d) Nivel de la capa 7 – Aplicación.
+28. ¿Cuál de los siguientes es el organismo de estandarización del lenguaje de orquestación
+BPEL?:
+a) BPMI.
+b) Workflow Management Coalition (WfMC).
+c) OASIS.
+d) Object Management Group (OMG).
+29. ¿Qué afirmación es CORRECTA en relación con el protocolo SOAP?:
+a) Es un protocolo que se utiliza en la tecnología de web services y define cómo dos objetos en
+diferentes procesos pueden comunicarse.
+b) Es un procolo de comunicación basado en HTML.
+c) Define los protocolos de transporte utilizados en el envío de mensajes.
+d) Se utiliza para intercambio de información entre ordenadores con mismo sistema operativo.
+30. La versión 7.0 de Android recibe el nombre de:
+a) Oreo.
+b) Lollipop.
+c) Marshmallow.
+d) Nougat.
+31. Indica cuál de las siguientes afirmaciones es la CORRECTA:
+a) El modelado de casos de uso es una técnica de obtención de requisitos no funcionales de
+sistemas.
+b) El modelado de casos de uso es una técnica de obtención de requisitos no funcionales que
+resulta adecuada para sistemas que están dominados por requisitos funcionales del usuario.
+c) El modelado de casos de uso es una técnica de obtención de requisitos funcionales de un
+sistema.
+d) El modelado de casos de uso es un diagrama UML de obtención de requisitos que resulta
+adecuada para sistemas que están dominados por requisitos funcionales del usuario.
+32. Con respecto a las historias de usuario y los casos de uso, indica cuál es la afirmación
+CORRECTA:
+a) La descripción de los casos de uso es más corta que la de las historias de usuario y el tiempo
+de implementación de las historias de usuario es más estimable que el de los casos de uso.
+b) La descripción de las historias de usuario es más corta que la de los casos de uso y el tiempo
+de implementación de las historias de usuario es más estimable que el de los casos de uso.
+c) La descripción de las historias de usuario es más corta que la de los casos de uso y el tiempo
+de implementación de los casos de uso es más estimable que el de las historias de usuario.
+d) La descripción de los casos de uso es más corta que la de las historias de usuario y el tiempo
+de implementación de los casos de uso es más estimable que el de las historias de usuario.
+33. Un diccionario de datos:
+a) Describe y referencia todos los objetos que aparecen en los DFDs, dentro del modelado de
+funciones del sistema.
+b) Describe y referencia todos los objetos que aparecen en los DFDs, dentro del modelado de
+datos almacenados.
+c) Describe y referencia todas las entidades externas que aportan o reciben información del
+sistema, dentro del modelado de funciones del sistema.
+d) Describe y referencia todas las entidades externas que aportan o reciben información del
+sistema, dentro del modelado de datos almacenados.
+34. En el modelo de clases, las relaciones de agregación son un tipo particular de relaciones de:
+a) Composición.
+b) Generalización.
+c) Dependencia.
+d) Asociación.
+35. La especificación BPMN 2.0 define cuatro tipos de cumplimiento o conformidad. ¿Cuál de
+éstos NO es correcto?:
+a) De Modelización de Procesos.
+b) De Ejecución de Procesos.
+c) De Modelización de Orquestación.
+d) De Ejecución de Procesos BPEL.
+36. La Privacidad desde el diseño (PbD) parte de siete principios fundamentales . Señale el
+ERRÓNEO:
+a) La Privacidad se incorpora en la fase de diseño.
+b) Aseguramiento de la privacidad en el diseño.
+c) Visibilidad y transparencia.
+d) Enfoque centrado en el sujeto de los datos.
+37. ¿Qué es el "acoplamiento" en el contexto del diseño de software?:
+a) La relación entre las capas de un sistema.
+b) La independencia entre módulos de software.
+c) La medida de dependencia entre componentes de software.
+d) La organización de un sistema en capas.
+38. La clasificación de prototipos por función incluye los siguientes tipos:
+a) Prototipo, mockup o maqueta, sketch, wireframe.
+b) De requisitios, de diseño, de implementación.
+c) Desechable, evolutivo.
+d) De viabilidad, de necesidad, de implantación o producción.
+39. En la capa de procesos de gestión del modelo de procesos de ISO/IEC/IEEE 29119 señalar el
+proceso NO contemplado:
+a) Planificación.
+b) Control y Seguimiento.
+c) Ejecución.
+d) Finalización.
+40. ¿Cuál de las siguientes herramientas de pruebas es específica para aplicaciones móviles?:
+a) Sikuli.
+b) WatIn.
+c) Appium.
+d) Capybara.
+41. ¿Cuál de los siguientes conceptos hace referencia al proceso de sustitución de
+infraestructuras basadas en grandes máquinas, como mainframes, por sistemas basados en
+ordenadores con menos capacidad de proceso, llevando parte de las tareas de computación
+a servidores u ordenadores de menor tamaño y mayor versatilidad?:
+a) Downsizing.
+b) Outsizing.
+c) Upsizing.
+d) Rightsizing.
+42. En MÉTRICA v3, las Pruebas de Regresión se llevan a cabo en la actividad:
+a) Actividad MSI 1: Registro de la petición.
+b) Actividad MSI 2: Análisis de la petición.
+c) Actividad MSI 3: Preparación de la implementación de la modificación.
+d) Actividad MSI 4: Seguimiento y evaluación de los cambios hasta la aceptación.
+43. "BMC Remedy" es una herramienta para:
+a) La gestión de versiones y la configuración en proyectos de desarrollo.
+b) La gestión de la configuración orientada al gobierno de los sistemas de información.
+c) La limpieza de entornos.
+d) La gestión de la capacidad de los entornos.
+44. Según el último informe "Uso de inteligencia artificial y big data en empresas españolas"
+publicado en marzo de 2023 por el Observatorio Nacional de Tecnología y Sociedad,
+utilizando datos de 2021 armonizados a nivel comunitario, España se sitúa entre los Estados
+miembros de la Unión Europea con un:
+a) Nivel alto en la adopción de inteligencia artificial en las empresas españolas.
+b) Nivel medio en la adopción de inteligencia artificial en las empresas españolas.
+c) Nivel bajo en la adopción de inteligencia artificial en las empresas españolas.
+d) Nivel muy bajo en la adopción de inteligencia artificial en las empresas españolas.
+45. ¿Para qué se utiliza el algoritmo de Bellman-Ford?:
+a) Genera el camino más corto en protocolos de encaminamiento basados en vector de
+distancias.
+b) Para intercambio de mensajes entre Sistemas Autónomos.
+c) Para la generación de VLAN dinámicas.
+d) Todas las anteriores son incorrectas.
+46. ¿Qué tipo de conector se encuentra habitualmente instalado en las rosetas telefónicas
+doméstica que no cuenta con un sistema de cableado estructurado?:
+a) RJ49.
+b) RJ45.
+c) RJ11.
+d) Conector N.
+47. ¿En qué nivel o capa del modelo de referencia OSI se sitúa la compresión de datos?:
+a) Red.
+b) Presentación.
+c) Sesión.
+d) Transporte.
+48. ¿Qué es una Webview?:
+a) Es un componente del sistema operativo que permite tener una vista nativa capaz de mostrar
+contenido de otras web ya existentes sin tener que abrir otro navegador.
+b) Es un componente que permite rotar la pantalla del dispositivo móvil.
+c) Es un componente que permite cambiar el tamaño de una página web.
+d) Es un componente que permite personalizar una página web.
+49. Los Planes de Continuidad TIC deberían incluir:
+a) Plan de Confirmación de Negocio.
+b) Plan de Cese en el Negocio.
+c) Plan de Ampliación en el Negocio.
+d) Plan de Recuperación ante Desastres.
+50. La fase de planificación de un Sistemas de Gestión de la Continuidad del Negocio (SGCN)
+abarca:
+a) El contexto, el liderazgo, los objetivos, las competencias, la comunicación y la documentación.
+b) El contexto, el liderazgo, los objetivos, las competencias y la documentación.
+c) El contexto, el liderazgo, los riesgos externos, las competencias, la comunicación y
+documentación.
+d) Los sistemas de información, el liderazgo, los objetivos, las competencias, la comunicación y
+documentación.
+51. En el contexto de la virtualización completa, ¿cuál de las siguientes afirmaciones es
+CORRECTA respecto a la relación entre los sistemas operativos invitados y el hipervisor?:
+a) Los sistemas operativos invitados comparten un kernel único proporcionado por el hipervisor.
+b) Cada sistema operativo invitado tiene su propio kernel independiente y se ejecuta directamente
+sobre el hardware con la supervisión del hipervisor.
+c) El hipervisor emula completamente los sistemas operativos invitados, lo que permite una
+ejecución más rápida y eficiente.
+d) El hipervisor proporciona una interfaz de usuario unificada para todos los sistemas operativos
+invitados, lo que facilita la administración.
+52. ¿Qué se entiende por "ring deprivileging" en el contexto de la virtualización y sistemas
+operativos?:
+a) Es un término que describe la eliminación de la necesidad de anillos de protección en los
+sistemas operativos virtualizados, lo que mejora la eficiencia del rendimiento.
+b) El "ring deprivileging" se refiere a la práctica de otorgar privilegios adicionales a los procesos
+que se ejecutan en el anillo 0 (kernel) de un sistema operativo.
+c) Se trata de un enfoque para reducir los privilegios de los sistemas operativos invitados,
+moviéndolos desde el anillo 0 (kernel) al anillo 1 o superior, mejorando así la seguridad y el
+aislamiento.
+d) El "ring deprivileging" se refiere a la eliminación completa de los anillos de protección en los
+sistemas operativos, lo que resulta en una mayor flexibilidad y rendimiento.
+53. En Virtual Desktop Infrastructure (VDI), ¿cuál de los siguientes protocolos de comunicación
+es especifico para proporcionar acceso remoto a escritorios virtuales basados en sistemas
+operativos Linux?:
+a) RDP (Remote Desktop Protocol).
+b) ICA (Independent Computing Architecture).
+c) SPICE (Simple Protocol for Independent Computing Environments).
+d) PCoIP (PC over IP).
+54. Las fases del ciclo de vida de una tecnología según el Hype cycle de la consultora Gartner:
+a) Lanzamiento; expectativas sobredimensionadas; desilusión; consolidación y productividad.
+b) Caótica; Reactiva; Proactiva; Servicio y Madurez.
+c) Dinosaurio; Gran hermano; Mano amiga; Perro vigilante; Red o Network.
+d) Iniciación; Expansión; Formalización; Administración y Madurez.
+55. La Oficina del Dato de la Administración General del Estado:
+a) Depende de la Secretaría de Estado de Educación.
+b) Depende de la Secretaría de Estado de Digitalización e Inteligencia Artificial.
+c) Depende de la Secretaría de Estado de Economía Digital.
+d) Depende de la Secretaría de Estado Digital e Inteligencia Artificial.
+56. Los medios y servicios TIC de la Administración General del Estado y sus Organismos
+Públicos serán declarados de uso compartido cuando:
+a) Así los declare la Secretaría General de Administración Digital, mediante Resolución de la
+Secretaría de Estado de Digitalización e Inteligencia Artificial.
+b) Se acuerde en el seno de la Comisión Sectorial de Administración Electrónica, presidida por el
+Secretario General de Administración Digital.
+c) Permitan a los ciudadanos tener una visión integral de sus relaciones con las Administraciones
+públicas y acceso a todos los servicios on-line.
+d) En razón de su naturaleza o del interés común, respondan a necesidades transversales de un
+número significativo de unidades administrativas.
+57. Indique cuál de los siguientes NO es un eje estratégico del Plan de Digitalización de las
+Administraciones Públicas 2021-2025:
+a) Políticas públicas basadas en datos y modernización de la gestión de datos.
+b) Proyectos de alto impacto en la digitalización del Sector Público.
+c) Transformación digital de la Administración General del Estado.
+d) Transformación Digital y Modernización del Ministerio de Política Territorial y Función Pública,
+Comunidades Autónomas y Entidades Locales.
+58. Indique cuál de las siguientes afirmaciones es cierta respecto al Reglamento (UE) 2022/868
+del Parlamento Europeo y del Consejo relativo a la gobernanza europea de datos
+(Reglamento de Gobernanza de Datos):
+a) Establece el 30 de noviembre de 2025 como fecha límite para su transposición a la normativa
+nacional.
+b) Deroga la Directiva (UE) 2019/1024 del Parlamento Europeo y del Consejo, de 20 de junio de
+2019, relativa a los datos abiertos y la reutilización de la información del sector público.
+c) Establece que la Comisión Europea creará un Comité Europeo de Innovación en materia de
+Datos.
+d) Establece la creación de un espacio único europeo de datos sanitarios, coordinado por un
+Comité Europeo de Innovación en materia de datos.
+59. ¿Tiene preferencia el personal funcionario en el nombramiento del personal directivo en las
+agencias estatales?:
+a) Sí, siempre que sea titulado superior, atendiendo a criterios de competencia profesional y
+experiencia, y mediante procedimiento que garantice el mérito, la capacidad y la publicidad.
+b) No, siempre y cuando se garantice el mérito, la capacidad y la publicidad.
+c) Sí.
+d) En las agencias estatales sólo existe personal laboral.
+60. ¿Cuál de los siguientes es un objetivo SMART?:
+a) La empresa X desea aumentar sus ventas un 10%.
+b) La empresa X desea mejorar su imagen para el año 2025.
+c) La empresa X tiene como objetivo alcazar una cuota del 100% del mercado.
+d) Ninguno de los anteriores.
+61. En el marco de la metodología METRICA versión 3 para el desarrollo de sistemas de
+información, ¿en qué actividad se sitúa la definición de las interfaces de usuario del
+sistema?:
+a) Estudio de Viabilidad del Sistema (EVS).
+b) Análisis del Sistema de Información (ASI).
+c) Diseño del Sistema de Información (DSI).
+d) Construcción del Sistema de Información (CSI).
+62. SOROLLA2 es una aplicación web que se provee como SaaS (software como servicio) y que
+ha sido desarrollada utilizando:
+a) El enfoque DevOps.
+b) El proceso sistemático Lean.
+c) La metodología Kanban.
+d) La metodología Scrum.
+63. En las metodologías ágiles, el backlog del proyecto o producto:
+a) Aumenta según se avanza en el tiempo y se van desarrollando funcionalidades
+b) Aumenta según se avanza en el tiempo y se van desarrollando los requisitos no funcionales.
+c) Disminuye según se avanza en el tiempo y se van desarrollando funcionalidades.
+d) Disminuye según se avanza en el tiempo y se van desarrollando los requisitos no funcionales.
+64. ¿Cuál de las siguientes afirmaciones describe mejor el propósito de una auditoría
+informática de nivel experto?:
+a) Evaluar el rendimiento de la infraestructura técnica de una organización.
+b) Identificar vulnerabilidades y riesgos de seguridad en los sistemas de información.
+c) Revisar la gestión financiera de la empresa en relación con la tecnología.
+d) Supervisar el cumplimiento de las políticas de recursos humanos en TI.
+65. Cuál de las siguientes afirmaciones acerca del CTT es FALSA:
+a) Uno de sus objetivos es el de crear un repositorio común de software y de servicios para su
+reutilización en las Administraciones Públicas.
+b) Cualquier administración puede publicar su proyecto de software libre y crear una comunidad
+de desarrollo en torno a él.
+c) Uno de sus objetivos es crear un espacio donde se puedan compartir experiencias y cooperar
+en el ámbito de la administración electrónica.
+d) el Centro de Transferencia de Tecnología se encuentra recogido en el artículo 148 de la ley
+40/2015.
+66. ¿Qué papel desempeñan las pruebas de concepto (PoC) en la toma de decisiones sobre el
+equipamiento hardware y software en las administraciones públicas?:
+a) Las PoC no son relevantes para la toma de decisiones tecnológicas en el sector público.
+b) Las PoC se utilizan para validar la viabilidad de una solución antes de su implementación a
+gran escala.
+c) Las PoC son exclusivamente responsabilidad del personal de TI y no involucran a otros
+departamentos.
+d) Las PoC son obligatorias antes de cualquier compra de hardware o software.
+67. El Real Decreto Legislativo 1/1996, de 12 de abril, en su artículo 193 se crea la Comisión de
+Propiedad Intelectual. Señale la composición CORRECTA de la Sección Segunda de la
+Comisión:
+a) Se compondrá de cuatro vocales del Ministerio de Cultura y Deporte, de los cuales dos
+procederán del ámbito Propiedad Intelectual, uno del ámbito Tecnologías de la Información y
+uno del ámbito de la Secretaría General Técnica.
+b) Se compondrá de cuatro vocales del Ministerio de Cultura y Deporte, de los cuales dos
+procederán del ámbito Propiedad Intelectual, y los otros dos del ámbito de la Secretaría
+General Técnica.
+c) Se compondrá de tres vocales del Ministerio de Cultura y Deporte, de los cuales dos
+procederán del ámbito Propiedad Intelectual, y uno del ámbito de la Secretaría General
+Técnica.
+d) Se compondrá de tres vocales del Ministerio de Cultura y Deporte, de los cuales uno procederá
+del ámbito Propiedad Intelectual, uno del ámbito Tecnologías de la Información y uno del
+ámbito de la Secretaría General Técnica.
+68. ¿Cuál de las siguientes normativas europeas se relaciona principalmente con la protección
+de datos personales y la privacidad en la interoperabilidad?:
+a) Reglamento General de Protección de Datos (GDPR).
+b) Directiva de Protección para el Comercio Electrónico.
+c) Reglamento sobre el Reconocimiento Mutuo de la Identificación Electrónica.
+d) Directiva sobre Servicios de la Sociedad de la Información.
+69. Cuál de las siguientes herramientas automáticas para la evaluación manual de la
+accesibilidad permite realizar análisis de páginas en local, dentro de intranets, en desarrollo
+o de acceso restringido.
+a) TAW Online.
+b) eXaminator.
+c) Achecker.
+d) SortSite.
+70. ¿Cuál de las siguiente afirmaciones NO es cierta?:
+a) Las dimensiones de seguridad en el Esquema Nacional de Seguridad son: disponibilidad,
+integridad, confidencialidad, trazabilidad y autenticidad.
+b) Las dimensiones de seguridad en el Esquema Nacional de Seguridad son: disponibilidad,
+integridad, confidencialidad, portabilidad y autenticidad.
+c) Las dimensiones de seguridad en el Esquema Nacional de Seguridad son: disponibilidad,
+eficiencia, confidencialidad, trazabilidad y autenticidad.
+d) Las dimensiones de seguridad en el Esquema Nacional de Seguridad son: disponibilidad,
+integridad, confidencialidad, trazabilidad y no repudio.
+71. ¿Cuál es uno de los principales desafíos al implementar la virtualización del almacenamiento
+en un entorno empresarial?:
+a) Falta de compatibilidad con sistemas heredados.
+b) Mayor costo de adquisición de hardware.
+c) Reducción de la capacidad de almacenamiento disponible.
+d) Simplificación de la gestión de recursos.
+72. ¿Cuál de las siguientes opciones muestra la sintaxis correcta de la línea de comandos para
+encontrar todos los archivos modificados hace 7 días en el directorio "/home/usuario" y sus
+subdirectorios, y luego eliminarlos permanentemente?:
+a) find /home/usuario -mtime 7 -type f -del
+b) find /home/usuario -mtime -7 -exec rm -rf {} \;
+c) find /home/usuario -type f -mtime 7 -exec rm {} \;
+d) find /home/usuario -mtime -7 -type f -delete
+73. ¿Qué versión de estándares fue lanzada por AT&T para lograr la compatibilidad entre las
+versiones de UNIX?:
+a) SVID.
+b) BSD.
+c) POSIX.
+d) OSF/1.
+74. ¿Cuál de las siguientes afirmaciones es CIERTA sobre la arquitectura de iOS?:
+a) iOS utiliza el sistema de archivos HT+ para almacenar datos.
+b) La arquitectura de iOS se basa exclusivamente en microkernels.
+c) iOS utiliza sistemas de archivos APFS para almacenar datos.
+d) La arquitectura de iOS es completamente monolítica.
+75. ¿Desde la versión Android 5.0 (Lollipop), qué componente se ha convertido en el estándar
+recomendado por Android para mostrar listas de datos desplazables en una interfaz de
+usuario?:
+a) RecyclerView.
+b) ListView.
+c) DataList.
+d) ScrollLayout.
+76. Las iniciales ACID en una transacción ¿qué significan?:
+a) Aislamiento, Capacidad, Autenticidad y Persistencia.
+b) Atomicidad, Consistencia, Aislamiento y Persistencia.
+c) Atomicidad, Confidencialidad, Aislamiento y Privacidad.
+d) Ninguna de las anteriores.
+77. ¿Qué es una vista en SQL?:
+a) Una función que calcula el promedio de una columna en una tabla.
+b) Una tabla temporal utilizada para almacenar datos de forma eficiente.
+c) Una consulta almacenada que puede ser tratada como una tabla virtual.
+d) Un tipo de índice utilizado para mejorar el rendimiento de las consultas.
+78. ¿Cuál de las siguientes afirmaciones es correcta acerca de la API de java JNDI?:
+a) JNDI es una biblioteca de gráficos utilizada para crear interfaces de usuario en aplicaciones
+Java.
+b) JNDI es una herramienta de desarrollo utilizada para depurar aplicaciones Java en tiempo de
+ejecución.
+c) JNDI es una interfaz de programación que permite a las aplicaciones Java acceder a servicios
+de directorio y objetos en entornos distribuidos.
+d) JNDI es una biblioteca de clases en Java que facilita la comunicación en red entre servidores y
+clientes en una arquitectura cliente-servidor.
+79. ¿Cuál de las siguientes afirmaciones es cierta sobre la Definición de Código Abierto (OSD)
+de la Iniciativa de Código Abierto (OSI)?:
+a) La OSD es un conjunto de normas legales que rigen el uso del software de código abierto.
+b) La OSD establece los estándares de diseño de interfaces de usuario para proyectos de código
+abierto.
+c) La OSD es un documento que define los requisitos que una licencia de software debe cumplir
+para ser considerada de código abierto.
+d) La OSD es una lista de proyectos de software recomendados por OSI para su adopción.
+80. La norma ISO/IEC 27001:2022:
+a) Es un estándar comúnmente aceptado para la gestión de riesgos de seguridad de la
+información.
+b) Disponer de una certificación bajo esta norma ISO supone el cumplimiento del Esquema
+Nacional de Seguridad, ya que existe una equivalencia entre ambos estándares formalmente
+reconocida en el RD 311/2022 por el que se regula el Esquema Nacional de Seguridad.
+c) No es certificable.
+d) Es un estándar comúnmente aceptado para la implantación de sistemas de gestión de
+seguridad de la información, (o ISMS - information security management systems por sus siglas
+en inglés.
+81. Indica cuál de las siguientes afirmaciones es CORRECTA:
+a) Las contramedidas se implementan sin tener en cuenta los riesgos identificados.
+b) La gestión del riesgo se basa exclusivamente en el análisis de los indicadores relativos al
+número de intrusiones que se han detectado en cada periodo.
+c) La gestión de riesgos se basa siempre en una escala cuantitativa.
+d) Ninguna de las anteriores.
+82. De acuerdo a lo dispuesto por el RD 311/2022 por el que se regula el Esquema Nacional de
+Seguridad, ¿cuál de los siguientes NO es un requisito mínimo a tener en cuenta a la hora de
+desarrollar la política de seguridad?:
+a) Análisis y gestión de riesgos.
+b) Gestión de personal.
+c) Autorización y control de los accesos.
+d) Definición de las dimensiones básicas de seguridad de la información.
+83. Indique cuál de las siguientes afirmaciones es INCORRECTA respecto a la plataforma común
+Cl@ve:
+a) Cl@ve ofrece 3 niveles de registro que determinan a qué servicios electrónicos podrá acceder
+el usuario, en función del nivel de aseguramiento en la calidad de la autenticación que se
+requiera (nivel QAA), en base a los datos que tratan y a la clasificación de seguridad siguiendo
+las recomendaciones del Esquema Nacional de Seguridad: Registro Básico, Medio y
+Avanzado.
+b) Cl@ve contempla la utilización de sistemas de identificación basados en claves concertadas
+(usuario y contraseña) y certificados electrónicos (incluido DNI electrónico).
+c) Cl@ve se ofrece en colaboración con la Agencia Estatal de Administración Tributaria (AEAT),
+la Seguridad Social y la Dirección General de Policía.
+d) Cl@ve Firma es la plataforma que proporciona una solución de firma electrónica centralizada
+para las Administraciones mediante certificados electrónicos emitidos por la Dirección General
+de Policía (DGP) y custodiados por la DGP y la Gerencia de Informática de la Seguridad Social.
+84. Indique cuál de las siguientes afirmaciones es INCORRECTA respecto a la Plataforma de
+intermediación de Datos (PID) de la Administración General del Estado:
+a) Ofrece servicios web para la verificación y consulta de datos bajo el protocolo SCSPv3.
+b) La consulta de datos se puede realizar de manera síncrona o asíncrona.
+c) Todas las peticiones van identificadas con un identificador único y firmadas (XMLDSig) con
+certificado electrónico (X509 v3) del empleado público y del ciudadano.
+d) El sistema garantiza la confidencialidad de los datos intercambiados mediante el uso del
+protocolo SSL en las comunicaciones entre los distintos organismos.
+85. Señale la respuesta INCORRECTA respecto a la Agenda España Digital 2026:
+a) La Estrategia Nacional de Inteligencia Artificial es uno de los 7 planes específicos que forman
+parte de esta agenda.
+b) Sus medidas se estructuran en 10 ejes estratégicos más 2 ejes transversales.
+c) Aportan financiación para sus actuaciones diversos componentes del Plan de Recuperación,
+Transformación y Resiliencia, como el 11, el 15 y el 16, entre otros.
+d) Una de las medidas del Eje 3 Ciberseguridad" es el despliegue y operación de centros de
+operaciones de ciberseguridad.
+86. En relación al cloud computing los agentes conocidos como "enablers" ofrecen:
+a) Sus grandes entornos tecnológicos siguiendo el modelo de Software como Servicio (SaaS).
+b) Las infraestructuras subyacentes del modelo, tales como la virtualización y automatización del
+centro de datos.
+c) Sus grandes entornos tecnológicos siguiendo el modelo de Infraestructura como Servicio
+(IaaS).
+d) Sus grandes entornos tecnológicos siguiendo el modelo de Plataforma como Servicio (PaaS).
+87. Señale la respuesta que NO se corresponde con la clasificación de las soluciones de Cloud
+Computing:
+a) Modalidad de acceso: privado y empresarial.
+b) Modalidad de servicio: IaaS, PaaS, SaaS y BPaaS.
+c) Modalidad de negocio: proveedor, suscriptor, intermediario, habilitador y auditor.
+d) Forma de implementación: nube pública, privada, híbrida y comunitaria.
+88. Según el último informe 2020, La Sociedad en Red del ONTSI, en las Administraciones
+Públicas el tipo de nube usado mayoritariamente se corresponde con:
+a) Nube pública.
+b) Nube privada.
+c) Nube híbrida.
+d) Algunas entidades utilizan más de un tipo de nube.
+89. Cual de los siguientes tipos NO se corresponde con la clasificación de los tipos de cluster de
+servidores:
+a) Cluster de alto rendimiento.
+b) Cluster de alta disponibilidad.
+c) Cluster de respaldo mediante virtualización de servidores.
+d) Cluster de balanceo de carga.
+90. AJAX es una tecnología de desarrollo web que se caracteriza por la siguiente afirmación:
+a) Es un metalenguaje extensible de etiquetas desarrollado por el World Wide Web Consortium al
+igual que HTML.
+b) Es una aplicación de creación y manipulación de gráficos vectoriales con posibilidades de
+manejo de código mediante un lenguaje de scripting.
+c) Es un lenguaje de scripting basado en objetos no tipado y ligero, utilizado para acceder a
+objetos en aplicaciones.
+d) Es una técnica de desarrollo web creada con el fin de implementar aplicaciones interactivas
+que se ejecutan en el navegador de los usuarios y mantienen comunicación asíncrona con el
+servidor en segundo plano.
+91. Según el Esquema Nacional de Interoperabilidad en España, ¿en qué artículo se consagra la
+preferencia por los estándares abiertos como base para la comunicación entre
+administraciones y la no discriminación tecnológica del ciudadano?:
+a) Artículo 11.
+b) Artículo 22.
+c) Artículo 17.
+d) Artículo 18.
+92. ¿Cuál de las siguientes afirmaciones sobre el modelo de desarrollo de software libre y de
+código abierto es INCORRECTA?:
+a) El modelo suele involucrar a comunidades grandes de desarrolladores distribuidos
+globalmente.
+b) La retroalimentación temprana entre usuarios y desarrolladores es una práctica común en este
+modelo.
+c) Las fundaciones que administran proyectos de software libre no buscan obtener recursos
+económicos.
+d) El uso de herramientas de control de versiones ha contribuido a la colaboración en este
+modelo.
+93. ¿Cuál de las siguientes afirmaciones describe mejor una característica central de un ERP
+(Enterprise Resource Planning)?:
+a) La modularidad en un ERP se refiere exclusivamente a la personalización de la interfaz de
+usuario.
+b) Un ERP principalmente facilita el intercambio de datos con sistemas competidores.
+c) La principal función de un ERP es realizar copias de seguridad periódicas de los datos.
+d) La modularidad en un ERP se refiere a la capacidad de integrar y desintegrar módulos
+específicos según las necesidades de la organización.
+94. ¿Cuál de las siguientes afirmaciones es VERDADERA en relación con un sistema CRM y un
+sistema ERP?:
+a) Un sistema CRM solo se utiliza en empresas de tecnología, mientras que un sistema ERP es
+utilizado en empresas de cualquier industria.
+b) sistema CRM se utiliza para administrar la cadena de suministro, mientras que un sistema ERP
+se utiliza para gestionar interacciones con los clientes.
+c) Ambos sistemas son intercambiables y se utilizan para administrar recursos humanos.
+d) Un sistema CRM se enfoca en la gestión de relaciones con los clientes, mientras que un
+sistema ERP se enfoca en la gestión de procesos internos y recursos de la organización.
+95. La Directiva 2007/2/CE, comúnmente conocida como INSPIRE (Infraestructura for Spatial
+Information in Europe):
+a) Se incorpora al ordenamiento jurídico español a través de la ley 14/2010 sobre las
+infraestructuras y los servicios de información geográfica en España (LISIGE).
+b) Establece las reglas generales para el establecimiento de una infraestructura de información
+espacial en la Unión Europea basada en las infraestructuras de los Estados Miembros, pero no
+requiere que las infraestructuras nacionales sean interoperables entre sí.
+c) La Dirección General del Catastro ejerce como punto de contacto con la Comisión Europea
+para el desarrollo de la Directiva Inspire en España.
+d) No requiere ser incorporada al ordenamiento jurídico español porque las directivas son de
+aplicación directa en todos los Estados Miembros de la Unión Europea.
+96. ¿Cuál de las siguientes respuestas en la CORRECTA?:
+a) El espacio de datos facilita el desarrollo de semánticas y vocabularios de uso común
+facilitadoras del intercambio de información.
+b) El espacio de datos facilita el desarrollo de semánticas y vocabularios de uso común
+facilitadoras de la normalización de la información.
+c) El espacio de datos facilita el desarrollo de semánticas y vocabularios de uso común
+facilitadoras de la integración de la información.
+d) El espacio de datos facilita el desarrollo de semánticas y vocabularios de uso común
+facilitadoras de la publicación de información.
+97. Un preprocesador de CSS compila todo el código fuente en un archivo CSS plano. ¿Cuál de
+las siguientes opciones se corresponde con preprocesadores CSS?:
+a) Stylesheet, flex y grid.
+b) Padding, margin y display.
+c) CSS-Edit, inline y block.
+d) Sass, Less y Stylus.
+98. ¿Cuál es el estándar de obligado cumplimiento para cualquier empresa que procese,
+almacene o transmita datos relacionados con tarjetas bancarias?:
+a) Amazon Pay.
+b) PCI DSS.
+c) Google Pay.
+d) Alipay.
+99. La afirmación: “La factorización de números enteros compuestos es un problema fácil de
+resolver” es:
+a) Verdad siempre.
+b) Falsa siempre.
+c) Depende del tamaño del número compuesto.
+d) Ninguna de las anteriores.
+100. ¿Qué extensión emplea la versión v3 del protocolo LDAP para establecer una
+conexión segura?:
+a) RFC 6101.
+b) TLS.
+c) SSL.
+d) Ipsec.
+PREGUNTAS DE RESERVA – TEMAS ESPECÍFICOS
+101. ¿Qué protocolo emplea el sistema Cl@ve entre los Proveedores de Identidad (IdP) y
+las aplicaciones (SP, Proveedores de Servicio) que solicitan la autenticación de un
+ciudadano?:
+a) OAuth 2.0 (RFC 6749).
+b) SAML 2.0 (RFC 7522).
+c) Microsoft AD LDAP.
+d) OpenID 1.1.
+102. ¿Cuál es el plazo que establece el RGPD (Reglamento General de Protección de
+Datos), (UE) 2016/679, como obligación para la realización de una auditoría de protección de
+datos?:
+a) Cada 2 años de forma general, al realizar una evaluación de conformidad.
+b) Cada año para los sistemas de alto riesgo que requieran EIPD (Evaluación de Impacto de
+Protección de Datos), cada dos años para el resto.
+c) No establece un plazo. La Autoridad de Control determina cuándo realizar auditorías de
+protección de datos.
+d) Cada vez que se realice un cambio significativo en el perfil de riesgo del sistema.
+103. Entre los estándares que aplican a la conservación de la información en formato
+electrónico encontramos ISO 19005-1:2005 PDF/A-1, que identifica:
+a) Las recomendaciones para la conservación a largo plazo de información electrónica basada en
+documentos.
+b) Los requisitos para la conservación a largo plazo de documentos electrónicos.
+c) El formato de archivo de documentos electrónicos para conservación a largo plazo.
+d) Las recomendaciones para la veracidad y fiabilidad de información almacenada
+electrónicamente.
+104. Indique cuál de las siguientes combinaciones de nivel del modelo de referencia OSI -
+protocolo es CORRECTA:
+a) Red – SSL.
+b) Enlace de datos – OSPF.
+c) Aplicación – SSH.
+d) Transporte – IMAP.
+105. Dentro de la arquitectura FTTH basada en la tecnología G.984, ¿qué equipo es el que
+introduce la señal de video RF en la central de conmutación para ser posteriormente
+suministrada a los usuarios finales?:
+a) STB.
+b) EDFA.
+c) ODF.
+d) Todas las anteriores son incorrectas.
+
+
+
+
+
+
+
+SEGUNDA PARTE – TEMAS GENERALES
+1. De conformidad con lo establecido en la Ley 38/2003, de 17 de noviembre, General de
+Subvenciones, en la Administración General del Estado la concesión de subvenciones de
+cuantía superior a 12 millones de euros será competencia de:
+a) Los Ministros y Secretarios de Estado.
+b) El Consejo de Ministros.
+c) Los Ministros y Secretarios de Estado previa autorización del Consejo de Ministros.
+d) El Consejo de Ministros previa autorización de la Comisión delegada del Gobierno para
+asuntos económicos.
+2. Señale la afirmación CORRECTA sobre el fenómeno de la desigual distribución de la renta en
+España:
+a) España se sitúa, junto con Rumania, Bulgaría y Grecia, a la cabeza de los países de la UE con
+mayores tasas de pobreza y exclusión.
+b) Las Comunidades Autónomas con mayores tasas de pobreza son Andalucía, Aragón,
+Extremadura, junto con las ciudades autónomas de Ceuta y Melilla.
+c) Los niveles de desigualdad de ingresos y riesgo de pobreza en España han disminuido
+significativamente en los últimos 30 años.
+d) Los mayores de 65 años son el colectivo con mayor riesgo de pobreza y exclusión social en
+España.
+3. En el contexto de la política fiscal, ¿cuál de las siguientes variables macroeconómicas se ve
+directamente afectada por los cambios en los niveles de gasto público y los impuestos?:
+a) Inflación.
+b) Tasa de interés.
+c) Tipo de cambio.
+d) Déficit público.
+4. ¿Cuál es la Comunidad Autónoma de España en recibir en 2022 más número de turistas
+internacionales?:
+a) Islas Baleares.
+b) Cataluña.
+c) Andalucía.
+d) Islas Canarias.
+5. Según lo dispuesto en el articulo 8 de la Ley Orgánica 3/2007, de 22 de marzo, para la
+igualdad efectiva de mujeres y hombres, la discriminación por embarazo o maternidad se
+considera:
+a) Discriminación directa por razón de sexo.
+b) Discriminación indirecta por razón de sexo.
+c) Acoso sexual.
+d) Trato discriminatorio.
+6. Entre los objetivos cuantitativos del Plan de Choque por el Empleo Joven 2019-2021 se
+incluye:
+a) Reducir en un 10% la actual brecha de género entre hombres y mujeres jóvenes en las cifras
+de paro registrado.
+b) Reducir en un 15% la actual brecha de género entre hombres y mujeres jóvenes en las cifras
+de paro registrado.
+c) Reducir en un 20% la actual brecha de género entre hombres y mujeres jóvenes en las cifras
+de paro registrado.
+d) Reducir en un 25% la actual brecha de género entre hombres y mujeres jóvenes en las cifras
+de paro registrado.
+7. ¿Cuál es la principal dimensión de la brecha digital de género en España de acuerdo con el
+informe del Observatorio Nacional de Tecnología y Sociedad (ONTSI) de 2023?:
+a) El uso de Internet.
+b) El teletrabajo.
+c) El comercio electrónico.
+d) La educación STEM (ciencia, tecnología, ingeniería y matemáticas).
+8. ¿Cuál es uno de los objetivos principales de la Oficina Nacional de Emprendimiento (ONE)
+prevista en la estrategia España Digital 2025?:
+a) Promover la digitalización del sector industrial.
+b) Impulsar el emprendimiento digital nacional.
+c) Proporcionar asesoramiento jurídico a las start-ups.
+d) Gestionar un repositorio de programas de ayuda financiera para start-ups.
+9. De acuerdo con los datos del Observatorio Nacional de Tecnología y Sociedad (ONTSI), ¿qué
+porcentaje de empresas usan en nuestro país actualmente algún tipo de robot en su
+actividad cotidiana?:
+a) Casi el 8%.
+b) Casi el 10%.
+c) Casi el 12%.
+d) Casi el 15%.
+10. ¿Cuál es la premisa fundamental de la teoría del liderazgo situacional de Hersey y
+Blanchard?:
+a) Los líderes nacen con rasgos innatos que los hacen aptos para liderar.
+b) Los líderes deben ser expertos en las tareas que realizan.
+c) Los líderes deben ajustar su estilo al nivel de madurez del equipo.
+d) Los líderes deben ser carismáticos y persuasivos para influir en los demás.
+11. Señale la afirmación CORRECTA sobre las características de los modelos de gestión de la
+calidad:
+a) El nuevo modelo EFQM pasa a contar con 6 criterios de evaluación distribuidos en tres
+bloques: dirección, ejecución y resultados.
+b) La estructura del modelo CAF se basa en el análisis de 4 agentes facilitadores dentro de la
+organización: liderazgo, personas, procesos y alianzas.
+c) El método DMAIC utilizado en el modelo Lean Six Sigma hace referencia a estas 5 fases:
+definir, medir, analizar, incrementar y controlar.
+d) El modelo SERVQUAL de calidad de servicio se basa en la valoración de 5 dimensiones:
+fiabilidad, capacidad de respuesta, seguridad, empatía y elementos tangibles.
+12. Señale la afirmación CORRECTA:
+a) Son modelos de gestión de calidad de las organizaciones reconocidos: EFQM, CAF, EVAM y
+CYCLOS.
+b) Son modelos de gestión de calidad de las organizaciones reconocidos: EFQM, CAF, EUPAN y
+CYCLOS.
+c) Son modelos de gestión de calidad de las organizaciones reconocidos: EFQM, CAF, ISAM y
+CYCLOS.
+d) Son modelos de gestión de calidad de las organizaciones reconocidos: EFQM, CAF, EUPAN e
+ISAM.
+13. Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto
+refundido de la Ley del Estatuto Básico del Empleado Público, la ejecución de la oferta de
+empleo público o instrumento similar:
+a) Deberá desarrollarse dentro del plazo improrrogable de tres años.
+b) Deberá desarrollarse dentro del plazo prorrogable de tres años.
+c) Deberá desarrollarse dentro del plazo improrrogable de dos años.
+d) Deberá desarrollarse dentro del plazo prorrogable de dos años.
+14. Conforme a la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del
+sector público, se entiende por reutilización de la información del sector público:
+a) El uso por personas físicas o jurídicas de documentos elaborados o custodiados por los sujetos
+previstos en su artículo 2 con fines comerciales distintos del propósito inicial que tenían esos
+documentos en la actividad de servicio público o de interés general para la que se produjeron,
+con las excepciones previstas en la Ley.
+b) El uso por personas físicas o jurídicas de documentos elaborados o custodiados por los sujetos
+previstos en su artículo 2 con fines no comerciales distintos del propósito inicial que tenían esos
+documentos en la actividad de servicio público o de interés general para la que se produjeron,
+con las excepciones previstas en la Ley.
+c) El uso por personas físicas o jurídicas de documentos elaborados o custodiados por los sujetos
+previstos en su artículo 2 con fines administrativos distintos al propósito inicial que tenían esos
+documentos en la actividad de servicio público o de interés general para la que se produjeron,
+con las excepciones previstas en la Ley.
+d) El uso por personas físicas o jurídicas de documentos elaborados o custodiados por los sujetos
+previstos en su artículo 2 con fines comerciales o no comerciales distintos del propósito inicial
+que tenían esos documentos en la actividad de servicio público o de interés general para la que
+se produjeron, con las excepciones previstas en la Ley.
+15. Conforme a la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información
+pública y buen gobierno, cuál de las siguientes causas dará lugar a la inadmisión, mediante
+resolución motivada, de las solicitudes de acceso a la información pública:
+a) Cuando la información solicitada contuviera datos personales que revelen la ideología,
+afiliación sindical, religión o creencias.
+b) Cuando la información solicitada suponga un perjuicio para la seguridad nacional.
+c) Cuando para la divulgación de la información solicitada sea necesaria una acción previa de
+reelaboración.
+d) Cuando la información solicitada perjudique la garantía de la confidencialidad o el secreto
+requerido en procesos de toma de decisión.
+16. La Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado establece que los
+principios de garantía de la libertad de establecimiento y la libertad de circulación son:
+a) No discriminación, cooperación y confianza mutua, necesidad y proporcionalidad de la
+actuación de las autoridades competentes, eficacia de la actuación de las autoridades
+competentes en todo el territorio nacional, simplificación de cargas, transparencia y garantía de
+las libertades de los operadores económicos.
+b) No discriminación, cooperación y confianza mutua, necesidad y proporcionalidad de la
+actuación de las autoridades competentes, simplificación de cargas, transparencia y garantía
+de las libertades de los operadores económicos.
+c) No discriminación, cooperación y confianza mutua, eficacia de la actuación de las autoridades
+competentes en todo el territorio nacional, simplificación de cargas, transparencia y garantía de
+las libertades de los operadores económicos.
+d) No discriminación, cooperación y confianza mutua, necesidad y proporcionalidad de la
+actuación de las autoridades competentes, eficacia de la actuación de las autoridades
+competentes en todo el territorio nacional, simplificación de cargas y transparencia.
+17. El artículo 72 i) de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos
+Personales y garantía de los derechos digitales califica "La vulneración del deber de
+confidencialidad establecido en el artículo 5 de esta ley orgánica" como infracción muy
+grave. De acuerdo con lo previsto en dicha Ley, ¿en qué plazo prescribirá la citada
+infracción?:
+a) Cinco años.
+b) Tres años.
+c) Dos años.
+d) Un año.
+18. Según el artículo 85 de la Constitución Española, las disposiciones del Gobierno que
+contengan legislación delegada toman la forma de:
+a) Decretos-Leyes.
+b) Decretos Legislativos.
+c) Leyes Ordinarias.
+d) Reglamentos.
+19. De acuerdo con la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, cuál
+de los siguientes requisitos NO es un requisito necesario para la creación de cualquier
+órgano administrativo:
+a) Dotación de los créditos necesarios para su puesta en marcha y funcionamiento.
+b) Determinación de las instrucciones y órdenes de servicio con las que el órgano administrativo
+dirigirá las actividades de sus órganos jerárquicamente dependientes.
+c) Determinación de su forma de integración en la Administración Pública de que se trate y su
+dependencia jerárquica.
+d) Delimitación de sus funciones y competencias.
+20. De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de
+las Administraciones Públicas, el recurso extraordinario de revisión se interpondrá:
+a) Ante el órgano que dictó el acto que se impugna, que también será el competente para su
+resolución.
+b) Ante el órgano que dictó el acto que se impugna o ante el órgano superior jerárquico del que lo
+dictó, siendo este último el competente para su resolución.
+c) Ante el órgano superior jerárquico del órgano que dictó el acto que se impugna, siendo el
+primero el competente para su resolución.
+d) Ante el órgano superior jerárquico del órgano que dictó el acto que se impugna, siendo este
+último el competente para su resolución.
+21. En los procedimientos de Responsabilidad patrimonial, de conformidad con lo establecido
+en el artículo 67 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+de las Administraciones Públicas, en los casos en que proceda reconocer derecho a
+indemnización por anulación en vía administrativa o contencioso-administrativa de un acto o
+disposición de carácter general, el derecho a reclamar prescribirá:
+a) Al año de haberse notificado la resolución administrativa o la sentencia definitiva.
+b) A los dos años de haberse notificado la resolución administrativa o la sentencia definitiva.
+c) Al mes de haberse notificado la resolución administrativa o la sentencia definitiva.
+d) A los seis meses de haberse notificado la resolución administrativa o la sentencia definitiva.
+22. Señale la respuesta CORRECTA en relación la modificación de los contratos de las AA.PP
+prevista en el art. 204 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público:
+a) Los pliegos de cláusulas administrativas particulares deben advertir expresamente la
+posibilidad de modificación y el importe de esta no podrá superar el veinte por ciento del precio
+inicial del contrato.
+b) Los pliegos de cláusulas administrativas particulares deben advertir expresamente la
+posibilidad de modificación y el importe de esta no podrá superar el treinta por ciento del precio
+inicial del contrato.
+c) En el supuesto de que los pliegos no prevean expresamente la posibilidad de modificación, el
+importe de la modificación no podrá superar el quince por ciento del precio inicial del contrato.
+d) En el supuesto de que los pliegos no prevean expresamente la posibilidad de modificación, el
+importe de la modificación no podrá superar el diez por ciento del precio inicial del contrato.
+23. De acuerdo con lo previsto en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector
+Público, los contratos de adquisición de programas de ordenador desarrollados a medida,
+tramitados por los órganos de contratación de la Administración General del Estado, se
+consideran:
+a) Contratos de suministros.
+b) Contratos Mixtos, de servicios y suministros, en los que prima la prestación correspondiente al
+suministro.
+c) Contratos privados.
+d) Contratos de Servicios.
+24. De conformidad con lo establecido en la Ley 47/2003, de 26 de noviembre, General
+Presupuestaria, las modificaciones presupuestarias que incrementen los créditos como
+consecuencia de la realización de determinados ingresos no previstos o superiores a los
+contemplados en el presupuesto inicial se denominan:
+a) Ampliaciones de crédito.
+b) Créditos extraordinarios.
+c) Generaciones de crédito.
+d) Créditos ampliables.
+25. De acuerdo con lo previsto en la Ley Orgánica 2/1982, de 12 de mayo, del Tribunal de
+Cuentas, la competencia para conocer de los recursos de alzada contra las resoluciones
+administrativas dictadas por órganos del Tribunal, recae en:
+a) El pleno del Tribunal de Cuentas.
+b) El presidente del Tribunal de Cuentas.
+c) La sección de Fiscalización del Tribunal de Cuentas.
+d) La sección de enjuiciamiento del Tribunal de Cuentas.
+26. En relacion con la Corona, señale cuál es la afirmación CORRECTA:
+a) Según el artículo 62 de la Constitución Española, corresponde al Rey dirigir la Administración
+MIlitar y el mando supremo de las Fuerzas Armadas.
+b) Según el artículo 62 de la Constitución Española, corresponde al Rey dirigir la defensa del
+Estado y el mando supremo de las Fuerzas y Cuerpos de Seguridad del Estado.
+c) Según el artículo 62 de la Constitución Española, corresponde al Rey ser informado de los
+asuntos de Estado y dirigir la Administración MIlitar.
+d) Según el artículo 62 de la Constitución Española, corresponde ser informado de los asuntos de
+Estado y el mando supremo de las Fuerzas Armadas.
+27. El artículo 32 de la Ley 18/2011, de 5 de julio, reguladora del uso de las tecnologías de la
+información y la comunicación en la Administración de Justicia, establece, a efectos de
+cómputo de plazos:
+a) El inicio del cómputo de los plazos que hayan de cumplir las oficinas judiciales se producirá el
+primer día hábil siguiente al de la presentación de las solicitudes, escritos o documentos en el
+registro electrónico judicial correspondiente.
+b) El inicio del cómputo de los plazos que hayan de cumplir las oficinas judiciales se producirá en
+la primera hora del día siguiente al de la presentación de las solicitudes, escritos o documentos
+en el registro electrónico judicial correspondiente.
+c) El inicio del cómputo de los plazos que hayan de cumplir las oficinas judiciales vendrá
+determinado por la fecha y hora de presentación en el propio registro.
+d) El inicio del cómputo de los plazos que hayan de cumplir las oficinas judiciales vendrá
+determinado por la fecha y hora de presentación en cualquier registro electrónico.
+28. Según el artículo 135.3 de la Constitución Española, deberán estar autorizados por Ley para
+emitir deuda pública o contraer crédito:
+a) El Estado, las Comunidades Autónomas y los Ayuntamientos.
+b) El Estado, las Comunidades Autónomas, los Ayuntamientos y las Entidades Locales Menores.
+c) El Estado y las Comunidades Autónomas.
+d) Solo el Estado puede emitir deuda pública y contraer crédito y no necesita autorización.
+29. Es competencia propia de la Diputación Provincial:
+a) La prestación de los servicios de administración electrónica y la contratación centralizada en los
+municipios con población inferior a 20.000 habitantes.
+b) La prestación de los servicios de administración electrónica y la contratación centralizada en los
+municipios con población superior a 20.000 habitantes.
+c) La prestación de los servicios de administración electrónica y la contratación centralizada en las
+áreas metropolitanas.
+d) La prestación de los servicios de administración electrónica y la contratación centralizada en
+las entidades locales menores.
+30. Los criterios de eficiencia y economía en la programación y ejecución del gasto público se
+recogen en:
+a) El artículo 103.1 de la Constitución Española.
+b) El artículo 31.2 de la Constitución Española.
+c) El Preámbulo de la Constitución Española.
+d) La eficiencia y la economía no son principios constitucionales, por lo que no están recogidos en
+la Constitución Española sino en la legislación de desarrollo.
+31. Asistir a los órganos superiores en materia de planificación de los sistemas de información y
+comunicación es competencia de:
+a) La Secretaría de Estado de Digitalización e Inteligencia Artificial.
+b) La Secretaría General de Administración Digital, con rango de Subsecretaría.
+c) La Subsecretaría del Departamento correspondiente.
+d) La Dirección General de Digitalización e Inteligencia Artificial.
+32. Las Subdirecciones Generales se crean, modifican y suprimen:
+a) Por Real Decreto del Consejo de Ministros, a iniciativa del Ministro interesado y a propuesta del
+Ministro de Hacienda y Administraciones Públicas.
+b) Por Real Decreto del Consejo de Ministros, a propuesta del Ministro interesado y previa
+autorización del Ministro de Administraciones Püblicas.
+c) Por Orden del Ministro interesado, a propuesta del Subsecretario del departamento.
+d) Por Orden del Ministro de Hacienda y Administraciones Públicas, a propuesta del Ministro
+interesado.
+33. Señale qué forma toman las disposiciones legislativas provisionales que puede dictar el
+Gobierno, en caso de extraordinaria y urgente necesidad, y que no pueden afectar al
+ordenamiento de las instituciones básicas del Estado, a los derechos, deberes y libertades
+de los ciudadanos regulados en el Título I, al régimen de las Comunidades Autónomas ni al
+Derecho electoral general, conforme al artículo 86 de la Constitución Española:
+a) Decreto- Ley.
+b) Decreto Legislativo.
+c) Ley Ordinaria.
+d) Reglamento.

@@ -1,24 +1,20 @@
-# inaplazable
-Aid for Spanish Public Employment INAP candidates.
+# empleo_publico_es
+Aid for Spanish Public Employment candidates.
 
-Ayuda para candidatos al INAP de empleo público español.
+Ayuda para candidatos al empleo público en las Administraciones Públicas (AAPP) de España.
+
+## Resumen
+
+El repositorio incluye:
+
+1. Documentación original de convocatorias de empleo en la ruta /data/raw
+2. Datos de convocatorias procesados en formatos procesables (texto plano, ficheros semiestructurados como XML, tablas, etc.) en la ruta /data/processed
+3. Aplicaciones para generar o transformar datos procesados a partir de los PDFs o para preparar los ejercicios en la ruta /src
 
 ## Aplicaciones
 
-### Inaplazable Test CLI
+El código fuente de las aplicaciones se encuentra en la ruta /src
 
-Programa de línea de comando que ayuda a poner a prueba conocimientos sobre los test de INAP.
+### Quiz CLI
 
-Prerrequisitos:
-
-Tener instalado Node.js y el paquete de Node.js csv-parser.
-
-Instalación en Linux:
-
-sudo apt install node
-npm csv-parser
-
-
-Para ejecutarlo:
-
-node inaplazable_test_cli.js
+**Quiz CLI** es una aplicación para terminal para realizar preguntas de cuestionario.
