@@ -33,8 +33,7 @@ C) Para sistemas que se hayan categorizado según ENS como de categoría básica
 D) Para la firma de documentos electrónicos que no estén incluidos en los supuestos establecidos en el art 11.2 de la ley 39/2015.
 ANSWER: A
 
-6. El más conocido de los "Algoritmos de diccionario adaptables" se emplea en varios de los formatos de fichero de imágenes más habituales como GIF, TIFF o PDF. Indique la respuesta
-CORRECTA:
+6. El más conocido de los "Algoritmos de diccionario adaptables" se emplea en varios de los formatos de fichero de imágenes más habituales como GIF, TIFF o PDF. Indique la respuesta CORRECTA:
 A) Run Length Encoding.
 B) TDC.
 C) Lempel-Ziv Welch.
@@ -266,7 +265,6 @@ B) USB.
 C) PCI Express.
 D) EISA.
 ANSWER: A
-ANULADA
 
 39. ¿Cuál de los siguientes NO se considera un principio guía de las arquitecturas SOA?:
 A) Seguridad.
@@ -366,7 +364,6 @@ B) AC MWS.
 C) SUN ONE.
 D) ISAS.
 ANSWER: D
-ANULADA
 
 53. ¿Cuál es un resultado común del uso de la técnica PERT (Técnica de Evaluación y Revisión de Programas) en la estimación de esfuerzo?:
 A) Determinación precisa de los costos del proyecto.
@@ -473,7 +470,6 @@ B) STP - Cable con cada uno de los pares están aislados con cobertura de malla 
 C) FTP - cable UTP en el que al conjunto de pares se le rodea por una cubierta o lámina de aluminio.
 D) BS/UTP - cable UTP en el que al conjunto de pares se le rodea de una pantalla global de aluminio y una trenza de cobre recubriéndola.
 ANSWER: B
-ANULADA
 
 68. ¿Cuál de las siguientes no es un principio de diseño de una Estructura de Descomposición del Trabajo (EDT)?:
 A) Elemento terminal.
@@ -602,8 +598,7 @@ C) Artículo 20.
 D) Artículo 21.
 ANSWER: B
 
-86. En el campo del aprendizaje automático o "Machine Learning", indique la respuesta CORRECTA
-respecto a las técnicas de aprendizaje por refuerzo:
+86. En el campo del aprendizaje automático o "Machine Learning", indique la respuesta CORRECTA respecto a las técnicas de aprendizaje por refuerzo:
 A) Para este tipo de aprendizaje, se utilizan conjuntos de datos etiquetados y no etiquetados, con el fin de reducir el coste de obtención de los conjuntos de datos iniciales.
 B) El aprendizaje se basa en la interacción del agente con un entorno en el que el agente realiza acciones por las que obtiene recompensas o penalizaciones en base a las cuales aprende la estrategia más adecuada.
 C) Requieren de conjuntos de datos históricos mayores que los necesarios para el resto de técnicas de aprendizaje.
@@ -644,7 +639,6 @@ B) Crear contenidos.
 C) Recopilar contenidos.
 D) Conectar contenidos.
 ANSWER: C
-ANULADA
 
 92. En los sistema de información geográfica, ¿cuál es la característica más importante del modelo de datos vectorial frente al ráster?:
 A) Que tiene su origen en las técnicas de teledetección, a diferencia del modelo de datos ráster.
@@ -666,7 +660,6 @@ B) Sólo almacena datos geográficos y descripciones a nivel urbano, pero no a n
 C) Es un sistema de información geográfica que almacena cartografía vectorial y al que se puede acceder a través de la Oficina Virtual del Catastro.
 D) No almacena cartografía vectorial.
 ANSWER: C
-ANULADA
 
 95. Un data lake o lago de datos es un repositorio centralizado que permite almacenar, compartir, gobernar y descubrir todos los datos estructurados y no estructurados de una organización a cualquier escala. ¿Cuál de las siguientes opciones corresponden a componentes asociados a un Data Lake?:
 A) Extracción, almacenamiento y diseño de los datos.
@@ -675,8 +668,7 @@ C) Transformación, almacenamiento y seguridad de los datos.
 D) Carga, almacenamiento y distribución de los datos.
 ANSWER: B
 
-96. En el contexto de los vocabularios y ontologías, "http://www.w3.org/ns/dcat#" y "dcat" representan
-respectivamente:
+96. En el contexto de los vocabularios y ontologías, "http://www.w3.org/ns/dcat#" y "dcat" representan respectivamente:
 A) La URL del W3C y su dirección corta.
 B) La URL del Marco de Descripción de Recursos (RDF) y su alias.
 C) El prefijo del vocabulario DCAT y su espacio de nombres.
@@ -690,8 +682,7 @@ C) Identificar los recursos de información, enumerar los conjuntos de datos, y 
 D) Identificar los recursos de información, describir los metadatos asociados a los datos y representar la información en el formato adecuado.
 ANSWER: B
 
-98. ¿Qué ley establece la obligatoriedad del uso de la factura electrónica en el marco de la contratación
-con el sector público estatal?:
+98. ¿Qué ley establece la obligatoriedad del uso de la factura electrónica en el marco de la contratación con el sector público estatal?:
 A) Ley 34/2002, de servicios de la sociedad de la información y comercio electrónico.
 B) Ley 56/2007, de medidas de impulso de la sociedad de la información.
 C) Ley 9/2014, general de telecomunicaciones.
@@ -720,8 +711,7 @@ D) Ninguna de las afirmaciones anteriores.
 ANSWER: C
 
 102. En el caso de que en el interior de un edificio sea imposible acceder al mismo y a cada una de las viviendas mediante fibra óptica, ¿cómo se podría suministrar una conexión simétrica de hasta 100Mbps?:
-A) Mediante una arquitectura HFC: FTTC/FTTCab + estándar DOCSIS3.0 con cable coaxial hasta el
-usuario.
+A) Mediante una arquitectura HFC: FTTC/FTTCab + estándar DOCSIS3.0 con cable coaxial hasta el usuario.
 B) FTTH.
 C) Mediante una arquitectura mixta: FTTC/FTTCab + ADSL hasta el usuario.
 D) Todas las opciones son correctas.
@@ -733,7 +723,6 @@ B) Secreto perfecto.
 C) Aleatoriedad.
 D) Pseudoaleatoriedad.
 ANSWER: D
-ANULADA
 
 104. La Guía de Evaluación del Gobierno, Gestión y Gestión de la Calidad del Dato se realiza en base a la definición dada para esos procesos en las especificaciones:
 A) ISO/IEC 330078, ISO/IEC 330079, ISO/IEC 330080.

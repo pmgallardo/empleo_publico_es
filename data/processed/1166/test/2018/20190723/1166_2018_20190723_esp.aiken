@@ -1,0 +1,731 @@
+1. En el entorno de Computación Masiva Paralela la ley que establece que cualquier problema suficientemente grande puede ser eficientemente paralelizado se denomina:
+a. Ley de Wirth.
+b. Ley de Moore.
+c. Ley de Metcalfe.
+d. Ley de Gustafson.
+ANSWER: D
+
+2. El programa que conecta el firmware de un PC con su sistema operativo, permite un menú gráfico de configuración y que el ordenador arranque desde un disco duro con 6 particiones se llama:
+a. MBR (Master Boot Record).
+b. GPT (GUID Partition Table).
+c. BIOS (Basic Input/Output System).
+d. UEFI (Unified Extensible Firmware Interface).
+ANSWER: D
+
+3. Para el establecimiento de una conexión con baja latencia entre el CPD de un Ministerio y la nube de Amazon usaría:
+a. Una VPN IP.
+b. AWS Direct Connect.
+c. Una conexión al punto neutro proporcionado por la SGAD.
+d. Un proveedor de comunicaciones (ISP) con acuerdos con Amazon.
+ANSWER: D
+
+4. El concepto de "almacenamiento híbrido" se refiere a:
+a. Una NAS con datos en la nube pública y en CPDs propios.
+b. Cabinas con discos SAS y SSD.
+c. Discos duros SAS con una pequeña cache SSD.
+d. Todos los anteriores.
+ANSWER: D
+
+5. En Inteligencia Artificial Distribuida cuál de los siguientes lenguajes se emplea para comunicaciones entre agentes:
+a. KQML.
+b. QML.
+c. HTML.
+d. SML.
+ANSWER: A
+
+6. Dada una red neuronal constituida por un perceptrón unicapa, cuál de estos métodos NO es empleado para su entrenamiento:
+a. Aprendizaje por refuerzo.
+b. Aprendizaje supervisado.
+c. Aprendizaje no supervisado.
+d. Aprendizaje significativo.
+ANSWER: D
+
+7. ¿Cuál de estos sistemas NO se pude considerar incluido dentro de un paquete de CRM?:
+a. Automatización de fuerza de ventas.
+b. Sistemas de televentas mediante sistemas de difusión masiva.
+c. Sistemas de gestión de “call centers”.
+d. Sistemas de integración telefonía-computador.
+ANSWER: B
+
+8. En el contexto de ERP, se denomina reingeniería de procesos a:
+a. La modificación de alguno de los procesos de una empresa para ajustarlos al sistema ERP.
+b. La modificación de algún módulo del ERP para ajustarlo a los procesos de la empresa.
+c. La obtención de modelos a partir de los procesos del sistema para poder gestionarlos con el ERP.
+d. La adaptación del ERP a las características de los procesos de la empresa.
+ANSWER: A
+
+9. En e-learning se denomina "flipped classroom" a:
+a. Un sistema híbrido de aprendizaje que combina la capacitación presencial (con profesores en un aula) con la educación online (cursos en internet o medios digitales).
+b. Un modo de aprendizaje progresivo, al ritmo de cada usuario, que asimila adecuadamente la información antes de pasar al siguiente módulo del curso.
+c. Un modo de aprendizaje que emplea contenidos e-learning que el usuario puede incorporar a su agenda diaria sin que le reste mucho tiempo.
+d. Un modelo pedagógico que transforma procesos que habitualmente estaban vinculados al aula transfiriéndolos al contexto extraescolar.
+ANSWER: D
+
+10. La criptografía asimétrica es un método criptográfico para el envío de mensajes que usa:
+a. Un par de claves privadas correspondientes a las entidades que se comunican y que solamente conocen ellos, el remitente y destinatario y que usan ambos para lograr descifrar los mensajes que se intercambian.
+b. Una clave que se intercambian alternativamente entre los interlocutores para salvaguardar la información que se intercambian. Esta clave cambia nuevamente con cada nueva sesión y tiene una longitud de caracteres suficiente para evitar el apropiamiento indebido.
+c. Una clave tanto para cifrar como para descifrar mensajes. Las dos partes que se comunican entre sí han de ponerse de acuerdo de antemano sobre la clave a usar. El remitente cifra un mensaje usando la clave y el destinatario lo descifra con esta misma clave.
+d. Un par de claves relacionadas entre sí y que pertenecen a la misma persona: una clave pública que se puede entregar a cualquiera o publicarla en algún sitio y una clave privada que el propietario debe guardar de modo que nadie tenga acceso a ella.
+ANSWER: D
+
+11. En el despliegue continuo de un servicio web online, el patrón consistente en publicar una nueva versión en un conjunto diferenciado de servidores y dirigir allí a un porcentaje reducido de usuarios, mientras la versión y servidores previos dan servicio, se conoce como:
+a. Versión/prueba canario (Canary release/test).
+b. Versión/prueba beta (Beta release/test).
+c. Versión candidata (RC, Release Candidate).
+d. Versión avance (Preview release).
+ANSWER: A
+
+12. NO es una tecnología básica en la comunicación de los sistemas IoT:
+a. IEEE 802.11.
+b. LonWorks.
+c. Bluetooth v5.0.
+d. 802.15.4.
+ANSWER: B
+
+13. Al conjunto de infraestructuras de comunicaciones y servicios básicos que conecta todas las redes de la AGE y sus OO.PP se denomina:
+a. TESTA.
+b. SARA.
+c. s-TESTA.
+d. TESTA – NG.
+ANSWER: B
+
+14. En relación a los siguientes estándares sobre el software, ¿cuál de las siguientes afirmaciones es CORRECTA?
+a. ISO/IEC 12207 es un estándar para la evaluación de la calidad del software.
+b. IEEE 1219 es un estándar para los procesos de ciclo de vida del software.
+c. ISO/IEC 14764 es un estándar de mantenimiento software.
+d. ISO/IEC 9126 es un estándar de mantenimiento software.
+ANSWER: C
+
+15. En ITIL v3, el subgrupo del Comité de Cambios que toma decisiones relacionadas con cambios de emergencia cuyo impacto es significativo se denomina:
+a. Consejo Consultor para Cambios (CAB).
+b. Consejo Consultor para Cambios de Emergencia (ECAB).
+c. Consejo Consultor para Cambios de Emergencia Significativos (SECAB).
+d. Consejo Consultor para Cambios de Emergencia con Impacto (IECB).
+ANSWER: B
+
+16. En el Proceso de Mantenimiento de Sistemas de Información de Métrica v3, señale la respuesta
+CORRECTA:
+a. Los mantenimientos correctivo y adaptativo quedan dentro del ámbito de Métrica v3.
+b. Los mantenimientos correctivo y evolutivo quedan fuera del ámbito de Métrica v3.
+c. Sólo se definen los mantenimientos correctivo y evolutivo que son los que quedan dentro del ámbito de Métrica v3.
+d. Los mantenimientos adaptativo y perfectivo quedan fuera del ámbito de MÉTRICA v3, ya que requieren actividades y perfiles distintos de los del proceso de desarrollo.
+ANSWER: D
+
+17. El esquema lógico REDER definido en el modelo EFQM consta de cuatro elementos:
+a. Resultados-Enfoque-Despliegue-Evaluación y Revisión.
+b. Resultados-Estrategia-Despliegue-Evaluación y Revisión.
+c. Resultados clave -Estrategia-Despliegue-Evaluación y Revisión.
+d. Resultados-Enfoque-Despliegue-Eliminación y Reposición.
+ANSWER: A
+
+18. Real Decreto por el que se establece el marco general para la mejora de la calidad en la Administración General del Estado:
+a. Real Decreto 806/2014.
+b. Real Decreto 951/2005.
+c. Ley 28/2006.
+d. Real Decreto 769/2017.
+ANSWER: B
+
+19. Indique cuál de los siguientes requisitos es necesario para que un documento electrónico administrativo sea considerado válido según el artículo 26.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas:
+a. Disponer de los datos de identificación que permitan su individualización, no siendo necesaria su incorporación a un expediente electrónico.
+b. Incorporar una referencia temporal del momento en que han sido emitidos.
+c. Contener información de cualquier naturaleza archivada en cualquier soporte electrónico.
+d. Incorporar firma electrónica a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento.
+ANSWER: D
+
+20. De acuerdo con el artículo 21 del Real Decreto 4/2010, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica, las medidas organizativas y técnicas adoptadas por las Administraciones Públicas con el fin de garantizar la interoperabilidad en relación con la recuperación y conservación de los documentos electrónicos a lo largo de su ciclo de vida incluirán:
+a. La definición de una política de gestión de documentos en cuanto a su tratamiento, de acuerdo con la Norma Tecnica de Interoperabilidad de Política de Gestión de Documentos electrónicos.
+b. El período de conservación de los documentos, establecido por las comisiones calificadoras que correspondan, de acuerdo con la legislación en vigor, las normas administrativas y obligaciones jurídicas que resulten de aplicación en cada caso.
+c. La asociación de los metadatos mínimos y complementarios obligatorios asociados al documento electrónico a lo largo de su ciclo de vida, e incorporación al esquema de metadatos.
+d. Transferencia, en su caso, de los expedientes entre los diferentes repositorios electrónicos a efectos de conservación, de acuerdo con lo establecido en la legislación en materia de Archivos, de manera que se pueda asegurar su conservación, y su recuperación a corto plazo.
+ANSWER: B
+
+21. Indique cuál de las siguientes opciones corresponde a un modelo o técnica de recuperación de la información:
+a. Modelo vectorial.
+b. Modelo conceptual.
+c. Modelo de Borh.
+d. Modelo empírico.
+ANSWER: A
+
+22. Cuál de los siguientes procesos pertenece a la fase Diseño de Servicio definida en ITIL v3:
+a. Gestión de Accesos.
+b. Gestion del catálogo de servicios.
+c. Gestión de la Demanda.
+d. Gestión de la cartera de servicios.
+ANSWER: B
+
+23. A qué banda de radiofrecuencia corresponde una señal de 3 mm de longitud de onda:
+a. Ultra high frequency (UHF).
+b. Super high frequency (SHF).
+c. Extremely high frequency (EHF).
+d. Tremendously high frequency (THF).
+ANSWER: C
+
+24. Sobre la gestión de dominios, señale la respuesta INCORRECTA:
+a. Los dominios con el indicativo ".gob.es" están reservados a las Administraciones Públicas españolas y a las entidades de Derecho Público dependientes de ella.
+b. Un colectivo sin personalidad jurídica que goce de reconocimiento oficial y realice actividades relacionadas con la investigación en España, puede obtener un dominio ".edu.es".
+c. Una empresa que quiera dirigir total o parcialmente sus servicios al mercado español podrá obtener un dominio ".es".
+d. El registro del dominio ".edu.es" es gratuito.
+ANSWER: D
+
+25. En el ecosistema de productos informáticos de Apple Inc., Cocoa es:
+a. Un framework de interfaz de usuario (UI) para construir programas para iOS.
+b. Un framework que permite el desarrollo de aplicaciones nativas para MacOS X.
+c. El IDE (Entorno Integrado de Desarrollo) para MacOS e iOS.
+d. El lenguaje de programación desarrollado por Apple para iOS y MacOS.
+ANSWER: B
+
+26. Señale la respuesta INCORRECTA en relación con las comunicaciones ópticas:
+a. En comunicaciones a larga distancia se utilizan diodos láser y fibra óptica monomodo.
+b. La fibra multimodo de índice escalonado mejora el ancho de banda frente a la fibra multimodo de índice gradual.
+c. En la fibra óptica de vidrio, las ventanas de menor atenuación se encuentran situadas alrededor de los 850, 1310 y 1550 nm.
+d. La dispersión modal en la fibra óptica ocasiona una reducción del ancho de banda utilizable.
+ANSWER: B
+
+27. En el modelo OSI, ¿cuál es la primitiva empleada por el usuario de un servicio en destino para reconocer o completar algún procedimiento previamente iniciado por una indicación del proveedor del servicio?:
+a. RESPONSE
+b. INDICATION
+c. CONFIRM
+d. REQUEST
+ANSWER: A
+
+28. En el contexto de las tecnologías WDM (Wavelength Division Multiplexing), señale la respuesta INCORRECTA:
+a. En general, DWDM tiene un coste mayor que CWDM.
+b. CWDM está orientado, principalmente, a áreas metropolitanas y empresariales de corta distancia.
+c. En CWDM, se necesitan filtros muy precisos para separar longitudes de onda determinadas sin interferir con las longitudes adyacentes.
+d. DWDM permite aumentar su capacidad sin realizar modificaciones en el tendido de fibra.
+ANSWER: C
+
+29. Cómo se conoce la característica del estándar NAT que traduce conexiones TCP y UDP hechas por un host y un puerto en una red externa a otra dirección y puerto de la red interna y que permite que una sola dirección IP sea utilizada por varias máquinas de una intranet:
+a. NAPT.
+b. NAT estático.
+c. NAT 1:1.
+d. NAT M:N.
+ANSWER: A
+
+30. De los siguientes, cuál es un protocolo diseñado para suministrar un marco de trabajo que ofrezca servicios AAA (Authentication, Authorization, Accounting) para aplicaciones que involucran acceso a redes o aplicaciones IP móvil:
+a. DIAMETER.
+b. ENUM.
+c. RTCP.
+d. H.323.
+ANSWER: A
+
+31. Según la Guía de Seguridad CCN-STIC-408, a las pruebas de auditoria para comprobar la correcta aplicación y configuración de contramedidas de seguridad en los dispositivos de información y comunicaciones, para alertar de posibles desviaciones detectadas, se les llama:
+a. Pruebas de regresión.
+b. Pruebas de trampa (honeypot).
+c. Pruebas de penetración o (pentesting).
+d. Pruebas de forense.
+ANSWER: C
+
+32. En el ámbito de la ciberseguridad, OWASP es:
+a. El Proyecto Abierto de Seguridad en Acceso WIFI, que publica el documento "OWASP TOP-10" con los diez riesgos más críticos en el acceso a través de red inalámbrica. b. El Protocolo Abierto de Seguridad en Aplicaciones Web. Una especificación abierta que permite que las organizaciones desarrollen sus aplicaciones de forma interoperable y confiable con otras organizaciones.
+c. El Proyecto Online de Seguridad en Aplicaciones Web. Una plataforma que permite concienciar a las organizaciones sobre los riesgos de desarrollar, adquirir y mantener aplicaciones que estén en Internet.
+d. El Proyecto Abierto de Seguridad en Aplicaciones Web. Una comunidad abierta dedicada a permitir que las organizaciones desarrollen, adquieran y mantengan aplicaciones y APIs en las que se pueda confiar.
+ANSWER: D
+
+33. Señale la respuesta FALSA. Según la Guía de Seguridad CCN-STIC-812 (Seguridad en entornos y aplicaciones web), entre las recomendaciones generales para un desarrollo seguro del software de aplicaciones web se encuentra:
+a. De forma general, se recomienda el uso del método POST de HTTP sólo para la consulta de información, y el método GET para el intercambio y envío de información por parte de los clientes Web a la aplicación Web.
+b. Las cabeceras HTTP pueden ser manipuladas fácilmente por un atacante y no deben emplearse como método de validación o de envío de información.
+c. El almacenamiento de información sensible, tanto propia de la lógica de la aplicación como las credenciales de acceso, debe de almacenarse cifrada en todos los servidores, y especialmente en el de base de datos.
+d. Todos los mecanismos de interacción entre los distintos componentes del entorno Web (servidor Web, de aplicación y base de datos) deben realizarse de forma segura.
+ANSWER: A
+
+34. En la Estrategia Nacional de Ciberseguridad 2019, entre las medidas incluidas en la Línea de Acción 7: Desarrollar una cultura de ciberseguridad, NO se incluye:
+a. Impulsar iniciativas y planes de alfabetización digital en ciberseguridad.
+b. Impulsar un sistema en favor de una información veraz y de calidad y que permita bloquear las noticias falsas y la desinformación.
+c. Promover la concienciación y formación en ciberseguridad en los centros de enseñanza, adaptada a todos los niveles formativos y especialidades.
+d. Potenciar actuaciones encaminadas al incremento de la corresponsabilidad y obligaciones de la sociedad en la ciberseguridad nacional.
+ANSWER: B
+
+35. De acuerdo con el artículo 70 de la Ley 9/2014, General de Telecomunicaciones, entre las funciones de la Comisión Nacional de los Mercados y la Competencia, le corresponde:
+a. Realizar únicamente las funciones atribuidas de manera expresa por la normativa.
+b. La elaboración de proyectos y el desarrollo de los planes técnicos nacionales de radiodifusión y televisión.
+c. Identificar el operador u operadores que poseen un poder significativo en el mercado cuando del análisis de los mercados de referencia se constate que no se desarrollan en un entorno de competencia efectiva.
+d. Gestionar el Registro de Operadores.
+ANSWER: C
+
+36. CIRCABC es:
+a. El Servicio Común de Reuniones Virtuales de la Red SARA, que ofrece herramientas colaborativas, a todas las Administraciones Públicas, con el fin de rentabilizar el trabajo en equipo, contribuir a disminuir el gasto en las Administraciones Públicas y evitar los desplazamientos.
+b. Una herramienta de trabajo en grupo basada en tecnologías de Internet y en software de fuentes abiertas desarrollada por el Programa ISA de la Comisión de la Comunidad Europea y dirigido a necesidades de las Administraciones Públicas.
+c. La Base de Conocimiento que tiene como objeto difundir los servicios comunes, infraestructuras y otras soluciones que se ponen a disposición de las Administraciones Públicas para contribuir a impulsar el desarrollo de la Administración Digital y mejora
+d. El motor utilizado por el Observatorio de Accesibilidad Web para realizar las iteraciones periódicas del Observatorio y ofrecer el servicio de diagnóstico en línea para las Administraciones Públicas.
+ANSWER: B
+
+37. Según el Plan de Transformación Digital de la Administración General del Estado y sus Organismos Públicos, ¿que línea de acción contiene medidas que contribuirían a favorecer el teletrabajo?
+a. Proveer servicios públicos digitales adaptados a las nuevas tecnologías.
+b. Desarrollar el puesto de trabajo digital.
+c. Transformar los procesos de gestión internos de las unidades administrativas en electrónicos.
+d. Promover la innovación en la prestación de servicios.
+ANSWER: B
+
+38. En relación a SAML (Security Assertion Markup Language), señale la respuesta INCORRECTA:
+a. Para la identificación del ciudadano, el modelo de federación de identidades de Cl@ve se basa en el estándar SAML 2.0.
+b. Para facilitar la integración de aplicaciones y herramientas, el servicio común AutenticA incorpora SAML 2.0 a sus opciones de integración.
+c. La especificación SAML define la estructura y el contenido de elementos como las aserciones, protocolos y perfiles.
+d. Para proveer autenticación y confidencialidad, SAML no está diseñado para integrarse con XML Signature ni XML Encryption.
+ANSWER: D
+
+39. Según la Guía de comunicación digital de la Administración del Estado, el encargado de crear y mantener la estructura del árbol de navegación será el:
+a. Administrador de contenidos.
+b. Publicador de contenidos.
+c. Gestor de contenidos.
+d. Administrador de Sistemas.
+ANSWER: A
+
+40. Cuál de los siguientes NO es un fascículo de la Guía de comunicación digital de la Administración del Estado:
+a. Multilingüismo.
+b. Accesibilidad.
+c. Interoperabilidad.
+d. Seguridad.
+ANSWER: C
+
+41. Dentro de la Sociedad de la Información y del Conocimiento aparece la relación entre los conceptos "Datos, Información, Conocimiento y Sabiduria", ¿cuál de las siguientes transiciones entre dichos conceptos NO es correcta?
+a. La comprensión de la Información genera Sabiduría.
+b. El análisis de los Datos genera Información.
+c. La experiencia sobre la Información genera Conocimiento.
+d. Ninguna de las anteriores.
+ANSWER: A
+
+42. La implantación de las nuevas tecnologías en las relaciones administrativas permite ofrecer información puntual, ágil y actualizada. De acuerdo con el artículo 53 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, indique cuál de las siguientes opciones constituye un derecho del interesado en el procedimiento administrativo:
+a. A presentar documentos originales salvo que, de manera excepcional, la normativa reguladora aplicable establezca lo contrario.
+b. A no presentar datos y documentos no exigidos por las normas aplicables al procedimiento de que se trate, que ya se encuentren en poder de las Administraciones Públicas o que hayan sido elaborados por éstas.
+c. A no presentar datos y documentos que ya se encuentren en poder de las Administraciones Públicas o que hayan sido elaborados por éstas.
+d. Al acceso a la información pública, archivos y registros, de acuerdo con lo previsto en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno y el resto del Ordenamiento Jurídico.
+ANSWER: B
+
+43. De acuerdo a lo indicado en el Real Decreto 806/2014 sobre los Planes de Acción departamentales para la Administración Digital, ¿cuál de las siguientes afirmaciones es INCORRECTA?
+a. Comprenderán las actuaciones en materia de Administración digital, tecnologías de la información y comunicaciones a desarrollar en el conjunto del departamento y sus organismos públicos adscritos.
+b. Se elaborarán de acuerdo con las directrices de la Dirección de Tecnologías de la Información y las Comunicaciones y las líneas estratégicas establecidas por el Comité de Estrategia TIC y recogerá de forma concreta los servicios que el ministerio tiene pr
+c. La propuesta de Plan de Acción departamental se remitirá por el presidente de la CMAD del correspondiente departamento a la Dirección de Tecnologías de la Información y las Comunicaciones para su estudio y valoración.
+d. Requieren el informe preceptivo del Comité ejecutivo de Comisión de Estrategia de Tecnologías de la Información y las Comunicaciones, previo a su aprobación por el Comité de Dirección de Administración Digital.
+ANSWER: D
+
+44. De acuerdo con el Real Decreto 806/2014, sobre organización e instrumentos operativos de las tecnologías de la información y las comunicaciones en la Administración General del Estado y sus Organismos Públicos, se entenderá por provisión de servicios TIC la realización de:
+a. Consultoría informática.
+b. Atención técnica a usuarios.
+c. Administración digital.
+d. Todas las anteriores.
+ANSWER: D
+
+45. Cuál de las siguientes perspectivas está incluida en el Cuadro de Mando Integral desarrollado por Robert Kaplan y David Norton:
+a. Interna y Externa de negocio.
+b. Documentación.
+c. Usuarios.
+d. Financiera.
+ANSWER: D
+
+46. ¿Cuáles son la fases definidas por el Agile Project Management Framework?
+a. Concebir, analizar, explorar, adaptar y cerrar.
+b. Concebir, especular, explorar, adaptar y cerrar.
+c. Concebir, especular, explorar, adaptar y reiterar.
+d. Ninguna de las anteriores.
+ANSWER: B
+
+47. ¿Cuál de las siguientes opciones NO corresponde a uno de los lotes en los que se dividió la Fase I del Servicio Unificado de Telecomunicaciones?
+a. Internet.
+b. Comunicaciones vía satélite.
+c. Red Corporativa Nacional Multiservicio y servicio de telefonía fija.
+d. Comunicaciones Móviles.
+ANSWER: B
+
+48. ¿Cuál de las siguientes soluciones de Administración Electrónica NO está puesta a disposición de las Administraciones Públicas en modo nube?
+a. NEDAES (Nómina Estándar de la Administración del Estado).
+b. GEISER (Gestión Integrada de Servicios de Registro).
+c. TRAMA (Gestión de vacaciones, permisos e incidencias).
+d. Cl@ve.
+ANSWER: A
+
+49. Norma ISO relacionada con el sistema de gestión de la seguridad de la información:
+a. ISO/IEC 19770.
+b. ISO 9000.
+c. ISO/IEC 27001.
+d. ISO 38500.
+ANSWER: C
+
+50. Según el artículo 98 del Real Decreto Legislativo 1/1996, por el que se aprueba el texto refundido de la Ley de Propiedad Intelectual, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la materia, la duración de los derechos de explotación de un programa de ordenador cuando el autor sea una persona jurídica será de:
+a. Setenta años, computados desde el día siguiente al de la divulgación lícita del programa o al de su creación si no se hubiera divulgado.
+b. Setenta años, computados desde el día 1 de enero del año siguiente al de la divulgación lícita del programa o al de su creación si no se hubiera divulgado.
+c. Cincuenta años, computados desde el día siguiente al de la divulgación lícita del programa o al de su creación si no se hubiera divulgado.
+d. Cincuenta años, computados desde el día siguiente al de la divulgación lícita del programa o al de su creación si no se hubiera divulgado.
+ANSWER: B
+
+51. ¿Para cuál de los siguientes conceptos NO se desarrolla una Norma Técnica de Interoperabilidad?
+a. Documento electrónico.
+b. Digitalización de documentos.
+c. Expediente electrónico.
+d. Series documentales.
+ANSWER: D
+
+52. Según el Anexo I de la Norma técnica de Interoperabilidad del Expediente Electrónico, ¿cuál de los siguientes metadatos es incorrecto?
+a. Versión NTI.
+b. Fecha Apertura Expediente.
+c. Esquema de valores normalizados según el Sistema de Información Administrativa.
+d. Interesado.
+ANSWER: C
+
+53. En relación con la recuperación de desastres, ¿a qué se refiere el término tolerancia a desastre?:
+a. Es el nivel de servicios a proveer durante el modo de proceso alterno hasta que se restaure la situación normal.
+b. Es la brecha de tiempo en la cual el negocio puede aceptar indisponibilidad de los servicios de Tecnologías de la Información.
+c. Es el plan que organiza la reanudación de los procesos de negocio de la organización que se hayan visto afectados por un fallo o incidente.
+d. Es el tiempo máximo que la organización puede soportar procesar en modo alterno.
+ANSWER: B
+
+54. En qué supuesto será el mirroring o la duplicación de datos la estrategia de recuperación más aconsejable en caso de desastre?
+a. Cuando el SDO (Objetivo de Entrega de Servicio) es inferior al SDO habitual.
+b. Cuando la pérdida de datos es aceptable.
+c. Cuando el RPO (Objetivo de Punto de Recuperación) está en minutos.
+d. Cuando el negocio puede aceptar indisponibilidad de servicios de TI.
+ANSWER: C
+
+55. El artículo 10 del ENS (Esquema Nacional de Seguridad) establece que el responsable de seguridad:
+a. Determinará los requisitos de la información tratada.
+b. Detallará las atribuciones de cada responsable y los mecanismos de coordinación, seguridad y resolución de conflictos.
+c. Determinará los requisitos de los servicios prestados.
+d. Determinará las decisiones para satisfacer los requisitos de seguridad de la información y de los servicios.
+ANSWER: D
+
+56. ¿Cuál de los siguientes pasos será el último en un Proceso de Gestión de Riesgos, según se establece en la Guía de Seguridad de las TIC CCN-STIC 801?
+a. Implementar las medidas de seguridad.
+b. Obtener la autorización para operar.
+c. Monitorizar.
+d. Evaluar la seguridad del sistema de información.
+ANSWER: C
+
+57. ¿Cuál de las siguientes herramientas horizontales desarrolladas por la Administración Pública permite a un ciudadano comprobar que el certificado utilizado es un certificado válido y que no ha sido revocado?
+a. Port@firmas.
+b. VALIDe.
+c. Cl@ve
+d. eVISOR.
+ANSWER: B
+
+58. Indique a qué Plan de la Agenda Digital para España corresponde el Eje "Programa de salud y bienestar social".
+a. Plan de impulso a la economía digital y los contenidos digitales.
+b. Plan de servicios públicos digitales.
+c. Plan de desarrollo e innovación del sector TIC.
+d. Plan de confianza en el ámbito digital.
+ANSWER: B
+
+59. En SQL, los comandos GRANT y REVOKE pertenecen al lenguaje:
+a. DATA COMMAND LANGUAGE.
+b. DATA CONFIGURATION LANGUAGE.
+c. DATA CONSTRAINT LANGUAGE.
+d. DATA CONTROL LANGUAGE.
+ANSWER: D
+
+60. Es una herramienta de gestión de versiones distribuida:
+a. CVS – Concurrent Versions System.
+b. SVN – Subversion.
+c. Git.
+d. Tortoise.
+ANSWER: C
+
+61. En el lenguaje de programación JAVA, ¿qué palabra clave se aplica a un atributo para que sea "no serializable"?:
+a. Transient.
+b. Final.
+c. Static.
+d. Volatile.
+ANSWER: A
+
+62. De acuerdo al Reglamento (UE) 910/2014 sobre identificación electrónica y servicios de confianza (eIDAS), los dispositivos cualificados de creación de firma electrónica:
+a. Podrán alterar los datos que deben firmarse si así lo requiere el proceso.
+b. Impedirán que dichos datos se muestren al firmante antes de firmar.
+c. Garantizarán razonablemente la confidencialidad de los datos de creación de firma electrónica utilizados para la creación de firmas electrónicas.
+d. Podrán aparecer los datos de creación de firma electrónica utilizados para la creación de firma electrónica tantas veces como sea necesario en la práctica.
+ANSWER: C
+
+63. En una aplicación desplegada en la sede electrónica de un organismo público en la que se publiquen actos administrativos que contengan datos personales, se debe tener en cuenta que:
+a. Cuando el afectado carezca de documento nacional de identidad, número de identidad de extranjero, pasaporte o documento equivalente, se identificará al afectado únicamente mediante su nombre y apellidos.
+b. Por norma general, se identificará a los afectados mediante su nombre y apellidos, añadiendo las cuatro últimas cifras numéricas del documento nacional de identidad, número de identidad de extranjero, pasaporte o documento equivalente.
+c. En el caso de notificaciones infructuosas, podrá publicarse el nombre y apellidos del afectado de manera conjunta con el número completo del documento nacional de identidad, número de identidad de extranjero, pasaporte o documento equivalente.
+d. Cuando la publicación se refiera a una pluralidad de afectados, estos deberán ser identificados únicamente mediante su identificador completo de documento nacional de identidad, identidad de extranjero, pasaporte o documento equivalente.
+ANSWER: A
+
+64. En las técnicas OCR se utiliza el algoritmo "distancia de Levenshtein", que consiste en:
+a. Calcular el mínimo número de operaciones (inserción, eliminación o sustitución) para transformar una palabra en otra.
+b. Calcular cuál es la letra más probable que puede ir detrás de otra y elegir la más probable.
+c. Buscar palabras en un diccionario para encontrar la que tiene una definición más parecida.
+d. Analizar el patrón de repetición de las letras de una palabra y buscar la menor distancia al patrón de repetición de la palabra buscada.
+ANSWER: A
+
+65. Señalar cuál de las siguientes afirmaciones supone una dificultad fundamental para la aplicación del modelo en cascada como modelo de ciclo de vida de un sistema de información.
+a. Partir de la suposición, muchas veces no realista, de que el sistema operacional del usuario final será lo suficientemente flexible como para poder incorporar caminos de evolución futuros no planificados con anterioridad.
+b. Depender en exceso de la experiencia en la evaluación de riesgos y la necesidad de una elaboración adicional de los pasos del modelo.
+c. Su énfasis en contar con documentos totalmente elaborados como criterio de terminación de las distintas fases de análisis de requerimientos y diseño.
+d. Las posibilidades de transformación automáticas sólo están disponibles para productos pequeños, aplicados a unas áreas muy limitadas.
+ANSWER: C
+
+66. En relación con la planificación estratégica en las Tecnologías de la Información, las Reglas de decisión para la formulación de una estrategia:
+a. No deberán de realizarse en un lenguaje conciso.
+b. Deberán detallar los requerimientos de los sistemas de información y de las comunicaciones.
+c. Considerarán las Tecnologías de la Información como estrategia y no como táctica.
+d. Incluirán los costes estimados de los proyectos.
+ANSWER: C
+
+67. En UML 2.5, el diagrama de despliegue es de tipo:
+a. Arquitectura.
+b. Interacción
+c. Comportamiento.
+d. Estructura.
+ANSWER: D
+
+68. En programación orientada a objetos, el mecanismo o principio por el que se establecen distintos niveles de visibilidad para los elementos de una clase se llama :
+a. Abstracción.
+b. Encapsulamiento.
+c. Polimorfismo.
+d. Acoplamiento.
+ANSWER: B
+
+69. Es un diagrama UML que presenta una especialización de los diagramas de actividad y donde sus elementos son a su vez otros diagramas de actividad o de interacción:
+a. Diagrama global de interacciones.
+b. Diagrama de tiempo.
+c. Diagrama de comunicación.
+d. Máquina de estados.
+ANSWER: A
+
+70. El patrón de diseño Singleton tiene cómo objetivo:
+a. Que no pueda existir más de una instancia de un determinado tipo de objeto.
+b. Construir un objeto complejo especificando sólo su tipo y contenido.
+c. Asignar nuevas responsabilidades a un objeto dinámicamente.
+d. Clonar nuevos ejemplares copiando de un prototipo.
+ANSWER: A
+
+71. En el modelo iterativo de prototipado:
+a. El código que soporta todas las funcionalidades del sistema es robusto, fiable y flexible.
+b. No pueden añadirse requisitos adicionales una vez terminada la fase de construcción.
+c. El sistema final se construirá a partir de la evolución del prototipo si se usa el prototipado evolutivo.
+d. Evolucionará hasta el sistema real aunque se esté utilizando un prototipo desechable.
+ANSWER: C
+
+72. En la fase de Diseño del Sistema de Información en la metodología MÉTRICA v3, las actividades de Aseguramiento de la Calidad se centran en:
+a. Los Requisitos de Documentación de Usuario e Implantación.
+b. En el Plan de Mantenimiento del Sistema.
+c. En el Código de Componentes y Procedimientos.
+d. En el Catálogo de requisitos.
+ANSWER: A
+
+73. La familia de normas ISO/IEC 25000 es también conocida como:
+a. SPICE.
+b. QMS.
+c. FURPS.
+d. SQUARE.
+ANSWER: D
+
+74. En ITIL v3, a cada uno de los atributos y relaciones que se almacenan en la CMDB y se gestionan con un CMS se denomina:
+a. Artículo/elemento de configuración (Configuration Item, CI).
+b. Registro de configuración.
+c. Snapshot.
+d. Activo de servicio.
+ANSWER: B
+
+75. En Métrica v3, ¿en qué proceso se realizan las actividades de la interfaz de Gestión de Configuración que permiten obtener el Plan de Gestión de Configuración para el sistema de información?
+a. Estudio de Viabilidad del Sistema (EVS).
+b. Análisis del Sistema de Información (ASI).
+c. Diseño del Sistema de Información (DSI).
+d. Construcción del Sistema de Información (CSI).
+ANSWER: A
+
+76. Indique qué información NO se encuentra almacenada en la Zona de Seguridad del DNI-e 3.0:
+a. Datos de filiación del ciudadano.
+b. Imagen de la fotografía.
+c. Imagen de la firma manuscrita.
+d. Claves Diffie-Hellman.
+ANSWER: D
+
+77. Indique las principales dimensiones o características del Big Data:
+a. Viabilidad, valor, voluntariedad y visualización
+b. Volumen, velocidad, variedad y veracidad.
+c. Vectorizacion de los datos, velocidad, valor y veracidad.
+d. Velocidad, virtualización, variedad y viabilidad.
+ANSWER: B
+
+78. En el ámbito de la mineria de datos se cononce como "científico de datos" al responsable de:
+a. Realizar el diseño de la estructura de datos y de los procesos ETL.
+b. Diseñar, implementar y mantener la infraestructura.
+c. Crear y coordinar los equipos que realizan la implementación de los proyectos.
+d. Resolver problemas complejos a partir del análisis e interpretación de grandes bases de datos.
+ANSWER: D
+
+79. Señale cuál de los siguientes principios NO está considerado dentro del objeto y finalidad de la Ley 9/2017, de Contratos del Sector Público:
+a. Unidad de mercado.
+b. Publicidad y Transparencia.
+c. Igualdad de trato.
+d. Libertad de acceso a las licitaciones.
+ANSWER: A
+
+80. La Ley Orgánica 3/2018, de Proteción de Datos Personales y garantía de los derechos digitales incluye como novedad el derecho de
+a. Acceso.
+b. Portabilidad.
+c. Transparencia.
+d. Reposición.
+ANSWER: B
+
+81. De acuerdo con la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de los derechos digitales deberá designar un delegado de protección de datos:
+a. Centro sanitario.
+b. Federación deportiva.
+c. Ministerio.
+d. Prestador de Servicios de Sociedad de la Información.
+ANSWER: C
+
+82. Los certificados de sede electrónica incluirán como contenido:
+a. Lo que disponga el Esquema Nacional de Seguridad.
+b. La denominación de “sede electrónica” y el número de identificación fiscal de la autoridad de certificación.
+c. Su contenido no está definido en ninguna norma.
+d. La denominación del nombre del dominio y el nombre descriptivo de la sede.
+ANSWER: A
+
+83. En .Net 4.8 la clase System.Data.DataRow representa:
+a. Una caché de memoria interna de datos.
+b. Una fila de datos (serializable o no).
+c. El esquema (conjunto de columnas) de una DataTable.
+d. Una fila de datos en un DataTable.
+ANSWER: C
+
+84. La dirección de un socket se conforma con:
+a. La dirección IP del host y el modo de acceso.
+b. La dirección IP del host y un número de puerto.
+c. La URL del host.
+d. La URL del host y el modo de acceso.
+ANSWER: B
+
+85. Con respecto a los entornos de integración continua:
+a. Jenkins no dispone de la funcionalidad de extenderse mediante plugins.
+b. Jenkins es un software de integración continua bajo licencia Oracle.
+c. El fichero POM empleado en Maven no siempre es un fichero XML.
+d. SonarQube utiliza herramientas de análisis estático de código que permiten obtener métricas para mejorar la calidad del código.
+ANSWER: D
+
+86. ¿Cuál de los siguientes NO es un gestor de contenidos?
+a. Redis.
+b. Joomla.
+c. Liferay.
+d. Drupal.
+ANSWER: A
+
+87. ¿Cuáles son las propiedades que debe cumplir una unidad lógica de trabajo para ser calificada como transacción?
+a. Atomicidad, concurrencia, aislamiento y temporalidad.
+b. Atomicidad, consistencia, aislamiento y durabilidad.
+c. Atomicidad, concurrencia, escalabilidad y durabilidad.
+d. Atomicidad, consistencia, aislamiento y temporalidad.
+ANSWER: B
+
+88. El ataque que suplanta la identidad de un servidor DNS entregando direcciones IP falsas se denomina:
+a. DoS.
+b. Hijacking.
+c. Spoofing.
+d. Phishing.
+ANSWER: C
+
+89. Según MAGERIT 3.0, el informe en el que se recogen los resultados de la identificación de las amenazas relevantes sobre el sistema a analizar, caracterizadas por las estimaciones de ocurrencia y daño causado, se denomina:
+a. Estimación del riesgo.
+b. Plan de salvaguardas.
+c. Declaración de aplicabilidad.
+d. Mapa de riesgos.
+ANSWER: D
+
+90. Según el informe anual del sector TIC y de los contenidos en España 2018 del ONTSI, el VABpm (Valor Agregado Bruto) generado por las actividades que sustentan a Internet o se basan en este canal, equivalían en 2017 al:
+a. 2% del PIB.
+b. 7% del PIB.
+c. 15% del PIB.
+d. 25% del PIB.
+ANSWER: B
+
+91. El patrón de diseño que desacopla una abstracción de su implementación de manera que las dos puedan evolucionar independientemente se denomina:
+a. Adapter.
+b. Facade.
+c. Bridge.
+d. Proxy.
+ANSWER: C
+
+92. Indique el resultado de ejecutar la sentencia SQL:
+SELECT COUNT( col ) FROM table WHERE col < ( SELECT MAX( col ) FROM table );
+Sobre la siguiente tabla:
+col
+---
+3
+6
+4
+5
+5
+a. 3
+b. 5
+c. 4
+d. 5
+ANSWER: C
+
+93. La dirección IPv4 150.214.93.12 corresponde con el ordenador (nodo) de la siguiente red /23:
+a. 150.214.92.254
+b. 150.214.93.0
+c. 150.214.93.255
+d. 150.214.92.0
+ANSWER: D
+
+94. En el contexto de pruebas de la calidad del software, ¿qué es un fallo de regresión?
+a. EI que parece arreglarse espontáneamente y que posteriormente no es posible determinar el origen del mismo.
+b. Un fallo de tipo lógico que hace al sistema entrar en un bucle o recursión infinito.
+c. El derivado de problemas en un subproceso o hilo que retorna la ejecución al proceso principal.
+d. El que inicialmente no existe o no se manifiesta, pero que aparece al introducir modificaciones
+en el programa.
+ANSWER: D
+
+95. Según la CGEIT de la ISACA, entre los beneficios que aporta la buena Gobernabilidad de las TIC, NO se incluye:
+a. Mayor transparencia y rendición de cuentas.
+b. Mejoras de la capacidad.
+c. Mejoras del rendimiento.
+d. Mayor retorno de inversión.
+ANSWER: B
+
+96. La segmentación es un esquema de asignación de memoria que:
+a. Divide la memoria física disponible en un número fijo de particiones cuyo tamaño también es fijo.
+b. Divide la memoria física disponible en particiones cuyo número y tamaño varía para adaptarse a las exigencias los procesos.
+c. Divide el espacio de direcciones de cada proceso en bloques que puedan ser situados en áreas de memoria no contiguas.
+d. Divide la memoria en dos particiones: una para el sistema operativo (modo privilegiado) y otra para los procesos de usuario.
+ANSWER: C
+
+97. Indique cuál de los siguientes tipos de contratos NO está regulado por la Ley 9/2017 de Contratos del Sector Público:
+a. Contrato de concesión de suministros.
+b. Contrato de suministro.
+c. Contrato de concesión de servicios.
+d. Contrato de servicios.
+ANSWER: A
+
+98. Según el Real Decreto 951/2015, de modificación del Real Decreto 3/2010, por el que se regula el Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica, indique cuál de las siguientes NO es una instrucción técnica de seguridad:
+a. Notificación de incidentes de seguridad.
+b. Adquisición de productos.
+c. Auditoría de la seguridad.
+d. Interconexión en el Esquema Nacional de Seguridad.
+ANSWER: B
+
+99. Señale cuál de los siguientes lenguajes de programación de código abierto y diseñado por Apple permite diseñar aplicaciones móviles para iOS:
+a. Go (Golang).
+b. Kotlin.
+c. Swift.
+d. Ninguno de los anteriores.
+ANSWER: C
+
+100. La Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de los derechos digitales, No será de aplicación a los tratamientos:
+a. Totalmente automatizados de datos personales.
+b. No automatizado de datos personales contenidos o destinados a ser incluidos en un fichero.
+c. Sometidos a la normativa sobre protección de materias clasificadas.
+d. Parcialmente automatizados de datos personales.
+ANSWER: C
+
+1. Linux Debian 9 (Stretch) y RHEL 8 utilizan como proceso de inicio por defecto para arrancar servicios
+(daemons):
+a. systemd
+b. initd (Sys V init)
+c. upstart
+d. xinetd
+ANSWER: A
+
+2. En el contexto de bases de datos SQL Server o PostgreDB, el concepto de "Log Shipping" es equivalente a:
+a. Copia automática asíncrona de base de datos.
+b. Intercambio de información para el mantenimiento del quorum de cluster.
+c. Agregación centralizada de logs de auditoría de base de datos.
+d. Copia síncrona de base de datos.
+ANSWER: A
+
+3. En el despliegue continuo de un servicio web online, el patrón consistente en mantener dos servidores de producción, desplegar la nueva versión en uno de ellos y conmutar entre ambos se conoce como:
+a. Cluster activo-pasivo (Active-pasive cluster).
+b. Servidor de puesta en escena (Staging server).
+c. Intercambio en caliente (Hot swapping).
+d. Despliegue azul-verde (Blue-green deployment).
+ANSWER: D

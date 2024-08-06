@@ -1,0 +1,706 @@
+1. Señale cuál NO es un campo de actuación clave de la Agenda Digital para Europa:
+a) Mercado único digital dinámico.
+b) Acceso ultrarrápido a Internet.
+c) Nativos digitales.
+d) Inclusión digital.
+ANSWER: C
+
+2. Indique cuál de los siguientes sistemas NO permite direccionar ficheros de un Terabyte:
+a) AdvFS
+b) MFS
+c) JFS2
+d) XFS
+ANSWER: B
+
+3. Indique la afirmación correcta que aplica al DNI electrónico:
+a) La PKI adoptada para el DNI electrónico asigna las funciones de Autoridad de Validación a las entidades Autoridad de Certificación, con objeto de tener conocimiento de la vigencia o caducidad de certificados de un determinado titular.
+b) La clave personal de acceso (PIN) podrá contener signos de puntuación.
+c) Todos los certificados emitidos por DNIe contienen la extensión ‘Key Usage’ con al menos los siguientes usos "contentCommitment", "Digital Signature" y "dataEncipherment".
+d) El tamaño de las claves de los certificados de autenticación y firma contenidos en el DNIe, es de 4096 bits.
+ANSWER: B
+
+4. Según el RD 589/2005, los Planes estratégicos departamentales en materia de tecnologías de la información y Administración electrónica:
+a) Deben tener una duración de al menos 2 años.
+b) Deben tener una duración de al menos 3 años.
+c) Deben tener una duración de al menos 4 años.
+d) Pueden tener cualquier duración siempre y cuando tengan carácter verdaderamente estratégico.
+ANSWER: A
+
+5. Según el CMMI v1.2 (Capability Maturity Model Integration, en español Modelo Integrado de Capacidad y Madurez), una organización en la que en la que los procesos están definidos y son gestionados cuantitativamente, y en la que se establecen métricas de calidad para la gestión y rendimiento de dichos procesos, se encuentra en el nivel de capacidad:
+a) Nivel 1.
+b) Nivel 2.
+c) Nivel 3.
+d) Nivel 4.
+ANSWER: D
+
+6. La normativa vigente sobre Infraestructuras Comunes de Telecomunicación (ICTs) establece que:
+a) Las dimensiones mínimas de una ICT incluyen los elementos necesarios para la captación y adaptación de las señales de radiodifusión sonora y televisión terrenales y por satélite.
+b) Su ámbito de aplicación son todos los inmuebles de nueva construcción a partir de su entrada en vigor.
+c) Finalizados los trabajos de ejecución del Proyecto Técnico, siempre se deberá presentar un Boletín de Instalación.
+d) Finalizados los trabajos de ejecución del Proyecto Técnico, siempre se deberá presentar un Certificado de Fin de Obra.
+ANSWER: C
+
+7. Señale cuál NO es uno de los conjuntos de metadatos que manejan los SIG (Sistemas de Información Geográfica):
+a) Metadatos de explotación.
+b) Metadatos de descubrimiento.
+c) Metadatos de exploración.
+d) Metadatos de representación
+ANSWER: D
+
+8. Indique cuál es el cuadrado del número hexadecimal 0xFFFF:
+a) 0x100000001.
+b) 0xFFFFFFFF.
+c) 0xFFFE0001.
+d) 0xFFFE0002.
+ANSWER: C
+
+9. En ITIL v.3, ¿cuál de los siguientes procesos y actividades NO corresponde a la estrategia de servicios?:
+a) Gestión financiera.
+b) Gestión del portfolio de servicios.
+c) Gestión de la demanda.
+d) Gestión del catálogo de servicios.
+ANSWER: D
+
+10. Comparando el método HTTP GET con el método HTTP POST, se cumple que:
+a) Sólo HTTP GET está definido como idempotente.
+b) Ambos requieren declaración explícita al usarlos en un tag HTML form.
+c) Sólo HTTP POST puede soportar el envío de varios parámetros en un form data set en una misma petición.
+d) Sólo HTTP POST permite que el agente de usuario haga uso del mecanismo de conexiones persistentes del protocolo.
+ANSWER: A
+
+11. En una valoración de tres ofertas informáticas, nos encontramos que en un criterio a maximizar, las puntuaciones son : 5, 7 y 10. ¿Cuáles serían sus puntuaciones normalizadas por el método de fracción del ideal?:
+a) 0,5 ; 0,7 ; 1
+b) 0,227 ; 0,318 ; 0,454
+c) 0 ; 0,4 ; 1
+d) 1 ; 1,4 ; 2
+ANSWER: C
+
+12. Indique la afirmación INCORRECTA acerca de la BCL (Base Class Library) del framework .Net:
+a) Contiene clases para la manipulación de archivos gráficos.
+b) Se organiza en clases de acceso a datos, de lógica de negocio y de presentación.
+c) No dispone de clases para la gestión de la seguridad.
+d) No depende del lenguaje de programación utilizado por el desarrollador.
+ANSWER: C
+
+13. Según Pressman, una revisión técnica formal es:
+a) Una reunión.
+b) Un producto del desarrollo.
+c) Un documento.
+d) La aceptación del sistema.
+ANSWER: A
+
+14. En relación con la seguridad en UNIX y particularmente con la auditoría del sistema, cuál de los siguientes archivos de registro de equipos UNIX se guardan en texto claro, y pueden visualizarse con una orden como cat o similares:
+a) syslog, wtmp, lastlog, sulog.
+b) syslogd, utmpx, faillog, loginlog.
+c) syslog, debug, sulog, loginlog.
+d) syslog, btmp, lastlog, loginlog.
+ANSWER: C
+
+15. En el protocolo Internet Protocol versión 6 (IPv6), ¿cuál es la afirmación INCORRECTA?:
+a) Sólo se permite fragmentar en el origen.
+b) No tiene un mecanismo equivalente al del bit Don't Fragment (DF) de IPv4.
+c) Se requiere que todos los enlaces tengan un MTU de 1500 octetos o mayor.
+d) Un jumbograma es un paquete IPv6 que contiene una carga útil (payload) mayor que 65535 octetos.
+ANSWER: C
+
+16. El Defensor del Usuario de la Administración Electrónica es nombrado por:
+a) El Consejo de Ministros.
+b) El Ministro de la Presidencia.
+c) El Ministro de Industria, Comercio y Turismo.
+d) El Secretario de Estado de Telecomunicaciones y para la Sociedad de la Información.
+ANSWER: A
+
+17. Según el RD 951/2005 de 29 de julio, el marco general para la mejora de la calidad en la AGE, NO incluye entre sus programas:
+a) Análisis de la demanda y evaluación de la satisfacción de los usuarios.
+b) Reconocimiento (certificación de organizaciones y premios).
+c) Observatorio de la calidad de los servicios públicos.
+d) Quejas y reclamaciones.
+ANSWER: D
+
+18. ¿Cuál de los siguientes algoritmos de encaminamiento está basado en el estado del enlace?:
+a) RIP versión 1.
+b) OSPF.
+c) BGP.
+d) RIP versión 2.
+ANSWER: B
+
+19. ¿Cuál de las siguientes PDUs se añade en SNMPv2 con respecto a las de SNMPv1?:
+a) Trap.
+b) GetResponse.
+c) GetBulkRequest.
+d) GetNextRequest.
+ANSWER: C
+
+20. Si ejecutamos el comando telnet para acceder a un servidor que tenga configurado lo necesario, ¿Cuál de las afirmaciones es correcta?:
+a) Sólo podemos conectarnos al "well-known port" 23 (telnet).
+b) Accediendo al puerto 25 (smtp) sería posible enviar e-mails.
+c) Accediendo al puerto 22 (ssh) es posible securizar la comunicación.
+d) Accediendo a cualquier puerto diferente del 23 el servidor reconoce el protocolo y redirige la comunicación al puerto 23 (telnet).
+ANSWER: B
+
+21. El Esquema Nacional de Interoperatibilidad (ENI) señala que las condiciones de licenciamiento de las aplicaciones y documentación asociada tendrán en cuenta que el fin perseguido es el aprovechamiento y la reutilización. Para este fin, ¿qué tipo de licenciamiento indica expresamente el ENI que se procurará aplicar?:
+a) Licencia IDABC.
+b) Licencia de Código Abierto del Consejo Superior de Administración Electrónica.
+c) Licencia Pública de la Unión Europea.
+d) Licencia Shareware.
+ANSWER: C
+
+22. ¿Cómo se denomina el informe elaborado bajo el impulso de la Comisión Permanente del Consejo Superior de Administración Electrónica para analizar, sobre todo cuantitativamente, el sector TIC en la AGE?:
+a) Informe PRINCESA.
+b) Informe TECNIMAP.
+c) Informe LIRIA.
+d) Informe REINA.
+ANSWER: D
+
+23. El formato de dirección EUI-64 es un formato estándar del IEEE, que permite a un nodo autoconfigurar o asignarse automáticamente su propia dirección IPv6 de nodo, a partir de la dirección IEEE 802 MAC de la tarjeta de red del:
+a) Router vecino y del prefijo de la dirección de red (/64) a la que está conectado dicho nodo.
+b) Propio nodo y del prefijo de la dirección de red (/48) del router vecino al que está conectado dicho nodo.
+c) Router vecino y del prefijo de la dirección de red (/48) a la que está conectado dicho nodo.
+d) Propio nodo y del prefijo de la dirección de red (/64) a la que está conectado dicho nodo.
+ANSWER: D
+
+24. El método de búsqueda informado que tiene en cuenta el coste mínimo necesario para llegar al estado solución pasando por el estado X, es el denominado:
+a) Método de búsqueda bidireccional.
+b) Búsqueda ávida (Greedy search).
+c) Búsqueda con adversario.
+d) Método Escalada simple ("Hill-climbing" search).
+ANSWER: B
+
+25. El fichero JAR de una distribución JAVA , NO contiene:
+a) El fichero manifest.mf.
+b) Un fichero .class por cada clase compilada.
+c) Un fichero .sf por cada fichero firmado de la distribución.
+d) Un fichero .crt con cada certificado digital utilizado para firmar las clases.
+ANSWER: D
+
+26. En el marco de los servicios de Directorio, señale cuál de las siguientes afirmaciones es cierta:
+a) El estándar X.500 define cuatro clases de objetos que pueden ser representados en el directorio y que se codifican utilizando la notación ASN.1.
+b) El protocolo LDAP, para el acceso a directorios X.500, es una evolución de DAP, que soporta OSI y TCP/IP.
+c) En su versión 2, LDAP incorpora la posibilidad de acceso anónimo y la de acceso cifrado.
+d) La operación de añadir una entrada a un directorio, sólo requiere que el nombre distinguido (DN) de la entrada a añadir, no exista previamente en él.
+ANSWER: A
+
+27. ¿Cuál es la vigencia temporal de los certificados electrónicos contenidos en el DNIe?:
+a) Ilimitada.
+b) Duran tanto como el documento físico ( 5 o 10 años).
+c) 30 meses.
+d) El certificado de autenticidad 24 meses y el de firma 18.
+ANSWER: C
+
+28. AGNUBIS, aplicación del entorno de escritorio de GNOME, es:
+a) Un interfaz gráfico para el dibujo de gráficos y manipulaciones estadísticas.
+b) Un programa de presentaciones similar a MS POWER POINT.
+c) Un programa de dibujo vectorial que puede trabajar con archivos 5VG.
+d) El gestor de archivos oficial de GNOME.
+ANSWER: B
+
+29. Respecto al API, Streaming API for XML (StAX), indicar la afirmación correcta:
+a) Emplea "push parsing".
+b) Permite vistas XML de datos no XML.
+c) Es un API unidireccional.
+d) El cliente del API no controla el thread de la aplicación.
+ANSWER: B
+
+30. Referente a la Recomendación del W3C "XML Signature Syntax and Processing", ¿cuál es la afirmación INCORRECTA?:
+a) Sólo es posible indicar el uso del algoritmo C14N en el elemento ds:SignedInfo.
+b) Explica tres posibles formas de aplicación de la firma: detached, enveloping y enveloped.
+c) Permite firmar documentos en cualquier formato, no sólo en formato XML.
+d) Es la base para la definición de XAdES.
+ANSWER: A
+
+31. ¿Cuál de las siguientes afirmaciones respecto a la "Ley General de Telecomunicaciones" es cierta?:
+a) Corresponde a la Comisión del Mercado de las Telecomunicaciones la aprobación de los planes nacionales de numeración y, en su caso, de direccionamiento y nombres, teniendo en cuenta las decisiones aplicables que se adopten en el seno de las organizaciones y los foros internacionales.
+b) Corresponde a la Comisión del Mercado de las Telecomunicaciones la gestión y control de los planes nacionales de numeración y de códigos de puntos de señalización.
+c) El procedimiento y los plazos para la asignación de números, así como las condiciones asociadas al uso de los números, que serán no discriminatorias, proporcionadas y transparentes, se establecerán reglamentariamente. Transcurrido el plazo máximo sin haberse notificado la resolución expresa, se podrá entender aprobada la solicitud por silencio administrativo.
+d) Quedan incluidos en el ámbito de esta Ley, el régimen aplicable a los contenidos de carácter audiovisual transmitidos a través de las redes.
+ANSWER: B
+
+32. Entre los lenguajes de especificación de workflows, NO se encuentra:
+a) YAWL.
+b) ETL.
+c) XPDL.
+d) BPEL.
+ANSWER: B
+
+33. Respecto a AJAX. ¿Cuál de las siguientes afirmaciones NO es cierta?:
+a) En lo referente a "cross-scripting" (ejecución de código de diferente dominio), está sujeto a la política "same origin" implementada en la sandbox del navegador.
+b) Realizar una petición vía XMLHttpRequest (XHR) no modifica el historial del navegador.
+c) No ha sido estandarizado por una Recomendación del World Wide Web Consortium (W3C).
+d) Su uso obliga a refrescar una parte de la página del navegador.
+ANSWER: D
+
+34. Según Métrica v3, las pruebas de Regresión:
+a) Se realizan para validar el resultado de las etapas anteriores.
+b) Se deben llevar a cabo cuando se hace un cambio en el sistema.
+c) Se diseñan durante la fase de Análisis.
+d) Métrica V3 no define las pruebas de regresión.
+ANSWER: B
+
+35. En los sistemas MIMD:
+a) Todos los datos están accesibles para todos los procesadores.
+b) No todas las instrucciones están disponibles para todos los procesadores.
+c) Emplean varios buses de altas prestaciones para transmitir instrucciones y datos simultáneamente.
+d) Pueden trabajar con memoria compartida o con memoria distribuida.
+ANSWER: D
+
+36. [ANULADA] Una inversión inicial de 500.000 euros, produce 300.000 euros de flujo de caja el primer año, duplicándose posteriormente los beneficios cada año respecto del anterior. Si la tasa de descuento es del 2%, ¿cuál es el VAN (valor actual neto) de la inversión para un periodo de tres años?:
+a) 1.472.162,00 €.
+b) 23.756,00 €.
+c) 1.600.000,00 €.
+d) 60.000.000,00 €.
+ANSWER:
+ANULADA
+
+37. La Recomendación UIT-T I.411 "Configuraciones de referencia de las interfaces Usuario-Red de la RDSI", define el punto de referencia T entre:
+a) La Terminación de Red 1 (NT1) y la Terminación de Línea (LT).
+b) La Terminación de Red 2 (NT2) y la Terminación de Red 1 (NT1).
+c) El Equipo Terminal de Tipo 1 (TE1) y el Adaptador de Terminal (TA).
+d) El Equipo Terminal de Tipo 2 (TE2) y el Adaptador de Terminal (TA).
+ANSWER: B
+
+38. Indique la Potencia a la entrada del receptor del sistema de telecomunicaciones compuesto de los siguientes elementos:
+- Una antena receptora a la que le llega una Potencia de entrada de 10exp-8 mW.
+- Un amplificador con ganancia G1 = 1000.
+- Una longitud de cable de 10m con atenuación del mismo de 0’3 dB/m.
+- Un amplificador con ganancia G2 = 100.
+- Un receptor.
+a) -63 dBW.
+b) +33 dBm.
+c) 1exp-6 W.
+d) -53 dBm.
+ANSWER: A
+
+39. Referente al protocolo Internet Protocol versión 4 (IPv4), ¿cuál es la afirmación correcta?:
+a) Sólo permite identificar hasta 256 protocolos para la parte de datos del datagrama.
+b) No permite volver a fragmentar un datagrama ya fragmentado (pues la fragmentación se indica con el bit MF).
+c) La unidad de transferencia máxima o Maximun Transmission Unit (MTU) es siempre de 65.535 bytes.
+d) Si los datagramas han sido fragmentados, al pasar a una red que puede manejar un PDU máximo mayor que la red de origen, previamente a ser reenviados, los fragmentos deben ser reensamblados.
+ANSWER: A
+
+40. ¿Cuál es la afirmación INCORRECTA respecto a los Sistemas de Cableado?:
+a) Las ventanas históricamente definidas para transmisión en fibra óptica se encuentran situadas alrededor de los 850, 1310 y 1550 nm.
+b) La diafonía se clasifica en paradiafonía y telediafonía.
+c) La propagación en las fibras ópticas depende de la reflexión interna que se produce gracias a que el revestimiento tiene un índice de refracción mayor que el del núcleo.
+d) La fibra monomodo se puede lograr reduciendo el diámetro del núcleo.
+ANSWER: C
+
+41. WS-BPEL (Web Service Business Process Execution Language), versión 2.0:
+a) Consta de una notación gráfica standard y de un lenguaje ejecutable para especificar interacciones entre servicios web.
+b) Permite la especificación de procesos de negocio abstractos, pero no de procesos de negocio ejecutables.
+c) Utiliza XML Schema y WSDL 1.1 para la definición de tipos de datos e interfaces de servicios en la definición de procesos.
+d) Es una notación gráfica para la definición de servicios web.
+ANSWER: C
+
+42. El manifiesto por un desarrollo de software ágil (Manifesto for Agile Software Development) da más valor a:
+a) Los individuos y sus interacciones que a los procesos y herramientas.
+b) Una documentación completa que a software que funcione
+c) La negociación contractual que a la colaboración con los usuarios.
+d) Seguir una planificación que a adaptarse al cambio.
+ANSWER: A
+
+43. El diagrama de despliegue se utiliza en Métrica versión 3 en:
+a) El diseño de la arquitectura de módulos del sistema.
+b) El diseño físico de datos
+c) La generación de especificaciones de construcción.
+d) El diseño del modelo de sistemas de información.
+ANSWER: C
+
+44. En un contrato de suministro de carácter informático, ¿es posible pagar el precio de los bienes adquiridos mediante una parte en dinero y la otra con la entrega de bienes de la misma clase?:
+a) No, en ningún caso al estar prohibido el pago parcial en especie por las leyes.
+b) Sí, siempre es posible. La ley lo admite para todo tipo de contratos.
+c) No, salvo autorización expresa de la Comisión Ministerial de Administración Electrónica, que el bien entregado no supere los 100.000 euros, y que el adjudicatario del contrato consienta.
+d) Sí, siempre que existan razones técnicas o económicas que lo aconsejen, y que el importe de los bienes a entregar no supere el 50 % del total del contrato.
+ANSWER: D
+
+45. Conforme a la especificación 3GPP TS 03.60, GPRS se implementa lógicamente añadiendo a la estructura de GSM los nodos Serving GPRS Support Node (SGSN) y Gateway GPRS Support Node (GGSN). ¿Cuál es la afirmación correcta?:
+a) Entre ambos tipos de nodos se define la Intefaz Gn si están situados en la misma red móvil (PLMN).
+b) El SGSN es el nodo de interconexión con la Red de Conmutación de Paquetes o Packet Data Network (PDN).
+c) La funcionalidad proporcionada por SGSN y GGSN debe residir en diferentes nodos físicos.
+d) Entre ambos tipos de nodos se define la Intefaz Gi si están situados en distinta red móvil (PLMN).
+ANSWER: A
+
+46. La tabla ESTUDIANTES(DNI#, Nombre, Apellido 1, Apellido 2, DNITutor, NombreTutor):
+a) No está en primera forma normal.
+b) Está en primera forma normal pero no en segunda forma normal.
+c) Está en segunda forma normal pero no en tercera forma normal.
+d) Está en tercera forma normal pero no en forma normal de Boyce Codd.
+ANSWER: C
+
+47. Según el método de puntos función de Albrecht, marque la respuesta correcta para el valor de PFA (Puntos de Función Ajustados), si PFNA (Puntos de Función No Ajustados) y SVA (Suma de los Valores de los 14 Atributos o características generales del sistema) valen respectivamente 100 y 65:
+a) 165
+b) 120
+c) SVA no puede tener un valor superior a 50.
+d) 130
+ANSWER: D
+
+48. ¿Cuál es el sistema de referencia geodésico establecido por el RD 1071/2007, en el que se debe compilar toda la información geográfica y cartografía oficial española a partir del 01 de Enero de 2015?:
+a) Exclusivamente el sistema ETRS89.
+b) Los sistemas ED50 y ETRS89.
+c) Los sistemas ETRS89 y REGCAN95.
+d) El sistema ETRS-Cónica Conforme de Lambert.
+ANSWER: C
+
+49. Los "mashups" en Web 2.0:
+a) Son un tipo de wikis con interfaces AJAX.
+b) Son una aplicación de la teoría "Long Tail".
+c) Son aplicaciones web que combinan datos o servicios de otras fuentes.
+d) Siempre se implementan con técnicas de "screen scraping".
+ANSWER: C
+
+50. Las certificaciones ITIL:
+a) Se pueden obtener tanto por personas como por organizaciones.
+b) Sólo se pueden obtener por organizaciones y no por personas.
+c) Sólo se pueden obtener por personas y no por organizaciones.
+d) No existen certificaciones ITIL.
+ANSWER: C
+
+51. De acuerdo al Estándar ISO 12207 de procesos del ciclo de vida del software:
+a) Existe un proceso específico para la adaptación del resto de procesos.
+b) Para cumplir con el estandar es necesario adaptar los procesos a las circunstancias particulares de cada organización o proyecto.
+c) Se puede utilizar cualquier proceso de adaptación, siempre y cuando esté justificado y documentado.
+d) No hay una categoría específica de "cumplimiento adaptado".
+ANSWER: A
+
+52. ¿Cuál de las siguientes funciones NO corresponde al Comité Sectorial de Administración Electrónica según lo recogido en la Ley 11/2007 y modificaciones normativas posteriores?:
+a) Asegurar la cooperación entre las administraciones públicas para proporcionar al ciudadano información clara, actualizada e inequivoca.
+b) Velar por el cumplimiento de los fines y principios establecidos en la Ley 11/2007.
+c) Proponer planes programas conjuntos de actuación para impulsar el desarrollo de la Administración Electrónica en España.
+d) Aprobar los Catálogos de determinación de tipo referidos a bienes y servicios electrónicos.
+ANSWER: D
+
+53. Para garantizar la protección sanitaria frente a las ondas electromagnéticas de telefonía móvil, los operadores de telefonía móvil deben:
+a) Situar las estaciones base fuera de las ciudades, de tal forma que al estar más alejadas, la potencia que reciban las personas debida a una comunicación por telefonía móvil sea menor.
+b) Instalar las estaciones base de manera que el diagrama de emisión no incida sobre el propio edificio, terraza o ático, si se instalan en una azotea.
+c) Fijar la potencia con la que emiten las estaciones base para que sea 1/4 de la SAR (Tasa de absorción específica) de un teléfono móvil.
+d) Instalar las estaciones base en cualquier sitio, ya que la telefonía móvil emite ondas ionizantes que no afectan a la salud.
+ANSWER: B
+
+54. El Texto Refundido de la Ley de Propiedad Intelectual, modificado por la ley 23/2006, define los siguientes derechos de explotación:
+a) Reproducción, Distribución, Duplicación y Transformación.
+b) Distribución, Duplicación, Comunicación Pública y Transformación.
+c) Reproducción, Duplicación, Comunicación Pública y Transformación.
+d) Reproducción, Distribución, Comunicación Pública y Transformación.
+ANSWER: D
+
+55. Indique la afirmación FALSA. De acuerdo a la ley 30/2007, el sistema de determinación del precio de los contratos para el desarrollo de programas informáticos:
+a) Puede ser a tanto alzado.
+b) Puede resultar de la aplicación de honorarios por tarifas.
+c) Se debe establecer en el Pliego de Prescripciones Técnicas.
+d) Puede resultar de la combinación de varias modalidades de cálculo.
+ANSWER: C
+
+56. Asumiendo que el cliente y el servidor se ejecutan en diferentes máquinas, y considerando como local aquella máquina con acceso a la pantalla y al teclado, la combinación correcta respecto a Xwindows(X11) y Microsoft Terminal Server (TS) es:
+a) El cliente X11 y el cliente TS se ejecutan de manera local y el servidor X11 y el servidor TS de manera remota.
+b) El cliente X11 y el servidor TS se ejecutan de manera local y el servidor X11 y el cliente TS de manera remota.
+c) El servidor X11 y el cliente TS se ejecutan de manera local y el cliente X11 y el servidor TS de manera remota.
+d) El servidor X11 y el servidor TS se ejecutan de manera local y el cliente X11 y el cliente TS de manera remota.
+ANSWER: C
+
+57. En el desarrollo de software ágil (Agile) se usan los siguientes niveles de planificación:
+a) Planificación de entregas, planificación de iteraciones o sprints y planificación diaria.
+b) Planificación estratégica y planifiación semanal.
+c) Planificación de iteraciones o sprints, planificación de hitos de cada iteración o sprint y planificación semanal.
+d) Planificación estratégica, planificación de recursos y planificación de entregas.
+ANSWER: A
+
+58. Con respecto a sistemas de almacenamiento, indique cuál de las siguientes asociaciones de términos es correcta:
+a) Protocolos: CIFS, NDMP, iFCP, NFS.
+b) Dispositivos ópticos: DVD, MO, LTO, UDO.
+c) Redes SAN: SCSI, ESCON, FICON, WAFS.
+d) Formatos de cintas: FATA, TRAVAN, DLT, DAT.
+ANSWER: A
+
+59. Cuando existe particionado a nivel de byte, más un disco de paridad dedicado, se trata de:
+a) RAID 3.
+b) RAID 4.
+c) RAID 5.
+d) RAID 6.
+ANSWER: A
+
+60. Según el estándar IEEE 610.12, la línea base:
+a) Es la línea que marca en la planificación en que momento nos encontramos.
+b) Es la situación en que se encuentra en cada momento el desarrollo.
+c) Es el momento de salida de la planificación.
+d) Ha sido acordada formalmente.
+ANSWER: D
+
+61. Seleccione la respuesta correcta acerca de los sistemas de representación del conocimiento:
+a) La representación del conocimiento mediante ternas Objeto, Atributo, Valor, no tiene mecanismos inferenciales.
+b) Las redes semánticas no tienen capacidad de representar acciones.
+c) La representación en marcos admite el concepto de herencia, pero las redes semánticas no.
+d) En los sistemas de razonamiento monótono el conocimiento no varía durante el proceso de razonamiento.
+ANSWER: A
+
+62. Señale cuál de los siguientes NO es un principio básico del Esquema Nacional de Seguridad (ENS):
+a) Función diferenciada.
+b) Prevención, reacción y recuperación.
+c) Líneas de defensa.
+d) Continuidad de la actividad.
+ANSWER: D
+
+63. El empleo de redes neuronales para el reconocimiento de caracteres:
+a) Usa mecanismos basados en lógica borrosa.
+b) No permite explicar fácilmente las razones por las que se obtiene un determinado resultado.
+c) Se basa en la obtención de un vector de características.
+d) Hace que el reconocimiento se vea más afectado por defectos de la imagen que otros métodos como el de comparación de matrices.
+ANSWER: B
+
+64. ¿Qué método NO existe en la clase java HttpServlet?:
+a) doPut.
+b) doTrace.
+c) doError.
+d) doOptions.
+ANSWER: C
+
+65. Según Lientz y Swanson y a diferencia de MÉTRICA versión 3, entre los 4 tipos de mantenimiento de sistemas de información, se encuentra:
+a) Mantenimiento preventivo.
+b) Mantenimiento perfectivo.
+c) Mantenimiento adaptativo.
+d) Mantenimiento correctivo.
+ANSWER: A
+
+66. La red SARA permite la comunicación:
+a) Sólo entre organismos y ministerios de la Administración General del Estado (AGE).
+b) Sólo entre la AGE y la Unión Europea.
+c) Entre la AGE, CC.AA. y entidades locales, así como su conexión con instituciones europeas a través de la red transeuropea eu-SARA.
+d) Entre la AGE, CC.AA. y entidades locales, así como su conexión con instituciones europeas a través de la red transeuropea sTESTA.
+ANSWER: D
+
+67. En un acuerdo marco en vigor, la licitación simplificada puede limitarse a sólo tres empresas de entre las firmantes del acuerdo:
+a) Cuando la duración máxima de acuerdo sea inferior a un año.
+b) Cuando el importe de licitación sea inferior al millón de euros.
+c) Cuando la tramitación se haya declarado urgente.
+d) Cuando el contrato a adjudicar no esté sujeto a regulación armonizada.
+ANSWER: D
+
+68. La tasa de rendimiento contable o rentabilidad media de una inversión es igual a:
+a) El cociente entre el beneficio medio anual y la inversión media anual.
+b) El cociente entre el flujo de caja medio anual y la inversión media anual.
+c) El valor actualizado de la diferencia entre los cobros y los pagos derivados de la inversión.
+d) El cociente entre el sumatorio de los flujos de caja y el desembolso inicial.
+ANSWER: A
+
+69. Referente a la pila de protocolos de la familia ITU H.323 para el tráfico multimedia sobre redes IP, la afirmación correcta es:
+a) Requiere el uso del protocolo Registration, Admission and Status (RAS) entre los terminales.
+b) Emplea el protocolo TCP/IP para el envío de la información multimedia pues UDP no garantiza el control de flujo y errores.
+c) Emplea Real-Time Control Protocol (RTCP) para la señalización (establecimiento, control y finalización) de llamadas.
+d) Emplea el protocolo T.120 para la inclusión de tráfico de datos.
+ANSWER: D
+
+70. Al hablar de virtualización de servidores, se llama hypervisor:
+a) A la capa de software sobre la que se ejecutan las máquinas virtuales.
+b) A la aplicación que monitoriza una máquina virtual.
+c) A un producto comercial de virtualización.
+d) Al gestor de memoria de la máquina física.
+ANSWER: A
+
+71. ¿Cúal de las siguientes organizaciones realiza actuaciones para la persecución legal de la piratería informática y para evitar la violación de los derechos de copyright?:
+a) BSA ( Business Software Alliance).
+b) GSC ( General Software Committee).
+c) DRG (Digital Right Group).
+d) SSC (Secure Software Commission).
+ANSWER: A
+
+72. La gestión de memoria virtual en Unix:
+a) Mantiene siempre en memoria RAM los procesos del kernel.
+b) Utiliza siempre páginas de memoria de tamaño variable.
+c) Asigna a los procesos, espacios de direcciones compartidos.
+d) No contempla la compartición de código entre procesos.
+ANSWER: A
+
+73. La familia de WINDOWS SERVER 2003 soporta clusters de servidor de hasta:
+a) 16 nodos.
+b) 4 nodos.
+c) 8 nodos.
+d) 32 nodos.
+ANSWER: C
+
+74. Dentro del estándar del metalenguaje XML señale la afirmación INCORRECTA:
+a) Un DTD es un documento escrito en XML para definir el contenido y estructura de documentos XML.
+b) Los XML Schemas y los DTD permiten validar documentos XML.
+c) Los XML Schemas soportan herencia entre tipos de datos.
+d) Los DTD no están basados en el uso de "namespaces".
+ANSWER: A
+
+75. En general, al pasar una relación 1:N con atributos propios, del modelo entidad - relación al modelo relacional:
+a) Se crea una nueva tabla cuya clave principal es el atributo de la relación.
+b) Se crea una nueva tabla cuya clave es la concatenación de las claves de las dos entidades y tiene un campo adicional para el atributo de la relación.
+c) La clave de la entidad que participa con cardinalidad N y el atributo de la relación, pasan a la tabla de cardinalidad 1.
+d) La clave de la entidad que participa con cardinalidad 1 y el atributo de la relación, pasan a la tabla de cardinalidad N.
+ANSWER: D
+
+76. Respecto del modelo jerárquico de base de datos, señale qué afirmación es FALSA:
+a) Utiliza punteros para su implementación física.
+b) Permite que un nodo de nivel superior pueda tener un número ilimitado de nodos de nivel inferior.
+c) Permite describir relaciones simétricas.
+d) Permite actualizaciones en cascada.
+ANSWER: C
+
+77. En relación con los perfiles de participantes, según MÉTRICA versión 3, señale la afirmación correcta:
+a) Son 5: Directivo, Jefe de Proyecto, Consultor, Analista y Programador.
+b) Son 7: Director, Jefe de Proyecto, Equipo de Proyecto y Responsables de Arquitectura, Seguridad, Sistemas y Operaciones.
+c) Son 8: Directivo, Jefe de Proyecto, Equipo de Proyecto, Usuarios expertos y Responsables de Arquitectura, Seguridad, Sistemas y Operaciones.
+d) Son 5: Directivo, Jefe de Proyecto, Equipo de Proyecto, Usuarios expertos y Responsable de Calidad.
+ANSWER: A
+
+78. [ANULADA] Indique cuál de la siguientes afirmaciones es FALSA:
+a) GPS y Galileo son proyectos complementarios y no competidores, ya que ambos forman parte del mismo sistema GNSS (Global Navigation Satellite System).
+b) Está previsto que el vehículo espacial Giove-A, el primer satélite de la constelación Galileo, sea puesto en órbita en Marzo de 2011.
+c) Los futuros receptores de los sistema GALILEO y GPS podrán utilizar un sistema u otro indistintamente, o los dos sistemas a la vez.
+d) Los sistemas GPS y GLONASS tienen un origen militar, mientras que GALILEO surge inicialmente para satisfacer necesidades de la comunidad civil.
+ANSWER:
+ANULADA
+
+79. En una tabla de una base de datos relacional:
+a) La definición de un mayor número de índices siempre supone mejora en el rendimiento de las operaciones de consulta.
+b) La definición de un mayor número de índices siempre mejora el rendimiento de las operaciones de inserción.
+c) Nunca deben incluirse en los índices atributos que no forman parte de la cláusula WHERE.
+d) Si las filas de un índice contienen todas las columnas referenciadas en el SELECT, se elimina la necesidad de acceder a la tabla.
+ANSWER: D
+
+80. El establecimiento de un directorio de direcciones de red IP, a partir del cual cada entidad u organismo de la AGE pueda establecer de manera independiente sus planes de numeración IP, se incluye en:
+a) El Plan AVANZA.
+b) El Plan de direccionamiento e interconexión de redes en la Administración.
+c) El Plan Estratégico para el desarrollo de la administración electrónica.
+d) El Plan de evaluación de impacto de la Ley 11/2007.
+ANSWER: B
+
+81. Señale la afirmación correcta sobre las redes SAN iSCSI:
+a) Intercambian tramas SCSI sobre FC.
+b) Es una red de almacenamiento de acceso a ficheros.
+c) No permite implementar iSCSI en software.
+d) Puede usar TCP/IP como transporte.
+ANSWER: D
+
+82. En la aplicación de la Decisión Multicriterio Discreta, el método de asignación de pesos a criterios que prima los criterios que tienen mayor poder de discriminación entre las alternativas, se denomina:
+a) Método Delphi.
+b) Método de las Utilidades Relativas.
+c) Método de Saaty.
+d) Método de la entropía.
+ANSWER: D
+
+83. Los equipos "Bluetooth" emplean:
+a) Transmisión por espectro expandido mediante secuencia directa.
+b) Transmisión por espectro expandido mediante salto de frecuencias.
+c) Un algoritmo de control de acceso al medio basado en CDMA/CD.
+d) Un algoritmo de control de acceso al medio basado en CDMA/CA.
+ANSWER: B
+
+84. La plataforma de validación de certificados VALIDE del Ministerio de la Presidencia permite validar:
+a) Las URLs de los portales de las Administraciones Públicas.
+b) Los códigos seguros de verificación.
+c) Los certificados de sedes electrónicas y los códigos seguros de verificación.
+d) Los certificados de sede electrónica.
+ANSWER: B
+
+85. En la aprobación del Plan de Sistemas de Información en la metodología Métrica versión 3 participan:
+a) Comité de Dirección y jefe de proyecto del PSI.
+b) Comité de Dirección, jefe de proyecto y usuarios expertos.
+c) Comité de Dirección, consultores y jefe de proyecto.
+d) Jefe de proyecto, responsable de seguridad y usuarios expertos.
+ANSWER: A
+
+86. En el régimen de responsabilidad de la protección de datos de carácter personal, la legislación española tipifica como infracción grave:
+a) No proporcionar la información que solicite la Agencia Española de Protección de Datos en el ejercicio de las competencias que tiene legalmente atribuidas, en relación con aspectos no sustantivos de la protección de datos.
+b) La comunicación o cesión de los datos de carácter personal, fuera de los casos en que estén permitidas.
+c) La recogida de datos en forma engañosa y fraudulenta.
+d) El impedimento o la obstaculización del ejercicio de los derechos de acceso y oposición y la negativa a facilitar la información que sea solicitada.
+ANSWER: D
+
+87. En el modelo de referencia de Interconexión de sistemas abiertos (OSI/ISO), ¿cuál es la afirmación correcta?:
+a) Las normas de intercomunicación entre capas constituyen cada protocolo.
+b) No todos los nodos participantes en una comunicación necesitan implementar todas las capas del modelo.
+c) Cada entidad del nivel N se comunica directamente con su par.
+d) Al especificar cualquier servicio que una capa proporciona, se emplean siempre las primitivas REQUEST, INDICATION, RESPONSE, CONFIRM.
+ANSWER: B
+
+88. En relación a la facturación electrónica, señale la afirmación correcta:
+a) La AEAT pone a disposición de los usuarios software distribuible para generar PDF417.
+b) El formato "Facturae" permite la inclusión de extensiones a nivel de línea, de factura o de lote de facturas.
+c) El certificado a usar para firmar la factura electrónica y que ésta tenga validez ha de ser en todo caso el del obligado tributario.
+d) La Orden EHA/962/2007 dice que la obligación de remisión y conservación de facturas o documentos sustitutivos se cumplirá para la facturación electrónica mediante el uso de firma electrónica reconocida.
+ANSWER: B
+
+89. La distancia de Hamming entre las palabras 01000 y 01010 es:
+a) 1
+b) 2
+c) 3
+d) 5
+ANSWER: A
+
+90. En relación a la seguridad en redes inalámbricas, cuál de las siguientes afirmaciones es FALSA:
+a) Entre los mecanismos básicos de seguridad aplicables en redes inalámbricas, se encuentran: 1. Ocultación del SSID (identificador de red). 2. Filtrado MAC. 3. Ajuste de potencia. 4. Uso de mecanismos de autenticación y cifrado.
+b) El ataque DoS, "Clear Channel Assesments", basado en falsear el mecanismo CCA, afecta a dispositivos 802.11a, 802.11b y 802.11g.
+c) Una RSN "Robust Security Network" es una red de seguridad en la que todas las asociaciones entre sus miembros se basan en fuertes mecanismos criptográficos y de autenticación.
+d) AirMagnet, Airodump, Aireplay, Kismet y Netstumbler, son herramientas informáticas que permiten estudiar redes inalámbricas.
+ANSWER: B
+
+91. En CORBA la invocación de un objeto para su ejecución sigue el siguiente camino:
+a) Cliente - IDL Stub - ORB (Object Request Broker) - IDL Skeleton -Servidor.
+b) Cliente - ORB (Object Request Broker) - Servidor.
+c) Cliente - IDL Stub - Servidor.
+d) Cliente - IDL Skeleton - ORB (Object Request Broker) - IDL Stub - Servidor.
+ANSWER: A
+
+92. El estándar internacional que más se asemeja a las guías de buenas prácticas ITIL es el:
+a) IS0 9000.
+b) ISO 20000.
+c) ISO 27001.
+d) ISO 27000.
+ANSWER: B
+
+93. ¿Cuál es el nivel mínimo de accesibilidad que deben cumplir las páginas de Internet de las Administraciones Públicas o financiadas con fondos públicos?:
+a) No existe mínimo alguno fijado por la normativa.
+b) El definido en las prioridades 1 y 2 de la norma UNE 139803:2004.
+c) El más alto que permita el estado de la técnica en cada momento.
+d) El definido en la norma UNE 14009:2006, apartados 2 y 3.
+ANSWER: B
+
+94. En un Ministerio de la Administración General del Estado, ¿cuál es el rango administrativo mínimo de una sede electrónica?:
+a) Una Secretaría de Estado.
+b) Una Subsecretaría.
+c) Una Subdirección General.
+d) Una Dirección General.
+ANSWER: D
+
+95. De acuerdo con la normativa de protección de datos de carácter personal, proceder a la creación de ficheros de titularidad pública o iniciar la recogida de datos de carácter personal para los mismos, sin autorización de disposición general publicada en el BOE o Diario oficial correspondiente, se considerará:
+a) Infracción leve.
+b) Infracción notable.
+c) Infracción grave.
+d) Infracción muy grave.
+ANSWER: C
+
+96. En relación con el modelo EFQM, ¿cuál de las siguientes afirmaciones es correcta?:
+a) El modelo EFQM se compone de 9 criterios, de los cuales 4 son agentes facilitadores y 5 son resultados.
+b) El modelo EFQM tomó como referencia otros modelos de calidad, tales como Malcom Baldrige y Deming.
+c) Los resultados del modelo EFQM son: resultados clave, resultados en la sociedad, resultados en los proveedores, resultados en los clientes y resultados en las personas.
+d) Los agentes facilitadores del modelo EFQM son: liderazgo, personas, procesos, política y estrategia.
+ANSWER: B
+
+97. Señale la afirmación NO correcta en relación con el Registro Electrónico Común (REC) de la Administración General del Estado:
+a) REC posibilita la presentación de cualesquiera solicitudes, escritos y comunicaciones dirigidas a la Administración General del Estado y a sus Organismos públicos.
+b) La Dirección General de Impulso de la Administración Electrónica del Ministerio de la Presidencia, es la responsable de la custodia y manejo de los escritos presentados.
+c) Los formatos de los documentos electrónicos y de las imágenes electrónicas de los documentos, se establecen en el marco del Esquema Nacional de Interoperabilidad.
+d) El acuse de recibo electrónico emitido por REC da constancia de la presentación, pero no implica el inicio del cómputo de plazos a los restantes efectos.
+ANSWER: B
+
+98. Indique cuál de las siguientes afirmaciones es FALSA:
+a) A temperatura ambiente y bajo condiciones normales de atmósfera, el valor de la banda de energía denominada GAP es de 1'12 eV para el Silicio y 1'42 eV para el Arseniuro de Galio.
+b) Un semiconductor intrínseco es aquél que contiene elevadas cantidades de impurezas en comparación con las cantidades de electrones y huecos generados térmicamente.
+c) El nivel de Fermi es el nivel de energía en el cuál la probabilidad de ocupación del mismo por un electrón es exactamente 1/2.
+d) Un dispositivo bipolar es un dispositivo semiconductor en el que tanto huecos como electrones participan en el proceso de conducción.
+ANSWER: B
+
+99. En programación orientada a objetos, la capacidad de un objeto de una clase dada A de aparecer y comportarse como si fuera de la clase B se conoce como:
+a) Herencia.
+b) Extensibilidad.
+c) Sobrecarga.
+d) Polimorfismo.
+ANSWER: D
+
+100. ¿Cuál de los siguientes principios NO está definido en el Marco Europeo de Interoperabilidad?:
+a) Seguridad.
+b) Subsidiariedad.
+c) Compatibilidad del hardware.
+d) Protección de datos de carácter personal.
+ANSWER: B

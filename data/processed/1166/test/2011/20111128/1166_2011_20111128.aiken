@@ -1,0 +1,699 @@
+1. En virtud del Derecho de Acceso a que se refiere el artículo 15 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal:
+a) El interesado, previo pago de la tasa correspondiente, tendrá derecho a obtener información sobre sus datos de carácter personal sometidos a tratamiento.
+b) El interesado tendrá derecho a que se le faciliten gratuitamente las claves de acceso o códigos para el acceso a sus datos de carácter personal o profesional que estén siendo tratados.
+c) El interesado tendrá derecho a obtener información gratuita de sus datos de carácter personal sometidos a tratamiento, pero en ningún caso de las comunicaciones que se prevean hacer de ellos.
+d) El derecho de acceso a que se refiere este artículo sólo podrá ser ejercitado a intervalos no inferiores a doce meses, salvo que el interesado acredite un interés legítimo al efecto, en cuyo caso podrán ejercitarlo antes.
+ANSWER: D
+
+2. En relación con los entornos de workflow indique la afirmación correcta:
+a) A partir de la representación de un proceso en notación BPMN puede obtenerse su especificación en BPEL y viceversa.
+b) WS-BPEL v 2.0 ya permite incorporar al modelado los procesos manuales.
+c) BPMN incluye tanto el modelado de la secuencia de actividades como los datos y mensajes intercambiados entre los participantes.
+d) XPDL y BPEL son implementaciones distintas de BPMN, XPDL basada en XML y BPEL en web services.
+ANSWER: C
+
+3. Según ITIL v3, ¿cuál de las siguientes es una actividad del proceso de la Gestión de Activos y Configuración del Servicio?
+a) Tener en cuenta todos los activos financieros de la Organización.
+b) Especificar los atributos relevantes para cada Elemento de Configuración (CI).
+c) Construir modelos de servicio para justificar implementaciones ITIL.
+d) Implementar ITIL en la organización.
+ANSWER: B
+
+4. ¿Qué procedimiento de adjudicación de contratos introdujo como novedad la Ley 30/2007, de 30 de octubre, de Contratos de Sector Público?
+a) Procedimiento restringido.
+b) Diálogo competitivo.
+c) Procedimiento compartido.
+d) Procedimiento negociado con publicidad.
+ANSWER: B
+
+5. En programación orientada a objetos, una clase que no puede poseer instancias se denomina:
+a) Genérica.
+b) Final.
+c) Interfaz.
+d) Abstracta.
+ANSWER: D
+
+6. Cual de los siguientes NO es un algoritmo de funciones hash:
+a) SHA-256.
+b) BASH.
+c) WHIRLPOOL.
+d) HAVAL.
+ANSWER: B
+
+7. Los certificados de clave pública
+a) Que se ajustan a la recomendación X.509 v.2 no admiten extensiones.
+b) Tienen en torno a 1 Mbytes.
+c) Que se ajustan a la recomendación X.509 v.3 sólo admiten como algoritmo de cifrado el RSA.
+d) Fueron propuestos por Diffie y Hellman en su artículo en que establecieron las bases de los criptosistemas de clave pública.
+ANSWER: A
+
+8. ¿Cuál NO es una característica de las transacciones?:
+a) Concurrencia
+b) Durabilidad
+c) Aislamiento
+d) Atomicidad.
+ANSWER: A
+
+9. Según el modelo de Mc Call, ¿cuál de las siguientes NO es una medida directa aplicable a un atributo relativo a un producto?
+a) Estructuración.
+b) Coste.
+c) Modularidad.
+d) Acoplamiento.
+ANSWER: B
+
+10. El entorno donde se ejecutan todas las aplicaciones .NET se llama:
+a) Swing
+b) ASP.NET
+c) ECLIPSE
+d) CLR
+ANSWER: D
+
+11. En el ejercicio del Derecho de oposición, el responsable del fichero resolverá sobre la solicitud de oposición:
+a) En el plazo máximo de quince días a contar desde la recepción de la solicitud.
+b) En el plazo máximo de veinte días a contar desde la recepción de la solicitud.
+c) En el plazo máximo de un mes a contar desde la recepción de la solicitud.
+d) En el plazo máximo de diez días a contar desde la recepción de la solicitud.
+ANSWER: D
+
+12. ¿Cuál de las siguientes metodologías NO se considera ágil?:
+a) Mélé
+b) OMT
+c) DAS (Desarrollo Adaptativo de Software)
+d) DCC (Desarrollo Conducido por Características)
+ANSWER: B
+
+13. En un DFD los niveles de los diagramas que recogen la descomposición en niveles, desde el más general al más específico, se denominan:
+a) Diagrama de sistema, subsistemas, funciones, subfunciones, procesos y subprocesos.
+b) Diagrama de contexto, sistemas, subsistemas, funciones y subfunciones.
+c) Diagrama de contexto, sistemas, funciones y subfunciones.
+d) Diagrama de contexto, subsistemas, funciones, subfunciones y procesos.
+ANSWER: D
+
+14. El diagrama de estructura de datos (DED):
+a) Representa el modelo lógico de datos.
+b) Es único para cada sistema de información.
+c) Se conoce también como Diccionario de Datos.
+d) Define un conjunto de objetos que comparten una misma estructura y comportamiento común.
+ANSWER: A
+
+15. Las funciones resumen (hash) MD5 y SHA-1 tienen en común:
+a) Que ambas admiten mensajes de entrada de longitud máxima 264 Mbytes.
+b) Que ambas generan resúmenes de 128 bits.
+c) Que ambas realizan relleno de bits (si procede) en el último bloque del mensaje.
+d) Que ambas realizan 80 iteraciones por bloque del mensaje.
+ANSWER: C
+
+16. Identificar que protocolo no está diseñado específicamente para la extensión de las SAN sobre protocolo IP:
+a) iFTP
+b) iSCSI
+c) FCIP
+d) iFCP
+ANSWER: A
+
+17. Cuál de los siguientes tipos de canales, en comunicaciones móviles, permite la comunicación directa móvil a móvil:
+a) Semidúplex.
+b) Dúplex.
+c) Símplex a una frecuencia.
+d) Símplex a dos frecuencias.
+ANSWER: C
+
+18. El Texto Refundido de la Ley de la Protección Intelectual establece que la duración de la protección de los derechos de explotación sobre los programas de ordenador se extiende como máximo a:
+a) 70 años computados desde el día siguiente a la divulgación lícita del programa, si el autor es una persona jurídica.
+b) 50 años desde el 1 de enero del año siguiente a la divulgación lícita del programa o a su creación si no se hubiera divulgado.
+c) toda la vida del autor y 70 años después de su muerte, si el autor es una persona física.
+d) 50 años desde el 1 de enero del año siguiente a la divulgación lícita del programa, cualquiera que sea la personalidad del autor.
+ANSWER: C
+
+19. La taxonomía de Flynn clasifica los ordenadores en función de:
+a) la relación mayor o menor entre memoria principal y almacenamiento externo.
+b) el flujo que siguen los datos dentro de la máquina y de las instrucciones sobre esos datos.
+c) el método de acceso a los dispositivos de almacenamiento externo.
+d) la relación entre la velocidad de acceso a datos según estén en memoria o almacenamiento externo.
+ANSWER: B
+
+20. En la práctica de notificaciones por medios electrónicos a que se refiere el artículo 28 de la Ley 11/2007, de 22 de junio, de Acceso electrónico de los ciudadanos a los Servicios públicos:
+a) Se requerirá en todo caso que el interesado lo haya solicitado previamente por escrito en el Registro del órgano que ha de resolver.
+b) Cuando no pueda acreditarse por el sistema la fecha y hora en que se produzca, se entenderá, a efectos de ulterior recurso, practicada el último día del plazo en que debía practicarse.
+c) Cuando, existiendo constancia de la puesta a disposición de la notificación transcurrieran diez días naturales sin que se acceda a su contenido, se entenderá que la notificación ha sido rechazada con los efectos previstos en el artículo 59.4 de la LRJPAC.
+d) Cuando, existiendo constancia de la puesta a disposición de la notificación transcurrieran diez días hábiles sin que se acceda a su contenido, se entenderá que la notificación ha sido debidamente practicada y surtirá los efectos previstos en el artículo 2.
+ASNWER: C
+
+21. La creación, modificación o supresión de los ficheros de las Administraciones Públicas:
+a) Se realizarán por medio de resolución del Subsecretario, no siendo necesaria su publicación.
+b) Se realizarán por medio de disposición general, no siendo necesaria su publicación.
+c) Se realizarán por medio de resolución del Subsecretario publicada en el Boletín Oficial del Estado.
+d) Se realizarán por medio de disposición general publicada en el Boletín Oficial del Estado.
+ANSWER: D
+
+22. Al hablar de software libre y de su uso en la Administración señale la frase correcta.
+a) La Ley 11/2007 obliga a las administraciones públicas a poner las aplicaciones de cuyos derechos de propiedad son titulares a disposición de cualquier otra Administración Autonómica.
+b)Una licencia de código de fuente abierta según la FSF obliga a hacer públicas todas las mejoras, poniéndolas a disposición de la comunidad.
+c) Una licencia LGPL no restringe la posibilidad de incluir el software protegido por la licencia en productos protegidos por licencias no GPL.
+d) El Real Decreto 4/2010 del Esquema Nacional de Interoperabilidad prevé un catálogo únicamente de estándares abiertos de uso obligatorio por las administraciones públicas.
+ANSWER: C
+
+23. Señale qué afirmación de las siguientes es cierta en relación al Valor Actual Neto (VAN) y la Tasa Interna de Rentabilidad (TIR):
+a) Si el VAN es negativo, la TIR de la inversión es superior al coste del capital.
+b) En una inversión con VAN negativo, la TIR de la inversión es igual al coste del capital.
+c) Si el VAN positivo, la TIR de la inversión es inferior al coste del capital.
+d) En una inversión con VAN positivo, la TIR será superior al coste del capital.
+ANSWER: D
+
+24. De acuerdo a la Ley 11/2007, de 22 de junio, el foliado de los expedientes electrónicos:
+a) Se llevará a cabo mediante un índice electrónico firmado por la Administración, órgano o entidad actuante, según proceda.
+b) Se llevará a cabo mediante un índice electrónico firmado por la persona física o jurídica que dio lugar al inicio del trámite y/o del expediente.
+c) Se llevará a cabo mediante un índice electrónico que podrá estar o no firmado.
+d) Podrá constituirse por medio de la construcción de un índice electrónico de carácter voluntario y cuyo cometido principal será permitir un acceso más eficaz a los documentos.
+ANSWER: A
+
+25. La replicación continua de datos (o copia en tiempo real)
+a) Es un sistema mucho más ventajoso que la replicación discreta porque permite recuperar la información existente en cualquier momento del tiempo de forma mucho más rápida.
+b) Es un sistema mucho menos ventajoso que la replicación discreta o backups porque requiere mucha más capacidad de almacenamiento.
+c) Puede ser síncrona o asíncrona. En el segundo caso, es equivalente a la replicación discreta.
+d) No sirve por sí misma para garantizar la integridad de la información frente a determinadas situaciones.
+ANSWER: D
+
+26. En lo relativo a los entornos de e-learning indique cuál es la frase ERRÓNEA.
+a) Los trabajos del IMS incluyen un modelo para el etiquetado de los contenidos en XML pero no para su agregación en cursos.
+b) El estándar SCORM aborda la modelización de los objetos de aprendizaje y también su modo de ejecución por un LMS.
+c) El estándar AICC contempla la comunicación entre el curso y el LMS a través de una API.
+d) Las funciones básicas de un LMS son las de administrar usuarios, cursos, resultados y recursos tanto materiales como pedagógicos y de comunicación.
+ANSWER: A
+
+27. ¿Qué diagrama UML muestra el flujo de acciones en curso, no necesariamente atómicas, en relación a la estructura de estados del sistema?:
+a) Diagrama de secuencia.
+b) Diagrama de estados.
+c) Diagrama de actividad.
+d) Diagrama de colaboración.
+ANSWER: C
+
+28. ¿Cuál de los siguientes conceptos introducidos por Symons fue una novedad en la métrica Puntos de Función MARK II respecto a la original de Albrecht?
+a) Fichero lógico de Entrada.
+b) Entidad.
+c) Consultas Externas.
+d) Característica.
+ANSWER: B
+
+29. Seleccione la frase correcta acerca de los sistemas gestores de bases de datos y los modelos de datos que emplean.
+a) Independientemente del modelo de datos, la capacidad de un SGBD para manejar accesos concurrentes es imprescindible para la "Consistencia" del "ACID test".
+b) El modelo de datos en red permite recuperar bloques de varios registros mediante el uso de punteros.
+c) El modelo jerárquico es una variante de los modelos en red que elimina las relaciones N:M.
+d) El modelo relacional incorpora restricciones inherentes al mismo que se denominan restricciones semánticas.
+ANSWER: C
+
+30. En la terminología relativa a protección de activos de información, y concretamente en materia de recuperación de desastres, se entiende por "costes máximos tolerables":
+a) El tiempo máximo tolerable determinado en base a la pérdida aceptable de datos en caso de interrupción de las operaciones.
+b) El tiempo máximo que la organización puede esperar desde el punto de fallo hasta la recuperación de los servicios críticos.
+c) El tiempo máximo que la organización puede soportar procesar en modo alterno.
+d) El tiempo en el que deben recuperarse las operaciones tras la aparición del desastre.
+ANSWER: C
+
+31. Según el artículo 4 de la Ley 11/2007, de 22 de junio, de Acceso electrónico de los ciudadanos a los Servicios Públicos, el principio de igualdad en la utilización de tecnologías de la información se refiere a:
+a) La exigencia de idéntico nivel de garantías y seguridad que el que se requiere para la utilización de medios no electrónicos en la actividad administrativa.
+b) Que en ningún caso el uso de medios electrónicos pueda implicar la existencia de restricciones o discriminaciones para los ciudadanos que se relacionen con las Administraciones Públicas por medios no electrónicos.
+c) La garantía de la accesibilidad universal y el diseño adaptado para todas las personas de los soportes, canales y entornos con objeto de que todos los ciudadanos puedan ejercer sus derechos en igualdad de condiciones.
+d) Que el uso de medios electrónicos debe garantizar por igual a todos los ciudadanos la máxima difusión, publicidad y transparencia de las actuaciones administrativas.
+ANSWER: B
+
+32. La publicación del BOE en su sede electrónica:
+a) No tiene carácter de oficial y auténtica, constituyendo lo publicado una mera manifestación de servicio público, ya que lo que tiene valor de oficial y auténtica es su edición impresa.
+b) Tendrá carácter de oficial y auténtica, al igual que la publicación del resto de diarios oficiales de las CC.AA, a partir del 1 de enero de 2013.
+c) Tiene carácter de oficial y auténtica, derivándose de dicha publicación los efectos previstos en el título preliminar del Código Civil y en las restantes normas aplicables.
+d) Tiene carácter de oficial y auténtica desde el día 1 de enero de 2011, excepto el contenido de la Sección de Anuncios, que se rige por su normativa específica.
+ANSWER: C
+
+33. Indique la frase correcta acerca de los servicios web distribuidos.
+a) WSDL 1.1 define dos únicos tipos de operación, la unidireccional y la de petición-respuesta.
+b) Para describir las interfaces de los servicios web se utiliza WS-BPEL.
+c) Un usuario de un servicio registra éste utilizando UDDI.
+d) SOAP es un protocolo para hacer llamadas a métodos de objetos remotos.
+
+34. El Comité Sectorial de Administración Electrónica:
+a) Es el órgano de cooperación interministerial de la Administración General del Estado en materia de administración electrónica.
+b) Es el órgano técnico adscrito a la Comisión Europea que canaliza la colaboración entre la Administración General del Estado y el resto de países de la Unión Europea en materia de administración electrónica.
+c) Es el órgano técnico de cooperación de la Administración General del Estado, Comunidades Autónomas y Entidades Locales en materia de administración electrónica.
+d) Es el órgano técnico adscrito a la Comisión Europea encargado de unificar los criterios en materia de tratamiento y protección de datos de carácter personal en el ámbito de la Unión Europea.
+ANSWER: C
+
+35. En el ámbito del modelo COCOMO, un proyecto de tipo empotrado:
+a) Es un proyecto relativamente pequeño y sencillo, con poca innovación tecnológica.
+b) Es un proyecto a ser incrustado en dispositivos móviles.donde los recursos son escasos.
+c) Es un proyecto de nivel intermedio en tamaño, complejidad y sofisticación.
+d) Es un proyecto de un tamaño y complejidad francamente elevado, donde los requisitos hardware y software son muy rígidos.
+ANSWER: D
+
+36. Señale la afirmación correcta respecto del patrón de diseño MVC (Modelo, Vista, Controlador):
+a) A pesar de su amplia difusión con las arquitecturas Web, nació en la década de los sesenta.
+b) Los componentes que se encargan de la lógica de negocio forman parte del Modelo.
+c) La Vista variará inevitablemente al variar el Modelo.
+d) El patrón de diseño MVC es un modo de dividir la funcionalidad de un componente de forma ordenada.
+ANSWER: B
+
+37. Indique cuál de las siguientes afirmaciones es FALSA:
+a) GSM (Global System Mobile) permite la utilización de los canales tanto para la transmisión de voz como de datos.
+b) GSM permite la utilización de técnicas de supresión de silencios.
+c) GSM emplea radiocanales de 5MHz de ancho de banda.
+d) Las recomendaciones GSM contemplan la posibilidad de utilizar un codificador de voz que permita dividir en dos cada canal.
+ANSWER: C
+
+38. Indique la frase EQUIVOCADA acerca del sistema de archivos de Windows
+a) NTFS es el sistema de archivo por defecto en Windows XP y Windows 7 y utiliza direcciones de bloques (LCN) de 64 bits.
+b) Los archivos NTFS presentan varios atributos, cada uno de los cuales se representan con una secuencia de bytes.
+c) Una partición de disco NTFS se organiza como una secuencia lineal de bloques de tamaño fijo.
+d) Un volumen NTFS cuenta con dos tablas MFT, una para describir los archivos (MTF-F) y otra para los directorios (MTF-D).
+ANSWER: D
+
+39. ¿Qué es el dividendo digital?
+a) Una parte del espectro radioeléctrico que ha quedado liberada tras la implantación de la TDT.
+b) Una parte del espectro digital.
+c) Una compresión del espectro debido a la utilización de señales digitales.
+d) Una reasignación de frecuencias dentro de la banda que utiliza la TDT.
+ANSWER: A
+
+40. El término formal que se emplea para indicar que los datos de un objeto solamente pueden ser manipulados a través de métodos definidos en su interfaz se conoce como:
+a) Polimorfismo.
+b) Abstracción.
+c) Encapsulación.
+d) Persistencia.
+ANSWER: C
+
+41. El "Servicio Central de Gestión de Facturación" de la Administración General del Estado, es descrito en:
+a) Ley 30/2007 de Contratos del Sector Público.
+b) ORDEN PRE/2971/2007, sobre la expedición de facturas por medios electrónicos cuando el destinatario de las mismas sea la Administración General del Estado.
+c) Ley 56/2007 de Medidas de Impulso de la Sociedad de la Información.
+d) Orden PRE/2794/2011, por el que se determina el marco de ejercicio de las competencias estatales en materia de factura electrónica.
+ANSWER: D
+
+42. Señale la afirmación correcta respecto de los dominios de broadcast y dominios de colisión:
+a) Los conceptos dominio de broadcast y dominio de colisión están basados en el método de acceso al medio CSMA.
+b) Un encaminador separa dominios de colisión y dominios de broadcast.
+c) La microsegmentación se asocia al dominio de broadcast para evitar bucles en redes mal diseñadas.
+d) La unión de dos dominios de broadcast da lugar a un único dominio de colisión.
+ANSWER: B
+
+43. ¿Cuál de los siguientes sistemas proporciona la funcionalidad de Single Sign-On basada en tickets?
+a) KERBEROS.
+b) STORK.
+c) SAML.
+d) OPENID.S
+ANSWER: A
+
+44. Según el RD 1671/2009 de 6 de noviembre, ¿cuál de las siguientes condiciones NO es requisito necesario para el uso de CSV como sistema de firma electrónica?
+a) Carácter único del código del documento.
+b) Utilización de generadores aleatorios tomando como semillas la identidad del firmante y el contenido del documento.
+c) Posibilidad de verificar el documento por el tiempo que se establezca.
+d) Para su utilización, se requiere una orden del Ministro competente o resolución del titular del organismo público, publicada en la sede electrónica.
+ANSWER: B
+
+45. En un diagrama de transición de estados, según Métrica v3:
+a) Se puede representar más de un estado inicial, que irán conectados al primer estado del diagrama.
+b) En los sistemas de tiempo real puede haber transiciones que partan del estado final.
+c) Pueden existir varios estados finales, pero serán mutuamente excluyentes.
+d) Los elementos permitidos serán únicamente estados, transiciones y acciones.
+ANSWER: C
+
+46. Las denominadas "Pautas de accesibilidad al contenido en la web" (WCAG 2.0), se organizan en cuatro principios básicos. A saber:
+a) Perceptible; Robusto; Amable y Comprensible.
+b) Operable; Adaptable; Comprensible y Maduro.
+c) Perceptible; Operable; Comprensible y Robusto.
+d) Operable; Amable; Maduro y Comprensible.
+ANSWER: C
+
+47. En cuál de las siguientes combinaciones de topologías de red, un fallo en el cableado de red, impedirá el
+funcionamiento de toda ella:
+a) Topología Estrella física y Mallada lógica.
+b) Topología Anillo física y Bus lógica.
+c) Topología Mallada física y Anillo lógica.
+d) Topología Bus física y Estrella lógica.
+ANSWER: D
+
+48. A los efectos previstos en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de datos de carácter personal, se entiende por "Procedimiento de disociación":
+a) Todo tratamiento de datos personales de modo que la información que se obtenga sólo pueda asociarse a una determinada persona.
+b) Todo tratamiento de datos personales de modo que la información que se obtenga sólo pueda ser identificable por el interesado pero no por terceras personas.
+c) Todo tratamiento de datos personales de modo que la información que se obtenga no pueda asociarse a persona identificada o identificable.
+d) Todo tratamiento de datos personales de modo que la información que se obtenga se pueda tratar por el responsable del fichero para identificar a un grupo de personas con idénticas características personales.
+ANSWER: C
+
+49. [ANULADA] Indique la afirmación INCORRECTA con respecto al formato JPEG 2000:
+a) ANULADA POR ERRATA
+b) ANULADA POR ERRATA
+c) ANULADA POR ERRATA
+d) ANULADA POR ERRATA
+ANSWER:
+
+50. En el entorno de la firma electrónica y la identidad electrónica, STORK identifica:
+a) Un proyecto financiado por la Comisión Europea para establecer la interoperabilidad de las identidades electrónicas de los Estados Miembros.
+b) A la PKI desplegada por la Comisión Europea para la futura carta de identidad electrónica europea.
+c) La implementación opensource realizada por la Comisión Europea de un cliente de firma electrónica.
+d) El consorcio de fabricantes e industria Europea relacionado con la firma electrónica e identidad electrónica.
+ANSWER: A
+
+51. Las comunicaciones comerciales no solicitadas realizadas a través de correo electrónico o medios de comunicación electrónica equivalentes:
+a) Deben incluir al comienzo del mensaje la palabra «publicidad».
+b) Deben indicar la persona física o jurídica en nombre de la cual se realizan.
+c) Deben incluir claramente las condiciones comerciales o promocionales.
+d) Están prohibidas.
+ANSWER: D
+
+52. Indique la frase correcta acerca de las arquitecturas de microprocesadores:
+a) La arquitectura CISC es más moderna que la arquitectura RISC y busca ampliar el conjunto de instrucciones de ésta.
+b) La arquitectura RISC dispone de un número reducido de instrucciones y gran variedad de registros de uso dedicado.
+c) La arquitectura RISC maneja instrucciones con formato regular y complejos modos de direccionamiento.
+d) La arquitectura CISC dispone de instrucciones complejas y dependiendo de ellas maneja diferentes longitudes de palabra.
+ANSWER: D
+
+53. En relación al proceso de Análisis de Sistemas de Información (ASI) de Métrica v.3, un producto de la actividad Establecimiento de Requisitos es:
+a) Modelo conceptual de datos.
+b) Modelo de casos de uso.
+c) Catálogo de usuarios.
+d) Catálogo de excepciones.
+ANSWER: B
+
+54. Indique la frase ERRÓNEA acerca de las técnicas de configuración de servidores.
+a) Existen tres tipos de cluster: de alta disponibilidad, de alto rendimiento y de balanceo de carga.
+b) La principal limitación técnica para un centro de respaldo en configuración activo activo es el tiempo de latencia.
+c) El balanceo de carga solo puede implementarse por software.
+d) La virtualización permite optimizar el uso del procesador y la memoria de los equipos físicos.
+ANSWER: C
+
+55. En programación orientada a objetos, la propiedad por la cual un mismo mensaje puede originar conductas diferentes al ser recibido por distintos objetos se denomina:
+a) Sobrecarga.
+b) Herencia.
+c) Extensibilidad.
+d) Polimorfismo.
+ANSWER: D
+
+56. La norma ISO 9004:2000 hace referencia a:
+a) Recomendaciones para la mejora del desempeño en sistemas de gestión de la calidad.
+b) Guía relativa a las auditorías de la gestión de la calidad y de la gestión medioambiental.
+c) Requisitos de los sistemas de gestión de la calidad.
+d) Fundamentos y vocabulario en el ámbito de los sistemas de gestión de calidad.
+ANSWER: A
+
+57. Los cifradores de clave secreta:
+a) Pueden encadenarse (cifrado producto) produciendo un criptograma más robusto que el obtenido al aplicar un único cifrado.
+b) A igualdad de longitud de clave son más robustos que los de clave pública.
+c) Su seguridad recae en el secreto del diseño.
+d) Se usan en los sistemas operativos Windows XP y 7 para proteger las contraseñas de los usuarios.
+ANSWER: B
+
+58. En el ámbito de la auditoría de sistemas se denominan hallazgos a:
+a) Las tareas orientadas a comprobar que se cumplen determinados procesos de control o procedimientos establecidos.
+b) Los criterios, condiciones y efectos que permiten documentar los problemas encontrados.
+c) Las tareas que permiten al equipo auditor entender el entorno de los sistemas a auditar.
+d) Los métodos aplicados para conseguir el objetivo de la auditoría.
+ANSWER: B
+
+59. Identifique la característica que NO forma parte de los principios de diseño SOA:
+a) Interconexión.
+b) Encapsulación.
+c) Reutilización.
+d) Descubrimiento.
+ANSWER: A
+
+60. ¿Cuál de los siguientes NO corresponde a uno de los tipos de uso establecidos para el dominio público radioeléctrico?
+a) Uso Común.
+b) Uso Especial.
+c) Uso General.
+d) Uso Privativo.
+ANSWER: C
+
+61. La regla de "Actualización de Vistas" (Regla 6) de Codd establece que:
+a) Todas las vistas actualizadas deben actualizarse también en el catálogo de datos.
+b) Todas las vistas que son teóricamente actualizables se pueden actualizar por el sistema.
+c) La actualización de una vista se realiza manteniendo la integridad del conjunto de información del sistema.
+d) Todas las vistas que son actualizadas no requieren un cambio en su estructura lógica.
+ANSWER: B
+
+62. Señale la frase correcta acerca de los diferentes modelos de representación del conocimiento:
+a) En los procesos de inferencia en redes semánticas el uso de la herencia permite efectuar emparejamientos sin necesidad de un homomorfismo total entre la red pregunta y la red respuesta.
+b) La utilización de marcos como modo de representación de conocimiento permite asociar a un concepto un conjunto de atributos estáticos, cuya actualización o modificación no forma parte del modelo.
+c) El algoritmo de extracción de la raíz cuadrada de un número es un ejemplo de representación declarativa de conocimiento.
+d) En una red neuronal entrenada los pesos de los enlaces entre neuronas dependen solamente del algoritmo de entrenamiento empleado.
+ANSWER: A
+
+63. ¿Cuál de las siguientes es una tecnología de desarrollo de sistemas distribuidos basados en objetos?:
+a) UMTS.
+b) JINI.
+c) VORBIS.
+d) CLOS.
+ANSWER: B
+
+64. Según el RD 1671/2009 de 6 de noviembre, las copias electrónicas idénticas al documento electrónico original que no comportan cambio de formato se considerarán:
+a) Copia auténtica del documento original.
+b) Copia compulsada del documento original.
+c) Documento original.
+d) No tendrán validez.
+ANSWER: C
+
+65. Referente a las radiaciones electromagnéticas espúreas emitidas por los equipos basados en tecnologías de la información:
+a) TEMPEST es el acrónimo de Telecommunications Electronics Material Protected from Emanating Spurious Transmissions.
+b) En el ámbito del Ministerio de Defensa la certificación TEMPEST es emitida por el CCN (Centro Criptológico Nacional).
+c) El nivel 3 de certificación TEMPEST corresponde a equipos cuyas radiaciones son imperceptibles a distancias superiores a los 15 metros.
+d) Se pueden prevenir apantallando los equipos mediante una jaula de Faraday.
+ANSWER: B
+
+66. En el contexto de la firma electrónica y su regulación en España señale la afirmación FALSA.
+a) Los funcionarios al servicio de las administraciones públicas españolas pueden firmar en el ejercicio de su cargo utilizando su DNI electrónico.
+b) Los códigos de verificación segura (CSV) junto con los sellos de órgano sirven para dotar de firma electrónica reconocida a la actuación administrativa automatizada.
+c) Un dispositivo seguro de creación de firma debe garantizar que los datos usados para generar la firma pueden producirse sólo una vez.
+d) Un certificado electrónico reconocido ha de incluir la firma electrónica avanzada del prestador de servicios de certificación que lo expide.
+ANSWER: B
+
+67. ¿Cómo se puede validar documentos en XML?
+a) Usando XSL Schema.
+b) Usando XSLT.
+c) Usando un Applet de validación.
+d) Usando un DTD.
+ANSWER: D
+
+68. Los certificados incorporados al DNI-e:
+a) Son dos: de autenticación y de firma del ciudadano.
+b) Los usuarios finales pueden validarlos en la Dirección General de la Policía, que está constituida como Autoridad de Validación.
+c) Están basados en la recomendación X. 509 v.3 sin extensión alguna.
+d) Están integrados en un chip certificado en el nivel de seguridad EAL4+ definido en la norma ISO/IEC 15408.
+ANSWER: D
+
+69. En el modelo de ciclo de vida en espiral, dentro de cada ciclo:
+a) La dimensión radial representa el avance y la angular el coste.
+b) La dimensión radial representa la complejidad y la angular el avance.
+c) La dimensión radial representa el coste y la angular la complejidad.
+d) La dimensión radial representa el coste y la angular el avance.
+ANSWER: D
+
+70. Podemos definir el ratio de cobertura de un sistema de búsqueda documental como:
+a) La proporción de documentos relevantes recuperados que previamente son conocidos por el usuario.
+b) La proporción de documentos relevantes desconocidos por el usuario que son recuperados.
+c) La proporción de documentos relevantes recuperados que han sido examinados por el usuario.
+d) La proporción de documentos relevantes recuperados, del total de documentos relevantes existentes en la base de datos.
+ANSWER: A
+
+71. En el contexto de los sistemas Datawarehouse y DataMart seleccione la frase correcta.
+a) El análisis dimensional de los datos corporativos mediante técnicas de OLAP no puede implementarse sobre bases de datos relacionales.
+b) Las bases de datos relacionales incorporan de manera estructural la jerarquía entre sucesivos niveles de una dimensión.
+c) Los modelos en copo de nieve utilizan tablas de hechos y tablas de dimensiones para el análisis de los datos corporativos.
+d) Los almacenes de datos departamentales (Datamart), a diferencia de los almacenes corporativos (Datawarehouse), no requieren procesos previos de ETL (extracción, transformación y carga).
+ANSWER: C
+
+72. Entre los objetivos del diseño de BPEL NO se encuentra:
+a) Proveer sistemas de control jerárquicos y de estilo gráfico, que permitan que su uso sea lo más fusionado posible.
+b) Soportar un método de identificación de instancias de procesos que permita la definición de identificadores a nivel de mensajes de aplicaciones.
+c) Definir procesos de negocio utilizando un lenguaje basado en XML.
+d) Definir una interpretación gráfica de los procesos.
+ANSWER: D
+
+73. El modelo de reproducción del color CMYK :
+a) Es el modelo utilizado por la mayoría de escáneres.
+b) Es un modelo de tipo sustractivo.
+c) Se basa en la combinación de tres colores: rojo, verde y azul.
+d) Es el modelo utilizado por la mayoría de monitores.
+ANSWER: B
+
+74. En el modelo Entidad-Relación extendido, si puede haber elementos de una superentidad que no estén en ninguna de las subentidades hablamos de:
+a) Jerarquía con cobertura total.
+b) Jerarquía con cobertura parcial.
+c) Jerarquía disjunta.
+d) Jerarquía con solapamiento.
+ANSWER: B
+
+75. La Red SARA:
+a) Constituye la intranet corporativa de la Administración General del Estado y de sus Organismos Autónomos y Entidades Públicas dependientes.
+b) Es la Agrupación de Servidores de Actualización de Redes Administrativas.
+c) Tiene por objeto ser la red de comunicaciones que interconecta las redes de todas las Administraciones Públicas.
+d) Agrupa los Registros Administrativos Estandarizados en el ámbito de las Estados pertenecientes a la Unión Europea.
+ANSWER: B
+
+76. Indique la frase correcta acerca de los sistemas CRM, ”Customer relationship management” y ERP “Enterprise resource planning”.
+a) La contabilidad financiera es un módulo característico de los sistemas CRM analíticos.
+b) El uso de técnicas de data mining en los CRM operacionales permite analizar tendencias en el comportamiento de los clientes.
+c) Los sistemas ERP son sistemas transaccionales que se implementan únicamente sobre arquitecturas cliente servidor.
+d) Las parametrizaciones incorporadas en los ERP los hacen más flexibles pero impiden su actualización.
+ANSWER: B
+
+77. El Fondo nacional del servicio universal tiene por finalidad garantizar la financiación del servicio universal. La aportación de activos en metálico a dicho Fondo la realiza:
+a) El Gobierno a través de los Presupuestos Generales del Estado.
+b) La Comisión del Mercado de las Telecomunicaciones.
+c) Las Comunidades Autónomas.
+d) Los operadores con obligaciones de contribuir a la financiación del servicio universal.
+ANSWER: D
+
+78. El Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica define la interoperabilidad semántica como:
+a) Aquella dimensión de la interoperabilidad relativa a la capacidad de las entidades y de los procesos a través de los cuales llevan a cabo sus actividades para colaborar con el objeto de alcanzar logros mutuamente acordados relativos a los servicios que prestan.
+b) Aquella dimensión de la interoperabilidad relativa a que la información intercambiada pueda ser interpretable de forma automática y reutilizable por aplicaciones que no intervinieron en su creación.
+c) Aquella dimensión de la interoperabilidad relativa a la relación entre sistemas y servicios de tecnologías de la información, incluyendo aspectos tales como las interfaces, la interconexión, la integración de datos y servicios, la presentación de la información, la accesibilidad y la seguridad, u otros de naturaleza análoga.
+d) Aquella dimensión de la interoperabilidad relativa a la interacción entre elementos que corresponden a diversas oleadas tecnológicas; se manifiesta especialmente en la conservación de la información en soporte electrónico.
+ANSWER: B
+
+79. ¿Cuál de los siguientes términos NO se corresponde con un tipo de cable?
+a) UTP - Unshielded Twisted Pair.
+b) STP - Shielded Twisted Pair.
+c) US/ STP - UnShielded Screened Twisted Pair.
+d) FTP - Foiled Twisted Pair.
+ANSWER: C
+
+80. ¿Cuál de los siguientes NO es un tipo de bus interno paralelo?
+a) ISA.
+b) HTI.
+c) PCI.
+d) AGP.
+ANSWER: B
+
+81. Señale la afirmación correcta acerca de la LOPD y su reglamento de desarrollo.
+a) En los ficheros de datos de nivel medio no es necesario registrar qué datos son recuperados de una copia de seguridad por un usuario autorizado.
+b) Está prohibido en todo caso el tratamiento de datos personales de nivel alto en dispositivos portátiles que no permitan el cifrado.
+c) Los datos relativos a la comisión de infracciones penales requieren de la adopción de medidas de seguridad de nivel alto.
+d) Las listas de personas pertenecientes a grupos profesionales pueden no tener el carácter de fuente pública.
+ANSWER: D
+
+82. Indicar cuál de las siguientes NO es un tipo de georreferenciación:
+a) Directa.
+b) Discreta.
+c) Indirecta.
+d) Posicional.
+ANSWER: D
+
+83. SCRUM es una metodología:
+a) Clásica.
+b) Ágil.
+c) Orientada a Objetos.
+d) Dinámica.
+ANSWER: B
+
+84. Señale la frase ERRÓNEA acerca de los sistemas de tiempo compartido.
+a) El algoritmo de round robin se basa en asignar por turno períodos de tiempo limitados a cada uno de los procesos.
+b) El algoritmo del banquero impide asignar a un proceso un recurso de un tipo del que ya no queden más recursos libres.
+c) El aplazamiento indefinido se produce cuando un proceso solicita un recurso que otro proceso ha dejado de usar sin marcarlo como “desocupado”.
+d) El mecanismo de no apropiación evita que puedan producirse “deadlocks” entre procesos.
+ANSWER: D
+
+85. De conformidad a lo previsto en el artículo 22 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal:
+a) Los ficheros creados por las Fuerzas y Cuerpos de Seguridad que contengan datos de carácter personal que, por haberse recogido para fines administrativos, deban ser objeto de registro permanente, estarán sujetos al régimen general de la Ley Orgánica citada.
+b) La recogida y tratamiento de datos de carácter personal obtenidos durante una actuación de las Fuerzas y Cuerpos de Seguridad podrán incluirse, previa autorización del Consejo General del Poder Judicial, en todos los ficheros de titularidad pública.
+c) Los ficheros creados por las Fuerzas y Cuerpos de Seguridad, ya sea con fines administrativos o policiales, se rigen por las previsiones contenidas en la Ley Orgánica 2/2006, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad del Estado.
+d) En ningún caso pueden ser tratados los datos de carácter personal creados por las Fuerzas y Cuerpos de Seguridad del Estado para fines administrativos.
+ANSWER: A
+
+86. Los certificados digitales:
+a) Basados en la recomendación X.509 v.2 admiten extensiones, que pueden llevar una bandera de criticidad.
+b) Definidos en el programa PGP (Pretty Good Privacy) son compatibles con los X.509 v.3.
+c) De atributos vinculan al titular con su clave pública y sus atributos.
+d) Basados en la recomendación X.509 v.3 pueden incorporar como extensiones los atributos que constan en un certificado de atributos.
+ANSWER: D
+
+87. [ANULADA] Anulada
+a) Anulada
+b) Anulada
+c) Anulada
+d) Anulada
+ANSWER: D
+
+88. Indique la frase acertada sobre la gestión de procesos en los sistemas UNIX.
+a) El estado de un proceso en un sistema Unix se codifica usando 3 bits,
+b) El control de procesos en Unix permite la comunicación síncrona entre procesos mediante paso de mensajes.
+c) Los procesos “daemon” son procesos interactivos del usuario root.
+d) Los sistemas Unix permiten variar la prioridad de un proceso en tiempo de ejecución pero no los permisos con que se ejecuta.
+ANSWER: B
+
+89. [ANULADA] Anulada en el examen.
+a) Anulada en el examen.
+b) Anulada en el examen.
+c) Anulada en el examen.
+d) Anulada en el examen.
+ANSWER:
+
+90. Según la recomendación X.509 v.3, las Listas de certificados revocados (CRL):
+a) Permiten conocer el estado de un certificado en el instante de la consulta.
+b) Para cada certificado revocado indican, entre otros, el nombre del titular del certificado y la correspondiente clave pública.
+c) Deben ser expedidas por las mismas Autoridades que emiten los certificados revocados.
+d) Pueden contener sólo certificados revocados desde la expedición de una CRL básica, en cuyo caso se denominan delta CRL.
+ANSWER: D
+
+91. Según la norma técnica de interoperabilidad de política de firma electrónica y de certificados de la administración del Esquema Nacional de Interoperabilidad:
+a) Los formatos para la firma electrónica de contenidos serán XAdES, CAdES y PAdES.
+b) El perfil mínimo de formato que se utilizará para la generación de firmas de contenido en el marco de una política será –A.
+c) Los documentos electrónicos a los que se aplique firma basada en certificados de cara a su intercambio no se ajustarán a las especificaciones de formato y estructura establecidas en la NTI de Documento electrónico.
+d) El perfil mínimo de formato que se utilizará para la generación de firmas de contenido en el marco de una política será –C.
+ANSWER: A
+
+92. [ANULADA] Anulada
+a) Anulada
+b) Anulada
+c) Anulada
+d) Anulada
+ANSWER: C
+
+93. AJAX es:
+a) Un lenguaje de programación basado en la codificación de programas en XML.
+b) Una filosofía o técnica de desarrollo de aplicaciones web que se apoya, entre otras tecnologías, en XML y JavaScript.
+c) Un servidor de aplicaciones Internet desarrollado en Java cuyas páginas web están escritas en XHTML.
+d) Una alternativa a SOAP en la descripción de webservices.
+ANSWER: B
+
+94. En UML, NO es un diagrama dinámico:
+a) Diagrama de secuencia.
+b) Diagrama de estado.
+c) Diagrama de despliegue.
+d) Diagrama de colaboración.
+ANSWER: C
+
+95. Elija la frase correcta.
+a) Un Iphone de uso personal se conecta siempre al servidor de Internet de iOS, que actúa como un proveedor de acceso a Internet.
+b) Un Samsung Galaxy de uso personal se conecta siempre al servidor de Internet de Android, que actúa como un proveedor de acceso a Internet.
+c) Un Nokia 500 de uso personal se conecta siempre al servidor de Internet de Symbian, que actúa como un proveedor de acceso a Internet.
+d) Una Blackberry de uso personal se conecta siempre al servidor de Internet de Blackberry, que actúa como un proveedor de acceso a Internet.
+ANSWER: D
+
+96. Aquellas pruebas que se realizan en el entorno de desarrollo y tienen como objetivo verificar el funcionamiento global del sistema de información completo se denominan:
+a) Pruebas unitarias.
+b) Pruebas de integración.
+c) Pruebas del sistema.
+d) Pruebas de implantación.
+ANSWER: C
+
+97. Según ITILv3, para qué se utiliza el modelo RACI?
+a) Para documentar los roles y relaciones entre las partes interesadas en un proceso o actividad.
+b) Para definir los requisitos de un nuevo proceso o servicio.
+c) Para analizar el impacto en el negocio de una incidencia.
+d) Para crear un Cuadro de Mando Integral que muestre el estado completo de la gestión del servicio.
+ANSWER: A
+
+98. Respecto a la tecnología WIFI:
+a) Los equipos WIFI no necesitan adaptarse a ninguna normativa.
+b) Los ayuntamientos pueden comercializar WIFI siempre y cuando se hayan inscrito en el registro de operadores.
+c) Los operadores de telecomunicaciones tienen que pedir una licencia para la utilización de la banda WIFI, que les permite comercializar este servicio.
+d) Los equipos WIFI utilizan una banda de uso común.
+ANSWER: D
+
+99. Según la LOPD, las infracciones prescribirán:
+a) Las muy graves a los tres años, las graves al año y las leves a los seis meses.
+b) Las muy graves a los dos años, las graves al año y las leves a los seis meses.
+c) Las muy graves a los tres años, las graves a los dos años y las leves al año.
+d) Las muy graves a los cuatro años, las graves a los tres años y las leves al año.
+ANSWER: C
+
+100. El servicio universal de telecomunicaciones es:
+a) El conjunto definido de servicios cuya prestación se garantiza en un ámbito compartido entre varios usuarios, con independencia de su localización geográfica, con una calidad determinada y a un precio asequible.
+b) El conjunto definido de servicios cuya prestación se garantiza a todos los usuarios finales con independencia de su localización geográfica, con una calidad determinada y a un precio asequible.
+c) El conjunto definido de servicios cuya prestación se garantiza a los usuarios con las rentas más bajas con independencia de su localización geográfica, con una calidad determinada y a un precio asequible.
+d) El conjunto definido de servicios cuya prestación se garantiza a todos los centros de formación con independencia de su localización geográfica, con una calidad determinada.
+ANSWER: B
