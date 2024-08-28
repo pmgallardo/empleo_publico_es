@@ -264,7 +264,7 @@ C) PCI Express.
 D) EISA.
 ANSWER: A
 
-39. [TEMA 55] ¿Cuál de los siguientes NO se considera un principio guía de las arquitecturas SOA?:
+39. [TEMA 57] ¿Cuál de los siguientes NO se considera un principio guía de las arquitecturas SOA?:
 A) Seguridad.
 B) Reutilización.
 C) Interoperabilidad.
@@ -642,7 +642,7 @@ C) El modelo de datos vectorial no permite la gestión topológica de sus elemen
 D) El modelo de datos vectorial es más adecuado para problemas que admiten algún tipo de formulación analítica, mientras que los de tipo ráster se presenta a problemas de gestión que requieran modelización del terreno mediante polígonos, redes, etc.
 ANSWER: B
 
-93. [TEMA 108] En el ámbito de la tecnología WDM (Wavelength Division Multiplexing o Multiplexación por división de la longitud de ondA), señale cuál de las siguientes afirmaciones es INCORRECTA:
+93. [TEMA 108] En el ámbito de la tecnología WDM (Wavelength Division Multiplexing o Multiplexación por división de la longitud de onda), señale cuál de las siguientes afirmaciones es INCORRECTA:
 A) DWDM proporciona un mayor número de canales ópticos que CWDM con una mayor dispersión cromática de los mismos.
 B) CWDM permite menores distancias de transmisión, con la contrapartida de un mayor espectro óptico y costes menores de los equipos.
 C) El uso de amplificadores de fibra dopada con erbio (EDFA) permite aumentar la distancia de transmisión de los sistemas DWDM.
