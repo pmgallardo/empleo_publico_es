@@ -68,3 +68,35 @@ def letter_to_number(letter):
     if not letter.isalpha() or len(letter) != 1:
         raise ValueError("Input must be a single alphabetic character.")
     return ord(letter.lower()) - ord('a') + 1
+
+
+
+# NOT TEXT UTILS, BUT UTILS
+
+def count_instances(a, b):
+    # Initialize the dictionary with all unique values from a with a count of 0
+    count_dict = {key: 0 for key in a}
+
+    # Count the occurrences of each element in b
+    for value in b:
+        if value in count_dict:
+            count_dict[value] += 1
+
+    return count_dict
+
+def count_occurrences_with_zeros(arr, min_val, max_val):
+    if not arr:
+        return {}
+
+    # Determine the range of values
+    #min_val = min(arr)
+    #max_val = max(arr)
+
+    # Initialize the count dictionary with zeros
+    count_dict = {i: 0 for i in range(min_val, max_val + 1)}
+
+    # Count occurrences
+    for num in arr:
+        count_dict[num] += 1
+
+    return count_dict

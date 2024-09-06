@@ -7,7 +7,7 @@ import quiz_cli_shared as qcs
 # Width of the terminal where text is going to be displayed
 TERM_WIDTH = 80
 # Path to the QTI question pool file
-QUESTION_POOL_FILEPATH = '../../../data/processed/1166/test/2022/20230606/20230606_gen.qti'
+QUESTION_POOL_FILEPATH = '../../../data/processed/1166/test/age/2022/20230606/20230606_gen.qti'
 
 def load_question_pool_qti():
     return read_qti(QUESTION_POOL_FILEPATH)

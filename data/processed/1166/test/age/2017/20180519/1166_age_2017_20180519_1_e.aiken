@@ -1,0 +1,721 @@
+1. ¿Cuál de los siguientes NO es un Diagrama de Comportamiento en UML 2.5?
+a. Diagrama de actividades.
+b. Diagrama de despliegue.
+c. Diagrama de casos de uso.
+d. Diagrama de secuencia.
+ANSWER: B
+
+2. La norma técnica elaborada por la IETF (Internet Engineering Task Force) para permitir a los administradores de dominio especificar las claves utilizadas para establecer una conexión criptográficamente segura a un servidor se denomina:
+a. IPSEC (Internet Protocol Security).
+b. TLS (Transport Layer Security).
+c. DNSSEC (Domain Name System Security Extensions).
+d. DANE (DNS-based Authentication of Named Entities).
+ANSWER: D
+
+3. En el contexto de la tecnología ASP.NET, indique la afirmación correcta respecto a “Razor”:
+a. Es una interfaz común de acceso a múltiples bases de datos usando SQL.
+b. Es una sintaxis de programación usada para crear páginas web dinámicas.
+c. Es un framework ORM (Object/Relational Mapping) que permite el desarrollo de aplicaciones de software orientadas a datos.
+d. Es un lenguaje de programación para el desarrollo de scripts en el lado del cliente (navegador).
+ANSWER: B
+
+4. ¿Qué es Docker?
+a. Hypervisor nativo o bare-metal (se ejecuta directamente sobre el hardware).
+b. Sistema de virtualización de contenedores (virtualización a nivel de sistema operativo).
+c. Emulador (ejecución de aplicaciones sobre arquitecturas de procesador diferentes).
+d. Simulador de carga de bases de datos relacionales.
+ANSWER: B
+
+5. En el ámbito de los sistemas de información geográfica, señale la respuesta INCORRECTA:
+a. Web Feature Service (WFS) es un servicio para consulta de datos vectoriales.
+b. Los datos ráster corresponden a un modelo matricial que representa el terreno.
+c. Web Map Tile Service (WMTS) es un protocolo estándar basado en un modelo piramidal de mosaicos o teselas.
+d. MapReduce es una especificación OGC para el almacenamiento comprimido de datos ráster.
+ANSWER: D
+
+36. En la metodología SCRUM, una vez definido el Sprint Backlog en la reunión de planificación Sprint Planning, ¿se puede cambiar el objetivo del sprint cuando el sprint está en curso?
+a. Sí, en cualquier momento del sprint se pueden cambiar los objetivos del sprint por el Equipo Scrum ya que estos equipos son autoorganizados.
+b. No, no se realizan cambios que pueden afectar al objetivo del sprint cuando el sprint está en curso.
+c. Sí, se pueden realizar cambios en el objetivo del sprint cuando está en curso si lo autoriza el ScrumMaster.
+d. Sí, se pueden realizar cambios en el objetivo del sprint cuando está en curso en el marco del Scrum Diario (Daily Scrum).
+ANSWER: B
+
+7. Según la Ley 9/2014 General de Telecomunicaciones, el Gobierno podrá imponer obligaciones de servicio público distintas de las de servicio universal a los operadores. En relación a esta imposición seleccione la respuesta INCORRECTA:
+a. Puede imponerlas para que todas las comunicaciones acrediten los contenidos de los mensajes remitidos y de los interlocutores.
+b. Puede imponerlas por razones de extensión del uso de nuevos servicios y tecnologías previo informe de la Comisión Nacional de Mercados y de la Competencia.
+c. Su procedimiento de imposición y forma de financiación se regulan mediante real decreto.
+d. Puede imponerlas, entre otros casos, por necesidades de seguridad vial o seguridad pública.
+ANSWER: A
+
+8. En el ámbito del Big Data, ¿qué es HIVE?
+a. Un lenguaje de flujos de datos en paralelo.
+b. Un sistema de almacenamiento de datos.
+c. Un servicio de coordinación de alto rendimiento para aplicaciones distribuidas.
+d. Una herramienta basada en web para el aprovisionamiento, administración y seguimiento de 'clusters'.
+ANSWER: B
+
+9. Indique cuál de las opciones corresponde a una recomendación internacional consolidada relativa a pautas de accesibilidad para contenido en la web:
+a. TAW.
+b. OWASP.
+c. WCAG.
+d. PDF/A.
+ANSWER: C
+
+10. En relación a Git, cuál de las siguientes afirmaciones es CORRECTA:
+a. Git es un sistema de control de versiones distribuido.
+b. Git es un sistema de control de versiones centralizado.
+c. Git es un sistema de gestión de servicios ITSM distribuido.
+d. Git es un sistema de gestión de servicios ITSM centralizado.
+ANSWER: A
+
+11. ¿Cuál de las siguientes NO es una distribución de Hadoop?
+a. Cloudera.
+b. HortonWorks.
+c. MapR.
+d. Kafka.
+ANSWER: D
+
+12. En el ámbito de la arquitectura de computadores, la técnica de segmentación:
+a. Disminuye el tiempo de ejecución de cada instrucción.
+b. Aumenta la frecuencia de reloj.
+c. Disminuye la frecuencia de reloj.
+d. No disminuye el tiempo de ejecución de cada instrucción.
+ANSWER: D
+
+13. Indique cuál de los siguientes sistemas corresponde a una herramienta de integración continua, como servidor autónomo de código abierto que se puede usar para automatizar todo tipo de tareas relacionadas con la construcción, prueba y entrega o implementación de software:
+a. Redis.
+b. Jeronimo.
+c. Cassandra.
+d. Jenkins.
+ANSWER: D
+
+14. ¿Qué define el estándar WSDL del W3C?
+a. Un esquema XML para sindicación de contenidos a través de lectores RSS.
+b. Una gramática XML para describir la interfaz de un servicio web.
+c. Pautas de Accesibilidad al Contenido en la Web.
+d. WSDL no es un estándar del W3C.
+ANSWER: B
+
+15. El directorio /etc en el sistema Linux:
+a. Es el directorio en el que los programas pueden dejar sus ficheros temporales.
+b. Es el directorio en el que se almacenan ficheros de configuración del sistema.
+c. No es un directorio estándar del sistema Linux.
+d. Contiene las librerías necesarias para la ejecución de los programas del sistema (no de los programas de los usuarios).
+ANSWER: B
+
+16. En la normalización del Modelo Entidad-Relación, ¿cuál de las siguientes afirmaciones es INCORRECTA?
+a. En una tabla en Segunda Forma Normal, cada campo puede tener como mucho un valor.
+b. En una tabla en Segunda Forma Normal, ningún campo (que no pertenezca a las claves candidatas) depende transitivamente de alguna clave candidata.
+c. En una tabla en Tercera Forma Normal, cada campo puede tener como mucho un valor.
+d. En una tabla en Tercera Forma Normal, las claves candidatas pueden estar compuestas de varios
+campos.
+ANSWER: B
+
+17. En relación a la seguridad en la nube pública, indique la respuesta correcta:
+a. Importantes proveedores como Microsoft, Amazon y Google han auditado servicios de nube pública y cuentan con certificación de conformidad con el ENS en categoría alta.
+b. El Esquema Nacional de Seguridad no es aplicable a servicios de nube pública, porque su infraestructura no está bajo el control de la Administración.
+c. Según la guía CCN-STIC-803, los servicios de nube pública no pueden tener certificación de conformidad con el ENS, dado que se precisa que las claves de encriptación estén bajo el control de la Administración.
+d. El Esquema Nacional de Seguridad establece que la Administración no puede usar servicios de nube pública.
+ANSWER: A
+
+18. En relación a los modelos de ciclo de vida, señale la opción correcta:
+a. El modelo por etapas (Stage-Wise) es una evolución del modelo en cascada (Waterfall) que incorpora un prototipo inicial en el ciclo de vida del software.
+b. En el modelo de Prototipado Rápido se construye una implementación parcial del sistema que se hace evolucionar a medida que los requisitos cambian.
+c. El modelo en Espiral se centra en la identificación de los riesgos asociados a cada alternativa y en la manera de resolver dichos riesgos.
+d. El modelo PUDS (Proceso Unificado de Desarrollo Software) contempla la posibilidad de convertir, automáticamente, una especificación formal de un producto software en un programa.
+ANSWER: C
+
+19. ¿Cómo se llama el servicio que utiliza un navegador para encontrar la dirección IP que corresponde a un nombre de dominio en Internet?
+a. DNS
+b. URL
+c. HTTP
+d. TLS
+ANSWER: A
+
+20. En el marco de la Ley 40/2015, de Régimen Jurídico del Sector Público, identificar la sentencia correcta relativa a la actuación administrativa automatizada:
+a. Es un acto o actuación realizada por un funcionario público a través de una aplicación informática de la Administración en el marco de un procedimiento administrativo.
+b. Es un acto o una actuación realizada por un ciudadano o empresa a través de una aplicación de la Administración de su Sede Electrónica, en el marco de un procedimiento administrativo.
+c. Es un acto o actuación realizada íntegramente a través de medios electrónicos por una Administración Pública, sin intervención directa de un empleado público, en el marco de un procedimiento administrativo.
+d. La Ley 40/2015 no contempla la actuación administrativa automatizada.
+ANSWER: C
+
+21. Indique cuál de las siguientes sería una dirección pública válida desde la que se preste un servicio en Internet:
+a. 10.13.213.6
+b. 10.148.213.6
+c. 192.148.213.6
+d. 192.168.213.6
+ANSWER: C
+
+22. ¿Qué es SAML?
+a. Un estándar abierto que define un esquema XML para el intercambio de datos de autenticación y autorización.
+b. Variante de UML especializada en el modelado de máquinas de estado.
+c. Lenguaje para la especificación de conjuntos de pruebas de software.
+d. Motor de enrutamiento y mediación basado en reglas que provee una implementación basada en objetos Java.
+ANSWER: C
+
+23. En la metodología METRICA, la actividad de definición de la arquitectura tecnológica pertenece al proceso:
+a. Diseño del Sistema de Información (DSI).
+b. Análisis del Sistema de Información (ASI).
+c. Planificación de Sistemas de Información (PSI).
+d. Estudio de Viabilidad del Sistema (EVS).
+ANSWER: B
+
+24. En el ámbito del modelo de clases, se define el protocolo de un objeto como:
+a. El conjunto de métodos que soporta.
+b. El conjunto de mensajes al que puede responder.
+c. El conjunto de datos y los métodos que describen su estado y comportamiento.
+d. El conjunto de relaciones existentes con otros objetos de distintas clases.
+ANSWER: B
+
+25. Respecto a los protocolos y la información que se muestra a continuación, seleccione la respuesta INCORRECTA:
+a. ICMP es un protocolo no orientado a conexión de nivel 3 (red).
+b. POP3 es un protocolo orientado a conexión de nivel 7 (aplicación).
+c. UDP es un protocolo no orientado a conexión de nivel 4 (transporte).
+d. IP es un protocolo orientado a conexión de nivel 3 (red).
+ANSWER: D
+
+26. Según la metodología de desarrollo MÉTRICA, las acciones encaminadas a mejorar la calidad interna de los sistemas en cualquiera de sus aspectos (reestructuración del código, definición más clara del sistema y optimización del rendimiento y eficiencia) se denomina:
+a. Mantenimiento Perfectivo.
+b. Mantenimiento Correctivo.
+c. Mantenimiento Evolutivo.
+d. Mantenimiento Adaptativo.
+ANSWER: A
+
+27. Dentro de las metodologías ágiles de desarrollo, el objetivo principal de una pizarra Kanban es:
+a. Visualizar el flujo de trabajo y limitar el trabajo en curso (WIP o Work In Progress).
+b. Medir la cantidad de requisitos del Backlog del proyecto y priorizarlos según su ROI.
+c. Mantener reuniones de equipos, enfocándose en las áreas de solapamiento e integración del proyecto.
+d. Definir los roles de cada participante en el proyecto al comienzo de cada sprint.
+ANSWER: A
+
+28. ¿Qué dos tipos de operaciones permite Apache Spark?
+a. Agrupaciones y acciones.
+b. Agrupaciones y transformaciones.
+c. Transformaciones y acciones.
+d. Transformaciones y expansiones.
+ANSWER: C
+
+29. En un sistema biométrico, ¿qué es el Equal Error Rate (EER)?
+a. El punto de operación del sistema en que el umbral de decisión del comparador es igual a la tasa de falsa aceptación.
+b. El punto de operación del sistema en que la tasa de falsa aceptación es igual a la tasa de falso rechazo.
+c. El punto de operación del sistema en que la tasa de correcta aceptación es igual a la tasa de correcto rechazo.
+d. El punto de operación del sistema en que el umbral de decisión del comparador es igual a la tasa de correcta aceptación.
+ANSWER: B
+
+30. ¿Qué elemento estructural puede referenciarse en un archivo XML para facilitar su validación?
+a. XPath.
+b. XSLT.
+c. DTD.
+d. XERCES.
+ANSWER: C
+
+31. Dentro del marco del entorno de desarrollo PHP, identificar cual de las siguientes sentencias NO es una característica de este entorno de desarrollo:
+a. PHP es open-source.
+b. PHP permite aplicar técnicas de programación orientada a objetos.
+c. El código PHP se ejecuta en el cliente.
+d. Es multiplataforma.
+ANSWER: C
+
+32. Señalar cuál de los siguientes patrones de diseño GoF (Gang Of Four) permite tratar objetos compuestos como si de uno simple se tratase:
+a. Adapter.
+b. Command.
+c. Composite.
+d. Facade.
+ANSWER: C
+
+33. Al hablar del concepto Industria 4.0, se reconocen 4 principios de diseño, que son los siguientes: Interoperabilidad, transparencia de la información, asistencia técnica y :
+a. Diseño de procedimientos orientados a la IoT.
+b. Cloud computing como sistema central.
+c. Decisiones descentralizadas.
+d. Análisis de Big Data.
+ANSWER: C
+
+34. El 12 de mayo de 2017 se registró un ataque a escala mundial con un programa dañino tipo ransomware llamado WannaCry. El ataque aprovechaba la vulnerabilidad de un protocolo de red que permite compartir archivos e impresoras, a través del puerto 445, en ordenadores con sistema operativo Microsoft Windows que no tuvieran la actualización de seguridad correspondiente. ¿Cuál es este protocolo de red para compartir archivos?
+a. SAFP.
+b. SMB.
+c. SNMP.
+d. ARP.
+ANSWER: B
+
+35. En relación con la seguridad de los sistemas de información, seleccione la respuesta correcta:
+a. Amenaza es la debilidad de un sistema de información que puede ser explotada mediante un ataque.
+b. Impacto es la probabilidad de que se produzca un daño en la organización.
+c. Mecanismos de Seguridad son las acciones llevadas a cabo encaminadas a reducir el riesgo sobre alguna vulnerabilidad.
+d. Vulnerabilidad es un evento que pueden desencadenar un incidente en la organización, produciendo daños materiales o pérdidas inmateriales.
+ANSWER: C
+
+36. Si un ciudadano quiere relacionarse con la Administración por medios electrónicos y en la sede electrónica competente de la Administración no existe un procedimiento electrónico específico o formulario normalizado para su procedimiento, ¿puede presentar electrónicamente su solicitud a la Administración?
+a. No, no podrá hacerlo electrónicamente, tendrá que entregarlo en papel en cualquier Oficina de Registro.
+b. No, no podrá hacerlo electrónicamente, ya que según la Ley 39/2015 no es un sujeto obligado.
+c. Sí, podrá entregarlo electrónicamente a través del REC (Registro Electrónico Común).
+d. Sí, podrá entregarlo electrónicamente a través de GEISER (Gestión Integrada de Servicios de Registro).
+ANSWER: C
+
+37. En la nueva versión de la certificación de Sistemas de Gestión de Calidad 9001:2015 uno de los conceptos que se han incluido con respecto a versiones anteriores es:
+a. El Mapa de Procesos.
+b. Las autoevaluaciones.
+c. El análisis y gestión de riesgos.
+d. La mejora continua.
+ANSWER: C
+
+38. En el marco de un SGBD, si hablamos de que los resultados de una transacción o bien pasan a ser completados todos (commit) o bien pasan a ser todos deshechos (rollback), ¿de qué propiedad ACID estamos hablando?
+a. Durabilidad.
+b. Aislamiento.
+c. Consistencia.
+d. Atomicidad.
+ANSWER: D
+
+39. La Herramienta de detección desarrollada para el análisis estático de código dañino y antimalware para plataformas Windows y Linux, desarrollada por el CCN-CERT, se conoce con el nombre de:
+a. Reyes.
+b. Rocío.
+c. Marta.
+d. María.
+ANSWER: D
+
+40. ¿Qué es la biometría cancelable o “cancelable biometrics”?
+a. El derecho del usuario a cancelar el permiso de utilización de sus datos biométricos en cualquier momento.
+b. Un procedimiento de adquisición de datos biométricos en el que se cancela el ruido de adquisición.
+c. Un sistema de protección de la plantilla de datos biométricos almacenados.
+d. Un método de cancelación del acceso a una base de datos biométrica.
+ANSWER: C
+
+41. ¿Cuál de los siguientes NO es un sistema de gestión de contenidos (CMS)?
+a. LifeRay.
+b. WebDav.
+c. Drupal.
+d. SharePoint.
+ANSWER: B
+
+42. El método MINIMAX:
+a. Es un método para encontrar “buenos“ movimientos en determinados tipos de juegos.
+b. Es un método para minimizar las comunicaciones necesarias entre un grupo de agentes en un sistema multiagente, maximizando la distribución de la información.
+c. Es un método para minimizar al máximo el número de agentes necesarios en un sistema multiagente para realizar una determinada tarea de forma colaborativa.
+d. Es un método para encontrar funciones hash en criptografía que aceptan como entradas mensajes de máxima longitud, calculando cadenas hash de longitud mínima.
+ANSWER: A
+
+43. ¿En qué se basa el sistema de navegación anónima TOR?
+a. Se trata de una red que funciona sobre Internet; los mensajes viajan a través de una serie de nodos intermedios con el objetivo de ocultar la dirección IP origen del usuario al servidor de destino.
+b. TOR es una red privada, aislada de Internet a nivel físico, con protocolos de encriptación no públicos para impedir que sean vulnerados.
+c. Se trata de una red que funciona sobre Internet, a la que se accede a través de un navegador especial que utiliza un direccionamiento IP privado no estándar, de forma que la IP origen nunca sale del navegador.
+d. Se trata de una red que funciona sobre Internet, que utiliza el protocolo “https” para cifrar la dirección IP origen del usuario, que de esta forma queda oculta al servidor de destino.
+ANSWER: A
+
+44. Para establecer una conexión segura de manera remota entre un usuario y un servidor corporativo, se utilizan tecnologías VPN. ¿Cuál de las siguientes NO es una tecnología existente válida para ello?
+a. IpSec VPN.
+b. Open VPN.
+c. SSL/TLS.
+d. GNU-VPNv2.
+ANSWER: D
+
+45. Auto-tiering es una funcionalidad de los sistemas de almacenamiento que permite:
+a. Asignar mayor capacidad de la realmente disponible en el dispositivo de almacenamiento mediante mecanismos de "sobre-suscripción".
+b. Posicionar los datos en diferentes clases de almacenamiento según la frecuencia de acceso.
+c. Utilizar de forma convergente almacenamiento NAS y SAN sin tener que utilizar diferentes dispositivos.
+d. Eliminar datos redundados o duplicados con el objetivo de utilizar menor cantidad de espacio.
+ANSWER: B
+
+46. Respecto a la firma electrónica, según el Reglamento eIDAS (Reglamento UE 910/2014), indique la afirmación INCORRECTA:
+a. Firma electrónica cualificada es una firma electrónica avanzada que se crea mediante un dispositivo cualificado de creación de firmas electrónicas y que se basa en un certificado cualificado de firma electrónica.
+b. Una firma electrónica avanzada estará vinculada al firmante de manera única.
+c. Una firma electrónica avanzada deberá permitir la identificación del firmante.
+d. Una firma electrónica avanzada tendrá un efecto jurídico equivalente al de una firma manuscrita.
+ANSWER: D
+
+47. Indique la afirmación correcta respecto a NAT (Network Address Translator):
+a. Es un protocolo cliente/servidor que proporciona automáticamente la dirección IP y otra información como la máscara de subred a los equipos de una red.
+b. Es un mecanismo que permite a los equipos de una intranet con direcciones privadas conectarse a Internet, al convertir dichas direcciones en públicas de forma transparente.
+c. Es un sistema de nomenclatura jerárquico descentralizado, que permite la traducción de direcciones IP en nombres de Internet o de redes privadas.
+d. Es un protocolo del nivel 2 (enlace) encargado de realizar la traducción entre la dirección en la tecnología multiacceso correspondiente y la dirección de red, traducción que también se conoce como resolución de direcciones.
+ANSWER: B
+
+48. ¿Qué proceso se encarga de gestionar todas las inversiones dentro de la Estrategia del Servicio en ITIL v3?
+a. Gestión de la Estrategia de los servicios TI.
+b. Gestión de la Demanda.
+c. Gestión de la Cartera de Servicios.
+d. Gestión Financiera.
+ANSWER: C
+
+49. En el enfoque clásico de la seguridad en las redes de comunicación se hablaba de las cuatro dimensiones de la seguridad. ¿Cuál de las siguientes NO es una de ellas?
+a. Autenticidad.
+b. Confidencialidad.
+c. Integridad.
+d. Decisión.
+ANSWER: D
+
+50. En el ámbito de los sistemas operativos y la memoria virtual, ¿qué es Translation Lookaside Buffer (TLB)?
+a. Memoria caché que contiene partes de la información de la tabla de virtualización.
+b. Memoria caché que contiene partes de la información de la memoria secundaria.
+c. Memoria caché que contiene partes de la información de la memoria principal.
+d. Memoria caché que contiene partes de la información de la tabla de paginación.
+ANSWER: D
+
+51. ¿Cuál de las siguientes afirmaciones es INCORRECTA?
+a. JavaScript es un lenguaje de programación interpretado.
+b. Los applets Java se ejecutan en el cliente.
+c. PHP es un lenguaje de programación que se puede incrustar en una página HTML.
+d. JSP es una tecnología que permite ejecutar código JAVA en páginas HTML en el cliente.
+ANSWER: D
+
+52. En el ámbito de las amenazas a la seguridad, la interrupción afecta a la disponibilidad. De forma similar:
+a. La interceptación afecta a la integridad.
+b. La modificación afecta a la confidencialidad.
+c. La fabricación afecta a la integridad.
+d. La fabricación afecta a la confidencialidad.
+ANSWER: C
+
+53. Dado un fichero de texto, se quieren obtener todas las líneas que no contengan la palabra “examen”. ¿Con qué herramienta de Linux podría hacerse esta acción?
+a. find.
+b. grep.
+c. locate.
+d. which.
+ANSWER: B
+
+54. ¿Qué es MongoDB?
+a. Es una base de datos NoSQL de código abierto basada en documentos tipo JSON.
+b. Es un almacén de estructuras de datos en memoria, usado como base de datos, caché y bróker de mensajería.
+c. Es una extensión de PostgreSQL para el tratamiento de información geográfica.
+d. Es una base de datos relacional de código abierto, compatible con Oracle.
+ANSWER: A
+
+55. ¿Cuál de las siguientes NO es una de las ventajas del uso de redes locales conmutadas?
+a. Implementación de CSMA/CD.
+b. Transmisión full-dúplex.
+c. Control de Flujo.
+d. Autonegociación.
+ANSWER: A
+
+56. En Inteligencia Artificial se reducen determinados problemas a una búsqueda de un camino en un espacio de estados. Respecto a este tipo de búsquedas, si el coste de todos los operadores es igual y positivo, ¿cuál de las siguientes afirmaciones es correcta?
+a. Las búsquedas no informadas realizan una búsqueda aleatoria de la solución.
+b. El empleo de búsquedas heurísticas tiene el objetivo de asegurar que siempre se encuentre una solución, si existe alguna.
+c. El empleo de búsquedas heurísticas tiene el objetivo de encontrar soluciones mejores (con menos coste) que las que se encontrarían con métodos de búsqueda no informados.
+d. El empleo de búsquedas heurísticas tiene el objetivo de encontrar soluciones en menos tiempo.
+ANSWER: D
+
+57. Se quiere desarrollar un nuevo portal web con el gestor de contenidos Drupal que funciona con PHP, y debe decidir en qué entorno desplegarlo entre dos disponibles: 1) Apache sobre Linux, 2) IIS sobre Windows. ¿Cuál de estos entornos admite PHP?
+a. Sólo Apache-Linux, porque PHP no funciona con IIS-Windows.
+b. Sólo IIS-Windows, porque PHP no funciona con Apache-Linux.
+c. Cualquiera de los dos entornos, ambos son compatibles con PHP.
+d. PHP es un lenguaje de marcas que se interpreta en el navegador, por lo que no influye el entorno del servidor web.
+ANSWER: C
+
+58. Definir las prioridades de inversión en materias TIC en el ámbito de la Administración General del Estado corresponde a:
+a. La Comisión de Estrategia TIC.
+b. Las Comisiones Ministeriales de Administración Digital.
+c. El Comité de Dirección de las Tecnologías de Información y Comunicaciones.
+d. Las unidades TIC de la Administración.
+ANSWER: A
+
+59. En relación a la clasificación de Tanenbaum de los sistemas multiprocesador, en el modelo de Multiprocesador Simétrico o SMP (Symmetric MultiProcessor):
+a. Los procesadores comparten memoria.
+b. Los procesadores sólo comparten memoria en relación a los datos, no las instrucciones.
+c. Los procesadores sólo comparten memoria en relación a las instrucciones, no a los datos.
+d. Los procesadores no comparten memoria.
+ANSWER: A
+
+60. En el ámbito del modelado de procesos, ¿qué representan las flechas de un DFD?
+a. El flujo que siguen los datos.
+b. La jerarquía entre procesos y subprocesos.
+c. Las relaciones entre los almacenes de datos.
+d. El orden de ejecución de los procesos.
+ANSWER: A
+
+61. ¿Cuál de los siguientes es un framework de programación gráfica en Java?
+a. JAXP.
+b. Swing.
+c. XAML.
+d. JAWS.
+ANSWER: B
+
+62. ¿Cuál de los siguientes es un protocolo de enrutamiento exterior?
+a. IGRP.
+b. BGP.
+c. OSPF.
+d. IS-IS.
+ANSWER: B
+
+63. En el ámbito del tratamiento de imagen, al aplicar un filtrado en el dominio de la frecuencia de tipo filtro paso bajo, ¿qué efecto visual tiene sobre la imagen?
+a. Mayor contraste.
+b. Detección de bordes.
+c. Reducción del ruido.
+d. Incrementa la viveza de los colores.
+ANSWER: C
+
+64. ¿Cuántas tuplas devuelve una sentencia SQL del tipo "SELECT ... FROM Tabla1 LEFT OUTER JOIN Tabla2 ON ..."?
+a. El número máximo entre las tuplas de Tabla1 y Tabla2.
+b. Al menos el número de tuplas de Tabla1.
+c. El número de tuplas que están en Tabla1 pero no en Tabla2.
+d. El número de tuplas que, en el producto cartesiano de ambas tablas, cumplen una determinada condición.
+ANSWER: B
+
+65. ¿Qué permite la operación ‘Drill-Through’ sobre modelos multidimensionales?
+a. Permite cambiar los desgloses y agregaciones de la tabla resultado, intercambiando atributos o indicadores entre los encabezados de filas y columnas.
+b. Permite apreciar los datos en un mayor detalle, bajando un nivel en una jerarquía definida en un cubo.
+c. Permite apreciar los datos en un menor detalle, subiendo un nivel en una jerarquía definida en un cubo.
+d. Permite apreciar los datos en su máximo nivel de detalle, obteniendo los datos relacionados al valor de un indicador que se han agregado dentro del cubo multidimensional.
+ANSWER: D
+
+66. Indique cuál de los siguientes es un framework Javascript:
+a. JSF (JavaServer Faces).
+b. Express.
+c. Django.
+d. Haml.
+ANSWER: B
+
+67. Según el Agile Project Management framework el ciclo de vida de un proyecto ágil consta de cinco fases. Seleccione la respuesta correcta:
+a. Concebir (envision), especular (speculate), desarrollar (develop), controlar (control) y cerrar (close).
+b. Concebir (envision), planificar (plan), explorar (explore), controlar (control) y cerrar (close).
+c. Concebir (envision), planificar (plan), desarrollar (develop), adaptar (adapt) y cerrar (close).
+d. Concebir (envision), especular (speculate), explorar (explore), adaptar (adapt) y cerrar (close).
+ANSWER: D
+
+68. ¿Cual es el formato de la FACTURA-E?
+a. Word firmado con firma OOXML.
+b. PDF firmado con firma PAdES.
+c. XML firmado con firma XAdES.
+d. EDIFACT.
+ANSWER: C
+
+69. En relación a las arquitecturas de almacenamiento, indique la afirmación CORRECTA respecto al nivel RAID 1:
+a. Realiza una división de datos a nivel de bloques y distribuye la información de paridad entre todos los discos miembros del conjunto.
+b. Distribuye los datos equitativamente entre dos o más discos (división o ‘striping’), sin información de paridad.
+c. Distribuye los datos equitativamente entre dos o más discos (división o ‘striping’), con un disco adicional dedicado a información de paridad.
+d. Crea una copia exacta (espejo o ‘mirroring’) de un conjunto de datos en dos o más discos.
+ANSWER: D
+
+70. ¿Cuál de las siguientes es una tecnología relacionada con el establecimiento de Redes Privadas Virtuales (VPN)?
+a. H.323.
+b. MPLS.
+c. LTE.
+d. FTTH.
+ANSWER: B
+
+71. En el Análisis DAFO de planificación estratégica:
+a. Los aspectos internos negativos se identifican con las amenazas.
+b. Los aspectos internos positivos se identifican con los factores de éxito.
+c. Los aspectos externos negativos se identifican con las debilidades.
+d. Los aspectos externos positivos se identifican con las oportunidades.
+ANSWER: D
+
+72. En el desarrollo de aplicaciones nativas con iOS, la capa que proporciona la infraestructura básica de la aplicación y el soporte para tecnologías clave como la gestión multitarea, la entrada táctil o las notificaciones push se denomina:
+a. Núcleo del sistema operativo (Core OS Layer).
+b. Capa de servicios del núcleo (Core Services Layer).
+c. Capa Cocoa Touch (Cocoa Touch Layer).
+d. Capa multimedia (Media Layer).
+ANSWER: C
+
+73. El Instituto UPTIME diseñó el sistema estándar de clasificación TIER para evaluar las características de los Centros de Datos en base a sus instalaciones, capacidad y tiempo de actividad. Indique la afirmación correcta respecto a esta clasificación:
+a. TIER I es la clasificación más básica, con dos líneas de suministro eléctrico y doble fuente de alimentación en los servidores, pero sin contar con un generador de motor que garantice el funcionamiento del Centro antes cortes eléctricos.
+b. TIER II incluye elementos dedicados de refrigeración, energía eléctrica y generador de motor, pero sin redundancia de los componentes básicos.
+c. TIER III tiene niveles importantes de tolerancia a fallos al contar con los equipamientos críticos redundados, incluido el suministro eléctrico.
+d. TIER IV tiene las mismas características de disponibilidad de TIER III, añadiendo seguridad adicional por vigilancia física de las instalaciones.
+ANSWER: C
+
+74. Según el Esquema Nacional de Seguridad, todos los órganos superiores de las Administraciones públicas deberán disponer formalmente de su política de seguridad, que debe desarrollarse aplicando una serie de requisitos mínimos. Indique cuál de los siguientes NO es uno de estos requisitos mínimos:
+a. Almacenamiento encriptado de todos los datos.
+b. Continuidad de la actividad.
+c. Prevención ante otros sistemas de información interconectados.
+d. Gestión de personal.
+ANSWER: A
+
+75. El tipo de migración que consiste en encapsular la aplicación o algunos de sus componentes para que sean utilizados por otras aplicaciones o infraestructura con tecnología más moderna se denomina:
+a. Interoperabilidad o “wrapping”.
+b. Cambio de interfaz o “refacing”.
+c. Realojamiento o “rehosting”.
+d. Sustitución o “replacement”.
+ANSWER: A
+
+76. En el ámbito de la metodología Scrum, el Product Backlog se utiliza para:
+a. Registrar la estimación de coste de desarrollo de cada sprint.
+b. Describir la división en tareas para implementar los requisitos y la asignación de horas de trabajo.
+c. Mantener una lista de requisitos y funcionalidades con sus prioridades.
+d. Mostrar gráficamente la cantidad de requisitos del proyecto pendientes al comienzo de cada Sprint.
+ANSWER: C
+
+77. En cumplimiento del art. 28.2 de la Ley 39/2015, los interesados no están obligados a aportar documentos que hayan sido elaborados por cualquier Administración. ¿En qué servicio común de la Administración Electrónica podremos apoyarnos para dar cumplimiento a esta obligación?
+a. FACe.
+b. VALIDe.
+c. Plataforma de Intermediación.
+d. NEDAES.
+ANSWER: C
+
+78. ¿Cuál de las siguientes es una característica del prototipado rápido como modelo de ciclo de vida de los sistemas de información?
+a. No importa el tiempo que se necesite emplear en su desarrollo.
+b. El prototipo viene a ser una versión inicial del software, que habrá que ir refinando y mejorando para construir el sistema real.
+c. Se utilizan en todas las fases del desarrollo, aunque su elevado coste hace que su uso se limite dentro de un proyecto.
+d. El prototipo sirve para crear y validar la especificación y para que el usuario se haga una idea de cómo será el software definitivo.
+ANSWER: D
+
+79. En el ámbito del desarrollo de aplicaciones para dispositivos móviles, señale la respuesta INCORRECTA:
+a. PhoneGap es un framework que se basa en la utilización de HTML, CSS y Javascript para construir aplicaciones híbridas.
+b. Xamarin permite el desarrollo de aplicaciones nativas iOS, Android y Windows con código compartido en lenguaje C#.
+c. XCode es un entorno de desarrollo de código abierto, creado por Google, para el desarrollo nativo de aplicaciones para Android.
+d. Swift es un lenguaje de programación de código abierto, creado por Apple, que permite diseñar apps para iOS.
+ANSWER: C
+
+80. En las aplicaciones web, respecto de la validación de datos de entrada basada en Javascript y otros lenguajes de scripting en el navegador del usuario, ¿cuál de las siguientes afirmaciones es INCORRECTA?
+a. Permite aumentar la eficiencia al reducir las llamadas al servidor.
+b. Tiene como ventaja que el desarrollador puede garantizar la seguridad implementando las validaciones exclusivamente en el navegador.
+c. No impide ataques de tipo Cross-site scripting (XSS).
+d. Es posible implementarla aunque no se use HTML5.
+ANSWER: B
+
+81. En el campo de la Recuperación de la Información, el mecanismo de indexación y representación de documentos que los identifica con un conjunto de términos que se suponen independientes entre sí, y que por tanto permiten definir un espacio ortonormal, se corresponde con:
+a. Los modelos booleanos.
+b. Los modelos bayesianos.
+c. Los modelos estructurados.
+d. Los modelos vectoriales.
+ANSWER: D
+
+82. [ANULADA] El perfil o formato de la especificación XAdES de firma electrónica que incorpora los propios certificados y listas de revocación a los documentos firmados para permitir la verificación en el futuro incluso si las fuentes originales de consulta de certificados o de las listas de revocación no estuvieran ya disponibles se denomina:
+a. XAdES-X-L.
+b. XAdES-X.
+c. XAdES-T.
+d. XAdES-A.
+ANSWER: A
+
+83. Indique cuál de las siguientes afirmaciones es CORRECTA sobre el Proceso Unificado de Desarrollo Software (PUDS):
+a. El Proceso Unificado de Desarrollo Software no es aplicable a técnicas orientadas a objetos, ya que se basa en modelos tradicionales.
+b. Las fases sirven para completar un conjunto de objetivos y en cada una de ellas se distinguen los ciclos de iniciación, elaboración, construcción y transición.
+c. El Proceso Unificado de Desarrollo Software plantea un modelo iterativo e incremental, centrado en una arquitectura que guía el desarrollo del sistema, cuyas actividades están dirigidas por casos de uso.
+d. En cada fase hay varias iteraciones. Una iteración representa un ciclo de desarrollo completo, desde la captura de requisitos en el análisis hasta la implementación y pruebas, pero solo las fases finales producen productos entregables.
+ANSWER: C
+
+84. En relación con las Normas Técnicas de Interoperabilidad (NTI) relacionadas con la gestión documental seleccione la que no forma parte de ellas:
+a. NTI de Política de gestión de documentos electrónicos.
+b. NTI de Digitalización de documentos.
+c. NTI de Almacenamiento de documentos electrónicos.
+d. NTI de Política de firma electrónica y de certificados de la Administración.
+ANSWER: C
+
+85. El Reglamento UE 2016/679, de 27 de abril, relativo a la protección de las personas fisicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, ¿incluye nuevas categorías especiales de datos personales (datos sensibles)?
+a. Sí, incluye las nuevas categorías de datos sensibles de datos genéticos y de datos biométricos. Estos últimos sólo tendrán esa condición cuando puedan identificar unívocamente a una persona.
+b. No, no incluye nuevas definiciones de categorías de datos sensibles, manteniendo las definiciones de categoría de datos sensibles de la Directiva 95/46.
+c. Sí, incluye como nueva categoría de datos sensibles sólo los datos biométricos, ya que los datos genéticos están incluidos en los datos de salud.
+d. Si, incluye las nuevas categorías de datos sensibles de datos genéticos y los datos biométricos, permitan o no estos últimos identificar unívocamente a una persona.
+ANSWER: A
+
+86. ¿A qué corresponde el concepto Cross-Site Scripting (XSS)?
+a. Una aplicación web que se visualiza y funciona correctamente en todos los navegadores.
+b. Una norma para garantizar que un lenguaje de script funcione en distintos navegadores.
+c. Técnica de programación por la que una aplicación web reutiliza el mismo script en múltiples páginas.
+d. Un agujero de seguridad típico de aplicaciones web.
+ANSWER: D
+
+87. En terminología de la gestión del control de versiones, ¿cómo se denomina la consolidación en el servidor de versiones de los cambios realizados en local?
+a. Commit (o check-in).
+b. Update (o sync).
+c. Check-out.
+d. Merge.
+ANSWER: A
+
+88. De acuerdo a la Ley 9/2017, de Contratos del Sector Público, cuando se trate de contratos de suministro o de servicios, se consideran contratos menores los contratos de valor estimado inferior a:
+a. 15.000 euros.
+b. 18.000 euros.
+c. 35.000 euros.
+d. 40.000 euros.
+ANSWER: A
+
+89. ¿Cuál de las afirmaciones respecto a las DLL en el sistema operativo Windows es INCORRECTA?
+a. Las DLL permiten compartir código común entre diferentes programas.
+b. Al modificar una DLL, los programas que la usan deben recompilarse.
+c. Es posible que un programa deje de funcionar correctamente después de que se haya modificado una DLL que dicho programa usa.
+d. Las DLL que un programa usa se vinculan de forma dinámica al programa cuando éste se ejecuta.
+ANSWER: B
+
+90. En relación a los diagramas de PERT y las holguras de las actividades, señale la respuesta INCORRECTA:
+a. La holgura condicional de una actividad es el margen de tiempo suplementario para la ejecución de la actividad si las precedentes terminan lo más tarde posible y las posteriores lo antes posible.
+b. La holgura libre de una actividad es el tiempo de retraso máximo en el comienzo de la ejecución de la actividad sin que afecte a las siguientes actividades.
+c. La holgura total de una actividad es el tiempo máximo en la ejecución de la actividad sin afectar a la duración total del proyecto.
+d. El camino crítico marca el mínimo tiempo posible en el que se puede realizar el proyecto si no hay ningún retraso.
+ANSWER: A
+
+91. OpenStack es un proyecto de computación en la nube de código abierto, que permite controlar nodos de cómputo, almacenamiento y recursos de red. Indique cuál de los siguientes NO es es un componente de OpenStack:
+a. Nova, infraestructura de cómputo.
+b. Swift, infraestructura de almacenamiento.
+c. Glance, servicios de imagen.
+d. Tez, gestión de zonas.
+ANSWER: D
+
+92. Indique la respuesta correcta que resume el funcionamiento de la firma digital con criptografía de clave pública, garantizando autenticidad del origen, el no repudio en origen y la integridad:
+a. El emisor calcula un hash del mensaje, lo cifra con su clave pública y transmite el criptograma resultante (firma) junto al mensaje. El receptor utiliza la clave privada del emisor para descifrar el criptograma.
+b. El emisor calcula un hash del mensaje, lo cifra con su clave privada y trasmite el criptograma resultante (firma) junto al mensaje. El receptor utiliza su clave privada para descifrar el criptograma.
+c. El emisor calcula un hash del mensaje, lo cifra con su clave pública y transmite el criptograma resultante (firma) junto al mensaje. El receptor utiliza su clave privada para descifrar el criptograma.
+d. El emisor calcula un hash del mensaje, lo cifra con su clave privada y transmite el criptograma resultante (firma) junto al mensaje. El receptor utiliza la clave pública del emisor para descifrar el criptograma.
+ANSWER: D
+
+93. Si hablamos de arquitecturas de almacenamiento, identificar la arquitectura en la que se realiza acceso a ficheros directamente contra el servidor de ficheros o la cabina de almacenamiento donde se gestiona el sistema de ficheros, delegando la transformación de fichero a bloque de bits en la red de almacenamiento:
+a. Arquitectura SAN (Storage Area Network).
+b. Arquitectura DAS (Direct Attached Storage).
+c. Arquitectura NAS (Network Attached Storage).
+d. Arquitectura Disco Interno.
+ANSWER: C
+
+94. El Esquema Nacional de Seguridad indica que un sistema de información será de categoría ALTA:
+a. Si alguna de sus dimensiones de seguridad alcanza el nivel ALTO.
+b. Si todas sus dimensiones de seguridad alcanzan el nivel ALTO.
+c. Si presta servicios a través de redes públicas de comunicación.
+d. Si gestiona datos de carácter personal.
+ANSWER: A
+
+95. Los equipos utilizados para la interconexión de redes en general se clasifican según el modelo OSI para la interconexión de Sistemas Abiertos. ¿Cuál de las siguientes afirmaciones es verdadera?:
+a. Los repetidores trabajan a nivel 1, los concentradores a nivel 2 y las pasarelas pueden trabajar desde el nivel 4 al 7.
+b. Los repetidores trabajan a nivel 1, los conmutadores a nivel 2 y las pasarelas pueden trabajar desde el nivel 4 al 7.
+c. Los concentradores y conmutadores trabajan a nivel 2, y los puentes a nivel 3.
+d. Los conmutadores y los puentes trabajan a nivel 2 y los enrutadores a nivel 4.
+ANSWER: B
+
+96. En el ámbito de la Administración Pública, ¿es obligatoria la designación de un Delegado de Protección de Datos según el Reglamento UE 2016/679 (RGPD)?
+a. No, ya que el RGPD establece la obligatoriedad sólo si la legislación del Estado Miembro lo considera obligatoria.
+b. No, ya que el RGPD no establece supuestos para la obligación de la designación.
+c. Sí, pero sólo si el tratamiento lo lleva a cabo la Administración en calidad de responsable del tratamiento excepto los tribunales que actúen en ejercicio de su función judicial.
+d. Sí, si el tratamiento lo lleva a cabo la Administración tanto en calidad de responsable como en calidad de encargado del tratamiento, excepto los tribunales que actúen en ejercicio de su función judicial.
+ANSWER: D
+
+97. ¿Cuál es la norma principal de la serie ISO que contiene los requisitos del Sistema de Gestión de Seguridad de la Información?
+a. No existe una norma ISO, pero el ENS define con detalle todos los conceptos necesarios.
+b. ISO 9004:2008.
+c. ISO 14001:2007.
+d. ISO 27001:2013.
+ANSWER: D
+
+98. ¿Cuál de las siguientes NO es una herramienta de automatización de pruebas y métricas de calidad?
+a. Selenium.
+b. Cucumber.
+c. Jenkins.
+d. ISTQB.
+ANSWER: D
+
+99. En el marco de la contratación pública, identificar cómo se denominan los documentos que el órgano de contratación aprobará con anterioridad a la autorización del gasto o conjuntamente con ella, y contienen las especificaciones que hayan de regir la realización de la prestación y definen sus calidades, sus condiciones sociales y ambientales:
+a. Pliego de Prescripciones Técnicas Particulares (PPTP).
+b. Pliego de Cláusulas Administrativas Particulares (PCAP).
+c. Pliego de Prescripciones Técnicas Generales (PPTG).
+d. Pliego de Cláusulas Administrativas Generales (PCAG).
+ANSWER: A
+
+100. En relación al sistema Cl@ve, señale la respuesta correcta:
+a. Es un sistema de identificación orientado a la autenticación de servidores en el ámbito de la Administración General del Estado.
+b. Es un sistema de criptografía orientado a la encriptación de datos sensibles en sistemas con clasificación de seguridad de Nivel Alto.
+c. Es un sistema orientado a simplificar el acceso electrónico de los ciudadanos a los servicios públicos, permitiendo que se identifiquen mediante claves concertadas (usuario más contraseña).
+d. Es un sistema de sellado de tiempo creado por la FNMT para su uso en los sistemas de licitación electrónica.
+ANSWER: C
+
+101. [PREGUNTA VALORADA EN SUSTITUCIÓN DE LA Nº 82] En la tecnología Modo de Transferencia Asíncrono (Asynchronous Transfer Mode o ATM), diferentes categorías de tráfico son convertidas en celdas AM vía la Capa de Adaptación ATM (ATM Adaptation Layer o AAL). ¿Cuál es la capa AAL más adecuada para la transmisión de audio y video comprimido?
+a. AAL1.
+b. AAL2.
+c. AAL3/4.
+d. AAL5.
+ANSWER: B
+
+102. [PREGUNTA DE RESERVA NO VALORADA] Respecto a la tecnología estándar UMTS (Universal Mobile Telecommunications System) seleccione la afirmación INCORRECTA:
+a. Es un estándar desarrollado por ETSI que utiliza el interfaz aire W-CDMA, si bien existen otras tecnologías móviles de tercera generación como CDMA-2000.
+b. El estándar W-CDMA permite abandonar el esquema de cobertura geográfica mediante clúster o racimo que garantiza la no interferencia entre células, ya que permite la reutilización de canales en células adyacentes.
+c. Con W-CDMA se da servicio a la misma velocidad, pero a un número mayor de usuarios que con el mecanismo TDMA.
+d. W-CDMA emplea radiocanales de 5MHz de ancho de banda y un esquema de modulación QPSK.
+ANSWER: C
+
+103. [PREGUNTA DE RESERVA NO VALORADA] En relación con el RD 806/2014, sobre organización e instrumentos operativos de las tecnologías de la información y las comunicaciones en la Administración General del Estado y sus Organismos Públicos, señale la respuesta INCORRECTA:
+a. La Comisión de Estrategia TIC (CETIC) es un órgano colegiado encargado de la definición y supervisión de la aplicación de la Estrategia sobre las Tecnologías de la Información y las Comunicaciones de la Administración General del Estado y sus organismos públicos, y se adscribe al Ministerio de Hacienda y Función Pública a través de la Secretaría de Estado de Función Pública.
+b. Las Comisiones Ministeriales de Administración Digital (CMAD) son órganos colegiados de ámbito departamental que estudian y planifican las necesidades funcionales de las distintas áreas administrativas del ministerio, y están presididas por el Subdirector General de Tecnologías de la Información y de las Comunicaciones.
+c. El Comité de Dirección de las Tecnologías de la Información y las Comunicaciones es un órgano de apoyo adscrito a la Secretaría General de Administración Digital integrado, entre otros, por el responsable TIC de las subsecretarías del órgano superior al que corresponda la coordinación de las TIC en cada uno de los departamentos ministeriales.
+d. Las unidades TIC son unidades administrativas cuya función es la provisión de servicios en materia de Tecnologías de la Información y Comunicaciones a sí mismas o a otras unidades administrativas.
+ANSWER: B

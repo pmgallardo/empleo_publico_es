@@ -69,7 +69,7 @@ def convert_aiken_to_qti(aiken_file, qti_file):
     qti_tree.write(qti_file, encoding='utf-8', xml_declaration=True)
 
 # Example usage:
-input_file_path = "../../../data/processed/1166/test/2022/20230606/1166_2022_l_20230606_gen.aiken"
-output_file_path = "../../../data/processed/1166/test/2022/20230606/20230606_gen.qti"
+input_file_path = "../../../data/processed/1166/test/age/2022/20230606/1166_2022_l_20230606_gen.aiken"
+output_file_path = "../../../data/processed/1166/test/age/2022/20230606/20230606_gen.qti"
 
 convert_aiken_to_qti(input_file_path, output_file_path)

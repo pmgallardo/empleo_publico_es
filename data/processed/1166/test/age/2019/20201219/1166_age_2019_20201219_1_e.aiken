@@ -1,0 +1,719 @@
+1. En el sistema de control de versiones distribuido GIT, la función Fetch consiste en:
+a. Enviar el código a otros servidores tras hacer el commit en local.
+b. Descargar una copia de código de un servidor y sustituir a la local.
+c. Descargar una copia de código de un servidor en el equipo local pero sin sustituir la copia local de código.
+d. Fusionar una rama con otra rama, generalmente con la rama principal.
+ANSWER: C
+
+2. Según la resolución de 19 de julio de 2011, de la Secretaría de Estado para la Función Pública, por la que se aprueba la Norma Técnica de Interoperabilidad de Digitalización de Documentos, ¿cuál de los siguientes es uno de los elementos que conforman un documento electrónico generado a partir de un documento digitalizado?
+a. La imagen electrónica que representará el aspecto y contenido del documento en el soporte origen.
+b. Los metadatos mínimos obligatorios definidos en la Norma Técnica de Interoperabilidad de Expediente Electrónico.
+c. La firma electrónica de la imagen electrónica y de los metadatos de acuerdo con la normativa aplicable.
+d. El índice electrónico que garantizará la integridad del documento electrónico.
+ANSWER: A
+
+3. La estatura de una persona no puede emplearse en reconocimiento biométrico porque NO cumple el requisito de:
+a. Universalidad.
+b. Distintividad.
+c. Evaluabilidad.
+d. Aceptabilidad.
+ANSWER: B
+
+4. Señale la opción correcta respecto al protocolo Transport Layer Security (TLS):
+a. Está en proceso de sustitución por el protocolo Secure Sockets Layer (SSL).
+b. Emplea criptografía simétrica para autenticar a las partes, y criptografía asimétrica para el flujo de datos entre ellas.
+c. Utiliza el protocolo IPSec para el intercambio de información en el nivel de red.
+d. Se emplea sobre la capa de transporte para cifrar los datos de protocolos del nivel de aplicación.
+ANSWER: D
+
+5. ¿Cuál de los siguientes es un framework de desarrollo software específico para el lenguaje de programación PHP: Hypertext Preprocessor (PHP)?
+a. Xamarin.
+b. Meteor.
+c. Spring.
+d. Laravel.
+ANSWER: D
+
+6. Señale la opción correcta sobre dispositivos de interconexión de redes:
+a. Un conmutador o switch retransmite cada trama recibida de un puerto al resto de puertos.
+b. Un router opera en la capa 4 del modelo OSI.
+c. Un concentrador o hub ofrece a cada nodo un ancho de banda efectivo independiente del número de nodos conectados.
+d. Un repetidor aumenta los riesgos de colisión y congestión.
+ANSWER: D
+
+7. En el lenguaje SQL (Structured Query Language) para la gestión de datos almacenados en sistemas de bases de datos relacionales, indique cuál es el resultado de ejecutar la sentencia ‘REVOKE DELETE ON administrators FROM user’:
+a. Deshace el borrado del usuario ‘user’ de la tabla ‘administrators’.
+b. Quita al usuario ‘user’ el permiso para borrar filas de la tabla ‘administrators’.
+c. Vuelve a otorgar al usuario ‘user’ permisos de administrador.
+d. Retira todos los permisos del usuario ‘user’ y a continuación lo borra de la tabla ‘administrators’.
+ANSWER: B
+
+8. Señale la opción correcta respecto al uso del protocolo Real-time Transport Protocol (RTP) para el intercambio de información multimedia:
+a. Se debe establecer primero un flujo mediante el protocolo Real Time Control Protocol (RTCP).
+b. RTP utiliza principalmente TCP como protocolo de transporte.
+c. Real Time Secure Protocol (RTSP) incorpora autenticación y cifrado.
+d. RTP es empleado en sesiones multimedia basadas tanto en SIP como en H.323.
+ANSWER: D
+
+9. Indique frente a cuál de los siguientes fenómenos resultan inmunes las transmisiones sobre fibra óptica:
+a. Diafonía.
+b. Atenuación.
+c. Desfase.
+d. Dispersión modal.
+ANSWER: A
+
+10. Señale la afirmación correcta respecto al modelo de datos ráster empleado en los Sistemas de Información Geográfica (SIG):
+a. Al representar una región se genera un volumen de información inversamente proporcional al tamaño de celda empleado.
+b. Permite una gestión topológica de elementos espaciales.
+c. Es posible combinar capas de datos ráster no georreferenciadas mediante superposición.
+d. Representa elementos espaciales a través de coordenadas.
+ANSWER: A
+
+11. Señale la afirmación correcta respecto al uso de variables en el lenguaje PHP: Hypertext Preprocessor (PHP), considerando su versión PHP 7.0 y posteriores:
+a. Las variables en PHP van precedidas por un carácter ampersand (&).
+b. Existen variables predefinidas que están disponibles en todos los ámbitos del script.
+c. No es posible crear una variable cuyo nombre sea el contenido de otra variable.
+d. Las variables se asignan por valor, no estando permitida la asignación por referencia.
+ANSWER: B
+
+12. Según establece el RD 1071/2007, de 27 de julio, por el que se regula el sistema geodésico de referencia oficial en España, ¿cuál es el sistema de referencia geodésico oficial en el ámbito de la Península Ibérica para la referenciación geográfica y cartográfica?
+a. REGCAN95.
+b. ED50.
+c. UTM.
+d. ETRS89.
+ANSWER: D
+
+13. ¿En qué consiste el elemento LSP de la arquitectura MPLS?
+a. Es el circuito virtual por el que van todos los paquetes de una misma FEC.
+b. Es el protocolo que utilizan los LSR para asignar las etiquetas.
+c. Es la tabla de etiquetas que manejan los LSR.
+d. Es el router que puede encaminar paquetes en función del valor de la etiqueta MPLS.
+ANSWER: A
+
+14. ¿Cómo funciona el método de acceso CSMA 1?
+a. Las estaciones se consultan unas a otras para determinar qué estación tiene el derecho a enviar.
+b. Se divide el tiempo para la emisión de tramas en intervalos de duración constante.
+c. Se escucha el canal para saber si está libre y se puede enviar la trama, o si hay que esperar.
+d. Una estación central concede el permiso de acceso al medio.
+ANSWER: C
+
+15. Indique la opción verdadera respecto a los certificados X.509v3:
+a. El formato de certificados X.509 es un estándar del ITU-T.
+b. Uno de sus elementos es el número de serie del certificado, un número secuencial que recomienza cada 1 de enero.
+c. Emplean un formato llamado ASN-3 para la transmisión de datos.
+d. Son válidos de forma permanente salvo que se incluyan en una lista de anulación de certificados (CRLs).
+ANSWER: A
+
+16. Atendiendo al tipo de licencia, los gestores de contenido pueden ser de código abierto o de código propietario, ¿cuál de los siguientes es de código propietario?
+a. TYP03.
+b. OpenCMS.
+c. OnBase.
+d. PHPNuke.
+ANSWER: C
+
+17. La Plataforma de Intermediación ofrece, entre otras funcionalidades:
+a. Información al ciudadano sobre el estado de sus expedientes.
+b. Acceso del ciudadano a sus notificaciones pendientes y la posibilidad de comparecer en ellas.
+c. Gestión de apoderamientos y consulta de datos en poder de las Administraciones Públicas.
+d. Servicios web de verificación y consulta de datos.
+ANSWER: D
+
+18. Entre las siguientes opciones, ¿cuál es un estándar para firma electrónica?
+a. WAdES.
+b. PdES.
+c. XAdES.
+d. CdES.
+ANSWER: C
+
+19. Señale la opción correcta según el estándar TIA-942 respecto a la certificación "Tier":
+a. La certificación "Tier I" exige el mayor grado de disponibilidad, y "Tier IV" el menor.
+b. Para obtener la certificación "Tier IV" los centros de datos deben lograr una disponibilidad del 99,995%.
+c. Los centros de datos "Tier III" y "Tier IV" pueden interrumpir la actividad para realizar tareas rutinarias de mantenimiento.
+d. Todas las clasificaciones "Tier" obligan a incluir sistemas redundantes, suelos elevados y generadores auxiliares de energía.
+ANSWER: B
+
+20. Un disco duro SSD:
+a. Emplea un sistema de archivos propio.
+b. Emplea memoria volátil flash basada en NAND.
+c. Carece de partes móviles y tiene menor consumo que un disco mecánico de capacidad equivalente.
+d. Sólo se emplea en ordenadores portátiles.
+ANSWER: C
+
+21. Señale la opción correcta respecto a las smart cards o tarjetas inteligentes:
+a. Requieren de una batería para conservar los datos almacenados.
+b. Pueden ser de contacto, sin contacto, híbridas o duales.
+c. Contienen memoria de sólo lectura y de almacenamiento, pero no pueden tener una CPU.
+d. Las operaciones criptográficas se realizan mediante una aplicación específica en un equipo informático.
+ANSWER: B
+
+22. En relación a los SGBD (Sistema Gestor de Base de Datos), el catálogo o Diccionario de Datos:
+a. Es un elemento opcional en los sistemas de gestión de base de datos.
+b. Emplea ficheros planos para almacenar los esquemas de las bases de datos y no tener autodependencias.
+c. Es un conjunto de metadatos que contiene las características de los datos que se van a utilizar en el sistema.
+d. Se conoce también como information_syscat o information_system.
+ANSWER: C
+
+23. Entre los estándares que aplican a la conservación de la información en formato electrónico encontramos ISO 19005-1:2005 PDF/A-1, que identifica:
+a. Las recomendaciones para la conservación a largo plazo de información electrónica basada en documentos.
+b. Los requisitos para la conservación a largo plazo de documentos electrónicos.
+c. El formato de archivo de documentos electrónicos para conservación a largo plazo.
+d. Las recomendaciones para la veracidad y fiabilidad de información almacenada electrónicamente.
+ANSWER: C
+
+24. Un brouter:
+a. Es un tipo de gatekeeper.
+b. Es un bridge router, sirve para interconectar redes funcionando como bridge y como enrutador.
+c. Trabaja como bridge con los protocolos encaminables y como router con los que no lo son.
+d. Es un dispositivo en desuso porque sólo encamina el protocolo XNS.
+ANSWER: B
+
+25. Atendiendo a la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿cuál de las siguientes opciones es FALSA en relación con el cálculo del valor estimado de un contrato de servicios?
+a. Debe incluir el Impuesto sobre el Valor Añadido.
+b. Deben considerarse las eventuales prórrogas.
+c. Deben considerarse las modificaciones previstas.
+d. Deben considerarse las primas que se haya previsto abonar a los licitadores.
+ANSWER: A
+
+26. La capacidad de un sistema para aumentar las prestaciones que ofrece, de forma fluida y sin perder calidad en su servicio, responde a la definición de:
+a. Interoperabilidad.
+b. Accesibilidad.
+c. Reparabilidad.
+d. Escalabilidad.
+ANSWER: D
+
+27. ¿Cómo se denomina al código que obtiene el contribuyente tras el pago de un impuesto en la pasarela de pagos de la Agencia Estatal de Administración Tributaria (AEAT)?
+a. DES (Data Encryption Standard).
+b. MAC (Message Authentification Code).
+c. NRC (Número de Referencia Completo).
+d. CSV (Código Seguro de Verificación).
+ANSWER: C
+
+28. El ámbito de aplicación de la Ley 9/2014, de 9 de mayo, General de Telecomunicaciones, comprende:
+a. Los servicios de comunicación audiovisual, los contenidos audiovisuales transmitidos a través de las redes, así como el régimen básico de los medios de comunicación social de naturaleza audiovisual a que se refiere el artículo 149.1.27.ª de la Constitución.
+b. Los servicios que suministren contenidos transmitidos mediante redes y servicios de comunicaciones electrónicas.
+c. La explotación de las redes y la prestación de los servicios de comunicaciones electrónicas y los recursos asociados, de conformidad con el artículo 149.1.21.ª de la Constitución.
+d. Ninguna de las anteriores es válida.
+ANSWER: C
+
+29. ¿Cuál de las siguientes arquitecturas de almacenamiento ofrece un acceso a nivel de fichero?
+a. Discos internos.
+b. DAS (Direct Attached Storage).
+c. SAN (Storage Area Network).
+d. NAS (Network Attached Storage).
+ANSWER: D
+
+30. En relación con el personal directivo profesional, según el Estatuto Básico del Empleado Público:
+a. La selección de este personal ha de ser siempre por concurso.
+b. El personal directivo estará sujeto a evaluación en aquellos casos en que se exija dentro del Estatuto del Directivo Público.
+c. Su designación atenderá a principios de mérito y capacidad y a criterios de idoneidad, y se llevará a cabo mediante procedimientos que garanticen la publicidad y la concurrencia.
+d. La determinación de las condiciones de empleo del personal directivo tendrá la consideración de materia objeto de negociación colectiva.
+ANSWER: C
+
+31. ¿Cuál de los documentos que integran el expediente de contratación debe contener los criterios de adjudicación?
+a. El pliego de cláusulas administrativas particulares.
+b. El pliego de cláusulas administrativas generales.
+c. El pliego de prescripciones técnicas particulares.
+d. El pliego de prescripciones técnicas generales.
+ANSWER: A
+
+32. ¿Cómo se denomina el método de análisis de la rentabilidad de las inversiones que consiste en calcular el tipo de descuento que hace que el valor actual neto de la inversión tome un valor igual a cero?
+a. Tasa interna de retorno.
+b. Plazo de recuperación.
+c. Índice de rentabilidad.
+d. Tasa de valor actual.
+ANSWER: A
+
+33. En cuanto a las copias de seguridad para backup, indique cuál de las siguientes copias de seguridad consiste en comprobar el bit de modificado y hacer una copia de los archivos que han cambiado desde la última copia de seguridad incremental, borrando el bit de modificado:
+a. Copia de seguridad incremental.
+b. Copia de seguridad completa.
+c. Copia de seguridad diferencial.
+d. Copia de seguridad intermedia.
+ANSWER: A
+
+34. Empleando la tecnología Bluetooth (IEEE 802.15.1), ¿cómo se denominan las redes en estrella que permiten conectar un dispositivo maestro con hasta 7 dispositivos esclavos?
+a. Starnet.
+b. Piconet.
+c. Scatternet.
+d. Multinet.
+ANSWER: B
+
+35. ¿Cuál de las siguientes es una dirección IPv6 válida?
+a. 9000::1234::CDEH
+b. 1222:2234:1145:ABCD:A7A:0:0:7817
+c. 8000:0:0:0:ABCD:1125
+d. FE80::0112::1134::B214
+ANSWER: B
+
+36. ¿Cuáles son las capas que componen la arquitectura del sistema operativo iOS?
+a. 3 capas: Core OS, Core Services y Cocoa Touch.
+b. 4 capas: Core OS, Core Services, Media y Cocoa Touch.
+c. 2 capas: Core OS y Cocoa Touch.
+d. 4 capas: Core OS, Aqua, SQLite y Cocoa Touch.
+ANSWER: B
+
+37. ¿Cuál de los siguientes es un protocolo no orientado a conexión?
+a. TCP.
+b. ICMP.
+c. FTP.
+d. HTTP.
+ANSWER: B
+
+38. [ANULADA] De acuerdo con el modelo de calidad del software de McCall son características de modificación o revisión de un producto:
+a. Corrección, facilidad de mantenimiento y facilidad de uso.
+b. Facilidad de mantenimiento, facilidad de uso y facilidad de prueba.
+c. Extensibilidad, facilidad de mantenimiento y facilidad de prueba.
+d. Extensibilidad, corrección y facilidad de uso.
+ANSWER: C
+
+39. ¿Cuál es la extensión de los archivos en los que se empaquetan las aplicaciones iOS?
+a. XML.
+b. IPA.
+c. APK.
+d. APPX.
+ANSWER: B
+
+40. ¿Cuál de las siguientes especificaciones redefine el formato de los mensajes de SMTP, permitiendo entre otros el envío de mensajes multi parte o el envío de formatos no textuales en el cuerpo del mensaje?
+a. DNS-MX.
+b. MIME.
+c. POP3.
+d. ESMTP.
+ANSWER: B
+
+41. ¿Cómo se denominan las aplicaciones móviles desarrolladas con un SDK concreto y optimizadas para ser utilizadas en un sistema operativo en particular? a. Aplicaciones móviles multiplataforma.
+b. Aplicaciones móviles híbridas.
+c. Aplicaciones web móviles.
+d. Aplicaciones móviles nativas.
+ANSWER: D
+
+42. Indique la opción correcta respecto a JSON:
+a. Es acrónimo de Java Schema Object Naming.
+b. Es una sintaxis para almacenar e intercambiar datos, escrito con notación de objetos JavaScript.
+c. Es más complejo y requiere más esfuerzo de analizar que XML.
+d. No es compatible con XML, no pudiendo aparecer XML y JSON en la misma aplicación.
+ANSWER: B
+
+43. La red de servicios transeuropeos se denomina:
+a. IDA.
+b. IDABC.
+c. s-TESTA.
+d. REDSARA.
+ANSWER: C
+
+44. La nueva iniciativa para la transformación digital en España se denomina:
+a. Plan Nacional de Transformación Digital.
+b. Agenda España Digital 2025.
+c. Plan de digitalización nacional.
+d. Plan Avanza 4.0.
+ANSWER: B
+
+45. Respecto a la gestión de dispositivos móviles:
+a. El dispositivo BYOD es propiedad de la organización, pero se permite su utilización para ciertas tareas personales.
+b. CYOD permite a los empleados elegir el dispositivo móvil de una reducida lista preaprobada de dispositivos móviles.
+c. COPE es un tipo de BYOD de uso exclusivamente corporativo.
+d. CYOD permite a los empleados elegir el dispositivo móvil que utilizará de todos los disponibles en el mercado.
+ANSWER: B
+
+46. Según el Real Decreto 806/2014, de 19 de septiembre, sobre organización e instrumentos operativos de las tecnologías de la información y las comunicaciones en la Administración General del Estado y sus Organismos Públicos, los proyectos TIC de interés prioritario:
+a. Deben ser tenidos obligatoriamente en cuenta por el Ministerio de Hacienda en la elaboración de los Presupuestos Generales del Estado.
+b. Deben tener una duración máxima de 4 años.
+c. Son los proyectos financiados con Fondos Europeos.
+d. Son declarados por el Comité de Estrategia TIC.
+ANSWER: D
+
+47. [ANULADA] Señale la opción FALSA respecto a lenguajes para la utilización de redes globales:
+a. El protocolo HTTP (Hypertext Transfer Protocol) es un protocolo de comunicaciones con estado que permite mantener sesiones.
+b. La versión segura de HTTP es HTTPS, y utiliza cifrado basado en SSL/TLS para crear un canal cifrado entre el servidor y el cliente.
+c. Las hojas CSS (Cascading Style Sheets) permiten modificar el aspecto de una página web, aunque son dependientes de HTML.
+d. XML (eXtensible Markup Language) es un lenguaje de marcas que permite describir información o contenido de forma separada de su presentación o formato.
+ANSWER: A
+
+48. Indique la opción correcta respecto al 5G al compararlo con el 4G:
+a. Su velocidad es hasta 100 veces mayor, alcanzando velocidades medias de 200 Gbps.
+b. La principal ventaja respecto a 4G es la disminución del tiempo de latencia.
+c. Los terminales 5G consumen más batería.
+d. Se requiere un mayor número de antenas para conectar los mismos dispositivos que con 4G.
+ANSWER: B
+
+49. Señale la opción FALSA respecto a sistemas criptográficos:
+a. En un sistema de cifrado de clave asimétrica, la seguridad radica en la transmisión de la clave mediante canal seguro entre el emisor y el receptor del mensaje.
+b. La criptografía asimétrica incluye sistemas basados en factorización entera, el problema del logaritmo discreto y el problema del logaritmo discreto elíptico.
+c. La criptografía asimétrica se fundamenta en la imposibilidad práctica de resolver ciertos problemas matemáticos de forma eficiente.
+d. Dos de las aplicaciones principales de la criptografía de clave pública son el intercambio seguro de claves privadas y la firma digital.
+ANSWER: A
+
+50. Señale cuál de las siguientes es una herramienta de trabajo en grupo para la administración de proyectos basada en el uso de tablones y tarjetas de forma coherente con la metodología ágil Kanban:
+a. Teams.
+b. Slack.
+c. Trello.
+d. Doodle.
+ANSWER: C
+
+51. Dentro de la familia de estándares IEEE 802.11, ¿cuál es el que se caracteriza por trabajar en la banda de los 2,4GHz y por una tasa de transferencia máxima de 11Mbps?
+a. IEEE 802.11b
+b. IEEE 802.11a
+c. IEEE 802.11ac
+d. IEEE 802.11n
+ANSWER: A
+
+52. ¿Cuál de las siguientes opciones es una solución que implementa un servidor de aplicaciones?
+a. IBM Websphere Application Server.
+b. Apache HTTP Server.
+c. Microsoft SQL Server.
+d. Microsoft Internet Application Server.
+ANSWER: A
+
+53. Señale la opción FALSA respecto a la virtualización de máquinas:
+a. Permite la ejecución de varios sistemas operativos en una única máquina física.
+b. Permite un mayor aprovechamiento de la capacidad del hardware.
+c. Requiere aumentar la inversión en hardware específico para la virtualización.
+d. Facilita el despliegue de entornos de prueba.
+ANSWER: C
+
+54. Señale la opción INCORRECTA sobre las funciones hash o resumen:
+a. Su utilización en MDC (Modification Detection Codes) permite verificar la integridad de los mensajes.
+b. La longitud del hash es siempre la misma, con independencia del tamaño del mensaje.
+c. La función hash es reversible y bidireccional.
+d. Entre los algoritmos utilizados se encuentran MD5 y SHA-2.
+ANSWER: C
+
+55. En el ámbito de las redes VoIP/ToIP, ¿cuál NO está entre las funciones de un gatekeeper?
+a. Traducción de direcciones de transporte.
+b. Gestión del ancho de banda o concesión de permisos para llamadas.
+c. Soportar la gestión de las multiconferencias.
+d. Control de admisiones o política de llamadas.
+ANSWER: C
+
+56. En el marco del e-learning, SCORM designa:
+a. Al programa de partida de la iniciativa ISO JTC1 SC36.
+b. A una versión de la guía AGR010.
+c. Al organismo norteamericano federal de normalización técnica para el e-learning.
+d. Al conjunto de estándares y especificaciones de ADL.
+ANSWER: D
+
+57. Señale la opción INCORRECTA respecto al Plan España Digital 2025:
+a. Recoge un conjunto de medidas de reforma e inversiones.
+b. Se alinea con la Estrategia Española de Ciencia, Tecnología e Innovación.
+c. Es un elemento de impulso para la transición ecológica hacia un modelo económico y social basado en la sostenibilidad.
+d. Al igual que la Agenda Digital para España aprobada en el año 2013, se articula mediante nueve planes.
+ANSWER: D
+
+58. Para un datagrama IPv4 con una cabecera de 20 bytes, ¿qué valor tendría el campo 'Longitud de Cabecera'?
+a. 20.
+b. 5.
+c. 160.
+d. 4.
+ANSWER: B
+
+59. Indique cuál de los siguientes sistemas operativos NO se emplea en dispositivos móviles:
+a. Symbian.
+b. iOS.
+c. Tizen.
+d. z/OS.
+ANSWER: D
+
+60. ¿Cuál de los siguientes protocolos se utiliza para obtener la dirección MAC de un nodo a partir de su dirección IP?
+a. ARP.
+b. ICMP.
+c. RARP.
+d. DNS.
+ANSWER: A
+
+61. Las organizaciones europeas de normalización, al amparo del Reglamento (UE) 1025/2012, del Parlamento Europeo y del Consejo sobre la normalización europea, son:
+a. El Comité Europeo de Normalización (CEN), el Comité Europeo de Normalización Electrotécnica (Cenelec) y el Instituto Europeo de Normas de Telecomunicaciones (ETSI).
+b. El Comité Europeo de Normalización (CEN) y Asociación Europea de Normalización (AENOR).
+c. El Comité Europeo de Normalización Electrotécnica (Cenelec) y la Organización Internacional de Normalización (ISO).
+d. La Organización Internacional de Normalización (ISO), el Comité Europeo de Normalización (CEN) y el Comité Europeo de Normalización Electrotécnica (Cenelec).
+ANSWER: A
+
+62. Según el Real Decreto 3/2010 por el que se regula el Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica, la política de seguridad de la información debe aplicar como requisito mínimo:
+a. Líneas de defensa.
+b. Seguridad por defecto.
+c. Seguridad integral.
+d. Función diferenciada.
+ANSWER: B
+
+63. El ámbito objetivo de la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público:
+a. Incluye el uso de documentos sobre los que existan derechos de propiedad intelectual o industrial por parte de terceros.
+b. Incluye el uso de documentos para cuyo acceso se requiera ser titular de un derecho o interés legítimo.
+c. Incluye el uso de documentos que afecten a la defensa nacional.
+d. No incluye el intercambio de documentos entre Administraciones y organismos del sector público en el ejercicio de las funciones públicas que tengan atribuidas.
+ANSWER: D
+
+64. En el Análisis DAFO de planificación estratégica los aspectos externos positivos se identifican con:
+a. Las oportunidades.
+b. Las ventanas de oportunidad.
+c. El éxito contrafactual.
+d. El mejor escenario posible (BPS).
+ANSWER: A
+
+65. En relación con las evaluaciones de impacto de protección de datos (EIPD), señale la opción INCORRECTA:
+a. La EIPD es obligatoria cuando las operaciones de tratamiento entrañen un alto riesgo para los derechos y libertades de las personas físicas.
+b. La EIPD es obligatoria para todos los tratamientos de datos de las administraciones públicas.
+c. El resultado de la evaluación debe tenerse en cuenta para determinar las medidas que mitiguen los riesgos, de forma que el tratamiento mantenga las garantías de protección de datos.
+d. Si no es posible mitigar el riesgo con medidas técnicas u organizativas, debe plantearse una consulta a la Agencia Espańola de Protección de Datos.
+ANSWER: B
+
+66. En Scrum, el documento de alto nivel para todo el proyecto, que contiene descripciones genéricas de todos los requisitos, funcionalidades deseables, etc. priorizadas por el product owner, quien añadirá los requisitos a petición de los stakeholders, es:
+a. Daily Scrum.
+b. Product backlog (Pila del producto).
+c. Burn down Chart.
+d. Sprint backlog (Pila del sprint).
+ANSWER: B
+
+67. La dimensión de seguridad consistente en que las actuaciones de una entidad pueden ser imputadas exclusivamente a dicha entidad, se conoce como:
+a. Trazabilidad.
+b. Autenticidad.
+c. Confidencialidad.
+d. Disponibilidad.
+ANSWER: A
+
+68. Los indicadores clave de gestión (KPI - Key Performance Indicator):
+a. Permiten valorar el grado de cumplimiento de los objetivos.
+b. Permiten identificar el presupuesto del proyecto.
+c. Tienen como objetivo identificar la estrategia.
+d. Deben ser identificados para determinar los objetivos.
+ANSWER: A
+
+69. ¿Cuál es el órgano encargado de impulsar el proceso de racionalización de las tecnologías de la información y de las comunicaciones en el ámbito de la Administración General del Estado?
+a. La Secretaría General de Administración Digital.
+b. La Dirección de Tecnologías de la Información y de las Comunicaciones.
+c. La Comisión Interministerial de Implantación de la Agenda Digital.
+d. La Oficina del Plan Nacional de Digitalización.
+ANSWER: A
+
+70. ¿Cuál de las siguientes técnicas de minería de datos o data mining se utiliza en modelos de descubrimiento del conocimiento mediante algoritmos no supervisados?
+a. Redes neuronales.
+b. Regresión lineal.
+c. Clustering.
+d. Arboles de decisión.
+ANSWER: C
+
+71. En el modelo de calidad EFQM, la autoevaluación es:
+a. Un examen realizado por los empleados de una organización para la evaluación del desempeño.
+b. Un examen parcial y regular dirigido a las actividades y resultados de las personas.
+c. Un criterio de calidad dirigido a los clientes.
+d. Un examen global, sistemático y regular de las actividades y resultados de la organización.
+ANSWER: D
+
+72. ¿Qué función de JavaScript permite cambiar de página sin que la página actual permanezca en el historial?
+a. Location.href()
+b. Location.assign()
+c. Location.load()
+d. Location.replace()
+ANSWER: D
+
+73. ¿Qué tipo de aprendizaje automático tiene como objetivo maximizar una cierta función de recompensa?
+a. Supervisado.
+b. Por refuerzo.
+c. No supervisado.
+d. Mapeado.
+ANSWER: B
+
+74. De acuerdo al art. 27 del Real Decreto 3/2010 por el que se regula el Esquema Nacional de Seguridad, la relación de medidas de seguridad que aplican las Administraciones Públicas para cumplir los requisitos mínimos de seguridad teniendo en cuenta los activos de un sistema, su categoría y las decisiones para gestionar los riesgos identificados se formaliza en:
+a. La Política de Seguridad de la Información.
+b. La Declaración de Aplicabilidad.
+c. El Documento de Seguridad.
+d. El Informe de Auditoría.
+ANSWER: B
+
+75. Son modalidades de prestación de servicios TIC en nube:
+a. IaaS, PaaS y SaaS.
+b. ANS, AIS y ASS.
+c. HOUSING y HOSTING.
+d. GRID, SOAP y REST.
+ANSWER: A
+
+76. ¿Cuál es la principal misión de ICANN en el ecosistema Internet?
+a. Desarrollar estándares técnicos abiertos.
+b. Acordar las políticas públicas que afectan a Internet.
+c. Administrar los servidores raíz del DNS.
+d. Fijar los parámetros técnicos de los protocolos Internet del IRTF.
+ANSWER: C
+
+77. En los diagramas de estructura, ¿qué nombre recibe una conexión en que el módulo superior llama a uno u otro del nivel inferior en función de una condición?
+a. Secuencial.
+b. Repetitiva.
+c. Iterativa.
+d. Alternativa.
+ANSWER: D
+
+78. En un sistema de Data Warehouse la operación que permite ver datos con mayor nivel de agregación, disminuyendo el nivel de detalle se conoce como:
+a. Roll-up.
+b. Slice-and-dice.
+c. Drill-down.
+d. Drill-across.
+ANSWER: A
+
+79. Entre las características de Blockchain NO se encuentra:
+a. Dependencia de una autoridad central.
+b. Transparencia al poder acceder a todas las transacciones.
+c. La comunicación entre sus nodos blockchain se realiza utilizando P2P.
+d. Es un tipo particular de la arquitectura transaccional DLT.
+ANSWER: A
+
+80. UML consta de varios tipos de diagramas, que se clasifican en Diagramas de Estructura y Diagramas de Comportamiento para representar la visión estática y dinámica respectivamente. ¿Cuál de los siguientes es un diagrama de Estructura?
+a. Diagrama de actividades.
+b. Diagrama de casos de uso.
+c. Diagrama de estados.
+d. Diagrama de componentes.
+ANSWER: D
+
+81. Referente a los roles en los proyectos Big Data, los perfiles que toman los datos organizados y crean sofisticados modelos de análisis que ayudan a predecir comportamientos, segmentaciones y optimizaciones, asegurándose de que cada modelo se actualiza con frecuencia, se conocen como:
+a. Data Explorers.
+b. Data Architects.
+c. Data Scientists.
+d. Campaign Experts.
+ANSWER: C
+
+82. La capacidad de proporcionar y mantener un nivel aceptable de servicio ante la ocurrencia de fallos y desafíos a la operación normal se conoce como:
+a. Disponibilidad.
+b. Seguridad.
+c. Resiliencia.
+d. Mantenibilidad.
+ANSWER: C
+
+83. ¿Cuántos nombres de dominio genéricos de primer nivel pueden existir?
+a. 7 (.edu, .gov, .com, .mil, .net, .int, .org).
+b. 201 (siete genéricos, y 194 de los países soberanos reconocidos por la ONU).
+c. No existe límite para el número de los CCTLD ("Country Code TLD", pero sí para el número de GTLD ("General TLD).
+d. No existe límite de nombres de dominio genéricos de primer nivel.
+ANSWER: D
+
+84. ¿Cuáles de los siguientes son estándares relacionados con la construcción y el uso de Web Services?
+a. XML y SOAP.
+b. WSDL y OASIS.
+c. UDDI y BPMI.
+d. DOM y OMG.
+ANSWER: A
+
+85. ¿Qué es DevOps?
+a. Es un modelo de ciclo de vida del software que sigue las fases de Desarrollo (Dev) y Operación (Ops).
+b. Es una herramienta para la gestión de proyectos ágiles.
+c. Es una metodología de desarrollo en la que equipos aislados compiten entre sí por lograr el desarrollo más eficiente.
+d. Es una práctica de ingeniería de software que tiene como objetivo unificar el desarrollo de software (Dev) y la operación del software (Ops) en el ciclo de vida del producto.
+ANSWER: D
+
+86. TestLink es una herramienta de:
+a. Desarrollo de interfaces de usuario.
+b. Integración de configuración.
+c. Gestión de requisitos y casos de pruebas.
+d. Desarrollo de aplicaciones web.
+ANSWER: C
+
+87. De los siguientes atributos de la calidad del software, ¿cuál NO está definido en el ISO/IEC 25010?
+a. Compatibilidad.
+b. Seguridad.
+c. Acoplamiento.
+d. Fiabilidad.
+ANSWER: C
+
+88. Según Gordon y Bieman, sobre la elaboración de prototipos en el desarrollo de sistemas, indique cuál de las opciones NO es correcta:
+a. Mejora la usabilidad del sistema.
+b. Mejora la comunicación entre desarrolladores y usuarios.
+c. Es mayor el esfuerzo de desarrollo porque hay que desechar el prototipo.
+d. Mejora la calidad del diseño.
+ANSWER: C
+
+89. Indique cuál de los siguientes NO es un algoritmo para la sustitución de páginas en memoria RAM:
+a. FIFO.
+b. LRU.
+c. NRU.
+d. Round Robin.
+ANSWER: D
+
+90. En notación BPMN un contenedor gráfico para agrupar un conjunto de actividades es lo que se conoce como:
+a. Artefacto.
+b. Nodo de decisión.
+c. Pool.
+d. Evento.
+ANSWER: C
+
+91. La estructura de tipo matricial de un Centro de Sistemas de Información se caracteriza por:
+a. La especialización funcional.
+b. El solapamiento de agrupaciones funcionales y divisionales.
+c. La especialización divisional.
+d. Su apariencia de red evolutiva.
+ANSWER: B
+
+92. SAML (Security Assertion Markup Language) es un estándar abierto basado en:
+a. JavaScript.
+b. Java.
+c. XML.
+d. C.
+ANSWER: C
+
+93. Atendiendo al Real Decreto 3/2010 por el que se regula el Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica, señale la opción correcta sobre la realización de auditorías de seguridad en los sistemas de información de categoría básica:
+a. No necesitan realizar una auditoría.
+b. Deben ser objeto de una auditoría al menos anualmente.
+c. Deben ser objeto de una auditoría al menos cada dos años.
+d. Deben ser objeto de auditoría cuando se produzcan modificaciones sustanciales en el sistema de información.
+ANSWER: A
+
+94. Indique cuál de las siguientes es una herramienta que permite representar gráficamente la vinculación entre actividades y eventos de un proyecto reflejando interdependencias independientemente de la dimensión temporal:
+a. Representación DAFO.
+b. Diagrama PERT.
+c. Modelo EFQM.
+d. Diagrama de Gantt.
+ANSWER: B
+
+95. El análisis de las necesidades de la organización, la implantación y ejecución de controles y medidas para gestionar la capacidad de la organización frente a incidentes, la supervisión y revisión del rendimiento y la mejora continua son los pilares de:
+a. La planificación de sistemas.
+b. La gestión de la configuración.
+c. La gestión de cambios.
+d. La gestión de la continuidad del negocio.
+ANSWER: D
+
+96. Atendiendo a criterios de propiedad y gestión, una nube puede ser:
+a. Privada, pública, híbrida o comunitaria.
+b. Abierta o confidencial.
+c. Interna, externa o media.
+d. IaaS, PaaS o SaaS.
+ANSWER: A
+
+97. Del kernel o núcleo de Unix podemos afirmar que es:
+a. De tipo jerárquico, monolítico y monotarea.
+b. De tipo microkernel, multitarea y monousuario.
+c. De tipo máquina virtual, monotarea y multiusuario.
+d. De tipo monolítico, multitarea y multiusuario.
+ANSWER: D
+
+98. Al documento que define, de forma completa, precisa y verificable, los requisitos, el comportamiento u otras características del sistema a desarrollar o de cualquiera de sus componentes se denomina:
+a. Estudio de viabilidad del sistema.
+b. Análisis del sistema de información.
+c. Especificación de requisitos del sistema.
+d. Diagrama de flujo de datos.
+ANSWER: C
+
+99. El programa dañino "WannaCry" es un ejemplo de "malware" del tipo:
+a. Spoofing.
+b. Rootkit.
+c. Ransomware.
+d. Spyware.
+ANSWER: C
+
+100. La herramienta desarrollada por el Centro Criptológico Nacional que permite a las Administraciones Públicas realizar el análisis y la gestión de riesgos, así como el análisis del impacto y la continuidad de operaciones para las Administraciones Públicas se denomina:
+a. MAGERIT.
+b. PILAR.
+c. ANGELES.
+d. LUCIA.
+ANSWER: B
+
+Reserva 1. [PREGUNTA VALORADA EN SUSTITUCIÓN DE LA Nº 38] En relación a la medida de seguridad ‘Mecanismo de autenticación’ recogida en el Real Decreto 3/2010, por el que se regula el Esquema Nacional de Seguridad, señale cuál de las siguientes opciones NO es de aplicación a un sistema con un nivel de confidencialidad ALTO:
+a. Las credenciales utilizadas deberán haber sido obtenidas tras un registro previo presencial o telemático usando certificado electrónico cualificado en dispositivo cualificado de creación de firma.
+b. Las credenciales se suspenderán tras un periodo definido de no utilización.
+c. Se exigirá el uso de al menos tres factores de autenticación.
+d. En el caso de usar el factor de autenticación de "algo que se tiene", se requerirá el uso de elementos criptográficos hardware usando algoritmos y parámetros acreditados por el Centro Criptológico Nacional.
+ANSWER: C
+
+Reserva 2. [PREGUNTA VALORADA EN SUSTITUCIÓN DE LA Nº 47] Indique en cuál de los siguientes casos está permitido aplicar un único criterio de adjudicación de conformidad con lo dispuesto en el artículo 145 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público:
+a. Contratos en los que la definición de la prestación es susceptible de ser mejorada por otras soluciones técnicas o por reducciones en su plazo de ejecución.
+b. Contratos de servicios en que las prestaciones estén perfectamente definidas técnicamente y no sea posible variar los plazos de entrega ni introducir modificaciones de ninguna clase en el contrato.
+c. Contratos cuya ejecución pueda tener un impacto significativo en el medio ambiente.
+d. Contratos que requieran del empleo de tecnología especialmente avanzada.
+ANSWER: B
+
+Reserva 3. [PREGUNTA DE RESERVA NO VALORADA] Según la Directiva (UE) 2019/1024 del Parlamento Europeo y del Consejo, de 20 de junio, relativa a los datos abiertos y la reutilización de la información del sector público, los documentos cuya reutilización está asociada a considerables beneficios para la sociedad, el medio ambiente y la economía, en particular debido a su idoneidad para la creación de servicios de valor añadido, aplicaciones y puestos de trabajo nuevos, dignos y de calidad, y del número de beneficiarios potenciales de los servicios de valor añadido y aplicaciones basados en tales conjuntos de datos, se denominan:
+a. Conjuntos de datos de alto valor.
+b. Datos de investigación.
+c. Datos dinámicos.
+d. Datos estratégicos.
+ANSWER: A
