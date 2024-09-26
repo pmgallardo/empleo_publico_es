@@ -44,6 +44,13 @@ class QuizQuestion:
             text += f"{opt_letter}) {option} \n"
         return text
 
+    def to_dict(self):
+        return {
+            'enunciado': str(self.statement),
+            'respuestas': [str(option) for option in self.options],
+            'respuesta_correcta': self.correct_answer_no
+        }
+
 class AGEQuizQuestion(QuizQuestion):
     def __init__(self):
         super().__init__()
@@ -62,31 +69,41 @@ class AGEQuizQuestion(QuizQuestion):
         # Block is used when it cannot be inferred from topic
         self.block = ""
 
-        def set_body(body):
-            self.body = body
+    def set_body(body):
+        self.body = body
 
-        def set_date(date):
-            self.date = date
+    def set_date(date):
+        self.date = date
 
-        def set_call(call):
-            self.call = call
+    def set_call(call):
+        self.call = call
 
-        def get_id(self):
-            body = empty_if_none(self.body)
-            call = empty_if_none(self.call)
-            source = empty_if_none(self.source)
-            date = empty_if_none(self.date)
-            mode = empty_if_none(self.mode)
-            num = empty_if_none(self.num)
-            id = self.body + ".".join([body, call, source, date, mode, num])
-            return id
+    def get_id(self):
+        body = self.empty_if_none(self.body)
+        call = self.empty_if_none(self.call)
+        source = self.empty_if_none(self.source)
+        date = self.empty_if_none(self.date)
+        mode = self.empty_if_none(self.mode)
+        num = self.empty_if_none(self.num)
+        id = self.body + ".".join([body, call, source, date, mode, num])
+        return id
 
-        def empty_if_none(self, body):
-            if self.body is None:
-                body = ""
-            else:
-                body = self.body
-            return body
+    def empty_if_none(self, body):
+        if self.body is None:
+            body = ""
+        else:
+            body = self.body
+        return body
+
+    def to_dict(self):
+        base_dict = super().to_dict()
+        base_dict.update({
+            'anulada': self.is_cancelled if self.is_cancelled is not None else False,
+            'reserva': self.is_reserve if self.is_reserve is not None else False,
+            'convocatoria_tema': str(self.topic_call) if self.topic_call is not None else "",
+            'tema': str(self.topic) if self.topic is not None else "",
+        })
+        return base_dict
 
 class QuizQuestionPart:
     def __init__(self, questions, type):
@@ -287,7 +304,7 @@ class QuizQuestionPool:
                             questions.append(question)
 
                             # Initializes new question
-                            question = QuizQuestion()
+                            question = AGEQuizQuestion()
                             option_count = 0
                             cur_q_item = ""
                         # If it matches option pattern

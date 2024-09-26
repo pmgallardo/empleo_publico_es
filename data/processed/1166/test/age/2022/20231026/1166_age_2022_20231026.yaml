@@ -1,0 +1,1948 @@
+cuerpo: '1166'
+convocatoria: '2022'
+fecha: 2023-10-26 00:00:00
+fuente: age
+normalidad: ordinario
+puntuaciones:
+- modalidad: i
+  puntuacion_minima_directa: 39.0
+  puntuacion_maxima_directa: 130.0
+- modalidad: p
+  puntuacion_minima_directa: 39.0
+  puntuacion_maxima_directa: 130.0
+partes:
+- numero_parte: 1
+  titulo_parte: 'Específica'
+  preguntas:
+  - enunciado: 'En desarrollo de proyectos, el registro de impactos de la adaptación
+      a un proceso es una actividad incluída en la fase de procesos de:'
+    respuestas:
+    - Información.
+    - Cierre.
+    - Monitorización y Control.
+    - Ejecución.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '35'
+  - enunciado: 'El histograma de recursos refleja la cantidad de técnicos que intervienen
+      en un proyecto. Indique la respuesta VERDADERA en relación a esta afirmación:'
+    respuestas:
+    - En el histograma de recursos se representan los recursos materiales necesarios
+      para la realización de un proyecto, no recursos humanos.
+    - Para que un diagrama de Gantt sea realista y fiable debe ir acompañado de un
+      histograma de recursos.
+    - El histograma de recursos también se denomina Patrón de límites.
+    - El histograma de recursos, usando redes, permite establecer dependencias entre
+      los recursos humanos que participan en el proyecto.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '36'
+  - enunciado: 'En la asignación de tiempos de un proyecto el tiempo Early del suceso
+      inicial del proyecto es:'
+    respuestas:
+    - Igual a la duración mínima del proyecto.
+    - La duración mínima esperada para la primera actividad.
+    - Igual a cero.
+    - Igual a 1.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '36'
+  - enunciado: 'En el caso de que a una licitación se presente una Unión Temporal
+      de Empresas (UTE):'
+    respuestas:
+    - Es necesario que esté constituida previamente a la adjudicación del contrato.
+    - Es necesario que esté constituida en el momento de la valoración de las ofertas.
+    - No es necesario que esté constituida previamente hasta la finalización del contrato,
+      momento en que será obligatoria su constitución.
+    - No es necesario que esté constituida previamente a la adjudicación del contrato,
+      solo un compromiso de que lo estará si resulta adjudicataria.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '39'
+  - enunciado: 'Cuando el precio del contrato se formule en función de precios unitarios,
+      el importe de la garantía a constituir se fijará atendiendo:'
+    respuestas:
+    - Al presupuesto base de licitación, IVA excluido.
+    - Al presupuesto base de licitación, IVA incluido.
+    - Al precio final de adjudicación, IVA incluido.
+    - Al precio final de adjudicación, IVA incluido.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '39'
+  - enunciado: 'Las normas o recomendaciones publicadas por ITU-T se agrupan en series
+      según su temática. Las normas que comienzan por H se refieren a:'
+    respuestas:
+    - Sistemas audiovisuales y multimedia (por ejemplo, sistemas de comunicaciones
+      multimedia basados en paquetes).
+    - Sistemas y medios de transmisión, sistemas y redes digitales (por ejemplo,codificación
+      de audio PCM).
+    - Redes públicas de datos, comunicaciones de sistemas abiertos y seguridad (por
+      ejemplo sobre estructura de certificados).
+    - Terminales y servicios telemáticos (por ejemplo, protocolos de datos para conferencia
+      multimedia).
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '50'
+  - enunciado: ¿Qué es un “balanceador de carga” en el diseño arquitectónico de sistemas?
+    respuestas:
+    - Un componente de software que gestiona la seguridad de datos.
+    - Un nodo de ejecución que ejecuta código en tiempo real.
+    - Un nodo de hardware que almacena datos de forma segura.
+    - Un componente de hardware o software que distribuye el tráfico entre múltiples
+      servidores.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '57'
+  - enunciado: '¿Cuál de las herramientas de la AEPD (Agencia Española de Protección
+      de Datos) está diseñada para el análisis de necesidad de una Evaluación de Impacto
+      en Protección de Datos?:'
+    respuestas:
+    - Facilita RGPD.
+    - Comunica-Brecha RGPD.
+    - Gestiona RGPD.
+    - Evalua-Riesgo RGPD.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '82'
+  - enunciado: 'Para el escaneado de documentos, la calidad mínima aceptable de la
+      reproducción, basada en la relación del tamaño del carácter de los documentos
+      y la resolución de captura, será de:'
+    respuestas:
+    - IQ 3,6.
+    - 300 dpi.
+    - IQ 5.
+    - WCAG 2.1.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '83'
+  - enunciado: '¿Cuál de los conceptos de calidad de un sistema de identificación
+      biométrica está relacionado con la conveniencia para el usuario?:'
+    respuestas:
+    - Attack Presentation Classification Error Rate (APCER).
+    - Impostor Attack Presentation Acceptance Rate (IAPAR).
+    - False Rejection Rate (FRR).
+    - False Match Rate (FMR).
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '81'
+  - enunciado: 'Cuál de las siguientes soluciones DLT es "permissioned" (autorizada
+      o autenticada):'
+    respuestas:
+    - Cardano.
+    - Solana.
+    - Avalanche.
+    - Corda.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '85'
+  - enunciado: 'Un oráculo (oracle) es un servicio mediante el cual un Smart Contract
+      (Contrato Inteligente) puede acceder a información externa a su blockchain (cadena
+      de bloques). Uno de los siguientes tipos de oráculo NO es correcto, indique
+      cuál es:'
+    respuestas:
+    - De hardware.
+    - De consenso.
+    - De agregación.
+    - De salida (Outbounds oracles).
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '85'
+  - enunciado: '¿Cuál de las siguientes NO es una técnica de Gestión de Proyectos?:'
+    respuestas:
+    - Diagrama de componentes.
+    - Técnicas de estimación.
+    - Diagrama de extrapolación.
+    - Diagrama de descomposición de trabajo.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '95'
+  - enunciado: 'De acuerdo con la ISO 9004 ¿Cuál de las siguientes afirmaciones referidas
+      a las organizaciones excelentes en relación con las personas que trabajan en
+      ellas, NO es correcta?:'
+    respuestas:
+    - Valoran a las personas que las integran.
+    - Desarrollan las capacidades de las personas y garantizan la imparcialidad y
+      la igualdad.
+    - Dan reconocimiento a los esfuerzos para motivar a las personas, e incrementar
+      su compromiso con la organización.
+    - Adaptan su estructura organizativa para lograr los objetivos económicos.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '103'
+  - enunciado: '¿Cuál es la principal ventaja de la tecnología 802.11ax frente a la
+      802.11ac?:'
+    respuestas:
+    - Mejoras en eficiencia en entornos densos.
+    - Permite el uso de la banda de 6 GHz.
+    - Todas las opciones son correctas.
+    - Permite modulación 1024QAM.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '114'
+  - enunciado: 'El protocolo de resolución de nombres de Internet o DNS, en IPv4 define
+      los registros tipo ''A'' para traducir un nombre a una IP(v4). En IPv6:'
+    respuestas:
+    - Se siguen usando los registros A para traducir un nombre a una dirección IPv6.
+    - Se usan los registros AAAA.
+    - Se usan los registros Av6.
+    - Se usan los registros TXT.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '115'
+  - enunciado: '¿Cuál es el propósito del protocolo H.245 en H.323?:'
+    respuestas:
+    - Comunicación entre las partes de un Gateway.
+    - Negociar las capacidades de los terminales y para establecer y controlar los
+      canales de medios.
+    - Gestionar la autenticación de dispositivos terminales.
+    - Definir las direcciones IP de los dispositivos.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '116'
+  - enunciado: '¿Cuál de los siguientes NO es uno de los cuatro planos principales
+      en la arquitectura IMS?:'
+    respuestas:
+    - Plano de control.
+    - Plano de acceso.
+    - Plano de aplicación.
+    - Plano de infraestructura.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '116'
+  - enunciado: '¿Cuál es la iniciativa open source, soportada por la Unión Europea,
+      que impulsa la creación de estándares necesarios para desarrollar aplicaciones
+      en dominios como Smart Cities o Smart Factories?:'
+    respuestas:
+    - LoRA.
+    - NGSI-LD.
+    - Sigfox.
+    - FIWARE.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '69'
+  - enunciado: '¿Cuál es elemento de electrónica de red que divide el dominio de difusión
+      en varios dominios de colisión, sin eliminarlos?:'
+    respuestas:
+    - Bridge.
+    - Hub.
+    - Switch.
+    - Router.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '118'
+  - enunciado: 'Según la NTI de Requisitos de conexión a la red de comunicaciones
+      de las Administraciones Públicas, los elementos del AC (área de conexión) albergarán
+      los servicios telemáticos básicos prestados por la Red SARA, que son:'
+    respuestas:
+    - DNS, SMTP, NTP, Proxy y Proxy inverso.
+    - SMTP, LDAP, AV, Proxy, Load Balancer.
+    - NTP, SMTP, Proxy e IDS.
+    - DNS, SAT-INET, NTP, OCSP.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '120'
+  - enunciado: 'La MIB SNMP empleada para la gestión de dispositivos de una red de
+      comunicaciones es un conjunto de objetos estandarizados definidos por:'
+    respuestas:
+    - IEEE.
+    - OASIS.
+    - IETF.
+    - International Telecommunication Union.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '122'
+  - enunciado: '¿Cuál es el espaciado de las subportadoras OFDM en el estándar DOCSIS
+      3.1?:'
+    respuestas:
+    - 1 y 5 MHz.
+    - 15kHz.
+    - 192 MHz.
+    - 25 y 50 kHz.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '121'
+  - enunciado: 'Procedimiento para generar de forma dinámica dominios donde se alojarán
+      los servidores de Comando y Control, técnica usada en redes Botnet para dificultar
+      su detención:'
+    respuestas:
+    - AXFR.
+    - DGA.
+    - Ataque POODLE.
+    - CSFR.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '126'
+  - enunciado: 'Proof Key for Code Exchange, PKCE, (RFC 7636) es una extensión del
+      flujo de código autorización de OAuth 2.0 con el objetivo de:'
+    respuestas:
+    - Mejorar el rendimiento en el proceso de autorización.
+    - Limitar ataques CSRF y de inyección de código de autorización.
+    - Compatibilizar el flujo de autorización con sistemas legacy basados en WSS.
+    - Permitir la concesión Implícita, un flujo simplificado en el que el token de
+      acceso se devuelve directamente al cliente.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '125'
+  - enunciado: '¿Cómo se da cumplimiento en España a la Directiva (UE) 2016/1148 relativa
+      a las medidas destinadas a garantizar un elevado nivel común de seguridad de
+      las redes y sistemas de información en la Unión, comúnmente conocida como Directiva
+      NIS 1?:'
+    respuestas:
+    - No es una directiva, sino un reglamento comunitario, directamente aplicable
+      en todos los Estados Miembros que por tanto no necesita ningún tipo de transposición.
+    - Se transpone al ordenamiento jurídico en España a través del Real Decreto Ley
+      12/2018 de seguridad de las redes y los sistemas de información.
+    - En España todavía no se ha finalizado el proceso de transposición de esta directiva
+      NIS 1.
+    - No es necesario dar cumplimiento a esta Directiva puesto que la Directiva (UE)
+      2022/2555 del Parlamento Europeo y del Consejo de 14 de diciembre de 2022 relativa
+      a las medidas destinadas a garantizar un elevado nivel común de ciberseguridad
+      en toda la Unión, comúnmente conocida como Directiva NIS 2, deroga la Directiva
+      2016/1148 a partir del 01.01.2023.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '128'
+  - enunciado: '¿A qué nivel de la capa OSI actúan los WAFs?:'
+    respuestas:
+    - Nivel de la capa 4 – Transporte.
+    - Nivel de la capa 5 – Sesión.
+    - Nivel de la capa 6 – Presentación.
+    - Nivel de la capa 7 – Aplicación.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '126'
+  - enunciado: '¿Cuál de los siguientes es el organismo de estandarización del lenguaje
+      de orquestación BPEL?:'
+    respuestas:
+    - BPMI.
+    - Workflow Management Coalition (WfMC).
+    - OASIS.
+    - Object Management Group (OMG).
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '58'
+  - enunciado: '¿Qué afirmación es CORRECTA en relación con el protocolo SOAP?:'
+    respuestas:
+    - Es un protocolo que se utiliza en la tecnología de web services y define cómo
+      dos objetos en diferentes procesos pueden comunicarse.
+    - Es un procolo de comunicación basado en HTML.
+    - Define los protocolos de transporte utilizados en el envío de mensajes.
+    - Se utiliza para intercambio de información entre ordenadores con mismo sistema
+      operativo.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '58'
+  - enunciado: 'La versión 7.0 de Android recibe el nombre de:'
+    respuestas:
+    - Oreo.
+    - Lollipop.
+    - Marshmallow.
+    - Nougat.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '62'
+  - enunciado: 'Indica cuál de las siguientes afirmaciones es la CORRECTA:'
+    respuestas:
+    - El modelado de casos de uso es una técnica de obtención de requisitos no funcionales
+      de sistemas.
+    - El modelado de casos de uso es una técnica de obtención de requisitos no funcionales
+      que resulta adecuada para sistemas que están dominados por requisitos funcionales
+      del usuario.
+    - El modelado de casos de uso es una técnica de obtención de requisitos funcionales
+      de un sistema.
+    - El modelado de casos de uso es un diagrama UML de obtención de requisitos que
+      resulta adecuada para sistemas que están dominados por requisitos funcionales
+      del usuario.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '87'
+  - enunciado: 'Con respecto a las historias de usuario y los casos de uso, indica
+      cuál es la afirmación CORRECTA:'
+    respuestas:
+    - La descripción de los casos de uso es más corta que la de las historias de usuario
+      y el tiempo de implementación de las historias de usuario es más estimable que
+      el de los casos de uso.
+    - La descripción de las historias de usuario es más corta que la de los casos
+      de uso y el tiempo de implementación de las historias de usuario es más estimable
+      que el de los casos de uso.
+    - La descripción de las historias de usuario es más corta que la de los casos
+      de uso y el tiempo de implementación de los casos de uso es más estimable que
+      el de las historias de usuario.
+    - La descripción de los casos de uso es más corta que la de las historias de usuario
+      y el tiempo de implementación de los casos de uso es más estimable que el de
+      las historias de usuario.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '87'
+  - enunciado: 'Un diccionario de datos:'
+    respuestas:
+    - Describe y referencia todos los objetos que aparecen en los DFDs, dentro del
+      modelado de funciones del sistema.
+    - Describe y referencia todos los objetos que aparecen en los DFDs, dentro del
+      modelado de datos almacenados.
+    - Describe y referencia todas las entidades externas que aportan o reciben información
+      del sistema, dentro del modelado de funciones del sistema.
+    - Describe y referencia todas las entidades externas que aportan o reciben información
+      del sistema, dentro del modelado de datos almacenados.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '63'
+  - enunciado: 'En el modelo de clases, las relaciones de agregación son un tipo particular
+      de relaciones de:'
+    respuestas:
+    - Composición.
+    - Generalización.
+    - Dependencia.
+    - Asociación.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '89'
+  - enunciado: 'La especificación BPMN 2.0 define cuatro tipos de cumplimiento o conformidad.
+      ¿Cuál de éstos NO es correcto?:'
+    respuestas:
+    - De Modelización de Procesos.
+    - De Ejecución de Procesos.
+    - De Modelización de Orquestación.
+    - De Ejecución de Procesos BPEL.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '90'
+  - enunciado: 'La Privacidad desde el diseño (PbD) parte de siete principios fundamentales
+      . Señale el ERRÓNEO:'
+    respuestas:
+    - La Privacidad se incorpora en la fase de diseño.
+    - Aseguramiento de la privacidad en el diseño.
+    - Visibilidad y transparencia.
+    - Enfoque centrado en el sujeto de los datos.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '27'
+  - enunciado: '¿Qué es el "acoplamiento" en el contexto del diseño de software?:'
+    respuestas:
+    - La relación entre las capas de un sistema.
+    - La independencia entre módulos de software.
+    - La medida de dependencia entre componentes de software.
+    - La organización de un sistema en capas.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '89'
+  - enunciado: 'La clasificación de prototipos por función incluye los siguientes
+      tipos:'
+    respuestas:
+    - Prototipo, mockup o maqueta, sketch, wireframe.
+    - De requisitios, de diseño, de implementación.
+    - Desechable, evolutivo.
+    - De viabilidad, de necesidad, de implantación o producción.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '94'
+  - enunciado: 'En la capa de procesos de gestión del modelo de procesos de ISO/IEC/IEEE
+      29119 señalar el proceso NO contemplado:'
+    respuestas:
+    - Planificación.
+    - Control y Seguimiento.
+    - Ejecución.
+    - Finalización.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '94'
+  - enunciado: '¿Cuál de las siguientes herramientas de pruebas es específica para
+      aplicaciones móviles?:'
+    respuestas:
+    - Sikuli.
+    - WatIn.
+    - Appium.
+    - Capybara.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '124'
+  - enunciado: '¿Cuál de los siguientes conceptos hace referencia al proceso de sustitución
+      de infraestructuras basadas en grandes máquinas, como mainframes, por sistemas
+      basados en ordenadores con menos capacidad de proceso, llevando parte de las
+      tareas de computación a servidores u ordenadores de menor tamaño y mayor versatilidad?:'
+    respuestas:
+    - Downsizing.
+    - Outsizing.
+    - Upsizing.
+    - Rightsizing.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '53'
+  - enunciado: 'En MÉTRICA v3, las Pruebas de Regresión se llevan a cabo en la actividad:'
+    respuestas:
+    - 'Actividad MSI 1: Registro de la petición.'
+    - 'Actividad MSI 2: Análisis de la petición.'
+    - 'Actividad MSI 3: Preparación de la implementación de la modificación.'
+    - 'Actividad MSI 4: Seguimiento y evaluación de los cambios hasta la aceptación.'
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '34'
+  - enunciado: '"BMC Remedy" es una herramienta para:'
+    respuestas:
+    - La gestión de versiones y la configuración en proyectos de desarrollo.
+    - La gestión de la configuración orientada al gobierno de los sistemas de información.
+    - La limpieza de entornos.
+    - La gestión de la capacidad de los entornos.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '100'
+  - enunciado: 'Según el último informe "Uso de inteligencia artificial y big data
+      en empresas españolas" publicado en marzo de 2023 por el Observatorio Nacional
+      de Tecnología y Sociedad, utilizando datos de 2021 armonizados a nivel comunitario,
+      España se sitúa entre los Estados miembros de la Unión Europea con un:'
+    respuestas:
+    - Nivel alto en la adopción de inteligencia artificial en las empresas españolas.
+    - Nivel medio en la adopción de inteligencia artificial en las empresas españolas.
+    - Nivel bajo en la adopción de inteligencia artificial en las empresas españolas.
+    - Nivel muy bajo en la adopción de inteligencia artificial en las empresas españolas.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '18'
+  - enunciado: '¿Para qué se utiliza el algoritmo de Bellman-Ford?:'
+    respuestas:
+    - Genera el camino más corto en protocolos de encaminamiento basados en vector
+      de distancias.
+    - Para intercambio de mensajes entre Sistemas Autónomos.
+    - Para la generación de VLAN dinámicas.
+    - Todas las anteriores son incorrectas.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '115'
+  - enunciado: '¿Qué tipo de conector se encuentra habitualmente instalado en las
+      rosetas telefónicas doméstica que no cuenta con un sistema de cableado estructurado?:'
+    respuestas:
+    - RJ49.
+    - RJ45.
+    - RJ11.
+    - Conector N.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '110'
+  - enunciado: '¿En qué nivel o capa del modelo de referencia OSI se sitúa la compresión
+      de datos?:'
+    respuestas:
+    - Red.
+    - Presentación.
+    - Sesión.
+    - Transporte.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '111'
+  - enunciado: '¿Qué es una Webview?:'
+    respuestas:
+    - Es un componente del sistema operativo que permite tener una vista nativa capaz
+      de mostrar contenido de otras web ya existentes sin tener que abrir otro navegador.
+    - Es un componente que permite rotar la pantalla del dispositivo móvil.
+    - Es un componente que permite cambiar el tamaño de una página web.
+    - Es un componente que permite personalizar una página web.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '124'
+  - enunciado: 'Los Planes de Continuidad TIC deberían incluir:'
+    respuestas:
+    - Plan de Confirmación de Negocio.
+    - Plan de Cese en el Negocio.
+    - Plan de Ampliación en el Negocio.
+    - Plan de Recuperación ante Desastres.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '128'
+  - enunciado: 'La fase de planificación de un Sistema de Gestión de la Continuidad
+      del Negocio (SGCN) abarca:'
+    respuestas:
+    - El contexto, el liderazgo, los objetivos, las competencias, la comunicación
+      y la documentación.
+    - El contexto, el liderazgo, los objetivos, las competencias y la documentación.
+    - El contexto, el liderazgo, los riesgos externos, las competencias, la comunicación
+      y documentación.
+    - Los sistemas de información, el liderazgo, los objetivos, las competencias,
+      la comunicación y documentación.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '128'
+  - enunciado: 'En el contexto de la virtualización completa, ¿cuál de las siguientes
+      afirmaciones es CORRECTA respecto a la relación entre los sistemas operativos
+      invitados y el hipervisor?:'
+    respuestas:
+    - Los sistemas operativos invitados comparten un kernel único proporcionado por
+      el hipervisor.
+    - Cada sistema operativo invitado tiene su propio kernel independiente y se ejecuta
+      directamente sobre el hardware con la supervisión del hipervisor.
+    - El hipervisor emula completamente los sistemas operativos invitados, lo que
+      permite una ejecución más rápida y eficiente.
+    - El hipervisor proporciona una interfaz de usuario unificada para todos los sistemas
+      operativos invitados, lo que facilita la administración.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '57'
+  - enunciado: '¿Qué se entiende por "ring deprivileging" en el contexto de la virtualización
+      y sistemas operativos?:'
+    respuestas:
+    - Es un término que describe la eliminación de la necesidad de anillos de protección
+      en los sistemas operativos virtualizados, lo que mejora la eficiencia del rendimiento.
+    - El "ring deprivileging" se refiere a la práctica de otorgar privilegios adicionales
+      a los procesos que se ejecutan en el anillo 0 (kernel) de un sistema operativo.
+    - Se trata de un enfoque para reducir los privilegios de los sistemas operativos
+      invitados, moviéndolos desde el anillo 0 (kernel) al anillo 1 o superior, mejorando
+      así la seguridad y el aislamiento.
+    - El "ring deprivileging" se refiere a la eliminación completa de los anillos
+      de protección en los sistemas operativos, lo que resulta en una mayor flexibilidad
+      y rendimiento.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '57'
+  - enunciado: 'En Virtual Desktop Infrastructure (VDI), ¿cuál de los siguientes protocolos
+      de comunicación es especifico para proporcionar acceso remoto a escritorios
+      virtuales basados en sistemas operativos Linux?:'
+    respuestas:
+    - RDP (Remote Desktop Protocol).
+    - ICA (Independent Computing Architecture).
+    - SPICE (Simple Protocol for Independent Computing Environments).
+    - PCoIP (PC over IP).
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '132'
+  - enunciado: 'Las fases del ciclo de vida de una tecnología según el Hype cycle
+      de la consultora Gartner:'
+    respuestas:
+    - Lanzamiento; expectativas sobredimensionadas; desilusión; consolidación y productividad.
+    - Caótica; Reactiva; Proactiva; Servicio y Madurez.
+    - Dinosaurio; Gran hermano; Mano amiga; Perro vigilante; Red o Network.
+    - Iniciación; Expansión; Formalización; Administración y Madurez.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '86'
+  - enunciado: 'La Oficina del Dato de la Administración General del Estado:'
+    respuestas:
+    - Depende de la Secretaría de Estado de Educación.
+    - Depende de la Secretaría de Estado de Digitalización e Inteligencia Artificial.
+    - Depende de la Secretaría de Estado de Economía Digital.
+    - Depende de la Secretaría de Estado Digital e Inteligencia Artificial.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '29'
+  - enunciado: 'Los medios y servicios TIC de la Administración General del Estado
+      y sus Organismos Públicos serán declarados de uso compartido cuando:'
+    respuestas:
+    - Así los declare la Secretaría General de Administración Digital, mediante Resolución
+      de la Secretaría de Estado de Digitalización e Inteligencia Artificial.
+    - Se acuerde en el seno de la Comisión Sectorial de Administración Electrónica,
+      presidida por el Secretario General de Administración Digital.
+    - Permitan a los ciudadanos tener una visión integral de sus relaciones con las
+      Administraciones públicas y acceso a todos los servicios on-line.
+    - En razón de su naturaleza o del interés común, respondan a necesidades transversales
+      de un número significativo de unidades administrativas.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '31'
+  - enunciado: 'Indique cuál de los siguientes NO es un eje estratégico del Plan de
+      Digitalización de las Administraciones Públicas 2021-2025:'
+    respuestas:
+    - Políticas públicas basadas en datos y modernización de la gestión de datos.
+    - Proyectos de alto impacto en la digitalización del Sector Público.
+    - Transformación digital de la Administración General del Estado.
+    - Transformación Digital y Modernización del Ministerio de Política Territorial
+      y Función Pública, Comunidades Autónomas y Entidades Locales.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '32'
+  - enunciado: 'Indique cuál de las siguientes afirmaciones es cierta respecto al
+      Reglamento (UE) 2022/868 del Parlamento Europeo y del Consejo relativo a la
+      gobernanza europea de datos (Reglamento de Gobernanza de Datos):'
+    respuestas:
+    - Establece el 30 de noviembre de 2025 como fecha límite para su transposición
+      a la normativa nacional.
+    - Deroga la Directiva (UE) 2019/1024 del Parlamento Europeo y del Consejo, de
+      20 de junio de 2019, relativa a los datos abiertos y la reutilización de la
+      información del sector público.
+    - Establece que la Comisión Europea creará un Comité Europeo de Innovación en
+      materia de Datos.
+    - Establece la creación de un espacio único europeo de datos sanitarios, coordinado
+      por un Comité Europeo de Innovación en materia de datos.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '25'
+  - enunciado: '¿Tiene preferencia el personal funcionario en el nombramiento del
+      personal directivo en las agencias estatales?:'
+    respuestas:
+    - Sí, siempre que sea titulado superior, atendiendo a criterios de competencia
+      profesional y experiencia, y mediante procedimiento que garantice el mérito,
+      la capacidad y la publicidad.
+    - No, siempre y cuando se garantice el mérito, la capacidad y la publicidad.
+    - Sí.
+    - En las agencias estatales sólo existe personal laboral.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '24'
+  - enunciado: '¿Cuál de los siguientes es un objetivo SMART?:'
+    respuestas:
+    - La empresa X desea aumentar sus ventas un 10%.
+    - La empresa X desea mejorar su imagen para el año 2025.
+    - La empresa X tiene como objetivo alcazar una cuota del 100% del mercado.
+    - Ninguno de los anteriores.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '31'
+  - enunciado: 'En el marco de la metodología METRICA versión 3 para el desarrollo
+      de sistemas de información, ¿en qué actividad se sitúa la definición de las
+      interfaces de usuario del sistema?:'
+    respuestas:
+    - Estudio de Viabilidad del Sistema (EVS).
+    - Análisis del Sistema de Información (ASI).
+    - Diseño del Sistema de Información (DSI).
+    - Construcción del Sistema de Información (CSI).
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '34'
+  - enunciado: 'SOROLLA2 es una aplicación web que se provee como SaaS (software como
+      servicio) y que ha sido desarrollada utilizando:'
+    respuestas:
+    - El enfoque DevOps.
+    - El proceso sistemático Lean.
+    - La metodología Kanban.
+    - La metodología Scrum.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '37'
+  - enunciado: 'En las metodologías ágiles, el backlog del proyecto o producto:'
+    respuestas:
+    - Aumenta según se avanza en el tiempo y se van desarrollando funcionalidades
+    - Aumenta según se avanza en el tiempo y se van desarrollando los requisitos no
+      funcionales.
+    - Disminuye según se avanza en el tiempo y se van desarrollando funcionalidades.
+    - Disminuye según se avanza en el tiempo y se van desarrollando los requisitos
+      no funcionales.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '37'
+  - enunciado: '¿Cuál de las siguientes afirmaciones describe mejor el propósito de
+      una auditoría informática de nivel experto?:'
+    respuestas:
+    - Evaluar el rendimiento de la infraestructura técnica de una organización.
+    - Identificar vulnerabilidades y riesgos de seguridad en los sistemas de información.
+    - Revisar la gestión financiera de la empresa en relación con la tecnología.
+    - Supervisar el cumplimiento de las políticas de recursos humanos en TI.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '38'
+  - enunciado: 'Cuál de las siguientes afirmaciones acerca del CTT es FALSA:'
+    respuestas:
+    - Uno de sus objetivos es el de crear un repositorio común de software y de servicios
+      para su reutilización en las Administraciones Públicas.
+    - Cualquier administración puede publicar su proyecto de software libre y crear
+      una comunidad de desarrollo en torno a él.
+    - Uno de sus objetivos es crear un espacio donde se puedan compartir experiencias
+      y cooperar en el ámbito de la administración electrónica.
+    - el Centro de Transferencia de Tecnología se encuentra recogido en el artículo
+      148 de la ley 40/2015.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '49'
+  - enunciado: '¿Qué papel desempeñan las pruebas de concepto (PoC) en la toma de
+      decisiones sobre el equipamiento hardware y software en las administraciones
+      públicas?:'
+    respuestas:
+    - Las PoC no son relevantes para la toma de decisiones tecnológicas en el sector
+      público.
+    - Las PoC se utilizan para validar la viabilidad de una solución antes de su implementación
+      a gran escala.
+    - Las PoC son exclusivamente responsabilidad del personal de TI y no involucran
+      a otros departamentos.
+    - Las PoC son obligatorias antes de cualquier compra de hardware o software.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '40'
+  - enunciado: 'El Real Decreto Legislativo 1/1996, de 12 de abril, en su artículo
+      193 se crea la Comisión de Propiedad Intelectual. Señale la composición CORRECTA
+      de la Sección Segunda de la Comisión:'
+    respuestas:
+    - Se compondrá de cuatro vocales del Ministerio de Cultura y Deporte, de los cuales
+      dos procederán del ámbito Propiedad Intelectual, uno del ámbito Tecnologías
+      de la Información y uno del ámbito de la Secretaría General Técnica.
+    - Se compondrá de cuatro vocales del Ministerio de Cultura y Deporte, de los cuales
+      dos procederán del ámbito Propiedad Intelectual, y los otros dos del ámbito
+      de la Secretaría General Técnica.
+    - Se compondrá de tres vocales del Ministerio de Cultura y Deporte, de los cuales
+      dos procederán del ámbito Propiedad Intelectual, y uno del ámbito de la Secretaría
+      General Técnica.
+    - Se compondrá de tres vocales del Ministerio de Cultura y Deporte, de los cuales
+      uno procederá del ámbito Propiedad Intelectual, uno del ámbito Tecnologías de
+      la Información y uno del ámbito de la Secretaría General Técnica.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '43'
+  - enunciado: 'Cuál de las siguientes normativas europeas se relaciona principalmente
+      con la protección de datos personales y la privacidad en la interoperabilidad?:'
+    respuestas:
+    - Reglamento General de Protección de Datos (GDPR).
+    - Directiva de Protección para el Comercio Electrónico.
+    - Reglamento sobre el Reconocimiento Mutuo de la Identificación Electrónica.
+    - Directiva sobre Servicios de la Sociedad de la Información.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '27'
+  - enunciado: Cuál de las siguientes herramientas automáticas para la evaluación
+      manual de la accesibilidad permite realizar análisis de páginas en local, dentro
+      de intranets, en desarrollo o de acceso restringido.
+    respuestas:
+    - TAW Online.
+    - eXaminator.
+    - Achecker.
+    - SortSite.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '44'
+  - enunciado: '¿Cuál de las siguiente afirmaciones NO es cierta?:'
+    respuestas:
+    - 'Las dimensiones de seguridad en el Esquema Nacional de Seguridad son: disponibilidad,
+      integridad, confidencialidad, trazabilidad y autenticidad.'
+    - 'Las dimensiones de seguridad en el Esquema Nacional de Seguridad son: disponibilidad,
+      integridad, confidencialidad, portabilidad y autenticidad.'
+    - 'Las dimensiones de seguridad en el Esquema Nacional de Seguridad son: disponibilidad,
+      eficiencia, confidencialidad, trazabilidad y autenticidad.'
+    - 'Las dimensiones de seguridad en el Esquema Nacional de Seguridad son: disponibilidad,
+      integridad, confidencialidad, trazabilidad y no repudio.'
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '48'
+  - enunciado: '¿Cuál es uno de los principales desafíos al implementar la virtualización
+      del almacenamiento en un entorno empresarial?:'
+    respuestas:
+    - Falta de compatibilidad con sistemas heredados.
+    - Mayor costo de adquisición de hardware.
+    - Reducción de la capacidad de almacenamiento disponible.
+    - Simplificación de la gestión de recursos.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '56'
+  - enunciado: '¿Cuál de las siguientes opciones muestra la sintaxis correcta de la
+      línea de comandos para encontrar todos los archivos modificados hace 7 días
+      en el directorio "/home/usuario" y sus subdirectorios, y luego eliminarlos permanentemente?:'
+    respuestas:
+    - find /home/usuario -mtime 7 -type f -del
+    - find /home/usuario -mtime -7 -exec rm -rf {} \;
+    - find /home/usuario -type f -mtime 7 -exec rm {} \;
+    - find /home/usuario -mtime -7 -type f -delete
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '60'
+  - enunciado: '¿Qué versión de estándares fue lanzada por AT&T para lograr la compatibilidad
+      entre las versiones de UNIX?:'
+    respuestas:
+    - SVID.
+    - BSD.
+    - POSIX.
+    - OSF/1.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '60'
+  - enunciado: '¿Cuál de las siguientes afirmaciones es CIERTA sobre la arquitectura
+      de iOS?:'
+    respuestas:
+    - iOS utiliza el sistema de archivos HT+ para almacenar datos.
+    - La arquitectura de iOS se basa exclusivamente en microkernels.
+    - iOS utiliza sistemas de archivos APFS para almacenar datos.
+    - La arquitectura de iOS es completamente monolítica.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '62'
+  - enunciado: '¿Desde la versión Android 5.0 (Lollipop), qué componente se ha convertido
+      en el estándar recomendado por Android para mostrar listas de datos desplazables
+      en una interfaz de usuario?:'
+    respuestas:
+    - RecyclerView.
+    - ListView.
+    - DataList.
+    - ScrollLayout.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '62'
+  - enunciado: 'Las iniciales ACID en una transacción ¿qué significan?:'
+    respuestas:
+    - Aislamiento, Capacidad, Autenticidad y Persistencia.
+    - Atomicidad, Consistencia, Aislamiento y Persistencia.
+    - Atomicidad, Confidencialidad, Aislamiento y Privacidad.
+    - Ninguna de las anteriores.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '63'
+  - enunciado: '¿Qué es una vista en SQL?:'
+    respuestas:
+    - Una función que calcula el promedio de una columna en una tabla.
+    - Una tabla temporal utilizada para almacenar datos de forma eficiente.
+    - Una consulta almacenada que puede ser tratada como una tabla virtual.
+    - Un tipo de índice utilizado para mejorar el rendimiento de las consultas.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '64'
+  - enunciado: '¿Cuál de las siguientes afirmaciones es correcta acerca de la API
+      de java JNDI?:'
+    respuestas:
+    - JNDI es una biblioteca de gráficos utilizada para crear interfaces de usuario
+      en aplicaciones Java.
+    - JNDI es una herramienta de desarrollo utilizada para depurar aplicaciones Java
+      en tiempo de ejecución.
+    - JNDI es una interfaz de programación que permite a las aplicaciones Java acceder
+      a servicios de directorio y objetos en entornos distribuidos.
+    - JNDI es una biblioteca de clases en Java que facilita la comunicación en red
+      entre servidores y clientes en una arquitectura cliente-servidor.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '67'
+  - enunciado: '¿Cuál de las siguientes afirmaciones es cierta sobre la Definición
+      de Código Abierto (OSD) de la Iniciativa de Código Abierto (OSI)?:'
+    respuestas:
+    - La OSD es un conjunto de normas legales que rigen el uso del software de código
+      abierto.
+    - La OSD establece los estándares de diseño de interfaces de usuario para proyectos
+      de código abierto.
+    - La OSD es un documento que define los requisitos que una licencia de software
+      debe cumplir para ser considerada de código abierto.
+    - La OSD es una lista de proyectos de software recomendados por OSI para su adopción.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '69'
+  - enunciado: 'La norma ISO/IEC 27001:2022:'
+    respuestas:
+    - Es un estándar comúnmente aceptado para la gestión de riesgos de seguridad de
+      la información.
+    - Disponer de una certificación bajo esta norma ISO supone el cumplimiento del
+      Esquema Nacional de Seguridad, ya que existe una equivalencia entre ambos estándares
+      formalmente reconocida en el RD 311/2022 por el que se regula el Esquema Nacional
+      de Seguridad.
+    - No es certificable.
+    - Es un estándar comúnmente aceptado para la implantación de sistemas de gestión
+      de seguridad de la información, (o ISMS - information security management systems
+      por sus siglas en inglés.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '125'
+  - enunciado: 'Indica cuál de las siguientes afirmaciones es CORRECTA:'
+    respuestas:
+    - Las contramedidas se implementan sin tener en cuenta los riesgos identificados.
+    - La gestión del riesgo se basa exclusivamente en el análisis de los indicadores
+      relativos al número de intrusiones que se han detectado en cada periodo.
+    - La gestión de riesgos se basa siempre en una escala cuantitativa.
+    - Ninguna de las anteriores.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '47'
+  - enunciado: 'De acuerdo a lo dispuesto por el RD 311/2022 por el que se regula
+      el Esquema Nacional de Seguridad, ¿cuál de los siguientes NO es un requisito
+      mínimo a tener en cuenta a la hora de desarrollar la política de seguridad?:'
+    respuestas:
+    - Análisis y gestión de riesgos.
+    - Gestión de personal.
+    - Autorización y control de los accesos.
+    - Definición de las dimensiones básicas de seguridad de la información.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '48'
+  - enunciado: 'Indique cuál de las siguientes afirmaciones es INCORRECTA respecto
+      a la plataforma común Cl@ve:'
+    respuestas:
+    - 'Cl@ve ofrece 3 niveles de registro que determinan a qué servicios electrónicos
+      podrá acceder el usuario, en función del nivel de aseguramiento en la calidad
+      de la autenticación que se requiera (nivel QAA), en base a los datos que tratan
+      y a la clasificación de seguridad siguiendo las recomendaciones del Esquema
+      Nacional de Seguridad: Registro Básico, Medio y Avanzado.'
+    - Cl@ve contempla la utilización de sistemas de identificación basados en claves
+      concertadas (usuario y contraseña) y certificados electrónicos (incluido DNI
+      electrónico).
+    - Cl@ve se ofrece en colaboración con la Agencia Estatal de Administración Tributaria
+      (AEAT), la Seguridad Social y la Dirección General de Policía.
+    - Cl@ve Firma es la plataforma que proporciona una solución de firma electrónica
+      centralizada para las Administraciones mediante certificados electrónicos emitidos
+      por la Dirección General de Policía (DGP) y custodiados por la DGP y la Gerencia
+      de Informática de la Seguridad Social.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '49'
+  - enunciado: 'Indique cuál de las siguientes afirmaciones es INCORRECTA respecto
+      a la Plataforma de intermediación de Datos (PID) de la Administración General
+      del Estado:'
+    respuestas:
+    - Ofrece servicios web para la verificación y consulta de datos bajo el protocolo
+      SCSPv3.
+    - La consulta de datos se puede realizar de manera síncrona o asíncrona.
+    - Todas las peticiones van identificadas con un identificador único y firmadas
+      (XMLDSig) con certificado electrónico (X509 v3) del empleado público y del ciudadano.
+    - El sistema garantiza la confidencialidad de los datos intercambiados mediante
+      el uso del protocolo SSL en las comunicaciones entre los distintos organismos.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '49'
+  - enunciado: 'Señale la respuesta INCORRECTA respecto a la Agenda España Digital
+      2026:'
+    respuestas:
+    - La Estrategia Nacional de Inteligencia Artificial es uno de los 7 planes específicos
+      que forman parte de esta agenda.
+    - Sus medidas se estructuran en 10 ejes estratégicos más 2 ejes transversales.
+    - Aportan financiación para sus actuaciones diversos componentes del Plan de Recuperación,
+      Transformación y Resiliencia, como el 11, el 15 y el 16, entre otros.
+    - Una de las medidas del Eje 3 Ciberseguridad" es el despliegue y operación de
+      centros de operaciones de ciberseguridad.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '51'
+  - enunciado: 'En relación al cloud computing los agentes conocidos como "enablers"
+      ofrecen:'
+    respuestas:
+    - Sus grandes entornos tecnológicos siguiendo el modelo de Software como Servicio
+      (SaaS).
+    - Las infraestructuras subyacentes del modelo, tales como la virtualización y
+      automatización del centro de datos.
+    - Sus grandes entornos tecnológicos siguiendo el modelo de Infraestructura como
+      Servicio (IaaS).
+    - Sus grandes entornos tecnológicos siguiendo el modelo de Plataforma como Servicio
+      (PaaS).
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '55'
+  - enunciado: 'Señale la respuesta que NO se corresponde con la clasificación de
+      las soluciones de Cloud Computing:'
+    respuestas:
+    - 'Modalidad de acceso: privado y empresarial.'
+    - 'Modalidad de servicio: IaaS, PaaS, SaaS y BPaaS.'
+    - 'Modalidad de negocio: proveedor, suscriptor, intermediario, habilitador y auditor.'
+    - 'Forma de implementación: nube pública, privada, híbrida y comunitaria.'
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '55'
+  - enunciado: 'Según el último informe 2020, La Sociedad en Red del ONTSI, en las
+      Administraciones Públicas el tipo de nube usado mayoritariamente se corresponde
+      con:'
+    respuestas:
+    - Nube pública.
+    - Nube privada.
+    - Nube híbrida.
+    - Algunas entidades utilizan más de un tipo de nube.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '55'
+  - enunciado: 'Cual de los siguientes tipos NO se corresponde con la clasificación
+      de los tipos de cluster de servidores:'
+    respuestas:
+    - Cluster de alto rendimiento.
+    - Cluster de alta disponibilidad.
+    - Cluster de respaldo mediante virtualización de servidores.
+    - Cluster de balanceo de carga.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '52'
+  - enunciado: 'AJAX es una tecnología de desarrollo web que se caracteriza por la
+      siguiente afirmación:'
+    respuestas:
+    - Es un metalenguaje extensible de etiquetas desarrollado por el World Wide Web
+      Consortium al igual que HTML.
+    - Es una aplicación de creación y manipulación de gráficos vectoriales con posibilidades
+      de manejo de código mediante un lenguaje de scripting.
+    - Es un lenguaje de scripting basado en objetos no tipado y ligero, utilizado
+      para acceder a objetos en aplicaciones.
+    - Es una técnica de desarrollo web creada con el fin de implementar aplicaciones
+      interactivas que se ejecutan en el navegador de los usuarios y mantienen comunicación
+      asíncrona con el servidor en segundo plano.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '65'
+  - enunciado: 'Según el Esquema Nacional de Interoperabilidad en España, ¿en qué
+      artículo se consagra la preferencia por los estándares abiertos como base para
+      la comunicación entre administraciones y la no discriminación tecnológica del
+      ciudadano?:'
+    respuestas:
+    - Artículo 11.
+    - Artículo 22.
+    - Artículo 17.
+    - Artículo 18.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '45'
+  - enunciado: '¿Cuál de las siguientes afirmaciones sobre el modelo de desarrollo
+      de software libre y de código abierto es INCORRECTA?:'
+    respuestas:
+    - El modelo suele involucrar a comunidades grandes de desarrolladores distribuidos
+      globalmente.
+    - La retroalimentación temprana entre usuarios y desarrolladores es una práctica
+      común en este modelo.
+    - Las fundaciones que administran proyectos de software libre no buscan obtener
+      recursos económicos.
+    - El uso de herramientas de control de versiones ha contribuido a la colaboración
+      en este modelo.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '69'
+  - enunciado: '¿Cuál de las siguientes afirmaciones describe mejor una característica
+      central de un ERP (Enterprise Resource Planning)?:'
+    respuestas:
+    - La modularidad en un ERP se refiere exclusivamente a la personalización de la
+      interfaz de usuario.
+    - Un ERP principalmente facilita el intercambio de datos con sistemas competidores.
+    - La principal función de un ERP es realizar copias de seguridad periódicas de
+      los datos.
+    - La modularidad en un ERP se refiere a la capacidad de integrar y desintegrar
+      módulos específicos según las necesidades de la organización.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '72'
+  - enunciado: '¿Cuál de las siguientes afirmaciones es VERDADERA en relación con
+      un sistema CRM y un sistema ERP?:'
+    respuestas:
+    - Un sistema CRM solo se utiliza en empresas de tecnología, mientras que un sistema
+      ERP es utilizado en empresas de cualquier industria.
+    - Un sistema CRM se utiliza para administrar la cadena de suministro, mientras
+      que un sistema ERP se utiliza para gestionar interacciones con los clientes.
+    - Ambos sistemas son intercambiables y se utilizan para administrar recursos humanos.
+    - Un sistema CRM se enfoca en la gestión de relaciones con los clientes, mientras
+      que un sistema ERP se enfoca en la gestión de procesos internos y recursos de
+      la organización.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '72'
+  - enunciado: 'La Directiva 2007/2/CE, comúnmente conocida como INSPIRE (Infraestructura
+      for Spatial Information in Europe):'
+    respuestas:
+    - Se incorpora al ordenamiento jurídico español a través de la ley 14/2010 sobre
+      las infraestructuras y los servicios de información geográfica en España (LISIGE).
+    - Establece las reglas generales para el establecimiento de una infraestructura
+      de información espacial en la Unión Europea basada en las infraestructuras de
+      los Estados Miembros, pero no requiere que las infraestructuras nacionales sean
+      interoperables entre sí.
+    - La Dirección General del Catastro ejerce como punto de contacto con la Comisión
+      Europea para el desarrollo de la Directiva Inspire en España.
+    - No requiere ser incorporada al ordenamiento jurídico español porque las directivas
+      son de aplicación directa en todos los Estados Miembros de la Unión Europea.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '74'
+  - enunciado: '¿Cuál de las siguientes respuestas es la CORRECTA?:'
+    respuestas:
+    - El espacio de datos facilita el desarrollo de semánticas y vocabularios de uso
+      común facilitadoras del intercambio de información.
+    - El espacio de datos facilita el desarrollo de semánticas y vocabularios de uso
+      común facilitadoras de la normalización de la información.
+    - El espacio de datos facilita el desarrollo de semánticas y vocabularios de uso
+      común facilitadoras de la integración de la información.
+    - El espacio de datos facilita el desarrollo de semánticas y vocabularios de uso
+      común facilitadoras de la publicación de información.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '76'
+  - enunciado: 'Un preprocesador de CSS compila todo el código fuente en un archivo
+      CSS plano. ¿Cuál de las siguientes opciones se corresponde con preprocesadores
+      CSS?:'
+    respuestas:
+    - Stylesheet, flex y grid.
+    - Padding, margin y display.
+    - CSS-Edit, inline y block.
+    - Sass, Less y Stylus.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '77'
+  - enunciado: '¿Cuál es el estándar de obligado cumplimiento para cualquier empresa
+      que procese, almacene o transmita datos relacionados con tarjetas bancarias?:'
+    respuestas:
+    - Amazon Pay.
+    - PCI DSS.
+    - Google Pay.
+    - Alipay.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '78'
+  - enunciado: 'La afirmación: “La factorización de números enteros compuestos es
+      un problema fácil de resolver” es:'
+    respuestas:
+    - Verdad siempre.
+    - Falsa siempre.
+    - Depende del tamaño del número compuesto.
+    - Ninguna de las anteriores.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '79'
+  - enunciado: '¿Qué extensión emplea la versión v3 del protocolo LDAP para establecer
+      una conexión segura?:'
+    respuestas:
+    - RFC 6101.
+    - TLS.
+    - SSL.
+    - Ipsec.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '80'
+  - enunciado: '¿Qué protocolo emplea el sistema Cl@ve entre los Proveedores de Identidad
+      (IdP) y las aplicaciones (SP, Proveedores de Servicio) que solicitan la autenticación
+      de un ciudadano?:'
+    respuestas:
+    - OAuth 2.0 (RFC 6749).
+    - SAML 2.0 (RFC 7522).
+    - Microsoft AD LDAP.
+    - OpenID 1.1.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: true
+    convocatoria_tema: '2022'
+    tema: '49'
+  - enunciado: '¿Cuál es el plazo que establece el RGPD (Reglamento General de Protección
+      de Datos), (UE) 2016/679, como obligación para la realización de una auditoría
+      de protección de datos?:'
+    respuestas:
+    - Cada 2 años de forma general, al realizar una evaluación de conformidad.
+    - Cada año para los sistemas de alto riesgo que requieran EIPD (Evaluación de
+      Impacto de Protección de Datos), cada dos años para el resto.
+    - No establece un plazo. La Autoridad de Control determina cuándo realizar auditorías
+      de protección de datos.
+    - Cada vez que se realice un cambio significativo en el perfil de riesgo del sistema.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: true
+    convocatoria_tema: '2022'
+    tema: '27'
+  - enunciado: 'Entre los estándares que aplican a la conservación de la información
+      en formato electrónico encontramos ISO 19005-1:2005 PDF/A-1, que identifica:'
+    respuestas:
+    - Las recomendaciones para la conservación a largo plazo de información electrónica
+      basada en documentos.
+    - Los requisitos para la conservación a largo plazo de documentos electrónicos.
+    - El formato de archivo de documentos electrónicos para conservación a largo plazo.
+    - Las recomendaciones para la veracidad y fiabilidad de información almacenada
+      electrónicamente.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: true
+    convocatoria_tema: '2022'
+    tema: '105'
+  - enunciado: 'Indique cuál de las siguientes combinaciones de nivel del modelo de
+      referencia OSI - protocolo es CORRECTA:'
+    respuestas:
+    - Red – SSL.
+    - Enlace de datos – OSPF.
+    - Aplicación – SSH.
+    - Transporte – IMAP.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: true
+    convocatoria_tema: '2022'
+    tema: '111'
+  - enunciado: 'Dentro de la arquitectura FTTH basada en la tecnología G.984, ¿qué
+      equipo es el que introduce la señal de video RF en la central de conmutación
+      para ser posteriormente suministrada a los usuarios finales?:'
+    respuestas:
+    - STB.
+    - EDFA.
+    - ODF.
+    - Todas las anteriores son incorrectas.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: true
+    convocatoria_tema: '2022'
+    tema: '112'
+- numero_parte: 2
+  titulo_parte: 'General'
+  preguntas:
+  - enunciado: 'De conformidad con lo establecido en la Ley 38/2003, de 17 de noviembre,
+      General de Subvenciones, en la Administración General del Estado la concesión
+      de subvenciones de cuantía superior a 12 millones de euros será competencia
+      de:'
+    respuestas:
+    - Los Ministros y Secretarios de Estado.
+    - El Consejo de Ministros.
+    - Los Ministros y Secretarios de Estado previa autorización del Consejo de Ministros.
+    - El Consejo de Ministros previa autorización de la Comisión delegada del Gobierno
+      para asuntos económicos.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '13'
+  - enunciado: 'Señale la afirmación CORRECTA sobre el fenómeno de la desigual distribución
+      de la renta en España:'
+    respuestas:
+    - España se sitúa, junto con Rumania, Bulgaría y Grecia, a la cabeza de los países
+      de la UE con mayores tasas de pobreza y exclusión.
+    - Las Comunidades Autónomas con mayores tasas de pobreza son Andalucía, Aragón,
+      Extremadura, junto con las ciudades autónomas de Ceuta y Melilla.
+    - Los niveles de desigualdad de ingresos y riesgo de pobreza en España han disminuido
+      significativamente en los últimos 30 años.
+    - Los mayores de 65 años son el colectivo con mayor riesgo de pobreza y exclusión
+      social en España.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '14'
+  - enunciado: 'En el contexto de la política fiscal, ¿cuál de las siguientes variables
+      macroeconómicas se ve directamente afectada por los cambios en los niveles de
+      gasto público y los impuestos?:'
+    respuestas:
+    - Inflación.
+    - Tasa de interés.
+    - Tipo de cambio.
+    - Déficit público.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '14'
+  - enunciado: '¿Cuál es la Comunidad Autónoma de España en recibir en 2022 más número
+      de turistas internacionales?:'
+    respuestas:
+    - Islas Baleares.
+    - Cataluña.
+    - Andalucía.
+    - Islas Canarias.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '15'
+  - enunciado: 'Según lo dispuesto en el articulo 8 de la Ley Orgánica 3/2007, de
+      22 de marzo, para la igualdad efectiva de mujeres y hombres, la discriminación
+      por embarazo o maternidad se considera:'
+    respuestas:
+    - Discriminación directa por razón de sexo.
+    - Discriminación indirecta por razón de sexo.
+    - Acoso sexual.
+    - Trato discriminatorio.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '16'
+  - enunciado: 'Entre los objetivos cuantitativos del Plan de Choque por el Empleo
+      Joven 2019-2021 se incluye:'
+    respuestas:
+    - Reducir en un 10% la actual brecha de género entre hombres y mujeres jóvenes
+      en las cifras de paro registrado.
+    - Reducir en un 15% la actual brecha de género entre hombres y mujeres jóvenes
+      en las cifras de paro registrado.
+    - Reducir en un 20% la actual brecha de género entre hombres y mujeres jóvenes
+      en las cifras de paro registrado.
+    - Reducir en un 25% la actual brecha de género entre hombres y mujeres jóvenes
+      en las cifras de paro registrado.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '17'
+  - enunciado: '¿Cuál es la principal dimensión de la brecha digital de género en
+      España de acuerdo con el informe del Observatorio Nacional de Tecnología y Sociedad
+      (ONTSI) de 2023?:'
+    respuestas:
+    - El uso de Internet.
+    - El teletrabajo.
+    - El comercio electrónico.
+    - La educación STEM (ciencia, tecnología, ingeniería y matemáticas).
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '18'
+  - enunciado: '¿Cuál es uno de los objetivos principales de la Oficina Nacional de
+      Emprendimiento (ONE) prevista en la estrategia España Digital 2025?:'
+    respuestas:
+    - Promover la digitalización del sector industrial.
+    - Impulsar el emprendimiento digital nacional.
+    - Proporcionar asesoramiento jurídico a las start-ups.
+    - Gestionar un repositorio de programas de ayuda financiera para start-ups.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '26'
+  - enunciado: 'De acuerdo con los datos del Observatorio Nacional de Tecnología y
+      Sociedad (ONTSI), ¿qué porcentaje de empresas usan en nuestro país actualmente
+      algún tipo de robot en su actividad cotidiana?:'
+    respuestas:
+    - Casi el 8%.
+    - Casi el 10%.
+    - Casi el 12%.
+    - Casi el 15%.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '18'
+  - enunciado: '¿Cuál es la premisa fundamental de la teoría del liderazgo situacional
+      de Hersey y Blanchard?:'
+    respuestas:
+    - Los líderes nacen con rasgos innatos que los hacen aptos para liderar.
+    - Los líderes deben ser expertos en las tareas que realizan.
+    - Los líderes deben ajustar su estilo al nivel de madurez del equipo.
+    - Los líderes deben ser carismáticos y persuasivos para influir en los demás.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '18'
+  - enunciado: 'Señale la afirmación CORRECTA sobre las características de los modelos
+      de gestión de la calidad:'
+    respuestas:
+    - 'El nuevo modelo EFQM pasa a contar con 6 criterios de evaluación distribuidos
+      en tres bloques: dirección, ejecución y resultados.'
+    - 'La estructura del modelo CAF se basa en el análisis de 4 agentes facilitadores
+      dentro de la organización: liderazgo, personas, procesos y alianzas.'
+    - 'El método DMAIC utilizado en el modelo Lean Six Sigma hace referencia a estas
+      5 fases: definir, medir, analizar, incrementar y controlar.'
+    - 'El modelo SERVQUAL de calidad de servicio se basa en la valoración de 5 dimensiones:
+      fiabilidad, capacidad de respuesta, seguridad, empatía y elementos tangibles.'
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '103'
+  - enunciado: 'Señale la afirmación CORRECTA:'
+    respuestas:
+    - 'Son modelos de gestión de calidad de las organizaciones reconocidos: EFQM,
+      CAF, EVAM y CYCLOS.'
+    - 'Son modelos de gestión de calidad de las organizaciones reconocidos: EFQM,
+      CAF, EUPAN y CYCLOS.'
+    - 'Son modelos de gestión de calidad de las organizaciones reconocidos: EFQM,
+      CAF, ISAM y CYCLOS.'
+    - 'Son modelos de gestión de calidad de las organizaciones reconocidos: EFQM,
+      CAF, EUPAN e ISAM.'
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '22'
+  - enunciado: 'Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el
+      que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado
+      Público, la ejecución de la oferta de empleo público o instrumento similar:'
+    respuestas:
+    - Deberá desarrollarse dentro del plazo improrrogable de tres años.
+    - Deberá desarrollarse dentro del plazo prorrogable de tres años.
+    - Deberá desarrollarse dentro del plazo improrrogable de dos años.
+    - Deberá desarrollarse dentro del plazo prorrogable de dos años.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '24'
+  - enunciado: 'Conforme a la Ley 37/2007, de 16 de noviembre, sobre reutilización
+      de la información del sector público, se entiende por reutilización de la información
+      del sector público:'
+    respuestas:
+    - El uso por personas físicas o jurídicas de documentos elaborados o custodiados
+      por los sujetos previstos en su artículo 2 con fines comerciales distintos del
+      propósito inicial que tenían esos documentos en la actividad de servicio público
+      o de interés general para la que se produjeron, con las excepciones previstas
+      en la Ley.
+    - El uso por personas físicas o jurídicas de documentos elaborados o custodiados
+      por los sujetos previstos en su artículo 2 con fines no comerciales distintos
+      del propósito inicial que tenían esos documentos en la actividad de servicio
+      público o de interés general para la que se produjeron, con las excepciones
+      previstas en la Ley.
+    - El uso por personas físicas o jurídicas de documentos elaborados o custodiados
+      por los sujetos previstos en su artículo 2 con fines administrativos distintos
+      al propósito inicial que tenían esos documentos en la actividad de servicio
+      público o de interés general para la que se produjeron, con las excepciones
+      previstas en la Ley.
+    - El uso por personas físicas o jurídicas de documentos elaborados o custodiados
+      por los sujetos previstos en su artículo 2 con fines comerciales o no comerciales
+      distintos del propósito inicial que tenían esos documentos en la actividad de
+      servicio público o de interés general para la que se produjeron, con las excepciones
+      previstas en la Ley.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '25'
+  - enunciado: 'Conforme a la Ley 19/2013, de 9 de diciembre, de transparencia, acceso
+      a la información pública y buen gobierno, cuál de las siguientes causas dará
+      lugar a la inadmisión, mediante resolución motivada, de las solicitudes de acceso
+      a la información pública:'
+    respuestas:
+    - Cuando la información solicitada contuviera datos personales que revelen la
+      ideología, afiliación sindical, religión o creencias.
+    - Cuando la información solicitada suponga un perjuicio para la seguridad nacional.
+    - Cuando para la divulgación de la información solicitada sea necesaria una acción
+      previa de reelaboración.
+    - Cuando la información solicitada perjudique la garantía de la confidencialidad
+      o el secreto requerido en procesos de toma de decisión.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '25'
+  - enunciado: 'La Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado
+      establece que los principios de garantía de la libertad de establecimiento y
+      la libertad de circulación son:'
+    respuestas:
+    - No discriminación, cooperación y confianza mutua, necesidad y proporcionalidad
+      de la actuación de las autoridades competentes, eficacia de la actuación de
+      las autoridades competentes en todo el territorio nacional, simplificación de
+      cargas, transparencia y garantía de las libertades de los operadores económicos.
+    - No discriminación, cooperación y confianza mutua, necesidad y proporcionalidad
+      de la actuación de las autoridades competentes, simplificación de cargas, transparencia
+      y garantía de las libertades de los operadores económicos.
+    - No discriminación, cooperación y confianza mutua, eficacia de la actuación de
+      las autoridades competentes en todo el territorio nacional, simplificación de
+      cargas, transparencia y garantía de las libertades de los operadores económicos.
+    - No discriminación, cooperación y confianza mutua, necesidad y proporcionalidad
+      de la actuación de las autoridades competentes, eficacia de la actuación de
+      las autoridades competentes en todo el territorio nacional, simplificación de
+      cargas y transparencia.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '26'
+  - enunciado: 'El artículo 72 i) de la Ley Orgánica 3/2018, de 5 de diciembre, de
+      Protección de Datos Personales y garantía de los derechos digitales califica
+      "La vulneración del deber de confidencialidad establecido en el artículo 5 de
+      esta ley orgánica" como infracción muy grave. De acuerdo con lo previsto en
+      dicha Ley, ¿en qué plazo prescribirá la citada infracción?:'
+    respuestas:
+    - Cinco años.
+    - Tres años.
+    - Dos años.
+    - Un año.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '27'
+  - enunciado: 'Según el artículo 85 de la Constitución Española, las disposiciones
+      del Gobierno que contengan legislación delegada toman la forma de:'
+    respuestas:
+    - Decretos-Leyes.
+    - Decretos Legislativos.
+    - Leyes Ordinarias.
+    - Reglamentos.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '18'
+  - enunciado: 'De acuerdo con la Ley 40/2015, de 1 de octubre, de Régimen Jurídico
+      del Sector Público, cuál de los siguientes requisitos NO es un requisito necesario
+      para la creación de cualquier órgano administrativo:'
+    respuestas:
+    - Dotación de los créditos necesarios para su puesta en marcha y funcionamiento.
+    - Determinación de las instrucciones y órdenes de servicio con las que el órgano
+      administrativo dirigirá las actividades de sus órganos jerárquicamente dependientes.
+    - Determinación de su forma de integración en la Administración Pública de que
+      se trate y su dependencia jerárquica.
+    - Delimitación de sus funciones y competencias.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '4'
+  - enunciado: 'De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento
+      Administrativo Común de las Administraciones Públicas, el recurso extraordinario
+      de revisión se interpondrá:'
+    respuestas:
+    - Ante el órgano que dictó el acto que se impugna, que también será el competente
+      para su resolución.
+    - Ante el órgano que dictó el acto que se impugna o ante el órgano superior jerárquico
+      del que lo dictó, siendo este último el competente para su resolución.
+    - Ante el órgano superior jerárquico del órgano que dictó el acto que se impugna,
+      siendo el primero el competente para su resolución.
+    - Ante el órgano superior jerárquico del órgano que dictó el acto que se impugna,
+      siendo este último el competente para su resolución.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '8'
+  - enunciado: 'En los procedimientos de Responsabilidad patrimonial, de conformidad
+      con lo establecido en el artículo 67 de la Ley 39/2015, de 1 de octubre, del
+      Procedimiento Administrativo Común de las Administraciones Públicas, en los
+      casos en que proceda reconocer derecho a indemnización por anulación en vía
+      administrativa o contencioso-administrativa de un acto o disposición de carácter
+      general, el derecho a reclamar prescribirá:'
+    respuestas:
+    - Al año de haberse notificado la resolución administrativa o la sentencia definitiva.
+    - A los dos años de haberse notificado la resolución administrativa o la sentencia
+      definitiva.
+    - Al mes de haberse notificado la resolución administrativa o la sentencia definitiva.
+    - A los seis meses de haberse notificado la resolución administrativa o la sentencia
+      definitiva.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '8'
+  - enunciado: 'Señale la respuesta CORRECTA en relación la modificación de los contratos
+      de las AA.PP prevista en el art. 204 de la Ley 9/2017, de 8 de noviembre, de
+      Contratos del Sector Público:'
+    respuestas:
+    - Los pliegos de cláusulas administrativas particulares deben advertir expresamente
+      la posibilidad de modificación y el importe de esta no podrá superar el veinte
+      por ciento del precio inicial del contrato.
+    - Los pliegos de cláusulas administrativas particulares deben advertir expresamente
+      la posibilidad de modificación y el importe de esta no podrá superar el treinta
+      por ciento del precio inicial del contrato.
+    - En el supuesto de que los pliegos no prevean expresamente la posibilidad de
+      modificación, el importe de la modificación no podrá superar el quince por ciento
+      del precio inicial del contrato.
+    - En el supuesto de que los pliegos no prevean expresamente la posibilidad de
+      modificación, el importe de la modificación no podrá superar el diez por ciento
+      del precio inicial del contrato.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '11'
+  - enunciado: 'De acuerdo con lo previsto en la Ley 9/2017, de 8 de noviembre, de
+      Contratos del Sector Público, los contratos de adquisición de programas de ordenador
+      desarrollados a medida, tramitados por los órganos de contratación de la Administración
+      General del Estado, se consideran:'
+    respuestas:
+    - Contratos de suministros.
+    - Contratos Mixtos, de servicios y suministros, en los que prima la prestación
+      correspondiente al suministro.
+    - Contratos privados.
+    - Contratos de Servicios.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '11'
+  - enunciado: 'De conformidad con lo establecido en la Ley 47/2003, de 26 de noviembre,
+      General Presupuestaria, las modificaciones presupuestarias que incrementen los
+      créditos como consecuencia de la realización de determinados ingresos no previstos
+      o superiores a los contemplados en el presupuesto inicial se denominan:'
+    respuestas:
+    - Ampliaciones de crédito.
+    - Créditos extraordinarios.
+    - Generaciones de crédito.
+    - Créditos ampliables.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '11'
+  - enunciado: 'De acuerdo con lo previsto en la Ley Orgánica 2/1982, de 12 de mayo,
+      del Tribunal de Cuentas, la competencia para conocer de los recursos de alzada
+      contra las resoluciones administrativas dictadas por órganos del Tribunal, recae
+      en:'
+    respuestas:
+    - El pleno del Tribunal de Cuentas.
+    - El presidente del Tribunal de Cuentas.
+    - La sección de Fiscalización del Tribunal de Cuentas.
+    - La sección de enjuiciamiento del Tribunal de Cuentas.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '1'
+  - enunciado: 'En relacion con la Corona, señale cuál es la afirmación CORRECTA:'
+    respuestas:
+    - Según el artículo 62 de la Constitución Española, corresponde al Rey dirigir
+      la Administración Militar y el mando supremo de las Fuerzas Armadas.
+    - Según el artículo 62 de la Constitución Española, corresponde al Rey dirigir
+      la defensa del Estado y el mando supremo de las Fuerzas y Cuerpos de Seguridad
+      del Estado.
+    - Según el artículo 62 de la Constitución Española, corresponde al Rey ser informado
+      de los asuntos de Estado y dirigir la Administración Militar.
+    - Según el artículo 62 de la Constitución Española, corresponde ser informado
+      de los asuntos de Estado y el mando supremo de las Fuerzas Armadas.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '1'
+  - enunciado: 'El artículo 32 de la Ley 18/2011, de 5 de julio, reguladora del uso
+      de las tecnologías de la información y la comunicación en la Administración
+      de Justicia, establece, a efectos de cómputo de plazos:'
+    respuestas:
+    - El inicio del cómputo de los plazos que hayan de cumplir las oficinas judiciales
+      se producirá el primer día hábil siguiente al de la presentación de las solicitudes,
+      escritos o documentos en el registro electrónico judicial correspondiente.
+    - El inicio del cómputo de los plazos que hayan de cumplir las oficinas judiciales
+      se producirá en la primera hora del día siguiente al de la presentación de las
+      solicitudes, escritos o documentos en el registro electrónico judicial correspondiente.
+    - El inicio del cómputo de los plazos que hayan de cumplir las oficinas judiciales
+      vendrá determinado por la fecha y hora de presentación en el propio registro.
+    - El inicio del cómputo de los plazos que hayan de cumplir las oficinas judiciales
+      vendrá determinado por la fecha y hora de presentación en cualquier registro
+      electrónico.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '2'
+  - enunciado: 'Según el artículo 135.3 de la Constitución Española, deberán estar
+      autorizados por Ley para emitir deuda pública o contraer crédito:'
+    respuestas:
+    - El Estado, las Comunidades Autónomas y los Ayuntamientos.
+    - El Estado, las Comunidades Autónomas, los Ayuntamientos y las Entidades Locales
+      Menores.
+    - El Estado y las Comunidades Autónomas.
+    - Solo el Estado puede emitir deuda pública y contraer crédito y no necesita autorización.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '3'
+  - enunciado: 'Es competencia propia de la Diputación Provincial:'
+    respuestas:
+    - La prestación de los servicios de administración electrónica y la contratación
+      centralizada en los municipios con población inferior a 20.000 habitantes.
+    - La prestación de los servicios de administración electrónica y la contratación
+      centralizada en los municipios con población superior a 20.000 habitantes.
+    - La prestación de los servicios de administración electrónica y la contratación
+      centralizada en las áreas metropolitanas.
+    - La prestación de los servicios de administración electrónica y la contratación
+      centralizada en las entidades locales menores.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '3'
+  - enunciado: 'Los criterios de eficiencia y economía en la programación y ejecución
+      del gasto público se recogen en:'
+    respuestas:
+    - El artículo 103.1 de la Constitución Española.
+    - El artículo 31.2 de la Constitución Española.
+    - El Preámbulo de la Constitución Española.
+    - La eficiencia y la economía no son principios constitucionales, por lo que no
+      están recogidos en la Constitución Española sino en la legislación de desarrollo.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '12'
+  - enunciado: 'Asistir a los órganos superiores en materia de planificación de los
+      sistemas de información y comunicación es competencia de:'
+    respuestas:
+    - La Secretaría de Estado de Digitalización e Inteligencia Artificial.
+    - La Secretaría General de Administración Digital, con rango de Subsecretaría.
+    - La Subsecretaría del Departamento correspondiente.
+    - La Dirección General de Digitalización e Inteligencia Artificial.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: true
+    convocatoria_tema: '2022'
+    tema: '87'
+  - enunciado: 'Las Subdirecciones Generales se crean, modifican y suprimen:'
+    respuestas:
+    - Por Real Decreto del Consejo de Ministros, a iniciativa del Ministro interesado
+      y a propuesta del Ministro de Hacienda y Administraciones Públicas.
+    - Por Real Decreto del Consejo de Ministros, a propuesta del Ministro interesado
+      y previa autorización del Ministro de Administraciones Püblicas.
+    - Por Orden del Ministro interesado, a propuesta del Subsecretario del departamento.
+    - Por Orden del Ministro de Hacienda y Administraciones Públicas, a propuesta
+      del Ministro interesado.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: true
+    convocatoria_tema: '2022'
+    tema: '32'
+  - enunciado: 'Señale qué forma toman las disposiciones legislativas provisionales
+      que puede dictar el Gobierno, en caso de extraordinaria y urgente necesidad,
+      y que no pueden afectar al ordenamiento de las instituciones básicas del Estado,
+      a los derechos, deberes y libertades de los ciudadanos regulados en el Título
+      I, al régimen de las Comunidades Autónomas ni al Derecho electoral general,
+      conforme al artículo 86 de la Constitución Española:'
+    respuestas:
+    - Decreto- Ley.
+    - Decreto Legislativo.
+    - Ley Ordinaria.
+    - Reglamento.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: true
+    convocatoria_tema: '2022'
+    tema: '7'

@@ -1,718 +1,718 @@
-1. ¿Cual de las siguientes herramientas de mineria de datos o Datamining NO es un producto 'open source' ?
+1. [TEMA="2022.75"] ¿Cual de las siguientes herramientas de mineria de datos o Datamining NO es un producto 'open source'?
 a. Knime.
 b. RapidMiner.
 c. ELKI.
 d. Teradata.
 ANSWER: D
 
-2. Indique cuál de los siguientes es un software de data warehouse que se apoya en Apache Hadoop y que permite la lectura, escritura y gestión de grandes conjuntos de datos, así como su consulta empleando sintaxis SQL:
+2. [TEMA="2022.75"] Indique cuál de los siguientes es un software de data warehouse que se apoya en Apache Hadoop y que permite la lectura, escritura y gestión de grandes conjuntos de datos, así como su consulta empleando sintaxis SQL:
 a. Hive.
 b. Pig.
 c. Mahout.
 d. ZooKeeper.
 ANSWER: A
 
-3. ¿Cuál de los siguientes métodos de análisis de la rentabilidad de las inversiones NO es un método dinámico?
+3. [TEMA="2022.42"] ¿Cuál de los siguientes métodos de análisis de la rentabilidad de las inversiones NO es un método dinámico?
 a. Índice de rentabilidad.
 b. Valor actual neto.
 c. Pay-back.
 d. Tasa interna de retorno.
 ANSWER: C
 
-4. Señale la opción correcta respecto a Angular:
+4. [TEMA="2022.65"] Señale la opción correcta respecto a Angular:
 a. Es un sistema de base de datos NoSQL orientado a documentos.
 b. Permite la creación de aplicaciones de una sóla página o SPAs.
 c. Es un framework de desarrollo web sobre Java.
 d. No se ejecuta en un navegador, sino en el servidor.
 ANSWER: B
 
-5. A los prototipos que implementan solo el interfaz de usuario y la navegación, se les denomina:
+5. [TEMA="2022.94"] A los prototipos que implementan solo el interfaz de usuario y la navegación, se les denomina:
 a. Wireframe.
 b. Sketch.
 c. Maqueta.
 d. Ninguna es correcta.
 ANSWER: C
 
-6. ¿Qué funcionalidad incorporan los cortafuegos de próxima generación (next-generation firewalls NGFWs) frente a los cortafuegos tradicionales?
+6. [TEMA="2022.125"] ¿Qué funcionalidad incorporan los cortafuegos de próxima generación (next-generation firewalls NGFWs) frente a los cortafuegos tradicionales?
 a. Traslación de direcciones de red (Network Address Translation NAT).
 b. Inspección profunda de paquetes (Deep Packet Inspection DPI).
 c. Soporte a redes privadas virtuales VPN.
 d. Filtrado de paquetes.
 ANSWER: B
 
-7. ¿Cuál de las siguientes opciones es INCORRECTA respecto al protocolo IAX?
+7. [TEMA="2022.116"] ¿Cuál de las siguientes opciones es INCORRECTA respecto al protocolo IAX?
 a. Optimiza el ancho de banda respecto a SIP.
 b. Evita los problemas de NAT que aparecen en SIP con direcciones privadas.
 c. IAX utiliza un solo puerto para mandar la información de señalización y los datos de todas sus llamadas.
 d. Es un protocolo de propósito general y podría transmitir sin dificultad cualquier información y no sólo audio o video.
 ANSWER: D
 
-8. Señale cuál de las siguientes opciones es correcta:
+8. [TEMA="2022.36"] Señale cuál de las siguientes opciones es correcta:
 a. El Cuadro de Mandos integral establece las oportunidades y amenazas de un proyecto en un momento concreto.
 b. El diagrama de Gantt tiene como finalidad establecer los objetivos de la organización al inicio del proyecto.
 c. El DAFO permite realizar el seguimiento del proyecto a nivel temporal.
 d. El PERT establece las dependencias entre las distintas tareas del proyecto para poder realizar su planificación adecuada.
 ANSWER: D
 
-9. ¿Cuál es el tamaño de la cabecera MPLS?
+9. [TEMA="2022.113"] ¿Cuál es el tamaño de la cabecera MPLS?
 a. 4 Bytes.
 b. 24 bits.
 c. 16 bits.
 d. 32 Bytes.
 ANSWER: A
 
-10. Los sistemas de información de categoría media conforme al Esquema Nacional de Seguridad, aprobado por Real Decreto 3/2010, de 8 de enero serán objeto de una auditoría regular ordinaria:
+10. [TEMA="2022.48"] Los sistemas de información de categoría media conforme al Esquema Nacional de Seguridad, aprobado por Real Decreto 3/2010, de 8 de enero serán objeto de una auditoría regular ordinaria:
 a. Una vez al año cuando contengan datos personales de acuerdo al Reglamento General de Protección de Datos.
 b. Cada tres años si no contienen datos personales.
 c. Al menos cada dos años y con carácter extraordinario siempre que se produzcan modificaciones sustanciales que puedan repercutir en las medidas de seguridad requeridas.
 d. Trimestralmente.
 ANSWER: C
 
-11. ¿Cuál es la norma que define el modelo de referencia OSI (Open System Interconnection)?
+11. [TEMA="2022.111"] ¿Cuál es la norma que define el modelo de referencia OSI (Open System Interconnection)?
 a. ISO/IEC 7498-1.
 b. IEEE 802.16.
 c. RFC 2460.
 d. ISO/IEC 27000.
 ANSWER: A
 
-12. Respecto a blockchain, señale la opción INCORRECTA:
+12. [TEMA="2022.85"] Respecto a blockchain, señale la opción INCORRECTA:
 a. En una cadena de bloques sin permisos no hay restricciones para que las entidades puedan procesar transacciones y crear bloques.
 b. En una cadena de bloques con permisos, el procesamiento de transacciones está desarrollado por una predefinida lista de sujetos con identidades conocidas.
 c. En una cadena de bloques pública no hay restricciones para leer los datos de la cadena de bloques, que no pueden haber sido cifrados, pero sí para enviar transacciones para que sean incluidas en la cadena de bloques.
 d. En una cadena de bloques privada, tanto los accesos a los datos de la cadena de bloque como el envío de transacciones para ser incluidas, están limitadas a una lista predefinida de entidades.
 ANSWER: C
 
-13. La cualidad de que un objeto en software ocupe un determinado espacio de memoria y exista durante una cierta cantidad de tiempo es lo que se conoce como:
+13. [TEMA="2022.56"] La cualidad de que un objeto en software ocupe un determinado espacio de memoria y exista durante una cierta cantidad de tiempo es lo que se conoce como:
 a. Encapsulación.
 b. Persistencia.
 c. Polimorfismo.
 d. Extensibilidad.
 ANSWER: B
 
-14. Indique cuál de las siguientes NO es una modalidad de servicios en la nube (cloud computing):
+14. [TEMA="2022.55"] Indique cuál de las siguientes NO es una modalidad de servicios en la nube (cloud computing):
 a. IaaS.
 b. JaaS.
 c. PaaS.
 d. SaaS.
 ANSWER: B
 
-15. En el ámbito de la compresión de vídeo, señale a qué tipo de compresión corresponde el registrar la variación de los píxeles en fotogramas consecutivos, codificando sólo aquellas partes donde se detecte movimiento en la imagen:
+15. [TEMA="2022.130"] En el ámbito de la compresión de vídeo, señale a qué tipo de compresión corresponde el registrar la variación de los píxeles en fotogramas consecutivos, codificando sólo aquellas partes donde se detecte movimiento en la imagen:
 a. Compresión temporal o intertrama.
 b. Compresión espectral.
 c. Compresión espacial o intratrama.
 d. Compresión adaptativa.
 ANSWER: A
 
-16. Según define el estándar ISO 11801-2:2017, en un sistema de cableado general de entornos de oficinas, ¿qué elementos interconecta el subsistema de cableado horizontal?
+16. [TEMA="2022."] Según define el estándar ISO 11801-2:2017, en un sistema de cableado general de entornos de oficinas, ¿qué elementos interconecta el subsistema de cableado horizontal?
 a. Las tomas de usuario entre sí.
 b. El distribuidor de planta con las tomas de usuario.
 c. Los distribuidores de edificio entre sí.
 d. El distribuidor de campus con los distribuidores de edificio.
 ANSWER: B
 
-17. Señale cuál de los siguientes NO es un tipo de servicio de red de obligado establecimiento por la Directiva 2007/2/CE por la que se establece una infraestructura de información espacial en la Comunidad Europea (INSPIRE):
+17. [TEMA="2022.95"] Señale cuál de los siguientes NO es un tipo de servicio de red de obligado establecimiento por la Directiva 2007/2/CE por la que se establece una infraestructura de información espacial en la Comunidad Europea (INSPIRE):
 a. Servicios de visualización.
 b. Servicios de actualización.
 c. Servicios de descarga.
 d. Servicios de localización.
 ANSWER: B
 
-18. Según define la Guía PMBOK, un proyecto es:
+18. [TEMA="2022.35"] Según define la Guía PMBOK, un proyecto es:
 a. Un esfuerzo permanente y continuo con recursos asignados para realizar un conjunto estable de tareas que produce resultados repetitivos.
 b. Un acuerdo legal, oral o escrito, manifestado en común entre dos o más personas con capacidad jurídica que se vinculan en virtud del mismo, regulando sus relaciones a una determinada finalidad o cosa.
 c. Un esfuerzo temporal que se lleva a cabo para crear un producto, servicio o resultado único.
 d. Una opción elegible, viable y repetible que la oferta pone a disposición de la demanda, para satisfacer una necesidad o atender un deseo a través de su uso o consumo.
 ANSWER: C
 
-19. La duración de los derechos de explotación de un programa de ordenador cuyo autor es una persona jurídica es:
+19. [TEMA="2022.43"] La duración de los derechos de explotación de un programa de ordenador cuyo autor es una persona jurídica es:
 a. Cinco años.
 b. Diez años.
 c. Veinte años.
 d. Setenta años.
 ANSWER: D
 
-20. ¿Cuál de las siguientes opciones sobre el protocolo IMAP4 es correcta?
+20. [TEMA="2022.122"] ¿Cuál de las siguientes opciones sobre el protocolo IMAP4 es correcta?
 a. Elimina los mensajes del servidor una vez descargados.
 b. Permite la recepción de correos sin conexión a Internet.
 c. Presenta un modelo de sincronización de mensajes entre cliente y servidor, sin necesidad de descargar los mensajes.
 d. No es capaz de interpretar el contenido MIME (Multipurpose Internet Mail Extension).
 ANSWER: C
 
-21. Según el Real Decreto 4/2010 por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica, ¿cuál es dimensión de la interoperabilidad relativa a que la información intercambiada pueda ser interpretable de forma automática y reutilizable por aplicaciones que no intervinieron en su creación?
+21. [TEMA="2022.45"] Según el Real Decreto 4/2010 por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica, ¿cuál es dimensión de la interoperabilidad relativa a que la información intercambiada pueda ser interpretable de forma automática y reutilizable por aplicaciones que no intervinieron en su creación?
 a. Jurídica.
 b. Organizativa.
 c. Semántica.
 d. Técnica.
 ANSWER: C
 
-22. Señale cuál de las siguientes es una tecnología para la impresión en 3 dimensiones:
+22. [TEMA="2022.107"] Señale cuál de las siguientes es una tecnología para la impresión en 3 dimensiones:
 a. Tubos fotomultiplicadores (Photomultiplier Tubes PMT).
 b. Sensor de imagen por contacto (Contact Image Sensor CIS).
 c. Estereolitografía (Stereo Litography SLA).
 d. Dispositivo de carga acoplada (Charge-Coupled Device CCD).
 ANSWER: C
 
-23. En un sistema de DataWarehouse las tablas que definen cómo están los datos organizados lógicamente y proveen el medio para analizar el contexto del negocio y que contienen datos cualitativos son las tablas de:
+23. [TEMA="2022.75"] En un sistema de DataWarehouse las tablas que definen cómo están los datos organizados lógicamente y proveen el medio para analizar el contexto del negocio y que contienen datos cualitativos son las tablas de:
 a. Hechos.
 b. Dimensiones.
 c. Indicadores.
 d. Hechos agregadas.
 ANSWER: B
 
-24. Respecto a la FTTx y su penetración en España, ¿qué opción es correcta?
+24. [TEMA="2022.108"] Respecto a la FTTx y su penetración en España, ¿qué opción es correcta?
 a. La tecnología fibra hasta el hogar o FTTH se basa en aprovechar integramente el cobre del bucle de abonado.
 b. La tecnología fibra hasta el edificio o FTTB requiere que haya una ONT en el domicilio del abonado.
 c. El Programa de Extensión de la Banda Ancha de Nueva Generación persigue acelerar la extensión de FTTH, entre otras tecnologías, a zonas sin cobertura actual ni prevista en los próximos años así como a aquellas que la tienen de un sólo operador.
 d. La cobertura de FTTH en España alcanza a un porcentaje de la población inferior a la media europea.
 ANSWER: C
 
-25. En los Diagrama de flujo de datos el DFD de nivel 0 se conoce como:
+25. [TEMA="2022.90"] En los Diagrama de flujo de datos el DFD de nivel 0 se conoce como:
 a. Diagrama de Subsistemas.
 b. Diagrama de Procesos.
 c. Diagrama de Contexto.
 d. Diagrama de Subfunciones de las Funciones.
 ANSWER: C
 
-26. Señale la opción correcta respecto a la Infraestructura como Código (Infrastructure as Code, IaC):
+26. [TEMA="2022.57"] Señale la opción correcta respecto a la Infraestructura como Código (Infrastructure as Code, IaC):
 a. Es una técnica que facilita la gestión de la configuración al asignar códigos distintos a cada activo de una organización.
 b. Es una familia de herramientas que permiten simular el comportamiento de la infraestructura de una organización ante determinadas condiciones de carga y tráfico.
 c. Es un mecanismo de seguridad incorporado al 5G que monitoriza la última estación base contactada por cada dispositivo.
 d. Es un modelo de gestión y aprovisionamiento de infraestructuras basado en código que a ser interpretado permite desplegar y configurar automáticamente la infraestructura virtual descrita en él.
 ANSWER: D
 
-27. Respecto a la Agenda España Digital 2025, señale la INCORRECTA:
+27. [TEMA="2022.51"] Respecto a la Agenda España Digital 2025, señale la INCORRECTA:
 a. No recoge medidas relacionadas con las CCAA y EELL.
 b. España Digital 2025 recoge un conjunto de medidas, reformas e inversiones, articuladas en diez ejes estratégicos.
 c. Una de las metas es garantizar en 2025 un 100% de la población con cobertura 100 Mbps.
 d. El eje correspondiente a la digitalización de la Administración Pública es el 5.
 ANSWER: A
 
-28. Señale la opción correcta respecto a Jakarta Enterprise Edition (Jakarta EE) y Java Platform Enterprise Edition (Java EE):
+28. [TEMA="2022.67"] Señale la opción correcta respecto a Jakarta Enterprise Edition (Jakarta EE) y Java Platform Enterprise Edition (Java EE):
 a. Jakarta EE es la versión open source de Java EE, ofrecida por la empresa Oracle, con funcionalidad básica y sin soporte especializado.
 b. Jakarta EE es una edición de Java EE enfocada en el desarrollo de aplicaciones altamente escalables ejecutadas en contenedores.
 c. Jakarta EE es la denominación actual de la anterior Java EE, tras heredar su mantenimiento la Eclipse Foundation.
 d. Jakarta EE es una versión open source de Java EE desarrollada por la comunidad, plenamente compatible con la versión 8 y siguientes.
 ANSWER: C
 
-29. El denominado "Blended learning" es:
+29. [TEMA="2022.73"] El denominado "Blended learning" es:
 a. Una modalidad de enseñanza semipresencial que incluye formación presencial y e-learning.
 b. El aprendizaje mediante dipositivos con conectividad inalámbrica.
 c. La adaptación del modelo de enseñanza al contexto en el que se encuentra el estudiante.
 d. La formación on line de propósito abierto y proyección masiva.
 ANSWER: A
 
-30. Señale la opción correcta respecto a la licencia EUPL v1.2:
+30. [TEMA="2022.69"] Señale la opción correcta respecto a la licencia EUPL v1.2:
 a. Fue aprobada por la Comisión Europea en mayo de 2009.
 b. El mero uso de la obra ya implica la aceptación de la licencia y sus condiciones.
 c. Permite la distribución de modificaciones y trabajos derivados bajo licencias privativas.
 d. El Esquema Nacional de Interoperabilidad establece su uso obligatorio para aquellas aplicaciones que se declaren de fuentes abiertas.
 ANSWER: B
 
-31. De acuerdo con la Ley 25/2013 de impulso de la factura electrónica y creación del registro contable de facturas en el Sector Público, ¿cuál de las siguientes entidades NO está obligada al uso de factura electrónica en las entregas de bienes y prestaciones
+31. [TEMA="2022.78"] De acuerdo con la Ley 25/2013 de impulso de la factura electrónica y creación del registro contable de facturas en el Sector Público, ¿cuál de las siguientes entidades NO está obligada al uso de factura electrónica en las entregas de bienes y prestaciones
 a. Sociedad de responsabilidad limitada.
 b. Unión temporal de empresas.
 c. Empresario individual.
 d. Persona jurídica sin nacionalidad española.
 ANSWER: C
 
-32. De entre las clases en que pueden clasificarse los dispositivos bluetooth en función de su potencia de transmisión, ¿cuál es la que ofrece mayor alcance máximo?
+32. [TEMA="2022.114"] De entre las clases en que pueden clasificarse los dispositivos bluetooth en función de su potencia de transmisión, ¿cuál es la que ofrece mayor alcance máximo?
 a. Clase 4.
 b. Clase 2.
 c. Clase 3.
 d. Clase 1.
 ANSWER: D
 
-33. ¿Cuál de los siguientes patrones de diseño software garantiza la existencia de una única instancia para una clase y ofrece un mecanismo de acceso global a dicha instancia?
+33. [TEMA="2022.93"] ¿Cuál de los siguientes patrones de diseño software garantiza la existencia de una única instancia para una clase y ofrece un mecanismo de acceso global a dicha instancia?
 a. Singleton.
 b. Facade.
 c. Observer.
 d. Bridge.
 ANSWER: A
 
-34. ¿A qué se refiere el término de 'Sistema de reporting'?
+34. [TEMA="2022.75"] ¿A qué se refiere el término de 'Sistema de reporting'?
 a. Un sistema de denuncias públicas empleando soluciones TIC que permiten garantizar el anonimato.
 b. Un mecanismo de protección a los denunciantes para evitarles represalias.
 c. Una técnica de ventas.
 d. Una solución que busca satisfacer las necesidades de información de la organización.
 ANSWER: D
 
-35. Indique la opción correcta respecto a XBRL:
+35. [TEMA="2022.77"] Indique la opción correcta respecto a XBRL:
 a. Sus siglas significan XML Budget Reporting Language.
 b. Es un formato estándar basado en JSON.
 c. Se basa en licencias propietarias comercializadas por XBRL International.
 d. Permite el intercambio de información financiera y de negocio de empresas y entidades financieras.
 ANSWER: D
 
-36. En relación con las evaluaciones de impacto de protección de datos (EIPD), señale la opción INCORRECTA:
+36. [TEMA="2022.82"] En relación con las evaluaciones de impacto de protección de datos (EIPD), señale la opción INCORRECTA:
 a. La EIPD es obligatoria cuando las operaciones de tratamiento entrañen un alto riesgo para los derechos y libertades de las personas físicas.
 b. La EIPD es obligatoria para todos los tratamientos de datos de las Administraciones Públicas.
 c. El resultado de la evaluación debe tenerse en cuenta para determinar las medidas que mitiguen los riesgos, de forma que el tratamiento mantenga las garantías de protección de datos.
 d. Si no es posible mitigar el riesgo con medidas técnicas u organizativas, debe plantearse una consulta a la Agencia Española de Protección de Datos.
 ANSWER: B
 
-37. ¿Cuál de los siguientes NO es un paso del procedimiento de inferencia por encadenamiento hacia adelante?
+37. [TEMA="2022.71"] ¿Cuál de los siguientes NO es un paso del procedimiento de inferencia por encadenamiento hacia adelante?
 a. Selección.
 b. Equiparación.
 c. Disparo.
 d. Resolución.
 ANSWER: A
 
-38. En relación con los principios de protección de datos desde el diseño y por defecto, ¿cuál de las siguientes medidas NO se propone en el Reglamento General de Protección de Datos (UE) 2016/679 para cumplirlos?
+38. [TEMA="2022.82"] En relación con los principios de protección de datos desde el diseño y por defecto, ¿cuál de las siguientes medidas NO se propone en el Reglamento General de Protección de Datos (UE) 2016/679 para cumplirlos?
 a. Reducir al máximo el tratamiento de datos p ersonales.
 b. Dar transparencia a las funciones y el tratamiento de datos personales.
 c. Seudonimizar lo antes posible los datos personales.
 d. Utilizar un registro de accesos y un procedimiento de gestión de incidencias.
 ANSWER: D
 
-39. ¿Cuál de las siguientes formas de virtualización de almacenamiento NO es un método de acceso a nivel de bloque?
+39. [TEMA="2022."] ¿Cuál de las siguientes formas de virtualización de almacenamiento NO es un método de acceso a nivel de bloque?
 a. NAS.
 b. SAN.
 c. LVD.
 d. RAID.
 ANSWER: A
 
-40. ¿Qué generación emplea por primera vez la tecnología HSDPA de acceso móvil?
+40. [TEMA="2022.123"] ¿Qué generación emplea por primera vez la tecnología HSDPA de acceso móvil?
 a. 2G.
 b. 3G.
 c. 4G.
 d. 5G.
 ANSWER: B
 
-41. Indique cuál de las siguientes es un tipo de holgura de las actividades definida en la técnica Program Evaluation and Review Technique (PERT):
+41. [TEMA="2022.36"] Indique cuál de las siguientes es un tipo de holgura de las actividades definida en la técnica Program Evaluation and Review Technique (PERT):
 a. Holgura parcial.
 b. Holgura lineal.
 c. Holgura libre.
 d. Holgura crítica.
 ANSWER: C
 
-42. ¿Cómo se denomina la interfaz de usuario del sistema operativo Mac OS X?
+42. [TEMA="2022.62"] ¿Cómo se denomina la interfaz de usuario del sistema operativo Mac OS X?
 a. Platinum.
 b. Cocoa.
 c. Carbon.
 d. Aqua.
 ANSWER: D
 
-43. ¿Qué tipo de búsqueda en un espacio de estados NO se corresponde con una búsqueda heurística?
+43. [TEMA="2022.43"] ¿Qué tipo de búsqueda en un espacio de estados NO se corresponde con una búsqueda heurística?
 a. Branch and bound.
 b. Greedy.
 c. MINIMAX.
 d. A*.
 ANSWER: C
 
-44. ¿Cómo se denomina el mecanismo de extensión que permite la reutilización de código, sin modificar la clase base?
+44. [TEMA="2022.89"] ¿Cómo se denomina el mecanismo de extensión que permite la reutilización de código, sin modificar la clase base?
 a. Concurrencia.
 b. Persistencia.
 c. Encapsulación.
 d. Herencia.
 ANSWER: D
 
-45. En la Agenda España Digital 2025, ¿cuál de las siguientes medidas NO figura dentro del eje 5 dedicado a impulsar la digitalización de las Administraciones Públicas?
+45. [TEMA="2022.51"] En la Agenda España Digital 2025, ¿cuál de las siguientes medidas NO figura dentro del eje 5 dedicado a impulsar la digitalización de las Administraciones Públicas?
 a. Despliegue y operación del Centro de Operaciones de Ciberseguridad.
 b. APP Factory para el desarrollo de servicios personalizados a la ciudadanía.
 c. Actualización de las infraestructuras tecnológicas del sector público.
 d. Laboratorio de innovación Gobtechlab.
 ANSWER: A
 
-46. La protección específica otorgada por el texto refundido de la Ley de Propiedad Intelectual a los programas de ordenador:
+46. [TEMA="2022.43"] La protección específica otorgada por el texto refundido de la Ley de Propiedad Intelectual a los programas de ordenador:
 a. Comprende los programas no originales.
 b. Comprende también su documentación preparatoria.
 c. Se circunscribe al código fuente.
 d. Comprende las ideas y principios en los que se basan cualquiera de los elementos de un programa de ordenador.
 ANSWER: B
 
-47. Respecto a ITIL v4, señale cuál de las siguientes NO es una de las cuatro dimensiones de la gestión de servicios:
+47. [TEMA="2022.106"] Respecto a ITIL v4, señale cuál de las siguientes NO es una de las cuatro dimensiones de la gestión de servicios:
 a. Organizaciones y personas.
 b. Información y tecnología.
 c. Socios y proveedores.
 d. Fortalezas y oportunidades.
 ANSWER: D
 
-48. Indique la opción correcta en relación a la virtualización basada en contenedores:
+48. [TEMA="2022.132"] Indique la opción correcta en relación a la virtualización basada en contenedores:
 a. Los contenedores son instancias aisladas de ejecución de usuario que comparten un núcleo de sistema operativo común.
 b. Cada contenedor integra un sistema operativo completo, incluido el kernel.
 c. Los contenedores requieren ejecutarse dentro de un hipervisor.
 d. Los contenedores no pueden ejecutarse dentro de máquinas virtuales.
 ANSWER: A
 
-49. ¿Cuál de los siguientes es un IDE (Integrated Development Environment) para el desarrollo de aplicaciones destinadas a iOS?
+49. [TEMA="2022.62"] ¿Cuál de los siguientes es un IDE (Integrated Development Environment) para el desarrollo de aplicaciones destinadas a iOS?
 a. Xcode.
 b. Objective-c.
 c. Xamarin.
 d. CodeX.
 ANSWER: A
 
-50. ¿Cual de las siguientes describe mejor lo que se define como "Kensington" en términos de microinformática?
+50. [TEMA="2022.54"] ¿Cual de las siguientes describe mejor lo que se define como "Kensington" en términos de microinformática?
 a. Es un mecanismo de seguridad físico para dispositivos portátiles.
 b. Es una versión del sistema operativo iOS para ordenadores MAC.
 c. Es una métodología de desarrollo ágil para aplicaciones en entorno J2EE.
 d. Es una tecnología inalámbrica para intercambio de datos en distancias cortas.
 ANSWER: A
 
-51. ¿Cuál de las siguientes NO es una herramienta de automatización de pruebas?
+51. [TEMA="2022.97"] ¿Cuál de las siguientes NO es una herramienta de automatización de pruebas?
 a. Selenium.
 b. Mantis.
 c. Cucumber.
 d. UFT.
 ANSWER: B
 
-52. El Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público, es de aplicación:
+52. [TEMA="2022.44"] El Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público, es de aplicación:
 a. Tanto a los sitios web, independientemente del dispositivo empleado para acceder a ellos, como a las aplicaciones para dispositivos móviles de los organismos del sector público.
 b. A los contenidos multimedia en directo y pregrabados de base temporal de los sitios web y aplicaciones para dispositivos móviles de prestadores del servicio público de radiodifusión y sus filiales.
 c. A contenido multimedia pregrabado de base temporal publicado antes de la entrada en vigor de este real decreto.
 d. A contenidos de sitios web y aplicaciones para dispositivos móviles que tengan la condición de archivos o herramientas de archivo por contener únicamente contenidos no necesarios para el desarrollo de cualesquiera tareas administrativas activas, siempre que no hayan sido actualizados ni editados con posterioridad a la entrada en vigor de este real decreto.
 ANSWER: A
 
-53. La plataforma que organiza y gestiona el Catálogo de Información Pública reutilizable del sector público es:
+53. [TEMA="2022.31"] La plataforma que organiza y gestiona el Catálogo de Información Pública reutilizable del sector público es:
 a. face.gob.es
 b. datos.gob.es
 c. admin.gob.es
 d. rec.redsara.es
 ANSWER: B
 
-54. Señale la FALSA respecto a la computación Grid:
+54. [TEMA="2022.52"] Señale la FALSA respecto a la computación Grid:
 a. Se utiliza una red local.
 b. Requiere un middleware.
 c. Los nodos están distribuidos.
 d. Cada nodo puede tener un sistema operativo diferente.
 ANSWER: A
 
-55. El sistema utilizado en comunicaciones móviles con el objetivo de transferir el servicio de una estación base a otra cuando la calidad del enlace es insuficiente en una de las estaciones se denomina:
+55. [TEMA="2022.123"] El sistema utilizado en comunicaciones móviles con el objetivo de transferir el servicio de una estación base a otra cuando la calidad del enlace es insuficiente en una de las estaciones se denomina:
 a. Paging.
 b. Roaming.
 c. Handover.
 d. Trunking.
 ANSWER: C
 
-56. Señale cuál es un programa de calidad recogido en el RD 951/2005, de 29 de julio, por el que se establece el marco general para la mejora de la calidad en la Administración General del Estado:
+56. [TEMA="2022.22"] Señale cuál es un programa de calidad recogido en el RD 951/2005, de 29 de julio, por el que se establece el marco general para la mejora de la calidad en la Administración General del Estado:
 a. Cartas de servicios.
 b. Gestión por procesos.
 c. Evaluación del rendimiento.
 d. Medición de cargas de trabajo.
 ANSWER: A
 
-57. Django es un framework del lenguaje:
+57. [TEMA="2022.65"] Django es un framework del lenguaje:
 a. JavaScript.
 b. PHP.
 c. Java.
 d. Python.
 ANSWER: D
 
-58. ¿Cuál de las siguientes NO es una solución para la gestión de servicios de tecnologías de la información o ITSM?
+58. [TEMA="2022.100"] ¿Cuál de las siguientes NO es una solución para la gestión de servicios de tecnologías de la información o ITSM?
 a. CVS.
 b. BMC Remedy.
 c. EasyVista.
 d. ServiceNow.
 ANSWER: A
 
-59. Señale la opción correcta sobre el hash:
+59. [TEMA="2022.79"] Señale la opción correcta sobre el hash:
 a. La longitud del hash varía en función del tamaño del mensaje.
 b. Para su implementación se considera más seguro emplear MD5 frente a SHA-2.
 c. La función hash no es reversible, sino unidireccional.
 d. Dos mensajes diferentes podrían producir la misma firma.
 ANSWER: C
 
-60. ¿Cuáles de las siguientes son metodologías ágiles?
+60. [TEMA="2022.37"] ¿Cuáles de las siguientes son metodologías ágiles?
 a. Kanban, XP, FDD, BDD.
 b. Scrum, XP, Sprints, Crystal.
 c. DSDM, TDD, Scrum, Jira.
 d. Lean, ADM, PDM, PERT.
 ANSWER: A
 
-61. ¿Cuáles son los puertos relacionados con el tráfico basado en web (HTTP y HTTPS)?
+61. [TEMA="2022.109"] ¿Cuáles son los puertos relacionados con el tráfico basado en web (HTTP y HTTPS)?
 a. 21 (HTTP) y 22 (HTTPS).
 b. 80 (HTTP) y 443 (HTTPS).
 c. 80 (HTTPS) y 443 (HTTP).
 d. 21 (HTTPS) y 22 (HTTP).
 ANSWER: B
 
-62. Indique la opción correcta respecto a las claves en el modelo relacional:
+62. [TEMA="2022.64"] Indique la opción correcta respecto a las claves en el modelo relacional:
 a. Una relación puede tener varias superclaves o no tener ninguna.
 b. El conjunto de todos los atributos de una relación es una clave candidata.
 c. Si una superclave es clave candidata, es también la clave primaria.
 d. Al eliminar un atributo de una clave candidata ésta deja de ser una superclave.
 ANSWER: D
 
-63. El Consejo Nacional de Ciberseguridad lo preside:
+63. [TEMA="2022.127"] El Consejo Nacional de Ciberseguridad lo preside:
 a. El Director del Departamento de Seguridad Nacional.
 b. La Ministra de Defensa.
 c. El Secretario de Estado de Seguridad.
 d. El Secretario de Estado director del Centro Nacional de Inteligencia y director del Centro Criptológico Nacional.
 ANSWER: D
 
-64. ¿Cuál de las siguientes cabeceras de extensión de IPv6 ha de ser examinada por los nodos intermedios de la red y aparece inmediatamente después de la cabecera IPv6?
+64. [TEMA="2022.115"] ¿Cuál de las siguientes cabeceras de extensión de IPv6 ha de ser examinada por los nodos intermedios de la red y aparece inmediatamente después de la cabecera IPv6?
 a. Authentication header.
 b. Fragment header.
 c. Hop by hop header.
 d. Routing header.
 ANSWER: C
 
-65. ¿Cómo se llama el tipo de nodos DOM que representa las etiquetas XHTML?
+65. [TEMA="2022.65"] ¿Cómo se llama el tipo de nodos DOM que representa las etiquetas XHTML?
 a. Text.
 b. Entity.
 c. Element.
 d. Tag.
 ANSWER: C
 
-66. Señale la opción correcta respecto al protocolo UDP:
+66. [TEMA="2022.108"] Señale la opción correcta respecto al protocolo UDP:
 a. Es un protocolo orientado a la conexión.
 b. Garantiza la entrega de los bytes al nivel superior en orden.
 c. Su cabecera tiene un tamaño de 8 bytes.
 d. El destino envía acuses de recibido o ACKs notificando los paquetes correctamente recibidos.
 ANSWER: C
 
-67. Indique cuál de las siguientes NO es una de las cuatro libertades esenciales del software libre, según el Proyecto GNU:
+67. [TEMA="2022.69"] Indique cuál de las siguientes NO es una de las cuatro libertades esenciales del software libre, según el Proyecto GNU:
 a. La libertad de ejecutar el programa como se desea, con cualquier propósito.
 b. La libertad de redistribuir copias para ayudar a otros.
 c. La libertad de estudiar cómo funciona el programa, y cambiarlo para que haga lo que uno quiera.
 d. La libertad de explotar comercialmente el programa sin facilitar su código fuente.
 ANSWER: D
 
-68. La migración de aplicaciones que consiste en modificar únicamente la interfaz gráfica de una aplicación, sin necesidad de reescribir la aplicación completa, se conoce como:
+68. [TEMA="2022.100"] La migración de aplicaciones que consiste en modificar únicamente la interfaz gráfica de una aplicación, sin necesidad de reescribir la aplicación completa, se conoce como:
 a. Replacement.
 b. Rearchitecting.
 c. Rehosting.
 d. Refronting.
 ANSWER: D
 
-69. ¿Cuál de los siguientes NO es un método de ordenación de alternativas en la adquisición de bienes y servicios?
+69. [TEMA="2022.40"] ¿Cuál de los siguientes NO es un método de ordenación de alternativas en la adquisición de bienes y servicios?
 a. Método lexicográfico.
 b. Método ELECTRE.
 c. Método de la utilidad multiatributo.
 d. Método de la fracción de la suma.
 ANSWER: D
 
-70. En los Sistemas de Recuperación de Información, la precisión se define como la relación:
+70. [TEMA="2022.70"] En los Sistemas de Recuperación de Información, la precisión se define como la relación:
 a. Documentos relevantes recuperados frente a Documentos relevantes.
 b. Documentos relevantes recuperados frente a Documentos recuperados.
 c. Documentos no relevantes recuperados frente a Documentos recuperados.
 d. Documentos relevantes conocidos recuperados frente a Documentos relevantes conocidos.
 ANSWER: B
 
-71. Indique cuál de las siguientes opciones es un sistema empleado para el reconocimiento óptico de caracteres (OCR):
+71. [TEMA="2022.84"] Indique cuál de las siguientes opciones es un sistema empleado para el reconocimiento óptico de caracteres (OCR):
 a. Nginx.
 b. CryptoLocker.
 c. Magnolia.
 d. Tesseract.
 ANSWER: D
 
-72. Señale cuál de los siguientes NO es un principio en que se basan las Pautas de Accesibilidad para el Contenido Web (WCAG 2.1):
+72. [TEMA="2022.44"] Señale cuál de los siguientes NO es un principio en que se basan las Pautas de Accesibilidad para el Contenido Web (WCAG 2.1):
 a. Repetible.
 b. Operable.
 c. Comprensible.
 d. Robusto.
 ANSWER: A
 
-73. En el Framework .NET, ¿cómo se denomina al entorno de ejecución que controla la asignación y administración de memoria en la ejecución de programas?
+73. [TEMA="2022.66"] En el Framework .NET, ¿cómo se denomina al entorno de ejecución que controla la asignación y administración de memoria en la ejecución de programas?
 a. Common Intermediate Language o CIL.
 b. Common Language Runtime o CLR.
 c. Compilador Just-In-Time o JIT.
 d. Microsoft Intermediate Language o MSIL.
 ANSWER: B
 
-74. Bitlocker sirve para:
+74. [TEMA="2022.61"] Bitlocker sirve para:
 a. Optimizar el rendimiento de las unidades de almacenamiento.
 b. Cifrar ficheros individualmente mediante el algoritmo de cifrado AES.
 c. Localizar dispositivos extraviados o robados.
 d. Cifrar el disco duro en equipos con Sistema Operativo Windows.
 ANSWER: D
 
-75. En la metodología ágil Scrum, la reunión al final del sprint en que el equipo Scrum colabora con interesados clave para inspeccionar el incremento de producto y, en su caso, adaptar el Product Backlog se denomina:
+75. [TEMA="2022.88"] En la metodología ágil Scrum, la reunión al final del sprint en que el equipo Scrum colabora con interesados clave para inspeccionar el incremento de producto y, en su caso, adaptar el Product Backlog se denomina:
 a. Sprint Planning.
 b. Daily Meeting.
 c. Sprint Review.
 d. Sprint Retrospective.
 ANSWER: C
 
-76. La Entidad Nacional de Acreditación (ENAC) tiene como finalidad:
+76. [TEMA="2022.50"] La Entidad Nacional de Acreditación (ENAC) tiene como finalidad:
 a. La acreditación de organismos de evaluación de conformidad.
 b. La acreditación de las empresas productoras de bienes o servicios mediante certificados de conformidad.
 c. La acreditación de normas y estándares.
 d. La certificación de los sistemas de gestión establecidos por las empresas.
 ANSWER: A
 
-77. En relación con las soluciones MDM (Mobile Device Management), señale la respuesta correcta:
+77. [TEMA="2022.54"] En relación con las soluciones MDM (Mobile Device Management), señale la respuesta correcta:
 a. Permiten la monitorización automática de los dispositivos móviles y la generación de alertas al incumplirse la política de seguridad establecida en la organización.
 b. No son adecuados para el inventario de dispositivos móviles.
 c. Los fabricantes de las principales plataformas móviles no proporcionan soluciones MDM por lo que hay que recurrir siempre a soluciones de terceros.
 d. No contemplan la tendencia BYOD (Bring Your Own Device).
 ANSWER: A
 
-78. ¿Qué nombre recibe la tecnología empleada por IEEE 802.11n basada en la multiplexación espacial y en el uso de varias antenas transmisoras y receptoras para mejorar el desempeño del sistema?
+78. [TEMA="2022.114"] ¿Qué nombre recibe la tecnología empleada por IEEE 802.11n basada en la multiplexación espacial y en el uso de varias antenas transmisoras y receptoras para mejorar el desempeño del sistema?
 a. MIMO.
 b. DSSS.
 c. Channel Bonding.
 d. FHSS.
 ANSWER: A
 
-79. Señale la opción correcta respecto a las soluciones EMM para sistemas de movilidad:
+79. [TEMA="2022.54"] Señale la opción correcta respecto a las soluciones EMM para sistemas de movilidad:
 a. MAM permite la gestión de aplicaciones en los dispositivos móviles de una organización.
 b. MEM se emplea para la gestión del acceso seguro a contenidos en movilidad.
 c. MCM permite gestionar la securización del correo electrónico móvil.
 d. Las soluciones EMM son independientes de de otros sistemas ubicados en la red corporativa como servidores proxy o firewalls.
 ANSWER: A
 
-80. Indique la opción correcta respecto a LDAP:
+80. [TEMA="2022.80"] Indique la opción correcta respecto a LDAP:
 a. Emplea un formato llamado Python para la transmisión de datos.
 b. Cada entrada tiene un DN (Distinguished Name) como identificador único.
 c. La versión actual es LDAPv2, y se encuentra definido en el estándar 4511 del ITU-T y del ISO/IEC.
 d. Open DS, ApacheDS y Red Hat Directory Server son alternativas no basadas en LDAP.
 ANSWER: B
 
-81. En ciberseguridad, ¿a qué nos referimos con movimiento lateral?
+81. [TEMA="2022.125"] En ciberseguridad, ¿a qué nos referimos con movimiento lateral?
 a. Son las técnicas que emplea un intruso que ha roto el perímetro de seguridad de una organización para profundizar en su red en busca de activos valiosos.
 b. Es el acto de explotar una vulnerabilidad para obtener acceso a elementos reservados a usuarios que tengan privilegios elevados.
 c. Es un tipo de ataque de ingeniería social basado en explotar vulnerabilidades de personas del círculo del objetivo principal para suplantarlas.
 d. Se refiere a la replicación de un virus informático desde un equipo infectado a otros equipos de la misma organización.
 ANSWER: A
 
-82. Según la clasificación de Boneu respecto al e-learning, el CMI (Computer Managed Instruction) es un tipo de:
+82. [TEMA="2022.73"] Según la clasificación de Boneu respecto al e-learning, el CMI (Computer Managed Instruction) es un tipo de:
 a. IBT (Internet Based Training).
 b. WBT (Web Based Training).
 c. CBT (Computer Based Training).
 d. CBL (Computed Based Learning).
 ANSWER: C
 
-83. Señale la opción INCORRECTA respecto a SIA, Sistema de Información Administrativa:
+83. [TEMA="2022.49"] Señale la opción INCORRECTA respecto a SIA, Sistema de Información Administrativa:
 a. Es una aplicación informática cuya función básica es la de actuar como catálogo de información sobre tramitación administrativa.
 b. Incluye procedimientos administrativos y servicios dirigidos al ciudadano pero no los propios de las Administraciones Públicas.
 c. Da respuesta a la obligación de publicar y mantener actualizadas en el portal web, a efectos informativos, las relaciones de procedimientos de su competencia y dar la información referida a los extremos básicos de los mismos.
 d. Entre otros, SIA atiende al objetivo de ser el repositorio de información para reforzar la seguridad jurídica en la actuación de la administración.
 ANSWER: B
 
-84. Según la Ley 37/2007, de 16 de noviembre, sobre reutilización de información del Sector Público, respecto a los acuerdos exclusivos en el ámbito de la reutilización de información del Sector Público, señale la opción correcta:
+84. [TEMA="2022.25"] Según la Ley 37/2007, de 16 de noviembre, sobre reutilización de información del Sector Público, respecto a los acuerdos exclusivos en el ámbito de la reutilización de información del Sector Público, señale la opción correcta:
 a. Están prohibidos en España.
 b. Cuando estén relacionados con la digitalización de los recursos culturales, el periodo de exclusividad no será superior, por regla general a 10 años.
 c. Cuando estén relacionados con la digitalización de los recursos culturales, el periodo de exclusividad no será superior, por regla general a 5 años.
 d. Cuando estén relacionados con la digitalización de los recursos culturales, se suscriben por tiempo indefinido, no siendo susceptibles de revisión.
 ANSWER: B
 
-85. ¿Cuál de las siguientes operaciones del álgebra relacional NO pertenece a las operaciones fundamentales, también denominadas operadores básicos?
+85. [TEMA="2022.64"] ¿Cuál de las siguientes operaciones del álgebra relacional NO pertenece a las operaciones fundamentales, también denominadas operadores básicos?
 a. Proyección (Π).
 b. Producto cartesiano (X).
 c. Intersección (∩).
 d. Unión (U).
 ANSWER: C
 
-86. Dentro de las técnicas de estimación de proyectos, ¿cuál de las siguientes NO pertenece a las orientadas al tamaño y la función?
+86. [TEMA="2022.95"] Dentro de las técnicas de estimación de proyectos, ¿cuál de las siguientes NO pertenece a las orientadas al tamaño y la función?
 a. Las líneas de código.
 b. El método Albrecht.
 c. El modelo Putnam.
 d. El método Mark II.
 ANSWER: C
 
-87. Indique cuál de las siguientes opciones es FALSA en relación con la recepción en un contrato de suministro celebrado por un poder adjudicador de la Administración General del Estado:
+87. [TEMA="2022."] Indique cuál de las siguientes opciones es FALSA en relación con la recepción en un contrato de suministro celebrado por un poder adjudicador de la Administración General del Estado:
 a. Debe realizarse dentro del mes siguiente a la entrega o en el plazo que se determine en el pliego de cláusulas administrativas particulares por razón de sus características.
 b. Debe comunicarse a la Intervención General cuando la inversión supere los 15.000 euros.
 c. Al acto de recepción deben acudir el representante de la administración y el contratista.
 d. El resultado de la recepción se reflejará en un acta.
 ANSWER: B
 
-88. ¿En qué banda de frecuencia trabaja la tecnología Bluetooth?
+88. [TEMA="2022.114"] ¿En qué banda de frecuencia trabaja la tecnología Bluetooth?
 a. 0,8 GHz
 b. 1,2 GHz
 c. 2,4 GHz
 d. 4,8 GHz
 ANSWER: C
 
-89. ¿Cómo se denomina la máquina virtual que se empezó a utilizar en el entorno de ejecución de Android (Android Runtime) a partir de la versión 4.4?
+89. [TEMA="2022.62"] ¿Cómo se denomina la máquina virtual que se empezó a utilizar en el entorno de ejecución de Android (Android Runtime) a partir de la versión 4.4?
 a. Darwin.
 b. Dalvik.
 c. ART.
 d. Zygote.
 ANSWER: C
 
-90. En orientación a objetos, son patrones generales de software para asignación de responsabilidades o GRASP:
+90. [TEMA="2022.93"] En orientación a objetos, son patrones generales de software para asignación de responsabilidades o GRASP:
 a. La alta conexión, la indirección, la modularidad y la fabricación pura.
 b. El creador, el controlador, el experto y el poliformorfismo.
 c. El experto, el endomorfismo, la alta conexión y las variaciones protegidas.
 d. El diseñador, el analista, el operador y el controlador.
 ANSWER: B
 
-91. Respecto a los servidores Blade:
+91. [TEMA="2022.119"] Respecto a los servidores Blade:
 a. Las tarjetas incluyen su propia fuente de alimentación.
 b. El chasis incorpora los procesadores y las fuentes de alimentación.
 c. Sus principales ventajas son el aprovechamiento del espacio, su reducción de consumo, y la simplificación del mantenimiento.
 d. Son los únicos servidores que permiten acometer grandes necesidades de cálculo y procesamiento.
 ANSWER: C
 
-92. En el ámbito de la inteligencia artificial, ¿qué lenguaje se utiliza como intermediario entre los lenguajes de representación del conocimiento de distintos agentes inteligentes?
+92. [TEMA="2022.70"] En el ámbito de la inteligencia artificial, ¿qué lenguaje se utiliza como intermediario entre los lenguajes de representación del conocimiento de distintos agentes inteligentes?
 a. KQML.
 b. XML.
 c. KIF.
 d. RDF.
 ANSWER: C
 
-93. Señale la opción correcta sobre la criptografía simétrica de bloque:
+93. [TEMA="2022.79"] Señale la opción correcta sobre la criptografía simétrica de bloque:
 a. El uso del algoritmo DES resulta más seguro que el de AES.
 b. SNOW 3G es un algoritmo de este tipo de criptografía utilizado en UMTS/LTE.
 c. 64 Kbits y 128 Kbits son longitudes típicas de los bloques empleadas en sus algoritmos.
 d. Son algoritmos de este tipo de criptografía Camellia y AES/Rijndael.
 ANSWER: D
 
-94. Señale la opción correcta respecto a la validez y eficacia de las copias realizadas por las Administraciones Públicas, reguladas por la Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas:
+94. [TEMA="2022.8"] Señale la opción correcta respecto a la validez y eficacia de las copias realizadas por las Administraciones Públicas, reguladas por la Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas:
 a. Las copias auténticas realizadas por una Administración Pública no tendrán validez en las restantes Administraciones.
 b. Las copias electrónicas de un documento electrónico original o de una copia electrónica auténtica deberán incluir los metadatos que acrediten su condición de copia.
 c. Las copias auténticas tendrán la misma validez y eficacia que los documentos originales siempre y cuando conserven su formato electrónico.
 d. Las Administraciones Públicas podrán realizar copias auténticas mediante funcionario habilitado o por medio de representante.
 ANSWER: B
 
-95. Indique cuál de los siguientes NO es un Sistema de Gestión de Contenidos o CMS:
+95. [TEMA="2022.104"] Indique cuál de los siguientes NO es un Sistema de Gestión de Contenidos o CMS:
 a. Microsoft Visual Studio.
 b. Wordpress.
 c. Adobe Experience Manager.
 d. Drupal.
 ANSWER: A
 
-96. Kerberos es un protocolo de autenticación de redes de ordenador que:
+96. [TEMA="2022.131"] Kerberos es un protocolo de autenticación de redes de ordenador que:
 a. Se basa en criptografía de clave simétrica y requiere un tercero de confianza.
 b. Se basa en criptografía de clave asimétrica y requiere un tercero de confianza.
 c. Se basa en criptografía de clave asimétrica y no requiere un tercero de confianza.
 d. Se basa en criptografía de clave simétrica y no requiere un tercero de confianza.
 ANSWER: A
 
-97. ¿En cuántas capas se estructura el modelo OSI (Open System Interconnection)?
+97. [TEMA="2022.111"] ¿En cuántas capas se estructura el modelo OSI (Open System Interconnection)?
 a. 4.
 b. 6.
 c. 7.
 d. 5.
 ANSWER: C
 
-98. Respecto a Java, ¿qué opción es correcta?:
+98. [TEMA="2022.67"] Respecto a Java, ¿qué opción es correcta?:
 a. Las clases predefinidas deben ser compiladas aparte.
 b. Una clase representa al conjunto de objetos que comparten una estructura y un comportamiento comunes.
 c. Un paquete sólo puede contener una definición de interface o de clase.
 d. La herencia extiende las capacidades (atributos y métodos) entre interfaces.
 ANSWER: B
 
-99. Una infraestructura de clave pública:
+99. [TEMA="2022.81"] Una infraestructura de clave pública:
 a. Consiste en el acceso a soluciones de teletrabajo de las Administraciones Públicas.
 b. Es el conjunto de servidores que realizan operaciones de cifrado en una autoridad de certificación.
 c. Es la infraestructura capaz de soportar la gestión de claves públicas para los servicios de autenticación, criptación, integridad, o no repudio.
 d. Es el conjunto de aplicaciones instaladas en ordenadores personales que permiten realizar operaciones de cifrado o de firma electrónica.
 ANSWER: C
 
-100. Señale la afirmación correcta respecto al lenguaje de programación PHP: Hypertext Preprocessor (PHP):
+100. [TEMA="2022.68"] Señale la afirmación correcta respecto al lenguaje de programación PHP: Hypertext Preprocessor (PHP):
 a. Se distribuye bajo la licencia GNU General Public License (GPL), versión 3.
 b. Las aplicaciones web que lo emplean deben compilarse a bytecode antes de poder ser desplegadas en un servidor web.
 c. Su código puede ejecutarse por línea de comandos en el interfaz de programación de aplicaciones de servidor SAPI CLI.
 d. La última versión publicada es PHP 6.
 ANSWER: C
 
-Reserva 1. En el Grupo A1 de Cuerpos Superiores de la Administración General del Estado, el abanico de niveles de complemento de destino previsto para el mismo, es el siguiente:
+Reserva 1. [RESERVA] [TEMA="2022.24"] En el Grupo A1 de Cuerpos Superiores de la Administración General del Estado, el abanico de niveles de complemento de destino previsto para el mismo, es el siguiente:
 a. 28, 29 y 30.
 b. Entre el 26 y el 30.
 c. Sólo el nivel 30.
 d. Entre el 20 y el 30.
 ANSWER: D
 
-Reserva 2. La conexión e intercambio de registros con el Sistema de Interconexión de Registros puede realizarse:
+Reserva 2. [RESERVA] [TEMA="2022.49"] La conexión e intercambio de registros con el Sistema de Interconexión de Registros puede realizarse:
 a. Utilizando la aplicación de registro propia de la entidad si cumple las especificaciones ORVE 3.1.
 b. Utilizando la aplicación de registro propia de la entidad si cumple las especificaciones GEISER 3.0.
 c. Utilizando la aplicación de registro propia de la entidad si cumple las especificaciones SICRES 3.0.
 d. Utilizando la aplicación de registro propia de la entidad si cumple las especificaciones SIR 3.0.
 ANSWER: C
 
-Reserva 3. ¿Qué tipo de agentes inteligentes basan su razonamieto en la negociación?
+Reserva 3. [RESERVA] [TEMA="2022.70"] ¿Qué tipo de agentes inteligentes basan su razonamieto en la negociación?
 a. Deliberativos.
 b. De información.
 c. Colaborativos.

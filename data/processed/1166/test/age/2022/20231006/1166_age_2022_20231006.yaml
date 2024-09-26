@@ -1,0 +1,1936 @@
+cuerpo: '1166'
+convocatoria: '2022'
+fecha: 2023-10-06 00:00:00
+fuente: age
+normalidad: extraordinario
+puntuaciones:
+- modalidad: i
+  puntuacion_minima_directa: 37.2
+  puntuacion_maxima_directa: 124.0
+- modalidad: p
+  puntuacion_minima_directa: 37.2
+  puntuacion_maxima_directa: 124.0
+partes:
+- numero_parte: 1
+  titulo_parte: 'Específica'
+  preguntas:
+  - enunciado: 'Al método de la cadena crítica que se utiliza para definir el plazo
+      mínimo en que un proyecto puede terminarse, se le conoce también por las siglas:'
+    respuestas:
+    - SCRUM.
+    - CMMI.
+    - CCPM.
+    - SMART.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '35'
+  - enunciado: 'Serán susceptibles de recurso especial aquellos contratos de servicios
+      cuyo valor estimado supere los:'
+    respuestas:
+    - 100.000€.
+    - 180.000€.
+    - 115.000€.
+    - 140.000€.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '39'
+  - enunciado: 'ISO, aunque no realiza certificación de sus estándares, tiene un comité
+      que desarrolla políticas y publica estándares relacionados con la evaluación
+      de conformidad. El comité se llama:'
+    respuestas:
+    - DEVCO.
+    - CSC/FIN.
+    - CASCO.
+    - CSC/SP.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '50'
+  - enunciado: 'El framework .NET se compone de:'
+    respuestas:
+    - Una biblioteca de clases (FCL) y del entorno común de ejecución (CLR).
+    - Las normas definidas en la CLS (Common Language Specification) y los DLL.
+    - Las normas definidas en la CLS (Common Language Specification) y una biblioteca
+      de clases (FCL).
+    - El entorno común de ejecución y los DLL.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '66'
+  - enunciado: 'La Resolución de 20 de octubre de 2022, de la Secretaría General de
+      Administración Digital, establece las condiciones de uso de firma electrónica
+      no criptográfica en las relaciones de los interesados con los órganos administrativos
+      de la AGE:'
+    respuestas:
+    - Para sistemas categorizados, según ENS, de categoría básica y aquellos de categoría
+      media en los que no sea necesaria la firma electrónica avanzada por normativa.
+    - Para sistemas en los que la identificación no requiera un registro fehaciente
+      o que tramiten solicitudes que no precisen identificar al interesado.
+    - Para sistemas que se hayan categorizado según ENS como de categoría básica y
+      que precisen garantizar el consentimiento y no repudio del interesado.
+    - Para la firma de documentos electrónicos que no estén incluidos en los supuestos
+      establecidos en el art 11.2 de la ley 39/2015.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '8'
+  - enunciado: 'El más conocido de los "Algoritmos de diccionario adaptables" se emplea
+      en varios de los formatos de fichero de imágenes más habituales como GIF, TIFF
+      o PDF. Indique la respuesta CORRECTA:'
+    respuestas:
+    - Run Length Encoding.
+    - TDC.
+    - Lempel-Ziv Welch.
+    - Transformada de Fourier.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '83'
+  - enunciado: 'En la Metodología Métrica V3, el aseguramiento de la calidad debe
+      garantizarse:'
+    respuestas:
+    - En los procesos del PSI al EVS.
+    - En los procesos del EVS al MSI.
+    - Prioritariamente en las interfaces.
+    - En los procesos de PSI a CSI.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '95'
+  - enunciado: 'El órgano de la AGE encargado de los informes de evaluación de la
+      calidad de los servicios es:'
+    respuestas:
+    - La Dirección General de Gobernanza Pública.
+    - La Dirección General de la Función Pública.
+    - La Dirección General de Transparencia.
+    - El Instituto para la Evaluación de las Políticas Públicas.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '20'
+  - enunciado: '¿Cuál es el prefijo de una dirección de tipo Link‐Local?:'
+    respuestas:
+    - FE80.
+    - EC02.
+    - '2002.'
+    - FF00.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '115'
+  - enunciado: 'El estándar para pruebas y reporte de PAD (Presentation Attack Detection)
+      en sistemas biométricos es:'
+    respuestas:
+    - ISO/IEC 30107-3.
+    - NIST FRVT.
+    - ETSI TS 119 461.
+    - RFC 7311.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '81'
+  - enunciado: 'Los servicios de middleware de un clúster pueden ser proporcionados
+      por una o varias de las siguientes capas. Señale la capa INCORRECTA:'
+    respuestas:
+    - SSI Hardware.
+    - SSI a nivel de Red.
+    - SSI a nivel de Kernel del Sistema Operativo.
+    - SSI a nivel de Aplicación.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '52'
+  - enunciado: 'Señale la respuesta CORRECTA respecto a la Estrategia Nacional de
+      Inteligencia Artificial (ENIA):'
+    respuestas:
+    - Se estructura en torno a 5 ejes estratégicos y se encuentra alineada con las
+      políticas de la Unión Europea en el ámbito de la IA.
+    - Entre las medidas del Eje 3, orientado al desarrollo de plataformas de datos
+      e infraestructuras tecnológicas, se encuentra la creación de una red de Centros
+      de Operaciones de Ciberseguridad (SOC).
+    - Uno de sus 7 objetivos estratégicos es la proyección de la lengua española.
+    - Se enmarca en el Componente 15 del Plan de Recuperación, Transformación y Resiliencia,
+      con una inversión pública prevista de 1.200 millones de euros.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '70'
+  - enunciado: 'En el caso de una aplicación enriquecida de Internet (Rich Internet
+      Application), ¿dónde residen la capa de presentación y la capa de negocio?:'
+    respuestas:
+    - En el Business layer.
+    - En el Cliente, concretamente, en el plugin del browser.
+    - En el Data layer.
+    - En el Presentation layer.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '68'
+  - enunciado: 'En una red H.323, ¿qué entidad se encarga de proporcionar direcciones
+      de red a los dispositivos terminales?:'
+    respuestas:
+    - Terminal.
+    - Gateway.
+    - Gatekeeper.
+    - MCU (Multipoint Control Unit).
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '115'
+  - enunciado: '¿Qué tipos de token están establecidos en OAuth 2.0 (RFC 6749)?:'
+    respuestas:
+    - Token de acceso y token de actualización.
+    - Token de acceso, ID token y JWT autofirmados.
+    - Token Kerberos, token SAML y JSON Web Token (JWT).
+    - Token federado y token de portador.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '125'
+  - enunciado: 'Según en art. 113 de la Ley 11/2022, de 28 de junio, General de Telecomunicaciones,
+      la prescripción de:'
+    respuestas:
+    - Las infracciones muy graves prescribirán a los cinco años, las graves a los
+      tres años y las leves a los dos años.
+    - Las infracciones muy graves prescribirán a los cuatro años, las graves a los
+      dos años y las leves al año.
+    - Las infracciones muy graves prescribirán a los tres años, las graves a los dos
+      años y las leves al año.
+    - Las infracciones muy graves prescribirán a los dos años, las graves al año y
+      las leves a los 6 meses.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '129'
+  - enunciado: '¿Qué se entiende por "virtualización de bloque" en el contexto de
+      la tecnología de almacenamiento?:'
+    respuestas:
+    - La emulación de dispositivos de almacenamiento físico en entornos virtuales
+      para proporcionar a las máquinas virtuales un acceso directo a los discos duros.
+    - El proceso de crear copias de seguridad en tiempo real de los datos almacenados
+      en bloques en un entorno virtualizado.
+    - La creación de volúmenes virtuales que actúan como capa intermedia entre los
+      sistemas de almacenamiento y las máquinas virtuales.
+    - La técnica de encriptar los bloques de datos en el almacenamiento para mejorar
+      la seguridad de los datos en entornos virtuales.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '132'
+  - enunciado: 'Las fases básicas del protocolo TLS son:'
+    respuestas:
+    - Negociado de algoritmos, intercambio de claves con autenticación y cifrado simétrico
+      de los mensajes.
+    - Intercambio de certificados cliente y servidor, validación de certificados y
+      cifrado de mensajes con clave privada.
+    - Autenticación de cliente y servidor, establecimiento del túnel y cifrado de
+      los mensajes con protocolo ESP (Encapsulating Security Payload).
+    - Autenticación, generación del token y trasmisión, consumo del token.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '125'
+  - enunciado: 'De las siguientes afirmaciones sobre la tecnología Zigbee, elija la
+      opción INCORRECTA:'
+    respuestas:
+    - Usa topología en malla.
+    - Se basa en el estándar IEEE 802.15.4.
+    - Su consumo eléctrico es mayor que el estándar IEEE 802.15.1 (Bluetooth).
+    - Su objetivo son las aplicaciones que requieren comunicaciones seguras con baja
+      tasa de envío de datos y maximización de la vida útil de sus baterías.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '116'
+  - enunciado: 'En una red MPLS (Multiprotocol Label Switching), indique qué significa
+      LSR:'
+    respuestas:
+    - Camino que siguen por la red MPLS los paquetes que corresponden a un mismo trayecto.
+    - Conjunto de paquetes que pertenecen a un mismo flujo, de manera que entran en
+      la red MPLS por la misma interfaz, reciben la misma etiqueta y circulan por
+      un mismo trayecto.
+    - Nodo situado en el core de la red MPLS, que realiza el encaminamiento de alto
+      rendimiento de los paquetes basado en la conmutación por etiqueta de la cabecera
+      MPLS.
+    - Nodo situado en el límite de la red MPLS, que asigna la etiqueta MPLS a los
+      paquetes en función de su dirección de destino y QoS, para que sean encaminados
+      a través del camino virtual correspondiente.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '113'
+  - enunciado: 'Indique la afirmación FALSA en relación al modelo de ciclo de vida
+      de desarrollo de prototipado incremental:'
+    respuestas:
+    - Incorpora conceptos del Modelo en Cascada y del Modelo de Prototipos.
+    - Los sistemas se desarrollan más lentamente.
+    - El proyecto se desarrolla en capas.
+    - Los requisitos se conocen en su totalidad, pero su implementación se va dosificando
+      deliberadamente.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '86'
+  - enunciado: 'En el entorno de la protección de datos, se emplean las técnicas de
+      Pruebas de Conocimiento Cero o Nulo (ZKP, zero knowledge proof) con el fin de:'
+    respuestas:
+    - Acceder a datos personales sin necesidad de autenticarse.
+    - Minimizar y limitar el acceso a los datos personales.
+    - Intercambiar metadatos con un tercero confiable, en una aplicación Internet.
+    - Permitir el acceso a las aplicaciones a personas sin conocimientos previos.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '82'
+  - enunciado: '¿Qué mecanismos de comprobación de identidad establece la ley 6/2020
+      y su desarrollo en la Orden ETD/465/2021 para la emisión de certificados electrónicos
+      cualificados?:'
+    respuestas:
+    - Presencial, remota por vídeo o firma legitimada notarialmente.
+    - Exclusivamente presencial ante una oficina de registro autorizada.
+    - Presencial o mediante la firma del interesado, legitimada en presencia notarial.
+    - Presencial, mediante llamada telefónica, video llamada, zoom o similar.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '80'
+  - enunciado: 'En relación a los equipos de respuesta a incidentes de seguridad informática
+      (CSIRT), en lo relativo a las relaciones con los operadores de servicios esenciales,
+      ¿en qué casos es necesario que los operadores reporten los incidentes al CCN-CERT?:'
+    respuestas:
+    - Cuando el operador es una entidad del ámbito subjetivo de aplicación de la ley
+      40/2015.
+    - Cuando el operador es una entidad no incluida en el ámbito subjetivo de aplicación
+      de la ley 40/2015.
+    - En todos los casos, independientemente de la naturaleza del operador.
+    - En todos los casos, independientemente de la naturaleza del proveedor, siempre
+      que no sea necesario reportar al ESPDEF-CERT.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '127'
+  - enunciado: 'La gestión de la continuidad de negocio está normalizada por la Norma
+      Internacional:'
+    respuestas:
+    - ISO 22301:2019.
+    - ISO 22301:2018.
+    - ISO 27001:2013.
+    - ISO 22301:2014.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '128'
+  - enunciado: '¿Cuál es el portal agregador de servicios web con funcionalidad CMS,
+      de código abierto y licencia LGPL?:'
+    respuestas:
+    - HCL DX.
+    - IIS.
+    - JOnAS.
+    - Liferay.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '133'
+  - enunciado: '¿Qué protocolo de gestión de red introduce elementos de seguridad
+      entre gestor y agente?:'
+    respuestas:
+    - SNMPv1.
+    - SNMPv2.
+    - SNMPv3.
+    - SNMPv4.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '118'
+  - enunciado: 'En el modelo TMMI: ¿Cuál de las siguientes áreas de proceso corresponde
+      al nivel 4 de madurez?:'
+    respuestas:
+    - Medición de Pruebas.
+    - Pruebas no funcionales.
+    - Monitorización y Control de Pruebas.
+    - Control de Calidad.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '96'
+  - enunciado: '¿Cuál es la herramienta de borrado seguro incluida en el catálogo
+      de productos y servicios TIC, Guía CCN/STIC 105?:'
+    respuestas:
+    - Eraser DX.
+    - Olvido Windows.
+    - HDShredder.
+    - Olivia.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '82'
+  - enunciado: '¿Cuál es la máxima velocidad de datos alcanzable en el estándar de
+      CATV DOCSIS 3.1?:'
+    respuestas:
+    - 1 Gbps en bajada y 100 Mbps en subida.
+    - 10 Gbps en bajada y 1 Gbps en subida.
+    - 1 Gbps en bajada y 1 Gbps en subida.
+    - 100 Mbps en bajada y 1 Gbps en subida.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '121'
+  - enunciado: '¿Cuál es el estándar OASIS para el intercambio de mensajes sobre TCP
+      pensado para dispositivos de baja potencia en aplicaciones IoT?:'
+    respuestas:
+    - DDS.
+    - MQTT.
+    - CoAP.
+    - STOMP.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '117'
+  - enunciado: 'Como norma general, el órgano de contratación en el caso de expedientes
+      TIC de contratos basados en Acuerdo Marco será:'
+    respuestas:
+    - La Junta Consultiva de Contratación Administrativa (JCCA).
+    - Dirección General de Racionalización y Centralización de la Contratación (DGRCC).
+    - La mesa de contratación.
+    - La Secretaría General de Administración Digital (SGAD).
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '39'
+  - enunciado: '¿Qué metodología emplearía para el análisis de seguridad dinámico
+      de una aplicación móvil desarrollada para una Administración Pública?:'
+    respuestas:
+    - OWASP MASVS.
+    - Guía CCN-STIC 857.
+    - Guía CCN-STIC 496.
+    - NIST NVD.
+    respuesta_correcta: 1
+    anulada: true
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '126'
+  - enunciado: '¿Qué servicios hacen uso de la red TESTA-ng?:'
+    respuestas:
+    - eTEN y GEANT 2.
+    - Dublinet, EESSI y ECRIS.
+    - Europol, ISA 2 y IDABC.
+    - EUVISA y RMON.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '49'
+  - enunciado: 'Un integrador en estrella es una colección de conexiones punto a punto
+      en una secuencia de poliedros estrella. También se denomina:'
+    respuestas:
+    - Integración multidimensional.
+    - Integración punto a punto.
+    - Integración de espaguetis.
+    - Integración en silos.
+    respuesta_correcta: 3
+    anulada: true
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '28'
+  - enunciado: 'La pirámide de Robert Anthony es un modelo organizacional que cuenta
+      con:'
+    respuestas:
+    - 'Los tres niveles siguientes: dirección operativa, dirección media y alta dirección.'
+    - Dos niveles de dirección (alta dirección y dirección tácticA) y dos niveles
+      para el manejo de la información (trabajadores de los datos y trabajadores del
+      conocimiento).
+    - Dos niveles de dirección (alta dirección y dirección tácticA) y un nivel para
+      el manejo de la información (trabajadores de los datos y del conocimiento).
+    - 'Los tres niveles siguientes: dirección operativa, dirección media y dirección
+      de los trabajadores.'
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '29'
+  - enunciado: 'Señale cuál de las siguientes funciones NO corresponde a las Comisiones
+      Ministeriales de Administración Digital (CMAD), de acuerdo a lo que establece
+      el Real Decreto 806/2014, de 19 de septiembre, sobre organización e instrumentos
+      operativos de las tecnologías de la información y las comunicaciones en la Administración
+      General del Estado y sus Organismos Públicos:'
+    respuestas:
+    - Actuar como órgano de relación entre los departamentos ministeriales y sus organismos
+      adscritos y la Dirección de Tecnologías de la Información y las Comunicaciones
+      (DTIC), para asegurar la coordinación con los criterios y políticas definidas
+      por ésta.
+    - Impulsar la colaboración y cooperación con las comunidades autónomas y las entidades
+      locales para la puesta en marcha de servicios interadministrativos integrados
+      y la compartición de infraestructuras técnicas y los servicios comunes que permitan
+      la racionalización de los recursos TIC.
+    - Impulsar, ejecutar y supervisar, en el ámbito del departamento, el cumplimiento
+      de las directrices y el seguimiento de las pautas de actuación recogidas en
+      la Estrategia TIC de la Administración General del Estado y sus Organismos Públicos.
+    - Impulsar la digitalización de los servicios y procedimientos del departamento
+      con el fin de homogeneizarlos, simplificarlos, mejorar su calidad y facilidad
+      de uso, así como las prestaciones ofrecidas a los ciudadanos y empresas, optimizando
+      la utilización de los recursos TIC disponibles.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '30'
+  - enunciado: '¿Cuál de los siguientes es un Bus Externo Paralelo?:'
+    respuestas:
+    - ATA.
+    - USB.
+    - PCI Express.
+    - EISA.
+    respuesta_correcta: 1
+    anulada: true
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '54'
+  - enunciado: '¿Cuál de los siguientes NO se considera un principio guía de las arquitecturas
+      SOA?:'
+    respuestas:
+    - Seguridad.
+    - Reutilización.
+    - Interoperabilidad.
+    - Modularidad.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '57'
+  - enunciado: 'Supongamos que tenemos un archivo llamado "datos.txt" que contiene
+      una lista de nombres de personas, uno por línea. Queremos buscar todos los nombres
+      que contienen la letra "a" en el archivo, mostrarlos en la pantalla y guardarlos
+      en un nuevo archivo llamado "nombres_con_a.txt". ¿Cuál de las siguientes opciones
+      muestra la sintaxis correcta de la línea de comandos para lograr esto?:'
+    respuestas:
+    - cat datos.txt > grep "a" | tee nombres_con_a.txt.
+    - grep "a" datos.txt > nombres_con_a.txt.
+    - cat datos.txt | grep "a" > nombres_con_a.txt.
+    - grep "a" datos.txt | tee nombres_con_a.txt.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '60'
+  - enunciado: '¿Cuál de las siguientes capas del sistema operativo móvil Firefox
+      OS es la interfaz de usuario?:'
+    respuestas:
+    - Gonk.
+    - Gamma.
+    - Gecko.
+    - Gaia.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '62'
+  - enunciado: 'En el análisis conocido como DAFO (Debilidades, Amenazas, Fortalezas
+      y Oportunidades) en el ámbito de la planificación estratégica, señale cuál de
+      los siguientes conceptos correspondería a las Fortalezas:'
+    respuestas:
+    - Elementos o circunstancias externas favorables a la organización y que podrían
+      ser utilizadas por ésta para constituir ventajas competitivas.
+    - Elementos internos de la organización que constituyen una ventaja competitiva,
+      puntos fuertes o capacidades que le permiten sobresalir o explotar oportunidades.
+    - Aspectos en que la competencia de la organización sobresale respecto a ella
+      y que se deben afrontar mediante la explotación de sus debilidades.
+    - Elementos que definen los Factores Críticos de Éxito (FCE) para la organización
+      y serán la base principal para definir su estrategia.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '87'
+  - enunciado: '¿Cuál de estos tipos de lectura NO constituye un problema de interferencias
+      entre las diferentes transacciones?:'
+    respuestas:
+    - Lectura comprometida.
+    - Lectura no repetible.
+    - Lectura sucia.
+    - Lectura fantasma.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '63'
+  - enunciado: '¿Qué tipo de relaciones se pueden representar en un diagrama de despliegue?:'
+    respuestas:
+    - Relaciones de herencia entre clases.
+    - Relaciones de dependencia entre nodos de hardware.
+    - Relaciones de amistad entre objetos.
+    - Relaciones de agregación entre componentes de software.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '95'
+  - enunciado: '¿Cuál de las siguientes afirmaciones sobre los patrones de diseño
+      de software es CIERTA?:'
+    respuestas:
+    - Los patrones de diseño son soluciones específicas para problemas únicos en el
+      desarrollo de software.
+    - Los patrones de diseño son una técnica que solo se aplica en la capa de presentación.
+    - Los patrones de diseño son soluciones generales para problemas comunes en el
+      desarrollo de software.
+    - Los patrones de diseño se utilizan solo en proyectos pequeños.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '93'
+  - enunciado: '¿Cuál de estos protocolos de enrutamiento NO utiliza el algoritmo
+      por vector distancia?:'
+    respuestas:
+    - RIP.
+    - OSPF.
+    - IGRP.
+    - IPX.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '108'
+  - enunciado: 'La especificación 802.1Q de IEEE se utiliza para…:'
+    respuestas:
+    - Dotar a la red de mecanismos de control de acceso a la red.
+    - Priorización de tráfico y filtrado multicast dinámico.
+    - Permitir a múltiples redes virtuales compartir de forma transparente el mismo
+      medio físico.
+    - Ninguna de las anteriores.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '108'
+  - enunciado: '¿A qué generación móvil se corresponde la telefonía móvil multimedia
+      (banda estrechA) ?:'
+    respuestas:
+    - 2G.
+    - 2.5G.
+    - 3G.
+    - 3.5G.
+    respuesta_correcta: 2
+    anulada: true
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '123'
+  - enunciado: '¿Cuál de las siguientes etiquetas NO es una nueva incorporación de
+      HTML5?:'
+    respuestas:
+    - header.
+    - section.
+    - div.
+    - nav.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '77'
+  - enunciado: '¿Cuál de las siguientes NO es una herramienta de VPN?:'
+    respuestas:
+    - NordVPN.
+    - ExpressVPN.
+    - CitosVPN.
+    - PrivateVPN.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '108'
+  - enunciado: '¿Cuál es el estándar para el intercambio de correo entre dos hosts
+      TCP/IP que define SMTP como protocolo cliente/servidor?:'
+    respuestas:
+    - RFC 5322.
+    - RFC 5532.
+    - RFC 5321.
+    - RFC 2435.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '122'
+  - enunciado: 'Cual de las siguentes respuestas NO se corresponde con un servidor
+      de autoridad de certificación CA:'
+    respuestas:
+    - ENTRUST.
+    - AC MWS.
+    - SUN ONE.
+    - ISAS.
+    respuesta_correcta: 4
+    anulada: true
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '80'
+  - enunciado: '¿Cuál es un resultado común del uso de la técnica PERT (Técnica de
+      Evaluación y Revisión de Programas) en la estimación de esfuerzo?:'
+    respuestas:
+    - Determinación precisa de los costos del proyecto.
+    - Representación gráfica de las interdependencias entre tareas y su duración.
+    - Cuantificación de los puntos de función del sistema.
+    - Evaluación de la calidad del código fuente.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '36'
+  - enunciado: 'La transformación de entidades fuertes del modelo E/R al modelo relacional
+      consiste en:'
+    respuestas:
+    - Construir una tabla por cada clave que aparece en el modelo E/R, con el nombre
+      de la misma, y con los mismos atributos y clave que pasarán a ser columnas de
+      la tabla.
+    - Construir una tabla por cada atributo de cada entidad que aparece en el modelo
+      E/R, con el nombre de dicho atributo, y con la misma clave. El nombre de la
+      entidad pasará a ser una columna de la tabla.
+    - Construir una tabla por cada una de las entidades que aparecen en el modelo
+      E/R, que tengan el mismo nombre, y con los mismos atributos y clave que pasarán
+      a ser columnas de la tabla.
+    - Construir una tabla por cada una de las entidades que aparecen en el modelo
+      E/R, que tengan el mismo nombre, y con los mismos atributos y clave que pasarán
+      a ser filas de la tabla.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '88'
+  - enunciado: 'Siguiendo el estándar OWASP de verificación de la Seguridad en Aplicaciones,
+      cuál de estos factores de Protección General de Datos sólo es obligatorio en
+      el nivel 3:'
+    respuestas:
+    - Verificar que la aplicación evita que los datos sensibles se almacenen en balanceadores
+      de carga y caché de aplicaciones.
+    - Verificar que la aplicación minimiza el número de parámetros en una petición,
+      como parámetros ocultos, cookies y valores de encabezados.
+    - Verificar que los backups se almacenan de forma segura, que impidan el robo
+      o la corrupción de datos.
+    - 'Verificar que la aplicación pueda detectar un número de peticiones anormalmente
+      altos: por ejemplo, de IP’s, de usuarios: totales por hora o por día.'
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '126'
+  - enunciado: '¿Qué algoritmo de cifrado se utiliza para proteger los datos en unidades
+      cifradas con BitLocker?:'
+    respuestas:
+    - RSA.
+    - MD5.
+    - AES-XTS.
+    - SHA-256.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '61'
+  - enunciado: 'La Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo
+      de la Administración General del Estado, establece una serie de principios para
+      el ejercicio de alto cargo. ¿Cuál NO se encuentra entre los mismos?:'
+    respuestas:
+    - Integridad.
+    - Solidaridad.
+    - Austeridad.
+    - Transparencia.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '4'
+  - enunciado: 'Señale cuál de las siguientes NO es una medida del Plan de Digitalización
+      de las Administraciones Públicas 2021-2025:'
+    respuestas:
+    - Servicio de automatización inteligente.
+    - Democratización del acceso a las tecnologías emergentes.
+    - Transformación digital en materia de Empleo.
+    - Servicio de infraestructuras cloud.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '32'
+  - enunciado: '¿Cuál de las siguientes capas de iOS se encarga directamente de las
+      funcionalidades relacionadas con la interfaz de usuario?:'
+    respuestas:
+    - Capa del núcleo (Core OS).
+    - Capa de Servicios Principales (Core Services).
+    - Capa de Medios (MediA).
+    - Capa Cocoa Touch.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '62'
+  - enunciado: 'Indique cuál de las siguientes opciones corresponde a enfoques de
+      diseño de interfaces:'
+    respuestas:
+    - UX, UxD.
+    - UI, UX, IxD.
+    - UI, UX, IxD, GUI.
+    - UI, UX, GUI.
+    respuesta_correcta: 2
+    anulada: true
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '94'
+  - enunciado: 'El marco de referencia Cobit v5 está basado en 5 principios básicos
+      y en 7 catalizadores o "enablers" para lograr una adecuada gestión de las tecnologías
+      de la información en una organización. Señale cuál de los siguientes NO es un
+      catalizador, de acuerdo con el marco Cobit v5:'
+    respuestas:
+    - Relaciones de cooperación y coordinación.
+    - Servicios, Infraestructuras y Aplicaciones.
+    - Cultura, Ética y Comportamiento.
+    - Estructuras organizativas.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '106'
+  - enunciado: 'El nivel 3 de un DFD se corresponde con:'
+    respuestas:
+    - Diagrama de Subsistemas.
+    - Diagrama de Tiempos.
+    - Diagrama de Procesos.
+    - Diagrama de Subfunciones.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '90'
+  - enunciado: 'La ley 37/2007 de reutilización de la información del sector público
+      dispone, en su artículo 10, lo siguiente en cuanto al procedimiento de tramitación
+      de solicitudes de reutilización:'
+    respuestas:
+    - La resolución estimatoria de la solicitud supondrá la puesta a disposición del
+      documento en el mismo plazo previsto para resolver dicha solicitud.
+    - Si en el plazo máximo previsto para resolver y notificar no se hubiese dictado
+      resolución expresa, el solicitante podrá entender estimada su solicitud.
+    - Las resoluciones que tengan carácter estimatorio autorizarán en todo caso la
+      reutilización gratuita de los documentos.
+    - El órgano competente resolverá las solicitudes de reutilización en el plazo
+      máximo de veinte días desde su recepción, pudiéndose ampliar este plazo en otros
+      diez días cuando por el volumen y la complejidad de la información solicitada
+      resulte imposible cumplir el citado plazo.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '25'
+  - enunciado: '¿A qué siglas corresponde la siguiente definición: "Software de gestión
+      de dispositivos móviles y portátiles conectados a la red corporativa"?:'
+    respuestas:
+    - MDM (Mobile Device Management).
+    - MAM (Mobile Application Management).
+    - EMM (Enterprise Mobile Management).
+    - BYOD (Bring Your Own Device).
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '54'
+  - enunciado: 'Señale la diferencia principal entre un control ActiveX y un Applet
+      de Java:'
+    respuestas:
+    - Programación. Los applets de Java pueden ser escritos en la mayoría de lenguajes
+      existentes y ActiveX sólo en VBScript.
+    - Seguridad. ActiveX permite el acceso a los recursos locales y Java Applet no.
+    - Funcionalidad. ActiveX ofrece la posibilidad de agregar funcionalidades a páginas
+      web estáticas sin la necesidad de conexiones de servidor adicionales y los applets
+      de Java no lo permiten.
+    - Despliegue. Tanto los applets de Java con los controles ActiveX están soportados
+      e instalados por defecto en todos los navegadores.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '65'
+  - enunciado: '[CAMBIO DE RESPUESTA CORRECTA]  ¿Cuál de los siguientes NO es un framework
+      para el desarrollo de aplicaciones híbridas?:'
+    respuestas:
+    - Adobe PhoneGap.
+    - Ionic.
+    - Onsen UI.
+    - Zen.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '124'
+  - enunciado: 'Seleccione la opción FALSA de las siguientes afirmaciones:'
+    respuestas:
+    - UTP - cable sin apantallar.
+    - STP - Cable con cada uno de los pares están aislados con cobertura de malla
+      de aluminio.
+    - FTP - cable UTP en el que al conjunto de pares se le rodea por una cubierta
+      o lámina de aluminio.
+    - BS/UTP - cable UTP en el que al conjunto de pares se le rodea de una pantalla
+      global de aluminio y una trenza de cobre recubriéndola.
+    respuesta_correcta: 2
+    anulada: true
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '108'
+  - enunciado: '¿Cuál de las siguientes no es un principio de diseño de una Estructura
+      de Descomposición del Trabajo (EDT)?:'
+    respuestas:
+    - Elemento terminal.
+    - Elementos mutuamente exclusivos.
+    - Esquema aleatorio.
+    - Regla del 100%.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '95'
+  - enunciado: 'En los proyectos de desarrollo:'
+    respuestas:
+    - Los proyectos ágiles, a diferencia de los tradicionales, tienen limitaciones
+      de presupuesto, pero no de tiempo.
+    - Los proyectos tradicionales, a diferencia de los ágiles, tienen limitaciones
+      de tiempo y presupuesto.
+    - Los proyectos tradicionales, a diferencia de los ágiles, tienen limitaciones
+      de tiempo, pero no de presupuesto.
+    - Tanto los proyectos ágiles, como los tradicionales, tienen limitaciones de tiempo
+      y presupuesto.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '37'
+  - enunciado: 'ODBC (Open Database Connectivity) es:'
+    respuestas:
+    - 'Una interfaz de acceso universal a datos: BBDD, ficheros, Exchange, Directorios…'
+    - Una arquitectura de objetos para simplificar el uso de OleDB.
+    - Una interfaz para lenguajes tipo C++ de alto nivel.
+    - Una interfaz común de acceso a múltiples Bases de Datos (BBDD) usando SQL.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '64'
+  - enunciado: 'Los métodos que propone Métrica v3 para determinar la viabilidad económica
+      de un proyecto son:'
+    respuestas:
+    - Pay-back, Break-even.
+    - Rentabilidad media, Flujo de caja.
+    - Plazo de Retorno de la Inversión y Valor Actual Neto (VAN).
+    - Tasa Interna de Retorno (TIR), Return on Investment (ROI).
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '95'
+  - enunciado: 'Para un proyecto que requiere un desembolso inicial de 1M€ y que proporciona
+      un cobro de 1,2 M € al final del tercer año, tomando como coste de capital el
+      actual índice de referencia €STR del BCE del 3,63%, podemos afirmar que:'
+    respuestas:
+    - El retorno del proyecto no es suficiente para cubrir el coste de capital.
+    - Tiene un payback de 2 años.
+    - Tiene un VAN de 0,2 M €.
+    - Tiene una TIR de 6,26%.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '95'
+  - enunciado: 'El artículo 1 de la Directiva 2009/24/CE establece que el objeto de
+      la protección son los programas de ordenador. Señale la respuesta INCORRECTA:'
+    respuestas:
+    - Los Estados miembros protegerán mediante derechos de autor los programas de
+      ordenador como obras literarias.
+    - Las ideas y principios en los que se base cualquiera de los elementos de un
+      programa de ordenador, incluidos los que sirven de fundamento a sus interfaces,
+      estarán protegidos mediante derechos de autor.
+    - El programa de ordenador quedará protegido si fuere original en el sentido de
+      que sea una creación intelectual propia de su autor.
+    - Las disposiciones de la presente Directiva se aplicarán asimismo a los programas
+      creados con anterioridad al 1 de enero de 1993.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '43'
+  - enunciado: '¿Cuál de estas herramientas NO se utiliza para evaluar la accesibilidad?:'
+    respuestas:
+    - TAW.
+    - WAVE.
+    - Web Accesibility Toolbar.
+    - Winium.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '44'
+  - enunciado: '¿Cuál es el propósito de la cláusula GROUP BY en SQL?:'
+    respuestas:
+    - Agrupar registros en función de una condición específica.
+    - Agregar registros duplicados en una tabla.
+    - Agrupar filas en función de los valores de una o más columnas.
+    - Ordenar los resultados de una consulta de manera ascendente.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '64'
+  - enunciado: 'Las Pautas de Accesibilidad al Contenido en la Web (WCAG 2.0) están
+      organizadas en cuatro principios que conforman los conceptos fundamentales sobre
+      los que se asienta la accesibilidad: Perceptibilidad, Operabilidad, Comprensibilidad
+      y Robustez. Dentro de cada principio se encuentran las pautas de accesibilidad.
+      ¿Dentro de qué principio se encuadra la pauta "Tiempo suficiente"?:'
+    respuestas:
+    - Perceptibilidad.
+    - Operabilidad.
+    - Comprensibilidad.
+    - Robustez.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '44'
+  - enunciado: '¿Qué tecnología de almacenamiento se utiliza comúnmente para proporcionar
+      alta disponibilidad y redundancia de datos en sistemas críticos?:'
+    respuestas:
+    - Almacenamiento en caché.
+    - RAID (Redundant Array of Independent Disks).
+    - Almacenamiento de bloques.
+    - Unidades de cinta magnética.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '56'
+  - enunciado: '¿Qué organismo es responsable de supervisar la aplicación del Reglamento
+      General de Protección de Datos (GDPR) en la Unión Europea?:'
+    respuestas:
+    - Comisión Europea.
+    - Supervisor Europeo de Protección de Datos (SEPD).
+    - Comité Europeo de Protección de Datos (CEPD).
+    - Consejo Económico y Social Europeo (CESE).
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '27'
+  - enunciado: 'El RD 1112/2018 sobre accesibilidad de los sitios web y aplicaciones
+      para dispositivos móviles del Sector Público aplica a los contenidos siguientes.
+      Señale la respueta INCORRECTA:'
+    respuestas:
+    - Información textual y no textual.
+    - Documentos y formularios que se puedan descargar.
+    - Formas de interacción entre la persona interesada y el sitio web o aplicación
+      para dispositivos móviles.
+    - Contenido multimedia en directo (que se emite en directo) de base temporal.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '16'
+  - enunciado: 'De acuerdo al Esquema Nacional de Seguridad, ¿cuál de las siguientes
+      afirmaciones es CIERTA?:'
+    respuestas:
+    - La integridad es la propiedad o característica consistente en que el activo
+      de información ha sido alterado de manera no autorizada.
+    - La integridad es la propiedad o característica consistente en que el activo
+      de información no ha sido alterado de manera no autorizada.
+    - La integridad es la propiedad o característica consistente en que la degradación
+      que sufre el activo no supera el riesgo asumible.
+    - La integridad es la propiedad o característica consistente en que el activo
+      de información no puede ser accesible por terceros sin autorización.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '48'
+  - enunciado: 'Señale cuál de las siguientes afirmaciones es INCORRECTA respecto
+      a la Carpeta Ciudadana de la Administración General del Estado:'
+    respuestas:
+    - Almacena datos personales y de expedientes del ciudadano, que accede a su información
+      sin necesidad de registro previo en la aplicación, a través del sistema Cl@ve.
+    - Ofrece la consulta de la Historia Clínica Digital del Sistema Nacional de Salud,
+      permitiendo visualizar de manera unificada la información procedente de los
+      diferentes servicios sanitarios de las Comunidades Autónomas en un único interfaz
+      y permitiendo compartir datos sanitarios en el caso de desplazamientos.
+    - Permite la consulta de los expedientes registrados con diferentes organismos
+      de las administraciones públicas, tanto los relacionados con la Administración
+      General del Estado, como los de las Comunidades Autónomas adheridas.
+    - Permite realizar envíos de escritos y solicitudes a través del REG (Registro
+      Electrónico General), que podrán dirigirse a las diferentes administraciones
+      públicas de los diferentes niveles administrativos.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '49'
+  - enunciado: 'El protocolo MESI es un protocolo de coherencia de caché y coherencia
+      de memoria y sus siglas significan:'
+    respuestas:
+    - Modified, Exclusive, Shared, Invalid.
+    - Memory Extended Shared Interface.
+    - Memory Exclusive Soft Index.
+    - Multi Enviroment Shared Interface.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '56'
+  - enunciado: '¿Cuál es el propósito principal de la etiqueta <object> en HTML?:'
+    respuestas:
+    - Mostrar imágenes en línea en una página web.
+    - Reproducir contenido multimedia como videos y audio.
+    - Insertar contenido dinámico generado por JavaScript.
+    - Incrustar objetos externos, como applets o contenido interactivo.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '77'
+  - enunciado: 'Con respecto a PHP y HTML:'
+    respuestas:
+    - Las páginas de PHP contienen HTML con código incrustado PHP, que permiten entrar
+      y salir del "modo PHP". El código PHP es ejecutado en el servidor y no se mostrará
+      al navegador cliente.
+    - Las páginas de PHP contienen HTML con código incrustado PHP, que permiten entrar
+      y salir del "modo PHP". El código PHP es ejecutado en el navegador cliente.
+    - Las páginas HTML contienen código incrustado PHP entre las etiquetas especiales
+      de comienzo y final <?html y ?>, que permiten entrar y salir del "modo PHP".
+      El código HTML es ejecutado en el servidor y no se mostrará al navegador cliente.
+    - Las páginas HTML contienen código incrustado PHP entre las etiquetas especiales
+      de comienzo y final <?html y ?>, que permiten entrar y salir del "modo PHP".
+      El código HTML es ejecutado en el navegador cliente.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '68'
+  - enunciado: '¿En qué artículo del Esquema Nacional de Interoperabilidad se establece
+      la preferencia de la licencia EUPL como la adecuada para liberar software cuya
+      propiedad intelectual recaiga en la Administración Española?:'
+    respuestas:
+    - Artículo 10.
+    - Artículo 16.
+    - Artículo 20.
+    - Artículo 21.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '45'
+  - enunciado: 'En el campo del aprendizaje automático o "Machine Learning", indique
+      la respuesta CORRECTA respecto a las técnicas de aprendizaje por refuerzo:'
+    respuestas:
+    - Para este tipo de aprendizaje, se utilizan conjuntos de datos etiquetados y
+      no etiquetados, con el fin de reducir el coste de obtención de los conjuntos
+      de datos iniciales.
+    - El aprendizaje se basa en la interacción del agente con un entorno en el que
+      el agente realiza acciones por las que obtiene recompensas o penalizaciones
+      en base a las cuales aprende la estrategia más adecuada.
+    - Requieren de conjuntos de datos históricos mayores que los necesarios para el
+      resto de técnicas de aprendizaje.
+    - Se aplican fundamentalmente para el agrupamiento de conjuntos de datos o "clustering".
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '70'
+  - enunciado: 'Indique cuál de los siguientes NO es un framework de Deep Learning:'
+    respuestas:
+    - PyTorch.
+    - DeepMind.
+    - Caffe.
+    - MXNet.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '70'
+  - enunciado: 'Indique cuál de las siguientes es una de las medidas que incluye la
+      Estrategia Nacional de inteligencia Artificial (ENIA) en relación con la ética
+      en la IA:'
+    respuestas:
+    - Medida 7. Creación del Consejo Asesor de IA, dependiente del Consejo Consultivo
+      de Administración Digital.
+    - Medida 15. Impulso de la nueva Ley Nacional para la IA, alineada con el Libro
+      Blanco sobre IA de la Comisión Europea.
+    - Medida 6. Reforzar la protección del derecho a la protección de datos de las
+      personas en el uso de la IA.
+    - Medida 29. Puesta en marcha de un modelo de gobernanza nacional de la ética
+      en la IA.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '70'
+  - enunciado: 'Selenium es una librería de Python que se usa en ciencia de datos
+      para:'
+    respuestas:
+    - Web Scraping.
+    - Minería de Datos.
+    - Es un algoritimo de IA.
+    - Es una librería Data Translator.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '97'
+  - enunciado: 'En el área de la ciencia de datos, la regresión lineal se usa fundamentalmente
+      en los procesos de:'
+    respuestas:
+    - Preprocesamiento de la información.
+    - Validación.
+    - Modelado.
+    - ETL.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '76'
+  - enunciado: 'IMS, SCORM y AICC se desarrollaron como estándares para plataformas
+      de e-learnigN para una de las siguientes funciones:'
+    respuestas:
+    - Acceder a contenidos.
+    - Crear contenidos.
+    - Recopilar contenidos.
+    - Conectar contenidos.
+    respuesta_correcta: 3
+    anulada: true
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '73'
+  - enunciado: 'En los sistema de información geográfica, ¿cuál es la característica
+      más importante del modelo de datos vectorial frente al ráster?:'
+    respuestas:
+    - Que tiene su origen en las técnicas de teledetección, a diferencia del modelo
+      de datos ráster.
+    - La capacidad de gestión topológica de sus elementos, que permite una mayor riqueza
+      y capacidad de representación de la realidad espacial, que a su vez se traduce
+      en una mayor complejidad frente al modelo ráster.
+    - El modelo de datos vectorial no permite la gestión topológica de sus elementos,
+      a diferencia del ráster que sí la permite.
+    - El modelo de datos vectorial es más adecuado para problemas que admiten algún
+      tipo de formulación analítica, mientras que los de tipo ráster se presenta a
+      problemas de gestión que requieran modelización del terreno mediante polígonos,
+      redes, etc.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '74'
+  - enunciado: 'En el ámbito de la tecnología WDM (Wavelength Division Multiplexing
+      o Multiplexación por división de la longitud de onda), señale cuál de las siguientes
+      afirmaciones es INCORRECTA:'
+    respuestas:
+    - DWDM proporciona un mayor número de canales ópticos que CWDM con una mayor dispersión
+      cromática de los mismos.
+    - CWDM permite menores distancias de transmisión, con la contrapartida de un mayor
+      espectro óptico y costes menores de los equipos.
+    - El uso de amplificadores de fibra dopada con erbio (EDFA) permite aumentar la
+      distancia de transmisión de los sistemas DWDM.
+    - DWDM opera habitualmente en las bandas C y L, con espaciados entre canales desde
+      los 50GHz.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '108'
+  - enunciado: 'El Sistema de Información Catastral (SIC):'
+    respuestas:
+    - No es un sistema de información geográfica.
+    - Sólo almacena datos geográficos y descripciones a nivel urbano, pero no a nivel
+      rústico.
+    - Es un sistema de información geográfica que almacena cartografía vectorial y
+      al que se puede acceder a través de la Oficina Virtual del Catastro.
+    - No almacena cartografía vectorial.
+    respuesta_correcta: 3
+    anulada: true
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '74'
+  - enunciado: 'Un data lake o lago de datos es un repositorio centralizado que permite
+      almacenar, compartir, gobernar y descubrir todos los datos estructurados y no
+      estructurados de una organización a cualquier escala. ¿Cuál de las siguientes
+      opciones corresponden a componentes asociados a un Data Lake?:'
+    respuestas:
+    - Extracción, almacenamiento y diseño de los datos.
+    - Ingesta, almacenamiento y seguridad de los datos.
+    - Transformación, almacenamiento y seguridad de los datos.
+    - Carga, almacenamiento y distribución de los datos.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '75'
+  - enunciado: 'En el contexto de los vocabularios y ontologías, "http://www.w3.org/ns/dcat#"
+      y "dcat" representan respectivamente:'
+    respuestas:
+    - La URL del W3C y su dirección corta.
+    - La URL del Marco de Descripción de Recursos (RDF) y su alias.
+    - El prefijo del vocabulario DCAT y su espacio de nombres.
+    - El espacio de nombres para los términos DCAT y su correspondiente prefijo.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '77'
+  - enunciado: 'Según la Guía de aplicación de la Norma Técnica de Interoperabilidad
+      de Reutilización de recursos de información, la preparación y representación
+      de la información reutilizable consiste en los siguientes pasos:'
+    respuestas:
+    - Identificar los recursos de información, describir los identificadores de recursos
+      Linked Data, y representar la información en el formato adecuado.
+    - Identificar los recursos de información, describir la información reutilizable
+      y representar la información en el formato adecuado.
+    - Identificar los recursos de información, enumerar los conjuntos de datos, y
+      representar la información en el formato adecuado.
+    - Identificar los recursos de información, describir los metadatos asociados a
+      los datos y representar la información en el formato adecuado.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '46'
+  - enunciado: '¿Qué ley establece la obligatoriedad del uso de la factura electrónica
+      en el marco de la contratación con el sector público estatal?:'
+    respuestas:
+    - Ley 34/2002, de servicios de la sociedad de la información y comercio electrónico.
+    - Ley 56/2007, de medidas de impulso de la sociedad de la información.
+    - Ley 9/2014, general de telecomunicaciones.
+    - Ley 59/2003, de firma electrónica.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '78'
+  - enunciado: '¿Qué longitud de onda se utiliza en el canal ascendente en una red
+      GPON?:'
+    respuestas:
+    - 1490nm.
+    - 1520nm.
+    - 1425nm.
+    - 1310nm.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '108'
+  - enunciado: '¿Cuál de las siguientes afirmaciones es CIERTA acerca de los distintos
+      formatos de empaquetado de aplicaciones en Java?:'
+    respuestas:
+    - El formato JAR se utiliza únicamente para empaquetar bibliotecas y dependencias.
+    - El formato WAR se utiliza principalmente para empaquetar aplicaciones web en
+      Java.
+    - El formato EAR se utiliza exclusivamente para empaquetar aplicaciones Java para
+      dispositivos móviles.
+    - El formato JRE es un formato de empaquetado especializado para ejecutables de
+      Java.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '67'
+  - enunciado: '¿Cuál de las siguientes afirmaciones sobre procedimientos de cifrado
+      en flujo es CIERTA?:'
+    respuestas:
+    - Forman parte de los criptosistemas de clave pública.
+    - Forman parte de los criptosistemas de cifrado en bloque.
+    - Forman parte de los criptosistemas de clave secreta.
+    - Ninguna de las afirmaciones anteriores.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: true
+    convocatoria_tema: '2022'
+    tema: '79'
+  - enunciado: 'En el caso de que en el interior de un edificio sea imposible acceder
+      al mismo y a cada una de las viviendas mediante fibra óptica, ¿cómo se podría
+      suministrar una conexión simétrica de hasta 100Mbps?:'
+    respuestas:
+    - 'Mediante una arquitectura HFC: FTTC/FTTCab + estándar DOCSIS3.0 con cable coaxial
+      hasta el usuario.'
+    - FTTH.
+    - 'Mediante una arquitectura mixta: FTTC/FTTCab + ADSL hasta el usuario.'
+    - Todas las opciones son correctas.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: true
+    convocatoria_tema: '2022'
+    tema: '121'
+  - enunciado: '¿Cuál de los siguientes conceptos es fundamental para el funcionamiento
+      de los procedimientos de cifrado en flujo?:'
+    respuestas:
+    - Difusión.
+    - Secreto perfecto.
+    - Aleatoriedad.
+    - Pseudoaleatoriedad.
+    respuesta_correcta: 4
+    anulada: true
+    reserva: true
+    convocatoria_tema: '2022'
+    tema: '79'
+  - enunciado: 'La Guía de Evaluación del Gobierno, Gestión y Gestión de la Calidad
+      del Dato se realiza en base a la definición dada para esos procesos en las especificaciones:'
+    respuestas:
+    - ISO/IEC 330078, ISO/IEC 330079, ISO/IEC 330080.
+    - UNE 0077:2023, UNE 0078:2023, UNE 0079:2023.
+    - UNE 0076:2023, UNE 0077:2023, UNE 0078:2023.
+    - ISO/IEC 330076, ISO/IEC 330077, ISO/IEC 330078.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: true
+    convocatoria_tema: '2022'
+    tema: '76'
+  - enunciado: 'Señale cuál de las siguientes opciones NO es un gestor de contenidos:'
+    respuestas:
+    - Wordpress.
+    - Joomla.
+    - Drupal.
+    - RSS.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: true
+    convocatoria_tema: '2022'
+    tema: '133'
+- numero_parte: 2
+  titulo_parte: 'General'
+  preguntas:
+  - enunciado: 'Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+      Común de las Administraciones Públicas, cuál de los siguientes actos y resoluciones
+      SÍ pone fin a la vía administrativa:'
+    respuestas:
+    - Los acuerdos, pactos, convenios o contratos que no tengan la consideración de
+      finalizadores del procedimiento.
+    - La resolución administrativa de los procedimientos sancionadores.
+    - Las resoluciones de los recursos de reposición.
+    - La resolución administrativa de los procedimientos de responsabilidad patrimonial,
+      cualquiera que fuese el tipo de relación, pública o privada, de que derive.
+    respuesta_correcta: 4
+    anulada: true
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '38'
+  - enunciado: 'De acuerdo con lo establecido en el artículo 158 de la Ley 9/2017,
+      de 8 de noviembre, de Contratos del Sector Público, en el procedimiento abierto
+      la adjudicación de los contratos se producirá:'
+    respuestas:
+    - En el plazo máximo de 20 días desde la apertura de proposiciones.
+    - En el plazo máximo de quince días a contar desde el día siguiente a la apertura
+      de proposiciones, cuando el único criterio para seleccionar al adjudicatario
+      sea el precio.
+    - En el plazo máximo de tres meses desde la apertura de proposiciones, cuando
+      para la adjudicación del contrato deban tenerse en cuenta una pluralidad de
+      criterios.
+    - En un plazo máximo de un mes, a contar desde la apertura de proposiciones.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '11'
+  - enunciado: 'De conformidad con lo previsto en el artículo 43 de la Ley 47/2003,
+      de 26 de noviembre, General Presupuestaria, los gastos de personal se especificarán:'
+    respuestas:
+    - A nivel de concepto.
+    - A nivel de artículo.
+    - A nivel de capítulo.
+    - Al nivel que corresponda conforme a su concreta clasificación económica.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '11'
+  - enunciado: '¿Cuál de las siguientes opciones es el subsector más importante dentro
+      del sector de la construcción en términos de valor nominal del sector?:'
+    respuestas:
+    - Edificación no residencial.
+    - Edificación residencial.
+    - Obra civil.
+    - Rehabilitación.
+    respuesta_correcta: 2
+    anulada: true
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '15'
+  - enunciado: 'De acuerdo con lo establecido en el artículo 65 la Ley 39/2015, de
+      1 de octubre, las AAPP podrán iniciar de oficio la tramitación de un procedimiento
+      de responsabilidad patrimonial:'
+    respuestas:
+    - En cualquier momento, una vez producido el hecho o el acto que motive la indemnización
+      o se manifieste su efecto lesivo, previo dictamen favorable del Consejo de Estado
+      u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere.
+    - Transcurridos dos años desde que se produjo el hecho o el acto que motive la
+      indemnización o se manifieste su efecto lesivo.
+    - Antes de cumplirse un año de la producción del hecho o el acto que motive la
+      indemnización o se manifieste su efecto lesivo.
+    - En ningún caso, dado que no cabe el inicio de oficio de los procedimientos de
+      responsabilidad patrimonial.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '8'
+  - enunciado: 'Señale la afirmación CORRECTA con respecto a la relación entre la
+      Renta Nacional y el Producto Interior Bruto (PIB):'
+    respuestas:
+    - El PIB y la Renta Nacional son conceptos económicos intercambiables para medir
+      la actividad económica de un país.
+    - La Renta Nacional incluye la suma de todos los ingresos de los factores de producción
+      nacionales, mientras que el PIB incluye el valor total de los bienes y servicios
+      finales producidos en un país.
+    - La Renta Nacional incluye los ingresos generados por todos los factores de producción
+      dentro de un país, mientras que el PIB incluye los bienes y servicios generados
+      a nivel nacional por los residentes del país.
+    - El PIB es un indicador más amplio que la Renta Nacional y refleja tanto los
+      ingresos generados dentro del país como las transferencias internacionales.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '14'
+  - enunciado: 'De acuerdo con las proyecciones de población del INE, ¿qué porcentaje
+      de la población española se estima que será mayor de 65 años en la década 2050?:'
+    respuestas:
+    - 25%.
+    - 30%.
+    - 35%.
+    - 40%.
+    respuesta_correcta: 2
+    anulada: true
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '16'
+  - enunciado: 'De acuerdo con lo establecido en la Ley 47/2003, de 26 de noviembre,
+      General Presupuestaria, los créditos correspondientes a los gastos financieros
+      del Presupuesto forman parte de:'
+    respuestas:
+    - Las operaciones de capital.
+    - Las operaciones corrientes.
+    - Las operaciones financieras.
+    - El fondo de contingencia.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '11'
+  - enunciado: 'La duración de los convenios, de conformidad con lo establecido en
+      el artículo 49 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector
+      Público:'
+    respuestas:
+    - No podrá ser superior a cinco años.
+    - No podrá ser superior a dos años.
+    - No podrá ser superior a cuatro años.
+    - No podrá ser superior a cuatro años, salvo que normativamente se prevea un plazo
+      superior.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '4'
+  - enunciado: 'Según la teoría de Max Weber, ¿cuáles son las dimensiones que determinan
+      la estructura social?:'
+    respuestas:
+    - Poder, riqueza y estatus.
+    - Clase, ideología y dominación.
+    - Burocracia, autoridad y dominación.
+    - Tradición, legalidad y carisma.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '16'
+  - enunciado: 'De conformidad con lo establecido en el artículo 70 de la Ley Orgánica
+      3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los
+      derechos digitales, el régimen sancionador previsto en el Título IX de la citada
+      norma NO será de aplicación:'
+    respuestas:
+    - Al encargado del tratamiento.
+    - Al responsable del tratamiento.
+    - Al Delegado de Protección de Datos.
+    - A las entidades de certificación.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '27'
+  - enunciado: 'Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector
+      Público, cuál de las siguientes afirmaciones relativas a las encomiendas de
+      gestión es CORRECTA:'
+    respuestas:
+    - La realización de actividades de carácter material o técnico de la competencia
+      de los órganos administrativos o de las Entidades de Derecho Público podrá ser
+      encomendada a otros órganos o Entidades de Derecho Público de la misma o de
+      distinta Administración, aunque entre las competencias de estos últimos no estén
+      esas actividades.
+    - La Entidad u órgano encomendado tendrá la condición de encargado del tratamiento
+      de los datos de carácter personal a los que pudiera tener acceso en ejecución
+      de la encomienda de gestión.
+    - La encomienda de gestión supone cesión de la titularidad de la competencia y
+      de los elementos sustantivos de su ejercicio.
+    - Las encomiendas de gestión podrán tener por objeto prestaciones propias de los
+      contratos regulados en la legislación de contratos del sector público.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '4'
+  - enunciado: 'Señale cuál de las siguientes es una medida prioritaria de la Estrategia
+      España Nación Emprendedora:'
+    respuestas:
+    - Programa internacional de atracción del talento de las mujeres.
+    - Atracción de sedes de empresas a España.
+    - Impulso a la transferencia de conocimiento.
+    - Plan Nacional de Emprendimiento Social.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '26'
+  - enunciado: 'Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+      Común de las Administraciones Públicas, el plazo máximo en el que debe notificarse
+      la resolución expresa de un procedimiento:'
+    respuestas:
+    - Será de 6 meses, en todo caso.
+    - Será de 3 meses, en todo caso.
+    - Será el fijado por la norma reguladora del correspondiente procedimiento, y
+      no podrá exceder de 6 meses salvo que una norma con rango de Ley establezca
+      uno mayor o así venga previsto en el Derecho de la Unión Europea.
+    - Será el fijado por la norma reguladora del correspondiente procedimiento, y
+      no podrá exceder de 3 meses salvo que una norma con rango de Ley establezca
+      uno mayor o así venga previsto en el Derecho de la Unión Europea.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '8'
+  - enunciado: 'Según el art. 2 de la Ley 10/2021, de 9 de julio, de trabajo a distancia,
+      ¿qué se entenderá por aquel trabajo a distancia que se lleva a cabo mediante
+      el uso exclusivo o prevalente de medios y sistemas informáticos, telemáticos
+      y de telecomunicación?:'
+    respuestas:
+    - Trabajo on-line.
+    - Trabajo a distancia.
+    - Teletrabajo.
+    - Trabajo presencial.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '17'
+  - enunciado: 'Señale cuál de las siguientes opciones recoge correctamente uno de
+      los objetivos de la estrategia España Digital 2025:'
+    respuestas:
+    - Conectividad digital adecuada para el 90% de la población con cobertura 100
+      Mbps.
+    - Despliegue de la tecnología 5G con el 100% del espectro radioeléctrico preparado
+      para 5G.
+    - Reforzar las competencias digitales para que el 90% de las personas cuenten
+      con competencias digitales básicas.
+    - Impulsar la digitalización de las Administraciones Públicas con el 75% de los
+      servicios públicos disponibles en app móvil.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '19'
+  - enunciado: 'Es competencia de la Dirección General de Gobernanza Pública:'
+    respuestas:
+    - El fomento de la cultura evaluadora de las políticas públicas en el ámbito de
+      la Administración General del Estado.
+    - El análisis y evaluación de las estructuras organizativas de la Administración
+      General del Estado y sus organismos y entidades de derecho públicos.
+    - La formulación y difusión de metodologías de evaluación en el ámbito de la Administración
+      General del Estado.
+    - La elaboración de la propuesta del Plan de Evaluaciones Estratégicas del Gobierno.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '20'
+  - enunciado: 'Conforme a la Ley 19/2013, de 9 de diciembre, de transparencia, acceso
+      a la información pública y buen gobierno, frente a toda resolución expresa o
+      presunta en materia de acceso a la información pública podrá interponerse:'
+    respuestas:
+    - Recurso de alzada, con carácter potestativo y previo a su impugnación en vía
+      contencioso-administrativa.
+    - Recurso de reposición, con carácter potestativo y previo a su impugnación en
+      vía contencioso-administrativa.
+    - Reclamación ante el Consejo de Transparencia y Buen Gobierno, con carácter potestativo
+      y previo a su impugnación en vía contencioso-administrativa.
+    - Reclamación ante el Consejo de Transparencia y Buen Gobierno, con carácter obligatorio
+      y previo a su impugnación en vía contencioso-administrativa.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '25'
+  - enunciado: '¿Cuál de los siguientes modelos de calidad fue desarrollado en el
+      sector público de Europa e inspirado en el modelo EFQM?:'
+    respuestas:
+    - Modelo TQM (Total Quality Management).
+    - Modelo CAF (Common Assessment Framework).
+    - Modelo Six Sigma.
+    - Modelo Lean Manufacturing.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '102'
+  - enunciado: 'Según la teoría de los estilos de liderazgo de Blake y Mouton, ¿cuál
+      de los siguientes estilos se caracteriza por un alto interés tanto en las personas
+      como en las tareas?:'
+    respuestas:
+    - Autocrático.
+    - Democrático.
+    - Laissez-faire.
+    - Transaccional.
+    respuesta_correcta: 2
+    anulada: true
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '21'
+  - enunciado: 'ANULADA21.  De acuerdo con el Real Decreto Legislativo 5/2015, de
+      30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto
+      Básico del Empleado Público, por razones expresamente justificadas de necesidad
+      y urgencia podrá nombrarse funcionarios interinos con carácter temporal para
+      el desempeño de funciones propias de funcionarios de carrera, cuando se dé alguna
+      de las circunstancias del artículo 10.1. Señale la circunstancia CORRECTA:'
+    respuestas:
+    - La sustitución transitoria de los titulares, por plazo máximo de nueve meses,
+      dentro de un periodo de dieciocho meses.
+    - La existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios
+      de carrera, por un máximo de dos años, en los términos previstos en el artículo
+      10.4 del Real Decreto Legislativo 5/2015, de 30 de octubre.
+    - El exceso o acumulación de tareas por plazo máximo de seis meses, dentro de
+      un periodo de doce meses.
+    - La ejecución de programas de carácter temporal, que no podrán tener una duración
+      superior a tres años, ampliable hasta doce meses más por las leyes de Función
+      Pública que se dicten en desarrollo del Real Decreto Legislativo 5/2015, de
+      30 de octubre.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '24'
+  - enunciado: 'Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso
+      a la información pública y buen Gobierno, a cuál de los siguientes organismos
+      o entidades NO se le aplican las disposiciones del capítulo III del Título I,
+      en materia de derecho de acceso a la información:'
+    respuestas:
+    - Los partidos políticos, organizaciones sindicales y organizaciones empresariales.
+    - El Banco de España, en relación con sus actividades sujetas a Derecho Administrativo.
+    - Las entidades de Derecho Público con personalidad jurídica propia, vinculadas
+      a cualquiera de las Administraciones Públicas o dependientes de ellas, incluidas
+      las Universidades públicas.
+    - Las entidades gestoras y los servicios comunes de la Seguridad Social, así como
+      las mutuas de accidentes de trabajo y enfermedades profesionales colaboradoras
+      de la Seguridad Social.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '25'
+  - enunciado: 'De acuerdo con el Informe sobre el Índice de la Economía y la Sociedad
+      Digitales (DESI) 2022 de la Comisión Europea, ¿en qué dimensión de la Economía
+      y Sociedad digitales España es líder ocupando por segundo año consecutivo el
+      tercer puesto en la UE?:'
+    respuestas:
+    - Capital humano.
+    - Conectividad.
+    - Integración de la tecnología digital.
+    - Servicios públicos digitales.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '18'
+  - enunciado: 'Según el artículo 53.2 de la Constitución Española, las libertades
+      y derechos constitucionales susceptibles de recurso de amparo son:'
+    respuestas:
+    - Los reconocidos en el Capítulo Segundo del Título primero de la Constitución.
+    - Los reconocidos en la Sección Primera del Capítulo Segundo del Título primero
+      de la Constitución.
+    - Los reconocidos en los artículos 14 a 29 y la objeción de conciencia del artículo
+      30.2 de la Constitución.
+    - Los reconocidos en los artículos 14 a 30 de la Constitución.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '1'
+  - enunciado: 'El artículo 85 de la Constitución Española establece que las disposiciones
+      del Gobierno que contengan legislación delegada recibirán el título de:'
+    respuestas:
+    - Decretos Leyes.
+    - Decretos Legislativos.
+    - Reales Decretos.
+    - Disposiciones reglamentarias.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '7'
+  - enunciado: 'Según el artículo 53 de la Constitución Española, el Tribunal Supremo
+      es el órgano jurisdiccional superior en todos los órdenes, salvo:'
+    respuestas:
+    - Lo dispuesto en materia de jurisdicción contable.
+    - Lo dispuesto en materia de garantías constitucionales.
+    - Lo dispuesto en materia de incompatibilidades.
+    - Lo dispuesto en materia de responsabilidad patrimonial.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '2'
+  - enunciado: 'El Anexo de la Ley 18/2011, de 5 de julio, reguladora del uso de las
+      tecnologías de la información y la comunicación en la Administración de Justicia,
+      define la interoperabilidad organizativa como:'
+    respuestas:
+    - Aquella dimensión de la interoperabilidad relativa a la capacidad de los sistemas
+      de información, y por ende de los procedimientos a los que éstos dan soporte,
+      de compartir datos y posibilitar el intercambio de información y conocimiento
+      entre ellos.
+    - Aquella dimensión de la interoperabilidad relativa a la capacidad de las entidades
+      y de los procesos a través de los cuales llevan a cabo sus actividades para
+      interpretar de forma automática y reutilizable información intercambiada en
+      el ámbito o de carácter judicial.
+    - Aquella dimensión de la interoperabilidad relativa a la capacidad de los sistemas
+      de información de llevar a cabo sus actividades de interconexión integración
+      de datos y servicios, presentación de la información, accesibilidad y seguridad.
+    - Aquella dimensión de la interoperabilidad relativa a la capacidad de las entidades
+      y de los procesos a través de los cuales llevan a cabo sus actividades para
+      colaborar con el objeto de alcanzar logros mutuamente acordados relativos a
+      los servicios que prestan.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '2'
+  - enunciado: 'Según el artículo 149.1.18ª de la Constitución Española, el Estado
+      tiene competencia exclusiva sobre:'
+    respuestas:
+    - Las bases del sistema de responsabilidad de las Administraciones públicas, sin
+      perjuicio de las especialidades derivadas de la organización propia de las Comunidades
+      Autónomas.
+    - Las bases del procedimiento administrativo, garantizando en todo caso a los
+      administrados un tratamiento común ante las Administraciones Públicas.
+    - Las bases del régimen jurídico de los contratos y concesiones administrativas
+      sin perjuicio de las specialidades derivadas de la organización propia de las
+      Comunidades Autónomas.
+    - Las bases del régimen jurídico de las Administraciones públicas y del régimen
+      estatutario de sus funcionarios que, en todo caso, garantizarán a los administrados
+      un tratamiento común ante ellas.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '10'
+  - enunciado: 'En relación con los Directores Generales, señale cuál de las siguientes
+      afirmaciones es INCORRECTA:'
+    respuestas:
+    - Serán nombrados entre funcionarios de carrera del Estado, de las Comunidades
+      Autónomas o de las Entidades locales, pertenecientes al Subgrupo A1 salvo que
+      el Real Decreto de estructura permita que, en atención a las características
+      específicas de las funciones de la Dirección General, su titular no reúna dicha
+      condición de funcionario.
+    - Serán nombrados y separados por Real Decreto del Consejo de Ministros, a propuesta
+      del titular del Departamento o del Presidente del Gobierno.
+    - Deberán reunir los requisitos de idoneidad establecidos en la Ley 50/1997, de
+      27 de noviembre, del Gobierno.
+    - Se consideran altos cargos a los efectos de la Ley 3/2015, de 30 de marzo.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '6'
+  - enunciado: 'Una Directiva Europea se caracteriza por ser:'
+    respuestas:
+    - Una fuente de derecho subsidiario que no necesita transponerse al derecho nacional.
+    - Una fuente de derecho primario que no necesita transponerse al derecho nacional.
+    - Una fuente de derecho derivado que necesita transponerse al derecho nacional.
+    - Una fuente de derecho derivado que no necesita transponerse al derecho nacional.
+    respuesta_correcta: 3
+    anulada: false
+    reserva: false
+    convocatoria_tema: '2022'
+    tema: '5'
+  - enunciado: 'Los datos del Padrón Municipal pueden cederse a las Administraciones
+      públicas que lo soliciten en las siguientes condiciones:'
+    respuestas:
+    - Solamente previo consentimiento del afectado.
+    - Sin consentimiento previo del afectado y exclusivamente para garantizar el ejercicio
+      del derecho al sufragio.
+    - Previo consentimiento previo del afectado y solamente cuando los datos solicitados
+      sean necesarios para el ejercicio por la Administración solicitante de sus respectivas
+      competencias.
+    - Sin consentimiento previo del afectado, solamente cuando los datos solicitados
+      sean necesarios para el ejercicio por la Administración solicitante de sus respectivas
+      competencias y exclusivamente para asuntos en los que la residencia o el domicilio
+      sean datos relevantes.
+    respuesta_correcta: 4
+    anulada: false
+    reserva: true
+    convocatoria_tema: '2022'
+    tema: '8'
+  - enunciado: '¿Cuál de las siguientes opciones es un principio rector de la actuación
+      de los poderes públicos en materia de garantía integral de la libertad sexual
+      de acuerdo con la Ley Orgánica 10/2022?:'
+    respuestas:
+    - Atención a la discriminación interseccional y múltiple.
+    - Efectividad del principio de igualdad.
+    - Mejora de la calidad de vida de las víctimas de violencias sexuales.
+    - Protección jurídica de las víctimas.
+    respuesta_correcta: 1
+    anulada: false
+    reserva: true
+    convocatoria_tema: '2022'
+    tema: '16'
+  - enunciado: 'De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento
+      Administrativo Común de las Administraciones Públicas, el procedimiento de revisión
+      de disposiciones administrativas en los supuestos previstos en el artículo 47.2
+      de dicha ley por parte de las Administraciones Públicas se puede iniciar:'
+    respuestas:
+    - En cualquier momento, de oficio o a solicitud de interesado, y previo dictamen
+      favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad
+      Autónoma si lo hubiere.
+    - En cualquier momento, de oficio, y previo dictamen favorable del Consejo de
+      Estado u órgano consultivo equivalente de la Comunidad Autónoma si lo hubiere.
+    - En cualquier momento, a solicitud de interesado, y previo dictamen favorable
+      del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma
+      si lo hubiere.
+    - En cualquier momento, de oficio, y sin necesidad de recabar dictamen favorable
+      del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma
+      si lo hubiere.
+    respuesta_correcta: 2
+    anulada: false
+    reserva: true
+    convocatoria_tema: '2022'
+    tema: '8'

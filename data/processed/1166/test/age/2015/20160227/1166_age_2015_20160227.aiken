@@ -1,95 +1,95 @@
-1. ¿Cuál de los siguientes NO es un objetivo del Plan de Transformación Digital de la AGE?
+1. [TEMA="2022."] ¿Cuál de los siguientes NO es un objetivo del Plan de Transformación Digital de la AGE?
 a) Consolidar el tejido productivo nacional apoyando el efectivo despliegue de la Sociedad de la Información.
 b) Conseguir una mayor eficiencia en los servicios TIC comunes de la Administración.
 c) Implantar una gestión corporativa inteligente de la información y los datos.
 d) Adoptar una estrategia corporativa de seguridad y usabilidad.
 ANSWER: A
 
-2. Los medios y servicios compartidos, establecidos en el Real Decreto 806/2014 dentro del modelo de gobernanza en el ámbito de las tecnologías de la información y las comunicaciones de la Administración General del Estado, son tales que:
+2. [TEMA="2022."] Los medios y servicios compartidos, establecidos en el Real Decreto 806/2014 dentro del modelo de gobernanza en el ámbito de las tecnologías de la información y las comunicaciones de la Administración General del Estado, son tales que:
 a) Su declaración presupone que el servicio se encuentra en producción, listo para la adhesión de las diferentes unidades departamentales.
 b) Dado su carácter obligatorio y sustitutivo, no se permite acordar excepciones por razones económicas, técnicas o de oportunidad sobrevenidas.
 c) Su declaración establece la habilitación para el desarrollo de las medidas técnicas, organizativas, presupuestarias y normativas.
 d) Su provisión se realiza directa y exclusivamente por medio de la Dirección de Tecnologías de la Información y Comunicaciones.
 ANSWER: C
 
-3. La estrategia de comunicación de un nuevo proyecto estratégico TIC NO debe:
+3. [TEMA="2022."] La estrategia de comunicación de un nuevo proyecto estratégico TIC NO debe:
 a) Posponerse a la puesta en producción del proyecto sin incidencias significativas.
 b) Presentar prototipos que muestren la evolución del desarrollo ya realizado.
 c) Diseñar una campaña de difusión y promoción del proyecto.
 d) Asegurar la implicación de representantes de todas las unidades afectadas.
 ANSWER: A
 
-4. En el lenguaje de modelado UML :
+4. [TEMA="2022."] En el lenguaje de modelado UML:
 a) Los diagramas de secuencia y colaboración son usados para modelar el comportamiento del sistema, pudiendo usarse para modelar un caso de uso, una clase, o un método complicado.
 b) Los diagramas de actividad son usados para modelar la configuración de los elementos de procesado en tiempo de ejecución.
 c) Los diagramas de componentes son usados para modelar la estructura del software, incluyendo las dependencias entre los componentes de software.
 d) Los diagramas de implementación son usados para modelar interacciones entre objetos de diseño en el sistema.
 ANSWER: C
 
-5. Un wireframe es:
+5. [TEMA="2022."] Un wireframe es:
 a) Un marco de referencia para el diseño y despliegue de redes WiFi.
 b) Un marco de referencia para el diseño y despliegue de redes WiMAX.
 c) Un modelo que permite evaluar el impacto de las nuevas tecnologías en la mejora de la calidad de vida durante la puesta en marcha de una ciudad inteligente (smart city).
 d) Una interfaz visual que representa la estructura visual de un sitio web y la relación entre sus páginas.
 ANSWER: D
 
-6. Señale cuál de los siguientes NO es uno de los principios de COBIT v5:
+6. [TEMA="2022."] Señale cuál de los siguientes NO es uno de los principios de COBIT v5:
 a) Satisfacer las necesidades de las partes interesadas.
 b) Cubrir las necesidades del departamento de tecnologías de la información.
 c) Habilitar un enfoque holístico.
 d) Separar el gobierno de la gestión.
 ANSWER: B
 
-7. ¿Cuál de los siguientes procesos de MÉTRICA Versión 3 no está dentro del ámbito de la norma ISO 12207 de procesos de ciclo de vida del software?
+7. [TEMA="2022."] ¿Cuál de los siguientes procesos de MÉTRICA Versión 3 no está dentro del ámbito de la norma ISO 12207 de procesos de ciclo de vida del software?
 a) Planificación de Sistemas de Información
 b) Desarrollo de Sistemas de Información
 c) Construcción de Sistemas de Información
 d) Ninguno de los anteriores, ya que los tres están cubiertos por la norma ISO 12207
 ANSWER: A
 
-8. ¿Cuál de las siguientes asociaciones de protocolos y niveles OSI es correcta?
+8. [TEMA="2022."] ¿Cuál de las siguientes asociaciones de protocolos y niveles OSI es correcta?
 a) Nivel 7 - MPLS.
 b) Nivel 3 - RARP.
 c) Nivel 2 - HDLC.
 d) Nivel 1 – CSMA/CD.
 ANSWER: C
 
-9. ¿Cuál de las siguientes NO es una función de la Dirección de Tecnologías de las Información y Comunicaciones?
+9. [TEMA="2022."] ¿Cuál de las siguientes NO es una función de la Dirección de Tecnologías de las Información y Comunicaciones?
 a) Establecer los mecanismos que aseguren un adecuado mantenimiento del censo de activos TIC.
 b) El estudio y la implementación de modelos para incentivar la compartición y reutilización de las infraestructuras y aplicaciones sectoriales, y promover el desarrollo de aplicaciones bajo dicho modelo.
 c) La supervisión y coordinación del registro de convenios del sector público estatal, de acuerdo con la información que deberán suministrar los diferentes departamentos ministeriales y demás organismos públicos suscriptores de los mismos.
 d) El desarrollo, impulso e implantación de sistemas tecnológicos de apoyo para la gestión de recursos humanos, incluidos los sistemas del Registro Central de Personal.
 ANSWER: C
 
-10. Con respecto a los entornos de integración continua, indique cuál de las siguientes afirmaciones es cierta:
+10. [TEMA="2022."] Con respecto a los entornos de integración continua, indique cuál de las siguientes afirmaciones es cierta:
 a) Jenkins no dispone de la funcionalidad de extenderse mediante plugins.
 b) SonarQube utiliza herramientas de análisis estático de código que permiten obtener métricas para mejorar la calidad del código.
 c) El fichero POM empleado en Maven no siempre es un fichero XML.
 d) Jenkins es un software de integración continua bajo licencia Oracle.
 ANSWER: B
 
-11. El servicio mediante el cual se localiza un terminal móvil dentro de alguna de las N células gestionadas coordinadamente en una zona de cobertura se denomina:
+11. [TEMA="2022."] El servicio mediante el cual se localiza un terminal móvil dentro de alguna de las N células gestionadas coordinadamente en una zona de cobertura se denomina:
 a) Paging
 b) Roaming
 c) Handover
 d) Trunking
 ANSWER: A
 
-12. Nada más arrancar el servidor de aplicaciones, usted intenta acceder a su aplicación y se produce un error de memoria. En ese momento, sospecha que el error se produce porque está utilizando unas librerías de terceros de gran tamaño. ¿Qué tipo de error debería estar dándose para corroborar su hipótesis?
+12. [TEMA="2022."] Nada más arrancar el servidor de aplicaciones, usted intenta acceder a su aplicación y se produce un error de memoria. En ese momento, sospecha que el error se produce porque está utilizando unas librerías de terceros de gran tamaño. ¿Qué tipo de error debería estar dándose para corroborar su hipótesis?
 a) java.lang.OutOfMemoryError: Java heap space
 b) java.lang.OutOfMemoryError: PermGen space
 c) java.lang.OutOfMemoryError: Requested array size exceeds VM limit
 d) java.lang.OutOfMemoryError: request <size> bytes for <reason>. Out of swap space
 ANSWER: B
 
-13. Indique cuál de las siguientes proposiciones es cierta:
+13. [TEMA="2022."] Indique cuál de las siguientes proposiciones es cierta:
 a) AngularJS es un framework de JavaScript de código abierto que sigue el patrón de diseño MVC.
 b) PrimeFaces y RichFaces son librerías que extienden el framework .NET de Microsoft.
 c) PrimeFaces es una extensión de AngularJS que permite la integración de componentes RichFaces.
 d) El framework Spring es compatible con el uso del ORM Hibernate, pero es incompatible con el uso de Java Server Faces en la capa de presentación.
 ANSWER: A
 
-14. [ANULADA] JNDI se usa para el acceso a:
+14. [ANULADA] [TEMA="2022."] JNDI se usa para el acceso a:
 a) Datos de ficheros
 b) Sistemas gestores de bases de datos
 c) Directorios de nombres
@@ -97,217 +97,217 @@ d) Colas de mensajería
 ANSWER: C
 ANULADA
 
-15. Señale la respuesta correcta:
+15. [TEMA="2022."] Señale la respuesta correcta:
 a) La norma ISO 9004 está compuesta por las normas ISO 9000:2005, ISO 9002:2008 e ISO 9004:2009.
 b) La norma ISO 9004:2009 se refiere a la gestión para el éxito sostenido de una organización, con un enfoque de gestión de la calidad.
 c) La norma ISO 9004:2009 se refiere a los principios y vocabulario de los sistemas de gestión de calidad.
 d) La norma ISO 9002:2008 se refiere a los requisitos de los sistemas de gestión de calidad.
 ANSWER: B
 
-16. Si una aplicación web desplegada en una JVM utiliza un servlet para generar páginas web de forma dinámica, dicho servlet no implementa la interfaz SingleThreadModel, y en un momento determinado se encuentra recibiendo múltiples peticiones de clientes de forma concurrente, ¿cuántos objetos de dicha clase estarán cargados en la memoria de la JVM?
+16. [TEMA="2022."] Si una aplicación web desplegada en una JVM utiliza un servlet para generar páginas web de forma dinámica, dicho servlet no implementa la interfaz SingleThreadModel, y en un momento determinado se encuentra recibiendo múltiples peticiones de clientes de forma concurrente, ¿cuántos objetos de dicha clase estarán cargados en la memoria de la JVM?
 a) 0
 b) 1
 c) Tantos como peticiones concurrentes tenga.
 d) Tantos como le permita la memoria de la JVM.
 ANSWER: B
 
-17. De acuerdo con la Ley 25/2007, de 18 de octubre, de conservación de datos de comunicaciones electrónicas y de redes públicas de comunicación:
+17. [TEMA="2022."] De acuerdo con la Ley 25/2007, de 18 de octubre, de conservación de datos de comunicaciones electrónicas y de redes públicas de comunicación:
 a) Deben conservarse los datos que revelen el contenido de la comunicación en virtud de lo establecido en la citada Ley.
 b) La obligación de conservación de datos cesa a los tres años desde la fecha en que se haya producido la comunicación.
 c) Los datos conservados de conformidad con lo dispuesto en la citada Ley pueden ser cedidos para los fines que en la misma se determinan previa autorización administrativa.
 d) Son sujetos obligados los operadores que presten servicios de comunicaciones electrónicas disponibles al público o exploten redes públicas de comunicaciones.
 ANSWER: D
 
-18. De acuerdo con el Reglamento por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos, aprobado por Real Decreto 1671/2009, de 6 de noviembre, señale la respuesta correcta:
+18. [TEMA="2022."] De acuerdo con el Reglamento por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos, aprobado por Real Decreto 1671/2009, de 6 de noviembre, señale la respuesta correcta:
 a) Los documentos electrónicos deben conservarse por un período mínimo de 6 meses desde la fecha de emisión.
 b) Los documentos electrónicos deben conservarse por un período mínimo de 12 meses desde la fecha de emisión.
 c) Los documentos electrónicos deben conservarse por un período mínimo de 6 meses desde la fecha de notificación.
 d) Los documentos electrónicos deben conservarse por el período mínimo que determine cada órgano administrativo de acuerdo con el procedimiento administrativo de que se trate.
 ANSWER: D
 
-19. Indique en qué capa del modelo OSI se establece la encriptación:
+19. [TEMA="2022."] Indique en qué capa del modelo OSI se establece la encriptación:
 a) Aplicación
 b) Sesión
 c) Presentación
 d) Transporte
 ANSWER: C
 
-20. En el sistema de Identificación, Autenticación y Firma Electrónica común para todo el Sector Público Administrativo Estatal (cl@ve):
+20. [TEMA="2022."] En el sistema de Identificación, Autenticación y Firma Electrónica común para todo el Sector Público Administrativo Estatal (cl@ve):
 a) La Dirección de Tecnologías de la Información y las Comunicaciones es el proveedor único de servicios de verificación de la identidad.
 b) Sus destinatarios son exclusivamente ciudadanos españoles.
 c) Su ámbito de aplicación podrá extenderse a otras Administraciones Públicas mediante la formalización del oportuno convenio.
 d) No se requiere registro previo de usuarios, ni consentimiento del usuario ya registrado en otros sistemas previos de identificación, autenticación y firma.
 ANSWER: C
 
-21. Con respecto al ámbito objetivo de aplicación de la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público:
+21. [TEMA="2022."] Con respecto al ámbito objetivo de aplicación de la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público:
 a) Abarca el intercambio de documentos entre Administraciones y organismos del sector público en el ejercicio de las funciones públicas que tengan atribuidas.
 b) Será aplicable incluso sobre los documentos que obran en las Administraciones y organismos del sector público para finalidades ajenas a sus funciones de servicio público.
 c) No afecta a la existencia de derechos de propiedad intelectual de las Administraciones y organismos del sector público ni a su posesión por éstos.
 d) Fija la prevalencia del derecho fundamental a la protección de datos de carácter personal, aún cuando se apliquen medidas de disociación de datos.
 ANSWER: C
 
-22. En ITIL v3, ¿cuál de los siguientes procesos forma parte del Diseño del Servicio?
+22. [TEMA="2022."] En ITIL v3, ¿cuál de los siguientes procesos forma parte del Diseño del Servicio?
 a) Gestión de la disponibilidad
 b) Gestión de la demanda
 c) Gestión de entregas
 d) Gestión de la configuración
 ANSWER: A
 
-23. La composición inicial del Comité Ejecutivo de la Comisión de Estrategia TIC, fijada por la disposición adicional quinta del Real Decreto 806/2014, incluye, entre otros, a:
+23. [TEMA="2022."] La composición inicial del Comité Ejecutivo de la Comisión de Estrategia TIC, fijada por la disposición adicional quinta del Real Decreto 806/2014, incluye, entre otros, a:
 a) Los responsables de las unidades ministeriales de tecnologías de la información y las comunicaciones.
 b) La Inspección General del Ministerio de Hacienda y Administraciones Públicas.
 c) El titular de la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información.
 d) Representantes de las empresas del sector TIC nacional.
 ANSWER: B
 
-24. ¿Cuál de los siguientes lenguajes propone el W3C para consultar datos en formato RDF?
+24. [TEMA="2022."] ¿Cuál de los siguientes lenguajes propone el W3C para consultar datos en formato RDF?
 a) SPARQL
 b) UnQL
 c) XQUERY
 d) RQL
 ANSWER: A
 
-25. De acuerdo con la Ley 9/2014, de 9 de mayo, General de Telecomunicaciones, una de las funciones de La Comisión Nacional de los Mercados y la Competencia es:
+25. [TEMA="2022."] De acuerdo con la Ley 9/2014, de 9 de mayo, General de Telecomunicaciones, una de las funciones de La Comisión Nacional de los Mercados y la Competencia es:
 a) Gestionar en período voluntario las tasas en materia de telecomunicaciones a que se refiere la presente Ley.
 b) Proponer al Gobierno la política a seguir para facilitar el desarrollo y la evolución de las obligaciones de servicio público.
 c) Gestionar el Registro de Operadores.
 d) Establecer el procedimiento para cuantificar los beneficios no monetarios obtenidos por los operadores encargados de la prestación del servicio universal.
 ANSWER: D
 
-26. ¿Mediante qué tipo de objetos se implementa el acceso a los recursos gestionados con la tecnología JMX?
+26. [TEMA="2022."] ¿Mediante qué tipo de objetos se implementa el acceso a los recursos gestionados con la tecnología JMX?
 a) SessionBean
 b) JavaBean
 c) MBeans
 d) MessageDrivenBean
 ANSWER: C
 
-27. Usted, como directivo TIC de la AGE, decide crear un portal web, con una dirección electrónica nueva, con el objetivo de informar al ciudadano sobre determinados aspectos relacionados con su unidad. ¿Cuál de los siguientes tipos de certificado utilizaría para identificar a los servidores de su portal informativo?
+27. [TEMA="2022."] Usted, como directivo TIC de la AGE, decide crear un portal web, con una dirección electrónica nueva, con el objetivo de informar al ciudadano sobre determinados aspectos relacionados con su unidad. ¿Cuál de los siguientes tipos de certificado utilizaría para identificar a los servidores de su portal informativo?
 a) Sello electrónico
 b) Sede electrónica
 c) Servidor seguro (SSL/TLS)
 d) Empleado público
 ANSWER: C
 
-28. La Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos, NO estableció como derecho de los ciudadanos, el derecho:
+28. [TEMA="2022."] La Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos, NO estableció como derecho de los ciudadanos, el derecho:
 a) A la igualdad en el acceso electrónico a los servicios de las Administraciones Públicas.
 b) A obtener copias electrónicas de los documentos electrónicos que formen parte de procedimientos en los que tengan la condición de interesado.
 c) A la calidad de los servicios públicos prestados por medios electrónicos.
 d) A la preferencia en la tramitación de los procedimientos presentados electrónicamente.
 ANSWER: D
 
-29. En UNIX, la llamada “FORK”:
+29. [TEMA="2022."] En UNIX, la llamada “FORK”:
 a) Controla el tiempo de ejecución de un proceso.
 b) Envía una señal al proceso especificado.
 c) Crea una copia del proceso que hace la llamada.
 d) Elimina el mapa de memoria del proceso que hace la llamada.
 ANSWER: C
 
-30. De acuerdo con el artículo 62 de la Ley 9/2014, de 9 de mayo, General de Telecomunicaciones, señale la respuesta correcta:
+30. [TEMA="2022."] De acuerdo con el artículo 62 de la Ley 9/2014, de 9 de mayo, General de Telecomunicaciones, señale la respuesta correcta:
 a) El uso del dominio público radioeléctrico sólo puede ser de dos tipos: especial o privativo.
 b) El uso común del dominio público radioeléctrico precisa de título habilitante.
 c) El uso privativo del dominio público radioeléctrico es el que se realiza mediante la explotación en exclusiva, o por un número limitado de usuarios, de determinadas frecuencias en un mismo ámbito físico de aplicación.
 d) El uso privativo del dominio público radioeléctrico es el que se lleve a cabo de las bandas de frecuencias habilitadas para su explotación de forma compartida, sin limitación de número de operadores o usuarios y con las condiciones técnicas y para los servicios que se establezcan en cada caso.
 ANSWER: C
 
-31. El sistema operativo OS X El Capitán incluye un conjunto de servicios de red para compartir archivos entre Mac y PC, ¿cuál es el protocolo por defecto que emplea OS X El Capitán?
+31. [TEMA="2022."] El sistema operativo OS X El Capitán incluye un conjunto de servicios de red para compartir archivos entre Mac y PC, ¿cuál es el protocolo por defecto que emplea OS X El Capitán?
 a) SMB3
 b) AFP
 c) NFS
 d) FTP
 ANSWER: A
 
-32. ¿Qué es MongoDB?
+32. [TEMA="2022."] ¿Qué es MongoDB?
 a) Una herramienta Object Relational Mapping (ORM) para facilitar el desarrollo.
 b) Una base de datos de código abierto de documentos tipo JSON.
 c) Un sistema gestor de base de datos relacional.
 d) Una base de datos jerárquica de relaciones encadenadas.
 ANSWER: B
 
-33. El artículo 16 del Esquema Nacional de Interoperabilidad establece las condiciones de licenciamiento aplicables en el ámbito de la reutilización y transferencia de tecnología, ¿cuál de las siguientes licencias recomienda expresamente aplicar, sin perjuicio de otras licencias que garanticen los derechos expuestos en el mencionado artículo?
+33. [TEMA="2022."] El artículo 16 del Esquema Nacional de Interoperabilidad establece las condiciones de licenciamiento aplicables en el ámbito de la reutilización y transferencia de tecnología, ¿cuál de las siguientes licencias recomienda expresamente aplicar, sin perjuicio de otras licencias que garanticen los derechos expuestos en el mencionado artículo?
 a) ASF-AL (Apache License 2.0)
 b) EUPL (European Union Public License)
 c) LGPL (Lesser General Public License)
 d) MIT(MIT License)
 ANSWER: B
 
-34. Respecto al desarrollo empleando tecnología Microsoft, ¿cuál de las siguientes afirmaciones es correcta?
+34. [TEMA="2022."] Respecto al desarrollo empleando tecnología Microsoft, ¿cuál de las siguientes afirmaciones es correcta?
 a) WINAPI (Windows API) permite un acceso a alto nivel del sistema, directamente usable en cualquier lenguaje y entorno de programación.
 b) El framework .NET se compone de una biblioteca de clases denominada FCL (Framework Class Library) y del entorno común de ejecución CLR (Common Language Runtime).
 c) En .NET el resultado de la compilación de las aplicaciones es un módulo ensamblado en formato de fichero PE32 o PE32+ (Windows portable executable) directamente ejecutable sobre el hardware.
 d) Los compiladores para CLR producen código FL (Final Language) denominado código administrado.
 ANSWER: B
 
-35. ¿Cuáles de los siguientes mecanismos no existe específicamente como caché de código PHP?
+35. [TEMA="2022."] ¿Cuáles de los siguientes mecanismos no existe específicamente como caché de código PHP?
 a) Memcached
 b) OpCache
 c) WinCache Extension for PHP
 d) Alternative PHP Cache
 ANSWER: A
 
-36. ¿Qué es Java Web Start?
+36. [TEMA="2022."] ¿Qué es Java Web Start?
 a) Un motor para la ejecución de Java Serlvets y JavaServer Pages.
 b) Una interfaz de programación para entornos de ventanas en Java.
 c) Una tecnología de compiladores empleada por Java.
 d) Una tecnología que permite descargar y ejecutar aplicaciones Java.
 ANSWER: D
 
-37. ¿Cuál es la interfaz estándar de programación Java para invocar a métodos nativos escritos en otros lenguajes como C o C++?
+37. [TEMA="2022."] ¿Cuál es la interfaz estándar de programación Java para invocar a métodos nativos escritos en otros lenguajes como C o C++?
 a) JAXP
 b) JNI
 c) JNDI
 d) JDBC
 ANSWER: B
 
-38. Según el proyecto GNU, ¿cuál de las siguientes NO puede ser considerada una libertad esencial del software libre?
+38. [TEMA="2022."] Según el proyecto GNU, ¿cuál de las siguientes NO puede ser considerada una libertad esencial del software libre?
 a) La libertad de ejecutar el programa como se desee, con cualquier propósito.
 b) La libertad de estudiar cómo funciona el programa, y modificarlo para que tenga la funcionalidad deseada.
 c) La libertad de redistribuir copias para ayudar al prójimo.
 d) La libertad de distribuir a terceros versiones modificadas siempre que no tengan uso comercial.
 ANSWER: D
 
-39. LAMP es el acrónimo usado para describir un sistema de infraestructura de internet aplicable a la pila:
+39. [TEMA="2022."] LAMP es el acrónimo usado para describir un sistema de infraestructura de internet aplicable a la pila:
 a) Linux, Ant, MySQL/MariaDB y PJava
 b) Linux, Apache, Microsoft SQLServer y Perl, PHP, o Python
 c) Linux, Ant, MongoDB y Perl, PHP, o Python
 d) Linux, Apache, MySQL/MariaDB y Perl, PHP, o Python
 ANSWER: D
 
-40. ¿Cuál de las siguientes respuestas NO es un servicio definido por el Open Geospatial Consortium (OGC)?
+40. [TEMA="2022."] ¿Cuál de las siguientes respuestas NO es un servicio definido por el Open Geospatial Consortium (OGC)?
 a) WMS sirve mapas de forma dinámica presentando la información como imágenes digitales.
 b) WMTS permite la visualización de mapas a través de teselas (tiles) de imágenes.
 c) WRS permite la consulta de colecciones de mapas raster.
 d) WFS permite la consulta y descarga de datos vectoriales.
 ANSWER: C
 
-41. ¿Cuál de los siguientes NO es un gestor de contenidos?
+41. [TEMA="2022."] ¿Cuál de los siguientes NO es un gestor de contenidos?
 a) Drupal
 b) Cassandra
 c) Wordpress
 d) OpenCMS
 ANSWER: B
 
-42. En cuanto al análisis DAFO:
+42. [TEMA="2022."] En cuanto al análisis DAFO:
 a) Considera detallada y exclusivamente factores internos.
 b) Es una técnica aplicable dentro de la Planificación de Sistemas de Información.
 c) Considera detallada y exclusivamente factores externos.
 d) Se obtiene como resultado final del proceso de Planificación Estratégica.
 ANSWER: B
 
-43. En relación con BPEL, ¿cuál de las siguientes afirmaciones es incorrecta?
+43. [TEMA="2022."] En relación con BPEL, ¿cuál de las siguientes afirmaciones es incorrecta?
 a) Es un lenguaje basado en XML para la definición y ejecución de procesos de negocio utilizando Servicios Web.
 b) Es un lenguaje de orquestación estandarizado por OASIS.
 c) BPEL proporciona manejadores (handlers) que permiten tratar situaciones excepcionales o inesperadas.
 d) En BPEL se utiliza WS-CDL en lugar de WSDL.
 ANSWER: D
 
-44. ¿Cuál de los siguientes principios NO está recogido en el Manifiesto por el Desarrollo Ágil del Software?
+44. [TEMA="2022."] ¿Cuál de los siguientes principios NO está recogido en el Manifiesto por el Desarrollo Ágil del Software?
 a) La simplicidad, o el arte de maximizar la cantidad de trabajo no realizado, es esencial.
 b) Aceptamos que los requisitos cambien, incluso en etapas tardías del desarrollo. Los procesos ágiles aprovechan el cambio para proporcionar ventaja competitiva al cliente.
 c) Las mejores arquitecturas, requisitos y diseños emergen por la aplicación de unos procesos bien organizados.
 d) El software funcionando es la medida principal del progreso.
 ANSWER: C
 
-45. ¿Cuáles son las propiedades que debe cumplir una unidad lógica de trabajo para ser calificada como
+45. [TEMA="2022."] ¿Cuáles son las propiedades que debe cumplir una unidad lógica de trabajo para ser calificada como
 transacción?
 a) Atomicidad, concurrencia, aislamiento y temporalidad
 b) Atomicidad, consistencia, aislamiento y durabilidad
@@ -315,49 +315,49 @@ c) Atomicidad, concurrencia, escalabilidad y durabilidad
 d) Atomicidad, consistencia, aislamiento y temporalidad
 ANSWER: B
 
-46. ¿Cuál de las siguientes NO es una de las APIs incorporadas a HTML5?
+46. [TEMA="2022."] ¿Cuál de las siguientes NO es una de las APIs incorporadas a HTML5?
 a) HTML Drag and Drop, para arrastrar un objeto a otra localización.
 b) HTML Advanced Search, para parametrizar y modificar el comportamiento de los buscadores.
 c) HTML Local Storage, para almacenar datos en el navegador.
 d) HTML SSE, para actualizar una página web automáticamente sin preguntar al servidor.
 ANSWER: B
 
-47. Indique cuál de las siguientes afirmaciones es correcta:
+47. [TEMA="2022."] Indique cuál de las siguientes afirmaciones es correcta:
 a) En un sistema de cifrado de clave asimétrica la seguridad radica en la transmisión de la clave, mediante canal seguro, entre el emisor y el receptor del mensaje.
 b) Las huellas digitales devueltas por una misma función hash tienen idéntica longitud.
 c) Para ofrecer un nivel de seguridad equivalente, los sistemas de clave pública requieren menores longitudes de clave que los sistemas simétricos.
 d) Se denomina criptograma al procedimiento empleado para cifrar un mensaje.
 ANSWER: B
 
-48. ¿Cuál de las siguientes características es propia de OCSP?
+48. [TEMA="2022."] ¿Cuál de las siguientes características es propia de OCSP?
 a) Es un método de validación del estado de un certificado electrónico que emplea suplementariamente la descarga y consulta de CRLs.
 b) Permite la consulta off-line del estado de revocación de un certificado proporcionado por una autoridad de certificación.
 c) No permite implementar mecanismos de tarificación.
 d) Permite verificar el estado de los certificados mediante la consulta a una autoridad de validación.
 ANSWER: D
 
-49. El Reglamento (UE) 910/2014 del Parlamento Europeo y del Consejo relativo a la identificación electrónica y los servicios de confianza para las transacciones electrónicas en el mercado interior establece:
+49. [TEMA="2022."] El Reglamento (UE) 910/2014 del Parlamento Europeo y del Consejo relativo a la identificación electrónica y los servicios de confianza para las transacciones electrónicas en el mercado interior establece:
 a) La norma reguladora de los certificados de sede electrónica en la Unión Europea.
 b) Cinco años como el periodo máximo de vigencia de los certificados electrónicos.
 c) La plena prohibición del uso de seudónimos en el uso de las transacciones electrónicas.
 d) La regulación del certificado de sello electrónico y su uso en los servicios públicos.
 ANSWER: D
 
-50. ¿Qué facilita un ORM?
+50. [TEMA="2022."] ¿Qué facilita un ORM?
 a) Conversión de objetos a tablas relacionales
 b) Conversión de objetos a documentos
 c) Conversión de tipos de driver JDBC
 d) Conversión de ADO.NET a OLE DB
 ANSWER: A
 
-51. ¿Cuál de las siguientes características del DNI electrónico es exclusiva del DNIe 3.0?
+51. [TEMA="2022."] ¿Cuál de las siguientes características del DNI electrónico es exclusiva del DNIe 3.0?
 a) Cumple la norma ISO 7816 para tarjetas inteligentes.
 b) Emplea la tecnología inalámbrica NFC.
 c) Contiene certificados de componente, autenticación y firma.
 d) Sus certificados cumplen la norma X509 v3.
 ANSWER: B
 
-52. [ANULADA] De acuerdo con el Real Decreto 1720/2007 indique qué medida ha de ser aplicada obligatoriamente a los ficheros de los que sean responsables las Administraciones tributarias en el ejercicio de sus potestades tributarias:
+52. [ANULADA] [TEMA="2022."] De acuerdo con el Real Decreto 1720/2007 indique qué medida ha de ser aplicada obligatoriamente a los ficheros de los que sean responsables las Administraciones tributarias en el ejercicio de sus potestades tributarias:
 a) Cifrado de las comunicaciones
 27 de febrero de 2016 Página 11 de 19
 b) Al menos, una auditoría bianual
@@ -366,105 +366,105 @@ d) No queda regulado en dicho Real Decreto al depender de la criticidad del fich
 ANSWER: A
 ANULADA
 
-53. Las normas ISO que cubren los procesos de especificación de requisitos de calidad del software y evaluación de la calidad del software corresponden a la serie:
+53. [TEMA="2022."] Las normas ISO que cubren los procesos de especificación de requisitos de calidad del software y evaluación de la calidad del software corresponden a la serie:
 a) ISO/IEC 25000
 b) ISO/IEC 27000
 c) ISO 9000
 d) ISO 9001
 ANSWER: A
 
-54. ¿Cuál de los siguientes objetivos está fuera del alcance de una reunión diaria de SCRUM (daily scrum)?
+54. [TEMA="2022."] ¿Cuál de los siguientes objetivos está fuera del alcance de una reunión diaria de SCRUM (daily scrum)?
 a) Exponer las tareas no planificadas que también están haciendo los miembros del equipo.
 b) Resolver detalladamente los problemas que puedan tener los miembros del equipo.
 c) Poner de manifiesto el ritmo de trabajo de cada miembro del equipo.
 d) Identificar las tareas que puedan afectar a otros miembros del equipo.
 ANSWER: B
 
-55. ¿A qué tipo de ataque nos referimos cuando se suplanta la identidad de una dirección IP origen?
+55. [TEMA="2022."] ¿A qué tipo de ataque nos referimos cuando se suplanta la identidad de una dirección IP origen?
 a) DoS
 b) Phishing
 c) Sniffing
 d) Spoofing
 ANSWER: D
 
-56. WS-Security contiene especificaciones sobre:
+56. [TEMA="2022."] WS-Security contiene especificaciones sobre:
 a) La publicación, localización y enlazado de los Servicios Web.
 b) La forma de conseguir integridad y seguridad en los mensajes SOAP.
 c) Las políticas en materia de seguridad aplicables a un sistema de información.
 d) El envío de datagramas sin establecimiento previo de una conexión.
 ANSWER: B
 
-57. En cuanto al Plan de Sistemas de Información:
+57. [TEMA="2022."] En cuanto al Plan de Sistemas de Información:
 a) Sirve como punto de partida del Plan Estratégico de la Organización.
 b) No es abordado detalladamente dentro de la metodología MÉTRICA Versión 3.
 c) Fija el plan de proyectos a desarrollar, detallando los más inmediatos.
 d) Es un documento rígido que debe ser actualizado sólo ante discontinuidades de los productos tecnológicos sobre los que se sustenta.
 ANSWER: C
 
-58. Con respecto a ITIL señale qué afirmación es cierta:
+58. [TEMA="2022."] Con respecto a ITIL señale qué afirmación es cierta:
 a) Constituye una metodología exhaustiva de pasos a seguir en el diseño de servicios TI.
 b) Da instrucciones de trabajo concretas, asignado tareas a personas.
 c) Los organismos tecnológicamente más punteros de la Administración General del Estado se encuentran certificados en ITIL.
 d) Constituye un conjunto de mejores prácticas para la gestión de servicios TI.
 ANSWER: D
 
-59. Señale cuál de los siguientes apartados NO ha sido declarado como servicio compartido en la Administración General del Estado:
+59. [TEMA="2022."] Señale cuál de los siguientes apartados NO ha sido declarado como servicio compartido en la Administración General del Estado:
 a) Servicio común de gestión económico-presupuestaria
 b) Servicio común de georreferenciación
 c) Servicio de seguridad gestionada
 d) Servicio de gestión de notificaciones
 ANSWER: B
 
-60. Con respecto a la norma ISO/IEC 20000 de gestión de servicios TI:
+60. [TEMA="2022."] Con respecto a la norma ISO/IEC 20000 de gestión de servicios TI:
 a) Permite certificar a individuos a lo largo de diferentes niveles de conocimiento.
 b) Impone el uso exclusivo de ITIL como metodología a seguir.
 c) No permite validar la capacidad de un proveedor de servicios TI de gestionar efectivamente servicios TI.
 d) Microsoft Operation Framework (MOF) puede ser usado para conseguir su cumplimiento.
 ANSWER: D
 
-61. El modelo de capacidad de procesos establecido por COBIT v5:
+61. [TEMA="2022."] El modelo de capacidad de procesos establecido por COBIT v5:
 a) No modifica esencialmente el modelo planteado por COBIT v4.1.
 b) Define 5 niveles de procesos (proceso incompleto, ejecutado, gestionado, predecible, optimizado).
 c) El nivel 1 (proceso ejecutado) sólo se alcanza si el proceso alcanza su propósito.
 d) Un proceso es optimizado si se ejecuta dentro de los límites definidos para alcanzar sus resultados de proceso.
 ANSWER: C
 
-62. Indique a partir de qué versión del sistema operativo Android se introdujo la posibilidad de que el usuario pudiera gestionar la concesión de permisos para cada aplicación:
+62. [TEMA="2022."] Indique a partir de qué versión del sistema operativo Android se introdujo la posibilidad de que el usuario pudiera gestionar la concesión de permisos para cada aplicación:
 a) Lollipop
 b) Jelly Bean
 c) Marshmallow
 d) KitKat
 ANSWER: C
 
-63. El artículo 102 del Real Decreto 1720/2007, por el que se determina la conservación de una copia de respaldo de los datos y de los procedimientos de recuperación de los mismos en un lugar diferente de aquel en que se encuentren los equipos informáticos que los tratan, ¿a qué nivel o niveles de medidas de seguridad es aplicable?
+63. [TEMA="2022."] El artículo 102 del Real Decreto 1720/2007, por el que se determina la conservación de una copia de respaldo de los datos y de los procedimientos de recuperación de los mismos en un lugar diferente de aquel en que se encuentren los equipos informáticos que los tratan, ¿a qué nivel o niveles de medidas de seguridad es aplicable?
 a) Básico
 b) Medio
 c) Alto
 d) A los niveles medio y alto
 ANSWER: C
 
-64. El modelo de servicio en la nube en el que el consumidor no tiene control sobre la red, los servidores, sistemas operativos o almacenamiento, pero sí sobre las aplicaciones desplegadas y sobre los ajustes de configuración de dichas aplicaciones, se denomina:
+64. [TEMA="2022."] El modelo de servicio en la nube en el que el consumidor no tiene control sobre la red, los servidores, sistemas operativos o almacenamiento, pero sí sobre las aplicaciones desplegadas y sobre los ajustes de configuración de dichas aplicaciones, se denomina:
 a) Infrastructure as a Service (IaaS)
 b) Platform as a Service (PaaS)
 c) Software as a Service (SaaS)
 d) Application as a Service (AaaS)
 ANSWER: B
 
-65. De entre los siguientes sistemas operativos para dispositivos móviles, indique cuál está afectado por la vulnerabilidad Stagefright:
+65. [TEMA="2022."] De entre los siguientes sistemas operativos para dispositivos móviles, indique cuál está afectado por la vulnerabilidad Stagefright:
 a) Windows Phone
 b) Blackberry
 c) iOS
 d) Android
 ANSWER: D
 
-66. Respecto a las arquitecturas de almacenamiento SAN Fibre Channel, indique la respuesta incorrecta:
+66. [TEMA="2022."] Respecto a las arquitecturas de almacenamiento SAN Fibre Channel, indique la respuesta incorrecta:
 a) Cada equipo de la red se identifica de forma unívoca mediante una dirección de 64 bits.
 b) El SNS asigna los FCID y permite traducir de FCID a WWN.
 c) Los switches FC intercambian información de enrutado de tramas mediante un protocolo del tipo EGP adaptado a las redes FC.
 d) La señalización del canal de fibra puede funcionar sobre pares de cobre.
 ANSWER: C
 
-67. [ANULADA] Para los siguientes tipos de copias de seguridad, indique cuál de las siguientes secuencias los ordena de mayor a menor tiempo de restauración:
+67. [ANULADA] [TEMA="2022."] Para los siguientes tipos de copias de seguridad, indique cuál de las siguientes secuencias los ordena de mayor a menor tiempo de restauración:
 a) Diferencial, incremental, completa
 b) Completa, incremental, diferencial
 c) Completa, diferencial, incremental
@@ -472,231 +472,231 @@ d) No hay diferencia en el tiempo de restauración, encontrándose la diferencia
 ANSWER:
 ANULADA
 
-68. En Internet, la entidad encargada de la coordinación de los Números de Sistema Autónomo (Autonomous System Numbers - ASN) usados por varios protocolos de enrutamiento, es:
+68. [TEMA="2022."] En Internet, la entidad encargada de la coordinación de los Números de Sistema Autónomo (Autonomous System Numbers - ASN) usados por varios protocolos de enrutamiento, es:
 a) IANA
 b) ISOC
 c) IETF
 d) IAB
 ANSWER: A
 
-69. ¿Cuál de las siguientes opciones se refiere al conjunto de metodologías, procesos, arquitecturas y tecnologías que permiten reunir, depurar y transformar datos de los sistemas transaccionales e información desestructurada en información estructurada, para su explotación directa o para su análisis y conversión en conocimiento, dando así soporte a la toma de decisiones sobre el negocio?
+69. [TEMA="2022."] ¿Cuál de las siguientes opciones se refiere al conjunto de metodologías, procesos, arquitecturas y tecnologías que permiten reunir, depurar y transformar datos de los sistemas transaccionales e información desestructurada en información estructurada, para su explotación directa o para su análisis y conversión en conocimiento, dando así soporte a la toma de decisiones sobre el negocio?
 a) Data Mining (minería de datos)
 b) Business Intelligence (inteligencia de negocio)
 c) Data Warehouse (almacén de datos)
 d) Análisis OLTP (procesamiento en línea transaccional)
 ANSWER: B
 
-70. Los contratos que celebren los poderes adjudicadores se perfeccionan con su:
+70. [TEMA="2022."] Los contratos que celebren los poderes adjudicadores se perfeccionan con su:
 a) Ejecución
 b) Adjudicación
 c) Licitación
 d) Formalización
 ANSWER: D
 
-71. ¿Quién determina las condiciones técnicas normalizadas del Punto General de Entrada de Factura Electrónica?
+71. [TEMA="2022."] ¿Quién determina las condiciones técnicas normalizadas del Punto General de Entrada de Factura Electrónica?
 a) La Secretaría de Estado de Administraciones Públicas conjuntamente con la Secretaría de Estado de Presupuestos y Gastos
 b) La Secretaría de Estado de Hacienda conjuntamente con la Comisión Ministerial de Administración Digital
 c) La Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información
 d) La Dirección de Tecnologías de la Información y las Comunicaciones
 ANSWER: A
 
-72. Según el Modelo de Referencia Workflow definido por WfMC, ¿cuál de las siguientes funciones corresponde al Servicio de Representación del Workflow?
+72. [TEMA="2022."] Según el Modelo de Referencia Workflow definido por WfMC, ¿cuál de las siguientes funciones corresponde al Servicio de Representación del Workflow?
 a) Interpretar la descripción de procesos y controlar las diferentes instancias de los procesos, secuenciar las actividades, adicionar elementos a la lista de trabajo de los usuarios, e invocar las aplicaciones necesarias.
 b) Especificar el formato de intercambio común para soportar la transferencia de definiciones de procesos entre productos diferentes, utilizando un lenguaje de definición de procesos.
 c) Definir los mecanismos requeridos por los desarrolladores de productos workflow para implementar la comunicación de un motor workflow con otros.
 d) Monitorizar información relevante del workflow, fundamentalmente con fines de auditoría y estadísticos.
 ANSWER: A
 
-73. Señale la afirmación correcta:
+73. [TEMA="2022."] Señale la afirmación correcta:
 a) OASIS ha definido una notación gráfica estándar para WS-BPEL.
 b) BPEL4People es una extensión sobre WS-BPEL realizada para dar cobertura a escenarios que involucran interacción de personas con procesos de negocio.
 c) WS-BPEL es un lenguaje diseñado para el control distribuido de la invocación de diferentes servicios Web que modelan un proceso de negocio.
 d) XPDL es una especificación de lenguaje de definición de procesos creada por OASIS.
 ANSWER: B
 
-74. Según la Norma Técnica de Interoperabilidad de Digitalización de Documentos, ¿cuál de los siguientes metadatos no es considerado como metadato complementario?
+74. [TEMA="2022."] Según la Norma Técnica de Interoperabilidad de Digitalización de Documentos, ¿cuál de los siguientes metadatos no es considerado como metadato complementario?
 a) Resolución, que indica el valor de resolución en píxeles por pulgada empleada en la digitalización.
 b) Origen, que indica si el contenido del documento fue creado por un ciudadano o por una administración.
 c) Tamaño, que indica el valor y unidades del tamaño lógico del documento digitalizado.
 d) Idioma, que indica el idioma del contenido del documento digitalizado.
 ANSWER: B
 
-75. Señale la opción incorrecta respecto a SMTP:
+75. [TEMA="2022."] Señale la opción incorrecta respecto a SMTP:
 a) SMTP es capaz de transportar correo a través de múltiples redes: entre nodos conectados por TCP en Internet, entre nodos conectados en una Intranet TCP/IP aislados por un cortafuegos, o entre nodos en un entorno LAN o WAN que estén usando un protocolo de nivel de transporte distinto a TCP.
 b) Usando SMTP, un proceso puede transferir correo a otro proceso en la misma red o a otra red mediante un proceso gateway accesible en las dos redes.
 c) En SMTP un mensaje de correo puede pasar por una serie de nodos gateway intermedios en su camino desde el emisor al receptor último, sirviéndose de mecanismos para decidir el siguiente salto como el sistema de resolución de nombres de dominio de Internet.
 d) En SMTP la transferencia de mensaje ocurre siempre en una conexión única entre el emisor SMTP y el receptor final SMTP.
 ANSWER: D
 
-76. Las transferencias internacionales de datos de carácter personal:
+76. [TEMA="2022."] Las transferencias internacionales de datos de carácter personal:
 a) Se regulan en los artículos 33 y 34 de la Ley Orgánica 15/1999 de Protección de Datos de Carácter Personal y en el Título VI del Real Decreto 1720/2007 por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica 15/1999.
 b) Una transferencia internacional de datos, es un tratamiento de datos que supone una transmisión de los mismos fuera del territorio de la Unión Europea (UE).
 c) La Decisión de la Comisión 2000/520/CE, con arreglo a la Directiva 95/46/CE, permite actualmente realizar transferencias de datos a Estados Unidos si se cumplen los principios del acuerdo de Puerto eguro.
 d) Precisan, en todo caso, la autorización previa de la Dirección de la Agencia Española de Protección de Datos.
 ANSWER: A
 
-77. El proceso de auditoría de sistemas de información se considera como un proceso:
+77. [TEMA="2022."] El proceso de auditoría de sistemas de información se considera como un proceso:
 a) Estratégico
 b) Operativo
 c) Táctico
 d) Tecnológico
 ANSWER: A
 
-78. Respecto al uso de servicios de firma de documentos electrónicos mediante certificados electrónicos centralizados, mediante el sistema Cl@ve, indique cuál de las siguientes afirmaciones es incorrecta:
+78. [TEMA="2022."] Respecto al uso de servicios de firma de documentos electrónicos mediante certificados electrónicos centralizados, mediante el sistema Cl@ve, indique cuál de las siguientes afirmaciones es incorrecta:
 a) Para poder acceder al servicio, el usuario deberá solicitar previa y expresamente la emisión de los certificados electrónicos centralizados correspondientes.
 b) Los certificados electrónicos centralizados serán emitidos con las mismas garantías de identificación del DNI electrónico del ciudadano.
 c) El acceso al servicio requiere en todo caso que el usuario se haya registrado en Cl@ve y haya activado su Cl@ve permanente.
 d) En el momento de la identificación, se requerirá la utilización de una verificación de seguridad adicional mediante un código de un solo uso y validez limitada en el tiempo que se enviará al teléfono móvil del usuario registrado.
 ANSWER: C
 
-79. En relación con la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal, señale la respuesta correcta:
+79. [TEMA="2022."] En relación con la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal, señale la respuesta correcta:
 a) En caso de datos de carácter personal registrados inexactos o incompletos, el interesado debe instar su rectificación, sin que puedan ser cancelados y sustituidos de oficio por los datos rectificados o completados.
 b) En caso de datos de carácter personal registrados inexactos o incompletos, serán cancelados y sustituidos de oficio por los datos rectificados o completados, sin perjuicio del derecho de rectificación y cancelación del afectado.
 c) El responsable del tratamiento tendrá la obligación de hacer efectivo el derecho de rectificación o cancelación del interesado en el plazo de 15 días.
 d) El responsable del tratamiento tendrá la obligación de hacer efectivo el derecho de rectificación o cancelación del interesado en el plazo de 1 mes.
 ANSWER: B
 
-80. La Ley 25/2013, de 27 de diciembre, de impulso de la factura electrónica y creación del Registro Contable de Facturas en el Sector Público, prevé que anualmente se realice una auditoría de sistemas para verificar que los correspondientes registros contables de facturas cumplen con las condiciones de funcionamiento previstas en la normativa aplicable. En el ámbito de la Administración General del Estado dicha auditoría se realizará por:
+80. [TEMA="2022."] La Ley 25/2013, de 27 de diciembre, de impulso de la factura electrónica y creación del Registro Contable de Facturas en el Sector Público, prevé que anualmente se realice una auditoría de sistemas para verificar que los correspondientes registros contables de facturas cumplen con las condiciones de funcionamiento previstas en la normativa aplicable. En el ámbito de la Administración General del Estado dicha auditoría se realizará por:
 a) La Dirección de Tecnologías de la Información y las Comunicaciones
 b) La Intervención General de la Administración del Estado
 c) Las Inspecciones Generales de los Servicios
 d) La Agencia Estatal de la Administración Tributaria
 ANSWER: B
 
-81. Según el Real Decreto 3/2010, de 8 de enero, por el que se regula el Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica, señale la respuesta correcta respecto a la auditoría de seguridad:
+81. [TEMA="2022."] Según el Real Decreto 3/2010, de 8 de enero, por el que se regula el Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica, señale la respuesta correcta respecto a la auditoría de seguridad:
 a) Se realizará, al menos, cada dieciocho meses para los sistemas de todas las categorías, y con carácter extraordinario, siempre que se produzcan modificaciones sustanciales en el sistema de información, que puedan repercutir en las medidas de seguridad requeridas.
 b) El equipo auditor, en el diseño de sus pruebas y revisiones, debe limitarse a la revisión de documentos facilitados por los responsables de la información, del servicio y de seguridad.
 c) Cuando existan razones que lo justifiquen, dentro de las tareas de la auditoria de seguridad podrán incluirse además la ejecución de trabajos de consultoría.
 d) El informe de auditoría deberá dictaminar sobre la adecuación de las medidas exigidas por el Esquema Nacional de Seguridad, identificar sus deficiencias y proponer las medidas correctoras o complementarias necesarias.
 ANSWER: B
 
-82. El lenguaje SPARK es un subconjunto de:
+82. [TEMA="2022."] El lenguaje SPARK es un subconjunto de:
 a) Java
 b) Fortran
 c) Ruby
 d) Ada
 ANSWER: D
 
-83. La titularidad de los derechos de explotación de un programa de ordenador por una persona jurídica expirará:
+83. [TEMA="2022."] La titularidad de los derechos de explotación de un programa de ordenador por una persona jurídica expirará:
 a) A los setenta años, computados desde el día siguiente al de su divulgación.
 b) A los cincuenta años, computados desde el día uno de enero del año siguiente al de su divulgación lícita, o al de su creación si no se hubiera divulgado.
 c) A los cincuenta años, computados desde el día siguiente al de su divulgación.
 d) A los setenta años, computados desde el día uno de enero del año siguiente al de su divulgación lícita o al de su creación si no se hubiera divulgado.
 ANSWER: D
 
-84. Según WCAG 2.0, ¿con qué principio está relacionada la pauta “Hacer que las páginas web aparezcan y operen de forma predecible”?
+84. [TEMA="2022."] Según WCAG 2.0, ¿con qué principio está relacionada la pauta “Hacer que las páginas web aparezcan y operen de forma predecible”?
 a) Perceptible
 b) Operable
 c) Comprensible
 d) Robusto
 ANSWER: C
 
-85. En el marco europeo de interoperabilidad de sistemas de información, ¿qué programa de la Unión Europea ha estado en vigor entre 2010 y 2015?
+85. [TEMA="2022."] En el marco europeo de interoperabilidad de sistemas de información, ¿qué programa de la Unión Europea ha estado en vigor entre 2010 y 2015?
 a) Interchange of Data between Administrations (IDA)
 b) Interoperability Solutions for European Public Administrations (ISA)
 c) Interoperable Delivery of Pan-European eGovernment Services to Public Administrations, Businesses and Citizens (IDABC)
 d) Interoperability Electronic European Solution (IEES)
 ANSWER: B
 
-86. Según MAGERIT 3.0, el informe en el que se recogen los resultados de la identificación de las amenazas relevantes sobre el sistema a analizar, caracterizadas por las estimaciones de ocurrencia y daño causado, se denomina:
+86. [TEMA="2022."] Según MAGERIT 3.0, el informe en el que se recogen los resultados de la identificación de las amenazas relevantes sobre el sistema a analizar, caracterizadas por las estimaciones de ocurrencia y daño causado, se denomina:
 a) Estimación del riesgo
 b) Evaluación de salvaguardas
 c) Declaración de aplicabilidad
 d) Mapa de riesgos
 ANSWER: D
 
-87. Un contrato menor tiene una duración máxima de:
+87. [TEMA="2022."] Un contrato menor tiene una duración máxima de:
 a) Un año prorrogable
 b) Dos años no prorrogables
 c) Un año no prorrogable
 d) Dos años prorrogables
 ANSWER: C
 
-88. Respecto a la política de normalización TIC en la Unión Europea, como señala el Reglamento 1025/2012 del Parlamento y del Consejo, la identificación de especificaciones técnicas de las TIC admisibles a efectos de referenciación:
+88. [TEMA="2022."] Respecto a la política de normalización TIC en la Unión Europea, como señala el Reglamento 1025/2012 del Parlamento y del Consejo, la identificación de especificaciones técnicas de las TIC admisibles a efectos de referenciación:
 a) Ha de estar siempre basada en normas de estandarización nacionales, europeas o internacionales.
 b) No deben ser usadas para permitir la interoperabilidad en la contratación pública, dado que se podrían dar situaciones monopolísticas.
 c) Será realizada por la Comisión, bien a propuesta de un Estado miembro o por iniciativa propia, sin necesidad de ser una norma nacional, europea o internacional, cumpliéndose los demás requisitos establecidos en el reglamento.
 d) Requieren para su adopción la unanimidad de todos los Estados miembro.
 ANSWER: C
 
-89. Según la metodología MÉTRICA Versión 3, ¿qué tipo de diagrama tiene como objetivo principal la representación de los aspectos estáticos del sistema utilizando diversos mecanismos de abstracción?
+89. [TEMA="2022."] Según la metodología MÉTRICA Versión 3, ¿qué tipo de diagrama tiene como objetivo principal la representación de los aspectos estáticos del sistema utilizando diversos mecanismos de abstracción?
 a) Diagrama de clases
 b) Diagrama de componentes
 c) Diagrama de estructura
 d) Diagrama de paquetes
 ANSWER: A
 
-90. En un contrato cuyo presupuesto es de 100.000 euros sin IVA y se adjudica por 80.000, IVA excluido, la garantía definitiva será de:
+90. [TEMA="2022."] En un contrato cuyo presupuesto es de 100.000 euros sin IVA y se adjudica por 80.000, IVA excluido, la garantía definitiva será de:
 a) 2.400 euros
 b) 4.000 euros
 c) 3.200 euros
 d) 1.600 euros
 ANSWER: B
 
-91. Según el Real Decreto 3/2010, de 8 de enero, por el que se regula el Esquema Nacional de Seguridad (ENS) en el ámbito de la Administración Electrónica, el análisis y gestión de riesgos es una parte esencial del proceso de seguridad, debiendo mantenerse permanentemente actualizado. Para ello, el propio ENS establece que se debe realizar un análisis de riesgos formal para los sistemas de:
+91. [TEMA="2022."] Según el Real Decreto 3/2010, de 8 de enero, por el que se regula el Esquema Nacional de Seguridad (ENS) en el ámbito de la Administración Electrónica, el análisis y gestión de riesgos es una parte esencial del proceso de seguridad, debiendo mantenerse permanentemente actualizado. Para ello, el propio ENS establece que se debe realizar un análisis de riesgos formal para los sistemas de:
 a) Categoría básica
 b) Categoría media
 c) Categoría alta
 d) Categoría media y alta
 ANSWER: C
 
-92. ¿Cuál de las siguientes opciones muestra exclusivamente herramientas directamente relacionadas con la realización de pruebas para asegurar la calidad del software?
+92. [TEMA="2022."] ¿Cuál de las siguientes opciones muestra exclusivamente herramientas directamente relacionadas con la realización de pruebas para asegurar la calidad del software?
 a) JUnit, Artifactory y SonarQube
 b) JUnit, Artifactory y Selenium
 c) JUnit, SonarQube y Selenium
 d) ArtiFactory, SonarQube y Selenium
 ANSWER: C
 
-93. Según AENOR, la certificación es:
+93. [TEMA="2022."] Según AENOR, la certificación es:
 a) La acción llevada a cabo por una entidad independiente de las partes interesadas mediante la que se manifiesta que una organización, producto, proceso o servicio, cumple los requisitos definidos en unas normas o especificaciones técnicas.
 b) La acción llevada a cabo por una entidad independiente de las partes interesadas mediante la que se manifiesta que una organización, producto, proceso o servicio, cumple con los requisitos legales para salir al mercado.
 c) La acción llevada a cabo por una entidad independiente de las partes interesadas mediante la que se manifiesta que una organización, producto, proceso o servicio es beneficioso para los consumidores.
 d) La acción llevada a cabo por una entidad dependiente de la Administración pública mediante la que se manifiesta que una organización, producto, proceso o servicio, cumple los requisitos definidos en unas normas o especificaciones técnicas.
 ANSWER: A
 
-94. Entre las tecnologías o herramientas utilizadas para trabajar en sistemas de Big Data NO se encuentra:
+94. [TEMA="2022."] Entre las tecnologías o herramientas utilizadas para trabajar en sistemas de Big Data NO se encuentra:
 a) Almacenamiento orientado a columnas
 b) Framework MapReduce
 c) OLTP
 d) Bases de datos clave-valor
 ANSWER: C
 
-95. ¿Cuál de las siguientes características NO es propia de Apache Hadoop?
+95. [TEMA="2022."] ¿Cuál de las siguientes características NO es propia de Apache Hadoop?
 a) Es un framework de software libre.
 b) Es una base de datos NoSQL.
 c) Está basado en MapReduce.
 d) Puede emplearse en sistemas de datos masivos (Big Data).
 ANSWER: B
 
-96. Bajo el paradigma de la Programación Orientada a Objetos, indique cuál de las siguientes proposiciones es falsa:
+96. [TEMA="2022."] Bajo el paradigma de la Programación Orientada a Objetos, indique cuál de las siguientes proposiciones es falsa:
 a) Los objetos se generan a partir de la instanciación de una clase.
 b) El polimorfismo es la propiedad por la que es posible enviar mensajes sintácticamente iguales a objetos de tipos distintos.
 c) Una clase abstracta puede ser extendida mediante el mecanismo de herencia.
 d) La implementación de una interfaz no se considera polimorfismo.
 ANSWER: D
 
-97. Indique cuál de las siguientes soluciones tecnológicas NO se utiliza para virtualización:
+97. [TEMA="2022."] Indique cuál de las siguientes soluciones tecnológicas NO se utiliza para virtualización:
 a) VMware ESX
 b) XenServer
 c) Alfresco
 d) Microsoft Hyper-V
 ANSWER: C
 
-98. Indique la opción correcta respecto al Portal de Transparencia del Gobierno de España:
+98. [TEMA="2022."] Indique la opción correcta respecto al Portal de Transparencia del Gobierno de España:
 a) Incluye información acerca de las Entidades Locales.
 b) La solicitud de información disponible, amparada por el derecho de acceso presente en la Ley 19/2013, no precisa identificación.
 c) No incluye información acerca de órganos Constitucionales.
 d) El Portal es gestionado por el Consejo de Transparencia y Buen Gobierno.
 ANSWER: C
 
-99. La tecnología de software que permite ejecutar al mismo tiempo varios sistemas operativos y aplicaciones en el mismo servidor se denomina:
+99. [TEMA="2022."] La tecnología de software que permite ejecutar al mismo tiempo varios sistemas operativos y aplicaciones en el mismo servidor se denomina:
 a) Clustering
 b) Deduplicación
 c) Virtualización
 d) Contenerización
 ANSWER: C
 
-100. En cuanto a la imputación de costes de los servicios compartidos en la Administración General del Estado, señale la afirmación correcta:
+100. [TEMA="2022."] En cuanto a la imputación de costes de los servicios compartidos en la Administración General del Estado, señale la afirmación correcta:
 a) Según establece el Real Decreto 806/2014 el coste, caso de ocasionarse, será asumido íntegramente por la Dirección de Tecnologías de las Información y Comunicaciones.
 b) Se sufragarán con cargo a los presupuestos de Presidencia del Gobierno dado el carácter horizontal del servicio compartido.
 c) La declaración de todo servicio compartido deberá indicar si existe compensación económica al proveedor.

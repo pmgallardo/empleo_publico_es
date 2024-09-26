@@ -180,7 +180,7 @@ c) RAID 6 añade dos bloques de paridad respecto a RAID 5.
 d) RAID 1 mejora el rendimiento en escritura.
 ANSWER: B
 
-27. [TEMA="2022.118"] En relación con los servidores proxy y cortafuegos, señale la opción CORRECTA:
+27. [TEMA="2022.125"] En relación con los servidores proxy y cortafuegos, señale la opción CORRECTA:
 a) La función “Network Address Translation” (NAT) no puede ser realizada por un cortafuegos.
 b) Un cortafuegos de aplicación opera  sobre la capa 7 del modelo OSI, pudiendo filtrar protocolos como DNS, DHCP o HTTP.
 c) Los servidores proxy abiertos no se pueden utilizar para prácticas como "spam".
@@ -313,7 +313,7 @@ c) El modelo copo de nieve hace una mejor utilización del espacio en disco.
 d) El modelo nebulosa ofrece mejores tiempos de consulta.
 ANSWER: C
 
-46. [TEMA="2022.68"] Seleccione la respuesta INCORRECTA . Algunos de los componentes de Hadoop son:
+46. [TEMA="2022.75"] Seleccione la respuesta INCORRECTA . Algunos de los componentes de Hadoop son:
 a) HDFS.
 b) Hadoop Common.
 c) Hadoop Yarn.
@@ -348,14 +348,14 @@ c) El establecimiento de una sede electrónica no conlleva la responsabilidad de
 d) La supresión de portales requerirá la previa comunicación al Ministerio de Política Territorial y Función Pública y al Ministerio de Asuntos Económicos y Transformación Digital.
 ANSWER: D
 
-51. [TEMA="2022.81"] En relación con los prestadores de servicios electrónicos de confianza, señale la opción CORRECTA:
+51. [TEMA="2022.80"] En relación con los prestadores de servicios electrónicos de confianza, señale la opción CORRECTA:
 a) Sólo si son cualificados, notificarán al órgano supervisor cualquier violación de la seguridad o pérdida de la integridad que tenga un impacto significativo en el servicio de confianza prestado.
 b) Registrarán la revocación de certificados en su base de datos y, en caso de ser cualificados, publicarán el estado de revocación en un plazo máximo de 48 horas.
 c) No serán responsables por daños y perjuicios, en caso de negligencia por parte del titular del certificado en la conservación de sus datos de creación de firma, sello o autenticación de sitio web, en el aseguramiento de su confidencialidad y en la protección de todo acceso o revelación de estos o, en su caso, de los medios que den acceso a ellos.
 d) El tiempo máximo de  vigencia de un certificado cualificado son 4 años.
 ANSWER: C
 
-52. [TEMA="2022."] ¿Cuál de las siguientes respuestas NO es obligatoria para adaptarse al RGPD?:
+52. [TEMA="2022.27"] ¿Cuál de las siguientes respuestas NO es obligatoria para adaptarse al RGPD?:
 a) Obligación de informar al ciudadano sobre el tratamiento de los datos personales.
 b) Designar un Delegado de Protección de  Datos en los supuestos contemplados en la normativa de protección de datos.
 c) Mantener un registro de actividades de tratamiento en el que se detalle quien trata los datos, finalidad y base jurídica.
@@ -376,18 +376,18 @@ c) Análisis de bigramas.
 d) Omnipage.
 ANSWER: B
 
-55. [TEMA="2022.86"] El modelo de ciclo de vida (MCV) de un sistema de información  (SI) puede definirse de acuerdo con el estándar ISO-12207 como:
+55. [TEMA="2022.86"] El modelo de ciclo de vida (MCV) de un sistema de información (SI) puede definirse de acuerdo con el estándar ISO-12207 como:
 a) El conjunto de fases (o etapas) por las que pasa el sistema desde que se concibe hasta que se retira del servicio.
 b) El conjunto de fases (o etapas) por las que pasa el sistema desde que se han definido sus requisitos hasta que se inic ia el servicio.
 c) El conjunto de fases (o etapas) por las que pasa el sistema desde que se han definido sus requisitos hasta que se realice alguna modificación del mismo.
-d) El conjunto de fases (o etapas) por las que pasa desde que se pone en servicio ha sta que se retira del mismo.
+d) El conjunto de fases (o etapas) por las que pasa desde que se pone en servicio hasta que se retira del mismo.
 ANSWER: A
 
 56. [TEMA="2022.14"] La estrategia del Gobierno de España de tecnologías de la información y comunicaciones (TIC) en el ámbito de las Administraciones Públicas viene determinada por:
 a) El Plan España Digital 2025 (Agenda Digital 2025), el Plan de Recuperación, Transformación y Resiliencia y el Plan de Digitalización de las Administraciones Públicas 2021 -2025.
 b) El Plan España Digital 2025 (Agenda Digital 2025), el Plan de Transformación y Resiliencia y el Plan de Digitalización de las Administr aciones Públicas 2021 -2025.
 c) El Plan España Digital 2025 (Agenda Digital 2025), el Plan de Transformación y Resiliencia y el Plan de Digitalización de las Administraciones Públicas 2015 -2020.
-d) Las decisiones del pleno de la Comisión Interministerial de  Administración electrónica.
+d) Las decisiones del pleno de la Comisión Interministerial de Administración electrónica.
 ANSWER: A
 
 57. [TEMA="2022.95"] Las tareas para el establecimiento de los requisitos, en el análisis funcional de sistemas de información de Métrica V3, son:
@@ -418,112 +418,112 @@ c) MTBUR.
 d) MTTF.
 ANSWER: C
 
-61. [TEMA="2022."] En notación UML el diagrama de actividades:
+61. [TEMA="2022.92"] En notación UML el diagrama de actividades:
 a) Enfoca la interacción entre líneas de vida, donde es central la arquitectura de la estructura interna y cómo ella se corresponde con el pasaje de mensajes.
 b) Representa los procesos de negocios de alto nivel, incluidos el flujo de datos. También puede utilizarse para modelar lógica compleja y/o paralela dentro de un sistema.
 c) Muestra una colección de elementos de modelado declarativo (estáticos), tales como clases, tipos y sus contenidos y relaciones.
 d) Enfocan la revisión del flujo de control, dond e los nodos son Interacciones u Ocurrencias de Interacciones.
 ANSWER: B
 
-62. [TEMA="2022."] En el diseño de software, la relación funcional de los elementos de un módulo y el grado de interdependencia entre los módulos debe ser:
+62. [TEMA="2022.92"] En el diseño de software, la relación funcional de los elementos de un módulo y el grado de interdependencia entre los módulos debe ser:
 a) Tanto la relación funcional como el grado de interd ependencia deben ser máximos.
 b) La relación funcional debe ser mínima y grado de interdependencia máxima.
 c) La relación funcional debe ser máxima y grado de interdependencia mínimo.
-d) Tanto la relación funcional como el grado de interdependencia deben s er mínimos.
+d) Tanto la relación funcional como el grado de interdependencia deben ser mínimos.
 ANSWER: C
 
-63. [TEMA="2022."] Sobre la elaboración de prototipos en el desarrollo de software, indique cuál de las siguientes respuestas es INCORRECTA:
+63. [TEMA="2022.94"] Sobre la elaboración de prototipos en el desarrollo de software, indique cuál de las siguientes respuestas es INCORRECTA:
 a) Mejora la usabilidad del sistema.
 b) Mejora la comunicación entre desarrolladores y usuarios.
 c) Es mayor el esfuerzo de desarrollo porque hay que desechar el prototipo.
 d) Mejora la calidad del diseño.
 ANSWER: C
 
-64. [TEMA="2022."] ¿Quién participa, según la versión 3 de Métrica, en el Registro de cada nueva versión de los Sistemas de Información en el Sistema de Gestión de la Configuración?:
+64. [TEMA="2022.94"] ¿Quién participa, según la versión 3 de Métrica, en el Registro de cada nueva versión de los Sistemas de Información en el Sistema de Gestión de la Configuración?:
 a) El técnico de Mantenimiento.
 b) El Técnico de Sistemas.
 c) El técnico de Bases de Datos.
 d) El técnico de Comunicaciones.
 ANSWER: A
 
-65. [TEMA="2022."] De los siguientes atributos de la calidad del software,  ¿cuál NO está definido en la norma ISO/IEC 25010?:
+65. [TEMA="2022.37"] De los siguientes atributos de la calidad del software,  ¿cuál NO está definido en la norma ISO/IEC 25010?:
 a) Compatibilidad.
 b) Segurid ad.
 c) Accesibilidad.
 d) Fiabilidad.
 ANSWER: C
 
-66. [TEMA="2022."] ¿Cuál de las siguientes herramientas es de gestión de configuración?:
+66. [TEMA="2022.100"] ¿Cuál de las siguientes herramientas es de gestión de configuración?:
 a) Subversion.
 b) Mercurial.
 c) BitBucket.
 d) Todas son correctas.
 ANSWER: D
 
-67. [TEMA="2022."] Dentro de las técnicas de estimación de proyectos, ¿cuál de las siguientes NO está orientada al tamaño y la función?:
+67. [TEMA="2022.95"] Dentro de las técnicas de estimación de proyectos, ¿cuál de las siguientes NO está orientada al tamaño y la función?:
 a) Las líneas de código.
 b) Método  Albretch.
 c) Modelo Putnam.
 d) Método Mark II.
 ANSWER: C
 
-68. [TEMA="2022."] ¿Cuál de las siguientes NO es una herramienta para la gestión de la configuración orientadas al gobierno de los sistemas de información?:
+68. [TEMA="2022.100"] ¿Cuál de las siguientes NO es una herramienta para la gestión de la configuración orientadas al gobierno de los sistemas de información?:
 a) ServiceNow.
 b) BMC Remedy.
 c) CVS.
 d) EasyVista.
 ANSWER: C
 
-69. [TEMA="2022."] La migración de aplicaciones que consiste en desarrollar de nuevo la aplicación utilizando nuevos paradigmas de programación (por ejemplo,  desarrollo web, orientación a objetos, u otros) y que puede requerir el empleo de técnicas de reingeniería e ingeniería inversa para determinar la funcionalidad completa de la aplicación antes de migrarla se conoce como:
+69. [TEMA="2022.100"] La migración de aplicaciones que consiste en desarrollar de nuevo la aplicación utilizando nuevos paradigmas de programación (por ejemplo,  desarrollo web, orientación a objetos, u otros) y que puede requerir el empleo de técnicas de reingeniería e ingeniería inversa para determinar la funcionalidad completa de la aplicación antes de migrarla se conoce como:
 a) Replacement.
 b) Rearchitecting.
 c) Rehosting.
 d) Refronting.
 ANSWER: B
 
-70. [TEMA="2022."] Dentro del manteni miento de los sistemas de información, ¿qué se considera mantenimiento perfectivo de un sistema de información?:
+70. [TEMA="2022.101"] Dentro del mantenimiento de los sistemas de información, ¿qué se considera mantenimiento perfectivo de un sistema de información?:
 a) Las modificaciones derivadas de cambios en los entornos en los que el sistema opera, por ejemplo, cambios de configuración del hardware, sof tware de base, gestores de base de datos, comunicaciones, etc.
 b) Las acciones llevadas a cabo para mejorar la calidad interna de los sistemas en cualquiera de sus aspectos: reestructuración del código, definición más clara del sistema y optimización del rendimiento y eficiencia.
 c) Las incorporaciones, modificaciones y eliminaciones necesarias en un producto software para cubrir la expansión o cambio en las necesidades del usuario.
 d) Solo existe el mantenimiento correctivo y evolutivo de los sistemas de información.
 ANSWER: B
 
-71. [TEMA="2022."] Para establecer un acuerdo de nivel de servicio (ANS o SLA) se debe:
+71. [TEMA="2022.101"] Para establecer un acuerdo de nivel de servicio (ANS o SLA) se debe:
 a) Realizar la clasificación de la incidencia en leve, grave o crítica y establecer unos indicadores que midan los niveles de servicio.
 b) Establecer unos umbrales, a partir de los cuales, se determinará que el funcionamiento del servicio no es óptimo.
 c) Establecer la forma y el modo de proceder a la aplicación de penalizaciones en la facturación.
 d) Establecer unos indicadores, determinar su unidad de medición y periodicidad  y el establecimiento de umbrales, a partir de los cuales, se determinará que el funcionamiento del servicio no es óptimo.
 ANSWER: D
 
-72. [TEMA="2022."] En terminología de gestión de versiones, el término “branch ” (rama):
+72. [TEMA="2022.102"] En terminología de gestión de versiones, el término “branch” (rama):
 a) Consiste en una familia de modificaciones al código fuente independiente de otra, de modo que se pueda trabajar de forma aislada en la evolución de una determinada parte del código sin tener que modificar todo el código cada vez que se actualiza.
 b) Consiste en descargar una copia del código fuente a un equipo loc al desde el servidor de versiones con el fin de, en general, modificarlo.
 c) Se refiere al servidor de versiones y el conjunto de ficheros que conforman el código fuente de la aplicación.
 d) Consiste en que se almacenen en el repositorio de la herramienta de gestión de versiones únicamente las diferencias entre versiones, en vez de una copia de cada versión, con el fin de reducir la necesidad de almacenamiento.
 ANSWER: A
 
-73. [TEMA="2022."] La emisión de certificaciones del nivel de excelencia de un organismo público corresponde a:
+73. [TEMA="2022.103"] La emisión de certificaciones del nivel de excelencia de un organismo público corresponde a:
 a) Observatorio de la Calidad de los Servicios Públicos.
 b) Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los Servicios.
 c) Instituto para la Evaluación de Políticas Públicas.
 d) Dirección General de Gobernanza Pública.
 ANSWER: D
 
-74. [TEMA="2022."] Respecto de los sistemas de recuperación de información indicar la respuesta CORRECTA:
+74. [TEMA="2022.105"] Respecto de los sistemas de recuperación de información indicar la respuesta CORRECTA:
 a) Cuando el usuario trata de localizar información útil, está llevando a cabo un ojeo (browsing).
 b) Cuando el usuario esté interesado en un tema inherentemente amplio o que no tie ne claramente definido, la interacción con el sistema suele realizarse mediante acciones de búsqueda  (retrieval) en lugar de mediante técnicas  de ojeo (browsing).
 c) Los sistemas clásicos de Recuperación de Información están orientados en su mayoría a las acciones de búsqueda, mientras que los sistemas basados en hipertextos se ajustan habitualmente a permitir un ojeo rápido.
 d) Los sistemas modernos y los buscadores Web solo utilizan acciones de ojeo (browsing) para proporcionar capacidades de recuperación  de información mejoradas.
 ANSWER: C
 
-75. [TEMA="2022."] En ITIL un conjunto estructurado de actividades diseñado para cumplir un objetivo concreto, que da como resultado un cambio orientado hacia un objetivo y utiliza la retroalimentación para efectuar acciones de automejora y autocorrección, es lo que se conoc e como:
+75. [TEMA="2022.106"] En ITIL un conjunto estructurado de actividades diseñado para cumplir un objetivo concreto, que da como resultado un cambio orientado hacia un objetivo y utiliza la retroalimentación para efectuar acciones de automejora y autocorrección, es lo que se conoc e como:
 a) Proceso.
 b) Rol.
 c) Sistema.
 d) Función.
 ANSWER: A
 
-76. [TEMA="2022."] En Blockchain la base de datos transaccional que se comparte y sincroniza para todos los nodos de una red descentralizada (sin nodo central o autoridad central) se conoce como:
+76. [TEMA="2022.85"] En Blockchain la base de datos transaccional que se comparte y sincroniza para todos los nodos de una red descentralizada (sin nodo central o autoridad central) se conoce como:
 a) Token.
 b) Libro contable o “ledger”.
 c) Nonce.
@@ -533,67 +533,67 @@ ANSWER: B
 77. [TEMA="2022."] En relación con la digitalización y transmisión de señales, indique la opción CORRECTA:
 a) De acuerdo con el Teorema de Nyquist, se puede reconstruir una señal analógica si la tasa de muestreo es superior al dob le de su ancho de banda, aumentando la eficiencia al incrementarse la citada tasa.
 b) La cuantificación de los valores obtenidos en el muestreo no produce distorsión y es reversible, en la mayoría de los casos.
-c) La codificación digital NRZ -I cambia la te nsión cuando se encuentra un 1.
+c) La codificación digital NRZ-I cambia la tensión cuando se encuentra un 1.
 d) Se define la eficiencia espectral como la relación entre la velocidad de transmisión de información de un caudal y la relación señal a ruido del canal utilizado para transmitirla.
 ANSWER: C
 
-78. [TEMA="2022."] En relación con la modulación de señales , indique la opción CORRECTA:
+78. [TEMA="2022.107"] En relación con la modulación de señales , indique la opción CORRECTA:
 a) La señal portadora es una onda no periódica que sirve para trasladar a otra zona del espectro la señal a transmitir.
 b) La señal moduladora no contiene información a transmitir.
 c) La señal analógica no puede utilizarse par a transmitir información digital.
 d) QAM (modulación de amplitud en cuadratura) combina la modulación en fase y en amplitud.
 ANSWER: D
 
-79. [TEMA="2022."] Acerca de los puertos del Transmission Control Protocol (TCP), señale la respuesta CORRECTA:
+79. [TEMA="2022.109"] Acerca de los puertos del Transmission Control Protocol (TCP), señale la respuesta CORRECTA:
 a) SSH utiliza el puerto TCP 18.
 b) Telnet utiliza el puerto TCP 19.
 c) HTTP utiliza el puerto TCP 88.
 d) BGP utiliza el puerto TCP 179.
 ANSWER: D
 
-80. [TEMA="2022."] ¿Cuál de las siguientes respuestas contiene las capas del Modelo de Referencia de Interconexión de Sistemas Abiertos OSI ordenadas correctamente de la más baja a la más alta?:
+80. [TEMA="2022.111"] ¿Cuál de las siguientes respuestas contiene las capas del Modelo de Referencia de Interconexión de Sistemas Abiertos OSI ordenadas correctamente de la más baja a la más alta?:
 a) Física, Enlace de Datos, Red, Transporte, Presentación, Sesión, Aplicación.
 b) Física, Enlace de Datos, Red, Transporte, Sesión, Presentación, Aplicación.
 c) Física, Enlace de Datos, Transporte, Red, Presentación, Sesión, Aplicación.
 d) Enlace de Datos, Internet, Transporte, Sesión, Presentación, Aplicación.
 ANSWER: A
 
-81. [TEMA="2022."] En la recomendación G.984.1 de la ITU -T, se define:
+81. [TEMA="2022.112"] En la recomendación G.984.1 de la ITU-T, se define:
 a) La interfaz S de una red GPON, en sentido descendente, como el punto en la fibra óptica justo después del conector ópt ico.
 b) La interfaz R de una red GPON, en sentido descendente, como el punto en la fibra óptica justo después del conector óptico.
 c) La interfaz S de una red GPON como el elemento activo situado en la central telefónica que agrega el tráfico proveniente d e los clientes y lo encamina hacia la red del operador.
 d) El ODN de una red GPON como el elemento en el lado del usuario donde termina la fibra óptica y ofrece las interfaces de usuarios,
 ANSWER: A
 
-82. [TEMA="2022."] ¿Cuál de los siguientes elementos NO pertenece al protocolo MPLS ( RFC 3031)?:
+82. [TEMA="2022.113"] ¿Cuál de los siguientes elementos NO pertenece al protocolo MPLS (RFC 3031)?:
 a) LIB (Label Information Base).
 b) CIR (Commited Information Rate).
 c) FEC (Forwarding Equivalence Class).
 d) LDP (Label Distribution Protocol).
 ANSWER: B
 
-83. [TEMA="2022."] En una red inalámbrica el SSID (Service Set Identifier):
+83. [TEMA="2022.114"] En una red inalámbrica el SSID (Service Set Identifier):
 a) Es una secuencia de un máximo de 32 caracteres.
 b) No puede contener caracteres numéricos.
 c) No es sensible a mayúsculas y minúsculas.
 d) Es el nombre con el que se identifica a cada uno de los dispositivos que se conectan a dicha red.
 ANSWER: A
 
-84. [TEMA="2022."] Sobre el protocolo MultiProtocol Label Swi tching (MPLS), señale la que es INCORRECTA:
+84. [TEMA="2022.113"] Sobre el protocolo MultiProtocol Label Swi tching (MPLS), señale la que es INCORRECTA:
 a) Habilita ingeniería de tráfico, niveles de servicio y redes privadas virtuales (VPN).
 b) La cabecera MPLS se sitúa entre la cabecera IP y la cabecera de nivel 2.
 c) Una etiqueta identifica un conjunto de paquet es que se reenvían de la misma manera, conocido como FEC (Forwarding Equivalence Class).
 d) MPLS no necesita para su operación otros protocolos de “routing ” como OSPF o BGP.
 ANSWER: D
 
-85. [TEMA="2022."] En relación con la convivencia IPv4 -IPv6, señale la que es INCORRECTA:
+85. [TEMA="2022.115"] En relación con la convivencia IPv4-IPv6, señale la que es INCORRECTA:
 a) "Dual Stack" requiere que los dispositivos de red, como “routers”, mantengan dos pilas de protocolos.
 b) Se pueden crear túneles IPv6 sobre IPv4 con diferentes técnicas como 6to4 o Teredo.
-c) La traducción de direcciones de red (NAT64) no permite que los disposit ivos habilitados para IPv6 se comuniquen con los dispositivos habilitados para IPv4.
-d) Carrier -Grade NAT (CGN o CG -NAT) es una técnica utilizada por algunos proveedores de servicios de Internet cuyo objeto es mitigar la escasez de direccionamiento IPv4.
+c) La traducción de direcciones de red (NAT64) no permite que los dispositivos habilitados para IPv6 se comuniquen con los dispositivos habilitados para IPv4.
+d) Carrier-Grade NAT (CGN o CG -NAT) es una técnica utilizada por algunos proveedores de servicios de Internet cuyo objeto es mitigar la escasez de direccionamiento IPv4.
 ANSWER: C
 
-86. [TEMA="2022."] Señale la respuesta INCORRECTA  asociada a los “buffer de jitter ” en una videoconferencia:
+86. [TEMA="2022.130"] Señale la respuesta INCORRECTA  asociada a los “buffer de jitter” en una videoconferencia:
 a) Si el “buffer de jitter ” es demasiado pequeño se pueden originar problemas en la calidad de la llamada.
 b) Al aumentar el tamaño del “buffer de jitter ” aumenta el retardo total.
 c) El tamaño del “buffer de jitter ” se mide en número de paquetes máximos.
@@ -607,126 +607,126 @@ c) 801.2p.
 d) 802.5.
 ANSWER: B
 
-88. [TEMA="2022."] Indique cuál de las siguientes NO se corresponde con una de las capas habituales del modelo lógico de 3 capas en arquitecturas cliente -servidor:
+88. [TEMA="2022.117"] Indique cuál de las siguientes NO se corresponde con una de las capas habituales del modelo lógico de 3 capas en arquitecturas cliente -servidor:
 a) Negocio.
 b) Seguridad.
 c) Persis tencia.
 d) Presentación.
 ANSWER: B
 
-89. [TEMA="2022."] SDH (Synchronous Digital Hierarchy) es un protocolo de transmisión de haces de luz modulados digitalmente sobre fibra óptica. ¿Cuál de las siguientes respuestas respecto a SDH es INCORRECTA?:
+89. [TEMA="2022.2023"] SDH (Synchronous Digital Hierarchy) es un protocolo de transmisión de haces de luz modulados digitalmente sobre fibra óptica. ¿Cuál de las siguientes respuestas respecto a SDH es INCORRECTA?:
 a) Se usa en la transmisión de tramas (frames) ATM.
 b) Sustituye al protocolo PDH (Plesiochronous Digital Hirarchy).
 c) Está estandarizada por la ITU.
 d) Fue remplazado por SONET (Synchronous Digital Networking).
 ANSWER: D
 
-90. [TEMA="2022."] ¿Qué designa comúnmente el acrónimo DOCSIS?:
+90. [TEMA="2022.121"] ¿Qué designa comúnmente el acrónimo DOCSIS?:
 a) Un estándar para el envío de datos por cable coaxial.
 b) Un protocolo de capa de aplicación para el envío de vídeo con QoS.
 c) Un estándar de vídeo de alta resolución para comunicaciones satelitales.
 d) El estándar IEEE 802.11h.
 ANSWER: A
 
-91. [TEMA="2022."] Con respecto a los estándares de mensajería por correo SMTP (Simple Mail Transfer Protocol) y X.400:
+91. [TEMA="2022.122"] Con respecto a los estándares de mensajería por correo SMTP (Simple Mail Transfer Protocol) y X.400:
 a) Son complementarios: SMTP se emplea para el intercambio de e -mails y X.400 define el formato de los e -mails.
 b) Son complementarios: SMTP se emplea para el intercambio de e -mails y X.400 permite la descarga de e-mails del servidor de correo.
 c) Son complementarios: SMTP permite la descarga de e -mails del servidor de correo y X.400 se emplea para el intercambio de e -mails.
 d) Son equivalentes: SMTP es un protocolo de la capa IP/TCP y X.400 es una recomendación  ITU.
 ANSWER: D
 
-92. [TEMA="2022."] En el ámbito de las comunicaciones móviles, ¿qué es el “beamforming ”?:
+92. [TEMA="2022.92"] En el ámbito de las comunicaciones móviles, ¿qué es el “beamforming ”?:
 a) Una técnica de procesado de señal para aumentar la ganancia.
 b) Una técnica de procesado de señal para disminu ir las pérdidas por canal.
 c) Un mecanismo de direccionamiento físico de las antenas para ampliar la cobertura.
 d) Una técnica de diseño de celdas de cobertura.
 ANSWER: A
 
-93. [TEMA="2022."] En Android, la interfaz que permite al sistema operativo ser independiente de las implementaciones de controladores de bajo nivel, se denomina:
+93. [TEMA="2022.62"] En Android, la interfaz que permite al sistema operativo ser independiente de las implementaciones de controladores de bajo nivel, se denomina:
 a) MEI (Middleware Enabling Interface).
 b) DAL (Driver Agnostic Layer).
 c) HAL (Hardware Abstraction Layer).
 d) LKI (Linux Kernel Interface).
 ANSWER: C
 
-94. [TEMA="2022."] Respecto al CCN-CERT, ¿qué respuesta es CORRECTA?:
+94. [TEMA="2022.127"] Respecto al CCN-CERT, ¿qué respuesta es CORRECTA?:
 a) Ofrece los servicios de sistemas de alerta temprana de la Red SA RA y de Internet.
 b) Tiene por misión resolver los incidentes de las entidades financieras de cualquier tamaño.
 c) Es una entidad que depende del Ministerio de Defensa, en concreto del Mando Conjunto de Ciberdefensa.
 d) La Oficina de Coordinación Cibernética depende del CCN-CERT.
 ANSWER: A
 
-95. [TEMA="2022."] ¿Cuál de las respuestas siguientes es CORRECTA?:
+95. [TEMA="2022.128"] ¿Cuál de las respuestas siguientes es CORRECTA?:
 a) El Plan de Continuidad de Negocio engloba el Plan de Continuidad TIC y el Plan de Recuperación ante Desastres.
 b) Un Plan de Continuidad de Negocio puede no tener Plan de Recuper ación ante Desastres.
 c) Un Plan de Continuidad TIC puede no tener Plan de Recuperación ante Desastres.
 d) Un Plan de Recuperación ante Desastres puede no tener un Plan de Continuidad de Negocio.
 ANSWER: A
 
-96. [TEMA="2022."] Indique cuál de las siguientes respuestas relativas al régi men sancionador previsto en la Ley General de Comunicaciones es CORRECTA:
+96. [TEMA="2022.129"] Indique cuál de las siguientes respuestas relativas al régimen sancionador previsto en la Ley General de Comunicaciones es CORRECTA:
 a) La competencia sancionadora corresponde, en todo caso, a la Comisión Nacional de los Mercados y la Competencia.
 b) Las sanciones impuestas por faltas muy graves prescriben a los c inco años.
 c) La paralización del procedimiento sancionador por causa no imputable al presunto responsable durante 15 días interrumpe la prescripción.
 d) La negativa u obstrucción al acceso a las instalaciones es un criterio de graduación de las sanciones.
 ANSWER: D
 
-97. [TEMA="2022."] Son estándares ITU que se aplican en videoconferencia:
+97. [TEMA="2022.130"] Son estándares ITU que se aplican en videoconferencia:
 a) H.320, H323, H.325 y H.460.x.
 b) SIP, ICE y TURN.
 c) H.235.x y de H.320 a H.329.
 d) H.320 a H.324, H235.x y H460.x.
 ANSWER: D
 
-98. [TEMA="2022."] ¿Qué respuesta es INCORRECTA  respecto a SAML?:
+98. [TEMA="2022.125"] ¿Qué respuesta es INCORRECTA  respecto a SAML?:
 a) Es un estándar abierto basado  en XLM desarrollado por OASIS.
 b) Al ser un producto propietario, no tiene versiones “open source ”.
 c) Define una infraestructura para intercambio de credenciales entre distintos dominios de seguridad.
 d) Se integra con XML Encryption y XML Signature.
 ANSWER: B
 
-99. [TEMA="2022."] ¿Qué respuesta es CORRECTA?:
+99. [TEMA="2022.131"] ¿Qué respuesta es CORRECTA?:
 a) Emulación es la ejecución de las instrucciones originales en otro entorno hardware gracias a adaptaciones en la BIOS.
 b) Simulación es la reproducción de un entorno en otro que, a las mismas entradas predefinidas, devuelve las  salidas predefinidas.
 c) Un simulador requiere una máquina virtual, mientras que un emulador no.
 d) El rendimiento de simuladores y de emuladores es equivalente al de los entornos virtualizados.
 ANSWER: B
 
-100. [TEMA="2022."] ¿Cuál de las siguientes herramientas se usa para sindicar c ontenidos?:
+100. [TEMA="2022.77"] ¿Cuál de las siguientes herramientas se usa para sindicar contenidos?:
 a) SPARQL.
 b) RSS.
 c) CMS.
 d) Webquest.
 ANSWER: B
 
-Reserva 1. [RESERVA] [TEMA="2022."] El Cuadro de Mando Integral (CMI) es un sistema de gestión de las organizaciones que aúna las siguientes perspectivas:
+Reserva 1. [RESERVA] [TEMA="2022.33"] El Cuadro de Mando Integral (CMI) es un sistema de gestión de las organizaciones que aúna las siguientes perspectivas:
 a) Perspectiva de procesos internos, p erspectiva de desarrollo y aprendizaje, perspectiva financiera y p erspectiva de cliente.
 b) Perspectiva estratégica, perspectiva financiera, p erspectiva de procesos internos y perspectiva de análisis de la competencia.
 c) Persp ectiva de innovación con tinua, perspectiva financiera, p erspec tiva temporal y perspectiva estratégica.
 d) Perspectiva financiera, perspectiva política, p erspec tiva de mejora de la calidad y p erspectiva temporal.
 ANSWER: A
 
-Reserva 2. [RESERVA] [TEMA="2022."] ¿Cuál de las siguientes es una técnica de Gestión de Derechos Digitales (DRM  - Digital Rights Managemen t) considerada esteganográfica ?:
+Reserva 2. [RESERVA] [TEMA="2022.43"] ¿Cuál de las siguientes es una técnica de Gestión de Derechos Digitales (DRM  - Digital Rights Managemen t) considerada esteganográfica ?:
 a) El certificado digital.
 b) La marca de agua digital (watermarking).
 c) La protección basada en llaves.
 d) La firma digital.
 ANSWER: B
 
-Reserva 3. [RESERVA] [TEMA="2022."] El modelo de nube privada respecto al de nube pública supone:
+Reserva 3. [RESERVA] [TEMA="2022.55"] El modelo de nube privada respecto al de nube pública supone:
 a) Control total de la infraestructura.
 b) Retorno de la inversión más rápido.
 c) Menor especificad o particularización de los servicios.
 d) Baja inversión.
 ANSWER: A
 
-Reserva 4. [RESERVA] [TEMA="2022."] La vulnerabilidad “zero-day” detectada a finales de 2021, que permitía la ejecución arbitraria de código en servidores LDAP, recibe el nombre de:
+Reserva 4. [RESERVA] [TEMA="2022.126"] La vulnerabilidad “zero-day” detectada a finales de 2021, que permitía la ejecución arbitraria de código en servidores LDAP, recibe el nombre de:
 a) Log4Shell.
 b) BlueKeep.
 c) EternalBlue.
 d) ProxyLogon.
 ANSWER: A
 
-Reserva 5. [RESERVA] [TEMA="2022."] ¿Cuál de los siguientes NO es un tipo de ataque que afecte específicamente a sistemas blockchain?:
+Reserva 5. [RESERVA] [TEMA="2022.85"] ¿Cuál de los siguientes NO es un tipo de ataque que afecte específicamente a sistemas blockchain?:
 a) Ataque sybil.
 b) Ataque eclipse.
 c) Ataque smurf.
