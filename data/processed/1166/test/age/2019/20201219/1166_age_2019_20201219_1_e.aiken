@@ -145,7 +145,7 @@ c. Contienen memoria de sólo lectura y de almacenamiento, pero no pueden tener 
 d. Las operaciones criptográficas se realizan mediante una aplicación específica en un equipo informático.
 ANSWER: B
 
-22. [TEMA="2022."] En relación a los SGBD (Sistema Gestor de Base de Datos), el catálogo o Diccionario de Datos:
+22. [TEMA="2022.63"] En relación a los SGBD (Sistema Gestor de Base de Datos), el catálogo o Diccionario de Datos:
 a. Es un elemento opcional en los sistemas de gestión de base de datos.
 b. Emplea ficheros planos para almacenar los esquemas de las bases de datos y no tener autodependencias.
 c. Es un conjunto de metadatos que contiene las características de los datos que se van a utilizar en el sistema.

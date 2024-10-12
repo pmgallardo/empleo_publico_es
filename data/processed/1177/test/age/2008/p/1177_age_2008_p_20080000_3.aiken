@@ -1,0 +1,441 @@
+1. Señale la afirmación correcta respecto a la gestión de la configuración:
+a) Uno de sus objetivos es que se utilice la versión adecuada de los productos que se manejan en el sistema.
+b) La gestión de la configuración se lleva a cabo solo en la etapa de mantenimiento del sistema.
+c) El equipo de desarrollo no colabora en el desarrollo del Plan de Gestión de la Configuración.
+d) Se encarga de documentar adecuadamente la configuración de los servidores utilizados en el entorno de Producción de un Sistema de Información.
+ANSWER: A
+
+2. Señale que debe aumentar el administrador del sistema para aumentar la memoria virtual:
+a) Aumentar la memoria física del sistema.
+b) Aumentar la memoria RAM del sistema.
+c) Aumentar el tamaño de disco dedicado a la memoria virtual.
+d) Aumentar el tamaño dedicado al sistema operativo en el disco.
+ANSWER: C
+
+3. En el mundo del sistema operativo Unix existe una interface para que un proceso de usuario pueda comunicarse con el hardware. Señale cómo se llaman dichas interfaces:
+a) Sysraw
+b) ISC
+c) Call
+d) Sys
+ANSWER: B
+
+4. ¿Cuál de las siguientes características corresponde a una SAN (Storage Area Network) pero NO a una NAS (Network Attached Stotrage)?
+a) El dispositivo de almacenamiento no corresponde a un único servidor, pudiendo ser compartido por varios servidores.
+b) Las conexiones físicas desde los servidores hacia la plataforma son de uso específico para el almacenamiento, no siendo utilizadas para otros fines
+c) Las peticiones de datos al sistema se hacen de forma remota a través del protocolo CIFS
+d) Se comparte la misma infraestructura de red para los servidores y para el almacenamiento
+ANSWER: B
+
+5. Visualizando el contenido de uno de los siguientes archivos podemos saber los usuarios que hay dados de alta en un sistema Unix, señale cuál es:
+a) /etc/hosts
+b) /etc/passwd
+c) /usr/lst
+d) /adm/userbd
+ANSWER: B
+
+6. Indique cuál de las siguientes afirmaciones es FALSA en relación con los aspectos relativos a la programación concurrente en los sistemas multiproceso:
+a) Los algoritmos de exclusión mutua se usan en programación concurrente para permitir que fragmentos de código, conocidos como secciones críticas, accedan al mismo tiempo a recursos que no deben ser compartidos.
+b) Un semáforo es una variable especial protegida que constituye el método clásico para restringir o permitir el acceso a recursos compartidos en un entorno de multiprocesamiento.
+c) Los semáforos pueden llevar a situaciones de interbloqueos (deadlocks) en los que un proceso obtiene un semáforo, otro proceso obtiene el semáforo y ambos se quedan a la espera de que el otro proceso libere el semáforo.
+d) Un monitor es una construcción de concurrencia que contiene los datos y procedimientos necesarios para realizar la asignación de un recurso compartido determinado, o de un grupo de recursos compartidos.
+ANSWER: A
+
+7. Señale qué tienen en común los comandos "Top" y "vmstat":
+a) Proporcionan información sobre el uso de memoria de cada proceso
+b) Proporcionan información sobre el tiempo de CPU que lleva consumido por cada proceso
+c) Proporcionan información sobre el porcentaje del uso de CPU en modo usuario y en modo sistema
+d) Proporcionan básicamente la misma información, solo que "Top" la actualiza automáticamente
+ANSWER: C
+
+8. Señale qué elegiríamos si quisiéramos basarnos en un estándar internacional para la Gestión de Servicios de Tecnologías de la Información de nuestra organización:
+a) El Modelo de Madurez y Capacidad Integrado (CMMI).
+b) La Biblioteca de Infraestructura de Tecnologías de Información (ITIL).
+c) ISO 9000:2000
+d) ISO/IEC 20000
+ANSWER: D
+
+9. En la gestión del espacio de un disco, en un sistema operativo de tipo UNIX, señale qué proporciona el comando "du":
+a) El espacio disponible.
+b) El tipo de archivos.
+c) El tipo de datos.
+d) El espacio que ocupa un directorio y sus archivos.
+ANSWER: D
+
+10. Las funciones y responsabilidades de un administrador del sistema operativo en una instalación son, básicamente, controlar el correcto funcionamiento del sistema y poner los medios para garantizar sus funciones. Indique cuál es una de esas funciones:
+a) Desarrollar nuevas versiones de los Sistemas Operativos instalados.
+b) Planificar proyectos de implantación de servicios y llevar el seguimiento de las tareas que componen dichos proyectos, así como la gestión de los recursos humanos que intervienen en ellos.
+c) Instalar el Sistema Operativo, actualizar los parches, monitorizar el uso de recursos y corregir las posibles incidencias.
+d) Realizar la adquisición de nuevos elementos hardware para la instalación.
+ANSWER: C
+
+11. Por razones de rendimiento se ha efectuado un cambio determinado en el sistema operativo. Este cambio supone una violación de un estándar de las políticas de seguridad. Señale cómo debe resolverse este conflicto:
+a) Mediante el Análisis Coste-Beneficio.
+b) A favor de la norma o estándar de seguridad, que debe prevalecer.
+c) A favor del cambio en los sistemas.
+d) De acuerdo con las mejores prácticas conocidas en el sector industrial.
+ANSWER: A
+
+12. ¿Cuál de las siguientes NO es responsabilidad del Administrador de una base de datos?
+a) Monitorizar y optimizar el rendimiento de la base de datos.
+b) Hacer copias de seguridad de la base de datos y restaurarlas si fuera necesario.
+c) Seleccionar el hardware sobre el que se instalará la base de datos.
+d) Instalar la base de datos y las actualizaciones necesarias.
+ANSWER: C
+
+13. Crear vistas en una BD se podría encuadrar dentro del siguiente nivel definido por ANSI/X3/SPARC:
+a) Conceptual
+b) Externo
+c) Físico
+d) Canónico
+ANSWER: B
+
+14. Si es usted es DBA (Administrador de Base de Datos) del área informática de una organización, y debe eliminar una tabla de una de las bases de datos que gestiona, ¿qué utilizaría?
+a) Una sentencia SQL/DDL (Lenguaje de Definición de Datos) con el comando DELETE.
+b) Una sentencia SQL/DML (Lenguaje de Manipulación de Datos) con el comando DELETE.
+c) Una sentencia SQL/DML (Lenguaje de Manipulación de Datos) con el comando DROP.
+d) Una sentencia SQL/DDL (Lenguaje de Definición de Datos) con el comando DROP.
+ANSWER: D
+
+15. ¿Puede el administrador de la Base de Datos Relacional autorizar a un usuario para que pueda añadir columnas en una tabla permitiendo que este usuario pueda autorizar a otros este mismo privilegio?
+a) Añadir columnas en una tabla es tarea exclusiva del administrador de la Base de Datos y no puede delegarla
+b) Añadir columnas en una tabla no requiere la autorización del administrador de la Base de Datos
+c) Sí, puede autorizar a que un usuario añada columnas en una tabla, pero no puede autorizar para que un usuario pueda a su vez conceder este privilegio
+d) Sí puede autorizar ambas cosas
+ANSWER: D
+
+16. Señale qué lenguaje es el que incluye las operaciones de creación, modificación y eliminación de las estructuras de la base:
+a) DDL
+b) DML
+c) DLC
+d) TCL
+ANSWER: A
+
+17. Señale cuál de los siguientes controles es el más crítico sobre las actividades de administración de bases de datos:
+a) Aprobación de las actividades de Administrador de bases de datos
+b) Segregación de tareas
+c) Revisión de logs de acceso y actividades
+d) Revisión del uso de las herramientas del Sistema Gestor de Base de Datos (SGBD)
+ANSWER: B
+
+18. En sistemas windows, señale cuál es la herramienta que permite realizar tareas de inventario, distribución de software y control remoto:
+a) SMS, system management service.
+b) SAK, system admistration kit.
+c) AMK, administration and management kit.
+d) RSM, remote server manager.
+ANSWER: A
+
+19. Indique cuál de las siguientes afirmaciones es FALSA en relación con la Gestión de la Capacidad de equipos e instalaciones:
+a) Debe asegurar que se cubren las necesidades de capacidad de las TIC tanto presentes como futuras.
+b) Debe controlar el rendimiento de la infraestructura TIC.
+c) Debe desarrollar planes de capacidad asociados a los niveles de servicio acordados, gestionando y racionalizando la demanda de servicios TIC.
+d) Debe resolver cualquier incidente que cause una interrupción en el servicio de la manera más rápida y eficaz posible.
+ANSWER: D
+
+20. ¿Cuáles de las siguientes tareas podrían ser llevadas a cabo por la misma persona dentro de un departamento de sistemas de información sin repercusiones negativas para el control y la seguridad?
+a) Administración de seguridad y gestión de cambios.
+b) Operaciones de producción y desarrollo de sistemas.
+c) Desarrollo de sistemas y gestión de cambios.
+d) Desarrollo de sistemas y mantenimiento de sistemas.
+ANSWER: D
+
+21. Señale qué elemento o sistema NO aplica en la gestión de copias de seguridad:
+a) La verificación de la corrección de la copia.
+b) La carga de información en los sistemas OLAP.
+c) Un armario ignífugo alejado del CPD.
+d) Un robot de soportes que automatiza la copia.
+ANSWER: B
+
+22. Señale la afirmación correcta. Los procedimientos de control de cambios ayudan a mantener la integridad de la información del sistema asegurando que:
+a) El código pasado a producción está autorizado.
+b) El código de producción está libre de errores.
+c) Los datos activos son periódicamente auditados.
+d) Los datos activos son actualizados periódicamente.
+ANSWER: A
+
+23. [ANULADA] ¿Qué utilidad en los sistemas HPUX se utiliza para monitorizar el estado de los procesos en ejecución?
+a) Onstat
+b) Status
+c) ps
+d) A
+ANSWER:
+
+24. El objetivo clave en la planificación de la capacidad de los sistemas informáticos es asegurar que:
+a) Los recursos disponibles son plenamente empleados.
+b) Se añadirán nuevos recursos para las nuevas aplicaciones de manera puntual.
+c) Los recursos existentes se emplean de manera eficaz y eficiente.
+d) La utilización de recursos no baja del 85%.
+ANSWER: C
+
+25. Dentro de las topologías SAN, señale cuál es la que permite conectar hasta 126 dispositivos:
+a) Punto a punto
+b) Fibre Channel Arbitred loop
+c) Switched fabric
+d) Ninguna de las anteriores
+ANSWER: B
+
+26. ¿Cuál de las siguientes aseveraciones es FALSA en relación con los sistemas de discos múltiples RAID (Redundant Array of Independent Disks)?
+a) Un RAID 1 crea una copia exacta (o espejo) de un conjunto de datos en dos o más discos.
+b) Un RAID 1 resulta útil cuando el rendimiento en lectura es más importante que la capacidad.
+c) Un RAID 2 divide los datos a nivel de bits en lugar de a nivel de bloques y usa un código de Hamming para la corrección de errores.
+d) Un RAID 0 (también llamado conjunto dividido o volumen dividido) distribuye los datos equitativamente entre dos o más discos con información de paridad para proporcionar redundancia.
+ANSWER: D
+
+27. ¿Cuántas unidades de disco se necesitan como mínimo para implementar una solución RAID 5?
+a) 1
+b) 2
+c) 3
+d) 4
+ANSWER: C
+
+28. En las redes Ethernet las especificaciones del medio son variadas. Para la especificación 1000Base-T, indique qué cable se utiliza:
+a) FTP
+b) Coaxial fino
+c) UTP-5
+d) UTP-3
+ANSWER: C
+
+29. Indique la afirmación correcta en relación con la transmisión por fibra óptica:
+a) La velocidad de propagación de la luz a través de una fibra óptica monomodo es de 300.000 Kms/seg.
+b) La fibra óptica monomodo tiene una atenuación menor que el cable coaxial.
+c) A la fibra óptica monomodo también se la conoce como de índice gradual.
+d) La fibra óptica multimodo es la que presenta menores pérdidas de la señal.
+ANSWER: B
+
+30. ¿Cuántos elementos conductores diferenciados tiene un cable coaxial?
+a) 4
+b) 3
+c) 2
+d) 1
+ANSWER: C
+
+31. [ANULADA] Cuando un "switch" (conmutador) segmenta una LAN, ¿cuál de las siguientes subdivisiones se produce?
+a) Microsegmentos
+b) Grupos de trabajo
+c) Dominios de broadcast
+d) Grupos de acceso
+ANSWER:
+
+32. En la herramienta de monitorización remota -RMON-, señale qué elemento genera la información estadística de los nodos:
+a) El cliente
+b) El servidor
+c) Los dos anteriores
+d) Ninguno de los anteriores
+ANSWER: B
+
+33. Señale cuál de las siguientes características está disponible en SNMP v3, y NO lo estaba en las versiones previas:
+a) Mensajes GetBulkRequest
+b) Sentencias username para auntenticación
+c) Mensajes GetNextRequest
+d) Saludo de tres vías y reconocimiento para la transferencia de mensajes
+ANSWER: B
+
+34. Señale la afirmación correcta. TCP es:
+a) Un protocolo de la capa de transporte orientado a conexión.
+b) Un protocolo de la capa de transporte no orientado a conexión.
+c) Un protocolo de las capas de enlace y red que puede detectar y compensar paquetes perdidos o datos alterados.
+d) Un protocolo de la capa de transporte orientado fundamentalmente a regular el flujo de transmisión para no saturar a los receptores más lentos.
+ANSWER: A
+
+35. ¿Cuáles son los principales protocolos que operan en la capa de transporte en el modelo TCP/IP?
+a) IPX y FTP
+b) UDP y TCP
+c) IP y TCP
+d) UDP y IP
+ANSWER: B
+
+36. Señale cómo se denomina la unidad de datos usada en la capa de transporte:
+a) Paquete
+b) Segmento
+c) Trama
+d) Ninguna de las anteriores
+ANSWER: B
+
+37. ¿Es posible que en una misma sesión/aplicación sobre Internet se utilicen simultáneamente los protocolos de
+seguridad IPSec y SSL?
+a) No, se debe elegir en la implementación de la aplicación una de las dos, pues trabajan en el mismo nivel.
+b) No, se debe elegir en la implementación de la aplicación una de las dos, pues son incompatibles a nivel de socket.
+c) Sí, no debe presentar especiales problemas.
+d) Sí, pero necesita una adaptación especial para que no se produzca una transposición de claves.
+ANSWER: C
+
+38. A la hora de planificar un Centro de Tratamiento de la Información, dentro de las medidas de seguridad se aplican una serie de salvaguardas. Señale cuáles son:
+a) Solamente técnicas.
+b) Técnicas, organizativas y físicas.
+c) Técnicas, organizativas, físicas y de política de personal.
+d) Técnicas, metodológicas, físicas y organizativas.
+ANSWER: C
+
+39. Para evaluar el comportamiento de un sistema es necesario disponer de una serie de medidas cuantitativas. La cantidad de trabajo útil ejecutado por unidad de tiempo en un entorno de carga determinado, se denomina:
+a) Productividad.
+b) Capacidad.
+c) Overhead.
+d) Tiempo de respuesta.
+ANSWER: A
+
+40. Dentro de la arquitectura MPLS -Multiple Protocol Label Switching-, tecnología de conmutación para circuitos virtuales, ¿cómo se denomina al tráfico que se encamina bajo una etiqueta?
+a) FER
+b) LSB
+c) FEC
+d) LSR
+ANSWER: C
+
+41. Indique cuál de los siguientes NO es un paquete que se curse en el nivel 3 del protocolo X.25 en la fase de establecimiento de la conexión
+a) CALL REQUEST
+b) INCOMING CALL
+c) CLEAR INDICATION
+d) CALL CONECTED
+ANSWER: C
+
+42. Indique cuál de los siguientes NO es un protocolo de encaminamiento IGP (Interior Gateway Protocol)
+a) RIP
+b) BGP
+c) OSPF
+d) IGRP
+ANSWER: B
+
+43. ATM (modo de transferencia asíncrono)es un protocolo de nivel 2 utilizado en las redes de operadores sobre el que se encapsulan protocolos de niveles superiores en celdas de 53 octetos. Indique cuál de las siguientes capas es la encargada de añadir los últimos 5 bytes de overhead ó sobrecarga de protocolo a los 48 bytes restantes para completar la celda ATM.
+a) Capa AAL1
+b) Capa CBR
+c) Capa AAL5
+d) Capa ATM
+ANSWER: D
+
+44. ¿Cuál de las siguientes clases de servicio proporcionadas por el protocolo ATM (Asynchronous Transfer Mode) deberíamos utilizar para la transmisión de video MPEG?
+a) ABR
+b) VBR-RT
+c) VBR-NRT
+d) UBR
+ANSWER: B
+
+45. En relación con el protocolo MPLS (Multiprotocol Label Switching), indique cuál de las siguientes afirmaciones es FALSA:
+a) En MPLS el camino que el tráfico sigue por los nodos está prefijado desde el origen.
+b) En MPLS se puede ofrecer un conjunto mayor y más flexible de servicios sobre las redes de operador, si bien, el mecanismo de conmutación de etiquetas es algo más lento que el mecanismo de encaminamiento IP.
+c) Sobre MPLS se pueden establecer Redes Privadas Virtuales de nivel 3 con protocolo IP
+d) Sobre MPLS se pueden establecer Redes Privadas Virtuales de nivel 2 con VPLS
+ANSWER: B
+
+46. Las redes ATM se caracterizan por:
+a) Las células se transmiten a intervalos regulares.
+b) Se realiza control de errores en el campo de datos.
+c) No se garantiza que las células llegan a su destino en el mismo orden en el que fueron transmitidas.
+d) Se realiza control de flujo en la red ATM.
+ANSWER: A
+
+47. ¿Cuál de los siguientes no es un requisito indispensable para una comunicación segura?
+a) Auditoría
+b) Confidencialidad
+c) Integridad
+d) Disponibilidad
+ANSWER: A
+
+48. Las funciones "hash" en los procesos de firma electrónica se emplean para:
+a) Garantizar la integridad de lo firmado.
+b) Asegurar la confidencialidad de lo firmado.
+c) Autenticar al firmante.
+d) Asegurar el no repudio del firmante.
+ANSWER: A
+
+49. Señale la respuesta FALSA:
+a) HTTPS es la versión segura del protocolo HTTP.
+b) Utiliza cifrado basado en SSL.
+c) El puerto estándar es el 443.
+d) Basta con que la dirección web empiece por https para que sea una página segura.
+ANSWER: D
+
+50. Uno de los grupos de tecnologías consideradas en el ámbito de la Web 2.0 es AJAX (Asynchronous JavaScript And XML). Indique cuál de las siguientes afirmaciones NO se corresponde con este grupo de tecnologías.
+a) Es una técnica de desarrollo web para crear aplicaciones interactivas o RIA (Rich Internet Applications)
+b) Estas aplicaciones se ejecutan en el servidor y mantiene comunicación asíncrona con el cliente en segundo plano.
+c) En los entornos RIA no se producen recargas de página, ya que desde el principio se carga toda la aplicación y sólo se produce comunicación con el servidor cuando se necesitan datos externos como los de una Base de Datos o de otros ficheros externos.
+d) Lleva consigo la utilización de XHTML (o HTML) y hojas de estilos en cascada (CSS) para el diseño que acompaña a la información.
+ANSWER: B
+
+51. Interprete el funcionamiento de aplicar la máscara de subred 255.255.240.0 a la dirección IP 132.90.132.5:
+a) Host 5 de la subred 132.90.132.0
+b) Host 4.1 de la subred 132.90.128.4
+c) Host 4 de la subred 132.90.128.5
+d) Host 4.5 de la subred 132.90.128.0
+ANSWER: D
+
+52. ¿Qué servicio xDSL permite disponer de circuitos simétricos de 2 Mbps orientados a fines profesionales o de negocios?
+a) HDSL
+b) RADSL
+c) ADSL
+d) ZDSL
+ANSWER: A
+
+53. ¿Cuál es la velocidad máxima de bajada con el estándar G.992.5, conocido como ADSL2+?
+a) 10 Mbps
+b) 12 Mbps
+c) 2 Mbps
+d) 24 Mbps
+ANSWER: D
+
+54. ¿Cuál de los siguientes es un estándar de transmisión de datos sobre sistemas de televisión por cable (CATV)?
+a) Data Over Cable Service Interface Specifications (DOCSIS)
+b) National Television System Committee (NTSC)
+c) ATP
+d) Xtream
+ANSWER: A
+
+55. En voz sobre IP, integración de voz y datos, señale cuál es el protocolo que se encarga de los mensajes de control (participantes, medidas de calidad, etc.):
+a) UDP
+b) RTTP
+c) G729
+d) RTCP
+ANSWER: D
+
+56. ¿Cuál de los siguientes es un estándar, cada vez más utilizado en telefonía IP, para la conexión de los terminales a la infraestructura de red del edificio donde se pretende implantar?
+a) PCM
+b) IEEE 802.3af
+c) G.730
+d) IEEE 802.11b
+ANSWER: B
+
+57. Entre las ventajas del protocolo de control MGCP (Media Gateway Control Protocol) NO se encuentra:
+a) Escalabilidad
+b) Dependencia del fabricante
+c) Fiabilidad
+d) Tiempo de desarrollo reducido
+ANSWER: B
+
+58. ¿Cuál es la velocidad máxima teórica a la que se puede transmitir en HSDPA (High Speed Downlink Packet Access)?
+a) 2,5 Mbps
+b) 14,4 Mbps
+c) 3,5 Mbps
+d) 1 Mbps
+ANSWER: B
+
+59. La tecnología de telefonía móvil basada en "femtocell" o microantenas pretende dar solución a todos los problemas siguientes, excepto:
+a) Mejorar la cobertura en grandes edificios.
+b) Enrutar el tráfico a través de las redes convencionales de banda ancha, en vez de sobre las celdas de los operadores de telefonía móvil.
+c) Poder transmitir bajo demanda video en alta definición en formato HDMI.
+d) Reducir el consumo de batería de los terminales móviles, alargando así su vida útil.
+ANSWER: C
+
+60. [ANULADA] ¿Cuál de las siguientes afirmaciones sobre WiMAX (Worldwide Interoperability for Microwave Access) es FALSA?
+a) Puede transmitir a velocidades de hasta 70 Mbps.
+b) Los estándares WiMAX son 802.16d para terminales fijos y 802.16e para terminales móviles.
+c) Las antenas operan en una frecuencia de hasta 60 mHz.
+d) Las antenas requieren visibilidad directa entre las estaciones base.
+ANSWER:
+
+1. [RESERVA] El estándar utilizado en España para la transmisión de TDT (Televisión Digital Terrestre) es:
+a) DVB-T
+b) DVB-S
+c) COFDM
+d) HDTV
+ANSWER: A
+
+2. [RESERVA] ¿Qué tipo de modulación se utiliza en el estándar TDT (Televisión Digital Terrestre) utilizado en España?
+a) QPSK
+b) QAM
+c) COFDM
+d) G.711
+ANSWER: C
+
+3. [RESERVA] La tecnología PLC (Power Line Comunications):
+a) Se corresponde con el estándar 802.16e.
+b) Utiliza la técnica de multiplexación por división en el tiempo TDMA (Time Division Multiple Access).
+c) Emplea la modulación OFDM (Orthogonal Frequency Division Multiplexing).
+d) No se ve afectada por interferencias ni perturbaciones.
+ANSWER: C

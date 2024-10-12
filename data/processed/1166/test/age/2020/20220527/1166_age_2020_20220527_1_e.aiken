@@ -285,8 +285,8 @@ c) El sCRM logr a la integración entre las distintas áreas de la organización
 d) El sCRM permite llevar cabo una planificación más adecuada de la estrategia futura al disponer de herramientas de análi sis y el CRM no.
 ANSWER: B
 
-42. [TEMA="2022."] Se conoce como "Mobile learning" a:
-a) Una modalidad de enseñanza semipresencial que incluye formación presencial y  ”e-learning ”.
+42. [TEMA="2022.73"] Se conoce como "Mobile learning" a:
+a) Una modalidad de enseñanza semipresencial que incluye formación presencial y ”e-learning ”.
 b) Una modalidad educativa que facilita el aprendizaje de forma autónoma  y ubicua gracias a la mediación  de dispositivos.
 c) La adaptación del modelo de enseñanza al contexto en el que se encuentra el estudiante.
 d) La formación “on line” de propósito abierto y proyección masiva.
@@ -404,7 +404,7 @@ c) Dependencia de identificación.
 d) Dependencia funcional.
 ANSWER: D
 
-59. [TEMA="2022.58"] El lenguaje de ejecución de procesos de negocio que permite coordinar aquellas actividades, dentro de un proceso de negocio, que requieren llamadas o relación con otros servicios y que fue estandarizado por OASIS se conoce como:
+59. [TEMA="2022.90"] El lenguaje de ejecución de procesos de negocio que permite coordinar aquellas actividades, dentro de un proceso de negocio, que requieren llamadas o relación con otros servicios y que fue estandarizado por OASIS se conoce como:
 a) BPEL.
 b) XPDL.
 c) SPEM.
@@ -418,7 +418,7 @@ c) MTBUR.
 d) MTTF.
 ANSWER: C
 
-61. [TEMA="2022.92"] En notación UML el diagrama de actividades:
+61. [TEMA="2022.90"] En notación UML el diagrama de actividades:
 a) Enfoca la interacción entre líneas de vida, donde es central la arquitectura de la estructura interna y cómo ella se corresponde con el pasaje de mensajes.
 b) Representa los procesos de negocios de alto nivel, incluidos el flujo de datos. También puede utilizarse para modelar lógica compleja y/o paralela dentro de un sistema.
 c) Muestra una colección de elementos de modelado declarativo (estáticos), tales como clases, tipos y sus contenidos y relaciones.
@@ -530,14 +530,14 @@ c) Nonce.
 d) Árbol de Merkle.
 ANSWER: B
 
-77. [TEMA="2022."] En relación con la digitalización y transmisión de señales, indique la opción CORRECTA:
+77. [TEMA="2022.108"] En relación con la digitalización y transmisión de señales, indique la opción CORRECTA:
 a) De acuerdo con el Teorema de Nyquist, se puede reconstruir una señal analógica si la tasa de muestreo es superior al dob le de su ancho de banda, aumentando la eficiencia al incrementarse la citada tasa.
 b) La cuantificación de los valores obtenidos en el muestreo no produce distorsión y es reversible, en la mayoría de los casos.
 c) La codificación digital NRZ-I cambia la tensión cuando se encuentra un 1.
 d) Se define la eficiencia espectral como la relación entre la velocidad de transmisión de información de un caudal y la relación señal a ruido del canal utilizado para transmitirla.
 ANSWER: C
 
-78. [TEMA="2022.107"] En relación con la modulación de señales , indique la opción CORRECTA:
+78. [TEMA="2022.108"] En relación con la modulación de señales, indique la opción CORRECTA:
 a) La señal portadora es una onda no periódica que sirve para trasladar a otra zona del espectro la señal a transmitir.
 b) La señal moduladora no contiene información a transmitir.
 c) La señal analógica no puede utilizarse par a transmitir información digital.
@@ -600,7 +600,7 @@ c) El tamaño del “buffer de jitter ” se mide en número de paquetes máximo
 d) Al aumentar el tamaño del “buffer de jitter ” se reduce la probabilidad de pérdida de paquetes.
 ANSWER: C
 
-87. [TEMA="2022."] ¿Cuál de las siguientes respuestas recoge las especificaciones de las VLANs?:
+87. [TEMA="2022.118"] ¿Cuál de las siguientes respuestas recoge las especificaciones de las VLANs?:
 a) 802.1p.
 b) 802.1q.
 c) 801.2p.

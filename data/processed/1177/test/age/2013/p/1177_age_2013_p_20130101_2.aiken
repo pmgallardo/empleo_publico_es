@@ -1,0 +1,443 @@
+BLOQUE III
+1. Señale la respuesta correcta. En la programación orientada a objetos en Java, sí una clase hereda de otra clase un método abstracto:
+a) Tiene que implementar ese método, si no es así, la clase que hereda deberá ser definida abstracta.
+b) Puede usar el método de la clase de la que ha heredado.
+c) Puede usar el método de la clase de la que ha heredado siempre que esté declarado como public.
+d) No se puede heredar de una clase que tenga algún método abstracto.
+ANSWER: A
+
+2. El modelo de desarrollo RAD (Rapid Application Development) fue descrito inicialmente por:
+a) Codd
+b) Boehm
+c) Chen
+d) James Martin
+ANSWER: D
+
+3. Los puntos de fijación (anchor points) son característicos en el modelo de desarrollo:
+a) En cascada.
+b) Basado en prototipos.
+c) En espiral WINWIN.
+d) RAD.
+ANSWER: C
+
+4. Según Métrica v3, los flujos que interconectan actividades en la técnica SADT (Structured Analysis and Design Technique) se pueden clasificar en 4 tipos, señale cuál de los siguientes flujos NO es correcto:
+a) Control.
+b) Transacción.
+c) Mecanismo.
+d) Entrada.
+ANSWER: B
+
+5. La finalidad principal de la Gestión de Proyectos según Métrica v3 es la planificación, el seguimiento y control de:
+a) Las actividades y de los recursos humanos que intervienen en el desarrollo de un Sistema de Información (S.I).
+b) Las actividades que intervienen en el desarrollo de un S.I.
+c) Las actividades y de los recursos humanos y materiales que intervienen en el desarrollo de un S.I.
+d) Los recursos humanos y materiales que intervienen en el desarrollo de un S.I.
+ANSWER: C
+
+6. El "nivel de definición" del modelo CMM (Capability Maturity Model) se caracteriza por:
+a) Proceso poco documentado.
+b) Proceso de desarrollo por definir.
+c) Proceso de desarrollo integrado en la organización.
+d) Control cuantitativo de productos.
+ANSWER: C
+
+7. ¿A qué perfil de Métrica v3 pertenece el Responsable de Mantenimiento?
+a) Jefe de Proyecto.
+b) Consultor.
+c) Analista.
+d) Programador.
+ANSWER: A
+
+8.En Métrica v3, para la tarea "GPI 1.1, identificación de elementos a desarrollar", el producto de salida específico en orientación a objeto es:
+a) Catálogo de clases.
+b) Catálogo de entidades.
+c) Catálogo de miembros.
+d) Catálogo de interfaces.
+ANSWER: A
+
+9.Cuál de las siguientes palabras y acrónimos NO está relacionado con Metodologías Ágiles para el desarrollo de software:
+a) SCRUM
+b) XP
+c) DSDM
+d) AGILD
+ANSWER: D
+
+10. ¿Cuál de las siguientes actividades forma parte de la Planificación de los Sistemas de Información según Métrica 3?
+a) Estudio de los Sistemas de Información Actuales.
+b) Definición de los Requisitos del Sistema.
+c) Valoración de Alternativas.
+d) Definición del sistema.
+ANSWER: A
+
+11.¿Qué practicas, según Métrica v3, tienen como objetivo potenciar la participación activa de ANSWER:la alta dirección como medio para obtener los mejores resultados en el menor tiempo posible y con una mayor calidad de los productos?
+a) Sesiones JAD.
+b) Sesiones JRP.
+c) Entrevistas.
+d) Reuniones.
+ANSWER: B
+
+12.Señale de entre las siguientes, la norma que establece los requisitos para el diseño y desarrollo de la documentación del software de usuario como parte de los procesos del ciclo de vida:
+a) ISO/IEC 26514.
+b) ISO 7816.
+c) ISO/IEC 12207.
+d) ISO 8859.
+ANSWER: A
+
+13.¿Cuál de los siguientes estándares regula los procesos de ciclo de vida del software?
+a) ISO/IEC 12207:2008
+b) ISO 9001:2008
+c) ISO 29393:2009
+d) ISO 31000:2009
+ANSWER: A
+
+14.Señale cuál de las siguientes es una técnica de desarrollo según Métrica v3:
+a) Técnicas Matriciales.
+b) Método Albrecht.
+c) Análisis de Impacto.
+d) Caminos de Acceso.
+ANSWER: A
+
+15.Dentro del perfil analista de Métrica v3 se agrupa uno de los siguientes participantes:
+a) Especialista en Comunicaciones.
+b) Usuarios expertos.
+c) Técnicos de Comunicaciones.
+d) Grupo de Aseguramiento de la Calidad.
+ANSWER: D
+
+16. ¿Cuál de los siguientes contradice un principio de las metodologías ágiles de desarrollo software (principios del Manifiesto Ágil)?
+a) Son bienvenidos los requisitos cambiantes, incluso si llegan en las etapas tardías del desarrollo.
+b) Los responsables de negocio y los desarrolladores trabajan juntos de forma cotidiana durante todo el proyecto.
+c) El software, en su fase de diseño, es la medida principal de progreso.
+d) La simplicidad, o el arte de maximizar la cantidad de trabajo no realizado, es esencial.
+ANSWER: C
+
+17.La actividad EVS-GC 1 de la interface de Gestión de la Configuración (GC) de Métrica v3 recibe entre sus entradas un producto resultante de la actividad:
+a) EVS 4 - Estudio de Alternativas de Solución.
+b) EVS 5 - Valoración de las Alternativas.
+c) EVS 3 - Definición de Requisitos del Sistema.
+d) EVS 1 - Establecimiento del Alcance del Sistema.
+ANSWER: C
+
+18.En un proyecto de desarrollo que utiliza la metodología SCRUM, aquel rol que tiene la responsabilidad de eliminar los obstáculos que impidan el progreso del equipo se denomina:
+a) Product owner.
+b) Retail Cashier.
+c) ScrumMaster.
+d) Development team member.
+ANSWER: C
+
+19.¿Cuál de las siguientes es una herramienta que ayuda a realizar seguimiento a los requisitos a lo largo del ciclo de vida del proyecto para asegurar que se están cumpliendo de manera eficaz?
+a) Cuestionarios.
+b) Casos de uso.
+c) Matriz de trazabilidad de requisitos.
+d) Prototipos.
+ANSWER: C
+
+20.Escoja la ordenación correcta de las siguientes técnicas para la realización de prototipos de menor a mayor grado de fidelidad con el sistema final:
+a) Mockup, Sketch y WireFrame.
+b) Sketch, Mockup y WireFrame.
+c) Sketch, WireFrame y Mockup.
+d) Mockup, Wireframe y Sketch.
+ANSWER: C
+
+21. Para las siguientes conexiones entre elementos de un DFD (Diagrama de flujo de datos), NO es posible el flujo:
+a) Proceso-Proceso.
+b) Proceso-Entidad Externa.
+c) Almacén de datos-Almacén de datos.
+d) Entidad Externa-Proceso.
+ANSWER: C
+
+22.Señale cuál de las siguientes NO es un tipo de conexión válida entre un proceso y un almacén de datos de un DFD (diagrama de flujo de datos), según Métrica v3:
+a) Flujo de consulta.
+b) Flujo de actualización.
+c) Flujo de diálogo.
+d) Flujo de sincronización.
+ANSWER: D
+
+23.¿Cuál de los siguientes conceptos NO se puede representar a través de un diagrama de flujo de datos?
+a) La persistencia.
+b) Los procesos de transformación.
+c) El flujo de la información.
+d) La herencia.
+ANSWER: D
+
+24.Según Métrica v3 ¿es posible definir un evento (o interrupción) en un diagrama de flujo de datos?
+a) Sí, mediante un flujo de datos.
+b) Sí, mediante un flujo de control.
+c) Si, mediante un proceso iterativo.
+d) No, no es posible. Los DFD únicamente representan como se transforma la información.
+ANSWER: B
+
+25. Dentro del diseño conceptual de datos, en una jerarquía de generalización se dice que un subconjunto (caso particular de generalización con una sola entidad como subentidad) siempre es una jerarquía:
+a) Total y exclusiva.
+b) Parcial y superpuesta.
+c) Parcial y exclusiva.
+d) Total y superpuesta.
+ANSWER: C
+
+26. ¿Cuál de los siguientes es un Sistema Gestor de Bases de Datos Orientado a Objetos?
+a) Microsoft SQL Server.
+b) Versant.
+c) MariaDB.
+d) MySQL.
+ANSWER: B
+
+27. En Métrica v3, en relación al modelo entidad/relación extendido, dentro de las relaciones débiles, ¿qué dos divisiones se distinguen?
+a) Dependencia en existencia y dependencia en identificación.
+b) Dependencia en composición y dependencia en identificación.
+c) Dependencia en existencia y dependencia en discriminación.
+d) Dependencia en composición y dependencia en discriminación.
+ANSWER: A
+
+28. En un entorno de base de datos relacional, si se puede afirmar que los valores de una clave ajena coinciden con los valores de la clave primaria a la que hace referencia o son nulos; entonces se está cumpliendo:
+a) Regla de los nulos.
+b) Regla de integridad de la entidad.
+c) Regla de la integridad referencial.
+d) Regla de los valores ajenos.
+ANSWER: C
+
+29. Indique los cuatro niveles de aislamiento que define ANSI SQL 92:
+a) Lecturas no confirmadas (read uncommited), lecturas confirmadas (read commited), lecturas repetibles (repeatable read), transacciones secuenciables (serializable).
+b) Escrituras no confirmadas (write uncommited), escrituras confirmadas (write commited), escrituras repetibles (repeatable write), transacciones secuenciables (serializable).
+c) Escrituras no confirmadas (write uncommited), escrituras confirmadas (write commited), lecturas repetibles (repeatable read), transacciones secuenciables (serializable).
+d) Lecturas no confirmadas (read uncommited), lecturas confirmadas (read commited), escrituras repetibles (repeatable write), transacciones secuenciables (serializable).
+ANSWER: A
+
+30.El término anglosajón "ACID" relacionado con una transacción de base de datos se corresponde con las propiedades:
+a) Autentication, Consistency, Integrity, Durability.
+b) Atomicity, Confidentiality, Identification, Durability.
+c) Atomicity, Consistency, Isolation, Durability.
+d) Availability, Consistency, Isolation, Durability.
+ANSWER: C
+
+31.En relación con la concurrencia en bases de datos, el tamaño del elemento de datos adecuado para el bloqueo (granularidad) afecta al grado de concurrencia de forma que, a menor tamaño del elemento que es bloqueado:
+a) Aumenta el grado de concurrencia, aumenta la carga de trabajo para la gestión de bloqueos y el espacio ocupado por la información de bloqueos.
+b) Disminuye el grado de concurrencia, aumenta la carga de trabajo para la gestión de bloqueos y el espacio ocupado por la información de bloqueos.
+c) Disminuye el grado de concurrencia, disminuyendo la carga de trabajo para la gestión de bloqueos y el espacio ocupado
+por la información de bloqueos.
+d) Aumenta el grado de concurrencia, disminuyendo la carga de trabajo para la gestión de bloqueos y el espacio ocupado por
+la información de bloqueos.
+ANSWER: A
+
+32.La instrucción que aborta la transacción en un SGBD y la hace terminar en forma no exitosa se denomina:
+a) Undo.
+b) Rollback.
+c) Two Phase Commit.
+d) Commit.
+ANSWER: B
+
+33. [ANULADA] Al problema en un SGBD en que dos transacciones paralelas intentan modificar el mismo objeto de la base de datos, leyendo ambas el valor antes de que la otra transacción lo actualice, se conoce como:
+a) Lectura sucia.
+b) Lectura fantasma.
+c) Lectura no repetible.
+d) Lectura comprometida.
+ANSWER:
+
+34. Señale cuál de los siguientes NO es un modelo de disciplina de cola en teoría de colas:
+a) FIFO
+b) LIFO
+c) RSS
+d) PIPE
+ANSWER: D
+
+35. [ANULADA] En el peor de los casos, el algoritmo de ordenación rápida (quicksort) posee una complejidad:
+a) O(n3)
+b) O(n)
+c) O(n)n
+d) O(n2)
+ANSWER:
+
+36. ¿Cuál de los siguientes estándares regula el formato de documentos abiertos para aplicaciones de ofimática (OpenDocument)?
+a) ISO/IEC 26300:2006
+b) RFC 2373
+c) ISO/IEC 9899:1999
+d) ISO 9000
+ANSWER: A
+
+37.Señale de entre las siguientes la técnica de integración NO incremental para pruebas de integración:
+a) Top-down.
+b) Sandwich.
+c) Big-Bang.
+d) Bottom-up.
+ANSWER: C
+
+38. Señale de entre los siguientes cuál NO es un framework de pruebas unitarias para Microsoft .NET:
+a) xUnit
+b) xUnit.net
+c) NUnit
+d) csUnit
+ANSWER: A
+
+39. Según el Real Decreto 1720/2007, ¿cuál de las siguientes declaraciones es correcta respecto a pruebas en sistemas con datos de carácter personal?
+a) Queda terminantemente prohibida la realización de pruebas en los sistemas de información que traten datos reales en ficheros con datos de carácter personal.
+b) No existen limitaciones para usar datos reales en ficheros de carácter personal si se utilizan para las pruebas anteriores a la implantación o modificación de los sistemas de información.
+c) Las pruebas anteriores a la implantación o modificación de los sistemas de información que traten ficheros con datos de carácter personal no se realizarán con datos reales, salvo que se asegure el nivel de seguridad correspondiente al tratamiento realizado y se anote su realización en el documento de seguridad.
+d) Si para la validación de un sistema de información, es necesario realizar pruebas que traten ficheros con datos de carácter personal reales, se procederá posteriormente al borrado de dichos ficheros para cumplir la normativa legal vigente.
+ANSWER: C
+
+40. En Métrica v3, ¿quién lleva a cabo las pruebas en la tarea IAS 6.2 "realización de las pruebas de aceptación"?
+a) Usuarios expertos.
+b) Directores de los usuarios.
+c) Equipo de calidad.
+d) Equipo de implantación.
+ANSWER: A
+
+41.Señale la respuesta INCORRECTA respecto a las características de la metodología de desarrollo software conocida como Proceso Unificado de Desarrollo Software:
+a) Es Iterativo e Incremental.
+b) Está dirigido por los casos de uso.
+c) Está enfocado en los riesgos.
+d) Fue creado por Dennis Ritchie y Ken Thompson.
+ANSWER: D
+
+42.Existen dos especificaciones complementarias que constituyen la especificación completa del lenguaje de modelado UML 2.4.1. Estas especificaciones se denominan:
+a) Intrastructure e Hiperstructure.
+b) Basic y Complex.
+c) Infrastructure y Superstructure.
+d) Infrastructure y Substructure.
+ANSWER: C
+
+43.Indique cuál de los siguientes diagramas de descomposición NO se contempla como técnica en Métrica v3:
+a) Funcional.
+b) Organizativo.
+c) Lógico.
+d) En Diálogos.
+ANSWER: C
+
+44.Throwable es la superclase de todos los errores y excepciones de Java SE 7. ¿A qué paquete de Java pertenece Throwable?
+a) java.lang
+b) java.error
+c) java.util
+d) Throwable no es una clase, es un interface, y éste pertenece al paquete java.io.
+ANSWER: A
+
+45.Señale la afirmación CORRECTA con respecto a un bean de sesión en JavaEE 7:
+a) Una aplicación requerirá normalmente menos beans de sesión stateless que stateful para respaldar al mismo número de clientes.
+b) Los stateful permiten compartir estado entre varios clientes.
+c) Un bean de sesión singleton es instanciado varias veces, según necesidad, pero va a existir una copia (el singleton) todo el ciclo de vida de la aplicación.
+d) Los stateful están respaldados por una base de datos y pueden implementar un servicio web.
+ANSWER: A
+
+46.Señale cuál de las siguientes opciones se ajusta a la siguiente definición: plataforma basada en Java que permite crear rich internet applications (RIA) que se comportan de la misma forma en distintas plataformas:
+a) Flex
+b) JavaFX
+c) AJAX
+d) Silverlight
+ANSWER: A
+
+47.¿Cuál de los siguientes productos Java dispone de un motor de workflow?
+a) Hibernate.
+b) Easy BPM.
+c) Spring.
+d) jBPM.
+ANSWER: D
+
+48.¿Qué significa CDI en el contexto de Java EE 7?
+a) Contexts and Dependency Injection.
+b) Common Display Interface.
+c) Context-Dependent Interface.
+d) Case-Driven Implementation.
+ANSWER: A
+
+49. El Entity Framework es:
+a) Un framework ORM (object-relational mapper) desarrollado por Microsoft e integrado en la plataforma .NET.
+b) Una utilidad que permite identificar las funcionalidades de un sistema informático.
+c) Una herramienta de planificación y gestión del software desarrollado por Microsoft.
+d) Un framework orientado a la realización de aplicaciones web implementado por Microsoft que respecta el modelo vista controlador.
+ANSWER: A
+
+50. Elija la respuesta correcta:
+a) La JavaServer Pages Standard Tag Library (JSTL) es una colección de bibliotecas de etiquetas con utilidades ampliamente utilizadas en el desarrollo de páginas web.
+b) Apache Struts es un framework de desarrollo bajo el modelo vista controlador que sirve para crear Aplicaciones web con Smalltalk.
+c) El Unified Expression Language (EL) integra los JSP con los servlets.
+d) Los Applets y las Java Server Pages (JSPs) son dos métodos de creación de páginas web dinámicas en servidor usando el lenguaje Java.
+ANSWER: A
+
+51. ¿Qué significan las siglas MVC en el contexto de ASP.NET?
+aANSWER:) Model View Controller.
+b) Multiple Views Canvas.
+c) Mobile Video Compatible.
+d) Mobile View Connector.
+ANSWER: A
+
+52. ¿Qué es el Marco Común de Evaluación (CAF) 2013?
+a) CAF ofrece dos sistemas de puntuación, el clásico y el refinado, sólo el primero de ellos está fundamentado sobre el Ciclo de Deming.
+b) Es uno del los ejes del modelo EFQM.
+c) Es una herramienta de gestión de la calidad total, desarrollada por y para el sector público.
+d) Es una autoevaluación que debe realizar una organización conforme a lo que dicta la norma ISO 9000.
+ANSWER: C
+
+53. Indique en qué consiste el método QSOS:
+a) Está destinado a representar la interacción entre los componentes de un sistema.
+b) Permite calificar, seleccionar y comparar software Open Source de una manera objetiva.
+c) Permite representar a través de objetos la información que contiene una base de datos.
+d) Es un modelo matemático que permite calcular las futuras desviaciones en un proyecto software.
+ANSWER: B
+
+54.¿Cuál de las siguientes pautas está asociada al principio "comprensible" de la WCAG 2.0?
+a) Alternativas textuales.
+b) Distinguible.
+c) Predecible.
+d) Compatible.
+ANSWER: C
+
+55. ¿En qué ley se exige que se establezcan las medidas necesarias para incentivar el acceso a las telecomunicaciones en lengua de signos española?
+a) Ley 30/92
+b) Ley 27/2007
+c) Ley 11/2007
+d) Ley 34/2002
+ANSWER: B
+
+56. Indique cuál de los siguientes es un framework software de Apache que soporta aplicaciones distribuidas que trabajan con miles de nodos y volúmenes de datos del orden de petabytes:
+a) Joost
+b) Netflix
+c) Cassandra
+d) Hadoop
+ANSWER: D
+
+57. ¿Cuál de las siguientes NO es una palabra reservada de MDX (MultiDimensional eXpressions) en SQL Server 2012?
+a) SELECT
+b) DRILL
+c) CUBE
+d) MEMBER
+ANSWER: B
+
+58. Los ETL son herramientas utilizadas habitualmente en la minería de datos. ¿En qué consisten dichas herramientas?
+a) Son bases de datos multidimensionales que permiten tener la información correctamente estructurada siguiendo multitud de criterios o dimensiones.
+b) Son herramientas que realizan informes destinados a la alta dirección de la organización.
+c) Son aplicaciones que permiten el acceso a la base de datos a través de páginas HTML.
+d) Son herramientas que permiten extraer información de diversos orígenes, realizar modificaciones en dicha información y cargarla en un sistema destino.
+ANSWER: D
+
+59. Existen distintos tipos de algoritmos que se aplican en DataMining. ¿A qué categoría pertenece el algoritmo de Bayes Naive?
+a) Algoritmos de clasificación.
+b) Algoritmos de regresión.
+c) Algoritmos de segmentación.
+d) Algoritmos de asociación.
+ANSWER: A
+
+60. ¿Qué es el "Data staging area" en el contexto de los Data Warehouses?
+a) Es un almacén previo de datos y sus procesos asociados, en el que se extraen los datos de las fuentes, se transforman y se adaptan antes de ser cargados en el almacén de datos.
+b) Durante la fase de diseño de un almacén de datos, es la base de datos no permanente usada para ensayar, demostrar y estudiar el rendimiento de los diseños propuestos.
+c) Es el área del almacén (conceptual o físicamente separada en otra base de datos) donde se cachean las consultas preparadas, cuando éstas no pueden ejecutarse en tiempo real.
+d) Es una copia idéntica de las bases de datos originales, cuando en ellas existe mucha carga y no es posible bloquearlas para asegurar la integridad referencial al copiar los datos.
+ANSWER: A
+
+1. [RESERVA] En relación con los servicios web y SOAP, las siglas MTOM se corresponden con:
+a) Mail Transmission Optimization Mechanism.
+b) Message Transmission Optimization Mechanism.
+c) Message Transport Optimization Module.
+d) Mail Transport Optimization Module.
+ANSWER: B
+
+2. [RESERVA] Cuando se habla de las pruebas de regresión en el contexto de la calidad del software, ¿qué tipo de fallo (bug) es un fallo de regresión?
+a) El que parece arreglarse espontáneamente y que posteriormente no es posible determinar el origen del mismo.
+b) Todos aquellos que son de tipo lógico y que además consistan bien en un bucle infinito, bien en una llamada recursiva infinita.
+c) Todos aquellos derivados de problemas de concurrencia entre diferentes hilos accediendo a un mismo recurso: condiciones de carrera, deadlocks, etc.
+d) Aquel que inicialmente no existe o no se manifiesta, pero que aparece al introducir otros cambios en el programa o arreglar otro fallo en él, o tras ocurrir un evento externo dado.
+ANSWER: D
+
+3. [RESERVA] ¿Cuál de las siguientes NO es una palabra reservada en Java?
+a) switch
+b) break
+c) continue
+d) then
+ANSWER: D

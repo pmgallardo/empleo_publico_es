@@ -1,0 +1,444 @@
+1. Indique cuál de las siguientes respuestas NO constituye una actividad del modelo de ciclo de vida de sistemas de información en espiral:
+a) Planificación
+b) Análisis de Riesgos
+c) Evaluación
+d) Adquisición
+ANSWER: D
+
+2. El modelo de ciclo de vida cluster (o de agrupamiento) es un subtipo que se engloba dentro de los modelos de ciclo de vida:
+a) Incremental.
+b) Para Desarrollo Orientado a Objetos.
+c) De Prototipos.
+d) En Espiral.
+ANSWER: B
+
+3. Señale la respuesta correcta en relación al modelo de desarrollo en espiral:
+a) Fue propuesto por Mills en 1980.
+b) Cada ciclo de desarrollo se divide en 4 fases: "definición de objetivos", "evaluación y reducción de riesgos", "desarrollo y validación" y "planificación".
+c) El radio de la espiral representa el incremento del riesgo a lo largo del proyecto.
+d) El ciclo de vida completo se inicia con la fase de "planificación".
+ANSWER: B
+
+4. [ANULADA] El concepto de RAD (Desarrollo Rápido de Aplicaciones - Rapid Application Development), ¿a qué prototipado esta asociado?
+a) Evolutivo
+b) Incremental
+c) Capas
+d) Maquetas
+ANSWER:
+
+5. ¿En cuál de los siguientes modelos de ciclo de vida hay una o varias fases de análisis de riesgos?
+a) Cascada
+b) Prototipado incremental
+c) Por etapas
+d) En espiral
+ANSWER: D
+
+6. Indique la afirmación correcta referida al Modelo Incremental de desarrollo de software:
+a) Es una adaptación a “alta velocidad” del modelo lineal secuencial en el que se logra el desarrollo rápido utilizando una construcción basada en componentes.
+b) A diferencia de la construcción de prototipos, el modelo incremental se centra en la entrega de un producto parcialmente operativo con cada incremento.
+c) Combina elementos del modelo en espiral con la filosofía interactiva de construcción de prototipos.
+d) Los primeros incrementos son ya versiones completas del producto final, proporcionan al usuario la funcionalidad que precisa y también una plataforma para la evaluación.
+ANSWER: B
+
+7. De los siguientes agentes, ¿cuál es el responsable de la producción de los distintos componentes del software y es el sujeto pasivo de todos los procedimientos ordinarios de control (revisiones y control)?
+a) AUD: equipo de auditoría
+b) DIR: director del proyecto
+c) EGC: equipo de garantía de calidad
+d) EDS: equipo de desarrollo
+ANSWER: D
+
+8. Un Jefe de Proyecto ha elaborado un borrador del Plan de Gestión de un proyecto de software. ¿Cuáles de los siguientes elementos deben estar contemplados en ese plan?
+I) Calendario.
+II) Presupuesto.
+III) Diagramas de flujo de la información.
+IV) Personal.
+a) I, II y IV.
+b) I, II y III.
+c) I, III y IV.
+d) I, II, III y IV.
+ANSWER: A
+
+9. Conforme con la metodología METRICA 3, constituye una técnica de estimación:
+a) Diagrama de Gantt
+b) Estructura de descomposición del Trabajo (WBS- Work Breakdonw Structure)
+c) Método MARK II
+d) Diagrama de extrapolación
+ANSWER: C
+
+10. La metodología Métrica:
+a) Es una metodología de uso privativo en las Administraciones Públicas
+b) Sirve para la planificación, desarrollo y mantenimiento de sistemas de información
+c) Aplica a todas las actividades de un proyecto software excepto la planificación
+d) Se utiliza de forma predominante en el análisis de riesgos de los S.I.
+ANSWER: B
+
+11. De acuerdo con la metodología METRICA v3, señale cuál es el perfil que realiza la estimación del esfuerzo necesario para llevar a cabo el proyecto, selecciona la estrategia de desarrollo, determina la estructura del mismo seleccionando los procesos principales que lo integran, fija el calendario de hitos y entregas, y establece la planificación del proyecto:
+a) Consultor de tecnologías de la información.
+b) Director de Sistemas de Información.
+c) Alto directivo usuario.
+d) Jefe de Proyecto.
+ANSWER: D
+
+12. La técnica de Desarrollo Conjunto de Aplicaciones (JAD, Joint Application Development):
+a) Se aplica para identificar requisitos en el campo de los sistemas de información.
+b) Implica más a los ingenieros de requisitos y menos a los usuarios y clientes.
+c) Requiere más tiempo para contrastar las opiniones con los clientes.
+d) Implica la realización de entrevistas individuales para su posterior puesta en común.
+ANSWER: A
+
+13. El requisito especificado para el diseño de una aplicación de un juego: "La tabla de los tres mejores resultados no se borrará nunca al apagar el ordenador", estaría dentro de los requisitos de:
+a) Funcionalidad
+b) Capacidad
+c) Recursos
+d) Seguridad
+ANSWER: A
+
+14. En un DFD (Diagrama de Flujos de Datos), los flujos de datos que comunican procesos con almacenes pueden ser de diversos tipos. Entre ellos se encuentran los flujos de datos:
+a) De iteracción
+b) De diálogo
+c) De sincronización.
+d) De interrelación.
+ANSWER: B
+
+15. Los flujogramas o diagramas de flujo son herramientas de:
+a) Detección de errores
+b) Análisis
+c) Medición de cargas de trabajo en sus diferentes ramas
+d) Selección del proceso más adecuado
+ANSWER: B
+
+16. ¿Cuál de los siguientes enunciados NO es un objetivo en la elaboración del modelo conceptual de datos?
+a) Identificar y definir las entidades que quedan dentro del ámbito del sistema.
+b) Identificar y definir los métodos asociados a cada una de las entidades del sistema.
+c) Identificar y definir los atributos de cada entidad y sus dominios correspondientes.
+d) Identificar y definir las relaciones existentes entre las entidades.
+ANSWER: B
+
+17. Señale la afirmación correcta. El comando GRANT es:
+a) Un comando DDL (Lenguaje de Definición de Datos)
+b) Un comando DML (Lenguaje de Manipulación de Datos)
+c) Un comando DCL (Lenguaje de Control de Datos)
+d) Un comando TCL (Lenguaje de Control de Transacciones)
+ANSWER: C
+
+18. Señale cómo se denomina, en el Modelo Entidad/Relación básico, al número máximo de ocurrencias de cada entidad que pueden intervenir en la asociación o interrelación que se está considerando:
+a) Tipo de correspondencia de la asociación.
+b) Cardinalidad de la entidad.
+c) Grado de la asociación.
+d) Dominio de las entidades de la asociación.
+ANSWER: A
+
+19. Señale cómo se denomina, en el modelo entidad/relación extendido, la relación por la que un supertipo se descompone en uno o varios subtipos, los cuales heredan todos los atributos y relaciones del supertipo, además de tener los suyos propios:
+a) Generalización.
+b) Asociación.
+c) Especialización.
+d) Agregación
+ANSWER: C
+
+20. Señale la afirmación correcta. Si hay una relación de integridad definida entre 2 tablas:
+a) No se pueden eliminar registros de la tabla primaria.
+b) No se puede eliminar registros de la tabla secundaria.
+c) La tabla secundaria puede tener varios registros con valores idénticos en todos los campos que componen la clave ajena.
+d) La tabla secundaria puede tener varios registros con valores idénticos en todos los campos que componen la clave primaria.
+ANSWER: C
+
+21. En el modelo relacional, se denomina Grado de una tabla relacional al número de:
+a) Tuplas que la forman.
+b) Filas que la forman.
+c) Claves alternativas que contiene.
+d) Atributos que la forman.
+ANSWER: D
+
+22. El modelo entidad/relación está formado por:
+a) Clases, objetos e instancias.
+c) Entidades, atributos y relaciones.
+b) Variables y métodos.
+d) Entidades. Objetos y clases.
+ANSWER: C
+
+23. ¿Cuál de los siguientes no es elemento de un Diagrama de Flujo de Datos (DFD)?:
+a) Proceso.
+b) Entidad Externa.
+c) Entidad Interna.
+d) Almacén de datos.
+ANSWER: C
+
+24. En un diagrama de flujo de datos
+a) El proceso nunca es el origen ni el final de los datos.
+b) Se representan las relaciones entre las entidades externas.
+c) Los almacenes pueden estar comunicados entre sí.
+d) No es necesario reflejar todos los flujos de datos en el diagrama que detalla a un proceso.
+ANSWER: A
+
+25. En un modelo de datos Entidad / Relación, ¿qué se entiende por “entidad débil”?
+a) Una entidad que no se encuentra relacionada con otra.
+b) Una entidad que hereda todos sus atributos de otra.
+c) Una entidad cuya existencia depende de la existencia de otra. d) Ninguna de las respuestas anteriores definen una
+entidad débil.
+ANSWER: C
+
+26. En el sistema relacional de datos, los conceptos básicos son relación, tupla, clave primaria y dominio. En este ámbito, señale qué es un dominio:
+a) El identificador único para la tabla
+b) Una colección de valores, de los cuales uno o más atributos (columnas) obtienen sus valores reales
+c) Una colección de valores, de los cuales una o más tuplas obtienen sus relaciones
+d) El número de tuplas que contiene una relación. También es conocido por cardinalidad
+ANSWER: B
+
+27. El modelo de datos se compone de tres piezas de información interrelacionadas: el objeto de datos, los atributos y la relación que conecta objetos de datos entre sí. Señale la afirmación correcta en relación al objeto de datos:
+a) Solamente encapsula datos, no hay referencia dentro de un objeto de datos a operaciones que actúan en el dato.
+b) Se usa para nombrar una ocurrencia de un atributo.
+c) Proporciona una indicación de cómo se transforman los datos a medida que se avanza en el sistema.
+d) Nunca puede ser una entidad externa.
+ANSWER: A
+
+28. Señale la afirmación correcta. La Forma Normal de Boyce-Codd (FNBC)
+a) Requiere que existan dependencias funcionales no triviales de los atributos que no sean un conjunto de la clave candidata.
+b) Es una versión ligeramente menos fuerte que la 3FN (Tercer Forma Normal).
+c) Una relación está en FNBC si está en 3FN y los únicos determinantes son claves candidatas.
+d) Es una versión ligeramente menos fuerte que la 2FN (Segunda Forma Normal).
+ANSWER: C
+
+29. Señale cuándo se dice que una relación está en tercera forma normal:
+a) Está en 2FN y ningún atributo no principal depende transitivamente de ninguna clave de la relación.
+b) Está en 2FN y no tiene grupos repetitivos.
+c) Está en 2FN y cada atributo no principal tiene dependencia funcional completa respecto de cada una de las claves.
+d) Está en 2FN y cada atributo no principal no tiene dependencia funcional completa respecto de cada una de las claves.
+ANSWER: A
+
+30. Indique la respuesta FALSA. Una tabla está en Primera Forma Normal sólo si:
+a) Todos los atributos son atómicos. Un atributo es atómico si los elementos del dominio son indivisibles, mínimos.
+b) La tabla contiene una clave primaria.
+c) La tabla contiene atributos nulos.
+d) Se han eliminado los grupos repetitivos para formar con ellos una nueva tabla.
+ANSWER: C
+
+31. ¿Cuál de los siguientes tipos de anomalía, NO se soluciona o mitiga mediante la normalización de tablas y relaciones?
+a) Anomalía de inserción.
+b) Anomalía de eliminación.
+c) Anomalía estructural.
+d) Anomalía de actualización.
+ANSWER: C
+
+32. [ANULADA] En el ámbito de estudio de diseño de algoritmos, existe un algoritmo basado en la idea "Divide y vencerás" (utiliza las fases dividir-conquistar-combinar). Se trata del algoritmo:
+a) De búsqueda en profundidad DFS.
+b) Quick-sort.
+c) Dijkstra.
+d) Mergesort.
+ANSWER:
+
+33. [ANULADA] Si se menciona una estructura de datos tipo LIFO, NO se está hablando de:
+a) Una cola
+b) Una pila
+c) Una cola invertida
+d) Una lista encadenada
+ANSWER:
+
+34. Señale qué es una lista circular:
+a) Es una lista lineal en la que cada nodo puede tener uno anterior o uno siguiente.
+b) Es una lista lineal en la que el último nodo apunta al primero.
+c) Es una cola lineal en la que cada nodo tiene dos enlaces, uno al nodo siguiente, y otro al anterior.
+d) Es conocida como lista FIFO (First In First Out).
+ANSWER: B
+
+35. En el ámbito del diseño estructurado, señale cuál de las siguientes afirmaciones es correcta:
+a) El acoplamiento común constituye un nivel de acoplamiento mejor que el de datos.
+b) La cohesión procedimental presenta mayor cohesión que la secuencial.
+c) El acoplamiento común se presenta cuando un módulo hace referencia a la parte interior de otro.
+d) La cohesión funcional implica que todos los elementos que componen el módulo están relacionados en desarrollo de una única función.
+ANSWER: D
+
+36. Según Métrica 3, en la construcción de un sistema de información (CSI), un "analista" participa, entre otras, en las actividades de:
+a) CSI1 (Preparación del entorno de generación y construcción).
+b) CSI2 (Generación del código de los componentes y procedimientos).
+c) CSI3 (Ejecución de las pruebas unitarias).
+d) CSI5 (Ejecución de las pruebas del sistema).
+ANSWER: D
+
+37. Señale la afirmación correcta:
+a) La Teleformación se utiliza para formar a los implantadores en instalaciones centralizadas
+b) La formación es única para los implantadores y los usuarios finales
+c) La formación es una fase de la implantación de S.I.
+d) En el Análisis de Requisitos del Sistema (ARS) es en donde se especifica el plan de formación.
+ANSWER: C
+
+38. Señale la afirmación correcta. En la actividad "Elaboración de los Manuales de Usuario" de Métrica v3:
+a) Se genera la documentación de usuario final conforme a los requisitos definidos en el proceso Estudio de Viabilidad del Sistema
+b) Se especifican todas las interfaces entre el sistema y el usuario, tales como formatos de pantallas, diálogos, formatos de informes y formularios de entrada
+c) Se especifica la formación necesaria para que los usuarios finales sean capaces de utilizar el sistema de forma satisfactoria
+d) Se genera la documentación de usuario final o explotación conforme a los requisitos definidos en el proceso Diseño del Sistema de Información
+ANSWER: D
+
+39. Señale cual de las siguientes afirmaciones es FALSA. En el proceso de ingeniería de software, los casos de prueba de "caja negra" pretenden demostrar que:
+a) Se ejercitan todos los caminos independientes de cada módulo.
+b) Las funciones del software son operativas
+c) La integridad de la información externa se mantiene
+d) Se produce una salida correcta
+ANSWER: A
+
+40. Señale la afirmación correcta en relación a las pruebas de integración:
+a) Se realizan después de las pruebas unitarias
+b) Se realizan antes de las pruebas de rendimiento del sistema
+c) Utilizan módulos auxiliares para comprobar su funcionamiento conjunto
+d) Todas las afirmaciones anteriores son correctas
+ANSWER: D
+
+41. ¿Cuál de estas estrategias NO es típica de las pruebas de caja negra?
+a) El cubrimiento lógico
+b) La partición en clases de equivalencia
+c) El análisis de valores límite
+d) La comparación de versiones
+ANSWER: A
+
+42. ¿Cuál de las siguientes afirmaciones es cierta?
+a) El mantenimiento correctivo se realiza exclusivamente antes de la recepción
+b) Una vez entregado el sistema sólo se debe realizar un mantenimiento evolutivo de aquél.
+c) La metodología Métrica no contempla el mantenimiento de los S.I. una vez aceptados.
+d) Un S.I. debe ser planificado con recursos dedicados a su mantenimiento durante toda su vida útil
+ANSWER: D
+
+43. ¿Qué tipo de mantenimiento hace referencia a las modificaciones que afectan a los entornos en los que el sistema opera, por ejemplo, cambios de configuración del hardware, software de base, gestores de base de datos, comunicaciones, etc.?
+a) Evolutivo
+b) Adaptativo
+c) Funcional
+d) Correctivo
+ANSWER: B
+
+44. En el modelado físico de un sistema Orientado a Objetos, los componentes y los nodos tienen semejanzas. Entre las semejanzas NO se encuentra que:
+a) Ambos pueden participar en relaciones de dependencia, generalización y asociación.
+b) Ambos representan el empaquetamiento físico de los elementos lógicos.
+c) Ambos pueden tener instancias.
+d) Ambos pueden participar en interacciones.
+ANSWER: B
+
+45. ¿Qué diagramas de los empleados en UML (Unified Modeling Language) describen el comportamiento dinámico del sistema mediante el paso de mensajes entre los objetos del mismo?
+a) Diagramas de interacción.
+b) Diagramas de flujo de datos.
+c) Diagramas de casos de uso.
+d) Diagramas de estados.
+ANSWER: A
+
+46. Señale qué nombre recibe la plataforma Java dirigida al desarrollo de aplicaciones para dispositivos (PDA´s, teléfonos móviles):
+a) J2SE (Java 2 Standard Edition)
+b) J2ME (Java 2 Micro Edition)
+c) J2EE (Java 2 Enterprise Edition)
+d) Java SE
+ANSWER: B
+
+47. ¿Cuál de los siguientes no es un componente de la arquitectura J2EE?
+a) SAAJ
+b) JAX-RPC
+c) JTA
+d) MJS
+ANSWER: D
+
+48. Señale la afirmación correcta. El patrón de desarrollo de software Modelo-Vista-Controlador es más adecuado para programar en:
+a) VBScript
+b) C
+c) SQL
+d) JSP
+ANSWER: D
+
+49. En el ámbito de las plataformas .NET, señale cual de las siguientes afirmaciones es FALSA:
+a) En ADO.NET los comandos de datos se usan para empaquetar las instrucciones SQL o los procedimientos almacenados.
+b) En ADO.NET no se utiliza XML directamente cuando se trabaja con metadatos.
+c) En las aplicaciones Web ASP.NET, los componentes están desconectados entre sí inherentemente.
+d) En ADO.NET, el formato de transferencia de datos es XML.
+ANSWER: B
+
+50. ¿Es posible incluir código JavaScript en un script ASP?
+a) No, es imposible pues ASP es de Microsoft y JavaScript es un estandar abierto.
+b) Sí, comenzando el documento con una sentencia <%@ language="javascript" %>.
+c) Sí, comenzando el documento con una sentencia <% language="javascript" %>.
+d) Sí, comenzando el documento con una sentencia <% language="javascript" %>, y finalizándolo con <%/ language="javascript" %>.
+ANSWER: B
+
+51. Un fichero de registro en UDDI (Universal Description, Discovery and Integration) tiene tres partes principales, ¿cuál de las siguientes respuestas NO se corresponde a una de ellas?
+a) Páginas azules
+b) Páginas blancas
+c) Páginas amarillas
+d) Páginas verdes
+ANSWER: A
+
+52. De los siguientes lenguajes de scripting indique cuál NO se ejecuta del lado del cliente:
+a) VBScript
+b) Jscript
+c) Phyton
+d) Javascript
+ANSWER: C
+
+53. Señale la afirmación correcta. Un mensaje SOAP:
+a) No precisa estar codificado en XML.
+b) Puede contener referencias a DTD.
+c) No debe contener ninguna instrucción de proceso XML.
+d) No precisa usar el espacio de nombres (namespace) de SOAP Envelope.
+ANSWER: C
+
+54. En Métrica 3, entre las actividades y tareas de Aseguramiento de la Calidad contempladas en el proceso ASI (Análisis del Sistema de Información), se encuentra:
+a) Establecimiento del Plan de Aseguramiento de la calidad.
+b) Revisión del catálogo de requisitos y la consistencia entre productos.
+c) Registro de la aceptación de la arquitectura del sistema.
+d) Revisión del código de componentes y procedimientos.
+ANSWER: B
+
+55. Dentro de los modelos de calidad del software existen diversas métricas. Señale cuál es el que establece la complejidad ciclomática:
+a) Modelo de calidad de McCall
+b) Técnica de MacCabe
+c) Técnica de Halstead
+d) Ninguno de los anteriores
+ANSWER: B
+
+56. McCall propuso una serie de factores que afectan a la calidad del software. Uno de dichos factores es la flexibilidad, que se define como:
+a) El esfuerzo necesario para acoplar un sistema con otro.
+b) El esfuerzo necesario para transferir el programa de un entorno hardware/software a otro entorno diferente.
+c) El esfuerzo necesario para modificar un programa que ya está en funcionamiento.
+d) Hasta dónde se puede volver a emplear un programa en otras aplicaciones, en relación al empaquetamiento y alcance de las funciones que realiza el programa.
+ANSWER: C
+
+57. Señale cuál de las siguientes opciones NO representa una pauta de accesibilidad desarrollada por la iniciativa de Accesibilidad Web (WAI):
+a) ATAG (pautas para herramientas de autor).
+b) WCAG (pautas para el contenido en la web).
+c) UAAG (pautas para herramientas de usuario).
+d) ACAG (pautas para accesibilidad de usuario).
+ANSWER: D
+
+58. Según la iniciativa de accesibilidad web (WAI), señale qué significa el nivel de conformidad 'Doble A':
+a) Que se cumple el punto de verificación 2.
+b) Que no tiene gráficos que no sean visibles a corta distancia.
+c) Que se cumplen los puntos de verificación 1 y 2.
+d) Significa que el contenido puede leerse utilizando un 'pluggin' de lectura.
+ANSWER: C
+
+59. ¿Cuál de los siguientes objetivos es menos importante en el diseño de la interfaz de usuario en una aplicación?
+a) Hay que permitir que el usuario pueda deshacer tareas ejecutadas y volver atrás.
+b) Hay que aligerar la interacción entre usuario y máquina a medida que el usuario va adquiriendo experiencia y conocimiento.
+c) Hay que ocultar al usuario los entresijos técnicos.
+d) Hay que garantizar la autenticación del usuario.
+ANSWER: D
+
+60. Señale cuál de las siguientes opciones NO es un tipo de sistema OLAP:
+a) MOLAP (Multidimesional OLAP).
+b) HOLAP (Hybrid OLAP).
+c) ROLAP (Relational OLAP).
+d) BOLAP (Basic OLAP).
+ANSWER: D
+
+1. [RESERVA] En los sistemas OLAP la característica que permite ahondar en la jerarquía de los datos se denomina:
+a) DRILL-DOWN
+b) TOP-DOWN
+c) DATAMINING
+d) SLICE AND DICE
+ANSWER: A
+
+2. [RESERVA] El modelo de Minería de Datos conocido como Modelo de Verificación:
+a) No necesita que el usuario plantee hipótesis para que la herramienta verifique su validez.
+b) Se utiliza para la síntesis, el análisis y la consolidación dinámica de grandes volúmenes de datos multidimensionales
+c) Tiene como objetivo la realización de predicciones sobre el comportamiento futuro de variables a partir de los patronesexistentes en los datos
+d) Usa técnicas de extracción de información como la consulta y el informe
+ANSWER: D
+
+3. [RESERVA] Señale de los siguientes conceptos cuál se corresponde con una metodología de desarrollo orientada a objetos:
+a) DeMarco
+b) RUP
+c) XP
+d) Warnier-Orr
+ANSWER: B

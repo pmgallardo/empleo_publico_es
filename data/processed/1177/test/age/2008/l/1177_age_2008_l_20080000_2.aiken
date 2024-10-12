@@ -1,0 +1,370 @@
+1. Señale de los siguientes conceptos cuál se corresponde con una metodología de desarrollo orientada a objetos:
+a) DeMarco
+b) RUP
+c) XP
+d) Warnier-Orr
+ANSWER: B
+
+2. El seguimiento y control del proyecto tiene como objetivo fundamental la vigilancia de todas las actividades de desarrollo del sistema. Según Métrica versión 3, cual de las siguientes no forman parte de las actividades de Seguimiento y Control.
+a) Asignación Detallada de Tareas.
+b) Análisis y Registro de la Incidencia.
+c) Petición de Cambio de Requisitos.
+d) Archivo de la Documentación de Gestión de Proyecto.
+ANSWER: D
+
+3. La actividad -Estudio de alternativas de solución- de Métrica V.3 se encuadra dentro del proceso de:
+a) Planificación de sistemas de información.
+b) Análisis del sistema de información.
+c) Estudio de viabilidad del sistema.
+d) Diseño del sistema de información.
+ANSWER: C
+
+4. ¿Qué objetos NO forman parte de un diagrama de flujo de datos, de acuerdo con la metodología METRICA?
+a) Entidades externas.
+b) Condiciones.
+c) Procesos.
+d) Almacenes de datos.
+ANSWER: B
+
+5. ¿Qué nombre recibe, de acuerdo con la metodología METRICA, cualquier proceso que actualiza datos del sistema?
+a) Evento.
+b) Efecto.
+c) Entidad.
+d) Nodo.
+ANSWER: A
+
+6. Según Métrica v3 la tarea "Verificación y Aceptación de la Arquitectura del Sistema" se realiza durante la fase:
+a) Análisis del Sistema de Información.
+b) Diseño del Sistema de Información.
+c) Construcción del Sistema de Información.
+d) Implantación y Aceptación del Sistema
+ANSWER: B
+
+7. ¿Cual de las siguientes tareas según Métrica v 3, NO forma parte de la actividad de Planificación?
+a) Selección de la Estrategia de Desarrollo.
+b) Coordinación de todos los Agentes que Intervienen en el Proyecto.
+c) Planificación Detallada de Actividades y Recursos Necesarios.
+d) Presentación y Aceptación de la Planificación General del Proyecto.
+ANSWER: B
+
+8. La IEEE Std 830-1998 (IEEE Recommended Practice for Software Requirements Specifications) comenta que una buena especificación de requisitos software debe ser CONSISTENTE. Esto se cumple:
+a) Si cada requisito especificado es uno que realmente debe cumplir el software.
+b) Si cada requisito especificado tiene una única interpretación posible.
+c) Si cada requerimiento especificado puede ser verificado.
+d) Si ninguno de los requisitos especificados entra en conflicto con alguno de los otros requisitos o con otros documentos.
+ANSWER: D
+
+9. Señale la afirmación FALSA. Las características de una sesión de trabajo tipo JAD (Joint Application Design), según Métrica versión 3, se pueden resumir en:
+a) Se establece un equipo de trabajo cuyos componentes y responsabilidades están perfectamente identificados y su fin es conseguir el consenso entre las necesidades de los usuarios y los servicios del sistema en producción.
+b) Se llevan a cabo pocas reuniones, de larga duración y muy bien preparadas.
+c) Durante la propia sesión se elaboran los modelos empleando diagramas fáciles de entender y mantener, directamente sobre herramientas CASE.
+d) Se realiza un cronograma con las actuaciones a desarrollar.
+ANSWER: D
+
+10. Cuál de las siguientes reglas NO se es necesario cumplir para conseguir que un Diagrama de Flujo de Datos (DFD) sea consistente:
+a) Que no falten flujos de datos de entrada o salida que acompañaban al proceso del nivel superior.
+b) Que no aparezca algún flujo que no estuviese ya asociado al proceso de nivel superior.
+c) Que todos los elementos del DFD resultante deben estar conectados directa o indirectamente con los flujos del proceso origen.
+d) Que todos los flujos de control de procesos provengan sólo de procesos del mismo nivel.
+ANSWER: D
+
+11. En un DFD (Diagrama de Flujo de Datos), ¿de qué tipos pueden ser los flujos de datos?
+a) Consulta, actualización, intercambio.
+b) Consulta, modificación, borrado, diálogo.
+c) Consulta, actualización, diálogo.
+d) Consulta, modificación, borrado, intercambio.
+ANSWER: C
+
+12. Indicar cual de las siguientes respuestas no se corresponde con un elemento del diagrama de flujo de datos (DFD), según Métrica v 3:
+a) Almacén de datos.
+b) Flujo de datos.
+c) Entidad externa.
+d) Entidad interna.
+ANSWER: D
+
+13. En el modelo Entidad-Relación, el conjunto nominado de valores homogéneos que puede tomar una cierta característica, se denomina:
+a) Atributo
+b) Dominio
+c) Entidad
+d) Diccionario de datos
+ANSWER: B
+
+14. [ANULADA] En el modelo Entidad/Relación extendido:
+a) Una entidad regular es aquella cuya existencia depende de otra entidad.
+b) Una entidad fuerte es aquella que tiene existencia por sí misma.
+c) Todas las ocurrencias de un tipo de entidad deben tener los mismos atributos.
+d) Una relación es regular si asocia una entidad regular y una entidad fuerte.
+ANSWER:
+
+15. Una relación según Métrica v 3, NO se caracteriza por:
+a) Nombre
+b) Tipo de Correspondencia
+c) Cardinalidad
+d) Dominio
+ANSWER: D
+
+16. En álgebra relacional, la operación realizada a partir de dos tablas T1 y T2, tal que la resultante de una relación es de grado g1+g2 constituida por todas las combinaciones de tuplas completas de T1 con las completas de T2, se denomina:
+a) Unión
+b) Producto cartesiano
+c) Intersección
+d) Join
+ANSWER: B
+
+17. Según el modelo ANSI/X3/SPARC, las vistas de una base de datos se definen en:
+a) Nivel físico
+b) Nivel conceptual
+c) Nivel lógico
+d) Nivel de aplicación
+ANSWER: C
+
+18. Indique la afirmación correcta. Según Métrica v 3, en las Relaciones 1:N se propaga el identificador de la entidad de cardinalidad máxima 1 a la que es N, teniendo en cuenta que:
+a) Si la relación es de asociación, la clave propagada es clave ajena en la tabla a la que se ha propagado.
+b) Si la relación es de asociación, la clave propagada es la clave primaria en la tabla a la que se ha propagado.
+c) Si la relación es de dependencia, la clave propagada es la clave ajena.
+d) Si la relación es de dependencia la clave propagada es la clave primaria.
+ANSWER: A
+
+19. En terminología de bases de datos, el lenguaje de definición de datos (LDD) es empleado para:
+a) Capacitar a los usuarios a acceder o manipular los datos según estén organizados por su modelo de datos.
+b) Conceder o suprimir privilegios a los usuarios, es decir, el control del acceso a los datos.
+c) Determinar la organización interna del modelo lógico de los datos en una base de datos.
+d) Representar el flujo de datos entre procesos y almacenes de datos lógicos.
+ANSWER: C
+
+20. En relación con los grafos, indique la respuesta FALSA:
+a) Orden de un grafo: Es el número de nodos (vértices del grafo).
+b) Grado de un nodo: Es el número de ejes (arcos) que inciden sobre el nodo.
+c) Longitud del camino: Es el número de nodos que componen el camino.
+d) Grafo euleriano: Es un grafo que tiene un camino euleriano cerrado.
+ANSWER: C
+
+21. Señale cuál de las siguientes opciones NO se corresponde con un tipo de acoplamiento entre módulos de un sistema de información:
+a) Por datos.
+b) Por control.
+c) Por contenido.
+d) Por secuencia.
+ANSWER: D
+
+22. Seleccione la opción correcta:
+a) El grado de acoplamiento depende del número de parámetros que se intercambian entre sí los módulos.
+b) El grado de cohesión depende de la independencia entre sí de los módulos.
+c) Los datos y contenido son niveles de cohesión.
+d) Funcional y lógico son grados de acoplamiento.
+ANSWER: A
+
+23. Según Métrica v.3, los distintos niveles de cohesión, de mayor a menor, son:
+a) Funcional, Secuencial, De comunicación, Procedimental, Temporal, Lógica y Casual.
+b) Funcional, Procedimental, Secuencial, De comunicación, Lógica y Casual.
+c) Casual, Lógica, Temporal, Procedimental, De Comunicación, Secuencial y Funcional.
+d) Funcional, Secuencial, De Comunicación, Procedimental, Cohesión, Lógica y Casual.
+ANSWER: A
+
+24. Según métrica v.3, la impartición de la formación a usuarios finales se realiza en:
+a) La fase de Construcción del Sistema de Información.
+b) La fase de Instalación e Implantación del Sistema de Información.
+c) La fase de Implantación y Aceptación del Sistema.
+d) Fuera del ámbito de Métrica v3.
+ANSWER: D
+
+25. Señale cuáles son los participantes en la Tarea de Generación del Código de los Procedimientos de Operación y Seguridad, según Métrica v.3:
+a) Técnicos de Sistemas, Equipo de Operación, Administrador de la Base de Datos y Programadores.
+b) Jefe de Proyecto, Técnico de Sistemas, Administrador Base de Datos y Programadores.
+c) Jefe de Proyecto, Auditor de Sistemas, Equipo Operación y Administrador Base de Datos.
+d) Técnicos de Sistemas, Equipo de Operación, Administrador de la Base de Datos y responsable de Seguridad.
+ANSWER: A
+
+26. Señale cómo se denominan Las pruebas que tienen por objeto comprobar que los cambios sobre un componente de un sistema de información NO introduce un comportamiento no deseado o erróneo adicional en otros componentes no modificados:
+a) De operación.
+b) De entorno.
+c) De regresión.
+d) De disponibilidad de datos.
+ANSWER: C
+
+27. Según Métrica v.3, las pruebas del sistema que consisten en determinar que los tiempos de respuesta están dentro de los intervalos establecidos en las especificaciones del sistema son:
+a) Pruebas de volumen.
+b) Pruebas de rendimiento.
+c) Pruebas de sobrecarga.
+d) Pruebas de operación.
+ANSWER: B
+
+28. Señale cuál de las siguientes opciones NO es Prueba del Sistema, según Métrica v.3:
+a) Pruebas de comunicaciones.
+b) Pruebas de rendimiento.
+c) Pruebas de volumen.
+d) Pruebas de integración.
+ANSWER: D
+
+29. Indique en qué procesos de Métrica v.3, NO se llevan a cabo actividades relacionadas con la interfaz de Gestión de Configuración:
+a) Estudio de viabilidad del sistema.
+b) Construcción del sistema de información.
+c) Mantenimiento de sistemas de información.
+d) Planificación de sistemas de información.
+ANSWER: D
+
+30. Según Métrica v3, las pruebas de gestión de copias de seguridad y recuperación en el entorno de producción son:
+a) Pruebas del sistema.
+b) Pruebas de implantación.
+c) Pruebas de aceptación.
+d) Pruebas de integración.
+ANSWER: B
+
+31. Dentro de la Actividad MSI 3 (Preparación de la Implementación de la Modificación), señale cuáles son las tareas asignadas a esta actividad según Métrica versión 3:
+a) Identificación de Elementos Afectados, Establecimiento del Plan de Acción, Especificación del Plan de Pruebas de Regresión.
+b) Análisis de Impacto de los Cambios, Mantenimiento de los Módulos, Planificación de los Planes de Contingencia.
+c) Identificación de los Cambios, Validación Pruebas de Regresión, Aprobación y Cierre de las Peticiones.
+d) Verificación y Estudio de la Petición, Estudio de la Propuesta de Petición.
+ANSWER: A
+
+32. Conforme al patrón de diseño de aplicaciones MVC (Modelo-Vista-Controlador), señale en qué módulo/s se representa el acceso a los datos de las aplicaciones:
+a) Modelo.
+b) Vista.
+c) Controlador.
+d) Modelo y Controlador.
+ANSWER: A
+
+33. La capacidad de un método para llevar a cabo distintas operaciones, recibe el nombre de:
+a) Herencia.
+b) Polimorfismo.
+c) Abstracción.
+d) Encapsulación.
+ANSWER: B
+
+34. Dentro de UML (Universal Modeling Language), existen los siguientes diagramas de interacción:
+a) Diagramas de Colaboración y Diagramas de Secuencia.
+b) Diagramas de Actividades y Diagramas de Secuencia.
+c) Diagramas de Colaboración y Diagramas de Actividades.
+d) Diagramas de Colaboración y Diagramas de Flujo.
+ANSWER: A
+
+35. Señale cuál de las siguientes respuestas se corresponde con una directiva JSP (Java Server Pages):
+a) destroy
+b) forward
+c) page
+d) out
+ANSWER: C
+
+36. En un entorno JAVA, la conexión entre módulos que componen una aplicación se verifica en:
+a) Tiempo de compilación.
+b) Tiempo de ejecución.
+c) Tiempo de verificación.
+d) Tiempo de ensamblaje.
+ANSWER: B
+
+37. Para simular la herencia múltiple de otros lenguajes de programación, JAVA emplea:
+a) Interfaces.
+b) Clases abstractas.
+c) Sobreescritura de métodos.
+d) Conversiones implícitas.
+ANSWER: A
+
+38. En Java Platform Enterprise Edition (JAVA EE5) existe una tecnología que simplifica la construcción de interfaces de usuario para aplicaciones Java Server. Mediante esta tecnología los desarrolladores pueden construir rápidamente aplicaciones web ensamblado componentes de interfaz de usuario reutilizables. Señale cuál es:
+a) JavaServer Pages.
+b) JavaServer Faces.
+c) JavaServer Servlets.
+d) JavaServer Components.
+ANSWER: B
+
+39. Indicar la repuesta FALSA:
+a) Los Enterprise JavaBeans son componentes de servidor que encapsulan la lógica de negocio de una aplicación y se pueden ejecutar de forma distribuida.
+b) Existen tres tipos de Enterprise Beans: Session, entity y message-driven.
+c) Los componentes EJB pueden encontrarse físicamente ubicados en máquinas distintas de las que albergan los componentes que les invocan.
+d) Los stateful session beans son componentes sin estado, es decir, no guardan información entre distintas llamadas de un cliente.
+ANSWER: D
+
+40. Señale cuál de los siguientes objetos forma parte de los componentes proveedores de datos .NET Framework de ADO.NET
+a) DataSet
+b) DataTable
+c) DataAdapter
+d) RecordSet
+ANSWER: C
+
+41. ¿Cuál de los siguientes objetos no forma parte del proveedor de datos del modelo de objetos ADO.NET?
+a) Connection.
+b) Command.
+c) DataAdapter.
+d) DataSet.
+ANSWER: D
+
+42. De las siguientes cuestiones de la arquitectura .NET indique cuál es FALSA.
+a) Las clases ASP.NET soportan el desarrollo de aplicaciones web y de servicios web XML.
+b) Las clases ADO.NET permiten a los desarrolladores interaccionar con los datos, como si fueran XML, a través de las interfaces de OLE DB, ODBC y SQL Server
+c) CLR (Common Language runtime) se encarga de realizar la compilación del código fuente al Lenguaje Intermedio independiente de la platafoma.
+d) En la arquitectura .NET se permite la utilización de varios lenguajes de programación.
+ANSWER: C
+
+43. En el framework .NET, ¿qué código se genera como salida del compilador just in time?
+a) Bytecode
+b) IL (intemediate language)
+c) Código máquina
+d) Código ensamblador
+ANSWER: C
+
+44. Los scriptlets se definen como:
+a) Expresiones entre las etiquetas <%= y %> que se evalúan y el resultado se convierte a una cadena embebida en JSP.
+b) Fragmentos de código Java entre las etiquetas <% y %> y embebido en JSP
+c) Atributos generales entre etiquetas <%@ y %> asociados a un fragmento JavaScript
+d) Declaraciones de métodos y variables entre etiquetas <%! y %> en una página JSP.
+ANSWER: B
+
+45. Usted es el responsable de un sitio web, en un pequeño organismo de la Administración, que presta servicio utilizando únicamente un servidor web Apache. Usted quiere aportar alguna funcionalidad dinámica a dicho sitio pero no puede instalar un servidor de aplicaciones. Señale qué tecnología NO podrá utilizar:
+a) Javascript
+b) CGI
+c) PHP
+d) JSP
+ANSWER: D
+
+46. Como se denomina al conjunto de servicios y protocolos de los servicios web:
+a) Web Service Protocol Stack.
+b) Web Service Protocol Set.
+c) UDDI (Universal Description, Discovery and Integration).
+d) SOAP (Simple Object Access Protocol).
+ANSWER: A
+
+47. La norma que desarrolla el modelo para la mejora y evaluación de los procesos de desarrollo y mantenimiento de sistemas, SPICE es:
+a) ISO 9004:2000
+b) ISO/IEC 15504
+c) ISO/IEC 27002
+d) ISO 9126
+ANSWER: B
+
+48. Según la interfaz de Aseguramiento de la Calidad de métrica v.3:
+a) El Plan de aseguramiento de la Calidad comienza en la fase de Análisis del Sistema de Información.
+b) El Plan de Aseguramiento de la Calidad se aplica a lo largo de todo el desarrollo, en los procesos de Análisis, Diseño, Construcción, Implantación y Aceptación del Sistema y en su posterior Mantenimiento.
+c) La finalidad de los procedimientos extraordinarios de Auditoría es revisar las actividades propias de aseguramiento de calidad.
+d) El Grupo de Aseguramiento de Calidad debe contar con miembros del equipo de desarrollo.
+ANSWER: B
+
+49. Señale cuál es el estándar internacional de evaluación y determinación de la capacidad y mejora continua de procesos de ingeniería del software:
+a) ISO/IEC 12207
+b) ISO/IEC 27002
+c) ISO/IEC 15504
+d) ISO/IEC 17799
+ANSWER: C
+
+50. Las siguientes opciones se corresponden con técnicas empleadas en las pautas de accesibilidad al contenido en la web versión 1.0 (WCAG). Señale la opción incorrecta:
+a) Técnicas Fundamentales.
+b) Técnicas HTML.
+c) Técnicas CSS.
+d) Técnicas XSL.
+ANSWER: D
+
+1. [RESERVA] La iniciativa WAI del W3C establece unas pautas de diseño accesible de sitios web que se rigen por dos principios generales:
+a) Analizar la accesibilidad de las páginas de primer nivel y las tablas.
+b) Identificar la información necesaria para realizar un trámite y la simplicidad del procedimiento
+c) El sitio web debe haber superado las validaciones de las herramientas de detección de enlaces rotos y de validación de código
+d) Asegurar una correcta transformación y hacer comprensible y navegable el contenido.
+ANSWER: D
+
+2. [RESERVA] El Punto de Verificación 1.1 de las WCAG 1.0 que rige las alternativas textuales para todo contenido no textual (imágenes, animaciones, botones, etc.) es:
+a) De prioridad 1
+b) De prioridad 2
+c) De prioridad 3
+d) De prioridad 2 para contenidos no textuales con información importante y de prioridad 3 para contenidos no textuales decorativos
+ANSWER: A
+
+3. [RESERVA] Según el Real Decreto 1494/2007, de 12 de noviembre, por el que se aprueba el Reglamento sobre las condiciones básicas para el acceso de las personas con discapacidad a las tecnologías, productos y servicios relacionados con la Sociedad de la información y Medios de comunicación social, en lo que se refiere a los plazos en relación para todas las paginas, actualmente existentes o de nueva creación, las cuales deberán cumplir la prioridad 2 de la norma UNE 139803:2004 a partir de la fecha:
+a) 31 de diciembre de 2007.
+b) 31 de diciembre de 2008.
+c) 12 de noviembre de 2008.
+d) 13 de noviembre de 2007.
+ANSWER: B

@@ -1,0 +1,384 @@
+BLOQUE III
+1. En relación a los participantes de la metodología Métrica v3, aquellos cuya función es asesorar en las cuestiones en las que tienen un conocimiento especializado se denominan:
+a) Consultores.
+b) Expertos.
+c) Analistas.
+d) Jefes de Proyecto.
+ANSWER: A
+
+2.Los puntos de fijación (anchor points) son característicos en el modelo de desarrollo:
+a) En cascada.
+b) Basado en prototipos.
+c) En espiral WINWIN.
+d) RAD.
+ANSWER: C
+
+3.Señale la respuesta correcta relativa al modelo de ciclo de vida en espiral:
+a) La dimensión radial mide el grado de avance del proyecto en cada fase y la dimensión angular el coste.
+b) Cada ciclo consta de 5 actividades: Determinar objetivos, análisis del riesgo, estimar, planificar y desarrollo-pruebas.
+c) Fue propuesto inicialmente por Rutherford.
+d) En sistemas pequeños es un modelo poco operativo y se desaconseja su uso. Exige de gran experiencia en análisis y resolución de riesgos.
+ANSWER: D
+
+4. Según Métrica v3, los flujos que interconectan actividades en la técnica SADT (Structured Analysis and Design Technique) se pueden clasificar en 4 tipos, señale cuál de los siguientes flujos NO es correcto:
+a) Control.
+b) Transacción.
+c) Mecanismo.
+d) Entrada.
+ANSWER: B
+
+5.La finalidad principal de la Gestión de Proyectos según Métrica v3 es la planificación, el seguimiento y control de:
+a) Las actividades y de los recursos humanos que intervienen en el desarrollo de un Sistema de Información (S.I).
+b) Las actividades que intervienen en el desarrollo de un S.I.
+c) Las actividades y de los recursos humanos y materiales que intervienen en el desarrollo de un S.I.
+d) Los recursos humanos y materiales que intervienen en el desarrollo de un S.I.
+ANSWER: C
+
+6.En el modelo CMM (Capability Maturity Model) un grado mayor de madurez al nivel Repetible es:
+a) Optimizado
+b) Definido
+c) Gestionado
+d) Inicial
+ANSWER: B
+
+7.De las siguientes cuatro opciones, tres son tareas incluidas en la actividad "GPI 2" del interfaz de Gestión de Proyectos de Métrica v3, indique cuál es la INCORRECTA:
+a) Selección de la Estrategia de Desarrollo.
+b) Establecimiento del Calendario de Hitos y Entregas.
+c) Planificación Detallada de Actividades y Recursos Necesarios.
+d) Cálculo del Esfuerzo.
+ANSWER: D
+
+8.En Métrica v3 existe una interfaz de "Aseguramiento de la Calidad". Indique la afirmación correcta sobre dicho interfaz:
+a) Para cada uno de los procesos que se definen en el interfaz se establecen un conjunto de tareas que se desarrollan mediante la ejecución de diversas actividades.
+b) El Grupo de Aseguramiento de la Calidad no participa en todos los procesos que se describen en el interfaz.
+c) La "Constitución del equipo de aseguramiento de la calidad" se realiza dentro del proceso de Estudio de Viabilidad del Sistema del interfaz.
+d) La aplicación de dicho interfaz es de obligado cumplimiento para los organismos dependientes de la AGE, según la Ley 28/2006, de 18 de julio, por la que se crea la Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los Servicios.
+ANSWER: C
+
+9. Entre los aspectos fundamentales de la Programación Extrema NO se encuentra:
+a) Desarrollo iterativo e incremental.
+b) Basada en la planificación previa.
+c) El cliente está integrado en el proyecto.
+d) Simplicidad en el diseño para agilizar el desarrollo y facilitar el mantenimiento.
+ANSWER: B
+
+10.¿Cuál de los siguientes productos Java dispone de un motor de workflow?
+a) Hibernate.
+b) Easy BPM.
+c) Spring.
+d) jBPM.
+ANSWER: D
+
+11.Señale cuál de las siguientes es una técnica de desarrollo según Métrica v3:
+a) Técnicas Matriciales.
+b) Método Albrecht.
+c) Análisis de Impacto.
+d) Caminos de Acceso.
+ANSWER: A
+
+12. ¿Cuál de los siguientes contradice un principio de las metodologías ágiles de desarrollo software (principios del Manifiesto Ágil)?
+a) Son bienvenidos los requisitos cambiantes, incluso si llegan en las etapas tardías del desarrollo.
+b) Los responsables de negocio y los desarrolladores trabajan juntos de forma cotidiana durante todo el proyecto.
+c) El software, en su fase de diseño, es la medida principal de progreso.
+d) La simplicidad, o el arte de maximizar la cantidad de trabajo no realizado, es esencial.
+ANSWER: C
+
+13. El proceso mediante el cual los usuarios descubren, revelan, organizan y comprenden los requisitos que desean se denomina:
+a) Validación de los requisitos.
+b) Entrevista de especificación de requisitos.
+c) Estudio de viabilidad de requisitos.
+d) Elicitación de requisitos.
+ANSWER: D
+
+14. La relación entre los requisitos, sus fuentes y el diseño del sistema se denomina:
+a) Evaluación de requisitos.
+b) Trazabilidad.
+c) Integridad de requisitos.
+d) Gestión de requisitos.
+ANSWER: B
+
+15. Escoja la ordenación correcta de las siguientes técnicas para la realización de prototipos de menor a mayor grado de fidelidad con el sistema final:
+a) Mockup, Sketch y WireFrame.
+b) Sketch, Mockup y WireFrame.
+c) Sketch, WireFrame y Mockup.
+d) Mockup, Wireframe y Sketch.
+ANSWER: C
+
+16.Señale la opción INCORRECTA en relación con los DFD (Diagrama de Flujos de Datos) y los DE (Diagramas de Estructura), según Métrica v3:
+a) El objetivo del DFD es la obtención de un modelo lógico de procesos que represente el sistema, con independencia de las restricciones físicas del entorno.
+b) En un DFD, los flujos de control representan movimientos de datos con valores síncronos entre procesos de control.
+c) Existen dos estrategias para obtener el DE a partir de un DFD, análisis: de transacción y de transformación. El uso de una de las dos dependerá de los procesos del DFD.
+d) El análisis de transacción se aplica cuando en un DFD existe un proceso que en función del flujo de llegada, determina la elección de uno o más flujos de información.
+ANSWER: B
+
+17. Señale cuál de las siguientes NO es un tipo de conexión válida entre un proceso y un almacén de datos de un DFD (diagrama de flujo de datos), según Métrica v3:
+a) Flujo de consulta.
+b) Flujo de actualización.
+c) Flujo de diálogo.
+d) Flujo de sincronización.
+ANSWER: D
+
+18. Según Métrica v3 ¿es posible definir un evento (o interrupción) en un diagrama de flujo de datos?
+a) Sí, mediante un flujo de datos.
+b) Sí, mediante un flujo de control.
+c) Si, mediante un proceso iterativo.
+d) No, no es posible. Los DFD únicamente representan como se transforma la información.
+ANSWER: B
+
+19. En el modelo entidad-relación extendido, tal y como se describe en el documento de Técnicas y Prácticas de Métrica v3, un atributo es:
+a) La dependencia de existencia de un tipo de entidad débil respecto de uno fuerte.
+b) Una propiedad o característica de un tipo de entidad.
+c) El elemento que es a la vez un tipo de entidad y una relación con otro tipo de entidad.
+d) El número máximo de ocurrencias de cada tipo de entidad en una ocurrencia de la relación.
+ANSWER: B
+
+20. Dentro del diseño conceptual de datos, en una jerarquía de generalización se dice que un subconjunto (caso particular de generalización con una sola entidad como subentidad) siempre es una jerarquía:
+a) Total y exclusiva.
+b) Parcial y superpuesta.
+c) Parcial y exclusiva.
+d) Total y superpuesta.
+ANSWER: C
+
+21. ¿Cuál de los siguientes es un Sistema Gestor de Bases de Datos Orientado a Objetos?
+a) Microsoft SQL Server.
+b) Versant.
+c) MariaDB.
+d) MySQL.
+ANSWER: B
+
+22. En Métrica v3, en relación al modelo entidad/relación extendido, dentro de las relaciones débiles, ¿qué dos divisiones se distinguen?
+a) Dependencia en existencia y dependencia en identificación.
+b) Dependencia en composición y dependencia en identificación.
+c) Dependencia en existencia y dependencia en discriminación.
+d) Dependencia en composición y dependencia en discriminación.
+ANSWER: A
+
+23.Sean dos transacciones (T1 y T2), T1 con estampa de tiempo igual a 8 y T2 con estampa de tiempo igual a 10 (T1 es más antiguo que T2). Suponiendo que T2 tiene un bloqueo en un elemento y T1 pide bloqueo para ese mismo elemento, si aplicamos el enfoque WOUND-WAIT para resolución del conflicto:
+a) T1 esperará hasta que T2 se completa y libera su bloqueo.
+b) T1 se apropia del elemento que tenía bloqueo T2. T2 se aborta y se reinicia usando la misma estampa de tiempo.
+c) T1 se reinicia con la misma estampa de tiempo y T2 se reprograma usando la misma estampa de tiempo.
+d) T1 se apropia del elemento que tenía bloqueo T2. T2 se reinicia usando distinta estampa de tiempo.
+ANSWER: B
+
+24.En una transacción en un Sistema de Gestión de Bases de Datos (SGBD), ¿qué se entiende por el punto de integridad?
+a) El momento después en el que se inicia la transacción.
+b) El estado de la base de datos en el momento en que se inicia la transacción.
+c) Hacer un rollback en el caso de que haya un problema antes de completar la transacción.
+d) El retorno con la confirmación de que la transacción se ha completado con éxito.
+ANSWER: B
+
+25. En una base de datos relacional en la que se tiene información guardada en una tabla de provincias y además se dispone de una tabla de municipios donde parte de la clave es la provincia, ¿se puede borrar un elemento de la tabla de provincias manteniendo la integridad del sistema?
+a) Si, una vez que los municipios ya existen no hay ningún problema.
+b) Si, aunque no podría dar de alta nuevos municipios de esa provincia.
+c) Sólo si no hay ninguna población perteneciente a esa provincia.
+d) No, la tabla de provincias no puede cambiar ya que son un elemento estable.
+ANSWER: C
+
+26.ANSI/ISO SQL define ciertos niveles de aislamiento en transacciones en función de qué fenómenos puede que ocurran. Indique la respuesta correcta respecto al fenómeno "lectura fantasma":
+a) Se permite en read uncommitted, read committed y repeatable read, pero no se permite en serializable.
+b) Se permite en read uncommitted y read committed, pero no se permite en repeatable read ni en serializable.
+c) Se permite en read uncommitted y repeatable read, pero no se permite en read committed ni en serializable.
+d) Se permite en read uncommitted, pero no se permite en read committed, repeatable read ni en serializable.
+ANSWER: A
+
+27. Señale cuál de los siguientes NO es un modelo de disciplina de cola en teoría de colas:
+a) FIFO
+b) LIFO
+c) RSS
+d) PIPE
+ANSWER: D
+
+28. [ANULADA] En el peor de los casos, el algoritmo de ordenación rápida (quicksort) posee una complejidad:
+a) O(n3)
+b) O(n)
+c) O(n)n
+d) O(n2)
+ANSWER:
+
+29. Señale la opción INCORRECTA:
+a) En diseño de programas, GRASP significa "patrones generales de software para asignar responsabilidades", y describen los principios fundamentales de la asignación de responsabilidades a objetos.
+b) La cohesión se define como el grado de interdependencia existente entre los módulos de un sistema.
+c) En la programación modular lo más conveniente es que un módulo sea altamente cohesivo y con bajo acoplamiento.
+d) AOSD (Desarrollo Software Orientado a Aspectos) es una aproximación al diseño de la arquitectura del sistema. Se caracteriza porque ofrece mecanismos para resolver problemas de código disperso o enmarañado gracias a los aspectos.
+ANSWER: B
+
+30. Señale de entre las siguientes, la norma que establece los requisitos para el diseño y desarrollo de la documentación del software de usuario como parte de los procesos del ciclo de vida:
+a) ISO/IEC 26514.
+b) ISO 7816.
+c) ISO/IEC 12207.
+d) ISO 8859.
+ANSWER: A
+
+31. Señale de entre las siguientes la técnica de integración NO incremental para pruebas de integración:
+a) Top-down.
+b) Sandwich.
+c) Big-Bang.
+d) Bottom-up.
+ANSWER: C
+
+32. Según el Real Decreto 1720/2007, ¿cuál de las siguientes declaraciones es correcta respecto a pruebas en sistemas con datos de carácter personal?
+a) Queda terminantemente prohibida la realización de pruebas en los sistemas de información que traten datos reales en ficheros con datos de carácter personal.
+b) No existen limitaciones para usar datos reales en ficheros de carácter personal si se utilizan para las pruebas anteriores a la implantación o modificación de los sistemas de información.
+c) Las pruebas anteriores a la implantación o modificación de los sistemas de información que traten ficheros con datos de carácter personal no se realizarán con datos reales, salvo que se asegure el nivel de seguridad correspondiente al tratamiento realizado y se anote su realización en el documento de seguridad.
+d) Si para la validación de un sistema de información, es necesario realizar pruebas que traten ficheros con datos de carácter personal reales, se procederá posteriormente al borrado de dichos ficheros para cumplir la normativa legal vigente.
+ANSWER: C
+
+33. Si un equipo tiene una avería ¿cuál de los siguientes indicadores nos da información sobre el tiempo medio requerido para reparar dicha avería?
+a) MTBF
+b) MTBR
+c) MTTR
+d) MTTF
+ANSWER: C
+
+34. Indique la sentencia correcta respecto al análisis del factor dolor (Pain Value Analysis), es una técnica:
+a) Para ayudar a identificar el impacto en el negocio de uno o más problemas.
+b) Para calcular el límite máximo de usuarios que el sistema es capaz de gestionar, teniendo en cuenta la capacidad del hardware y el número de peticiones de cada usuario.
+c) Para la asignación de prioridades a diferentes actividades, dice que el 80% del valor de una actividad es generado por el 20% del esfuerzo.
+d) Acuñada en los años 80, cuya finalidad era calcular la capacidad física de los usuarios del sistema informático.
+ANSWER: A
+
+35.Existen dos especificaciones complementarias que constituyen la especificación completa del lenguaje de
+modelado UML 2.4.1. Estas especificaciones se denominan:
+a) Intrastructure e Hiperstructure.
+b) Basic y Complex.
+c) Infrastructure y Superstructure.
+d) Infrastructure y Substructure.
+ANSWER: C
+
+36.¿Cuál de los siguientes NO es un concepto clave asociado con casos de uso según la definición de UML 2.4.1?
+a) Actors.
+b) Use cases.
+c) Subject.
+d) Scenario.
+ANSWER: D
+
+37.En un despliegue de una aplicación Java EE sobre WebSphere, fijar el mode del class loader como
+"PARENT_LAST" tiene el efecto de que busca las clases a cargar primero:
+a) En el módulo web, si no las encuentra busca en la aplicación, y si no las encuentra, en las librerías del sistema.
+b) En las librerías del sistema, si no las encuentra busca en la aplicación, y si no las encuentra, en el módulo web.
+c) En la aplicación, y si no las encuentra busca en el módulo web, y si no las encuentra, en las librerías del sistema.
+d) En las librerías del sistema, si no las encuentra busca en el módulo web, y si no las encuentra en la aplicación.
+ANSWER: A
+
+38. ¿Qué significa CDI en el contexto de Java EE 7?
+a) Contexts and Dependency Injection.
+b) Common Display Interface.
+c) Context-Dependent Interface.
+d) Case-Driven Implementation.
+ANSWER: A
+
+39.Con respecto al Entity Framework ¿Cuál de las siguientes afirmaciones es correcta?
+a) Para usar Entity framework se requiere una versión del framework de .Net de 2.0, o superior.
+b) Entity framework es la implementación del Modelo Vista Controlador (MVC) en .NET.
+c)
+El contexto en el Entity Framework es el punto de arranque dentro del espacio de nombres.
+d) Entity es una clase u objeto que representa los datos de la aplicación.
+ANSWER: D
+
+40.Señale, entre los siguientes, cuál es un cliente WebDAV de línea de comandos para entornos Unix:
+a) cadaver
+b) audacity
+c)
+mahout
+d) CalDAV
+ANSWER: A
+
+41.¿Qué significan las siglas MVC en el contexto de ASP.NET?
+a) Model View Controller.
+b)
+c)
+Mobile Video Compatible.
+d)
+Multiple Views Canvas.
+Mobile View Connector.
+ANSWER: A
+
+42.¿Qué es el Marco Común de Evaluación (CAF) 2013?
+a) CAF ofrece dos sistemas de puntuación, el clásico y el refinado, sólo el primero de ellos está fundamentado sobre el Ciclo
+de Deming.
+b) Es uno del los ejes del modelo EFQM.
+c)
+Es una herramienta de gestión de la calidad total, desarrollada por y para el sector público.
+d) Es una autoevaluación que debe realizar una organización conforme a lo que dicta la norma ISO 9000.
+ANSWER: C
+
+43.COCOMO II está formado por tres modelos o submodelos. ¿Cuál de los siguientes NO es un modelo de COCOMO II?
+a) Modelo de Composición de Aplicación.
+b) Modelo de Reutilización de Objetos.
+c) Modelo de Diseño Preliminar.
+d) Modelo Post-Arquitectura.
+ANSWER: B
+
+44. Indique en qué consiste el método QSOS:
+a) Está destinado a representar la interacción entre los componentes de un sistema.
+b) Permite calificar, seleccionar y comparar software Open Source de una manera objetiva.
+c) Permite representar a través de objetos la información que contiene una base de datos.
+d) Es un modelo matemático que permite calcular las futuras desviaciones en un proyecto software.
+ANSWER: B
+
+45. ¿Cuál de las siguientes pautas está asociada al principio "comprensible" de la WCAG 2.0?
+a) Alternativas textuales.
+b) Distinguible.
+c) Predecible.
+d) Compatible.
+ANSWER: C
+
+46. ¿En qué ley se exige que se establezcan las medidas necesarias para incentivar el acceso a las telecomunicaciones en lengua de signos española?
+a) Ley 30/92
+b) Ley 27/2007
+c) Ley 11/2007
+d) Ley 34/2002
+ANSWER: B
+
+47. ¿Cuál de las siguientes respuestas se corresponde con una base de datos no SQL destinada a almacenar enormes cantidades de datos?
+a) Citrix
+b) Oracle
+c) MySql Extend
+d) Cassandra
+ANSWER: D
+
+48. ¿Cuál de las siguientes NO es una palabra reservada de MDX (MultiDimensional eXpressions) en SQL Server 2012?
+a) SELECT
+b) DRILL
+c) CUBE
+d) MEMBER
+ANSWER: B
+
+49. Existen distintos tipos de algoritmos que se aplican en DataMining. ¿A qué categoría pertenece el algoritmo de Bayes Naive?
+a) Algoritmos de clasificación.
+b) Algoritmos de regresión.
+c) Algoritmos de segmentación.
+d) Algoritmos de asociación.
+ANSWER: A
+
+50. ¿Qué es el "Data staging area" en el contexto de los Data Warehouses?
+a) Es un almacén previo de datos y sus procesos asociados, en el que se extraen los datos de las fuentes, se transforman y se adaptan antes de ser cargados en el almacén de datos.
+b) Durante la fase de diseño de un almacén de datos, es la base de datos no permanente usada para ensayar, demostrar y estudiar el rendimiento de los diseños propuestos.
+c) Es el área del almacén (conceptual o físicamente separada en otra base de datos) donde se cachean las consultas preparadas, cuando éstas no pueden ejecutarse en tiempo real.
+d) Es una copia idéntica de las bases de datos originales, cuando en ellas existe mucha carga y no es posible bloquearlas para asegurar la integridad referencial al copiar los datos.
+ANSWER: A
+
+1. [RESERVA] ¿En qué proceso de Métrica Versión 3 se lleva a cabo la elaboración de la documentación de usuario, tanto de
+usuario final como de explotación?
+a) Análisis del sistema de información (ASI).
+b) Diseño del sistema de información (DSI).
+c) Construcción del sistema de información (CSI).
+d) Implantación y aceptación del sistema (IAS).
+ANSWER: C
+
+2. [RESERVA] Indique cuál de las siguientes extensiones se corresponde con el estándar de documentos abiertos para aplicaciones ofimáticas (OpenDocument) para documentos de texto (cuyo tipo MIME es application/vnd.oasis.opendocument.text):
+a) .ods
+b) .doc
+c) .txt
+d) .odt
+ANSWER: D
+
+3. [RESERVA] Las Pruebas de caja blanca NO dan cobertura de:
+a) Segmentos y ramas.
+c)
+Bucles.
+b)
+d)
+Condición / decisión.
+Texto.
+ANSWER: D

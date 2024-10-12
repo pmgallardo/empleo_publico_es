@@ -1,0 +1,287 @@
+1. Señale cuál de las siguientes afirmaciones es FALSA respecto al DNI electrónico:
+a) En el DNI electrónico se pueden almacenar otros certificados emitidos por otras entidades.
+b) El DNI electrónico contiene información biométrica del titular.
+c) La tarjeta DNIe es capaz de generar y gestionar claves RSA.
+d) La tarjeta DNIe es capaz de realizar hash de datos con el algoritmo SHA1.
+ANSWER: A
+
+2. Señale cuál de las siguientes afirmaciones es correcta respecto al concepto de sede electrónica y punto de acceso electrónico, de acuerdo a la Ley 11/2007 de acceso electrónico de los ciudadanos a los servicios públicos:
+a) Los certificados electrónicos empleados para la identificación de las sedes electrónicas incluirán el número de identificación fiscal, la denominación y la identidad de la persona titular de la sede.
+b) Se dispondrá de un sólo punto de acceso para todos los Organismos y Departamentos Ministeriales de la Administración General del Estado
+c) Deberá garantizarse la identificación del titular de la sede, así como los medios disponibles para la formulación de sugerencias y quejas.
+d) Las sedes electrónicas posibilitarán el acceso a sus contenidos y servicios en castellano, incorporando otras las lenguas cooficiales siempre que siempre que así lo establezca el gobierno autonómico correspondiente.
+ANSWER: C
+
+3. Según el Real Decreto 1553/2005, por el que se regula el documento nacional de identidad y sus certificados de firma electrónica, los certificados electrónicos reconocidos incorporados al Documento Nacional de Identidad tendrán un período de vigencia de:
+a) 30 meses.
+b) 2 años.
+c) 4 años.
+d) 5 años, cuando el titular no haya cumplido los 30 al momento de la expedición o renovación.
+ANSWER: A
+
+4. Señale la afirmación FALSA. Son derechos recogidos en la ley 11/2007 de acceso electrónico de los ciudadanos a los servicios públicos:
+a) El derecho a la no conservación en formato electrónico por las Administraciones Públicas de los documentos electrónicos que formen parte de un expediente.
+b) El derecho a elegir, entre aquellos que en cada momento se encuentren disponibles, el canal a través del cual relacionarse por medios electrónicos con las Administraciones Públicas.
+c) El derecho a la igualdad en el acceso electrónico a los servicios de las Administraciones Públicas.
+d) El derecho a obtener copias electrónicas de los documentos electrónicos que formen parte de procedimientos en los que tengan la condición de interesado.
+ANSWER: A
+
+5. Señale la afirmación FALSA en relación con las sedes electrónicas:
+a) La sede electrónica es aquella dirección electrónica disponible para los ciudadanos cuya titularidad, gestión y administración corresponde a una Administración Pública.
+b) El establecimiento de una sede electrónica conlleva la responsabilidad del titular respecto de la veracidad de la información a la que pueda accederse a través de la misma.
+c) Las sedes electrónicas dispondrán de sistemas que permitan el establecimiento de comunicaciones seguras siempre que sean necesarias.
+d) Las sedes electrónicas deberán identificarse siempre mediante cualquier sistema de firma electrónica.
+ANSWER: D
+
+6. Señale cuál es la validez de los certificados electrónicos incorporados al DNI electrónico:
+a) Cinco años, cuando el titular no haya cumplido los treinta años al momento de la expedición o renovación.
+b) Veinticuatro meses, cuando el titular haya cumplido los treinta años y no haya alcanzado los setenta.
+c) Treinta meses.
+d) Tres años.
+ANSWER: C
+
+7. Señale la afirmación correcta de acuerdo con la Ley 11/2007 de acceso electrónico de los ciudadanos a los servicios públicos:
+a) Los registros electrónicos se regirán a efectos de cómputo de los plazos imputables tanto a los interesados como a las Administraciones Públicas por la fecha y hora oficial del lugar desde el que se realiza el envío.
+b) Es de aplicación a las Administraciones Públicas en las actividades que desarrollen de derecho público o privado.
+c) La utilización de medios electrónicos en la actividad administrativa, no otorga al interesado el derecho a obtener copias electrónicas de los documentos electrónicos que formen parte de sus procedimientos.
+d) Los interesados podrán aportar al expediente copias digitalizadas de los documentos, cuya fidelidad con el original garantizarán mediante la utilización de firma electrónica avanzada.
+ANSWER: D
+
+8. Señale la afirmación correcta sobre los efectos del cómputo de plazo fijado en días hábiles o naturales, y en lo que se refiere a cumplimiento de plazos por los interesados, de acuerdo con lo establecido en la ley 11/2007 de acceso electrónico de los ciudadanos a los servicios públicos:
+a) La ley no permite hacer presentaciones en días inhábiles en registros electrónicos
+b) La ley anula los días inhábiles cuando la tramitación del expediente es enteramente a través de los registros electrónicos de las Administraciones Públicas
+c) La presentación en un día inhábil se entenderá realizada en la primera hora del primer día hábil siguiente, salvo que una norma permita expresamente la recepción en día inhábil
+d) La ley especifica que si un día es inhábil para un registro electrónico, este debe estar cerrado impidiendo que los ciudadanos puedan presentar documentos
+ANSWER: C
+
+9. A efectos de identificación y autenticación del ciudadano en las relaciones por medios electrónicos con la Administración Pública, señale si están permitidos otros sistemas de firma electrónica, tales como claves concertadas en un registro previo:
+a) Sí, las Administraciones Públicas podrán determinar, teniendo en cuenta los datos e intereses afectados, y siempre de forma justificada, los supuestos y condiciones de utilización por los ciudadanos de otros sistemas de firma electrónica como el descrito.
+b) Sí se admite la firma electrónica, pero únicamente la incorporada al Documento Nacional de Identidad para personas físicas.
+c) Sí se admite la firma electrónica, pero únicamente los sistemas de firma electrónica avanzada.
+d) No están permitidos sistemas como claves concertadas en un registro previo
+ANSWER: A
+
+10. [ANULADA] Señale qué contenido de los siguientes NO está almacenado en el CHIP del DNI electrónico:
+a) El domicilio del titular.
+b) Datos de filiación del titular.
+c) Imagen digitalizada de la fotografía.
+d) Un certificado electrónico para autenticación y otro para firma.
+ANSWER:
+
+11. Señale en qué horario deberán los registros electrónicos permitir la presentación de escritos, comunicaciones y solicitudes, de acuerdo con la ley 11/2007:
+a) De 8h a 15h de lunes a viernes.
+b) Las 24 horas de lunes a viernes.
+c) Las 24 horas todos los días del año.
+d) De 9h a 21h de lunes a viernes.
+ANSWER: C
+
+12. De acuerdo con la ley 11/2007, señale cuál de las siguientes afirmaciones con respecto a la identificación es FALSA:
+a) Los ciudadanos podrán utilizar los sistemas de firma electrónica incorporados al Documento Nacional de Identidad en su relación por medios electrónicos con las Administraciones Públicas.
+b) Los ciudadanos podrán usar sistemas de firma electrónica avanzada admitidos por las Administraciones Públicas.
+c) Las sedes electrónicas no necesitarán utilizar sistemas de firma electrónica para identificarse y garantizar una comunicación segura con las mismas.
+D) Cada Administración Pública podrá proveer a su personal de sistemas de firma electrónica, los cuales podrán identificar de forma conjunta al titular del puesto de trabajo o cargo y a la Administración u órgano en la que presta sus servicios.
+ANSWER: C
+
+13. Según la Ley 11/2007, de acceso electrónico de los ciudadanos a los servicios públicos, los registros electrónicos se regirán a efectos de cómputo de los plazos imputables tanto a los interesados como a las Administraciones Públicas por:
+a) La fecha y hora oficial proporcionada por el Real Observatorio de la Armada.
+b) La fecha y hora oficial de la sede electrónica de acceso.
+c) La fecha y hora que se defina en su correspondiente disposición de creación.
+d) La fecha y hora de la máquina en la que se encuentra desplegado el sistema de registro electrónico.
+ANSWER: B
+
+14. Señale si el establecimiento de una sede electrónica conlleva la responsabilidad del titular respecto de la integridad, veracidad y actualización de la información y los servicios a los que pueda accederse a través de la misma:
+a) Sí, siempre.
+b) Sí, excepto la responsabilidad de actualización de la información.
+c) Sí, excepto la responsabilidad sobre los servicios a los que puede accederse a través de la misma.
+d) Sólo si así lo establecen las disposiciones de creación de la sede electrónica.
+ANSWER: A
+
+15. Señale la afirmación correcta. De acuerdo a la Ley 11/2007, a través de los registros electrónicos:
+a) Se podrán presentar solicitudes y escritos, solo en los días hábiles y a cualquier hora.
+b) Se podrán presentar solicitudes y escritos, solo en los días hábiles en horario de 9 a 19 h.
+c) Se podrán presentar solicitudes, escritos y comunicaciones todos los días del año durante las 24 horas.
+d) Se podrán presentar solicitudes y escritos todos los días del año durante las 24 horas, pero no así comunicaciones.
+ANSWER: C
+
+16. Según la Ley 11/2007, señale cuál de las siguientes afirmaciones corresponde a un sistema de firma electrónica a utilizar por los ciudadanos para relacionarse con la Administración Pública:
+a) Sistemas de firma electrónica para la actuación administrativa automatizada.
+b) Sistemas de firma electrónica basados en la utilización de certificados de dispositivo seguro o medio equivalente que permita identificar la sede electrónica y el establecimiento con ella de comunicaciones seguras.
+c) Sistemas de firma electrónica avanzada.
+d) Intercambio electrónico de datos de entornos cerrados de comunicación, conforme a lo específicamente acordado entre las partes.
+ANSWER: C
+
+17. A los efectos de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico, señale cuál NO es un servicio de la sociedad de la información:
+a) La organización y gestión de subastas por medios electrónicos o de mercados y centros comerciales virtuales.
+b) El teletexto televisivo y otros servicios equivalentes como las guías electrónicas de programas ofrecidas a través de las plataformas televisivas.
+c) El vídeo bajo demanda, como servicio en que el usuario puede seleccionar a través de la red, tanto el programa deseado como el momento de su suministro y recepción.
+d) El suministro de información por vía telemática.
+ANSWER: B
+
+18. Señale qué medidas de seguridad se tiene que implantar y cuál es el plazo para la adaptación de los ficheros no automatizados existentes con la entrada en vigor del Real Decreto 1720/2007 por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica de Protección de Datos:
+a) Las medidas de seguridad de nivel medio en el plazo de 2 años desde su entrada en vigor
+b) Las medidas de seguridad de nivel alto en el plazo de 2 años desde su entrada en vigor.
+c) Las medidas de seguridad de nivel bajo en el plazo de 18 meses desde su entrada en vigor.
+d) Todos los niveles de medidas de seguridad en el plazo de 18 meses desde su entrada en vigor.
+ANSWER: B
+
+19. Señale qué nivel de seguridad tienen que tener los datos de una aplicación de nóminas, de acuerdo con la Ley Orgánica 15/1999 de Protección de Datos de carácter personal
+a) Bajo por tener sólo elementos identificativos.
+b) Alto por contener información económica.
+c) Medio porque tienen implícitamente la información de las bajas del mes.
+d) Alto si tiene datos de salud (bajas y su causa) o ideológicos (pertenencia a sindicatos).
+ANSWER: D
+
+20. De acuerdo con la Ley Orgánica de Protección de Datos, señale cuáles se consideran datos especialmente protegidos:
+a) El número de matrícula de un vehículo
+b) La fecha de nacimiento
+c) La afiliación sindical
+d) El número de teléfono
+ANSWER: C
+
+21. Señale quiénes están fuera del ámbito de aplicación de la Ley 11/2007:
+a) Las Administraciones de las Comunidades Autónomas.
+b) Las relaciones entre distintas Administraciones Públicas.
+c) Las Administraciones Públicas en las actividades que desarrollen en régimen de derecho privado.
+d) Los ciudadanos en sus relaciones con las Administraciones Públicas.
+ANSWER: C
+
+22. Señale dónde podrá presentar un ciudadano una solicitud dirigida a la Administración General del Estado Español a partir del 1 de Enero de 2010:
+a) En cualquier Ayuntamiento del territorio nacional
+b) En cualquier registro electrónico de la Administración General del Estado.
+c) En las Comunidades Autónomas que tengan sistemas informáticos.
+d) Exclusivamente en la dirección www.060.es.
+ANSWER: B
+
+23. Señale la afirmación correcta en relación con la figura del Defensor del usuario de la administración electrónica, que se crea en la Ley 11/2007, de acceso electrónico de los ciudadanos a los Servicios Públicos:
+a) Será elegido entre funcionarios de los cuerpos superiores (A1) de las Administraciones Públicas.
+b) Para el ejercicio de sus funciones, contará con la asistencia de las Inspecciones Generales de los Servicios de los Departamentos ministeriales.
+c) Es nombrado por el Parlamento, previo trámite de audiencia.
+d) Depende orgánicamente del Defensor del Pueblo.
+ANSWER: B
+
+24. Respecto al ámbito de actuación en la Plataforma de validación y firma electrónica, @firma, del Ministerio de Administraciones Públicas, señale la opción correcta:
+a) Administración General del Estado y sus Organismos Públicos.
+b) Todas las Administraciones Públicas y Organismos asociados.
+c) Se exceptúan las Entidades Locales, Diputaciones provinciales y Cabildos, que acceden a los servicios proporcionados por las Comunidades Autónomas de su ámbito territorial.
+d) Se ofrecen los servicios de validación y firma a cualquier organización de carácter público y privado
+ANSWER: B
+
+25. Señale cuál NO un tipo de memoria RAM:
+a) FPM-RAM
+b) EDO-RAM
+c) SDRAM
+d) FDE-RAM
+ANSWER: D
+
+26. Atendiendo a la clasificación de arquitecturas MIMD (Multiple Instruction stream, Multiple Data stream) [Johson88], señale cuál de las siguientes respuestas se correspondería con una implementación del tipo DMMP (Distributed Memory/ Message passing):
+a) Arquitecturas de memoria compartida o SMP.
+b) Arquitecturas de memoria virtual-compartida.
+c) No existen implementaciones de esta tipología.
+d) Clusters.
+ANSWER: D
+
+27. Señale la afirmación correcta. Cuando en un microprocesador hablamos de un ciclo de máquina de tipo "fetch" nos estamos refiriendo a:
+a) Lectura de microinstrucción.
+b) Lectura de dato de la memoria.
+c) Escritura de dato de la memoria.
+d) Escritura de dato en un dispositivo.
+ANSWER: A
+
+28. Señale la afirmación correcta. Se entiende por cluster al sistema que sirve para:
+a) Aumentar la confidencialidad duplicando la clave de entrada.
+b) Aumentar la disponibilidad duplicando los servidores.
+c) Disminuir el riesgo de fallo eléctrico y/o de inundación del CPD.
+d) Aumentar el riesgo por concatenación de eventos.
+ANSWER: B
+
+29. Señale cuál es el resultado de realizar la operación lógica XOR sobre los siguientes números: 01001100 y 11001101
+a) 01001100
+b) 11001101
+c) 10000001
+d) 10011011
+ANSWER: C
+
+30. Señale la afirmación correcta en relación con los componentes de un ordenador. Según la arquitectura de Von Neumann, la unidad aritmético-lógica y la unidad de control forman parte de:
+a) CPU (Unidad Central de Proceso)
+b) Memoria
+c) Periféricos
+d) Registros acumuladores
+ANSWER: A
+
+31. Los "cluster" son hoy en día una alternativa a los multiprocesadores simétricos (SMP). Señale cuál de las siguientes NO es una característica generalmente asociada a los mismos:
+a) Escalabilidad absoluta e incremental.
+b) Alta disponibilidad.
+c) Mejor relación precio/prestaciones que los SMP.
+d) Mayor facilidad de gestión y configuración.
+ANSWER:D
+
+32. [ANULADA] En el ámbito de Sistemas Operativos, señale dentro de qué tipología de algoritmos se encuadra el "algoritmo de tasa monotónica":
+a) Planificación garantizada.
+b) Planificación en tiempo real dinámico.
+c) Planificación en tiempo real estático.
+d) Planificación a dos niveles.
+ANSWER:
+
+33. ¿Cuál de las siguientes funciones NO se considera un componente básico de un Sistema Operativo?
+a) La Gestión de la memoria principal.
+b) El Intérprete de órdenes.
+c) El Sistema de E/S y sistema de archivos.
+d) El registro de presencia en los sistemas de Teletrabajo.
+ANSWER: D
+
+34. A lo largo de los años, los sistemas operativos han venido experimentando una evolución considerable. Señale cuándo aparecen los sistemas de tiempo compartido aparecen:
+a) Durante la primera generación
+b) Durante la segunda generación
+c) Durante la tercera generación
+d) Durante la cuarta generación
+ANSWER: C
+
+35. Señale cuál de las siguientes NO es una de las principales características del lenguaje JAVA:
+a) Orientación a objetos
+b) Herencia Múltiple
+c) Arquitectura Neutra
+d) Multithread
+ANSWER: B
+
+36. [ANULADA] Señale cuál de las siguientes afirmaciones es correcta:
+a) El XML es un lenguaje procedimental.
+b) Perl es un lenguaje adaptado a la programación de pantallas HTML interactivas.
+c) Java precisa siempre un intérprete en el cliente.
+d) HTML es un lenguaje interpretado por el navegador.
+ANSWER:
+
+37. Señale qué lenguaje de consulta de datos organiza estas consultas en expresiones FLWR (for, let, where, return):
+a) XSLT
+b) SQL
+c) PERL
+d) Xquery
+ANSWER: D
+
+38. En el ámbito del modelo TCP/IP, señale cuál de las siguientes siglas identifica un algoritmo de encaminamiento:
+a) NTP (Network Time Protocol)
+b) RIP (Routing Information Protocol)
+c) RPC (Remote Procedure Call)
+d) FTP (File Transfer Protocol)
+ANSWER: B
+
+39. [ANULADA] Señale cuál es la afirmación FALSA:
+a) La arquitectura del TCP/IP consta de cinco niveles o capas en las que se agrupan los protocolos, y que se relacionan conlos niveles OSI
+b) TELNET es un protocolo TCP/P
+c) El protocolo IP identifica a cada ordenador que se encuentre conectado a la red mediante su correspondiente dirección.
+d) IP al igual que X.25 está orientado a conexión
+ANSWER:
+
+40. Se presentan a continuación tres niveles de la torre de protocolos TCP/IP y tres protocolos:
+1) Nivel 1 (Físico)
+2) Nivel 2 (Enlace de datos)
+3) Nivel 5 (Aplicación)
+I) GPRS (General Packet Radio Service).
+II) PLC (Power Line Communications).
+III) TLS/SSL (Transport Layer Security/Secure Sockets Layer).
+
+Señale cuál es el emparejamiento correcto de nivel/protocolo:
+a) 1/I, 2/II, 3/III.
+b) 1/II, 2/I, 3/III.
+c) 1/III, 2/I, 3/II.
+d) 1/II, 2/III, 3/I.
+ANSWER: B

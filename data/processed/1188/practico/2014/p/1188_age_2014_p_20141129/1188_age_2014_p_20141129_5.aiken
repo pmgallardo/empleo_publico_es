@@ -1,0 +1,126 @@
+CASO PRÁCTICO - BLOQUE IV
+NO OLVIDE MARCAR EL BLOQUE ELEGIDO EN LA HOJA DE EXAMEN
+Debido a recortes presupuestarios, una universidad ha decidido acometer el proyecto de racionalizar sus recursos, los cuales
+actualmente están efectivamente poco optimizados. La universidad se compone de 9 facultades separadas como máximo 500 metros,
+siendo una de ellas a su vez el centro rector. Se encuentran conectadas entre sí mediante líneas obsoletas de 10 Mbps y sólo tres de
+ellas, que corresponden con las carreras más demandadas, disponen de interconexiones de 100 Mbps.
+Actualmente estas tres facultades disponen de un pequeño Centro de Proceso de Datos (CPD) para sus propias necesidades y el resto
+carecen de este tipo de infraestructuras. El objetivo del proyecto comprende la interconexión de todas las facultades con redes de
+1Gbps, la consolidación de los 3 pequeños CPDs en uno único que se encontraría en la facultad que hace de centro rector y la
+instalación de una red wifi para la conexión de los alumnos.
+Adicionalmente se deberán también cubrir las necesidades de backup, monitorización y seguridad.
+
+1. Con el objetivo de facilitar la gestión se ha optado por utilizar un direccionamiento privado /16 de manera que la
+facultad 1 tendrá la dirección de red 10.1.0.0 y consecutivamente el resto hasta la facultad 9, que tendrá la
+10.9.0.0. ¿Cuál es el número de hosts que se conseguirían por subred?
+a) 2^16
+b) (2^16) - 1
+c) (2^16) - 2
+d) (2^16) - 3
+ANSWER: C
+
+2. El nuevo proyecto de cableado ya ha resuelto el problema de las distancias entre facultades, pero respecto a la
+velocidad, ¿qué categoría sería necesario como mínimo para alcanzar 1 Gbps como se especifica en el proyecto?
+a) Categoría 7
+b) Categoría 6
+c) Categoría 5
+d) Categoría 6+
+ANSWER: B
+
+3. El proyecto incluye la implantación de una red wifi que permita conectarse a los alumnos. Se ha decidido que la
+configuración remota de los clientes es algo imprescindible y por tanto la red ha de soportar:
+a) 802.11r
+b) 802.11p
+c) 802.11j
+d) 802.11v
+ANSWER: D
+
+4. De cara a obtener el mayor throughput y la mayor cobertura posibles, ¿cuál de los siguientes protocolos utilizaría
+para la red wifi?
+a) 802.11g
+b) 802.11n
+c) 802.11m
+d) 802.11n+
+ANSWER: B
+
+5. Para la conexión remota de los docentes, se va a habilitar el uso de VPN. ¿Cuál de los siguientes protocolos NO
+proporciona seguridad en las redes VPN?
+a) PPTP
+b) MGCP
+c) L2TP
+d) TLSB
+ANSWER:
+
+6. El nuevo CPD ha de cumplir la reciente norma TIA-942-A la cual establece 4 áreas o sistemas a tener en cuenta en
+el diseño del CPD. ¿Cuál NO es una de estas áreas/sistemas?
+a) Medioambiental.
+b) Eléctrico.
+c) Mecánico.
+d) Telecomunicaciones.
+ANSWER: A
+
+7. El nuevo CPD está orientado hacía el concepto de Green CPD y, por lo tanto, las unidades CRAC han de ser muy eficientes. ¿A qué unidades nos estamos refiriendo?
+a) Los sistemas eléctricos.
+b) El suelo técnico.
+c) Los sistemas de refrigeración.
+d) Los sistemas de alimentación ininterrumpida.
+ANSWER: C
+
+8. Otro aspecto fundamental a cubrir es el de la seguridad, y para ello se está planteando la compra de equipos específicos. ¿Cuál de los siguientes elementos NO es un elemento de seguridad informática?
+a) Firewall
+b) IPS
+c) IDS
+d) PDU
+ANSWER: D
+
+9. ¿Qué puerto de entre los siguientes está asignado por IANA para el Simple Mail Transfer Protocol (SMTP)?
+a) 43
+b) 25
+c) 69
+d) 21
+ANSWER: B
+
+10. Se crearán 2 zonas diferenciadas, una dedicada a los alumnos y otra al personal, cada una con un servidor DNS
+diferente, por tanto en las máquinas clonadas de la plantilla RedHat 6 habrá que modificar el fichero que contiene
+los DNS. ¿De qué fichero estamos hablando?
+a) /etc/serverdns.conf
+b) /etc/sysconfig/resolv.conf
+c) /etc/resolv.conf
+d) /etc/sysconfig/serverdns.conf
+ANSWER: C
+
+11. La nueva infraestructura requerirá configurar rutas en los diferentes servidores. ¿Cuál de los siguientes comandos
+tendrá que usarse en las máquinas clonadas para mostrar la tabla de rutas?
+a) netstat -nr
+b) ifconfig -a
+c) ifconfig -nr
+d) netstat -routes
+ANSWER: A
+
+12. Por último se desea cubrir el backup de los sistemas más importantes y para ello se están barajando varias alternativas, ¿Cuál de las siguientes opciones NO es un software de backup?
+a) Data Protector.
+b) Backup Exec.
+c) Bacula.
+d) Copy and safe.
+ANSWER: D
+
+1. [RESERVA] Para la monitorización de la infraestructura se ha decidido contar con una herramienta de software libre y, Nagios ha sido la elegida. Además del protocolo SNMP, ¿con qué otro método permite Nagios realizar la monitorización?
+a) NRPE.
+b) Scumm.
+c) PWM.
+d) IRQ.
+ANSWER: A
+
+2. [RESERVA] La nueva infraestructura tendrá una parte virtualizada y, en ocasiones, se usará una máquina virtual con RedHat 6 como plantilla que se clonará múltiples veces lo que supone tener que modificar ficheros de configuración. ¿Cuál de las siguientes sentencias del comando sed (Stream EDitor) es la correcta para cambiar el nombre "plantilla" por el de "servidor1" en un fichero?
+a) sed -i /etc/sysconfig/network 's/plantilla/servidor1/g'
+b) sed -i 's#plantilla/servidor1/g' /etc/sysconfig/network
+c) sed -i 's/plantilla#servidor1/g' /etc/sysconfig/network
+d) sed -i 's/plantilla/servidor1/g' /etc/sysconfig/network
+ANSWER: B
+
+3. [RESERVA] Durante la instalación de Nagios se requiere hacer algunas pruebas, una de ellas consiste en recuperar manualmente la rama system de la MIB (Management Information Base) de una de las máquinas desplegadas. La IP de la máquina es la 10.1.1.25, la comunidad SNMP es "universidad" y la versión del protocolo es la 2c. ¿Qué comando habría que utilizar?
+a) snmptalk –v 2c –c universidad 10.1.1.25 MIB::system
+b) snmpwalk –v 2c –c universidad 10.1.1.25 system
+c) snmplook –v 2c –c universidad -ip 10.1.1.25 system
+d) snmptalk –v 2c –c universidad 10.1.1.25 system
+ANSWER: D

@@ -1,0 +1,373 @@
+BLOQUE IV
+
+1. ¿Cuál NO es una sentencia del lenguaje JCL (Job Control Language)?
+a) EXEC
+b) DD
+c) JOB
+d) CALL
+ANSWER: D
+
+2.En el ámbito de las bases de datos Oracle una vista materializada:
+a) Es un objeto de la base de datos donde se almacena la información de todas las vistas de la BD.
+b) Es un objeto de la base de datos donde se almacena la definición de la tabla que materializa.
+c) Es un objeto de la base de datos donde se almacena el resultado de una consulta.
+d) Es una vista ordinaria que automáticamente se actualizará siempre que se actualicen las tablas involucradas en esa vista.
+ANSWER: C
+
+3. En Sql Server 2012 ¿qué comando se utiliza para configurar una conexión de servidor de informes?
+a) rdlccfg
+b) tsmrpt
+c) rptsetup
+d) rsconfig
+ANSWER: D
+
+4. Indique qué solución de las siguientes NO está relacionada con los Sistemas Gestores de Base de Datos (SGBD):
+a) MongoDB
+b) MariaDB
+c) HeidiSQL
+d) MarcoDB
+ANSWER: D
+
+5. RMAN es:
+a) Una especificación de monitorización remota de IETF.
+b) Una invocación de métodos remotos utilizada en Java.
+c) Una herramienta de Oracle que permite hacer backups online de bases de datos.
+d) Una herramienta de IBM que permite realizar administración remota de bases de datos.
+ANSWER: C
+
+6. ¿Qué tipo de mantenimiento debe realizarse como consecuencia de los cambios en el entorno de operación?
+a) Operativo
+b) Correctivo
+c) Perfectivo
+d) Adaptativo
+ANSWER: D
+
+7. En la herramienta de control de versiones Subversion, ¿con que comando se suben los cambios al repositorio?
+a) svn commit
+b) svn checkin
+c) svn checkout
+d) svn upload
+ANSWER: A
+
+38.En el contexto de copias de seguridad o respaldo, un TMS es acrónimo de:
+a) Tape Management System.
+b) Transaction Multiplexing System.
+c) Tape Mapping System.
+d) Transaction Management System.
+ANSWER: A
+
+9.¿Cuál de las siguientes respuestas NO se emplea para realizar pruebas de carga?
+a) Jmeter
+b) Loadrunner
+c) Grinder
+d) Turbine
+ANSWER: D
+
+10.¿Cuál de los siguientes comandos de Solaris 11 NO devuelve información relativa a discos?
+a) iostat
+b) df
+c) sar
+d) nc
+ANSWER: D
+
+11. Indique cuál de los siguientes NO es un mecanismo en la gestión de una SAN para incrementar la seguridad:
+a) Masking
+b) Cluning
+c) Zoning
+d) Port Binding
+ANSWER: B
+
+12.Una desventaja de la topología física de bus es que:
+a) Un fallo en el concentrador provoca el aislamiento de todos los nodos a él conectados.
+b) Requiere más cable que la topología en estrella.
+c) Es vulnerable a la atenuación, ya que pierde señal a través de la distancia del cable.
+d) Es compleja y difícil de arreglar.
+ANSWER: C
+
+13.¿A qué altitud aproximada está la órbita de los satélites que forman el sistema GPS?
+a) 5.200 km
+b) 20.200 km
+c) 36.200 km
+d) 45.200 km
+ANSWER: B
+
+14.Uno de los siguientes términos NO se corresponde con un tipo de antena satelital:
+a) Cassegrain
+b) Krenwinkel
+c) Gregorian
+d) Offset
+ANSWER: B
+
+15. Indique cuál de los siguientes es un tipo válido de cable de par trenzado según su aislamiento o apantallamiento:
+a) scp
+b) htp
+c) ftp
+d) ssh
+ANSWER: C
+
+16. ¿Cuál es el grupo de trabajo correspondiente al estándar WRAN (Wireless Regional Area Network)?:
+a) 802.19
+b) 802.20
+c) 802.21
+d) 802.22
+ANSWER: D
+
+17. En redes de área local, ¿cuál de los siguientes es un método de acceso al medio compartido con escucha por contienda?
+a) Paso de testigo en anillo.
+b) CSMA no persistente.
+c) ALOHA ranurado.
+d) Contención.
+ANSWER: B
+
+18.En SNMP ¿qué puerto utilizan las traps y en qué sentido se transmiten?
+a) Puerto 162 y las envía el agente al gestor.
+b) Puerto 162 y las envía el gestor al agente.
+c) Puerto 161 y las envía el agente al gestor.
+d) Puerto 161 y las envía el gestor al agente.
+ANSWER: A
+
+19.Señale cuál de las siguientes NO es una Protocol Data Unit (PDU) del protocolo SNMP v2/v3:
+a) GETREQUEST PDU
+b) SETRESPONSE PDU
+c) RESPONSE PDU
+d) INFORMREQUEST PDU
+ANSWER: B
+
+20.En la administración de un dispositivo switch ¿qué es un trunk?
+a) Un puerto de velocidad GigaEthernet o 10 GigaEthernet.
+b) Un enlace que agrega tráfico de varias VLANs.
+c) Un adaptador fibra - par trenzado.
+d) Una versión estable del firmware del dispositivo.
+ANSWER: B
+
+21.Indicar de las siguientes, cuál es una cabecera de extensión IPv6:
+a) Cabecera siguiente.
+b) Enrutamiento.
+c) Longitud de la carga útil.
+d) Límite de saltos.
+ANSWER: B
+
+22.Indicar cuál de las siguientes direcciones IP puede ser asignada a un host en la siguiente subred 135.26.41.80/28
+a) 135.26.41.94
+b) 135.26.41.95
+c) 135.26.41.96
+d) 135.26.41.97
+ANSWER: A
+
+23.En IPv6 (RFC 2460), ¿cuánto ocupa el campo "tipo de enrutamiento"?
+a) 15 bits.
+b) 8 bits.
+c) 10 bits.
+d) 3 bits.
+ANSWER: B
+
+24.Internet Small Computer Systems Interface (iSCSI) según el RFC 3720 es un protocolo de:
+a) Enlace.
+b) Red.
+c) Transporte.
+d) Aplicación.
+ANSWER: C
+
+25. Indicar cuál de los siguientes NO es un modo de transferencia de datos utilizado por el protocolo HDLC (High Level Data Link Control):
+a) Modo de respuesta normal (NRM, Normal Response Mode).
+b) Modo balanceado asíncrono (ABM, Asynchronous Balanced Mode).
+c) Modo de respuesta asíncrono (ARM, Asynchronous Response Mode).
+d) Modo balanceado síncrono (SBM, Synchronous Balanced Mode).
+ANSWER: D
+
+26.En las comunicaciones a través de sockets, ¿cuál de las siguientes NO se corresponde con una primitiva?
+a) Bind
+b) Listen
+c) Reject
+d) Socket
+ANSWER: C
+
+27. ¿De qué tipo es la dirección de IPv6 ff00::/8?
+a) No es válida.
+b) Unicast.
+c) Multicast.
+d) Loopback.
+ANSWER: C
+
+28.Según la ANSI/TIA-942 el porcentaje de disponibilidad de 99.982% en un CPD corresponde a:
+a) TIER I
+b) TIER II
+c) TIER III
+d) TIER IV
+ANSWER: C
+
+29. En una empresa con 2.000 puestos de usuario en su red local de comunicaciones existen 3 subredes con estos direccionamientos: red A: 10.X.X.X, red B: 192.168.1.X y red C: 195.57.72.X.Teniendo en cuenta que en la ubicación de los equipos de usuarios y servidores se busca mantener la red operativa y a la vez con la máxima seguridad posible, ¿dónde se ubicarían los servidores de Base de Datos de los que se alimentan tanto los servidores web públicos como los de la intranet?
+a) Red A.
+b) Red B.
+c) Red C.
+d) Habría dos servidores de bases de datos, el público en la red C y el privado en la red B.
+ANSWER: B
+
+30. Los fuegos de clase D son los que implican:
+a) Combustibles sólidos como papel, cartón, madera, plásticos, etc.
+b) Metales y aleaciones: magnesio, sodio, etc.
+c) Combustibles líquidos, por ejemplo: aceite, derivados del petróleo, etc.
+d) Gases: butano, metano, propano, etc.
+ANSWER: B
+
+31. ¿Cuál de los siguientes NO es un mecanismo de control de la congestión en redes?
+a) Cubeta con ficha.
+b) Paquetes de estrangulamiento.
+c) Control de admisión.
+d) Vector distancia.
+ANSWER: D
+
+32.¿Cuál de los siguientes canales de acceso NO se emplea en RDSI?
+a) B
+b) D
+c) H
+d) I
+ANSWER: D
+
+33.El algoritmo PLC (Packet Loss Concealment):
+a) Lo utiliza Frame Relay para el reenvío de tramas pérdidas por la congestión en el sentido de la transmisión.
+b) Algoritmo de ocultamiento de pérdida de paquetes utilizado por VoIP.
+c) Utilizado por TCP para la retransmisión de paquetes después de una trama NACK (negative acknowledgement).
+d) Algoritmo de descarte de paquetes en situación de congestión en redes Frame Relay.
+ANSWER: B
+
+34.En MPLS, la asignación de un paquete a un FEC (Forwarding Equivalence Class) tiene lugar:
+a) Sólo una vez, cuando el paquete entra en la red MPLS.
+b) Antes de entrar en la red MPLS, en el último router convencional conectado antes del primer nodo MPLS.
+c) Al iniciar una conexión de red, negociando el host de origen con el primer nodo MPLS el FEC a usar.
+d) Cuando el primer paquete abandona la red MPLS, y se ha podido descubrir la ruta por medios convencionales.
+ANSWER: A
+
+35.Indique la respuesta FALSA, respecto al protocolo IPSEC :
+a) El protocolo IPSEC AH garantiza integridad y autenticación, pero no confidencialidad.
+b) El protocolo IPSEC ESP utiliza el número de protocolo 50 en la cabecera IP.
+c) IPSEC utiliza IKE como protocolo de intercambio de claves.
+d) IPSEC ESP es incompatible con el modo transporte, sólo se puede utilizar en modo túnel.
+ANSWER: D
+
+36.Indique de entre las siguientes cuál es la definición de secráfono:
+a) Equipo de frontera que, situado fuera de la red interna, ofrece servicios al exterior.
+b) Equipo infectado por un atacante remoto no detectado.
+c) Equipo que genera y entrega claves criptográficas para su distribución.
+d) Equipo para realizar el cifrado analógico de la voz.
+ANSWER: D
+
+37. SAFER (Secure And Fast Encryption Routine) es un algoritmo de cifrado:
+a) Simétrico de bloques.
+b) Simétrico de flujo.
+c) Asimétrico de factorización entera.
+d) Asimétrico de logaritmo discreto.
+ANSWER: A
+
+38. Indicar de qué zonas se encarga RIPE-NCC como Registro Regional de Internet (RIR):
+a) América Central, América del Norte y del Sur.
+b) Europa y Norte de África.
+c) Europa, América Central y América del Sur.
+d) Europa, Oriente Medio y Asia Central.
+ANSWER: D
+
+39. ¿Cómo se llama la clasificación no jerárquica de la información mediante etiquetas/tags por parte de los usuarios de la misma?
+a) Web 3.0.
+b) Labelling.
+c) Taxonomía.
+d) Folcsonomía.
+ANSWER: D
+
+40. Entre los tipos de modulación en las tecnologías xDSL se encuentra:
+a) SDH (Synchronous Digital Hierarchy).
+b) SGL (Splitterless G. Lite).
+c) SHDSL (Single-pair High-speed Digital Subscriber Line).
+d) CAP (Carrierless Amplitude Phase).
+ANSWER: D
+
+41. Analizando los problemas con la calidad de servicio en VoIP, ¿qué se entiende por jitter?
+a) Una reflexión retardada de la señal acústica original.
+b) El tiempo que tarda un paquete en llegar desde la fuente al destino.
+c) Variación en el tiempo de llegada de los paquetes, causada por congestión de red, perdida de sincronización o por las diferentes rutas seguidas.
+d) Cantidad de información o de datos que se puede enviar a través de una conexión de red en un período de tiempo dado.
+ANSWER: C
+
+42. Qué datos NO incorporará una descripción de sesión SDP (Session Description Protocol - RFC 4566) en una
+iniciación de sesión utilizada en SIP (Session Initiation Protocol):
+a) Tipo de medio.
+b) Protocolo de transporte (RTP/UDP/IP, H 320, etc.).
+c) Formato del medio (video H.261, video MPEG, etc.).
+d) Tamaño de los datos.
+ANSWER: D
+
+43.El protocolo de acceso de datos para redes de telefonía móvil calificado como 3.5G es:
+a) GPRS
+b) HSDPA
+c) HSUPA
+d) UMTS
+ANSWER: B
+
+44. El VLR en una arquitectura de red móvil, es una base de datos:
+a) Donde están inscritos todos los clientes de un operador, que se utiliza para la gestión de abonados móviles.
+b) Asociada a un MSC, donde se almacena información dinámica sobre los usuarios transeúntes en el área geográfica cubierta por la MSC.
+c) Donde se guardan las identidades IMSI de los clientes junto con la clave secreta de identificación de cada usuario.
+d) Que contiene las identidades de los equipos móviles, el IMEI que permite identificar de forma inequívoca a un terminal a escala internacional.
+ANSWER: B
+
+45. Sobre LTE (Long Term Evolution) es cierto que:
+a) Se conoce comercialmente como Generación 3.0 G.
+b) Utiliza multiplexación OFDM (Orthogonal frequency-division multiplexing) en el enlace descendente.
+c) Abandona el uso de antenas MIMO de la generación anterior.
+d) Es un estándar norteamericano incompatible en Europa.
+ANSWER: B
+
+46. Señale cuales de las siguiente afirmaciones NO es una característica del protocolo EAP-TTLS:
+a) En la creación del túnel TLS el servidor se autentica mediante certificado.
+b) El cliente puede usar un método de autenticación distinto a EAP.
+c) Está soportado de forma nativa en sistemas operativos Windows 7.
+d) Los mensajes de autenticación del cliente son enviados cifrados al servidor.
+ANSWER: C
+
+47. La tecnología WiMAX 2 es conocida formalmente como:
+a) 802.16m
+b) 802.16a
+c) 802.11x
+d) 802.11n
+ANSWER: A
+
+48. Los términos scatternet y piconet están relacionados con la tecnología:
+a) RDSI
+b) Bluetooth
+c) DECT
+d) Wimax
+ANSWER: B
+
+49. ¿Qué banda de frecuencia se utiliza para la prestación de los servicios de televisión terrestre con tecnología digital, según el Cuadro Nacional de Atribuciones de Frecuencia?
+a) 100 a 224 MHz
+b) 225 a 356 MHz
+c) 357 a 469 MHz
+d) 470 a 862 MHz
+ANSWER: D
+
+50. ¿Qué nombre recibe el estándar de Televisión Digital Terrestre utilizado en Europa?
+a) ATSC
+b) ISDB-T
+c) DVB-T
+d) EDTVB
+ANSWER: C
+
+1. [RESERVA] En un sistema UNIX, ¿cuál es la diferencia entre los ficheros /etc/passwd y /etc/shadow?
+a) /etc/shadow es una copia exacta del fichero /etc/password pero sólo visible por root.
+b) /etc/password alberga las passwords de los usuarios y /etc/shadow alberga la historia de comandos realizadas por los mismos.
+c) /etc/passwd es legible por todos los usuarios, mientras que /etc/shadow es legible sólo por root.
+d) /etc/passwd alberga las passwords de los usuarios mientras que /etc/shadow alberga el nombre de los usuarios.
+ANSWER: C
+
+2. [RESERVA] El algoritmo SHA-1 (RFC 3174) produce un resumen de salida de:
+a) 128 bits
+b) 160 bits
+c) 224 bits
+d) 256 bits
+ANSWER: B
+
+3. [RESERVA] En el contexto de comunicaciones inalámbricas, MIMO significa:
+a) Multiple Input Multiple Output.
+b) Massive Input Massive Output.
+c) Multiplexed Input Multiplexed Output.
+d) Mapped Input Mapped Output.
+ANSWER: A

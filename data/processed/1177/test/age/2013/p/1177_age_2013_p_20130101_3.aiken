@@ -1,0 +1,443 @@
+BLOQUE IV
+
+1. RMAN es:
+a) Una especificación de monitorización remota de IETF.
+b) Una invocación de métodos remotos utilizada en Java.
+c) Una herramienta de Oracle que permite hacer backups online de bases de datos.
+d) Una herramienta de IBM que permite realizar administración remota de bases de datos.
+ANSWER: C
+
+2. ¿Qué muestra el comando top en UNIX?
+a) Los ficheros abiertos.
+b) Los puertos TCP/IP.
+c) Los procesos.
+d) El escritorio.
+ANSWER: C
+
+3. ¿Cuál de estas instrucciones NO vacía el contenido del fichero con nombre 2013 en Linux?
+a) true > 2013
+b) > 2013
+c) cat /dev/null > 2013
+d) | > 2013
+ANSWER: D
+
+4. Si queremos restringir el almacenamiento en disco en Linux a determinados usuarios o grupos, ¿cuál de los
+siguientes métodos podemos usar?
+a) Mediante cuotas de disco.
+b) Mediante el editor de directivas de grupo.
+c) No se puede restringir el almacenamiento a usuarios.
+d) No se puede restringir el almacenamiento por grupos.
+ANSWER: A
+
+5. En el ámbito de las bases de datos Oracle una vista materializada:
+a) Es un objeto de la base de datos donde se almacena la información de todas las vistas de la BD.
+b) Es un objeto de la base de datos donde se almacena la definición de la tabla que materializa.
+c) Es un objeto de la base de datos donde se almacena el resultado de una consulta.
+d) Es una vista ordinaria que automáticamente se actualizará siempre que se actualicen las tablas involucradas en esa vista.
+ANSWER: C
+
+6. ¿Qué es Transact-SQL?
+a) Un sistema gestor de base de datos de tipo NoSQL.
+b) Una extensión propietaria al estándar SQL.
+c) Una query que equivale a realizar consultas SELECT por lotes.
+d) Una biblioteca de clases para mapear objetos sobre una base de datos relacional.
+ANSWER: B
+
+7. ¿Qué tipo de mantenimiento debe realizarse como consecuencia de los cambios en el entorno de operación?
+a) Operativo
+b) Correctivo
+c) Perfectivo
+d) Adaptativo
+ANSWER: D
+
+8. En la herramienta de control de versiones Subversion, ¿con que comando se suben los cambios al repositorio?
+a) svn commit
+b) svn checkin
+c) svn checkout
+d) svn upload
+ANSWER: A
+
+9. Una sentencia JCL comienza con:
+a) //
+c) #>
+b) *+
+d) $>
+ANSWER: A
+
+10. En el contexto de copias de seguridad o respaldo, un TMS es acrónimo de:
+a) Tape Management System.
+b) Transaction Multiplexing System.
+c) Tape Mapping System.
+d) Transaction Management System.
+ANSWER: A
+
+11. La tasa de transferencia máxima que soporta el Serial Advanced Technology Attachment (SATA) Revision 3.0 es de hasta:
+a) 300 MB/s.
+b) 900 MB/s.
+c) 600 MB/s.
+d) 150 MB/s.
+ANSWER: C
+
+12. ¿Cuál es el máximo porcentaje de disco desaprovechado para el almacenamiento efectivo de datos en un array de discos configurado en RAID 5 (suponiendo que todos los discos tienen la misma capacidad)?
+a) 33%
+b) 20%
+c) 50%
+d) 0%
+ANSWER: A
+
+13. En el ámbito de las redes SAN, ¿a qué se refiere el término LUN?
+a) A un switch con conexión de fibra.
+b) A la interfaz de red de los servidores para conectarse a la SAN.
+c) A una unidad de discos agrupados en una cabina de almacenamiento.
+d) Al gateway para conectar una NAS a una red SAN.
+ANSWER: C
+
+14. Comparando NAS (Network-attached Storage) con SAN (Storage Area Network):
+a) NAS opera a nivel de fichero y SAN a nivel de bloque.
+b) NAS opera a nivel de bloque y SAN a nivel de fichero.
+c) Ambos operan a nivel de bloque.
+d) Ambos operan a nivel de fichero.
+ANSWER: A
+
+15. Un conector tipo "MT-Array" es un conector para:
+a) Fibra óptica.
+b) Mainframes.
+c) Buses PCI.
+d) Par trenzado.
+ANSWER: A
+
+16. Los conectores LC son:
+a) Conectores para PCI.
+b) Conectores de par trenzado.
+c) Conectores exclusivos para Mainframe.
+d) Conectores de fibra óptica.
+ANSWER: D
+
+17. Uno de los siguientes términos NO se corresponde con un tipo de antena satelital:
+a) Cassegrain
+b) Krenwinkel
+c) Gregorian
+d) Offset
+ANSWER: B
+
+18. ¿Cuántos bytes utiliza la trama de Ethernet (IEEE 802.3-2012) para el código de redundancia cíclica?
+a) 4 bytes.
+b) 6 bytes.
+c) 12 bytes.
+d) Ethernet no utiliza ningún código de redundancia cíclica.
+ANSWER: A
+
+19. CRAM-MD5 definido en el RFC 2195 es una técnica criptográfica que consiste en:
+a) Un mecanismo de autenticación challenge-response para autenticación de usuarios POP e IMAP, entre otros.
+b) Un mecanismo de cifrado simétrico de bloque basado en una clave compartida y derivación de subclaves usando MD5.
+c) Un algoritmo de firma electrónica basado en MD5, ideado para escenarios en los que no puede usarse criptografía asimétrica.
+d) Un algoritmo de cifrado simétrico de flujo (stream) basado una clave compartida, en MD5 y un LFSR predeterminado.
+ANSWER: A
+
+20. ¿Cuál es la dirección MAC de difusión de red o broadcast que se utiliza en Ethernet (IEEE 802.3)?
+a) 255.255.255.255
+b) FF::FF
+c) FF:FF:FF:FF:FF:FF:FF:FF
+d) FF:FF:FF:FF:FF:FF
+ANSWER: D
+
+21. En redes de área local, ¿cuál de los siguientes es un método de acceso al medio compartido con escucha por contienda?
+a) Paso de testigo en anillo.
+b) CSMA no persistente.
+c) ALOHA ranurado.
+d) Contención.
+ANSWER: B
+
+22. ¿Cómo se llama la base de datos que tiene los parámetros de gestión de una red?
+a) MIB (Management Information Base).
+b) NMD (Network Management database).
+c)NMS (Network Management System).
+d) Ninguna de los anteriores.
+ANSWER: A
+
+23. ¿Cuál de los siguientes puertos utiliza el protocolo SNMP?
+a) 110
+b) 119
+c) 161
+d) 25
+ANSWER: C
+
+24. ¿Se pueden controlar el número de impresiones que un usuario ha realizado en una impresora en red mediante el protocolo de gestión SNMP?
+a) Si, siempre y cuando en la MIB de la impresora se contemple este parámetro.
+b) No, necesitaría una base de datos externa para almacenarlo.
+c) Si, sólo mediante instalación de firmware nuevo en la impresora.
+d) Si, pero con protocolos propietarios de la impresora.
+ANSWER: A
+
+25. Señale cuál de las siguientes NO es una Protocol Data Unit (PDU) del protocolo SNMP v2/v3:
+a) GETREQUEST PDU
+b) SETRESPONSE PDU
+c) RESPONSE PDU
+d) INFORMREQUEST PDU
+ANSWER: B
+
+26. Indique la respuesta correcta en relación al comando SNMP GetBulkRequest:
+a) Está disponible en todas las versiones de SNMP.
+b) Es utilizado por un sistema gestor de red para enviar un mensaje a otro gestor sobre objetos administrados.
+c) Es el que permite utilizar autenticación en SNMP v3.
+d) Es utilizado cuando se requiere una cantidad elevada de datos transmitidos.
+ANSWER: D
+
+27. Indicar cuál de las siguientes direcciones IP puede ser asignada a un host en la siguiente subred 135.26.41.80/28
+a) 135.26.41.94
+b) 135.26.41.95
+c) 135.26.41.96
+d) 135.26.41.97
+ANSWER: A
+
+28. Si tenemos la siguiente dirección de broadcast 95.26.35.159, indicar a qué subred pertenece.
+a) 95.26.35.144/30
+b) 95.26.35.144/29
+c) 95.26.35.128/27
+d) 95.26.35.128/25
+ANSWER: C
+
+29. De las siguientes cabeceras IPv6 (RFC 2460), ¿cuál de las siguientes cabeceras NO es de extensión?
+a) Fragmentacion.
+b) Opciones de salto a salto.
+c) Autenticación.
+d) Límite de saltos.
+ANSWER: D
+
+30. El puerto 69 es utilizado por:
+a) TFTP (Trivial File Transfer Protocol).
+b) Finger.
+c) IMAP (Internet Message Access Protocol).
+d) SFTP (Secure File Transfer Protocol).
+ANSWER: A
+
+31. ¿Cuál es la dirección multicast utilizada por el protocolo RIP v2 (Routing Information Protocol), según RFC 2453, para enviar las actualizaciones de sus tablas?
+a) 224.0.0.4
+b) 224.0.0.5
+c) 224.0.0.9
+d) 224.0.0.22
+ANSWER: C
+
+32. ¿Qué protocolo utiliza la orden "traceroute" para obtener la ruta que se sigue desde nuestro equipo hasta otro en Internet?
+a) Ping
+b) ICMP
+c) PPP
+d) RSVP
+ANSWER: B
+
+33. Con respecto al protocolo DNS. ¿Cuál de las siguientes opciones NO es una parte de un mensaje DNS?
+a) Cabecera.
+b) Checksum.
+c) Registros de recursos de Respuesta.
+d) Registros de recursos de Autoridad.
+ANSWER: B
+
+34. Un equipo con la dirección IP 128.0.235.56/27 ¿Qué máscara de red, dirección de red y dirección de broadcast tiene?
+a) Máscara 255.255.255.224, red 128.0.235.32, broadcast 128.0.235.63
+b) Máscara 255.255.255.0, red 128.0.235.0, broadcast 128.0.235.255
+c) Máscara 255.255.255.192, red 128.0.235.0, broadcast 128.0.235.63
+d) Máscara 255.255.255.128, red 128.0.235.0, broadcast 128.0.235.127
+ANSWER: A
+
+35. ¿De qué tipo es la dirección de IPv6 ff00::/8?
+a) No es válida.
+b) Unicast.
+c) Multicast.
+d) Loopback.
+ANSWER: C
+
+36. Indique qué dirección IPv6 de las siguientes NO es correcta:
+a) ::1
+b) 2022::0ab7::1528:67bb
+c) ::
+d) ::212.200.31.255
+ANSWER: B
+
+37. En una empresa con 2.000 puestos de usuario final en su red local de comunicaciones existen 3 subredes con estos direccionamientos: red A: 10.X.X.X red B: 192.168.1.X y red C: 195.57.72.X. Teniendo en cuenta que en la ubicación de los equipos de usuarios y servidores se busca mantener la red operativa y a la vez con la máxima seguridad posible, ¿en qué subred ubicaría los servidores web públicos?
+a) Red A.
+b) Red B.
+c) Red C.
+d) Indistintamente en la red B o en la red C.
+ANSWER: C
+
+38. El estándar ANSI/TIA-942 establece distintos niveles en relación a ciertos requisitos de seguridad en los Centros de Proceso de Datos (CPD). ¿Cuál es el nivel más exigente?
+a) Tier 5
+b) Tier 4
+c) Tier 3
+d) Tier 0
+ANSWER: B
+
+39. De entre los siguientes, ¿qué protocolo es utilizado para reservar recursos de red a una determinada aplicación?
+a) RSVP
+b) ARP
+c) 802.1ar
+d) H.264
+ANSWER: A
+
+40. ¿En qué protocolo de encaminamiento se utiliza el Algoritmo de Dijkstra para el cálculo de rutas?
+a) OSPF
+b) RIP
+c) BGP
+d) EGP
+ANSWER: A
+
+41. ¿Cuál de los siguientes elementos NO pertenece al protocolo MPLS (RFC 3031)?
+a) LSP (Label Switched Path).
+b) LSR (Label Switching Router).
+c) FEC (Forwarding Equivalence Class).
+d) ILP (Incoming Label Protocol).
+ANSWER: D
+
+42. La recomendación X.25 de la ITU (International Telecommunication Union) se refiere a:
+a) Interfaz entre el equipo terminal de datos y el equipo de terminación del circuito de datos para equipos terminales que funcionan en el modo paquete y están conectados a redes públicas de datos por circuitos especializados.
+b) Interfaz equipo terminal de datos/equipo de terminación del circuito de datos para los equipos terminales de datos arrítmicos con acceso a la facilidad de ensamblado/desensamblado de paquetes en una red pública de datos situada en el mismo país.
+c) Utilización, en las redes públicas de datos, de equipos terminales de datos diseñados para su conexión con módems síncronos de la serie V.
+d) Interfaz entre el equipo terminal de datos y el equipo de terminación del circuito de datos para funcionamiento síncrono en redes públicas de datos.
+ANSWER: A
+
+43. El algoritmo PLC (Packet Loss Concealment):
+a) Lo utiliza Frame Relay para el reenvío de tramas pérdidas por la congestión en el sentido de la transmisión.
+b) Algoritmo de ocultamiento de pérdida de paquetes utilizado por VoIP.
+c) Utilizado por TCP para la retransmisión de paquetes después de una trama NACK (negative acknowledgement).
+d) Algoritmo de descarte de paquetes en situación de congestión en redes Frame Relay.
+ANSWER: B
+
+44. Con respecto al campo Data Link Connection Identifier (DLCI) de Frame Relay señale la respuesta correcta:
+a) Debe ser único en toda la red.
+b) Tiene una longitud total de 10 bits por defecto.
+c) Controla los mecanismos de notificación de congestión.
+d) Los valores 0 a 128 del mismo están reservados para funciones especiales.
+ANSWER: B
+
+45. MPLS (Multiprotocol Label Switching) utiliza algunos conceptos, entre ellos:
+a) FEC (Forwarding Equivalent Class).
+b) LAPD (Link Access Protocol for D-channel).
+c) CIR (Commited Information Rate).
+d) MBS (Maximum Burst Size).
+ANSWER: A
+
+46. Un archivo .PFX, de uso en certificados electrónicos:
+a) Contiene la clave privada.
+b) Cumple la sintaxis PKCS #21.
+c) Está codificado en un formato no binario.
+d) No se puede convertir a formato .PEM.
+ANSWER: A
+
+47. Indique la respuesta FALSA, respecto al protocolo IPSEC :
+a) El protocolo IPSEC AH garantiza integridad y autenticación, pero no confidencialidad.
+b) El protocolo IPSEC ESP utiliza el número de protocolo 50 en la cabecera IP.
+c) IPSEC utiliza IKE como protocolo de intercambio de claves.
+d) IPSEC ESP es incompatible con el modo transporte, sólo se puede utilizar en modo túnel.
+ANSWER: D
+
+48. De los 32 bits que tiene una cabecera MPLS, ¿cuántos están reservados para el valor de la etiqueta MPLS según la RFC 3032?
+a) 32
+b) 24
+c) 20
+d) 16
+ANSWER: C
+
+49. Indique de entre las siguientes cuál es la definición de secráfono:
+a) Equipo de frontera que, situado fuera de la red interna, ofrece servicios al exterior.
+b) Equipo infectado por un atacante remoto no detectado.
+c) Equipo que genera y entrega claves criptográficas para su distribución.
+d) Equipo para realizar el cifrado analógico de la voz.
+ANSWER: D
+
+50. El algoritmo SHA-1 (RFC 3174) produce un resumen de salida de:
+a) 128 bits
+b) 160 bits
+c) 224 bits
+d) 256 bits
+ANSWER: B
+
+51. Según la recomendación XMLDsig de W3C, la firma digital de tipo enveloped signature cumple que:
+a) La firma y el documento firmado son dos ficheros diferentes.
+b) El documento firmado va dentro de la firma.
+c) La firma va al final del documento firmado como un elemento adicional.
+d) La firma se inserta en el primer elemento XML del documento.
+ANSWER: C
+
+52. ¿Cuál de los siguientes organismos se encarga de generar y mantener las RFC en internet?
+a) IETF (Internet Engineering Task Force).
+b) IAB (Internet Architecture Board).
+c) IANA (Internet Assigned Numbers Authority).
+d) ISOC (Internet Society).
+ANSWER: A
+
+53. El protocolo FTP sobre TLS/SSL (FTPS-data) usa el puerto:
+a) 989
+b) 567
+c) 742
+d) 334
+ANSWER: A
+
+54. Los Puntos Neutros (Internet Exchange Points) en Internet:
+a) Permiten conectarse a Internet sin coste.
+b) Eliminan los paquetes con un TTL mayor del fijado en el segmento de red (típicamente 30).
+c) Son pasarelas para compatibilizar el tráfico IPv4 y el IPv6.
+d) Permiten interconectar las redes de diferentes ISP, reduciendo y encaminando de forma eficiente el tráfico que circula entre ellas.
+ANSWER: D
+
+55. ¿Cómo se llama la clasificación no jerárquica de la información mediante etiquetas/tags por parte de los usuarios de la misma?
+a) Web 3.0.
+b) Labelling.
+c) Taxonomía.
+d) Folcsonomía.
+ANSWER: D
+
+56. Analizando los problemas con la calidad de servicio en VoIP, ¿qué se entiende por jitter?
+a) Una reflexión retardada de la señal acústica original.
+b) El tiempo que tarda un paquete en llegar desde la fuente al destino.
+c) Variación en el tiempo de llegada de los paquetes, causada por congestión de red, perdida de sincronización o por las diferentes rutas seguidas.
+d) Cantidad de información o de datos que se puede enviar a través de una conexión de red en un período de tiempo dado.
+ANSWER: C
+
+57. La medida Mean Opinion Score (MOS) se utiliza en:
+a) La ponderación de alternativas en el método Delphi.
+b) La calidad de la voz sobre el protocolo VoIP.
+c) La evaluación de riesgos del método Magerit v2.
+d) La explotación de almacenes de datos en CRM (Customer Relationship Management).
+ANSWER: B
+
+58. La arquitectura de la red UMTS está formada por varios elementos, cada uno con unas funciones específicas. Elija la afirmación correcta entre las siguientes relativas a la arquitectura UMTS:
+a) El RNS (Radio Network Subsystem) está formado por los RNC (Radio Network Controller), el MSC (Mobile Switching Center) y los Nodos B.
+b) El Nodo B es el responsable de la transmisión radio desde los RNC (Radio Network Controller) hacia los MSs (Mobile Station) en una o más celdas UMTS.
+c) El VLR (Visitor Location Register) mantiene una base de datos con los datos de los abonados móviles, para poder realizar la autenticación del abonado y cifrar las comunicaciones.
+d) El UELC (User Equipment Location Controller) es el encargado de llevar a cabo las funciones de itinerancia (roaming) de las MSs (Mobile Station) en un área MSC (Mobile Switching Center).
+ANSWER: B
+
+59. ¿Qué banda de frecuencia se destina con carácter preferente al sistema digital europeo de telecomunicaciones sin cordón (DECT), según el Cuadro Nacional de Atribuciones de Frecuencia?
+a) 1850-1900 MHz
+b) 1860-1900 MHz
+c) 1870-1900 MHz
+d) 1880-1900 MHz
+ANSWER: D
+
+60. ¿Qué nombre recibe el estándar de Televisión Digital Terrestre utilizado en Europa?
+a) ATSC
+b) ISDB-T
+c) DVB-T
+d) EDTVB
+ANSWER: C
+
+1. [RESERVA] Indica cuál es el grupo de trabajo en el estándar IEEE 802.11 cuyo objetivo es ampliar el soporte para aplicaciones wireless con requisitos de calidad de servicio (QoS):
+a) 802.11e
+b) 802.11i
+c) 802.11n
+d) 802.11q
+ANSWER: A
+
+2. [RESERVA] En un sistema UNIX, ¿cuál es la diferencia entre los ficheros /etc/passwd y /etc/shadow?
+a) /etc/shadow es una copia exacta del fichero /etc/password pero sólo visible por root.
+b) /etc/password alberga las passwords de los usuarios y /etc/shadow alberga la historia de comandos realizadas por los mismos.
+c) /etc/passwd es legible por todos los usuarios, mientras que /etc/shadow es legible sólo por root.
+d) /etc/passwd alberga las passwords de los usuarios mientras que /etc/shadow alberga el nombre de los usuarios.
+ANSWER: C
+
+3. [RESERVA] ¿Cuál de las siguientes NO es una herramienta de benchmarking?
+a) Server Performance Rating Tool.
+b) 3dmark.
+c) Cinebench.
+d) SPEC CPU2006.
+ANSWER: A

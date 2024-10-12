@@ -1,0 +1,370 @@
+1. Indicar el significado del comando ‘ps’ de UNIX:
+a) Muestra los usuarios que actualmente están autenticados en el sistema.
+b) Muestra un listado con los archivos y directorios.
+c) Permite visualizar el estado de uno o varios procesos.
+d) Encontrar archivos en un determinado directorio a partir de diversas reglas de búsqueda.
+ANSWER: C
+
+2. Desde el punto de vista de la administración, ¿cuál es la opción adecuada para la distribución de particiones del Sistema Operativo de servidor?
+a) Una partición para rutinas y programas del sistema operativo y para el log; otra partición de dump; y otra para los datos de usuario.
+b) Una partición para rutinas y programas del sistema operativo, para el log, y de dump; y otra para los datos de usuario.
+c) Una partición para rutinas y programas del sistema operativo y de dump; y otra para el log y los datos de usuario.
+d) Una partición para rutinas y programas del sistema operativo; otra para el log; otra de dump; y otra para los datos de usuario.
+ANSWER: D
+
+3. En RedHat Enterprise Linux si se está en modo multiusuario completo y se está utilizando una interfaz gráfica de login (X-based login screen) se está en:
+a) Nivel de ejecución 1
+b) Nivel de ejecución 3
+c) Nivel de ejecución 5
+d) Nivel de ejecución 6
+ANSWER: C
+
+4. Señale cuál de las siguientes características no es propia del software libre:
+a) Puede ser modificado.
+b) Se tiene acceso al código fuente.
+c) Es gratuito.
+d) Puede ser redistribuido.
+ANSWER: C
+
+5. Señale qué módulo criptográfico debe tener instalado un ordenador para que el usuario pueda utilizar el DNI lectrónico:
+a) No es necesario ningún módulo criptográfico.
+b) Debe estar instalado "Cryptographic Service Provider" (CSP) o el módulo PKCS#11 indistintamente.
+c) En los entornos UNIX / Linux o MAC debe estar instalado el módulo PKCS#11.
+d) En un entorno Microsoft Windows debe estar instalado el módulo PKCS#11.
+ANSWER: C
+
+6. En un Sistema de Gestión de Base de Datos (SGBD) debe garantizarse la total satisfacción la CONSISTENCIA, es decir que:
+a) Varios accesos simultáneos a cada Base de Datos sin conflictos.
+b) En todo momento, los valores de los datos no presenten contradicciones.
+c) Los valores de los datos sean auténticos, conforme a las reglas semánticas establecidas por diseño.
+d) En caso de fallo (hardware, alimentación, etc) la Base de Datos vuelva a un estado íntegro anterior al fallo.
+ANSWER: B
+
+7. La planificación de las copias de seguridad vendrá derivada de un estudio previo de análisis y gestión de riesgos basado en una metodología. Indicar la metodología elaborada por el Consejo Superior de Administración Electrónica que se debería emplear para este estudio:
+a) SOROLLA
+b) MAGERIT
+c) NEDAES
+d) BADARAL
+ANSWER: B
+
+8. Señale cuál de los siguientes protocolos de gestión de redes está basado en el modelo de referencia OSI de ISO:
+a) CMIP
+b) SNMP
+c) SGMP
+d) TL-1
+ANSWER: A
+
+9. Indique cuál de las siguientes es una herramienta de software libre para la monitorización de servidores y sus servicios.
+a) Nagios
+b) Open-view
+c) awstats
+d) amberpoint
+ANSWER: A
+
+10. Señale cuál de las siguientes afirmaciones es correcta respecto del formato de disco óptico Blu-ray:
+a) Se accede a través de un láser de color rojo de 650 nanómetros.
+b) Dispone en su superficie de una capa de policarbonato de 0,6 milímetros.
+c) Presenta menor resistencia a ralladuras y tolera peor la suciedad que el formato DVD.
+d) Soporta los formatos de compresión MPEG-2 y MPEG-4.
+ANSWER: D
+
+11. RedHat Enterprise Linux 4 utiliza CRON para la programación de la ejecución de tareas. En ese entorno seleccione la opción correcta:
+a) Si se ha programado la siguiente tarea "10 4 1 * * /root/scripts/backup.sh", los asteriscos se han utilizado para especificar "todos los valores válidos" para ese campo.
+b) Para que funcione la ejecución de tareas periódicas programadas, el servicio crontab debe estar ejecutándose en el sistema.
+c) La ejecución de tareas puede especificarse con una precisión de segundos.
+d) Cuando se programa la ejecución de una nueva tarea es necesario reiniciar el servicio para que se tenga en cuenta esta nueva tarea.
+ANSWER: A
+
+12. El Lenguaje de Control de Trabajos (JCL), es un conjunto de especificaciones que constituyen un lenguaje de programación de tareas para el sistema operativo que gobierna un equipo informático, usado en Mainframes. Entre sus características indicar la respuesta errónea:
+a) Las sentencias JCL comienzan con //
+b) A partir de la columna 52 se considera comentario
+c) La primera sentencia es JOB
+d) Todas las sentencias han de escribirse en MAYÚSCULAS
+ANSWER: B
+
+13. Indique cuál de las siguientes NO es una herramienta que permita evaluar el rendimiento de aplicaciones web:
+a) awstats
+b) siege
+c) loadRunner
+d) Jmeter
+ANSWER: A
+
+14. Entre las siguientes definiciones, en relación con los parámetros de rendimiento, indique la respuesta errónea:
+a) Throghput: Es la cantidad de trabajo útil ejecutado por unidad de tiempo en un entorno de carga determinado.
+b) Solapamiento: Porcentaje de tiempo durante el cual dos o más componentes están siendo utilizados simultáneamente.
+c) Overhead: Porcentaje de tiempo durante el cual los distintos dispositivos del sistema están siendo utilizados por tareas del sistema.
+d) Frecuencia de paginación: Numero de programas sacados de memoria por unidad de tiempo a causa de falta de espacio.
+ANSWER: D
+
+15. Señale cómo se denomina el protocolo de interconexión en redes SAN que opera a nivel de gateway y que permite el despliegue de servicios Fibre Channel sobre una red TCP/IP:
+a) FCIP (Fibre Channel Internet Protocol).
+b) iFCP (Internet Fibre Channel Protocol).
+c) iSCSI (Internet Small Computer System Interface).
+d) WDM (Wave Division Multiplexing).
+ANSWER: B
+
+16. Se cuenta con 4 discos físicos que se desea configurar como una única unidad, por ejemplo /root. Se desea maximizar la capacidad útil de almacenamiento proporcionando algún mecanismo de redundancia ante fallos. Por favor, elija entre las siguientes la mejor opción a utilizar:
+a) RAID 0
+b) RAID 1
+c) RAID 0+1
+d) RAID 5
+ANSWER: D
+
+17. En relación con las definiciones de RAID (Redundant Array of Inexpensive Disks), indique la respuesta errónea:
+a) Un RAID 6 es similar a RAID 5, salvo que calcula dos bloques de paridad independientes por cada escritura, mandando cada uno de los bloques de paridad a un disco diferente.
+b) Un RAID 4 Consiste en “stripping” a nivel de bloque, como RAID 0 más un disco de paridad dedicado. Cada bloque escrito es dividido en partes, se obtiene un bloque de paridad que permite recomponer el bloque inicial en caso de pérdida de alguna de las partes.
+c) Un RAID 2 divide los bits a nivel de bloque. Por cada “palabra” enviada a escritura calcula un código de Hamming que permite recuperar la información en caso de fallo de un disco y envía posteriormente cada bloque a su disco correspondiente para mantener la paridad.
+d) Un RAID 5 Este nivel de RAID es similar a RAID 4, salvo que no utiliza un disco de paridad dedicado, sino que distribuye los bloques de paridad por todos los discos del array.
+ANSWER: C
+
+18. Señale cuál de las siguientes opciones NO se corresponde con las especificaciones de ANSI para cables de Categoría 6:
+a) Alcanza frecuencias de hasta 500 MHz en cada par.
+b) Se emplea para Gigabit Ethernet.
+c) Caracterizan los cables de pares trenzados.
+d) Se define en la especificación ANSI/TIA/EIA-568-B2-1
+ANSWER: A
+
+19. En la resolución del 22 de noviembre de 2005, de la Secretaria de Estado de Telecomunicación y para la Sociedad de la Información, se publicaron los requisitos técnicos de la interfaz reglamentaria Ir-14 relativa a los sistemas de acceso inalámbrico fijo (LMDS/FWA) para España. Señale qué banda de frecuencias son las asignadas:
+a) 2,4 a 2,6 Ghz.
+b) 202,5 a 226,6 Ghz.
+c) 24,5 a 26,5 Ghz.
+d) 3.400 a 3.800 MHz.
+ANSWER: C
+
+20. Una Unidad de Acceso Multiestación o MAU es un dispositivo que administra la comunicación entre los equipos conectados a una red de topología:
+a) En anillo
+b) En Bus
+c) En Estrella
+d) En Bucle
+ANSWER: A
+
+21. El standard Ethernet IEEE 802.3 está basado en una técnica de Acceso al Medio por Detección de Portadora (CSMA-Carrier Sense Multiple Access), señale cuál es:
+a) CSMA/CA
+b) CSMA/CD
+c) CSMA/CR
+d) CSMA/CP
+ANSWER: B
+
+22. El estándar IEEE 802.3ae define una versión de Ethernet con una velocidad nominal de:
+a) 1 Gbit/s.
+b) 100 Mbit/s.
+c) 10 Gbit/s.
+d) 1 Tbit/s.
+ANSWER: C
+
+23. Seleccione la respuesta correcta:
+a) RMON monitoriza el tráfico de los routers de una red.
+b) SMON monitoriza el tráfico de los routers de una red.
+c) El standar RMON se define en la RFC 2613
+d) SMON ofrece información sobre las redes locales virtuales VLAN
+ANSWER: A
+
+24. Señale a qué se denomina Single sign-on (SSO):
+a) Es un protocolo de cifrado para autenticar al usuario.
+b) Es un procedimiento de autenticación que habilita al usuario para acceder a varios sistemas con una sola instancia de identificación.
+c) Esta asociado al cifrado basado en Secure Socket Layers (SSL).
+d) Permite a través del protocolo de red HTTPS identificar a los usuarios en el acceso a servicios Web.
+ANSWER: B
+
+25. Indique cuál de los siguientes conceptos se corresponde con una primitiva de servicio entre niveles del modelo OSI:
+a) RECEIVE
+b) INDICATION
+c) SEND
+d) ECHO
+ANSWER: B
+
+26. [ANULADA] Señale quién realiza, En una arquitectura de comunicaciones TCP/IP, la función de conversión del intercambio de datagramas en una conexión de datos entre aplicaciones:
+a) TCP.
+b) XML.
+c) IP.
+d) X-25.
+ANSWER:
+
+27. Señale qué servicio NO es básico dentro de la arquitectura de comunicaciones TCP/IP:
+a) Transferencia de archivos.
+b) Terminal virtual.
+c) Correo.
+d) Acceso a archivos.
+ANSWER: D
+
+28. Señale cuál es el puerto por defecto de SMTP:
+a) 21
+b) 23
+c) 25
+d) 80
+ANSWER: C
+
+29. Señale la afirmación correcta. La cabecera de IPv6 es:
+a) Menor que la de IPv4.
+b) Mayor que la de IPv4.
+c) Igual que la de IPv4.
+d) No hay cabecera propiamente dicha.
+ANSWER: B
+
+30. Señale cuál de las siguientes opciones caracteriza al fenómeno TEMPEST:
+a) Consiste en el análisis y reconstrucción de información a partir de las radiaciones emitidas en el tiempo por una señal de un dispositivo hardware.
+b) Mecanismo mediante el cual una señal de voz se cifra a partir de una transformación sobre la señal de voz original antes de una transmisión.
+c) Mecanismo de detección y prevención de impacto producido por tormentas eléctricas.
+d) Tecnología que permite neutralizar las radiaciones térmicas de los dispositivos electrónicos.
+ANSWER: A
+
+31. A la hora de crear un CPD, señale qué consideración NO debe tener en cuenta:
+a) Todos los cables tendidos bajo el suelo de un CPD deberían ser LSZH
+b) El CPD debería contar con dos acometidas eléctricas independientes.
+c) El CPD no debería ubicarse sobre un aparcamiento o estacionamiento de coches.
+d) Dentro de un CPD, en el área de ordenadores, debería utilizarse para la extinción de incendios polvo seco.
+ANSWER: D
+
+32. Indicar la respuesta errónea en relación al concepto de Benchmark:
+a) La tarea de ejecutar un Benchmark originalmente se reducía a estimar el tiempo de proceso que lleva la ejecución de un programa (medida por lo general en miles o millones de operaciones por segundo).
+b) Es una metodología bastante frecuente para comparar diferentes sistemas informáticos frente a una carga característica de una instalación concreta que permite realizar mediciones en el ambiente real.
+c) Esta metodología se basa en la utilización de programas para simular la realidad. Al igual que la teoría de colas es aplicable a fenómenos de espera y requiere que estén establecidos los niveles de servicio, de igual forma necesita una proyección del comportamiento del sistema.
+d) Las principales dificultades que se plantean en relación con el Benchmark radica en determinar la carga característica y en valorar el aprovechamiento que hacen los programas de las peculiaridades de los distintos software utilizados.
+ANSWER: C
+
+33. Indique de los siguientes protocolos de encaminamiento cuál se engloba dentro de la categoría EGP (Exterior Gateway Protocols):
+a) IS-IS (Intermediate System to Intermediate System)
+b) OSPF (Open Shortest Path First)
+c) BGP (Border Gateway Protocol)
+d) RIP (Routing Information Protocol)
+ANSWER: C
+
+34. Un uso muy ineficaz de la capacidad de conexión y un retardo mínimo son características típicas de:
+a) Conmutación de circuitos.
+b) Conmutación de paquetes.
+c) Conmutación de mensajes.
+d) Conmutación de tiempo.
+ANSWER: A
+
+35. Señale qué longitud tiene la cabecera de MPLS (Multiprotocol Label Switching):
+a) 20 bits.
+b) 32 bits.
+c) 53 Bytes.
+d) 53 bits.
+ANSWER: B
+
+36. Señale cuál de los siguientes algoritmos es de cifrado asimétrico:
+a) Cast5
+b) Twofish
+c) Idea
+d) ElGamal
+ANSWER: D
+
+37. Indique cuál de los siguientes NO es, actualmente, un tamaño de clave válido para el algoritmo de cifrado AES:
+a) 128 bits
+b) 192 bits
+c) 256 bits
+d) 512 bits
+ANSWER: D
+
+38. Señale cómo se denomina el protocolo sucesor de SSL (Secure Sockets Layer), estandarizado por el IETF:
+a) TSL
+b) TLS
+c) IPSEC
+d) SECIP
+ANSWER: B
+
+39. Cuál de las siguientes especificaciones de Internet y XML ha sido publicada en el seno del Consorcio OASIS:
+a) UBL (Universal Business Language)
+b) XHTML (eXtensible Hypertext Markup Language)
+c) OWL (Web Ontology Language)
+d) XPointer (XML Pointer Language)
+ANSWER: A
+
+40. Señale quién gestiona la raíz del DNS:
+a) IANA
+b) ESNIC
+c) INIC
+d) ITU
+ANSWER: A
+
+41. Señale qué puerto estándar está asociado al protocolo HTTPS (HyperText Transfer Protocol):
+a) 161
+b) 115
+c) 443
+d) 22
+ANSWER: C
+
+42. Señale cuál de las siguientes opciones ordena correctamente las siguientes tecnologías, de menor a mayor, en cuanto a ancho de banda máximo de bajada:
+a) RDSI, ADSL, HDSL, VDSL.
+b) HDSL, RDSI, ADSL, VDSL.
+c) RDSI, HDSL, ADSL, VDSL.
+d) RDSI, HDSL, VDSL, ADSL.
+ANSWER: C
+
+43. Señale cuál es la recomendación de la ITU, que regula el ADSL2+:
+a) ITU-T G.821.5
+b) ITU-T G.711
+c) ITU-T G.992.5
+d) ITU-T G.707
+ANSWER: C
+
+44. Indique cuál de las siguientes capas NO se corresponde con las definidas en el protocolo WAP:
+a) De aplicación, WAE
+b) De presentación, WPP
+c) De seguridad, WTSL
+d) De transporte, WDP
+ANSWER: B
+
+45. Señale qué ley o leyes recomienda la ITU-T en su recomendación G.711 para codificación de frecuencias de señales vocales:
+a) Ley A y Ley "Mu".
+b) Ley A y Ley "Gamma".
+c) Ley "Mu" y Ley "Gamma"
+d) Ley "Gamma".
+ANSWER: A
+
+46. Señale cuál de los siguientes no es un protocolo de VoIP:
+a) MGCP
+b) SIP
+c) H323
+d) TDM
+ANSWER: D
+
+47. Señale cómo se denomina, En telefonía móvil, el procedimiento mediante el cual se consigue que una conexión se mantenga cuando el móvil cambia de celda, dentro del alcance de una misma central de conmutación:
+a) Roaming
+b) Hand-over
+c) Clustering
+d) Trunking
+ANSWER: B
+
+48. En la tecnología GSM, qué canal de señalización utiliza la estación base para avisar al terminal móvil de una nueva llamada entrante
+a) Stand-Alone Dedicated Control Channel, SDCCH
+b) Random Access Channel, RACH
+c) Broadcast Control Channel, BCCH
+d) Paging channel (PCH)
+ANSWER: D
+
+49. Señale cuál de los siguientes estándares regula la tecnología WiMAX.
+a) IEEE 802.3
+b) IEEE 802.11
+c) IEEE 802.15
+d) IEEE 802.16
+ANSWER: D
+
+50. [ANULADA] Señale qué estándar de WLAN permite ofrecer una velocidad máxima teórica de 54 Mbs con acceso al medio mediante DSSS (Direct Sequence Spread Spectrum)?
+a) 802.11a
+b) 802.11b
+c) 802.11e
+d) 802.11g
+ANSWER:
+
+1. [RESERVA] Señale cuál de los siguientes efectos NO se produce en las redes PLC en cuanto a la respuesta de la frecuencia del canal:
+a) Reflexión
+b) Incremento de atenuación con la distancia y con la frecuencia.
+c) Variación de impedancia con el tiempo.
+d) Refracción
+ANSWER: D
+
+2. [RESERVA] Señale cuál es el sistema de compresión de señal utilizado para la distribución de televisión digital terrestre (TDT):
+a) MPEG-3 y MPEG-4 combinados, en función del formato de señal utilizado: 4:3 ó 16:9
+b) MPEG-4
+c) MPEG-2
+d) MPEG-3
+ANSWER: C
+
+3. [RESERVA] Señale cuál de las siguientes respuestas NO es una de las modulaciones empleadas por la tecnología PLC (Power Line Comunications):
+a) DSSSM (Direct Sequence Spread Spectrum Modulation). Se caracteriza debido a que puede operar con baja densidad espectral de potencia.
+b) OFDM (Orthogonal Frecuency Division Multiplex), que utiliza un gran número de portadoras con anchos de banda muy estrechos.
+c) GMSK (Gaussian Minimum Shift Keying), que optimiza el uso del ancho de banda.
+d) DMT (Discrete multi-tone modulation) Es un tipo de modulación multiportadora, que elimina el problema de las altas frecuencias que aumentan considerablemente las pérdidas debido al ruido.
+ANSWER: D

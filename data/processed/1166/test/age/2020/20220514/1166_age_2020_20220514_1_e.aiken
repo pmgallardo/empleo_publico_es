@@ -152,15 +152,15 @@ c) Facilitar la identificación personal mediante un certificado electrónico eu
 d) Desbloquear el potencial de una economía de datos europea con un marco para el libre flujo de datos no personales, en la Unión Europea.
 ANSWER: C
 
-23. [TEMA="2022."] Una de las principales características de un sistema “grid” es que:
+23. [TEMA="2022.52"] Una de las principales características de un sistema “grid” es que:
 a) Los nodos tienen que estar dedicados.
 b) Son sistemas homogéneos, en los que se tiene el mismo HW y SW en cada nodo.
 c) Se puede asegurar que la aportación al sistema  no va a sobrepasar un determinado porcentaje de tiempo de procesamiento en cada nodo.
 d) No se puede garantizar la escalabilidad como un criterio parametrizable para añadir nuevos nodos.
 ANSWER: C
 
-24. [TEMA="2022.52"] En cuanto a las técnicas de refrigeración en CPDs, la tecnología qu e consiste en un equipo condensador que se sitúa en el exterior y envía el calor de la sala fuera de la misma, impulsando de nuevo el aire frio de vuelta a la sala med iante un sistema de ventilación  corresponde a:
-a) Sistema de refrigeración por condensaci ón en torre de refrigeración.
+24. [TEMA="2022.34] En cuanto a las técnicas de refrigeración en CPDs, la tecnología que consiste en un equipo condensador que se sitúa en el exterior y envía el calor de la sala fuera de la misma, impulsando de nuevo el aire frío de vuelta a la sala mediante un sistema de ventilación corresponde a:
+a) Sistema de refrigeración por condensación en torre de refrigeración.
 b) Entrega de aire a baja presión.
 c) Sistemas de expansión directa.
 d) Técnicas de pasillo frío/caliente.
@@ -191,11 +191,11 @@ ANSWER: C
 a) Un concentrador VPN puede establecer conexiones seguras (túneles) con dispositivos de usuario, pero no con otros servidores VPN.
 b) La autenticación mutua entre los extremo s del túnel VPN se lleva a cabo, en general, mediante certificados de clave pública X.509.
 c) La tecnología “VPN as a Service” (VPNaaS) no puede utilizarse para establecer conexión a los recursos de la red interna corporativa (on -premise).
-d) Las VPN basad as en IPSec tienen como ventaja la ausencia de problemas de compatibilidad con la traslación de direccionamiento IP (NAT).
+d) Las VPN basadas en IPSec tienen como ventaja la ausencia de problemas de compatibilidad con la traslación de direccionamiento IP (NAT).
 ANSWER: B
 
 29. [TEMA="2022.58"] ¿Cuál de las siguientes NO es una característica de los sistemas distribuidos?:
-a) Las arquitecturas de los nodos que componen el si stema distribuido, como los sistemas operativos.
+a) Las arquitecturas de los nodos que componen el sistema distribuido, como los sistemas operativos.
 de los nodos, no tienen por qué ser iguales.
 b) La utilización de un reloj común que sirve para sincronizar y coordinar cualquier proceso o comunicación de mensajes.
 c) La concurrencia global para que la ejecución de los distintos elementos del sistema se realice de forma paralela.
@@ -286,7 +286,7 @@ c) Caddy 2.
 d) NGINX.
 ANSWER: C
 
-42. [TEMA="2022."] ¿Cuál de las siguientes NO es una definición de ERP?:
+42. [TEMA="2022.72"] ¿Cuál de las siguientes NO es una definición de ERP?:
 a) Es una extensa solución comercial de software empaquetado compuesto de varios módulos configurables que integran, firmemente y en un solo sistema las actividades empresariales nucleares.
 b) Se pueden definir como la puesta en práctica de los módulos del software estándar para los procesos del negocio nucleares, generalmente, combinados con modificaciones particulares para lograr una diferenciación competitiva.
 c) Conjunto de estrategias que tienen la intención de buscar, recopilar y almacenar la información adecuada, validarla y compartirla a través de  toda la organización, con objeto de que después sea utilizada por todos los niveles organizativos para crear experiencias únicas y personalizadas a sus clientes.
@@ -426,7 +426,7 @@ c) Complejidad.
 d) Testabilidad.
 ANSWER: B
 
-62. [TEMA="2022.92"] UML consta de varios tipos de diagramas, que se clasifican en Diagramas de Estructura y Diagramas de Comportamiento para representar la visión estática y dinámica respectivamente. ¿Cuál de los siguientes es un Diagrama  de Estructura?:
+62. [TEMA="2022.90"] UML consta de varios tipos de diagramas, que se clasifican en Diagramas de Estructura y Diagramas de Comportamiento para representar la visión estática y dinámica respectivamente. ¿Cuál de los siguientes es un Diagrama  de Estructura?:
 a) Diagrama de casos de uso.
 b) Diagrama de actividades.
 c) Diagrama de componentes.

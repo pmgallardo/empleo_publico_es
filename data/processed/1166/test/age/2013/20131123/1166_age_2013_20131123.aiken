@@ -1,699 +1,697 @@
-1. El protocolo TCP es un protocolo
+1. [TEMA="2022.115"] El protocolo TCP es un protocolo
 a) orientado a conexión, fiable y de flujo estructurado.
 b) orientado a conexión, fiable y de flujo no estructurado.
 c) orientado a conexión, no fiable y de flujo no estructurado.
 d) no orientado a conexión, no fiable y de flujo no estructurado.
 ANSWER: B
 
-2. Según la metodología Métrica V3 Estudio de Viabilidad del Sistema, indicar en qué actividad se realiza la tarea “Estudio de la Inversión”.
+2. [TEMA="2022.95"] Según la metodología Métrica V3 Estudio de Viabilidad del Sistema, indicar en qué actividad se realiza la tarea “Estudio de la Inversión”.
 a) Estudio de Alternativas de Solución.
 b) Definición de Requisitos del Sistema.
 c) Estudio de la Situación Actual.
 d) Valoración de las Alternativas.
 ANSWER: D
 
-3. De acuerdo con la definiciones dadas por el grupo de trabajo del IEEE Computer Society, la reestructuración software (restructuring) es
+3. [TEMA="2022.100"] De acuerdo con la definiciones dadas por el grupo de trabajo del IEEE Computer Society, la reestructuración software (restructuring) es
 a) el proceso de analizar un sistema para identificar los componentes y las interrelaciones entre ellos.
 b) el examen y la modificación de un sistema para ser reconstruido de una forma nueva y realizar la implantación derivada de esta nueva forma.
 c) la transformación de una forma de representación de un sistema en otra distinta pero sin modificar el comportamiento externo del sistema.
 d) un proceso completo que va desde una alto nivel de abstracción, hasta la propia implementación física del sistema.
 ANSWER: C
 
-4. La programación funcional limita el uso de
+4. [TEMA="2022.93"] La programación funcional limita el uso de
 a) estados mutables.
 b) expresiones lambda.
 c) procedimientos como parámetros.
 d) lenguajes como Erlang, F# o Scala.
 ANSWER: A
 
-5. El modelo Vectorial de representación de datos espaciales
+5. [TEMA="2022.105"] El modelo Vectorial de representación de datos espaciales
 a) facilita establecer relaciones topológicas entre los elementos.
 b) utiliza sólo dos elementos geométricos (puntos y líneas) para modelar digitalmente las entidades del mundo real.
 c) divide el espacio en celdas regulares donde cada una de ellas es ubicada por un vector.
 d) almacena los datos mediante el formato vectorial de base de datos BLOB.
 ANSWER: A
 
-6. La Norma ISO 9004:2009 establece una escala para evaluar la madurez del sistema de gestión de calidad para cada capítulo principal de la misma. Un nivel 3 de madurez se corresponde con un nivel de desempeño de,
+6. [TEMA="2022.5"] La Norma ISO 9004:2009 establece una escala para evaluar la madurez del sistema de gestión de calidad para cada capítulo principal de la misma. Un nivel 3 de madurez se corresponde con un nivel de desempeño de,
 a) Aproximación reactiva.
 b) Énfasis en la mejora continua.
 c) Aproximación del sistema formal estable.
 d) Desempeño de "mejor de su clase".
 ANSWER: C
 
-7. En el contexto de las redes de telecomunicaciones, SNMP
+7. [TEMA="2022.118"] En el contexto de las redes de telecomunicaciones, SNMP
 a) es un protocolo de la capa de aplicación que facilita el intercambio de información de administración entre dispositivos de red.
 b) es el acrónimo en inglés de Service Network Management Protocol.
 c) es un protocolo de la capa de transporte que facilita el intercambio de información de administración entre dispositivos de red.
 d) son las siglas en inglés de Standard Network Management Protocol.
 ANSWER: A
 
-8. Señale la respuesta INCORRECTA respecto a las funciones criptográficas hash o resumen.
+8. [TEMA="2022.79"] Señale la respuesta INCORRECTA respecto a las funciones criptográficas hash o resumen.
 a) MD5 genera un hash de 128 bits.
 b) SHA-1 genera un hash de 160 bits.
 c) Se conoce por SHA-2 a un conjunto de funciones de la familia SHA que generan hashes de longitud 224, 256, 384 y 512 bits.
 d) La longitud mínima del hash soportada en SHA-3 es 256 bits.
 ANSWER: D
 
-9. En las redes RDSI, la UIT ha definido una serie de puntos de referencia que ha
-denominado
+9. [TEMA="2022.120"] En las redes RDSI, la UIT ha definido una serie de puntos de referencia que ha denominado
 a) A, B, C, D.
 b) E, F, G, H.
 c) S, T, U, V.
 d) W, X, Y, Z.
 ANSWER: C
 
-10. En relación con los protocolos de encaminamiento
+10. [TEMA="2022.108"] En relación con los protocolos de encaminamiento
 a) RIP y OSPF son protocolos de vector distancia.
 b) IGRP y EIGRP son protocolos de estado de enlace.
 c) RIP es un protocolo de encaminamiento interno y BGP lo es de encaminamiento externo.
 d) IS-IS y OSPF son protocolos de encaminamiento externo.
 ANSWER: C
 
-11. Dentro del Centro de Transferencia Tecnológica, el Servicio de Oficina Virtual de Registro que permite, entre otros, la remisión de los asientos registrales entre Administraciones Públicas, se denomina
+11. [TEMA="2022.49"] Dentro del Centro de Transferencia Tecnológica, el Servicio de Oficina Virtual de Registro que permite, entre otros, la remisión de los asientos registrales entre Administraciones Públicas, se denomina
 a) SIR.
 b) ORVE.
 c) SICRES 3.0.
 d) SVDR.
 ANSWER: B
 
-12. En referencia a la tecnología CORBA (Common Object Request Broker Architecture) es INCORRECTO que:
+12. [TEMA="2022.92"] En referencia a la tecnología CORBA (Common Object Request Broker Architecture) es INCORRECTO que:
 a) el protocolo de comunicaciones en el que se basa se denomina GIOP (General InterORB Protocol).
 b) el lenguaje para especificaciones de interfaces se denomina IPOL (Independent Platform Object Language).
 c) se basa en un modelo de arquitectura distribuida para entornos heterogéneos.
 d) es una propuesta del Object Management Group.
 ANSWER: B
 
-13. ¿Cuál de las siguientes afirmaciones es correcta?
+13. [TEMA="2022.92"] ¿Cuál de las siguientes afirmaciones es correcta?
 a) CORBA es un tipo de middleware.
 b) Las RPCs (Remote Procedure Call) requieren Sistema Operativo UNIX/LINUX.
 c) El modelo Proxy/Caché es precursor del modelo cliente-servidor.
 d) Los applets son un modelo de sistemas distribuidos P2P.
 ANSWER: A
 
-14. En Tecnologías de la Información y Comunicaciones, CRUD
+14. [TEMA="2022.66"] En Tecnologías de la Información y Comunicaciones, CRUD
 a) es el acrónimo de Crear, Leer/Obtener, Actualizar y Borrar (Create, Read/Retrieve, Update, Delete).
 b) es la base de arquitecturas Web RESTful (basadas en REST).
 c) tiene su origen en sentencias de base de datos relacionales.
 d) las opciones a, b y c son ciertas.
 ANSWER: D
 
-15. Señale cuál de las siguientes formas de actuación es la especificada para los sistemas de validación de certificados de clave pública ITU-T X.509 v3.
+15. [TEMA="2022.80"] Señale cuál de las siguientes formas de actuación es la especificada para los sistemas de validación de certificados de clave pública ITU-T X.509 v3.
 a) Si el sistema no reconoce una extensión crítica, debe ignorar la extensión y emitir un mensaje advirtiendo la existencia de una extensión crítica no procesable.
 b) Si el sistema reconoce una extensión no crítica, debe procesar la extensión y emitir un mensaje indicando su cumplimiento o no.
 c) Si el sistema no reconoce una extensión no crítica, debe ignorar la extensión.
 d) Si el sistema reconoce una extensión no crítica, es aceptable tanto ignorar como procesar la extensión (dependerá de la implementación concreta del sistema).
 ANSWER: C
 
-16. La técnica de protección de software conocida como marca de agua digital consiste en
+16. [TEMA="2022.43"] La técnica de protección de software conocida como marca de agua digital consiste en
 a) la inserción de un mensaje en el interior de un objeto digital que contiene información sobre el autor o propietario digital de dicho objeto.
 b) la generación de un código de activación sin el cual no se puede utilizar una aplicación.
 c) una etiqueta holográfica que ayuda a identificar que el software es original.
 d) la gestión de derechos de uso de contenido en formato digital que comprende medidas técnicas y organizativas.
 ANSWER: A
 
-17. El artículo 5 de la Ley 25/2007, de 18 de octubre, de conservación de datos relativos a las comunicaciones electrónicas y a las redes públicas de comunicaciones, establece la obligación para los operadores que presten servicios de comunicaciones electrónicas disponibles al público o exploten redes públicas de comunicaciones, de conservar los datos (referidos en su artículo 3), durante un plazo de
+17. [TEMA="2022.104"] El artículo 5 de la Ley 25/2007, de 18 de octubre, de conservación de datos relativos a las comunicaciones electrónicas y a las redes públicas de comunicaciones, establece la obligación para los operadores que presten servicios de comunicaciones electrónicas disponibles al público o exploten redes públicas de comunicaciones, de conservar los datos (referidos en su artículo 3), durante un plazo de
 a) 48 meses.
 b) 24 meses.
 c) 12 meses.
 d) 6 meses.
 ANSWER: C
 
-18. ¿Cuál de entre las siguientes es una de las características del Cloud Computing?
+18. [TEMA="2022.55"] ¿Cuál de entre las siguientes es una de las características del Cloud Computing?
 a) El consumo a la carta: un consumidor puede proporcionarse las necesidades TIC que precise sin que medie el proveedor.
 b) El acceso a las capacidades disponibles en la red se puede hacer usando plataformas heterogéneas.
 c) Los recursos TIC del proveedor se reservan para ser usados por varios consumidores.
 d) Todas las respuestas anteriores son ciertas.
 ANSWER: D
 
-19. El sistema de redundancia que consiste en la división a nivel de bloques más un
-disco de paridad dedicado se denomina
+19. [TEMA="2022.56"] El sistema de redundancia que consiste en la división a nivel de bloques más un disco de paridad dedicado se denomina
 a) RAID 1
 b) RAID 3
 c) RAID 4
 d) RAID 6
 ANSWER: C
 
-20. Indique cuál de los siguientes procesos se encuadra dentro del libro del ITIL denominado Service Support.
+20. [TEMA="2022.106"] Indique cuál de los siguientes procesos se encuadra dentro del libro del ITIL denominado Service Support.
 a) Gestión de Problemas.
 b) Gestión de la Capacidad.
 c) Gestión de la Disponibilidad.
 d) Gestión Financiera.
 ANSWER: A
 
-21. Atendiendo al estándar ISO 22301 en un Plan de Recuperación ante Desastres, el Objetivo de Punto de Recuperación (Recovery Point Objective RPO) es
+21. [TEMA="2022.128"] Atendiendo al estándar ISO 22301 en un Plan de Recuperación ante Desastres, el Objetivo de Punto de Recuperación (Recovery Point Objective RPO) es
 a) el nivel de servicios a proporcionar en modo alterno hasta que se recupere la situación normal.
 b) el tiempo que la organización puede soportar desde que se produce el fallo hasta que se recuperan los servicios críticos.
 c) el tiempo máximo tolerable de interrupción.
 d) la pérdida máxima de datos tolerable en caso de interrupción.
 ANSWER: D
 
-22. Los grandes sistemas, también llamados mainframe
+22. [TEMA="2022.52"] Los grandes sistemas, también llamados mainframe
 a) son desarrollados por muchos fabricantes.
 b) usan memoria distribuida y no compartida.
 c) son soluciones altamente propietarias.
 d) son sistemas débilmente acoplados.
 ANSWER: C
 
-23. ¿Existe un órgano colegiado encargado de la preparación, elaboración, desarrollo y aplicación de la política y estrategia del Gobierno en materia de Tecnologías de la Información?
+23. [TEMA="2022.38"] ¿Existe un órgano colegiado encargado de la preparación, elaboración, desarrollo y aplicación de la política y estrategia del Gobierno en materia de Tecnologías de la Información?
 a) No. Ha sido suprimido.
 b) Sí. La Dirección de Tecnologías de la Información y de las Comunicaciones de la AGE.
 c) Sí. El Consejo Superior de Administración Electrónica.
 d) Sí. La Comisión Interministerial de Administración Electrónica.
 ANSWER: C
 
-24. Señale cuál de los siguientes NO es un framework JAVA
-X a) Bird.
+24. [TEMA="2022.67"] Señale cuál de los siguientes NO es un framework JAVA
+a) Bird.
 b) Hibernate.
 c) Maverick.
 d) Spring.
 ANSWER: A
 
-25. ¿Cuál de estas aseveraciones es INCORRECTA? En programación, la ofuscación del código fuente
+25. [TEMA="2022.69"] ¿Cuál de estas aseveraciones es INCORRECTA? En programación, la ofuscación del código fuente
 a) dificulta la legilibilidad del código fuente, pudiendo usar cifrado.
 b) impide la ingeniería inversa.
 c) es un ejemplo de seguridad a través de la oscuridad.
 d) es aplicable a lenguajes compilados directamente a código máquina como C o C++.
 ANSWER: B
 
-26. En lo referido a la Ingeniería del Software de Sala Limpia indicar qué afirmación es correcta.
+26. [TEMA="2022.86"] En lo referido a la Ingeniería del Software de Sala Limpia indicar qué afirmación es correcta.
 a) Es una versión del modelo incremental del software.
 b) Hace uso de la comprobación estadística para descubrir errores .
 c) Utiliza tres tipos de cajas para la especificación funcional: negra, de estado y transparente.
 d) Las anteriores a) b) y c) son correctas.
 ANSWER: D
 
-27. De acuerdo con la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, el principio de simplificación administrativa al que se ajustará la utilización de las tecnologías de la información, establece
+27. [TEMA="2022.49"] De acuerdo con la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, el principio de simplificación administrativa al que se ajustará la utilización de las tecnologías de la información, establece
 a) la máxima difusión, publicidad y transparencia del procedimiento.
 b) el requerimiento a los ciudadanos de sólo aquellos datos que sean estrictamente necesarios a la finalidad para la que se soliciten.
 c) la no utilización de medios electrónicos que puedan implicar restricciones o discriminaciones para los ciudadanos.
 d) la reducción de manera sustancial de los términos y plazos de los procedimientos administrativos.
 ANSWER: D
 
-28. De acuerdo con el método del Valor Actual Neto, ¿sería recomendable realizar una inversión en dos años, con capital inicial aportado de 1 M€ y flujos de caja esperados de 0,1M€ y 0,9M€ en el primer y segundo año de inversión, con un tipo de descuento del 1%?
+28. [TEMA="2022.42"] De acuerdo con el método del Valor Actual Neto, ¿sería recomendable realizar una inversión en dos años, con capital inicial aportado de 1 M€ y flujos de caja esperados de 0,1M€ y 0,9M€ en el primer y segundo año de inversión, con un tipo de descuento del 1%?
 a) No
 b) No se puede deducir del enunciado
 c) Si
 d) Debe mantenerse cuatro años como mínimo
 ANSWER: A
 
-29. La virtualización basada en VDI (Virtual Desktop Infrastructure)
+29. [TEMA="2022.132"] La virtualización basada en VDI (Virtual Desktop Infrastructure)
 a) permite ratios de consolidación de 10 a 1 respecto a servidores de terminales.
 b) está basado en la solución XenApp de Citrix.
 c) aporta aislamiento y control sobre los puestos de trabajo gestionados.
 d) no está diseñado para soportar el perfil de Desarrolladores, por el control limitado del entorno.
 ANSWER: C
 
-30. Indique cuál de los siguientes es un organismo europeo de normalización.
+30. [TEMA="2022.50"] Indique cuál de los siguientes es un organismo europeo de normalización.
 a) CENELEC.
 b) IEC.
 c) ISO.
 d) IEEE.
 ANSWER: A
 
-31. En la arquitectura SOA (Arquitectura Orientada a Servicios)
+31. [TEMA="2022.58"] En la arquitectura SOA (Arquitectura Orientada a Servicios)
 a) se hace incompatible el uso de servicios web.
 b) los servicios encapsulan sus funcionalidades.
 c) los servicios mantienen un fuerte acoplamiento.
 d) los servicios dependen fuertemente de la plataforma subyacente.
 ANSWER: B
 
-32. Indique cual de las siguientes ediciones no corresponde a Windows Server 2012
+32. [TEMA="2022.31"] Indique cual de las siguientes ediciones no corresponde a Windows Server 2012
 a) Business.
 b) Essentials.
 c) Foundation.
 d) Standard.
 ANSWER: A
 
-33. En relación con la Red Digital de Servicios Integrados, señale la opción FALSA.
+33. [TEMA="2022.120"] En relación con la Red Digital de Servicios Integrados, señale la opción FALSA.
 a) El acceso básico está formado por 2 canales de transmisión de usuario a 64 Kbps, más un canal de señalización a 16 Kbps.
 b) El acceso primario en Europa está formado por 30 canales de transmisión de usuario a 64 Kbps, más un canal de señalización a 16 Kbps.
 c) Permite la transmisión simultánea de datos, voz y señalización, mediante la utilización de canales separados. Los canales D soportan la transmisión de voz y datos, mientras que la señalización transcurre por el canal autónomo B.
 d) La red de tránsito sobre la cual se vuelca la información contenida en los canales B para llegar a su destino está basada en la utilización del sistema de señalización por canal común CCS7.
 ANSWER: C
 
-34. En una base de datos Oracle, ¿cuál de las siguientes sentencias no está relacionada con la asignación de permisos a usuarios?
+34. [TEMA="2022.64"] En una base de datos Oracle, ¿cuál de las siguientes sentencias no está relacionada con la asignación de permisos a usuarios?
 a) CREATE VIEW.
 b) GRANT.
 c) CREATE PROFILE.
 d) CREATE ROLE.
 ANSWER: A
 
-35. Los sistemas de videoconferencia
+35. [TEMA="2022.130"] Los sistemas de videoconferencia
 a) pueden utilizar conmutación de circuitos sobre la RDSI usando el protocolo H.326.
 b) pueden utilizar redes IP con el protocolo H.323.
 c) pueden utilizar redes IP sólo si usan el protocolo SIP.
 d) pueden utilizar conmutación de paquetes sobre RDSI, multiplexando las señales de las distintas localizaciones si usan el protocolo H.328.
 ANSWER: B
 
-36. ¿Existe un Estatuto específico del personal directivo de la Administración General del Estado?
+36. [TEMA="2022.24"] ¿Existe un Estatuto específico del personal directivo de la Administración General del Estado?
 a) Sí. El Estatuto Básico del Empleado Público.
 b) Sí. La Ley de Altos Cargos de la Administración General del Estado.
 c) No. Aún no se ha desarrollado la previsión del Estatuto Básico del Empleado Público a este respecto.
 d) No existe, porque no está normativamente previsto.
 ANSWER: C
 
-37. En lo referente a las instalaciones por defecto de las interfaces gráficas de los sistemas Linux-Unix
+37. [TEMA="2022.60"] En lo referente a las instalaciones por defecto de las interfaces gráficas de los sistemas Linux-Unix
 a) Gnome utiliza “Telepathy” como librería para las comunicaciones y “Plasma” para la representación gráfica de la interfaz.
 b) KDE utiliza la librería “Pulse Audio” para la gestión de sonido y “GTK+” para la representación de la interfaz de usuario.
 c) KDE utiliza la librería “Phonon” para la creación de contenido multimedia y “Goya” para la representación gráfica de partes de la interfaz.
 d) Gnome utiliza “Sonnet” como librería para la representación de la interfaz de usuario y “Pulse Audio” para la gestión de sonido.
 ANSWER: C
 
-38. La Ley 23/2006 de 7 de julio modifica el RDL 1/1996 de 12 de abril por el que se aprueba el Texto Refundido de la Ley de Propiedad Intelectual con motivo de
+38. [TEMA="2022.43"] La Ley 23/2006 de 7 de julio modifica el RDL 1/1996 de 12 de abril por el que se aprueba el Texto Refundido de la Ley de Propiedad Intelectual con motivo de
 a) la trasposición de la Directiva 2001/29/CE.
 b) la entrada en vigor de la Ley 34/2002, de Servicios de la Sociedad de la Información.
 c) la regulación de un canon digital en los programas de ordenador.
 d) el establecimiento de la prohibición de hacer copias privadas.
 ANSWER: A
 
-39. Para determinar la viabilidad de un proyecto a partir de las estimaciones coste/beneficio, METRICA 3 calcula su rentabilidad a través de
+39. [TEMA="2022.95"] Para determinar la viabilidad de un proyecto a partir de las estimaciones coste/beneficio, METRICA 3 calcula su rentabilidad a través de
 a) el método de la cadena de reemplazo.
 b) el método de la anualidad equivalente.
 c) métodos de coste total de propiedad (TCO).
 d) métodos de Retorno de la Inversión o del Valor Actual Neto
 ANSWER: D
 
-40. Respecto al conjunto de normas H.323 de la UIT,
+40. [TEMA="2022.115"] Respecto al conjunto de normas H.323 de la UIT,
 a) se le puede añadir seguridad extremo a extremo con la recomendación de la UIT H.235.
 b) fue definida para redes de conmutación de circuitos.
 c) permite audioconferencia pero no videoconferencia.
 d) se utiliza únicamente con redes RDSI.
 ANSWER: A
 
-41. En el direccionamiento IPv4, clase C
+41. [TEMA="2022.109"] En el direccionamiento IPv4, clase C
 a) los tres primeros bits están fijados a 110, y se pueden tener 2^21 redes con 254 nodos posibles.
 b) los tres primeros bits están fijados a 101, y se pueden tener 2^21 redes con 254 nodos posibles.
 c) los tres primeros bits están fijados a 110, y se pueden tener 2^22 redes con 126 nodos posibles.
 d) los tres primeros bits están fijados a 101, y se pueden tener 2^22 redes con 128 nodos posibles.
 ANSWER: A
 
-42. En el ámbito de COBIT, el proceso de Administrar la Calidad se encuentra encuadrado en el dominio de
+42. [TEMA="2022.106"] En el ámbito de COBIT, el proceso de Administrar la Calidad se encuentra encuadrado en el dominio de
 a) Planificación y organización.
 b) Adquisición e implementación.
 c) Entrega (de servicio) y Soporte.
 d) Monitorización.
 ANSWER: A
 
-43. ¿Cuál de las siguientes aplicaciones, incluida en KOffice, se emplea para generación de informes?
+43. [TEMA="2022.69"] ¿Cuál de las siguientes aplicaciones, incluida en KOffice, se emplea para generación de informes?
 a) Kexi.
 b) Kivio.
 c) Konqueror.
 d) Kugar.
 ANSWER: D
 
-44. Según la metodología Métrica V3 indicar en cuál de las siguientes tareas de la Planificación de Sistemas de Información NO participa el Comité de Dirección.
+44. [TEMA="2022.95"] Según la metodología Métrica V3 indicar en cuál de las siguientes tareas de la Planificación de Sistemas de Información NO participa el Comité de Dirección.
 a) Identificación del Alcance del Plan de Sistemas de Información.
 b) Comunicación del Plan de Trabajo.
 c) Selección de la Arquitectura Tecnológica.
 d) Evaluación y Mejora de la Propuesta.
 ANSWER: C
 
-45. ¿Cuál de las siguientes características sobre las redes GPRS es FALSA?
+45. [TEMA="2022.123"] ¿Cuál de las siguientes características sobre las redes GPRS es FALSA?
 a) Puede alcanzar velocidades de hasta 236 kbps de descarga.
 b) Son redes orientadas a conexión.
 c) Pueden ofrecer servicios de mensajería instantánea.
 d) Ofrecen servicios de transmisión digital de datos.
 ANSWER: B
 
-46. En el marco de la prueba de software, la cobertura de declaraciones de código (code statement coverage) NO se utiliza para
+46. [TEMA="2022.96"] En el marco de la prueba de software, la cobertura de declaraciones de código (code statement coverage) NO se utiliza para
 a) definir "hecho" (done) en las metodologías ágiles.
 b) detectar código muerto o inalcanzable.
 c) certificar software de misión crítica.
 d) detectar errores de condiciones de carrera (race condition bugs).
 ANSWER: D
 
-47. De acuerdo con la Ley Orgánica 15/1999, de protección de datos de carácter personal, los ficheros creados por las Fuerzas y Cuerpos de Seguridad que contengan datos de carácter personal
+47. [TEMA="2022.27"] De acuerdo con la Ley Orgánica 15/1999, de protección de datos de carácter personal, los ficheros creados por las Fuerzas y Cuerpos de Seguridad que contengan datos de carácter personal
 a) están en su totalidad excluidos del régimen general de esa Ley.
 b) no pueden recoger más datos que los autorizados por el Juez instructor de la causa penal.
 c) pueden recoger datos personales sin consentimiento del afectado para la represión de infracciones penales.
 d) no permiten la cancelación de los datos personales en ellos registrados con fines policiales.
 ANSWER: C
 
-48. Indique la opción verdadera.
+48. [TEMA="2022.113"] Indique la opción verdadera.
 a) En la jerarquía digital plesiócrona un E1 proporciona 4 Mbps.
 b) En la jerarquía digital plesiócrona un E3 proporciona 32 Mbps.
 c) En la jerarquía digital síncrona un STM1 proporciona 140 Mbps.
 d) En la jerarquía digital síncrona un STM1 proporciona 155 Mbps.
 ANSWER: D
 
-49. El método de compresión de archivos denominado "algoritmo de deflación", que fue originalmente definido por Phil Katz, se utiliza en el formato de imagen
+49. [TEMA="2022.83"] El método de compresión de archivos denominado "algoritmo de deflación", que fue originalmente definido por Phil Katz, se utiliza en el formato de imagen
 a) TIFF.
 b) GIF.
 c) PNG.
 d) JPEG.
 ANSWER: C
 
-50. En relación a una red privada virtual (VPN, Virtual Private Network), es FALSO que
+50. [TEMA="2022.108"] En relación a una red privada virtual (VPN, Virtual Private Network), es FALSO que
 a) una VPN permite utilizar la red pública de un operador para construir una red privada dedicada, con funcionalidades de red y de seguridad equivalentes a las que se obtienen con una red privada.
 b) en la actualidad, el concepto de VPN se extiende para incluir las soluciones que permiten el acceso remoto de un equipo a la red de una organización a través de redes públicas, especialmente Internet, mediante la utilización de mecanismos de túnel y cifrado.
 c) el protocolo MPLS (Multiprotocol Label Switching) permite crear VPNs de nivel 4, utilizando como tecnologías de acceso T1/E1, ATM ó Frame Relay.
 d) VPLS (Virtual Private LAN Switching) es un servicio de red LAN privada virtual, que permite entregar tramas de nivel 2 directamente entre sedes remotas de un mismo organismo
 ANSWER: C
 
-51. Señale la respuesta INCORRECTA sobre patrones de diseño orientado a objetos.
+51. [TEMA="2022.93"] Señale la respuesta INCORRECTA sobre patrones de diseño orientado a objetos.
 a) Facilitan el aprendizaje de las nuevas generaciones de diseñadores condensando conocimiento ya existente.
 b) Imponen ciertas alternativas de diseño frente a otras.
 c) Permiten la creatividad inherente al proceso de diseño.
 d) Estandarizan el modo en que se realiza el diseño.
 ANSWER: B
 
-52. ¿Cuál es la principal razón por la que en las comunicaciones UMTS y Wi-Fi se utilizan técnicas de expansión del espectro o espectro ensanchado?
+52. [TEMA="2022.114"] ¿Cuál es la principal razón por la que en las comunicaciones UMTS y Wi-Fi se utilizan técnicas de expansión del espectro o espectro ensanchado?
 a) Para mejorar la resistencia a las interferencias.
 b) Para mejorar las seguridad en el acceso al información transmitida.
 c) Para incrementar la longitud de onda y reducir el consumo energético.
 d) Wi-Fi no utiliza estas técnicas.
 ANSWER: A
 
-53. De acuerdo con el programa IDABC, entre los principios que define el Marco Europeo de Interoperabilidad NO se encuentra
+53. [TEMA="2022.120"] De acuerdo con el programa IDABC, entre los principios que define el Marco Europeo de Interoperabilidad NO se encuentra
 a) el multilingüismo
 b) la accesibilidad
 c) el procedimiento compartido.
 d) la subsidiaridad
 ANSWER: C
 
-54. La taxonomía de Flynn
+54. [TEMA="2022.52"] La taxonomía de Flynn
 a) se ha revisado recientemente para incluir los sistemas Big Data.
 b) es una clasificación de computadores en función de su arquitectura.
 c) es la base de la taxonomía de Bloom.
 d) se propuso con motivo de los primeros PC de IBM.
 ANSWER: B
 
-55. El formato MP3
+55. [TEMA="2022.130"] El formato MP3
 a) fue diseñado en 1984 en el Instituto Karlsruher.
 b) utiliza el algoritmo de compresión Lempel-Ziv-Welch (LZW).
 c) fue aprobado por el “Motion Picture Experts Group” en 1992.
 d) permite compresiones del orden de 10 a 1 respecto al formato CD, con pérdida de información.
 ANSWER: D
 
-56. El Real Decreto 695/2013 crea la Dirección de Tecnologías de la Información y de las Comunicaciones. ¿Cuál es el rango de esta Dirección?
+56. [TEMA="2022.32"] El Real Decreto 695/2013 crea la Dirección de Tecnologías de la Información y de las Comunicaciones. ¿Cuál es el rango de esta Dirección?
 a) Dirección General.
 b) Subdirección General.
 c) Subsecretaría.
 d) Secretaría de Estado.
 ANSWER: C
 
-57. El establecimiento obligatorio de un sistema de registro de entrada de soportes que permita conocer, entre otros datos, el tipo de documento, fecha y hora, emisor y la persona autorizada responsables de la recepción, es una medida de seguridad de protección de datos de carácter personal de nivel
+57. [TEMA="2022.48"] El establecimiento obligatorio de un sistema de registro de entrada de soportes que permita conocer, entre otros datos, el tipo de documento, fecha y hora, emisor y la persona autorizada responsables de la recepción, es una medida de seguridad de protección de datos de carácter personal de nivel
 a) básico.
 b) medio.
 c) alto.
 d) de auditoría.
 ANSWER: B
 
-58. En relación a imágenes estáticas en portales web,
+58. [TEMA="2022.83"] En relación a imágenes estáticas en portales web,
 a) el formato PNG, si bien está libre de patentes, tiene mayor pérdida de información que el formato JPEG.
 b) el formato GIF utiliza el algoritmo LZW de compresión patentado por CompuServe.
 c) JPEG tiene más pérdida de información que GIF y PNG.
 d) el soporte de animaciones no es posible en PNG, utilizándose NMG en su lugar.
 ANSWER: C
 
-59. ¿Cuál de los siguientes NO es un modelo de reparto del espectro utilizado por GSM (Global System for Mobile communications)?
+59. [TEMA="2022.123"] ¿Cuál de los siguientes NO es un modelo de reparto del espectro utilizado por GSM (Global System for Mobile communications)?
 a) SDMA, Space Division Multiple Access o acceso múltiple por división del espacio.
 b) TDMA, Time Division Multiple Access, o acceso múltiple por división del tiempo.
 c) CDMA, Cell Division Multiple Access o acceso múltiple por división entre celdas.
 d) FHMA, Frequency Hops Multiple Access o acceso múltiple por saltos de frecuencia.
 ANSWER: C
 
-60. Desde el punto de vista del “Cloud Computing”, Gmail es un ejemplo de
+60. [TEMA="2022.55"] Desde el punto de vista del “Cloud Computing”, Gmail es un ejemplo de
 a) PaaS (“Platform as a Service”).
 b) CaaS (“Communication as a Service”).
 c) IaaS (“Infrastructure as a Service”).
 d) SaaS (“Software as a Service”).
 ANSWER: D
 
-61. El recurso especial en materia de contratación permite la impugnación, previa al recurso contencioso-administrativo, de
+61. [TEMA="2022.11"] El recurso especial en materia de contratación permite la impugnación, previa al recurso contencioso-administrativo, de
 a) los actos de trámite que no resuelven la licitación.
 b) las penalizaciones impuestas por ejecución defectuosa.
 c) los acuerdos de adjudicación.
 d) la resolución del recurso de Alzada.
 ANSWER: C
 
-62. En el ámbito de la teoría de la decisión multicriterio discreta, ¿qué método de ordenación de alternativas se caracteriza por elegir en primer lugar la alternativa que tiene el mejor valor en el criterio de mayor peso?
+62. [TEMA="2022.41"] En el ámbito de la teoría de la decisión multicriterio discreta, ¿qué método de ordenación de alternativas se caracteriza por elegir en primer lugar la alternativa que tiene el mejor valor en el criterio de mayor peso?
 a) El método PROMETHEE.
 b) El método lexicográfico.
 c) El método de la ponderación lineal.
 d) El método ELECTRE.
 ANSWER: B
 
-63. Las siglas “SOAP”, en el marco de los servicios web, corresponden a
+63. [TEMA="2022.58"] Las siglas “SOAP”, en el marco de los servicios web, corresponden a
 a) Service Oriented Architecture Protocol.
 b) Simple Oriented Access Paradigm.
 c) Service Object Architecture Paradigm.
 d) Simple Object Access Protocol.
 ANSWER: D
 
-64. EuroDOCSIS
+64. [TEMA="2022.121"] EuroDOCSIS
 a) significa, en el ámbito de la Unión Europea, DOCument System Interface Service, y hace referencia a un estándar de gestión documental.
 b) es una extensión de DOCSIS especificada por ETSI para el ámbito Europeo.
 c) significa, en el ámbito de la zona Euro, Digital Open Currency System Interface Standard.
 d) es un estándar propietario de gestión documental de amplia implantación en Europa.
 ANSWER: B
 
-65. En el sistema operativo UNIX la expresión “daemon” se refiere a un proceso del sistema que
+65. [TEMA="2022.60"] En el sistema operativo UNIX la expresión “daemon” se refiere a un proceso del sistema que
 a) siempre se ejecuta en segundo plano (background).
 b) siempre es de corta duración.
 c) está siempre ejecutándose.
 d) nunca se ejecuta bajo control de los subsistemas de temporarización.
 ANSWER: A
 
-66. El RD 1720/2007 de 21 de diciembre, por el que se aprueba el reglamento de desarrollo de la Ley Orgánica de Protección de Datos, establece que
+66. [TEMA="2022.27"] El RD 1720/2007 de 21 de diciembre, por el que se aprueba el reglamento de desarrollo de la Ley Orgánica de Protección de Datos, establece que
 a) en ningún caso, el encargado de tratamiento podrá subcontratar a un tercero la realización de un tratamiento que le hubiera encomendado el responsable del fichero.
 b) los ficheros de datos de carácter personal de titularidad pública sujetos a la competencia de la Agencia Española de Protección de Datos deberán notificarse a ésta en el plazo de 30 días naturales desde la publicación en el diario oficial correspondiente.
 c) el ejercicio del derecho de acceso por el afectado será resuelto por el responsable del fichero en el plazo máximo de un mes a contar desde la recepción de la solicitud de acceso.
 d) los ficheros y los tratamientos de datos de carácter personal se clasifican en tres niveles: básico, medio y alto.
 ANSWER: C
 
-67. XML y HTML5 se caracterizan porque ambos
+67. [TEMA="2022.77"] XML y HTML5 se caracterizan porque ambos
 a) se apoyan en JavaScript.
 b) se basan en el protocolo HTTP.
 c) son lenguajes de marcado.
 d) son conformes a SOAP.
 ANSWER: C
 
-68. Microsoft ActiveX Data Objects de la plataforma .NET
+68. [TEMA="2022.65"] Microsoft ActiveX Data Objects de la plataforma .NET
 a) permite trabajar desconectado del origen de datos.
 b) no se integra con XML.
 c) es el precursor de RDO ( Remote Data Objects).
 d) utiliza una forma secuencial de navegación para acceder a las filas de una tabla.
 ANSWER: A
 
-69. En el ámbito del Real Decreto 772/1999, de 7 de mayo, en la redacción dada por el Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos, NO es una función propia de los registros telemáticos
+69. [TEMA="2022.46"] En el ámbito del Real Decreto 772/1999, de 7 de mayo, en la redacción dada por el Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos, NO es una función propia de los registros telemáticos
 a) la recepción de solicitudes, escritos y comunicaciones.
 b) la remisión de las solicitudes, escritos y comunicaciones recibidas.
 c) la expedición de copias selladas o compulsadas de los documentos que, en su caso, se transmitan junto con la solicitud, escrito o comunicación.
 d) la anotación de los correspondientes asientos de entrada y salida.
 ANSWER: C
 
-70. En la dirección de proyectos de Tecnologías de la Información, es fundamental la gestión del alcance del proyecto. Ello supone
+70. [TEMA="2022.35"] En la dirección de proyectos de Tecnologías de la Información, es fundamental la gestión del alcance del proyecto. Ello supone
 a) estimar la duración de las actividades.
 b) definir la secuencia entre las actividades.
 c) asegurar que el proyecto incluya todo el trabajo requerido, y sólo el trabajo requerido.
 d) preparar el presupuesto de costes.
 ANSWER: C
 
-71. Según la metodología Métrica V3 Estudio de Viabilidad del Sistema, en la actividad “Definición de Requisitos del Sistema” participan los siguientes grupos de personas:
+71. [TEMA="2022.95"] Según la metodología Métrica V3 Estudio de Viabilidad del Sistema, en la actividad “Definición de Requisitos del Sistema” participan los siguientes grupos de personas:
 a) Jefe de proyecto, Analistas y Usuarios Expertos.
 b) Jefe de proyecto, Analistas, Técnicos de Sistemas y Usuarios Expertos.
 c) Jefe de proyecto, Analistas, Técnicos de Sistemas, Especialistas en Comunicaciones y Usuarios Expertos.
 d) Jefe de proyecto, Analistas, Técnicos de Sistemas, Especialistas en Comunicaciones, Responsables de Seguridad y Usuarios Expertos.
 ANSWER: A
 
-72. Los RFC de la IETF son
+72. [TEMA="2022.50"] Los RFC de la IETF son
 a) peticiones de cambio (Request for Change) que proponen mejoras sobre protocolos en funcionamiento en Internet.
 b) notas técnicas que describen los protocolos utilizados en Internet.
 c) peticiones de comentarios a la comunidad de internautas sobre temas relacionados con Internet.
 d) las especificaciones formales de los protocolos para comunicación remota (Remote Function Call).
 ANSWER: B
 
-73. ¿Qué modelo de recuperación de información se basa en el Teorema de Bayes?
+73. [TEMA="2022.105"] ¿Qué modelo de recuperación de información se basa en el Teorema de Bayes?
 a) Vectorial.
 b) Probabilístico.
 c) Indexación por Semántica Latente.
 d) Basado en la teoría de conjuntos.
 ANSWER: B
 
-74. ¿Que disposición legal determina el procedimiento para la expedición del DNI electrónico y sus certificados de firma electrónica?
+74. [TEMA="2022.81"] ¿Que disposición legal determina el procedimiento para la expedición del DNI electrónico y sus certificados de firma electrónica?
 a) Ley 11/2007, de 22 de junio.
 b) RD 4/2010, de 8 de enero.
 c) RD 1553/2005, de 23 de diciembre.
 d) Ley 26/2007, de 28 de diciembre.
 ANSWER: C
 
-75. ¿Cuál es las siguientes afirmaciones en relación con COBIT es FALSA?
+75. [TEMA="2022.106"] ¿Cuál es las siguientes afirmaciones en relación con COBIT es FALSA?
 a) Fue desarrollado inicialmente por la International System Audit and Control Association (ISACA).
 b) Es una guía de buenas prácticas para la gestión de las tecnologías de la información.
 c) Clasifica los procesos de las unidades de tecnología en cuatro dominios.
 d) Es un estándar internacional en gestión de servicios de Tecnologías de la Información.
 ANSWER: D
 
-76. En el marco del modelo estándar de gestión de red definido por la ISO y la ITU-T X.700, son áreas de gestión:
+76. [TEMA="2022.120"] En el marco del modelo estándar de gestión de red definido por la ISO y la ITU-T X.700, son áreas de gestión:
 a) la gestión de fallos, de contabilidad, de configuración, de calidad de funcionamiento y de seguridad.
 b) la gestión de fallos, de la demanda, de configuración, de rendimiento y de seguridad.
 c) la gestión de fallos, de monitorización, de configuración y de seguridad.
 d) la gestión de monitorización, de trazabilidad, de configuración y de seguridad.
 ANSWER: A
 
-77. En relación con lenguajes de marcado, indique cuál de las siguientes afirmaciones es INCORRECTA.
+77. [TEMA="2022.77"] En relación con lenguajes de marcado, indique cuál de las siguientes afirmaciones es INCORRECTA.
 a) XSLT es un lenguaje de marcado para las transformaciones de documentos XML.
 b) El XML describe el contenido de la información y la estructura, mientras que HTML está orientado a la presentación de la información.
 c) XPath permite buscar y seleccionar parte de un fichero XML sin utilizar su estructura.
 d) CSS permite dar formato tanto a ficheros HTML como a ficheros XML.
 ANSWER: C
 
-78. ¿A quién corresponde la aprobación de los planes nacionales de numeración de acuerdo a la Ley 32/2003, General de Telecomunicaciones?
+78. [TEMA="2022.129"] ¿A quién corresponde la aprobación de los planes nacionales de numeración de acuerdo a la Ley 32/2003, General de Telecomunicaciones?
 a) Al Gobierno.
 b) A la Comisión del Mercado de las Telecomunicaciones.
 c) Al Ministerio de Ciencia y Tecnología (hoy, Ministerio de Industria, Energía y Turismo).
 d) A la Secretaria de Estado de Telecomunicaciones y para la Sociedad de la Información.
 ANSWER: A
 
-79. Atendiendo a la norma ISO/IEC 9126 la calidad del software NO incluye la siguiente característica:
+79. [TEMA="2022.94"] Atendiendo a la norma ISO/IEC 9126 la calidad del software NO incluye la siguiente característica:
 a) Portabilidad.
 b) Funcionalidad.
 c) Usabilidad.
 d) Integridad.
 ANSWER: D
 
-80. De acuerdo con Metrica v3, en el Diagrama de Transición de Estados,
+80. [TEMA="2022.95"] De acuerdo con Metrica v3, en el Diagrama de Transición de Estados,
 a) no puede haber ninguna transición dirigida al estado inicial.
 b) solo puede haber un estado final.
 c) una acción no se puede ejecutar dentro de un estado.
 d) un diagrama puede tener varios estados iníciales.
 ANSWER: A
 
-81. [ANULADA] ¿En qué banda de frecuencias y hasta qué velocidad funciona el estándar 802.11a?
+81. [ANULADA] [TEMA="2022.114"] ¿En qué banda de frecuencias y hasta qué velocidad funciona el estándar 802.11a?
 a) 2,4 GHz y hasta 54 Mbps.
 b) 5 GHz y hasta 54Mbps.
 c) 5 GHz y hasta 11 Mbps.
 d) 2,4 GHz y hasta 54 Mbps.
 ANSWER:
 
-82. Un trabajador asalariado crea un programa de ordenador en el ejercicio de sus funciones laborales. De acuerdo con el RDL 1/1996 de 12 de abril, por el que se aprueba el Texto Refundido de la Ley de Propiedad Intelectual, la titularidad de los derechos de explotación del programa corresponderá
+82. [TEMA="2022.43"] Un trabajador asalariado crea un programa de ordenador en el ejercicio de sus funciones laborales. De acuerdo con el RDL 1/1996 de 12 de abril, por el que se aprueba el Texto Refundido de la Ley de Propiedad Intelectual, la titularidad de los derechos de explotación del programa corresponderá
 a) al autor del programa.
 b) al autor y al empresario, conjuntamente, salvo pacto en contrario.
 c) al autor en cuanto al programa objeto, pero no respecto al programa fuente.
 d) exclusivamente al empresario, salvo pacto en contrario.
 ANSWER: D
 
-83. ¿Cuál de las siguientes categorías de mantenimiento NO ha sido definida en la norma ISO/IEC 14764?
+83. [TEMA="2022.101"] ¿Cuál de las siguientes categorías de mantenimiento NO ha sido definida en la norma ISO/IEC 14764?
 a) preventivo.
 b) progresivo.
 c) adaptativo.
 d) perfectivo.
 ANSWER: B
 
-84. De acuerdo con lo establecido en el RD 3/2010 de 8 de enero por el que se regula el Esquema Nacional de Seguridad,
+84. [TEMA="2022.48"] De acuerdo con lo establecido en el RD 3/2010 de 8 de enero por el que se regula el Esquema Nacional de Seguridad,
 a) todos los sistemas de información serán objeto de una auditoría regular ordinaria con carácter anual.
 b) los sistemas de información de categoría básica no precisan ser auditados.
 c) la auditoría de los sistemas de categoría media puede ser sustituida por una autoevaluación realizada por el mismo personal que administra el sistema.
 d) no es necesario que los informes de autoevaluación sean conocidos por el responsable de seguridad competente. Basta con que los conozca el responsable del sistema.
 ANSWER: B
 
-85. La norma ISO 27002
+85. [TEMA="2022.125"] La norma ISO 27002
 a) es un estándar de facto para la prestación de servicios de seguridad de la Tecnología de la Información.
 b) tiene como objetivo proporcionar una base común para la gestión de la seguridad dentro de las organizaciones.
 c) establece 36 dominios de control para la gestión de la seguridad.
 d) establece un sistema de certificación adecuado a la norma.
 ANSWER: B
 
-86. De acuerdo con la Ley 32/2003, General de Telecomunicaciones, ¿cuál de las siguientes conductas se considera infracción muy grave?
+86. [TEMA="2022.129"] De acuerdo con la Ley 32/2003, General de Telecomunicaciones, ¿cuál de las siguientes conductas se considera infracción muy grave?
 a) La producción deliberada de interferencias definidas como perjudiciales en la citada Ley.
 b) El establecimiento de comunicaciones con estaciones no autorizadas.
 c) La emisión de señales de identificación falsas o engañosas.
 d) La instalación de estaciones radioeléctricas sin autorización, cuando, de acuerdo con lo dispuesto en la normativa reguladora de las telecomunicaciones, sea necesaria.
 ANSWER: A
 
-87. En el ámbito del diseño de sistemas software, la inyección de dependencias
+87. [TEMA="2022.125"] En el ámbito del diseño de sistemas software, la inyección de dependencias
 a) aumenta el acoplamiento entre los módulos.
 b) es una forma de implementar el patrón de Inversión de Control.
 c) facilita la detección de errores (debugging) en tiempo de ejecución.
 d) es un patrón de ataque que introduce (“inyecta”) código malicioso para cambiar el curso de ejecución.
 ANSWER: B
 
-88. Atendiendo al RD 4/2010 de 8 de enero por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica, la exigencia de que las Administraciones Públicas deban usar estándares abiertos y, en su caso, estándares que sean de uso generalizado por los ciudadanos, es un principio de
+88. [TEMA="2022.45"] Atendiendo al RD 4/2010 de 8 de enero por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica, la exigencia de que las Administraciones Públicas deban usar estándares abiertos y, en su caso, estándares que sean de uso generalizado por los ciudadanos, es un principio de
 a) interoperabilidad técnica.
 b) interoperabilidad organizativa.
 c) gestión de riesgos.
 d) auditoría de seguridad.
 ANSWER: A
 
-89. Se dispone de dos centros de proceso de datos (CPDs) separados una distancia de 80 km entre sí. En ambos CPDs se dispone de cabinas de almacenamiento SAN (Storage Area Network) que conforman un cluster geográfico entre sí. ¿Qué tecnología utilizaría para unir ambas cabinas?
+89. [TEMA="2022.108"] Se dispone de dos centros de proceso de datos (CPDs) separados una distancia de 80 km entre sí. En ambos CPDs se dispone de cabinas de almacenamiento SAN (Storage Area Network) que conforman un cluster geográfico entre sí. ¿Qué tecnología utilizaría para unir ambas cabinas?
 a) CWDM, Coarse Wavelength Division Multiplexing.
 b) DWDM, Dense Wavelength Division Multiplexing.
 c) EWDM, Enhanced Wavelength Division Multiplexing.
 d) FWDM, Far Wavelength Division Multiplexing.
 ANSWER: B
 
-90. De acuerdo con el RDL 1/1996 de 12 de abril, por el que se aprueba el Texto Refundido de la Ley de Propiedad Intelectual, el plazo de duración de los derechos de explotación de un programa de ordenador por una persona jurídica será de
+90. [TEMA="2022.43"] De acuerdo con el RDL 1/1996 de 12 de abril, por el que se aprueba el Texto Refundido de la Ley de Propiedad Intelectual, el plazo de duración de los derechos de explotación de un programa de ordenador por una persona jurídica será de
 a) 30 años a partir de la divulgación y 70 desde la fecha de su creación.
 b) 70 años computados a partir del 1 de enero del año siguiente al de la divulgación.
 c) 50 años computados a partir de su creación.
 d) 70 años computados a partir de la fecha de divulgación.
 ANSWER: B
 
-91. El protocolo SET (Secure Electronic Transaction)
+91. [TEMA="2022.79"] El protocolo SET (Secure Electronic Transaction)
 a) fue desarrollado en 1990 mediante acuerdo bilateral entre Visa e IBM.
 b) impide que el vendedor acceda a la información de pago.
 c) permite que el banco acceda a los datos del pedido para tramitar el pago.
 d) no abarca ni liquidaciones de pagos ni anulaciones.
 ANSWER: B
 
-92. De entre los siguientes procedimientos de búsqueda, ¿cuál utiliza un método heurístico?
+92. [TEMA="2022.70"] De entre los siguientes procedimientos de búsqueda, ¿cuál utiliza un método heurístico?
 a) Búsqueda “primero el mejor”.
 b) Búsqueda “bidireccional”.
 c) Búsqueda “primero en anchura”.
 d) Búsqueda “primero en profundidad”.
 ANSWER: A
 
-93. En el entorno de las Tecnologías de la Información, la Comisión Soto sirvió para
+93. [TEMA="2022.18"] En el entorno de las Tecnologías de la Información, la Comisión Soto sirvió para
 a) impulsar la creación del Consejo Superior de Informática.
 b) impulsar el modelo de crecimiento autónomo de cada departamento ministerial en materia de Tecnologías de la Información.
 c) Revisar, en base a la Ley 11/2007, los modelos de organización de las Tecnologías de la Información creados anteriormente.
 d) impulsar el desarrollo de la Sociedad de la Información.
 ANSWER: D
 
-94. Ordene de forma decreciente, en relación al coste en hardware (puertas lógicas equivalentes), las siguientes primitivas criptográficas: función resumen (ej. MD5 o SHA-1), cifrado asimétrico (ej. RSA o curvas elípticas) y cifrado simétrico (ej. AES o DES).
+94. [TEMA="2022.79"] Ordene de forma decreciente, en relación al coste en hardware (puertas lógicas equivalentes), las siguientes primitivas criptográficas: función resumen (ej. MD5 o SHA-1), cifrado asimétrico (ej. RSA o curvas elípticas) y cifrado simétrico (ej. AES o DES).
 a) Función resumen, Cifrado asimétrico, Cifrado simétrico.
 b) Función resumen, Cifrado simétrico, Cifrado asimétrico.
 c) Cifrado asimétrico, Cifrado simétrico, Función resumen.
 d) Cifrado asimétrico, Función resumen, Cifrado simétrico.
 ANSWER: D
 
-95. En el mapeo objeto-relacional (ORM) en el que el objeto de dominio gestiona su propia persistencia se implementa el patrón
+95. [TEMA="2022.66"] En el mapeo objeto-relacional (ORM) en el que el objeto de dominio gestiona su propia persistencia se implementa el patrón
 a) repositorio (repository pattern).
 b) registro activo (active record).
 c) mapeador de datos (data mapper).
 d) objeto de transferencia de datos (DTO, data transfer object pattern).
 ANSWER: B
 
-96. Mediante la tecnología EGPRS (Enhanced GPRS) se pueden llegar a conseguir velocidades de transmisión en modo paquetes de hasta
+96. [TEMA="2022.123"] Mediante la tecnología EGPRS (Enhanced GPRS) se pueden llegar a conseguir velocidades de transmisión en modo paquetes de hasta
 a) 384 kbps.
 b) 115 kbps.
 c) 2 Mbps.
 d) 10 Mbps.
 ANSWER: A
 
-97. En relación al reconocimiento óptico de caracteres, el proceso de Kerning consiste en eliminar el espacio excesivo entre
+97. [TEMA="2022.85"] En relación al reconocimiento óptico de caracteres, el proceso de Kerning consiste en eliminar el espacio excesivo entre
 a) bloques en los que se encuentra dividida una página.
 b) líneas de texto.
 c) palabras de una línea de texto.
-X d) letras de una palabra.
+d) letras de una palabra.
 ANSWER: D
 
-98. Tras la realización de un análisis de riesgos de acuerdo con MAGERIT 3.0, el informe que detalla los activos, sus dependencias, las dimensiones en que son valiosos y la estimación de dicho valor, se denomina
+98. [TEMA="2022.47"] Tras la realización de un análisis de riesgos de acuerdo con MAGERIT 3.0, el informe que detalla los activos, sus dependencias, las dimensiones en que son valiosos y la estimación de dicho valor, se denomina
 a) modelo de valor.
 b) declaración de aplicabilidad.
 c) mapa de riesgos.
 d) estado de riesgo.
 ANSWER: A
 
-99. Cual de los siguientes NO es un mecanismo de intercambio de información utilizable en una arquitectura distribuida
+99. [TEMA="2022.58"] Cual de los siguientes NO es un mecanismo de intercambio de información utilizable en una arquitectura distribuida
 a) mensajes XML sobre protocolo SMTP.
 b) mensajes SOAP sobre Servicios de Mensajes Java (JMS).
-c) OData.(Open Data Protocol)
+c) OData (Open Data Protocol)
 d) BPMN (Business Process Message Notation).
 ANSWER: D
 
-100. De acuerdo con la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, el principio de neutralidad tecnológica y de adaptabilidad al progreso significa que las Administraciones Públicas
+100. [TEMA="2022.49"] De acuerdo con la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, el principio de neutralidad tecnológica y de adaptabilidad al progreso significa que las Administraciones Públicas
 a) utilizarán estándares abiertos o de uso generalizado por los ciudadanos.
 b) utilizarán procedimientos electrónicos para sus trámites.
 c) no admitirán el uso de esos medios más que de forma gratuita.

@@ -1,0 +1,333 @@
+SEGUNDA PARTE
+CASOS PRÁCTICOS
+NO OLVIDE DE MARCAR EL BLOQUE ELEGIDO EN LA HOJA DE EXAMEN
+CASO PRÁCTICO - BLOQUE III
+Como consecuencia de la publicación de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen
+gobierno, el Ministerio de la Presidencia debe desarrollar y publicar el Portal de Transparencia a través del que se dará publicidad
+activa por parte de los distintos organismos de la Administración General del Estado (AGE) a los que aplica esta normativa sobre todos
+aquellos conjuntos de información que establece la normativa.
+La gestión y explotación del portal corresponde al Ministerio de la Presidencia, sin embargo, la elaboración de los distintos conjuntos
+de datos podrá ser centralizada (un solo organismo provee la información de todos los organismos), distribuida (cada organismo
+genera la información que a él le corresponde) o mixta (la información se genera a partir de un proveedor principal, pero se
+complementa por una parte elaborada por cada organismo). En todo caso, es el Ministerio de la Presidencia quien finalmente publica
+toda la información de forma unificada.
+Para dar respuesta al citado Portal y poder gestionar toda la confección y publicación de información se plantean las siguientes
+preguntas.
+
+Anexo 1. DFD del Portal de Transparencia.
+Ciudadano
+Resultado
+Consulta
+Departamento 1
+Contratos
+Bienes
+inmuebles
+Estructura, Funciones,
+Planes de actuación...
+Normativa
+Portal de
+Transparencia
+...
+Dirección General
+de Patrimonio
+BOE
+Estructura, Funciones,
+Planes de actuación...
+Departamento n
+Información
+Presupuestaria
+IGAE
+
+
+Anexo 2. Diagrama Entidad / Relación Extendido.
+(0,1)
+es dirigido por
+(1,1)
+(1,1)
+Departamento
+(1,n)
+compuesto por
+(0,1)
+Unidad
+(1,1)
+es dirigida por
+Titular
+(1,n)
+(0, n)
+participa en
+Comisión
+interministerial
+
+
+1. A continuación, teniendo en cuenta el DFD de nivel 0 del Portal de Transparencia (anexo 1 del supuesto). ¿Cuál de
+las siguientes afirmaciones sobre este diagrama es cierta?
+a) Existen 3 almacenes de información central (Dirección General de Patrimonio, BOE e IGAE) y tantas entidades externas como
+departamentos.
+b) No es un DFD de nivel 0 correcto al no incluir los almacenes utilizados por el sistema.
+c) Existen las siguientes entidades externas al sistema: Dirección General de Patrimonio, BOE, IGAE, Ciudadano, Departamento
+1, …, Departamento n.
+d) No es un DFD de nivel 0 correcto al incluir más de un flujo de entrada procedente de una misma entidad externa, como
+sucede con los flujos de la Dirección General de Patrimonio.
+ANSWER: C
+
+2. Uno de los conjuntos de información que deberá elaborar cada uno de los organismos afectados por la normativa y
+remitir al Ministerio de Presidencia será el de “Estructura y funciones departamentales”. Este conjunto de
+información presenta, entre otras informaciones, la composición de los departamentos en unidades, la
+participación de los departamentos en comisiones interministeriales y la persona a quién corresponde la
+titularidad de cada una de las unidades y departamentos. Tal y como se muestra en el diagrama de
+Entidad/Relación (anexo 2 del supuesto), ¿cuál de las siguientes afirmaciones sobre la realidad que representa el
+diagrama NO es cierta?
+a) Un Departamento está compuesto por una o varias Unidades y toda Unidad pertenece a un y sólo un Departamento.
+b) Un Departamento es dirigido por un Titular y todo Titular debe dirigir a un Departamento.
+c) Cada Unidad es dirigida por un Titular y un Titular puede dirigir a un máximo de una Unidad.
+d) Un Departamento puede participar en varias Comisiones interministeriales o ninguna. Mientras que toda Comisión
+interministerial tiene que contar con uno o varios Departamentos.
+ANSWER: B
+
+3. Tomando como referencia el modelo E/R del anexo 2, se pretende obtener el modelo lógico de datos, ¿cómo se
+reflejaría la relación entre las tablas DEPARTAMENTO y COMISIÓN MINISTERIAL?
+a) Se propaga el identificador de la Comisión Ministerial, así como los posibles atributos de la relación a la tabla de
+DEPARTAMENTOS.
+b) Se propaga el identificador del Departamento, así como los posibles atributos de la relación a la tabla de COMISIONES
+MINISTERIALES.
+c) Se crea una tabla nueva en la que se incluyen los atributos que forman clave primaria de las tablas DEPARTAMENTOS y
+COMISIONES MINISTERIALES, y los atributos que tiene la relación, siendo estos últimos la clave primaria de esta nueva tabla.
+d) Se crea una tabla nueva en la que se incluyen los atributos que forman clave primaria de las tablas DEPARTAMENTOS y
+COMISIONES MINISTERIALES y que, a su vez, formarán la clave primaria de la nueva tabla. Así como los atributos que pueda
+tener la relación.
+ANSWER: D
+
+4. El Portal ofrecerá al ciudadano la posibilidad de mostrar el listado de Comisiones interministeriales ordenadas
+alfabéticamente. Sin embargo, como consecuencia del modelo distribuido de carga de esta información, el listado
+de Comisiones no estará ordenado en la Base de Datos (BD). Supongamos que se tuviese que realizar la
+ordenación a través del algoritmo Bubble Sort. ¿Cuál de los siguientes esquemas de código (en pseudocódigo)
+representa este algoritmo? Se asume que la lista va desde el elemento comisiones[0] hasta comisiones[TAM-1].
+a) for (i=1; i<TAM; i++)
+for (j=0 ; j<TAM - 1; j++)
+if (comisiones[j] < comisiones[j+1])
+comisiones[j] = comisiones[j+1];
+comisiones[j+1] = comisiones[j];
+b)for (i=1; i<TAM; i++)
+for (j=0 ; j<TAM - 1; j++)
+if (comisiones[j] > comisiones[j+1])
+temp = comisiones[j];
+comisiones[j] = comisiones[j+1];
+comisiones[j+1] = temp;
+c)for (i=1; i<TAM; i++)
+for (j=1 ; j<TAM - 1; j++)
+if (comisiones[j] < comisiones[j+1])
+comisiones[j] = comisiones[j+1];
+comisiones[j+1] = comisiones[j];
+d)for (i=1; i<TAM; i++)
+for (j=1 ; j<TAM - 1; j++)
+if (comisiones[j] > comisiones[j+1])
+temp = comisiones[j];
+comisiones[j] = comisiones[j+1];
+comisiones[j+1] = temp;
+ANSWER: B
+
+5. El Portal almacenará toda la información en una Base de Datos (BD). Para presentar esta información será
+necesario acceder a la BD y recoger la información solicitada: Departamentos, Funciones, Normativa, Planes de
+ejecución, etc. Para controlar el número de conexiones se ha valorado el empleo de un conocido patrón de diseño
+que únicamente permitirá la creación de una sola instancia por clase. ¿De cuál de los siguientes patrones se trata?
+a) Decorator.
+b) Singleton.
+c) OneInstance.
+d) Observer.
+ANSWER: B
+
+6. Para dar servicio en las distintas lenguas del territorio nacional, se ha determinado tomar las medidas de la pauta
+"Legible" del WCAG 2.0, ¿a qué principio WCAG 2.0 pertenece esta pauta?
+a) Comprensible.
+b) Robusto.
+c) Operable.
+d) Perceptible.
+ANSWER: A
+
+7. Se plantea la construcción del Portal de Transparencia haciendo uso de tecnología .NET. Para facilitar el acceso a
+Base de Datos se haría uso de LINQ. ¿Cuál de las siguientes respuestas representa la consulta LINQ para obtener
+la información sobre el Departamento con nombre “MINHAP”?
+a) var departamentoMINHAP =
+from departamento in departamentos
+where departamento.nombre == “MINHAP”
+select departamento;
+b)var departamentoMINHAP =
+c)SqlConnection sqlConnection=new SqlConnection(cadenaConexion);
+String consulta="SELECT * FROM departamentos WHERE departamentos.nombre = “MINHAP”);
+SqlCommand sqlCommand = new SqlCommand(consulta, sqlConnection);
+sqlConnection.Open();
+sqlCommand.ExecuteNonQuery();
+sqlConnection.Close();
+d)var departamentoMINHAP =
+select departamento
+from departamento in departamentos
+where departamento.nombre == “MINHAP”;
+ANSWER: A
+
+8. Tras el análisis de la información que es preciso almacenar, se determina que la entidad Unidad representa una
+superclase frente a la clase Departamento, pues el Departamento representa una especialización de esta clase,
+manteniendo entre otras la variable titular, e incorporando una variable que incluye un listado de aquellas
+Comisiones a las que pertenece el Departamento. ¿Cómo se representaría esto en Java?
+a) Class Unidad {
+b) class Unidad {
+private Persona titular;
+protected Persona titular;
+}
+}
+Class Departamento extends Unidad {
+class Departamento extends Unidad {
+private Comisiones listadoComisiones;
+private Comisiones listadoComisiones;
+}
+}
+c)
+select * from departamentos
+where departamentos.nombre == “MINHAP”;
+class Unidad {
+protected Persona titular;
+}
+class Departamento inherit Unidad {
+private Comisiones listadoComisiones;
+}
+d)
+class Unidad {
+private Persona titular;
+}
+class Departamento implements Unidad {
+public Comisiones listadoComisiones;
+}
+ANSWER: B
+
+9. El Portal de Transparencia se realizará bajo el estándar HTML5, ¿cuál de las siguientes respuestas representa el
+tipo de documento de acuerdo a las directrices marcadas por este nuevo estándar del W3C?
+a) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5//EN" "http://www.w3.org/TR/html5/strict.dtd">
+b) <!DOCTYPE html>
+c) <!DOCTYPE html5>
+d) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5//EN" "http://www.w3.org/TR/html5/DTD/html5.dtd">
+ANSWER: B
+
+10. El Portal de Transparencia deberá aplicar los estilos generales disponibles para todas las aplicaciones web
+desarrolladas, y están disponibles a través del fichero mpr.css. ¿Cuál de las siguientes líneas habría que incorporar
+en la página maestra en la que se basarán todas las páginas del portal para garantizar el seguimiento de estos
+estilos?
+a) <style rel=”stylesheet” type=”text/css” url=”mpr.css”/>
+b) <css rel=”stylesheet” type=”text/css” url=”mpr.css”/>
+c) <meta rel=”stylesheet” type=”text/css” href=”mpr.css”/>
+d) <link rel=”stylesheet” type=”text/css” href=”mpr.css”/>
+ANSWER: D
+
+11. Para la remisión de información por parte de los organismos de la AGE al Ministerio de la Presidencia y que éste
+pueda almacenar toda la información y publicarla de forma unificada, se han definido esquemas XML para los
+distintos conjuntos de información a publicar. Existe un conjunto que consta de los Currículum Vitae (CV) de todos
+los titulares del Departamento o sus Unidades. Dicho conjunto incluye los CVs de todos los titulares y, para cada
+uno de los CVs indica que debe haber, entre otros valores, un campo que incluya los idiomas que habla el titular
+del alto cargo o Unidad, pudiendo incluir desde 1 a infinitos idiomas. Se muestra un ejemplo de XML que cumpliría
+esta parte del esquema XML:
+<languagelist>
+<language>
+<language>
+</languagelist>
+. . . </language>
+. . . </language>
+¿Cuál de las siguientes respuestas presentaría una definición adecuada de la sección del esquema XML (XSD) para
+la parte de idiomas según lo descrito anteriormente?
+a) <xsd:element name=”languagelist”>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=”language” type=”europass:language” minOccurs=”1” maxOccurs=”nonlimited” />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+b)<xsd:element name=”languagelist”>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=”language” type=”europass:language” maxOccurs=”unbounded” />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+c)<xsd:element name=”languagelist”>
+<xsd:complexType>
+<xsd:element name=”language” type=”europass:language” minOccurs=”1” maxOccurs=”nonlimited” />
+</xsd:complexType>
+</xsd:element>
+d)<xsd:element name=”languagelist”>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name=”language” type=”europass:language” minOccurs=”1” />
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+ANSWER: B
+
+12. Todas las páginas del Portal de Transparencia tendrán apariencia homogénea, se ha incorporado un fichero CSS en
+el que se incluirán todos los estilos a aplicar. Se desea que los enlaces no visitados se muestren en rojo y
+subrayados, los ya visitados en azul y sin subrayado y, que en el momento de hacer clic sobre los enlaces se
+muestren en amarillo y sin subrayado. ¿Cuál de las siguientes respuestas permite asociar el citado estilo a los
+enlaces?
+a) a:unvisited {color: red; text-decoration: underline}
+b) a:link {color: red; text-style: underline}
+a:visited {color: blue; text-decoration: none}
+a:visited {color: blue; text-style: none}
+a:hoover {color: yellow; text-decoration: none}
+a:active {color: yellow; text-style:none}
+c) a {color: red; text-style: underline}
+d) a:link {color: red; text-decoration: underline}
+a:visited {color: blue; text-style:none}
+a:visited {color: blue; text-decoration:none}
+a:hover {color: yellow; text-style:none}
+a:active {color: yellow; text-decoration:none}
+ANSWER: D
+
+1. [RESERVA] Si se desease desarrollar el Portal de Transparencia mediante tecnología Java EE y se gestionasen las consultas de
+los usuarios con servlets. ¿Qué método de la clase HttpServletResponse habría que invocar como respuesta a la
+petición del usuario de exportar datos en formato Excel para devolver un fichero con ese formato al ciudadano?
+a) getXLSStream()
+b) getFileStream()
+c) getBinaryStream()
+d) getOutputStream()
+ANSWER: D
+
+2. [RESERVA] El Portal, además de permitir el acceso a la información sobre Transparencia, ofrecerá al ciudadano un formulario
+para solicitar más información. A efectos estadísticos, se consultará al ciudadano a qué grupo de edad pertenece.
+Se ofrecerán dos opciones [0-59] años, [60,…] años y sólo se podrá elegir una de ellas. ¿Cuál de las respuestas
+siguientes presentaría la información en HTML5 con las debidas garantías de accesibilidad y funcionalidad?
+a) <fieldset>
+<legend>¿En qué rango de edad se encuentra usted?</legend>
+<input id="menor60" type="radio" name="edad" value="m60" />
+<label for="menor60">De 0 a 59 años</label>
+<input id="mayor60" type="radio" name="edad" value="ma60" />
+<label for="mayor60">Mayor de 60 años</label>
+</fieldset>
+b) <fieldset>
+<legend>¿En qué rango de edad se encuentra usted?</legend>
+<input id="menor60" type="radio" name="m60" value="m60" />
+<input id="mayor60" type="radio" name="ma60" value="ma60" />
+</fieldset>
+c) <fieldset>
+<legend>¿En qué rango de edad se encuentra usted?</legend>
+<input id="menor60" type="radio" name="m60" value="m60" />
+<label for-id="m30">De 0 a 59 años</label>
+<input id="mayor60" type="radio" name="ma60" value="ma60" />
+<label for-id="ma60">Mayor de 60 años</label>
+</fieldset>
+d) <fieldset>
+<legend>¿En qué rango de edad se encuentra usted?</legend>
+<input id="menor60" type="age" name="m60" value="m60" />
+<label id="m60">De 0 a 59 años</label>
+<input id="mayor60" type="age" name="ma60" value="ma60" />
+<label id="ma60">Mayor de 60 años</label>
+</fieldset>
+ANSWER: A
+
+3. [RESERVA] El identificador utilizado a nivel AGE asociado a cada Unidad se denomina CodigoDIR3. Dada la definición XSD que
+se muestra a continuación para este elemento, indique cuál de las respuestas validaría dicho esquema:
+<xsd:simpleType name="CodigoDIR3">
+<xsd:restriction base="xsd:string">
+<xsd:pattern value="\(\d{4}\)-\(\d{6}\)-\{([AC]){3}\}" />
+</xsd:restriction>
+</xsd:simpleType>
+a) <CodigoDIR3>(0000)-(123456)-{(ACA)}</CodigoDIR3>
+b) <CodigoDIR3>(0000)-(123456)-AAA</CodigoDIR3>
+c) <CodigoDIR3>(0000)-(123456)-{ABC}</CodigoDIR3>
+d) <CodigoDIR3>(0000)-(123345)-{AAC}</CodigoDIR3>
+ANSWER: D

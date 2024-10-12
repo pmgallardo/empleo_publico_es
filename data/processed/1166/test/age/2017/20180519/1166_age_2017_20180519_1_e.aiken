@@ -257,7 +257,7 @@ c. El análisis y gestión de riesgos.
 d. La mejora continua.
 ANSWER: C
 
-38. [TEMA="2022."] En el marco de un SGBD, si hablamos de que los resultados de una transacción o bien pasan a ser completados todos (commit) o bien pasan a ser todos deshechos (rollback), ¿de qué propiedad ACID estamos hablando?
+38. [TEMA="2022.63"] En el marco de un SGBD, si hablamos de que los resultados de una transacción o bien pasan a ser completados todos (commit) o bien pasan a ser todos deshechos (rollback), ¿de qué propiedad ACID estamos hablando?
 a. Durabilidad.
 b. Aislamiento.
 c. Consistencia.
@@ -327,7 +327,7 @@ c. Es un sistema de nomenclatura jerárquico descentralizado, que permite la tra
 d. Es un protocolo del nivel 2 (enlace) encargado de realizar la traducción entre la dirección en la tecnología multiacceso correspondiente y la dirección de red, traducción que también se conoce como resolución de direcciones.
 ANSWER: B
 
-48. [TEMA="2022."] ¿Qué proceso se encarga de gestionar todas las inversiones dentro de la Estrategia del Servicio en ITIL v3?
+48. [TEMA="2022.106"] ¿Qué proceso se encarga de gestionar todas las inversiones dentro de la Estrategia del Servicio en ITIL v3?
 a. Gestión de la Estrategia de los servicios TI.
 b. Gestión de la Demanda.
 c. Gestión de la Cartera de Servicios.
@@ -376,7 +376,7 @@ c. Es una extensión de PostgreSQL para el tratamiento de información geográfi
 d. Es una base de datos relacional de código abierto, compatible con Oracle.
 ANSWER: A
 
-55. [TEMA="2022."] ¿Cuál de las siguientes NO es una de las ventajas del uso de redes locales conmutadas?
+55. [TEMA="2022.108"] ¿Cuál de las siguientes NO es una de las ventajas del uso de redes locales conmutadas?
 a. Implementación de CSMA/CD.
 b. Transmisión full-dúplex.
 c. Control de Flujo.
