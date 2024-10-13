@@ -1,0 +1,392 @@
+BLOOUE III
+1 ¿Cual delos slgulentes modelos de clclo de vida Ilene en cuenta el analisis de riesgos?
+a) Extreme Programming.
+b) Modelo de ciclo de vlda en cascade,
+c) El modelo de ciclo.de vida.en V,
+d) Modelo de el<:lo de vlda en espiral
+ANSWER:
+
+2 ;.Que tipo de·diagrama permlte representarun algodtmo?
+a) Oiagrama de C!a.ses. b)
+c) Flujograma de Programas d)
+Flujograma deSrstemas. Oiagrama de FIUjo de Oatos
+ANSWER:
+
+3 lCual delosslgulentes elementos NO pertenec.,. al Modelo Conceptua·I de Procesos?
+a) El Diccionano de Dates. b) El Dlagrama de Flufo de Oatos.
+c) Las especificaclonesda proceSCls. d) El Oiagrama EnlidadRelaci6n
+ANSWER:
+
+4 lndicar la n,spuesta correcta respecto al diagrams de HuJo de datos:
+a) UnprOceso de control puede sor el origende Ios·c1atos pero nunca el final de los datos.
+b) El flujo de dlalogo se representa por una nechadiscontinue que lndica la direcci6n de Los datos, y que se etiqueta oon un nombre representativo.
+cJ Un  flujo de dialogo es Im ftujo entreun proceso y un almacen querepresents una consulla y una actuallzaci6n,
+d} Un prooeso de control se encar-ga de coordlnar y sfncronizar los accesos a los almacenes de datos
+ANSWER:
+
+5 Senale la respuesta correcta de las sigulentes aflrmaciones sobre el modelo entldadlrelaci6nextendido:
+a) Es un requisito el conocer el SGBD en el que se vaalmptemenlar,
+b) Es dependiente del entomo fisico.
+c) Se centra en los datos, lndependientemente del procesamien!o quelos l'ransforma.
+d) Oebe prciporcio!lilra los usuarios loda la informaci6n quenecesiten garanlizando la eficieno!a def proceso.
+ANSWER:
+
+6 Tenemos las entidades··opositor" y "oposici6n" y saoomos que a los opositores se les permlle apuntarse a vartas opo-slciones disHntas. SI se qulsleracrear el modelo conceptual de base de datos, lque relaci6n crearla?;
+a) Una relaci6n n:m.
+b) Unarelacf6n 1:n.
+c) Una relaci6n 1·1.
+d) El modeto conceptual no admite relaciones, s6io el modelo retacional lo permite.
+ANSWER:
+
+7 1,Cuat de las slgulantes aflrmaclones sobre el modelo enlidad/relaci6n es correcta?
+a) En la. especiafizaci6n un supertfpo so-descompone en uno o varios subtipos, los cuales heredan todos los altlbutos y
+relaciones del sapertfpo,
+b) Lagenerallzaci6nconsisle en relaclonar dos tlpos de enlidades qua normalmenle sonde dominios lndependfentes, pero
+coyunturalmenle se asocian,
+cJ  La agregaci6n perrnlte absti'a.er Ull Upo de entidad de nlvel superior (supertlpo) a partir de varies llpos de enlidad (sublipos),
+d) La asociaci6n consisto en cons!nlir un nuavoUpc de entidad comocomposici6n de otros.
+ANSWER:
+
+8 En .el modeio entidad/relacl6n el numero de afributos de unarelacl6n define lo que se conoce como:
+a) Grado. b) Gardlnalldad,
+c) Dominic. d) Relaci6n.
+ANSWER:
+
+9 ;,Cual de las sfguientes es una regla de Codd?
+a) Regla de la no subversion.
+c) Regla de la restrfccl6I\.
+b)
+Regla de la no concurrencia,
+d) Regla de la no replicaci6n de lnformad6n,
+ANSWER:
+
+10 En el modefo de ciclo de vida en esplral l,en que actlvldad se decide si continuamos con las lases sigufentes?
+a) Analisis del riesgo. b} Evaluaci6n de la situaci6n.
+cJ Oesarrollar. verincar y validar (proba.r), d) Planificar.
+ANSWER:
+
+11 1,Cual de las siguientes actividades NO pertenece a la GesH6n del Proyecto segun Metrtca v3?
+a) ldenlificaci6n de las Propiedades de Calidad. b} Planificaci6n,
+c) Clerre del Proyecto. d) Eslfmaci6n de Esfuerzo.
+ANSWER:
+
+12 ;.A que perfll pe,tenece el Responsable de Calldad segunMetricav3?
+aJ Perfll.Jefe de Proyecto. b) Perfil Consullor.
+c) Perfil Analista. d) Perfil Programador.
+ANSWER:
+
+13 Segun Metrlca v3 ;,Cualde los siguientes NO es un grupo deaclividad de la Gestl6n de Proyectos?
+a) Aclivldades de Segulmianto y Conlrol, b) Activfdades de Planificaci6n de! Proyecto.
+c) Activldades de Finallzacion del Proyecto. d) Activldades de lnicio def Proyecto.
+ANSWER:
+
+14 1.Que tipo dediagrams permlte estlmar fa desvtaci6n de Un proyecto?
+a) Oi8,lrama de ExtraPOlaci6n. b) P.ER.T
+c) CPM, d) E1histograma de recurses.
+ANSWER:
+
+15 El proceso de desarrollo de Metrica v3 contiene todas las activldades y tareas que se deben llevar a cabo para:
+a) Desiltrollai un sistema, cuoriendo desde el -1nallsis de requlsilos hastala illSlalaci6n del soflware.
+b} Oesarrollar un sislema, cubrlendo cJesde el analisis del sislema haslala construcci6n del software..
+c) Oesarrollar un sistema, cubnendo desda el disei\o has!a la construccl6n dal sollware,
+d) Desarrollar un sistema, cubriendo desde el anallsis de requisltos hasta el mantenlmlenlo del software.
+ANSWER:
+
+16 Una relaci6n muches a muches traducida dosde un esquema entidad/relacl6n a un esquema relacional:
+a) No Uene ctaves
+b) lmpliciiamente, contiene una agrupacl/5n de las claves primarlas de les entidades relacionadas.
+c) No puede admitir atributos que no pertene:i:can a una de las entldades asociadas.
+d) Conserya la clave de la enlidad fuerte.
+ANSWER:
+
+17 1,Cual de las siguientes operaciones pertenece al lenguaje de manlpulacion de datos en SOL?
+a) CREATE. b} ALTER
+c) DELETE. d) DROP.
+ANSWER:
+
+18 Para que una tabla este en segunda forma normal 2FN,1,cual de los slgulentes requisites NO es necesario?
+a) La tabla contonga una clave primaria,
+b) la claveprimalia no contenga alribulos nufos.
+c) Qu.e los atributos que no forman parte de riinguna clave no dependan d forma complela de la claveprincipaf.
+d) No exists ninguna dependencla funcional ltansillva entrelos atributos que no son clave.
+ANSWER:
+
+19 SI tenemos las dependencias·funcionales (A, a) - C, B - D y la siguiente relacl6n (A, B, C, D) donde (A. B) es la clave candidata. ;,Cua! seria el resultado de apllcar la 2 forma normal?
+.  a) (A, B, C), (A, B, 0), b} (A,B,C),(B,0).
+cJ (A, B, C), (A, 0). d} Ya estA en 2FN,
+ANSWER:
+
+20
+a) El numero minima de correspondenc1as en las que puede tomar parte caaa oourrencia de dicha entidad
+b) Es una correspondenciao·asoclacion enl(e dos o masentidades
+c) El conjunlo ce 1odos los valores poslbles quepuede tomar un atribulo.
+d) El nume-ro d<:>IJJplas o fllas de unarelaci6n.
+ANSWER:
+
+21 En la arquitectura ANSI SQL la capacldad de modlficar el esquema inferno sin tener que alterar el esquema conceptual (o los extemos) es lo quo se conoce coma:
+a/ lndependencia flsica.
+cJ lnlegrldad de la enlidad.
+
+b) lndependenc,a L6g,ca,
+d) lntegridad refereocial.
+ANSWER:
+
+22 1.Cwllde los slgulentes algoritmos de ordena,cl6n-es !nestable?
+a) Mergesort. b)  Bubbl_esort.
+c}'  Quicksorl. d)  lnsertionsort.
+ANSWER:
+
+23 1.Cual de las slgulantes estructuras do datosrequiere mas capacldad de almacenamlento de lntormaci6n?
+a}  Arbo! Binarfo. b}  Lista.
+cJ  Lista enla:z.ada d)  Arbol-B.
+ANSWER:
+
+24 ;.Cual es la defonlcl6n correcta de 3FN?
+a) Una entidad esta en 3FN si esta en 2FN y tOdos las aJ.rl.butos que form.an parte de las craves candidatas (alribulos principales) tienen dependcnci funcional completa respecto de estas, es decir, no hay depend.enclas funcionales di; atribulos no principales respecto de una parte de las cl;,vcs,
+.b)  Una enlida_d esla en 3FN siesta en 2FN y todos los attlbulos que no forman parle de las claves candldatas (atrlbutos no princlpales) lienen dependencia funclonal complela respecto de eslas, es decir, m> hay dependencias funcionales de atribulos no prrnc1pales respecto de un.a parte de las claves. Cadauno de los atributos de una entidad depende de toda la clave.
+c) Un entfdad est.I en 3FN si esta en 2FN y todos sus atribulos prlnc]pales dependen d,reclamente de la clave prtmaria. es decir, no hay dependencias l!Jnciona!es·lransillvas de alributos no principales respecto de las claves.
+d) Una entidad esta en 3FN sl esta en 2FN y todos sus elributos no principales dependen directamente de la clave primana, es decir, no hay dependencias !uncionales lransltlvas de 8.lrlbutos no principales respecio de las claves,
+ANSWER:
+
+25 lndrqu& cual es la respuesta corrects con r.especto a las diagramas PERT:
+a) Los areas def graforepresentan los·s.ucesos, y las vertices las actividades.
+b) Eli la matriz d'e encadenamienlos aquellas columnas en las que no aparece ninguna X lndlcan las actMdades que no lienen nlnguna actividad slgulonte. es decir, aqu.ellas aclivldades cuyo suceso final C<:Jincide con el suceso fin· del proyecto.
+cJ El cuadro de prolaclones esla rormado par tres polumnas. En la pmnera columna est n represe.ntadas lodasla's aciividades en que se ha descompueslo el proyecto. Er; la segunda columna figuran las activ1dades precedentes de su hom61oga en le primers columna yen la Oltlma columra se mueslran las activldades posterlores.
+d}  La matriz de encadenam,entos consisle en una malriz cuadrada cuya dimensi6n es igual al mimero deucesos enque se ha de5C'Ompueslo el proyecto.
+ANSWER:
+
+26 iSegun Metrlca v3 cull! delos sigulentes partJclpantes ostarla encuadl"!do dentro del porfil"Consultor·'?
+a) Tecnico t!e·sislemas. b)  Grupo de Aseguramlento de la Calldad.
+r;J Equipo cje A'rqultectura d}  Adminisltador de Bases de Delos
+ANSWER:
+
+27 lA cual de las slguientes opciones corresponde la deflnicion slgulent&?: ''Un medio a !raves del cual se srmula el aspecto visual de! sis1_ema medlante la representaclon de los conceptos, componentes, objetos graflcas, entradas y salidas requeridas para la ejecuci6n de cada funciOn en respuesta a las necesidatfes p1anteadas."
+a}  Diseno·ortentado a objetos. b)'  JRP
+c)  Prolotipado. d)  JAD.
+ANSWER:
+
+28 1.Cual de los slguientes NO es un algorilmo de ordenac16n?
+a) Ouicksort. b)
+cJ Bubblesort. d)
+Mergesort·, Mlddlesort
+ANSWER:
+
+29 Segtln Metrica v3, lCUal de las siguientes llstas esta correctamente ordenada de mayor a manor acoplamiento? aJ  De conlenldo, comun, d<:>control, extemo, de dalos.
+b) De datos, de marca, extemo, de control, comun, de contenido cJ  De datos, de marca, de control, externo, cornim, de contenido. d}  De contenido, comun, extemo, de marca, de dales,
+30 1,Que perfil esel encargado de ta tarea de Metrlca v3 "Oeflnlcion del Esq ema de Formacion"?
+a) Anallsta. b) Consullor.
+c) AnaUsta-programador. d) Programador.
+ANSWER:
+
+31 ;.Cu Ide lasslgulentesactividades se engloba, en Metrica v3, en el proceso de Construccl6n del ststema? aJ Carga de Cales al entomo de operaci6n
+b) Elaboraci6n de los manuales de usuario.
+c) Establecimiento del Acuerdo de Nlvel de Servicio,
+d) Elaboraci6n def modalo de datos
+ANSWER:
+
+32 iCullldelasslguientes herramlentas permite realizar pruebas de regresion en el Software?
+a) Jmeter. b) Snarl.
+c) Alrio. d) JBPM
+ANSWER:
+
+33 ,En cual de las s1gulent&s pruebas Jntervlene el usuario final?
+a) Pruebas de Caja.Negra. b)
+c) Pruebas de lmp)antacion. d)
+Pruebas de Aceptaci6n. Pruebas de Regresi6n
+ANSWER:
+
+34 4Cual d& las siguientes es una caracteristicapropia del Proceso Unificado deOesarrollo de Software? aJ Se base en las H.lstorias de Usuario,. b) Proceso dirigldo por casos de uso.
+cJ Exlsle una coniinue refactorizaci6n de! o6a1go. d) No contempla la gesU6n deJ proyecto.
+ANSWER:
+
+35 Segun Metrica v3, en la Reallzacl6n de la lnstalaclon icual delossiguientes perfiles debera partlclpar?
+a) Analistas. b) Progra.madores.
+cJ Consultores. d) Jefe da Proyecto,
+ANSWER:
+
+36 Cuando un slstema se debe modificar para que contemple un camblo en las necesldades de los usuarios. Se hace
+referencia at:
+
+aJ Mantenimlento Correctlvo cJ Mantenlmiento Adaptatlvo,
+b)
+Mantenimianto Evoiutivo.
+d) Mantenimlento PerfeclivCL
+ANSWER:
+
+37 Segun Metrica v3, 4cual de las slgulentes es una prueba perteneclente a las pNebas del slstema?
+a) Pruebas globales. b) Pruebas lntegradas.
+cJ Pruebas funcioaales. d) Pruebas unllarias.
+ANSWER:
+
+38 4Qu6 comprueban las pruebas de regresfon?
+a) El corrocto funcionamienlo de los componentes del slstema.
+b) Que el sistema cumple con el funcionamlento esperado y permlte al usuario de dlcho slstema que determine su acepl ci6n, desde el punlo de vista de su funcionalldad y rendimiento.
+cJ El funcionamiento correcto de las interfaces enlre los dislintos subsistemas que lo oomponen y con el resto de sislemas de lnlorrnaci6n con los que secomunica.
+d) ComprtJeb n que los cambios sobre un componenle de Un sistema de inforrnacion no introducen un comportamiento no deseadoo errores-adicionales en otros componentes no modificados.
+ANSWER:
+
+39 lndique el eleme.nto qua NO pertenece al diagrama de casos de·uso:
+a) Actor. .b) Mensaje.
+c) Caso de uso d) Asociaci6n.
+ANSWER:
+
+40 Segun Metrlca v3 lCUal de las slgulentes NO es on tlpo deTelacl6n del diagrams de clases?
+a) Inclusion, b) Agregacion.
+cJ Herencia. d) Composlcl6n
+ANSWER:
+
+41 Tenemos dos casos de uso: "Alta usuarios" y ''\lisuallzacl6n de usuarios". iQuerelacl6n seria la adscuada?
+a) Una de inclusion (include, use) de v1&uallzaci6n a alta. b) Una de lnclusi6n (Include, use) de allaa vislJali:taci6n.
+c) Un<) de extension (extends) de alta a visuallzaci6n d) Una de de extensi6n (extends) de vlsualizaci6n a alta.
+ANSWER:
+
+42 En el diagrama de componentes lcuantas interfaces puede soportar un componente?
+a) Un componente no tteneinterfaces. b) Puede tener una o nlnguna,
+cJ Oebe tener una ys61o una. d) Pueda soportar verias,
+ANSWER:
+
+43 En Orientaci6n a Objetos el con]unto de mtltodos que soporta una determfnada clase y Jos mensajes que es capaz de. tratar es lo que se conocecomo:
+a) Herencia,
+c) lntertaz.
+b) Protocolo.
+d) Pollmorfismo
+ANSWER:
+
+44 lCualdelas.sfguJentes u.tOldades perroite desarrollar e.n JAVA?
+aJ JRE b) Maquina VlnuaJ de Java.
+c) JDK.. d) AWT.
+ANSWER:
+
+45 lCUalde lassigulentes opclones NO es un.servidor de aplicaclones qua cumplecon la especmcacion de Java EE?
+a) ApacheTomcal b) JBOSS.
+cJ WebSphere.ApplicaUonServer. d) Glassfish.
+ANSWER:
+
+46 En J2EE iqu6esunflchero WAR?
+a) , Contienelos recursos y librerlas necesartas para compilar un proyec10.
+b) Contiene la aplicaci6n web lista para ser desplegada en cualquier contenedor de servlets/jsp.
+c) Conttene los m¢.dulos.EJB de las aplicaciones,
+d) No existan10sficheros WAR en J2E.E.
+ANSWER:
+
+47 La llbreria Java API for XML'Processing (JAXP):
+a) Permlle tratar docum<Jntos XML tanto a lravt!s dal modeio SAX como a lraves del modelo DOM.
+b) Trabaja unicamente con el modelo DOM.
+c) No exlste tal llbreria en·el lenguaje Java
+d) No tiene una lmplemanlaciM propi.11 parael parser y obligatoriamenle debeulilizar el parser del modelo DOM.
+ANSWER:
+
+48 iCunldelassigulentes lecnotogias de programaci6n se eJecutan en ei servldor7
+a) JavaScript. b) Applets.
+cJ JSP d) VisualScript
+ANSWER:
+
+49 4A que corresponden las siglas UNQ?
+aJ Lenguaje que permite enlaces unidireccionales y bidireccionales a olro recurse (como archivos, lmAgenes, documentos.
+programas, etc.) denlro de docomentos XML.
+b) Soluci6n Ulilizada en el campo de la Business Intelligence c yo obJe11vo es aglll:u,r la consulta a grandes·can1ida<1es <le datos
+c) Conjunto de el<tensiones a .NET Framework que abarca operaciones de oonsulta integrade de fenguaje, conjuntos y
+transformaolonas.
+d) Texto o 1mllgenes en un sltio web que un usuario puecre pincnar pare 1ener acceso o conectar conotro documenlo.
+ANSWER:
+
+.,.u "fWl;l-vuvo Qu11ot.A;'"...' u1"11:> ,o..,,cu, u,i:;;: 10 auuu yt1u:. 11:11c1t.1011ub un  memona para operar con  ,:!Uas. lCual de los
+siguientes obJetos de .NET usaria?
+a} OataTableRelation
+cJ Oa1aTabte.
+b} DataView.
+d} Dataset.
+ANSWER:
+
+51 <-Cual de las slguientes tecnologias NO u.sa JAVA coma lenguaje?
+a}
+JavaSCfipl.
+b)
+JavaBeans.
+cJ
+Servlets.
+d)
+JSP
+ANSWER:
+
+52 lndique cual de las.siguientes dellnlclones secorrespon<l& con Blnatk:
+a) Esun servldor Que permll.e geslionar procesos de negocio por media de adaptadores dlseiiados al efeclo, capacltandoto para operar dlferantes1ipos de softvmre
+b) Es una llbr8"la de .NET quepesmito la comunicaci6n po, IRC faollitando la lmplemenlacion de chats.
+c) Es un servidar web de .NET especialmenle adaplado para 1ecnol119ias m6vlles
+d) Es un componente que pertenece al CLR de N.ET que faolllta la ejecucl6n de la aplicaci6n,
+ANSWER:
+
+El modelo CMMI v1.2 (CMMlOEV) contlene las slgulentes areas de proceso:
+;,/  22 areas de pf1?Ceso, enlre la que se encuentran: Despliegue Jerarquico (OJ), Desarrouo de procosos de l.labajo (DPT), Eslablecimienlode Jera,qUla de procesos (EJP),
+b} 22 a,eas' de proceso. ehtre las que se encuenlran: Aseguramiento de oalidad de Prooesos y Produclos (PPOA), lnlegraoi6n de Producta (Pl), Gesli6n Cuanlllaliva de Proyec10s (QPM), Gesli6n de Requerimienlos (REQM),
+c) 10 tlreas ds proceso, enlre las que·se encuentran; Gesti6n de homoJogaciones (HM), <:ertlficaci6ri lnlegrada de disenos (DIC), Control de requisites (RC)
+_d}  15areas d_eproceso, enlre las que se encuenlran: Analisis de requisilos (AR), Gesll6o de equ1pos (EM\,Resotuc,on de decisiones (OR), diseno de varlable (VD).
+ANSWER:
+
+54 Con el objetlvo de garantizar la calld.ad en los Servicios publlcos se hacreado:
+a) La Ag ncta Estate! de Evaluaci6n de las Politicas Pllbllcas y la Calldad de Jos Servicios (AEVAL) pcrtenecien1e al Minislerlo de Presidencia. ·
+b) La Direcci6n General de Aseguramienlo de la Calidad e lnfraeslrucluras pertenecienle al Minlsterlo de lndustria Turismo y Comercio
+c) El Consejo Superior de Aseguramiento de la Calldad e lnfraeslructuras perteneclente al Mln1sterio de Presidencia.
+d) la Agenci Estalal de Evaluac16n de las Paliticas Publlcas y le Calidad de tos Servlcios (AEVAL perteneoienle al Minislorio de Potllica Territorial,
+ANSWER:
+
+55 lCual de las slgulentes caracteristicas NO es un princlplo de!Diseilo Universal?
+a) Uso equipa,able. b) Uso flexible
+c} Que exija poco esfuerzo llsico. d) Correclamente eslructurado y documenla_do,
+ANSWER:
+
+56 ?·cual de las sigulenles es et lenguaje estandar propuesto para la descrlpci6.o de servlclos web bajo protocofo SOAP?
+-a) WSOL b} UODI.
+c} XML d} REST.
+ANSWER:
+
+57 lQue categori.a desistemaOL.AP esta basado u orientado a la web?
+a) SOLAP.
+b) DOLAP.
+c) WOLAP.
+d) RTOLAP.
+ANSWER:
+
+58 1,Cual de las slgulentes utltidados permlte realll<ar mineria de datos?
+a) JDalaMlncr
+b) Cubos OLAP de Excel,
+c) VNC
+d) Extrac( lo learnt by SCi.LSeiver.
+ANSWER:
+
+59 ,1..Que es una copia deseguridad incremental?
+a) Aquella que copia Ian solo los archives modif1cados desde la llllima copia de segurldad normal, y l'lO mares iastbs como
+copiados.
+b) Aquella que copia lanlo los archivos creadO$ co.mo los modlficados desde la ujtlma copla de segurldad nomial, y no marca lodas estos arcl>ivos ,;omo copiados,
+c) Aquella que copia tan solo los archivos creados Cfesde le Olli.ma copia de segurla.ad normal, y marca eslos como coplados.
+d) Aq\Jella qve copla tanlo los archlvos creados como los modificadRs desde.la ullima copia de segurldad normal, y marca lodos estos archivos como copiados.
+ANSWER:
+
+60 ¿Cual de los sfgufentes NO es un se.rvi.dor 01..AJ>?
+a} Microslfategy OLAP Seivices.
+b) MDX OLAP. server.
+c) Oracle Database OLAP.
+d) Mondrian OLAP Server.
+ANSWER:
+
+1 [RESERVA] En las dlagramas estruc1uradas (Nassl.Schnelderman);
+a) Las flechas de unionson verticales.
+b) Cada poslble accion se represenla con una figura difarente
+c) No hay fiechas de uni6n
+d) Las cajas no sonccnliguas
+ANSWER:
+
+2 ¿En qué norma ISO viene reflejada la usabllidad del software?
+a) ISO/IEC 9126.
+b) ISO 8859.
+c) ISO 14000.
+d) ISO/lEC1a495,
+ANSWER:
+
+3 La nonna UNE 139802:2003 establece requlsitos de acceslbllidad de! software·de los ordenadores para las personas con dlscapacidad, agrupados en:
+a) 7 categorias: Teciado. dispositivos apuntadores. pantalla, sonido y multimedia, notfficadOn al usuaJio, lnformacioo de objetos, tlempo.
+b) 8 categorias: Teclado, dispositivos apunladores, pantalla, sonido y mulUmedia, noflficaci6n al usl!aMo, informaci6n de ob)etos, Uempo, documeniacl6n.
+c) 11 categories: Prlnciplos generates, teclado,· dlsp6sltivos apuntado/es, pantalla, sonldo, multimedia, notiflcacion al usuario, informaci6n do objetos, tiempo, ciocumen(aci6n, otros.
+d} 10 categorias: Princlpios generales, teclado, disposmvos apu·ntadores, pantalla. son/do y multimedia, notiffcacl6n .ii
+usuario, lnformacii,\n de objetos, tiempo, documentaci6n. ottos.
+ANSWER:

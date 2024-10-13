@@ -1,0 +1,1127 @@
+1 Cuál de las siguientes afirmaciones es aplicable a la reingeniería basada en "wrapping":
+a) "Wrapping" consiste en envolver interfases basadas en texto con un entorno gráfico basado en GUI o en HTML.
+b) La técnica "wrapping" es actualmente conocida como modernización de caja blanca.
+c) "Wrapping" es una reingeniería en las que sólo se analizan las interfases (las entradas y salidas) del "legacy" ignorando los detalles internos.
+d) "Wrapping" es una reingeniería mediante la cual se produce documentación retroactivamente desde un sistema existente.
+ANSWER: C
+
+2 Dadas las siguientes relaciones: A={ax,ay,az,by,bz,cx,cy} y B={x,z} ¿Cuál sería el resultado de la operación A dividido entre B?
+a)
+b)
+c)
+d)
+{a,b,c}.
+{ax,az,bz,cx}.
+{ay,by,cy}.
+{a}.
+ANSWER: D
+
+3 Suponga que dos sistemas A y B están conectados mediante un enlace transcontinental de capacidad C=64 Mbps y retardo de propagación Rp=2 ms. A comienza a transmitir a B un fichero de 15 MB. ¿Cuántos octetos ha transmitido A cuando el primer bit de la transmisión llega a B?
+a)
+b)
+c)
+d)
+128.000.
+32.000.
+16.000.
+4.000.
+ANSWER: C
+
+4 ¿Cuál de los siguientes es un servidor web basado en software de código abierto?
+a)
+b)
+c)
+d)
+Internet Information Server.
+Weblogic.
+Websphere.
+Apache.
+ANSWER: D
+
+5 El protocolo de encaminamiento más adecuado a utilizar en un punto neutro de interconexión en el que varios proveedores de Internet intercambian tráfico es:
+a)
+b)
+c)
+d)
+OSPF.
+No es adecuado usar encaminamiento dinámico, se recurre a tablas estáticas.
+RIP.
+BGP-4.
+ANSWER: D
+
+6 La banda de 26 GHz se utiliza para:
+a)
+b)
+c)
+d)
+UMTS.
+LMDS.
+WiFi.
+Bluetooth.
+ANSWER: B
+
+7 El Organismo de Normalización:
+a)
+b)
+c)
+d)
+CEN (Comité Europeo de Normalización) desarrolla normas que deben adoptarse íntegramente por los Organismos Nacionales de Normalización pertenecientes al CEN como normas nacionales.
+ISO (International Organization for Standardization) tiene la competencia exclusiva de la normalización internacional en el campo de las Tecnologías de la Información.
+ISO desarrolla normas que, en la etapa previa a su publicación como estándar internacional, reciben el nombre de ISO/PIS (Preview Draft International Standard).
+CEN desarrolla en el campo de las Tecnologías de la Información Acuerdos de Trabajo (CWA) que tienen la categoría de Normas Europeas (EN).
+ANSWER: A
+
+8 En un sistema con 10 usuarios se plantea el uso de un sistema criptográfico para asegurar las transferencias de datos entre todos ellos. ¿Cuál sería la diferencia entre usar sistemas de claves simétricas o asimétricas?
+a)
+b)
+c)
+d)
+No existe diferencia, en ambos casos se necesitarán 20 claves.
+Con el sistema asimétrico hacen falta 20 claves y con el simétrico el doble, ya que todas son secretas.
+Con el sistema asimétrico hacen falta 20 claves y con el simétrico sólo 10, una por cada usuario.
+Con el sistema asimétrico hacen falta 20 claves y con el simétrico 45 claves.
+ANSWER: D
+
+9 SIP (Session Initiation Protocol) es un protocolo que sirve para:
+a)
+b)
+c)
+d)
+Establecer videoconferencias sobre redes con calidad de servicio (ancho de banda garantizado).
+Realizar el transporte de flujos multimedia.
+Iniciar una sesión de correo web.
+Control y señalización, permite establecer y gestionar llamadas/conexiones de flujos multimedia.
+ANSWER: D
+
+10 ¿En cuál de los siguientes componentes de XML se define la estructura de los datos que va a contener un formulario XML?
+a)
+b)
+c)
+d)
+Manifiestos (XSF).
+Vistas (XLS).
+Esquemas (XSD).
+Datos (XML).
+ANSWER: C
+
+11 El modelo de control de accesos donde es el sistema quien protege los recursos y donde todo recurso del sistema tiene una
+etiqueta de seguridad se denomina:
+a)
+b)
+c)
+d)
+De acceso discrecional.
+De acceso mandatario.
+Basado en roles.
+De confidencialidad.
+ANSWER: B
+
+12 La arquitectura ANSI/SPARC para sistemas de bases de datos se divide en los siguientes niveles:
+a)
+b)
+c)
+d)
+Lógico, de usuario y físico.
+Externo, intermedio e interno.
+Externo, conceptual e interno.
+De usuario, de administrador y físico.
+ANSWER: C
+
+13 Las arquitecturas orientadas a servicios están basadas en una serie de principios básicos, uno de los cuales es:
+a)
+b)
+c)
+d)
+Los servicios usan una arquitectura "hub-in-spoke".
+Se integran en sistemas SGDBR.
+Los cambios en la implementación afectan a los consumidores del servicio.
+Deben estar accesibles y deben poder ser localizados para su consumo.
+ANSWER: D
+
+14 De acuerdo con la normativa vigente en materia de protección jurídica de los programas de ordenador, ¿durante cuánto tiempo
+estarán protegidos los derechos de explotación de un manual de uso de un programa obra de una persona natural?
+a)
+b)
+c)
+d)
+100 años desde su publicación, después pasa a dominio público.
+Como es una obra impresa, tiene la consideración de obra literaria y se protege durante la vida del autor y 60 años
+después de su muerte o declaración de fallecimiento.
+A estos efectos, el manual se considera parte del programa y se protege durante la vida del autor y 70 años después de
+su muerte o declaración de fallecimiento.
+Depende, si el manual está impreso, entonces la protección es la vida del autor y 50 años después de su muerte y si es
+un tutorial no impreso, entonces es la vida del autor y 40 años después de su muerte.
+ANSWER: C
+
+15 Además de controlar el correcto funcionamiento del sistema y poner los medios para corregir sus funciones, ¿qué función le
+correspondería a un administrador de sistemas operativos?
+a)
+b)
+c)
+d)
+Colaborar en el desarrollo de nuevas versiones de los sistemas operativos o de parches para ellos.
+Planificar y realizar la adquisición de nuevo equipamiento.
+Instalar el sistema operativo, actualizar los parches, monitorizar el uso de recursos y corregir las posibles incidencias.
+Desarrollar los sistemas de información de la organización.
+ANSWER: C
+
+16 [ANULADA] El plazo de comunicación desde la obtención, sustitución o cancelación de un nombre de dominio al Registro Público
+correspondiente de acuerdo con la Ley 34/2002 de Servicios de la Sociedad de la Información y del Comercio Electrónico es de:
+a)
+b)
+c)
+d)
+Dos meses.
+Un mes.
+Quince días.
+Diez días.
+ANSWER:
+
+17 Un servidor de telnet permite:
+a)
+b)
+c)
+d)
+A los usuarios entrar en otro ordenador y llevar a cabo tareas como si estuviesen trabajando en el ordenador remoto.
+Intercambiar información ofreciendo capacidades de discusión en tiempo real.
+Gestionar listas de correo, ya sea para envío masivo o para gestionar foros de discusión.
+Distribuir contenido multimedia a las aplicaciones cliente.
+ANSWER: A
+
+18 NO corresponde a los principios que deben regir un CAU:
+a)
+b)
+c)
+d)
+Proveer un punto de contacto único al usuario final.
+Disponer de información sobre niveles de servicio para mejorar el servicio proporcionado.
+Rastrear la organización para detectar posibles necesidades no cubiertas.
+Documentar las soluciones dadas a las incidencias.
+ANSWER: C
+
+19 Para eliminar una tabla de una base de datos relacional, se utiliza la sentencia DDL:
+a)
+b)
+c)
+d)
+Delete table.
+rm table.
+Delete table now.
+Drop table.
+ANSWER: D
+
+20 En el encaminamiento por vector distancia:
+a)
+b)
+c)
+d)
+Cada router envía su LSP a toda la red.
+Se pueden emplear varias métricas.
+Se produce el problema de cuenta a infinito.
+El algoritmo correspondiente también es conocido como algoritmo de Dijkstra.
+ANSWER: C
+
+21 ¿Cuál de las siguientes funciones NO es competencia del Consejo Superior de Administración Electrónica?
+a)
+b)Actuar como Observatorio de la Administración Electrónica.
+c)
+d)El control, regulación y supervisión de los proveedores de accesos a Internet de la Administración General del Estado.
+La colaboración con el Centro Criptológico Nacional del Centro Nacional de Inteligencia en la elaboración de medidas de
+seguridad.
+El impulso y la coordinación de la Administración Electrónica en el seno de la Administración General del Estado.
+ANSWER: C
+
+22 NO es un método dinámico de estudio de la rentabilidad de inversión:
+a)
+b)
+c)
+d)
+La tasa de rentabilidad media.
+La tasa de valor actual.
+La tasa de rendimiento interno.
+El índice de rentabilidad.
+ANSWER: A
+
+23 El Defensor del usuario de la administración electrónica a que hace referencia el artículo 7 de la Ley 11/2007 de Acceso
+Electrónico de los Ciudadanos a los Servicios Públicos es nombrado por:
+a)
+b)
+c)
+d)
+El Defensor del Pueblo.
+El Congreso de los Diputados, por mayoría simple.
+El Consejo de Ministros.
+El Ministro de Industria.
+ANSWER: C
+
+24 En relación con ITIL, ¿cuál de las siguientes afirmaciones es correcta?:
+a)
+b)
+c)
+d)
+Los módulos principales y más ampliamente implantados de ITIL versión 3 son Entrega del Servicio (Software Delivery) y
+Soporte del Servicio (Service Support).
+ITIL versión 3 es un estándar "de iure" similar a BS15000 o ISO/IEC 20000, de modo que una organización puede obtener
+un certificado ITIL.
+Según ITIL versión 3, el ciclo de vida de un servicio consta de 5 fases: estrategia, diseño, transición, operación y mejora
+continua del servicio.
+El proceso de Gestión del Cambio (Change Management) forma parte del módulo de Entrega del Servicio (Service
+Delivery).
+ANSWER: C
+
+25 El derecho moral sobre un programa de ordenador implica que:
+a)
+b)El que tiene este derecho lo puede ceder o transmitir, con o sin contraprestación económica.
+c)
+d)El que tiene este derecho no lo puede ceder, ni transmitir, ni siquiera renunciar a él.
+El que tiene este derecho también posee el derecho de explotación, reproducción, distribución, comunicación pública y
+transformación.
+El que tiene este derecho puede exigir el derecho de remuneración por copia privada.
+ANSWER: C
+
+26 El Plan Estratégico Informático Departamental debe ser elaborado por:
+a)
+b)
+c)
+d)
+La Subsecretaría.
+La Comisión Ministerial de Administración Electrónica.
+Las Unidades de Informática del Ministerio.
+El Subdirector General de Informática.
+ANSWER: B
+
+27 Respecto al contenido del informe de auditoria, indicar cuál de las siguientes recomendaciones es correcta:
+a)
+b)
+c)
+d)
+El informe final de una auditoria sólo contendrá recomendaciones relativas a los incumplimientos o puntos débiles
+detectados en el área auditada.
+El informe final incluirá las alegaciones de los auditados, indicando la opinión de los auditores sobre ellas, y si no se
+incluyen las alegaciones, deberá indicarse el motivo.
+El informe final de una auditoria operativa debe contener la opinión de los auditores y sugerencias generales sobre cómo
+aplicar los controles para evaluar el funcionamiento del área auditada.
+En el informe final de una auditoria operativa se deben señalar las debilidades y fortalezas observadas en relación con los
+controles implementados en el área auditada.
+ANSWER: B
+
+28 Los Estados Miembros están obligados a garantizar, a través de ventanillas únicas, a los prestadores de servicios la posibilidad
+de llevar a cabo las declaraciones, notificaciones o solicitudes necesarias para la autorización por parte de las autoridades
+competentes. ¿En que Directiva se regula esta obligación?
+a)
+b)
+c)
+d)
+En la Directiva 2000/31/CE, relativa a determinados aspectos jurídicos del comercio electrónico en el mercado interior.
+No existe esta obligación por parte de los Estados Miembros, y por tanto ninguna Directiva la regula.
+En la Directiva 2006/31/CE, relativa a la armonización de las actividades de servicios con contenido económico en el
+mercado interior.
+En la Directiva 2006/123/CE, relativa a los servicios en el mercado interior.
+ANSWER: D
+
+29 Según la Decisión de la CEPT ECC/DEC/(04)08, un sistema WIFI en la banda de 5.470-5.725 Mhz debe tener una potencia
+isótropa radiada equivalente:
+a)
+b)
+c)
+d)
+Inferior o igual a 1 W.
+Superior a 1 W e inferior o igual a 2 W.
+Superior a 2 W e inferior o igual a 5 W.
+Superior a 5 W e inferior o igual a 10 W.
+ANSWER: A
+
+30 Un servidor web puede utilizar el mecanismo de "cookies" para:
+a)
+b)
+c)
+d)
+Extraer la dirección de correo de un usuario.
+Relacionar sucesivas conexiones de un cliente.
+Enviar un objeto al cliente cuando su copia caché está obsoleta.
+Enviar código embebido en la página HTML que se ejecutará en el cliente.
+ANSWER: B
+
+31 El proceso de kerning en un texto impreso:
+a)
+b)
+c)
+d)
+Es el proceso por el cual se van subdividiendo los elementos que componen una página en otros menores hasta llegar a
+los elementos mínimos, que son los caracteres.
+Es el proceso por el cual se elimina el espacio excesivo entre las letras.
+Es el proceso por el cual se corrige la inclinación de la página.
+Es el proceso que consiste en la división de un párrafo de texto en las diferentes líneas que lo componen.
+ANSWER: B
+
+32 El estándar WSDL:
+a)
+b)
+c)
+d)
+Es el protocolo para efectuar llamadas a métodos de objetos remotos mediante peticiones XML.
+Describe la interfaz de servicio
+Es el registro público de servicios.
+Es el protocolo de transporte.
+ANSWER: B
+
+33 La redocumentación es:
+a)
+b)
+c)
+d)
+Una forma de ingeniería inversa.
+Es el proceso mediante el que se produce documentación desde un sistema en desarrollo.
+Es el mismo concepto que humanware.
+Es la identificación de los componentes de un sistema y sus relaciones.
+ANSWER: A
+
+34 La accesibilidad universal:
+a)
+b)
+c)
+d)
+Es un principio recogido y definido en la legislación española.
+Es un término utilizado en la documentación sobre accesibilidad, pero no tiene una definición formal en España.
+Se trata de un concepto que sólo se aplica a las personas del medio rural.
+Es un concepto equivalente a la definición de usabilidad que se da en la ISO/IEC 9241.
+ANSWER: A
+
+35 La técnica JAD (Joint Application Design) para el análisis de requisitos:
+a)
+b)
+c)
+d)
+Consiste en la realización de entrevistas con diversas personas, elaborando un acta para cada entrevista que se les
+remitirá posteriormente para su aprobación.
+Consiste en realizar un taller donde los trabajadores del conocimiento y especialistas de TI se reúnen en diversas
+sesiones, a veces por varios días, para definir y revisar los requerimientos del negocio para el sistema.
+Define seis categorías de aspectos que el analista debe estudiar con los usuarios empleando para ello otras técnicas de
+análisis de requisitos.
+Es una técnica cuyo objetivo principal es realizar un control de versiones de un determinado producto software.
+ANSWER: B
+
+36 ¿Cuál de los siguientes términos corresponde a la tecnología que proporciona la infraestructura necesaria para la definición de
+servicios que puedan ser consumidos de manera uniforme sin conocer los detalles de los sistemas que los proporcionan?
+a)
+b)
+c)
+d)
+EAI Brokers (Enterprise Application Integration Brokers).
+UDDI (Universal Description, Discovery and Integration).
+CASE (Computer-Aided Software Engineering).
+ESB (Enterprise Service Bus).
+ANSWER: D
+
+37 La gestión del alcance de un proyecto de tecnologías de la información se suele dividir en 5 etapas; indicar cuál de las siguientes
+NO es una de ellas:
+a)
+b)
+c)
+d)
+Planificación del alcance.
+Creación de la Estructura de Desglose del Trabajo (EDT).
+Definición del alcance.
+Estimación de la duración de las actividades o trabajos.
+ANSWER: D
+
+38 El CCITT ha pasado a denominarse:
+a)
+b)
+c)
+d)
+UIT-T o ITU-T.
+CEPT.
+IEEE.
+ETSI.
+ANSWER: A
+
+39 Según el RD 951/2005 de 29 de julio, el nuevo marco general para la mejora de la calidad en la AGE incluye entre sus programas:
+a)
+b)
+c)
+d)
+Análisis de la demanda y evaluación de la satisfacción de los proveedores de los servicios públicos.
+Observatorio de la calidad de los servicios públicos.
+Quejas y reclamaciones.
+Evolución de la calidad de las organizaciones.
+ANSWER: B
+
+40 La norma ISO/IEC 15408 Evaluation Criteria for IT Security (informalmente conocida como Common Criteria):
+a)
+b)
+c)
+d)
+Establece una escala creciente de confianza en la seguridad del producto evaluado, que va desde el Evaluation
+Assurement Level (EAL) 0 al EAL 7.
+Establece perfiles de protección, que deben ser elaborados por ISO/IEC.
+Permite certificar sistemas, productos y algoritmos criptográficos.
+Figura como criterio de evaluación en la Orden PRE/2740/2007 por la que se aprueba el Reglamento de evaluación y
+certificación de la seguridad de las TI.
+ANSWER: D
+
+41 ¿Cuál de las siguientes utilidades NO se corresponde con software de código abierto?
+a)
+b)
+c)
+d)
+Thunderbird.
+Adobe Reader.
+OpenOffice.
+Firefox.
+ANSWER: B
+
+42 ¿Qué asociación entre organismos internacionales y europeos es la correcta?
+a)
+b)
+c)
+d)
+IEC-CENELEC, UIT-ETSI, ISO-CEN.
+IEC-CEN, ISO-CENELEC, ITU-ETSI.
+ISO-CEN, IEEE-IEC, ETSI-CENELEC.
+IEC-CENELEC, IEEE-ETSI, ISO-CEN.
+ANSWER: A
+
+43 [ANULADA] Respecto al protocolo Ipsec:
+a)
+b)
+c)
+d)
+Opcionalmente permite establecer una asociación de seguridad (SA, security association) con los algoritmos a usar y
+parámetros y claves a emplear.
+Comprende, entre otros, el protocolo AH (Authentication Header) que en modo transporte autentica tanto las cabeceras
+cómo la carga útil del paquete del nivel de transporte.
+Comprende, entre otros, el protocolo ESP (Encapsulating security protocol) que en modo túnel cifra todo el paquete del
+nivel de transporte.
+Incluye el protocolo IKE v.2, que permite a una de las partes generar una clave secreta y remitirla cifrada a la otra con la
+clave pública de ésta.
+ANSWER:
+
+44 Los servicios web son:
+a)
+b)
+c)
+d)
+Dependientes de la plataforma en que se encuentran desplegados y dependientes del lenguaje en que han sido
+desarrollados.
+Dependientes de la plataforma en que se encuentran desplegados e independientes del lenguaje en que han sido
+desarrollados.
+Independientes de la plataforma en que se encuentran desplegados y dependientes del lenguaje en que han sido
+desarrollados.
+Independientes de la plataforma en que se encuentran desplegados e independientes del lenguaje en que han sido
+desarrollados.
+ANSWER: D
+
+45 El modelo de capacidad y madurez (CMM, Capability Maturity Model) agrupa las áreas de proceso en 5 niveles de madurez, que
+son los siguientes:
+a)
+b)
+c)
+d)
+Inicial, repetible, definido, gestionado y optimizado.
+Inicial, repetible, eficaz, eficiente y optimizado.
+Inicial, definido, medido, adaptado y optimizado.
+Inicial, repetible, comprometido, gestionado y optimizado.
+ANSWER: A
+
+46 HTML está estandarizado por:
+a)
+b)
+c)
+d)
+World Wide Web Consortium - W3C.
+Internet Engineering Task Force - IETF.
+Institute os Management Accountants - IMA.
+International Accounting Standard Board - IASB.
+ANSWER: A
+
+47 Se ha establecido una conexión TCP sobre una red móvil celular. La red móvil sufre pérdidas frecuentes por errores de
+transmisión debidos a las características del acceso radio. El emisor TCP:
+a)Distingue entre pérdidas por errores de transmisión y pérdidas por congestión, aplicando procedimientos de recuperación
+diferentes.
+b)
+c)
+d)Sólo retransmite paquetes que se pierdan debido a congestión en la red.
+Indica al nivel de enlace que disminuya su tasa de envío.
+Interpreta las pérdidas debidas a errores de transmisión como congestión en la red, disminuyendo su tasa de envío.
+ANSWER: D
+
+48 Indicar cuál de los siguientes NO es un método ni un marco metodológico para estimar el esfuerzo de desarrollo en los proyectos:
+a)
+b)
+c)
+d)
+COCOMO II.
+FPA.
+ESTIM.
+ITEOR.
+ANSWER: C
+
+49 El creador de la técnica de modelado de objetos (OMT) fue:
+a)
+b)
+c)
+d)
+Pressman.
+Rumbaugh.
+Grady Booch.
+Kent Beck.
+ANSWER: C
+
+50 [ANULADA] XML es un lenguaje estándar que pertenece a la capa de:
+a)
+b)
+c)
+d)
+Presentación.
+Acceso de datos.
+Lógica de negocio.
+Kernel.
+ANSWER:
+
+51 NO figura entre los objetivos de las normas y procedimientos de seguridad:
+a)
+b)
+c)
+d)
+La adecuación a aspectos de accesibilidad, usabilidad y utilización de lenguas cooficiales.
+La confidencialidad, disponibilidad e integridad de la información.
+La necesidad de controles de acceso.
+La adecuación a normativa de la Agencia de Protección de Datos.
+ANSWER: A
+
+52 Cuando un sistema en una red local envía un datagrama IP a otro sistema en una subred distinta, utiliza el protocolo ARP para
+obtener:
+a)
+b)
+c)
+d)
+La dirección MAC del sistema final destino.
+La dirección IP del sistema final destino.
+La identificación del puerto TCP o UDP del sistema final destino.
+La dirección MAC del router.
+ANSWER: D
+
+53 NO corresponde actualmente a una infraestructura o servicio común de la Administración General del Estado:
+a)
+b)
+c)
+d)
+El servicio de verificación de datos de identidad o residencia.
+La pasarela de pagos telemáticos.
+La recepción de facturas electrónicas.
+La inscripción telemática en pruebas selectivas.
+ANSWER: C
+
+54 En IPv6, un datagrama enviado a una dirección de grupo de interfaces tipo "anycast" se encamina hacia:
+a)
+b)
+c)
+d)
+Todas las interfaces conectadas a la misma subred en donde se originó el datagrama.
+Aquellas interfaces en otras subredes diferentes de donde se originó el datagrama.
+Cualquier interfaz que se encuentre topológicamente en la subred más alejada.
+La interfaz más cercana (en términos de medida de distancia del protocolo de encaminamiento).
+ANSWER: D
+
+55 En relación con las metodologías ligeras de desarrollo de software, ¿cuál de las siguientes afirmaciones es correcta?
+a)
+b)
+c)
+d)
+Según el Manifiesto Ágil, las personas y su interacción deben prevalecer sobre una aplicación estricta de los procesos y
+las herramientas.
+Según el Manifiesto Ágil, el seguimiento del plan debe prevalecer sobre la respuesta al cambio.
+La versión 3 de MÉTRICA, que soporta tanto desarrollos estructurados como orientados a objetos, es un claro ejemplo de
+metodología ligera.
+La metodología RUP-Proceso Unificado de Rational es una metodología ligera.
+ANSWER: A
+
+56 En relación con la gestión de la calidad, ¿cuál de las siguientes afirmaciones es correcta?
+a)
+b)
+c)
+d)
+Actualmente existen 3 grandes modelos de calidad total: Deming, Malcom Baldrige y EFQM, de amplia aplicación en
+Estados Unidos, Japón y Europa respectivamente.
+El modelo EFQM consta de 9 criterios, de los cuales 5 son agentes y 4 son resultados.
+Los agentes del modelo EFQM son los siguientes: liderazgo, personas, procesos, política y alianzas.
+Los agentes del modelo EFQM son los siguientes: liderazgo, personas, procesos, estrategia y recursos.
+ANSWER: B
+
+57 Métrica 3 propone el uso de la técnica de análisis coste/beneficio en:
+a)
+b)
+c)
+d)
+Los procesos de Planificación y Desarrollo (subproceso ASI).
+Solamente en el proceso de Desarrollo (subprocesos EVS y ASI).
+Solamente en el proceso de Planificación.
+Los procesos de Planificación y Desarrollo (subproceso EVS).
+ANSWER: D
+
+58 [ANULADA] Acerca de los dispositivos de firma digital:
+a)
+b)Los basados en el DSS tardan menos en firmar, pero más en verificar la firma, que los basados en el RSA.
+c)
+d)Se denominan dispositivos de firma electrónica reconocida en la Ley 59/2003 de firma electrónica.
+Los implementados en un chip criptográfico (como el del DNI electrónico) firman el resumen (hash) previamente obtenido
+en dicho chip.
+Los que están basados en el DSS están normalizados por ISO/IEC.
+ANSWER:
+
+59 Según MÉTRICA versión 3, pueden identificarse 4 tipos de mantenimiento de sistemas de información, entre los que NO se
+encuentra:
+a)
+b)
+c)
+d)
+Mantenimiento adaptativo.
+Mantenimiento preventivo.
+Mantenimiento evolutivo.
+Mantenimiento correctivo.
+ANSWER: B
+
+60 ¿Cuál de las siguientes corresponde a una de las categorías de ordenadores contempladas en la taxonomía de Flynn?
+a)
+b)
+c)
+d)
+SIDI.
+SDSP.
+SIMD.
+MIMP.
+ANSWER: C
+
+61 ¿Cuál de los siguientes NO es un principio básico de todo modelo orientado a objetos según Booch?
+a)
+b)
+c)
+d)
+Distribución.
+Abstracción.
+Encapsulación.
+Modularidad.
+ANSWER: A
+
+62 El sistema operativo MSDOS es:
+a)
+b)
+c)
+d)
+Multiprocesador asimétrico.
+Multiprocesador simétrico.
+Multiusuario.
+Monoprocesador.
+ANSWER: D
+
+63 ¿Cuáles son las dimensiones de la interoperabilidad según el Marco Europeo de Interoperabilidad?
+a)
+b)
+c)
+d)
+Organizativa, semántica y técnica.
+Legal, semántica y económica.
+Organizativa, lingüística e informática.
+Ninguna, porque el Marco Europeo de Interoperabilidad no está todavía adoptado por la Comisión Europea.
+ANSWER: A
+
+64 El teorema de Nyquist establece que el número máximo de baudios que puede transmitirse por un canal:
+a)
+b)
+c)
+d)
+Puede ser superior al doble de su ancho de banda.
+No puede ser superior al doble de su ancho de banda.
+No tiene límite alguno.
+No puede ser superior al ancho de banda.
+ANSWER: B
+
+65 Acerca de las Autoridades de sellado de tiempo:
+a)
+b)Para expedir su certificado precisan conocer en su integridad el documento.
+c)
+d)En el modo de firma digital firman la concatenación de los mensajes a sellar con el tiempo.
+En el modo de registros encadenados aplican iterativamente una función resumen (hash) a la concatenación del resumen
+del mensaje a sellar con el resultado de la iteración anterior.
+No pueden ser simultáneamente Prestadores de Servicios de Certificación según la definición que de éstos da la Ley
+59/2003 de firma electrónica.
+ANSWER: B
+
+66 Por razón de su cuantía, ¿en qué contratos de objeto informático se precisa autorización del Consejo de Ministros para poder
+celebrar el contrato?
+a)
+b)
+c)
+d)
+Cuando su cuantía es igual o superior a 10 millones de euros.
+Cuando su cuantía es igual o superior a 12 millones de euros.
+Cuando su cuantía es igual o superior a 15 millones de euros.
+No se precisa autorización del Consejo de Ministros por motivos de cuantía en los contratos de objeto informático.
+ANSWER: B
+
+67 El lenguaje SQL92:
+a)
+b)
+c)
+d)
+Soporta la regla de integridad de entidad y en una tabla pueden existir dos filas iguales.
+Soporta la regla de integridad de entidad y en una tabla no pueden existir dos filas iguales.
+No soporta la regla de integridad de entidad y en una tabla pueden existir dos filas iguales.
+No soporta la regla de integridad de entidad y en una tabla no pueden existir dos filas iguales.
+ANSWER: A
+
+68 Indique cual de las siguientes es una característica de un servidor "blade".
+a)
+b)
+c)
+d)
+No contienen fuente de alimentación propia.
+Tiene prestaciones más bajas que un servidor tradicional.
+Solo se puede utilizar en entornos virtualizados.
+No tiene memoria propia.
+ANSWER: A
+
+69 ¿Cuál de los siguientes NO es un procedimiento adecuado para la consulta de la validez de un certificado digital emitido por un
+prestador de servicios de certificación?
+a)
+b)
+c)
+d)
+Declaración de prácticas de certificación.
+Listas de certificados revocados.
+LDAP.
+OCSP.
+ANSWER: A
+
+70 Una organización dispone para numerar su red del prefijo 192.168.1.0/24. Entonces:
+a)
+b)
+c)
+d)
+Podría dar a una de sus subredes el prefijo 190.18.1.0/20.
+Podría generar 16 prefijos, cada uno con capacidad para numerar 14 máquinas.
+Podría generar 8 prefijos, cada uno con capacidad para numerar 254 máquinas.
+Podría generar 4 prefijos, cada uno con capacidad para numerar 126 máquinas.
+ANSWER: B
+
+71 Indicar cuál de los siguientes NO está entre los objetivos que persigue MAGERIT v2:
+a)
+b)
+c)Ofrecer un método sistemático para analizar los riesgos que afectan a los sistemas de información.
+d)Preparar a las organizaciones para procesos de evaluación, auditoria, certificación o acreditación.
+Ayudar a descubrir y planificar las medidas oportunas para mantener los riesgos bajo control.
+Establecer una norma de obligado cumplimiento para todos los organismos de las Administraciones Públicas españolas a
+la hora de analizar y gestionar los riesgos.
+ANSWER: C
+
+72 Entre las técnicas y prácticas de educción de requisitos utilizadas en la ingeniería de requisitos NO se encuentra la siguiente:
+a)
+b)
+c)
+d)
+Brainstorming.
+Casos de uso.
+Método Albrecht.
+Prototipado.
+ANSWER: C
+
+73 Según la Ley 59/2003 de Firma Electrónica, los dispositivos seguros de creación de firma electrónica deben ofrecer al menos una serie de garantías ¿Cuál de las siguientes NO es una garantía exigida para dichos dispositivos?
+a) Que existe una seguridad razonable de que los datos utilizados para la generación de firma no pueden ser derivados de los de verificación de firma o de la propia firma.
+b) Que los datos utilizados para la generación de firma pueden producirse sólo una vez y aseguran razonablemente su secreto.
+c) Que el dispositivo de creación de firma esté certificado al menos con el nivel de seguridad EAL4+.
+d) Que los datos de creación de firma pueden ser protegidos de forma fiable por el firmante contra su utilización por terceros.
+ANSWER: C
+
+74 La competencia para la propuesta de planificación, gestión y administración del dominio público radioeléctrico, para la
+comprobación técnica de emisiones radioeléctricas, y para el control y la inspección de las telecomunicaciones, así como la
+aplicación del régimen sancionador en la materia, la tiene:
+a)
+b)
+c)
+d)
+La Dirección General de Telecomunicaciones.
+La Comisión del Mercado de las Telecomunicaciones.
+La Unión Internacional de Telecomunicaciones.
+Red.es.
+ANSWER: A
+
+75 El protocolo UDP proporciona servicios a las aplicaciones para:
+a)
+b)
+c)
+d)
+Controlar el flujo extremo a extremo.
+Eliminar paquetes duplicados.
+Multiplexar y demultiplexar.
+Reordenar paquetes.
+ANSWER: C
+
+76 Un diagrama de transición de estados:
+a) Describe el comportamiento dinámico del sistema de información mostrando cómo interactúan los objetos entre sí.
+b) Es un tipo de diagrama de interacción cuyo objetivo es describir el comportamiento dinámico del sistema de información haciendo énfasis en la secuencia de los mensajes intercambiados por los objetos.
+c) Consiste en la descomposición sucesiva de los procesos, desde un nivel general, hasta llegar al nivel de detalle necesario para reflejar toda la semántica que debe soportar el sistema en estudio.
+d) Representa los estados que puede tomar un componente o un sistema y muestra los eventos que implican el cambio de un estado a otro.
+ANSWER: D
+
+77 Señale cuál de las siguientes afirmaciones sobre "grid computing" es FALSA:
+a)
+b)
+c)
+d)
+La escalabilidad parametrizable es una característica muy importante de esta arquitectura.
+Son sistemas homogéneos.
+Los nodos no tienen que estar dedicados.
+Se puede conseguir cerca de un 100 % de utilización de la CPU.
+ANSWER: B
+
+78 La planificación de las redes radioeléctricas:
+a)
+b)
+c)
+d)
+La realiza cada operador, si bien debe presentarla para su aprobación a la Dirección General de Telecomunicaciones.
+La realiza cada operador, si bien debe presentarla para su aprobación al Ayuntamiento correspondiente.
+La realiza la Dirección General de Telecomunicaciones con objeto de no causar interferencias entre diferentes servicios.
+Se realiza en comisión paritaria entre el operador y la Dirección General de Telecomunicaciones con objeto de evitar
+interferencias entre diferentes servicios.
+ANSWER: A
+
+79 Indique cuál de las siguientes clasificaciones NO es aplicable a las etiquetas RFID (Radio Frecuency Identification):
+a)
+b)
+c)
+d)
+Activas.
+Pasivas.
+Hiperactivas.
+Semipasivas.
+ANSWER: C
+
+80 En un sistema de base de datos relacional, la regla de integridad de las entidades consiste en que:
+a)
+b)
+c)
+d)
+Una relación debe tener al menos una clave primaria.
+Ningún componente de la clave primaria de una relación puede aceptar nulos.
+La clave primaria de una relación es la única forma de identificar unívocamente a una tupla.
+Si existen varias claves candidatas, la clave primaria es la que tiene menos campos.
+ANSWER: B
+
+81 ¿Obliga la Ley 11/2007 a que los procedimientos se gestionen en su totalidad de forma electrónica?
+a)
+b)
+c)
+d)
+Sí obliga, ese es el objetivo fundamental de la Ley.
+No, la Ley no obliga a eso.
+Sí obliga, pero después del 31 de diciembre de 2009.
+Sí obliga a la Administración General del Estado, pero no a las Comunidades Autónomas por tener autonomía legal y funcional.
+ANSWER: B
+
+82 De acuerdo con la Ley 11/2007, ¿es posible la destrucción de documentos emitidos originalmente en soporte papel y de los que
+se haya hecho copia electrónica?
+a)
+b)
+c)
+d)
+Sí, la Ley lo permite, pero antes cada Administración debe regular los términos y condiciones de este proceso.
+Sí, la Ley lo permite, y no hace falta regular o establecer ninguna condición.
+No, la Ley no lo permite, porque los documentos en soporte papel están protegidos por ser Patrimonio Histórico Administrativo.
+Sí, la Ley lo permite, pero sólo los documentos no firmados y que no reconozcan derechos subjetivos.
+ANSWER: A
+
+83 ¿Puede la Agencia de Protección de Datos, en el ejercicio de sus competencias, inspeccionar un fichero de titularidad pública de un Ministerio, examinando además el equipo o equipos físicos en el que se halle el fichero?
+a) No, porque carece de competencias sobre ficheros de titularidad pública, y sólo puede inspeccionar los de titularidad privada.
+b) No, porque los Ministerios son autoridades públicas y solo pueden ser inspeccionados por la Inspección General de Servicios del Ministerio de la Presidencia.
+c) Sí, puede hacer la inspección, pero sólo si lo solicita el Ministerio correspondiente, no siendo admisible una inspección de oficio.
+d) Sí, puede hacer la inspección conforme a sus competencias.
+ANSWER: D
+
+84 Un navegador web que tenga que acceder al objeto http://orga.net:5050/imagen.jpg, interrogará al servidor local de DNS:
+a)
+b)
+c)
+d)
+Sobre el registro de tipo NS correspondiente al nombre orga.net.
+Sobre el registro de tipo A correspondiente al nombre orga.net.
+Sobre el registro de tipo NET correspondiente al nombre orga.net en cualquier puerto.
+Sobre el registro de tipo SRV correspondiente al nombre orga.net en el puerto 5050.
+ANSWER: B
+
+85 Por vía electrónica en España, pueden celebrarse los siguientes tipos de contratos:
+a)
+b)
+c)
+d)
+Todos.
+Ninguno
+Todos excepto los relativos al derecho de familia y sucesiones (adopciones, matrimonio, testamento).
+Sólo los relativos a comercio electrónico.
+ANSWER: C
+
+86 ¿Qué son las técnicas esteganográficas?
+a)
+b)
+c)
+d)
+Son técnicas de firma electrónica, tipo XMLDSig.
+Son técnicas dirigidas a ayudar en las auditorias informáticas y en particular en la optimización de los sistemas de impresión.
+Son técnicas de diseño asistido por ordenador y enfocadas a la producción de material gráfico.
+Son técnicas dirigidas al ocultamiento de mensajes u objetos dentro de otros.
+ANSWER: D
+
+87 El acrónimo RSS responde a:
+a)
+b)
+c)
+d)
+Rich Site Summary.
+RDF Site Summary.
+Really Simple Syndication.
+Todos los anteriores.
+ANSWER: D
+
+88 De los siguientes pares de términos referidos al control de calidad, indique cuál contiene dos conceptos equivalentes:
+a)
+b)
+c)
+d)
+Prevención e inspección.
+Causas comunes y causas aleatorias.
+Muestreo por atributos y muestreo por variables.
+Tolerancias y límites de control.
+ANSWER: B
+
+89 Si contratamos la adquisición de un programa de ordenador a medida, ¿qué tipo de contrato es?
+a)
+b)
+c)
+d)
+Un contrato de suministro.
+Un contrato de servicios.
+Un contrato mixto.
+Un contrato de desarrollo de un servicio público.
+ANSWER: B
+
+90 Una red de área de almacenamiento (SAN) es:
+a)
+b)
+c)
+d)
+Una red especial utilizada por algunos proveedores de servicios en internet para ofrecer servicios dinámicos de
+almacenamiento y mantenimiento de webs corporativas.
+Una red basada en conexiones de fibra óptica (Fibre Channel) que sirve para conectar múltiples dispositivos de
+almacenamiento en una red más grande ofreciendo una mayor capacidad de almacenamiento, permitiendo la transmisión
+de datos a alta velocidad.
+Un bus de datos utilizados en los grandes sistemas departamentales, muy utilizado para comunicar las consultas hacia
+las bases de datos.
+Un dispositivo de almacenamiento con dirección IP asignada que se conecta directamente a una LAN.
+ANSWER: B
+
+91 En la arquitectura Java, ¿qué se entiende por JSR?
+a)
+b)Un applet.
+c)Es una especificación que describe la manera en que la parte servidora atenderá las peticiones hechas por un applet o un
+javascript. Es el acrónimo de Java Server Request.
+Un JavaBean.
+d)
+Es una especificación en la que se describe una tecnología, sus partes, las relaciones entre las mismas y los roles de las
+personas que usarán dicha tecnología.
+ANSWER: B
+
+92 Cuando puntuamos criterios de diferentes alternativas y nos referimos al umbral de saciedad, entendemos por tal:
+a)
+b)
+c)
+d)
+El valor que debe cumplir la puntuación de un criterio para ser considerado aceptable. por tanto es el mínimo exigido.
+El valor de un criterio a partir del cual no se obtiene una utilidad adicional, por lo que su exceso no es tenido en cuenta.
+Un valor ordinal definido por el evaluador conforme a una escala subjetiva.
+Un método de limitación de la asignación de puntuaciones mediante entropía. Se dice entonces que el criterio está
+saciado.
+ANSWER: B
+
+93 En un diagrama de flujo de datos:
+a)
+b)
+c)
+d)
+Un almacén puede realizar un flujo de datos tanto con otro almacén como con un proceso.
+Un almacén puede realizar un flujo de datos tanto con una entidad externa como con un proceso.
+Un almacén sólo puede realizar un flujo de datos con un proceso.
+Un proceso sólo puede realizar un flujo de datos con un almacén.
+ANSWER: C
+
+94 La creación de una vista lógica unificada de los datos, aún cuando éstos estén dispersos entre varias bases de datos físicas,
+para así disponer de un único modelo de trabajo de los datos de la organización, es una manera de definir a:
+a)
+b)
+c)
+d)
+Un almacén de datos.
+Un sistema OLAP.
+Un sistema de información a la dirección.
+Una base de datos.
+ANSWER: A
+
+95 ADO.NET es:
+a) Un conjunto de componentes software de la capa de lógica de negocio.
+b) Un lenguaje de programación para el entorno .NET.
+c) Un conjunto de componentes para el acceso a datos.
+d) Una biblioteca de clases básica de la capa de presentación.
+ANSWER: C
+
+96 Los documentos denominados "Pautas de Accesibilidad al Contenido en la Web" (WCAG por sus siglas en inglés) explican cómo hacer que el contenido web sea accesible para personas con discapacidad. Indicar cuál de las siguientes afirmaciones es FALSA en relación con estos documentos:
+a)
+b)
+c)
+d)
+Las pautas WCAG están pensadas principalmente para desarrolladores.
+Las pautas WCAG 2.0 se organizan en 4 principios básicos: perceptible, operable, comprensible y robusto.
+La última versión documentada y reconocida de las pautas WCAG es la 3.0.
+Una diferencia entre las pautas WCAG 1.0 y las pautas WCAG 2.0 es que estas últimas son aplicables a una gama más
+amplia de tecnologías de contenido web.
+ANSWER: c
+
+97 WebDav es:
+a)
+b)
+c)
+d)
+Un estándar para la descripción de servicios web.
+Un protocolo para la edición distribuida de archivos.
+Un grupo de trabajo de la W3C para la definición de arquitecturas de servicios web.
+Una herramienta de CRM basada en software libre.
+ANSWER: b
+
+98 Indique la opción FALSA. Dentro del servicio universal definido por la Ley 32/2003, General de Telecomunicaciones, se debe
+garantizar:
+a)
+b)
+c)
+d)
+El acceso funcional a internet a velocidad suficiente.
+Una guía general de números de abonados.
+Una cobertura suficiente que permita el acceso a la red de telefonía móvil.
+Una oferta suficiente de teléfonos públicos de pago en todo el territorio nacional.
+ANSWER: C
+
+99 Linux se genera inspirándose en:
+a)
+b)
+c)
+d)
+Unix y MINIX.
+Unix y Windows.
+MINIX y Windows.
+Unix y OS/360 IBM.
+ANSWER: A
+
+100 Acerca del protocolo Kerberos v. 5 (IETF RFC 4120):
+a) Los tickets expiran tras un tiempo predeterminado en el protocolo.
+b) El servidor de autenticación cifra el ticket que remite al cliente con una clave que obtiene a partir del nombre y la contraseña del usuario.
+c) Tiene extensiones que permiten el empleo de criptografía de clave pública y secreta.
+d) Utiliza los algoritmos de cifrado bajo el modo de operación denominado CBC (Cipher block chaining).
+ANSWER: A
