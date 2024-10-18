@@ -425,7 +425,7 @@ def exam_to_yaml(exam2, output_fullpath):
         yaml.dump(exam2, f, allow_unicode=True, sort_keys=False)
 
 
-start_browse_path = '../../../data/processed/1166/test/'
+start_browse_path = '../../../data/processed/es_age_1166/test/'
 folders = browse_aiken_fullpaths(start_browse_path)
 
 

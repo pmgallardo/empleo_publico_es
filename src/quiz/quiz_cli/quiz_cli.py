@@ -122,7 +122,10 @@ class QuizQuestionPart:
                 text += q.statement + "\n"
                 for j, option in enumerate(q.options):
                     text += number_to_letter(j+1) + ") " + option + "\n"
-                text += "Respuesta correcta: " + number_to_letter(q.correct_answer_no) + "\n"
+                if q.correct_answer_no != 0:
+                    text += "Respuesta correcta: " + number_to_letter(q.correct_answer_no) + "\n"
+                else:
+                    text += "No hay respuesta para esta pregunta" + "\n"
                 text += "\n"
             text += "\n"
         else:
@@ -138,8 +141,9 @@ class QuizQuestionGroup:
             self.parts = parts
 
         self.body = None
-        self.call = None
         self.source = None
+        self.call = None
+        self.mode = None
         self.date = None
 
     def append_part(self, part):
@@ -156,11 +160,11 @@ class QuizQuestionGroup:
         return text
 
 class QuizQuestionPool:
-    def __init__(self):
+    def __init__(self, assessment_id):
         # A quiz question group can be assimilated generally as an "exam".
         self.question_groups = []
 
-        self.load_exams()
+        self.load_exams(assessment_id)
 
     def get_text(self):
         text = ""
@@ -179,14 +183,15 @@ class QuizQuestionPool:
             # Read the remaining lines into a list
             return [line for line in reader]
 
-    def load_exams(self):
+    def load_exams(self, assessment_id):
         # This function could be separated into crawl_exams() and parse_exams
 
         # Read exam overview file (exam.csv)
-        exam_lines = self.read_csv("../data/processed/1166/test/exam.csv")
+        exam_lines = self.read_csv("../data/processed/" + assessment_id + "/test/exam.csv")
 
         # Obtain extra exam modality information (exam_mod.csv)
-        exam_mod_lines = self.read_csv("../data/processed/1166/test/exam_mod.csv")
+        if assessment_id == "es_age_1166":
+            exam_mod_lines = self.read_csv("../data/processed/" + assessment_id + "/test/exam_mod.csv")
 
         for exam_line in exam_lines:
             body_id = exam_line[0]
@@ -195,6 +200,7 @@ class QuizQuestionPool:
             source_id = exam_line[1]
             call_id = exam_line[2]
             exam_date = exam_line[3]
+            mode = exam_line[4]
 
             # Generate exam folder path
             exam_folder_path = "../data/processed/"
@@ -202,7 +208,10 @@ class QuizQuestionPool:
             exam_folder_path += "test/"
             exam_folder_path += source_id + "/"
             exam_folder_path += call_id + "/"
+            if mode != "":
+                exam_folder_path += mode + "/"
             exam_folder_path += exam_date + "/"
+
 
             # Identify exam files within exam folder
             # Get the full paths of all .aiken files in the directory
@@ -218,6 +227,7 @@ class QuizQuestionPool:
                 question_group.body = body_id
                 question_group.call = call_id
                 question_group.source = source_id
+                question_group.mode = mode
                 question_group.date = exam_date
 
                 # PENDING Add extra exam modality information (like score), if available
@@ -257,6 +267,9 @@ class QuizQuestionPool:
         cur_q_item = ""
         # Parse questions
         for i, line in enumerate(lines):
+            if i==0:
+                print(line)
+
             # Ignore empty lines between questions
             if line != "" or question is not None:
                 # If question is not started
@@ -276,7 +289,7 @@ class QuizQuestionPool:
                     answer_pattern = rf"^{re.escape('ANSWER')}:"
 
                     if re.match(option_pattern, line) or re.match(answer_pattern, line):
-                        # Save previous item element, whether it is a statement or question
+                        # Save previous item element, whether it is a statement or option
                         if question.has_statement():
                             question.append_option(cur_q_item)
                             dbgt(" > Append option: " + cur_q_item)
@@ -298,6 +311,7 @@ class QuizQuestionPool:
                             # Get the answer value, removing the end of line character
                             line_wo_answer_head = re.sub(answer_pattern, '', line).strip()
                             # If there is an answer
+                            print(i)
                             if line_wo_answer_head != "":
                                 correct_answer_no = letter_to_number(line_wo_answer_head)
                                 question.set_correct_answer_no(correct_answer_no)
@@ -408,16 +422,22 @@ class QuizQuestionPool:
             text += f"{q_group.body} {q_group.call} {q_group.source} {q_group.date}\n"
         return text
 
-    def get_quiz_by_exam(self, body, call, source, date, mode):
+    def get_quiz_by_exam(self, body, call, source, mode, date):
         # Browse all exams and see which one matches.
         for q_group in self.question_groups:
             if q_group.body is not None and q_group.call is not None and q_group.source is not None and q_group.date is not None:
-                if str(body) == str(q_group.body) and str(call) == str(q_group.call) and str(source) == str(q_group.source) and str(date) == str(q_group.date):
-                    quiz_group = q_group
+                if mode == "":
+                    if str(body) == str(q_group.body) and str(call) == str(q_group.call) and str(source) == str(q_group.source) and str(date) == str(q_group.date):
+                        quiz_group = q_group
 
-                    quiz = AGEQuiz(q_group, True)
-                    return quiz
+                        quiz = AGEQuiz(q_group, True)
+                        return quiz
+                else:
+                    if str(body) == str(q_group.body) and str(call) == str(q_group.call) and str(source) == str(q_group.source) and str(mode) == str(q_group.mode) and str(date) == str(q_group.date):
+                        quiz_group = q_group
 
+                        quiz = AGEQuiz(q_group, True)
+                        return quiz
         return
 
     def get_quiz_by_topic(self, body, topic_call, topic, take_non_official_exams):
@@ -574,24 +594,24 @@ class AGEQuiz:
 
                     for j, question in enumerate(questions):
                         # Loop all questions
+                            # Display statement
+                            printt("\nPREGUNTA " + str(j + 1) + "/" + str(len(questions)))
+
                             # Check whether question is cancelled, has no answer os is reserve
                             if question.is_cancelled:
                                 num_cancelled_qs[i] += 1
-                                printt("PREGUNTA ANULADA")
+                                printt("! PREGUNTA ANULADA !")
                             else:
-                                if not question.has_answer:
+                                if not question.has_answer():
                                     num_cancelled_qs[i] += 1
                                     printt("PREGUNTA SIN RESPUESTA, SE CONSIDERA NULA")
                                 elif question.is_reserve:
                                     num_reserve_qs[i] += 1
 
-                            # Display statement
-                            printt("\nPREGUNTA " + str(j + 1) + "/" + str(len(questions)))
-
                             # Display options
                             printt(question.get_statement_and_options_text())
 
-                            if question.has_answer:
+                            if question.has_answer():
                                 # Prompt answer
                                 player_option = input("Introduzca respuesta [A-D]: ")
 
@@ -614,6 +634,10 @@ class AGEQuiz:
 
                                     correct_option_letter = number_to_letter(correct_option_no).upper()
                                     printt("Incorrecto. La respuesta correcta era " + correct_option_letter + ".")
+                            else:
+                                # Prompt answer
+                                player_option = input("Introduzca respuesta [A-D]: ")
+                                printt("La pregunta no tiene respuesta. Se contabiliza como nula.")
                 else:
                     printt(f"ERROR: La parte {i+1} del exámen generado no tiene preguntas.")
         else:
@@ -978,11 +1002,8 @@ def quiz_select():
     # Display title
     print_title()
 
-    # Initialize question pool
-    question_pool = QuizQuestionPool()
-
     # default values
-    default_body_id = "1166"
+    default_assessment_id = "1166"
     # It may happen that the most recent call's topic set is different to the preparation material's, because the
     # latter uses an outdated one. Because students spend much time with the preparation material, it may happen that
     # they are more familiar with this set, though outdated. Considering this situation, two different call values
@@ -1003,17 +1024,49 @@ def quiz_select():
         if default_conf_input == 'S' or default_conf_input == '':
             pass
             # Load default configuration
-            body_id = default_body_id
+            assessment_id = default_assessment_id
 
         else:
             # Read all Spain's AGE bodies
             # Prompt body ID
-            # printt("")
+            printt("")
             # printt("LISTADO DE CUERPOS DE LA AGE")
-            # printt("[1166] CSSTIAE - Cuerpo Superior de Sistemas y Tecnologías de la Información")
+            printt("PROCESOS DE EVALUACIÓN")
+
+            # Read assessment file
+            path = Path("../data/processed/")
+            filename = "assessments.csv"
+            assessments = read_csv(path / filename)
+
+            # List assessments
+            num_assessments = len(assessments)
+            assessments_options = []
+            for i, assessment in enumerate(assessments):
+
+                aid = assessment[0]
+                asname = assessment[1]
+                alname = assessment[2]
+                abodysname = assessment[3]
+                abodylname = assessment[4]
+                assessments_options.append(assessment)
+
+                printt(f"[{i+1}] {abodysname} - {asname}")
+
+            printt("")
+            assessment_num_input = input("Seleccione un proceso de evaluación [defecto: CSSTIAE]: ")
+
+            if assessment_num_input == "":
+                ch_assessment_ind = 0
+            else:
+                ch_assessment_ind = int(assessment_num_input) - 1
+
+                # printt("[1166] CSSTIAE - Cuerpo Superior de Sistemas y Tecnologías de la Información")
             # printt("")
             # body_id = input(f"Introduza código de cuerpo (defecto: {default_body_id}): ")
-            body_id = default_body_id
+            assessment_id = assessments[ch_assessment_ind][0]
+
+            # Initialize question pool
+            question_pool = QuizQuestionPool(assessment_id)
 
             # Prompt call
             # ref_call = input(f"Introduza año de convocatoria de referencia (defecto: {default_ref_call}): ")
@@ -1035,13 +1088,13 @@ def quiz_select():
                 practice_type = 'E'
 
             if practice_type == 'E':
-                select_exam(body_id, most_recent_call, mode, question_pool)
+                select_exam(assessment_id, most_recent_call, mode, question_pool)
             elif practice_type == 'T':
-                select_topic(body_id, default_prep_call, mode, question_pool)
+                select_topic(assessment_id, default_prep_call, mode, question_pool)
             elif practice_type == 'B':
-                select_block(body_id, most_recent_call, mode, question_pool)
+                select_block(assessment_id, most_recent_call, mode, question_pool)
             elif practice_type == 'S':
-                select_stats(body_id, default_prep_call, question_pool)
+                select_stats(assessment_id, default_prep_call, question_pool)
             elif practice_type == 'Q':
                 user_wants_another_quiz = False
             else:
@@ -1077,6 +1130,7 @@ def select_exam(body_id, def_call, mode, question_pool):
         esource = exam[1]
         ecall = exam[2]
         edate = exam[3]
+        emode = exam[4]
 
         add_exam = True
         if str(body_id) == ebody:
@@ -1085,8 +1139,12 @@ def select_exam(body_id, def_call, mode, question_pool):
                 add_exam = False
             if add_exam:
                 option_num = str(len(exam_options) + 1).rjust(len(str(num_exams)))
-                exam_options.append([ebody, esource, ecall, edate])
-                print(f"[{option_num}] - {ebody}.{esource}.{ecall}.{edate}")
+                exam_options.append([ebody, esource, ecall, emode, edate])
+
+                if emode == "":
+                    printt(f"[{option_num}] - {ebody}.{esource}.{ecall}.{edate}")
+                else:
+                    printt(f"[{option_num}] - {ebody}.{esource}.{ecall}.{emode}.{edate}")
 
     # Prompt exam number
     if len(exam_options) > 0:
@@ -1101,10 +1159,11 @@ def select_exam(body_id, def_call, mode, question_pool):
         ch_body = ch_exam[0]
         ch_source = ch_exam[1]
         ch_call = ch_exam[2]
-        ch_date = ch_exam[3]
+        ch_mode = ch_exam[3]
+        ch_date = ch_exam[4]
 
         # Create
-        quiz = question_pool.get_quiz_by_exam(ch_body, ch_call, ch_source, ch_date, mode)
+        quiz = question_pool.get_quiz_by_exam(ch_body, ch_call, ch_source, ch_mode, ch_date)
         # quiz.shuffle()
 
         # Play quiz

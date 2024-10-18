@@ -1,0 +1,371 @@
+BLOQUE III
+1. ¿Cuál de las siguientes NO es una característica del modelo de ciclo de vida en cascada?
+a) Fue un modelo definido por Winston W. Royce.
+b) Es un modelo que permite reaccionar a los cambios en los requisitos.
+c) Funciona bien en productos maduros y equipos débiles.
+d) Hasta las etapas finales del proyecto no ofrece una versión operativa del programa.
+ANSWER: B
+
+2. ¿Cuál de las siguientes opciones incluye todas las fases del modelo de ciclo de vida RAD (Rapid Application Development)?
+a) Modelado de provisión, Modelado de entidades, Modelado de relaciones, Generación de aplicaciones y Pruebas de entrega.
+b) Modelado de gestión, Modelado de entidades, Modelado de relaciones, Generación de aplicaciones y Pruebas de entrega.
+c) Modelado de gestión, Modelado de datos, Modelado de procesos, Generación de aplicaciones y Pruebas de entrega.
+d) Modelado de gestión, Modelado de datos, Generación de aplicaciones, Pruebas de desarrollo y Pruebas de entrega.
+ANSWER: C
+
+3. Con respecto a la metodología ágil Kanban, ¿cuál de las siguientes afirmaciones es correcta?
+a) Las iteraciones deben ser de tiempo fijo siempre.
+b) No permite trabajar en múltiples productos simultáneamente.
+c) Prescribe los roles siguientes de modo obligatorio: dueño del producto y equipo.
+d) Limita el número de elementos al mismo tiempo en un estado del flujo de trabajo.
+ANSWER: D
+
+4. Una práctica frecuente asociada al modelo de Proceso Unificado de Desarrollo es el "timeboxing", ¿en qué consiste?.
+a) Enfoque para identificar casos de uso y determinar el nivel de granularidad apropiado.
+b) Modelo de planificación adaptativa para ganar tiempo.
+c) Asignación de un periodo de tiempo fijo para la ejecución de una iteración.
+d) Utilizar casos de usos temporales para captar requisitos funcionales.
+ANSWER: C
+
+5. En el modelo de proceso Scrum para desarrollo ágil de sistemas software, ¿qué es el backlog de producto?
+a) La lista detallada de requisitos seleccionados para implementación en un Sprint.
+b) Un gráfico que muestra el trabajo pendiente en un Sprint.
+c) La lista priorizada de requisitos de alto nivel pendientes de implementación.
+d) La tabla con los requisitos ya implementados.
+ANSWER: C
+
+6. ¿Cuál de las siguientes NO es una metodología de desarrollo?
+a) MERISE.
+b) SDM (Structured Development Method).
+c) RUP (Rational Unified Process).
+d) SCRUM.
+ANSWER: B
+
+7. En el PERT, el tiempo last del último suceso:
+a) Es siempre cero.
+c) Es mayor que su tiempo early.
+b) Es igual a su tiempo early.
+d) Es menor que su tiempo early.
+ANSWER: B
+
+8. En Métrica 3, el "técnico de sistemas" está incluido en el perfil:
+a) Consultor.
+b) Analista.
+c) Programador.
+d) Jefe de Proyecto.
+ANSWER: A
+
+9. ¿Cuál de las siguientes reglas puede aplicarse para determinar el esfuerzo total de un proyecto en la fase de estimación del mismo?
+a) Regla del 80-20.
+b) Regla del 30-40-30.
+c) Regla del 40-20-40.
+d) Regla del 20-60-20.
+ANSWER: C
+
+10. En Métrica v3 las actividades de la Interfaz de Gestión de Proyectos se dividen en los siguientes grupos:
+a) Actividades de Comienzo del Proyecto, Actividades de Seguimiento y Control y Actividades de Aceptación.
+b) Actividades de Planificación del Proyecto, Actividades de Control de proyectos y Actividades de Aceptación.
+c) Actividades de Inicio del Proyecto, Actividades de Seguimiento y Control y Actividades de Finalización.
+d) Actividades de Inicio del Proyecto, Actividades de Control de Calidad y Actividades de Cierre.
+ANSWER: C
+
+11. Dentro de la actividad Inicio del Plan de Sistemas de Información (PSI) de Métrica v3, indique los participantes y técnicas/prácticas correctas para la tarea Análisis de la necesidad del PSI (PSI 1.1):
+a) Comité de Dirección y Sesiones de trabajo.
+b) Jefe de Proyecto del PSI y Sesiones de trabajo.
+c) Directores de Usuarios y Catalogación.
+d) Comité de Dirección y Factores críticos de éxito.
+ANSWER: A
+
+12. Indicar cuál de los siguientes diagramas se emplea para capturar los requisitos funcionales de un sistema y expresarlos desde el punto de vista del usuario según Métrica v3:
+a) Diagrama de secuencia.
+b) Diagrama de colaboración.
+c) Diagrama de clases.
+d) Diagrama de Casos de Uso.
+ANSWER: D
+
+13. Señale en qué nivel de aislamiento, definido en ANSI/ISO SQL, puede ocurrir el problema de lecturas sucias en un sistema gestor de bases de datos relacional (SGDBR):
+a) Serializable.
+b) Repeatable Read (lecturas repetibles).
+c) Read Committed (lecturas comprometidas).
+d) Read Uncommitted (lecturas no comprometidas).
+ANSWER: D
+
+14. ¿Cuál de las siguientes afirmaciones sobre los Diagramas de Flujo de Datos (DFD) es correcta?
+a) Son elementos propios de este diagrama: entidades externas, procesos, almacenes de datos y flujos de datos.
+b) Son elementos propios de este diagrama: entidades, atributos, relaciones y jerarquías.
+c) Son elementos propios de este diagrama: diccionarios de datos, módulos, procesos y flujos.
+d) Se trata de una técnica que se emplea en la fase de Diseño del Sistema de Información (DSI) de Métrica v3.
+ANSWER: A
+
+15. En la Interfaz de Gestión de Proyectos de MÉTRICA v3, señale entre los siguientes un producto correcto de salida que tiene la tarea "GPI 1.1, identificación de elementos a desarrollar" en el caso de desarrollo estructurado:
+a) Planificación General del Proyecto: Estrategia de desarrollo estructurado.
+b) Catálogo de productos a generar.
+c) Catálogo de clases.
+d) Catálogo de entidades.
+ANSWER: D
+
+16. Según Métrica v3, los flujos de datos de tipo diálogo, que comunican procesos con almacenes en un DFD (diagrama de flujo de datos) son aquellos que:
+a) Representan la utilización de los valores de uno o más campos de un almacén o la comprobación de que los valores de los campos seleccionados cumplen unos criterios determinados.
+b) Representan una consulta y una actualización entre el proceso y el almacén.
+c) Representan la alteración de los datos de un almacén como consecuencia de la creación de un nuevo elemento, por eliminación o modificación de otros ya existentes.
+d) Representan un trigger programado entre el proceso y el almacén.
+ANSWER: B
+
+17. Señale cuál de las siguientes afirmaciones sobre la arquitectura ANSI/SPARC es correcta:
+a) El nivel externo también recibe el nombre de nivel físico.
+b) El nivel interno también recibe el nombre de nivel lógico.
+c) El nivel externo define los datos que se almacenan en la base de datos y las relaciones entre ellos.
+d) El nivel externo contiene las vistas externas de la base de datos y permite ver a cada tipo de usuario sólo aquella parte del esquema que es de su interés.
+ANSWER: D
+
+18. Indique cuál de las siguientes afirmaciones sobre el proceso de creación del Modelo Relacional es cierta:
+a) El proceso de normalización de bases de datos consiste en aplicar una serie de reglas a las relaciones obtenidas tras el paso del Diccionario de Flujo de Datos (DFD) al Modelo Relacional.
+b) Una clave compuesta es aquella columna que siendo clave primaria de una tabla, se incluye como columna dependiente en otra tabla.
+c) Una clave ajena es aquella que podría haber sido seleccionada como clave primaria de la tabla por identificar de forma única a la fila a la que pertenece, pero no lo ha sido.
+d) Una clave alternativa es aquella que podría haber sido seleccionada como clave primaria de la tabla por identificar de forma única a la fila a la que pertenece, pero no lo ha sido.
+ANSWER: D
+
+19. ¿Cuál de las siguientes afirmaciones sobre el proceso de normalización del Modelo Relacional es cierta?
+a) Existen sólo un total de 3 Formas Normales: 1FN, 2FN y 3FN.
+b) Una tabla está en 2FN cuando se demuestra que existe dependencia funcional del resto de columnas de la tabla con respecto a la clave primaria.
+c) Una tabla está en 1FN cuando se demuestra que existe dependencia funcional completa del resto de columnas de la tabla con respecto a la clave primaria.
+d) Una tabla que está en 1FN tiPágina 6 de 13ene el máximo grado de normalización y, por tanto, cumple también la Segunda y Tercera Forma Normal.
+ANSWER: B
+
+20. En la teoría de bases de datos relacionales, cuanto más alta sea la forma normal aplicable a una tabla:
+a) Menor será la cohesión relacional.
+b) Menor será el acoplamiento relacional.
+c) Menos vulnerable será a inconsistencias y anomalías.
+d) Más vulnerable será a inconsistencias y anomalías, pero será más eficiente.
+ANSWER: C
+
+21. ¿Cuál de las siguientes afirmaciones sobre los Tipos Abstractos de Datos (TAD) es correcta?
+a) Los TAD describen datos simples abstractos en función de las operaciones que pueden efectuar, dejando a un lado su implementación.
+b) Las listas son TAD caracterizados por incluir elementos homogéneos relacionados linealmente, con un antecesor y un sucesor, a excepción del primer y último elemento, salvo en el caso de listas circulares.
+c) Los árboles son TAD en los que cada nodo se caracteriza por su grado de entrada (número de arcos que llegan al nodo) y su grado de salida (número de arcos que salen del nodo). Existen árboles dirigidos y no dirigidos.
+d) Dado un grafo, el orden del mismo es el número mayor de arcos o aristas de sus nodos.
+ANSWER: B
+
+22. Señale la afirmación INCORRECTA en relación a los árboles de búsqueda AVL:
+a) Son un tipo de árbol de búsqueda binario.
+b) Para cada uno de los nodos, la diferencia de altura entre sus dos subárboles no puede ser superior a uno.
+c) Los árboles AVL menos profundos son los árboles de Fibonacci.
+d) Un árbol de Fibonacci es el árbol AVL más desbalanceado permitido.
+ANSWER: C
+
+23. ¿Cuál de los siguientes algoritmos de ordenación consiste en recorrer la lista comparando y ordenando los elementos adyacentes de dos en dos?
+a) Burbuja (BubbleSort).
+b) Selección.
+c) Inserción.
+d) Rápido (QuickSort).
+ANSWER: A
+
+24. En teoría de colas, el modelo de disciplina de cola denominado RSS se refiere a que:
+a) Se atiende primero al cliente que antes haya llegado.
+b) Selecciona a los clientes de manera aleatoria, de acuerdo a algún procedimiento de prioridad o a algún otro orden.
+c) Sirve a los clientes igualmente, se reparte un espacio de tiempo a cada cliente.
+d) Se atiende primero al cliente que ha llegado el último.
+ANSWER: B
+
+25. Empleando el algoritmo más simple de la burbuja (Bubble Sort), en caso de querer ordenar un array de 10 elementos, ¿cuántas pasadas sería necesario realizar?
+a) 10
+b) 5
+c) 11
+d) 9
+ANSWER: D
+
+26. De las siguientes herramientas de teleaprendizaje para formación de usuarios y personal técnico, indique cuál es de software propietario:
+a) Catedr@.
+b) Dokeos.
+c) Moodle.
+d) Claroline.
+ANSWER: A
+
+27. En relación a las pruebas de integridad de software, si hablamos de integración tipo sandwich nos referimos a que:
+a) Los módulos se integran en grupos que constituyen una funcionalidad identificada.
+b) Se identifica el nivel de riesgo asociado a cada módulo, los de riesgo alto se integran primero y los de menor riesgo se integran más tarde.
+c) A medida que se integran los módulos, se realizan pruebas para capturar y corregir nuevos errores, es decir, empezando por los componentes que llaman a otros componentes.
+d) Primero se integran los módulos de alto nivel y de control y, después, los módulos de bajo nivel. Los módulos intermedios se integran al final.
+ANSWER: D
+
+28. ¿Cuál de las siguientes normas define un estándar para pruebas de software?
+a) ISO 29781
+b) ISO 29621
+c) ISO 29382
+d) ISO 29119
+ANSWER: D
+
+29. Señale qué software NO está relacionado con las pruebas del software de aplicaciones web:
+a) Badboy.
+b) Selenium.
+c) Jmeter.
+d) Cherokee.
+ANSWER: D
+
+30. Para poder realizar pruebas de caja blanca que realicen cobertura de código, la herramienta que NO se debería usar es:
+a) EclEMMA.
+b) eCobertura.
+c) Jmeter.
+d) Java Code Coverage.
+ANSWER: C
+
+31. El tipo de prueba BigBang es de tipo:
+a) Prueba de sistema.
+b) Prueba de aceptación.
+c) Prueba de rendimiento.
+d) Prueba de integración.
+ANSWER: D
+
+32.¿Cuál de los siguientes tipos de diagramas NO está incluido en la categoría de diagramas estructurales que define UML 2?
+a) Diagrama de clases.
+b) Diagrama de objetos.
+c) Diagrama de despliegue.
+d) Diagrama de actividades.
+ANSWER: D
+
+33. En el diseño orientado a objetos, la ocultación del estado o de los datos miembro de un objeto, de forma que sólo es posible modificar los mismos mediante los métodos definidos para dicho objeto, se conoce como:
+a) Abstracción.
+b) Polimorfismo.
+c) Herencia.
+d) Encapsulamiento.
+ANSWER: D
+
+34. La especificación “Java Platform, Enterprise Edition 7 (Java EE 7)” se encuentra definida en el JSR (Java Specification Request):
+a) JSR 342.
+b) JSR 366.
+c) JSR 324.
+d) JSR 224.
+ANSWER: A
+
+35. Elija la respuesta correcta respecto Java EE 7:
+a) Para crear un nuevo servlet se debe invocar al procedimiento init ().
+b) Para destruir un servlet se debe invocar al método destroy().
+c) La clase ServletConfig sirve para pasarle información al servlet durante su inicialización.
+d) La clase ServletSession proporciona a las aplicaciones las herramientas para la gestión de la sesión.
+ANSWER: C
+
+36. Al conjunto de documentos que definen patrones de diseño y prácticas recomendadas en la creación de aplicaciones utilizando Java Enterprise Edition se denomina:
+a) Java BluePrints.
+b) Java Specification Request.
+c) Java Community Process.
+d) Java Pattern Spec.
+ANSWER: A
+
+37. Los proveedores de datos .NET Framework incluyen un objeto DbConnection para conectarse al origen de datos. Señale, entre las siguientes clases, cuál NO pertenece a un proveedor de datos incluido en el .NET Framework 4.5:
+a) EntityConnection.
+b) SqlConnection.
+c) SqlCeConnection.
+d) OleOdbcConnection.
+ANSWER: D
+
+38. La plataforma informática y de servicios en Internet hospedada en centros de datos administrados o respaldados por Microsoft se llama:
+a) Bajoo.
+b) Azure.
+c) Heroku.
+d) Adrive.
+ANSWER: B
+
+39. En .NET, ¿qué es el Managed Extensibility Framework (MEF)?
+a) Es una arquitectura que proporciona primitivos asíncronos de paso de aprobación de mensajes sin tipo.
+b) Es un modelo extensible de programación, motor y herramientas para generar con rapidez aplicaciones de flujo de trabajo en Windows.
+c) Es una biblioteca de clases portable que permite escribir y compilar ensamblados administrados capaces de funcionar en múltiples plataformas de .NET.
+d) Es una biblioteca para crear aplicaciones ligeras y extensibles.
+ANSWER: D
+
+40. Señale la respuesta INCORRECTA respecto a la tecnología de Servicios Web REST:
+a) JAX-RS es una API Java que proporciona soporte en la creación de servicios web de acuerdo con REST.
+b) Jersey es una implementación de referencia de servicios web REST.
+c) REST publica recursos que son accesibles a través de métodos http, por ejemplo POST y GET.
+d) Los recursos REST permiten sólo 3 operaciones: CREATE, UPDATE y DELETE.
+ANSWER: D
+
+41. WebDAV (RFC 4918) son un conjunto de extensiones para el protocolo HTTP, entre ellos, el método PROPPATCH que sirve para:
+a) Crear colecciones.
+b) Recuperar propiedades, almacenadas como XML, desde un recurso.
+c) Cambiar y borrar múltiples propiedades de un recurso en una simple operación atómica.
+d) Desbloquear un recurso.
+ANSWER: C
+
+42. En cuanto a las especificaciones MTOM y XOP, ¿cuál de las siguientes sentencias NO es correcta?
+a) XOP es un acrónimo de XML-binary Optimized Packaging.
+b) MTOM/XOP son recomendaciones desarrolladas por la IETF.
+c) MTOM optimiza la transferencia de datos binarios sobre SOAP.
+d) MTOM normalmente usa XOP para serializar el mensaje que contiene datos binarios.
+ANSWER: B
+
+43. La herramienta que incluye JAXB para convertir un XML Schema a representaciones de clases Java se denomina:
+a) jconverter
+b) schemagen
+c) xjc
+d) jaxbws
+ANSWER: C
+
+44. Señale cómo se clasifican los niveles en las organizaciones según se establece en el Modelo de Madurez de la Ingeniería del Software ISO/IEC 15504-SPICE para la evaluación y mejora de las organizaciones, en la representación continua del modelo que mide la capacidad:
+a) En 6 niveles, desde el cero al cinco.
+b) En 5 niveles, desde el uno al cinco.
+c) En 6 niveles, desde el uno al seis.
+d) En 5 niveles, desde el cero al cuatro.
+ANSWER: A
+
+45. COCOMO II para estimación de proyectos de software está compuesto de 3 modelos, que son:
+a) Modelo de Análisis de la Aplicación, Modelo de Construcción Preliminar y Modelo Post-Arquitectura.
+b) Modelo de Planificación, Modelo de Construcción y Modelo de Arquitectura.
+c) Modelo de Composición de la Estimación, Modelo de Construcción y Modelo de Arquitectura Preliminar.
+d) Modelo de Composición de Aplicación, Modelo de Diseño Preliminar y Modelo Post-Arquitectura.
+ANSWER: D
+
+46. El ciclo de Deming es una estrategia de mejora continua de la calidad en la administración de una organización, los 4 pasos de la estrategia son:
+a) Plan, Do, Construct, Approval (Planificar, Hacer, Construir, Aprobar).
+b) Plan, Do, Check, Act (Planificar, Hacer, Verificar, Actuar).
+c) Plan, Develop, Control, Anticipate (Planificar, Desarrollar, Controlar, Tener previsto).
+d) Plan, Deduct, Control, Approval (Planificar, Deducir, Controlar, Aprobar).
+ANSWER: B
+
+47. Las normas ISO/IEC 2501n pertenecientes a la familia de normas ISO/IEC 25000:
+a) Incluyen un modelo de referencia de la medición de la calidad del producto, definiciones de medidas de calidad y guías para su aplicación.
+b) Presentan modelos de calidad detallados incluyendo características para calidad interna, externa y en uso del producto software.
+c) Definen todos los modelos, términos y definiciones comunes referenciados por todas las otras normas de la familia 25000.
+d) Ayudan a especificar requisitos de calidad que pueden ser utilizados en el proceso de elicitación.
+ANSWER: B
+
+48. Indique el principio de la WCAG 2.0 asociado a la pauta "maximizar la compatibilidad":
+a) Operable.
+b) Perceptible.
+c) Robustez.
+d) Comprensible.
+ANSWER: C
+
+49. Según la definición de DataWarehouse de William Inmon, señale cuál de las siguientes opciones NO es una característica de este tipo de sistemas:
+a) Integrado: los datos deben integrarse en una estructura consistente.
+b) Temático: los datos se organizan por temas.
+c) Histórico: una variable puede tomar distintos valores en el tiempo.
+d) Volátil: los datos no son permanentes en el sistema.
+ANSWER: D
+
+50. De acuerdo a las operaciones que se requieran desarrollar, los Data Marts pueden adoptar diversas arquitecturas, señale la característica correspondiente a la arquitectura Top-Down:
+a) Se definen previamente los Data Marts (DM) y luego se integran en un Data Warehouse (DW) centralizado. Los DM se cargan a través de procesos ETL.
+b) Se define previamente un DW y un DM principal que se cargan a través de procesos ETL. El DW alimentará a otros DW, y el DM principal alimentará a otros DM.
+c) Se define una base de datos (BD) principal que se carga mediante procesos ETL desde todas las BD corporativas, esta BD alimenta en exclusiva a todos los DM y DW existentes.
+d) Primero se define el DW, el cual es cargado a través de procesos ETL y luego este alimenta a los diferentes DM. Cada DM recibirá los datos que correspondan al tema/departamento que traten.
+ANSWER: D
+
+1. [RESERVA] ¿Cuál de las siguientes respuestas incluye un estándar correcto del proceso de software?
+a) IEEE 930:1998. Prácticas recomendadas para la Especificación de Requisitos del Software (ERS).
+b) IEEE 29148:2011. Ingeniería de Sistemas y Software - Procesos de ciclo de vida - Ingeniería de requisitos.
+c) IEEE 1216:1987. Prácticas recomendadas para la Especificación del Diseño del Software.
+d) IEEE 830: 2004. Prácticas recomendadas para la Especificación de Requisitos del Software (ERS).
+ANSWER: B
+
+2. [RESERVA] De las estrategias de diseño propuestas por Métrica v3 para obtener el diagrama de estructura ¿en qué se diferencian el análisis de transformación y el análisis de transacción?
+a) No existe ninguna diferencia, ambas son estrategias de diseño que se aplican a los DFD.
+b) El análisis de transformación se aplica cuando el DFD realiza modificaciones independientemente de la entrada y la salida, mientras que el análisis de transacción se aplica cuando en un DFD en función del flujo de llegada se realiza la elección de uno o más flujos de información.
+c) El análisis de transacción se aplica cuando el DFD realiza modificaciones independientemente de la entrada y la salida, mientras que el análisis de transformación se aplica a los DFD cuando en función del flujo de llegada se realiza la elección de uno o más flujos de información.
+d) El análisis de transacción se centra en los resultados del diagrama mientras que el análisis de transformación se centra en cómo se realizan dichos cambios.
+ANSWER: B
+
+3. [RESERVA] Señale la respuesta FALSA acerca de la tecnología Java Web Start:
+a) El software de Java Web Start permite descargar y ejecutar aplicaciones Java desde la Web.
+b) Garantiza que se está ejecutando la última versión de la aplicación.
+c) Incluido en el JDK desde la versión 6, permitiendo instalar aplicaciones a través de URLs con JMLP (Java Main Launch Protocol).
+d) Permite desplegar fácilmente aplicaciones standalone de escritorio.
+ANSWER: C

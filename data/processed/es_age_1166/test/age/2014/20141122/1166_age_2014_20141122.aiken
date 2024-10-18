@@ -1,0 +1,699 @@
+1. [ANULADA] [TEMA="2022.129"] La Ley 9/2014, de 9 de mayo, de Telecomunicaciones:
+a) Elimina del servicio universal la obligación de proporcionar guías de números de abonados.
+b) Aumenta a 1 Mbit por segundo la velocidad descendente que debe tener un acceso funcional a Internet.
+c) Establece para las infracciones muy graves multas por un importe máximo de diez millones de euros.
+d) Incluye la telefonía móvil dentro del servicio universal.
+ANSWER:
+
+2. [TEMA="2022.75"] Apache Hadoop es un framework de software que implementa un sistema de ficheros basado en:
+a) HP Data File System.
+b) Google File System.
+c) Network File System.
+d) High Density File System.
+ANSWER: B
+
+3. [TEMA="2022.125"] SAML (Security Assertion Markup Language):
+a) Establece protocolos de seguridad para el intercambio de identidades.
+b) Establece protocolos de seguridad para el firmado de estructuras XML.
+c) Es un estándar establecido por IEEE como alternativa a WS-Security en sistemas de autenticación Single Sign-On.
+d) Es un estándar establecido por OASIS como alternativa a WS-Security en sistemas de autenticación Single Sign-On.
+ANSWER: A
+
+4. [TEMA="2022.74"] ¿Cuál de los siguientes servicios transforma un texto original en un hipertexto con vínculos geográficos?:
+a) Coberturas en Web (WCS).
+b) Noménclator (Gazetteer).
+c) Catálogo (CSW).
+d) Geoparser.
+ANSWER: D
+
+5. [TEMA="2022.49"] Respecto al Registro Electrónico Común (REC), señale la respuesta correcta:
+a) El REC debe admitir cualquier solicitud, escrito o comunicación dirigida a cualquiera de las Administraciones Públicas españolas.
+b) La presentación de solicitudes dirigidas a entidades que no hayan sido activadas en el REC se tendrá por no realizada.
+c) El REC podrá ser habilitado para la remisión, recepción e intercambio de solicitudes de la competencia de las Administraciones Autonómicas y Locales, en la forma que se determine en los correspondientes Convenios.
+d) En coordinación con las Administraciones destinatarias, el Ministerio de Hacienda y Administraciones Públicas será responsable de la custodia y manejo de todos los ficheros generados por el REC.
+ANSWER: C
+
+6. [TEMA="2022.108"] Para la instalación del cableado estructurado de un edificio de oficinas, en el que se cuenta con redes Ethernet y Gigabit Ethernet, señale la respuesta correcta:
+a) Es necesario contar con un switch FC en cada una de las plantas del edificio para la interconexión del cableado UTP/STP.
+b) Puede emplearse cableado UTP (Unshielded Twisted Pair) de la categoría 1 y 2.
+c) Puede emplearse cableado UTP (Unshielded Twisted Pair) de la categoría 5 y 6.
+d) Puede emplearse cableado UTP (Unshielded Twisted Pair) de la categoría 3 y 4.
+ANSWER: C
+
+7. [TEMA="2022.37"] ¿Cuál de las siguientes metodologías es considerada como una metodología ágil?
+a) RAD.
+b) OpenUP.
+c) SSADM.
+d) UP.
+ANSWER: B
+
+8. [TEMA="2022.11"] En el ámbito de los Contratos del Sector Público y, en particular, en los contratos de servicios ¿cuál es la cuantía máxima, IVA excluido, del presupuesto de licitación de los contratos dirigidos al desarrollo de la Administración Electrónica que se declaran de contratación centralizada?
+a) 862.000 euros.
+b) 300.000 euros.
+c) 500.000 euros.
+d) 1.152.000 euros.
+ANSWER: A
+
+9. [TEMA="2022.31"] Respecto a la Reutilización de la información del Sector Público, señale la respuesta correcta:
+a) Las personas jurídicas son las únicas que pueden hacer uso de los datos generados y custodiados por los organismos del sector público.
+b) La reutilización supone actividades como la copia, difusión, reordenación y combinación de la información siempre que sea con fines no comerciales.
+c) El sitio web datos.gob.es es el portal de carácter nacional que organiza y gestiona el Catálogo de Información Pública del Sector Público.
+d) Los documentos y recursos de información reutilizables puestos a disposición pública utilizarán estándares abiertos y estándares propietarios indistintamente.
+ANSWER: C
+
+10. [TEMA="2022.78"] La facturación electrónica será obligatoria para las Administraciones Públicas en:
+a) Enero de 2015.
+b) Enero de 2016.
+c) Diciembre de 2016.
+d) Diciembre de 2015.
+ANSWER: A
+
+11. [TEMA="2022.117"] La Comisión Europea establece una serie de prioridades y acciones para promover una administración pública inteligente, sostenible e innovadora, enmarcadas en el Plan de Acción Europeo sobre Administración Electrónica 2011-2015. Entre estas prioridades y acciones se incluyen:
+a) Mejora de la transparencia, participación de los ciudadanos y las empresas en los procesos de elaboración de políticas y sanidad en línea.
+b) Producción de servicios en colaboración, interoperabilidad de los registros públicos en los estados miembros y reutilización de la información del sector público.
+c) Mejora de los procesos organizativos, implantación de un sistema común de firma electrónica cualificada y especificaciones abiertas e interoperabilidad.
+d) Reducción de las cargas administrativas, administración pública ecológica e implantación de servicios transfronterizos en toda la UE.
+ANSWER: D
+
+12. [TEMA="2022.64"] En SQL Server, la cardinalidad máxima de una tabla de hechos que es la tabla central de n tablas dimensionales es:
+a) La multiplicación de las cardinalidades de cada una de las n tablas dimensionales.
+b) La suma de las cardinalidades de cada una de las n tablas dimensionales.
+c) La mayor de las cardinalidades presentes en las n tablas dimensionales.
+d) La mayor de las cardinalidades presentes en las n tablas dimensionales elevado a n.
+ANSWER: A
+
+13. [TEMA="2022.27"] En materia de protección de datos, el ejercicio del derecho de cancelación dará lugar:
+a) A que se modifiquen los datos que resulten ser falsos o inexactos.
+b) A que se modifiquen los datos que resulten ser inadecuados o inexactos.
+c) A que se supriman los datos que resulten ser inadecuados o excesivos.
+d) A que se supriman los datos que resulten ser inexactos o excesivos.
+ANSWER: C
+
+14. [TEMA="2022.35"] En el modelo CMMI, el área de proceso "Análisis causal y resolución" se encuentra en el nivel de madurez:
+a) Nivel 2 - Gestionado.
+b) Nivel 5 - Optimización.
+c) Nivel 4 - Gestionado cuantitativamente.
+d) Nivel 3 - Definido.
+ANSWER: B
+
+15. [TEMA="2022.26"] Las entidades locales adheridas al servicio común denominado “Emprende en 3”:
+a) Aceptarán y utilizarán el modelo tipo de declaración responsable de conformidad con la normativa que regula el proyecto.
+b) Podrán rechazar las declaraciones responsables recibidas si no vienen acompañadas de la documentación obligatoria para la puesta en marcha de la empresa.
+c) La aceptación de las declaraciones responsables recibidas a través de “Emprende en 3” se debe producir antes de las 48 horas de su presentación por parte del ciudadano.
+d) La tramitación de las declaraciones responsables recibidas por “Emprende en 3” debe ser finalizada antes de los 5 días hábiles desde su presentación.
+ANSWER: A
+
+16. [TEMA="2022.127"] ¿Cuál de estas afirmaciones NO corresponde al CCN-CERT?
+a) El CCN-CERT es la Capacidad de Respuesta a incidentes de Seguridad de la Información del Centro Criptológico Nacional.
+b) Los servicios del CCN-CERT están dirigidos exclusivamente a la Administración General del Estado.
+c) CARMEN, LUCIA e INÉS son herramientas desarrolladas por CCN-CERT.
+d) Las funciones del CCN-CERT quedan recogidas en el RD 3/2010, de 8 de enero, regulador del Esquema Nacional de Seguridad.
+ANSWER: B
+
+17. [TEMA="2022.11"] En relación con la contratación en materia TIC, es competencia de la Dirección de Tecnologías de la Información de la AGE:
+a) Informar con carácter facultativo la declaración de contratación centralizada de los contratos de suministros, obras y servicios en materia TIC.
+b) Asesorar a los órganos competentes en materia de contratación, en los criterios y directrices para la agregación y planificación de la demanda TIC que dichos órganos elaboren.
+c) Realizar las actuaciones necesarias para una mayor eficiencia económica, normalizando una red de clientes de cada Departamento Ministerial frente a proveedores externos.
+d) Realizar el informe técnico preceptivo de la memoria y los pliegos de prescripciones técnicas de los convenios de colaboración y encomiendas de gestión que incluyan la prestación de servicios en materia de TIC de la AGE.
+ANSWER: D
+
+18. [TEMA="2022.46"] Según lo dispuesto en la Norma Técnica de Interoperabilidad de Modelo de Datos para el Intercambio de asientos entre las entidades registrales (SICRES 3.0) es correcto que:
+a) El segmento "de internos y control" contiene información sobre si el asiento registral incluye documentación física requerida para el trámite del procedimiento.
+b) El código de la Entidad Registral de Destino debe incluir un prefijo que identifique al Ministerio (MXX-YYYY), según se establece en la codificación de organismos del Directorio Común.
+c) El segmento "de anexo" es obligatorio y puede declararse de forma múltiple.
+d) En el segmento "de internos y de control" se incluye la firma del documento anexo, como un campo obligatorio.
+ANSWER: A
+
+19. [TEMA="2022.95"] ¿Qué nombre recibe, en el paradigma de orientación a objetos, el principio de diseño que establece que las interfaces definidas deben tener una finalidad específica?
+a) Principio abierto-cerrado.
+b) Principio de segregación de interfaces.
+c) Principio de responsabilidad simple.
+d) Principio de sustitución.
+ANSWER: B
+
+20. [TEMA="2022.56"] Los switches FC (Fibre Channel) de las redes SAN (Storage Area Network) permiten en la actualidad el uso de ópticas SFP (Small Form-factor Pluggable) de:
+a) 4 Gb/s, 8Gb/s, 16 Gb/s
+b) 8 Gb/s, 16 Gb/s, 32 Gb/s
+c) 16Gb/s, 32 Gb/s, 64Gb/s
+d) 1Gbs, 10Gbs, 100Gbs
+ANSWER: A
+
+21. [ANULADA] [TEMA="2022."] La metodología Scrum propone la realización de los artefactos product backlog y sprint backlog. Señale la respuesta correcta en relación con estos artefactos:
+a) Product backlog es una lista de requisitos priorizados y congelados.
+b) Product backlog debe incluir las tareas necesarias para desarrollar los requisitos del sistema.
+c) Sprint backlog consiste únicamente en una lista de requisitos seleccionados para un sprint.
+d) Sprint backlog debe incluir además de los requisitos seleccionados para el sprint, la lista de tareas necesarias para desarrollar esos requisitos y la asignación de las personas que las realizarán.
+ANSWER:
+
+22. [TEMA="2022.103"] En el modelo EFQM, la "Gestión y mejora de las relaciones con los clientes" es un subcriterio correspondiente al criterio:
+a) Resultados en los clientes.
+b) Resultados clave.
+c) Alianzas y recursos.
+d) Procesos.
+ANSWER: D
+
+23. [TEMA="2022.56"] Tener la funcionalidad "Thin Provisioning" en una cabina de almacenamiento conectada a una red SAN nos permite:
+a) Asignar menor cantidad de GB/TB a los servidores, si no se ha alcanzado el máximo de ocupación real de la cabina.
+b) Sobreasignar mayor cantidad de GB/TB a los servidores, si no se ha alcanzado el máximo de ocupación real de la cabina.
+c) Asignar mediante pequeños incrementos los nuevos discos que se incorporen en caliente.
+d) Provisionar una capa de control para la virtualización del almacenamiento en cloud.
+ANSWER: B
+
+24. [TEMA="2022.125"] Respecto al protocolo Oauth, señale la respuesta correcta:
+a) Es propietario de Twitter, y permite gestionar el acceso a su API por parte de otras aplicaciones.
+b) Permite su uso en aplicaciones web y móviles, pero no de escritorio.
+c) Permite el acceso a la identidad completa del usuario por parte del servidor de aplicaciones.
+d) Permite utilizar la cuenta de Facebook para acceder a otras aplicaciones.
+ANSWER: D
+
+25. [TEMA="2022.54"] En relación con las soluciones MDM (Mobile Device Management), señale la respuesta correcta:
+a) En ningún caso contemplan la tendencia BYOD (Bring Your Own Device) que permite a los usuarios de una organización hacer uso de sus dispositivos móviles personales para el acceso al entorno, servicios y datos corporativos.
+b) Sirven para gestionar la política de seguridad establecida en la organización no siendo adecuados para el inventario de dispositivos móviles.
+c) Los fabricantes de las principales plataformas móviles no proporcionan soluciones MDM por lo que hay que recurrir siempre a soluciones de terceros.
+d) Permiten la monitorización automática de los dispositivos móviles y la generación de alertas al incumplirse la política de seguridad establecida en la organización.
+ANSWER: D
+
+26. [TEMA="2022.48"] La Estrategia de Ciberseguridad Nacional fue aprobada por el Consejo Nacional de Seguridad en:
+a) Septiembre de 2012.
+b) Diciembre de 2013.
+c) Enero de 2014.
+d) Enero de 2011.
+ANSWER: B
+
+27. [TEMA="2022.90"] Respecto a los diagramas de flujos de datos, señale la respuesta correcta:
+a) Proporcionan un mecanismo para el modelado funcional, no siendo necesario considerar el flujo de información.
+b) Por sí solos, son una herramienta suficiente para describir los requisitos del software.
+c) En los sucesivos niveles de detalle es necesario mantener la continuidad del flujo de información.
+d) No son una herramienta válida para sistemas de tiempo real.
+ANSWER: C
+
+28. [TEMA="2022.114"] Respecto a Bluetooth es correcto que:
+a) No utiliza la misma banda de frecuencia que Wi-Fi (802.11), por lo que no se interfieren mutuamente.
+b) Con 802.11 AMP puede llegar a 24 Mbps.
+c) Debe evitarse en entornos escolares debido a que emite radiación ionizante.
+d) Debe emitirse con un mínimo de 10 watios.
+ANSWER: B
+
+29. [TEMA="2022.50"] La Entidad AENOR:
+a) Es una entidad pública que elabora normas técnicas españolas, impulsando la aportación nacional en la elaboración de normas europeas e internacionales.
+b) Desarrolla actividades de normalización y certificación (N+C) exclusivamente en el ámbito del sector público.
+c) Es una entidad española, privada, independiente, sin ánimo de lucro, que certifica productos, servicios y empresas (sistemas).
+d) Es la entidad pública internacional responsable de la elaboración de los estándares ISO/IEC.
+ANSWER: C
+
+30. [TEMA="2022.75"] Dentro de las soluciones en el ámbito de BigData, la arquitectura Hadoop consta del módulo MapReduce que consiste en:
+a) Un framework para escribir aplicaciones que procesan grandes cantidades de datos en paralelo.
+b) Una base de datos no relacional y distribuida, con varios maestros, escalable y sin puntos únicos de fallo.
+c) Un sistema de archivos distribuido que proporciona acceso de alto rendimiento a los datos de la aplicación.
+d) Una infraestructura de data warehouse que proporciona los datos resumidos y consultas ad hoc.
+ANSWER: A
+
+31. [TEMA="2022.114"] Para una red wifi, ¿cúal de los siguientes NO es un protocolo de seguridad que le sea aplicable?
+a) WPA2.
+b) WPA.
+c) WAP.
+d) WEP.
+ANSWER: C
+
+32. [TEMA="2022.123"] La cuarta generación de telefonía móvil (4G) incluye:
+a) El requisito establecido por la UIT de velocidades máximas de transmisión de datos mejoradas: 100 Mbit/s para una movilidad alta y de 1 Gbit/s para una movilidad baja.
+b) El requisito establecido por la UIT de velocidades máximas de transmisión de datos mejoradas: 10 Mbit/s para una movilidad alta y de 100 Mbit/s para una movilidad baja.
+c) El requisito establecido por el IEEE de velocidades máximas de transmisión de datos mejoradas: 100 Mbit/s para una movilidad alta y de 1 Gbit/s para una movilidad baja.
+d) El requisito establecido por el IEEE de velocidades máximas de transmisión de datos mejoradas: 10 Mbit/s para una movilidad alta y de 100 Mbit/s para una movilidad baja.
+ANSWER: A
+
+33. [TEMA="2022.104"] ¿Cúal de las siguientes opciones es un sistema de gestión de contenidos?
+a) MongoDB
+b) Redis
+c) Cassandra
+d) Drupal
+ANSWER: D
+
+34. [TEMA="2022.46"] Respecto a los requisitos a cumplir en la digitalización de documentos establecidos por la Norma Técnica de Interoperabilidad de Digitalización de Documentos es correcto que:
+a) El nivel de resolución máximo para imágenes electrónicas será de 200 píxeles por pulgada, tanto para imágenes obtenidas en blanco y negro, color o escala de grises.
+b) La imagen electrónica se podrá optimizar para garantizar su legibilidad, de modo que todo contenido del documento origen pueda apreciarse y sea válido para su gestión.
+c) La imagen electrónica podrá contener caracteres o gráficos, siempre que sean incorporados por el funcionario responsable del expediente y adecuadamente identificados mediante sello oficial.
+d) La digitalización de un documento implicará, en todos los casos, la asignación de los metadatos mínimos obligatorios definidos en la Norma Técnica de Interoperabilidad de Documento Electrónico y la firma de la imagen electrónica.
+ANSWER: B
+
+35. [TEMA="2022.80"] En la estructura de un certificado X.509 v3 NO es obligatorio:
+a) El número de serie.
+b) La validez no antes de.
+c) El identificador único de emisor.
+d) El emisor.
+ANSWER: C
+
+36. [TEMA="2022.30"] Respecto a la Comisión de Estrategia TIC de la Administración General del Estado, señale la respuesta correcta:
+a) Está adscrita al Ministerio de la Presidencia y es el órgano encargado de la definición de la aplicación de la Estrategia TIC de la Administración General del Estado y sus organismos públicos.
+b) Impulsa la colaboración y cooperación con las comunidades autónomas y las entidades locales para la puesta en marcha de servicios interadministrativos integrados.
+c) Define las prioridades de inversión en materias TIC bajo un convenio marco de colaboración con la Dirección General de Patrimonio del Estado.
+d) Elevará semestralmente, a través de su Presidente, un informe al Consejo de Ministros, en el que se recogerá el estado de la transformación digital de las Administraciones Públicas.
+ANSWER: B
+
+37. [TEMA="2022.100"] ¿Cúal de las siguientes opciones NO es un sistema de control de versiones?
+a) Subversion.
+b) Git.
+c) Ruby.
+d) SourceSafe.
+ANSWER: C
+
+38. [TEMA="2022.106"] En ITIL V3, ¿qué es un OLA?
+a) Es un contrato entre un proveedor de servicios de TI con un único cliente externo a la organización.
+b) Es un contrato entre departamentos de una misma organización.
+c) Es un contrato entre un proveedor de servicios de TI que describe los servicios ofertados a varios clientes externos a la organización.
+d) Es un contrato entre la administración y la empresa privada.
+ANSWER: B
+
+39. [TEMA="2022.70"] Un agente inteligente es un programa informático que:
+a) Por encargo de un usuario u otro programa realiza sugerencias determinísticas predeterminadas.
+b) Por encargo de un usuario realiza sugerencias que requieren cierto grado de aprendizaje, sin llegar a ejecutar tareas.
+c) Por encargo de un usuario u otro programa, realiza de forma autónoma tareas que requieren cierto grado de inteligencia y aprendizaje.
+d) Por encargo de un usuario realiza sugerencias que deben ser evaluadas por el usuario que las encarga antes de ser ejecutadas.
+ANSWER: C
+
+40. [TEMA="2022.81"] Los certificados electrónicos contenidos en el DNI electrónico tienen una vigencia de:
+a) 30 meses.
+b) 48 meses.
+c) 24 meses.
+d) 36 meses.
+ANSWER: A
+
+41. [TEMA="2022.109"] Para la dirección de loopback, es correcto que:
+a) Se ha reservado una dirección en IPv4 (127.0.0.1) y una dirección en IPv6 (::127.0.0.1)
+b) Se ha reservado una dirección en IPv4 (127.0.0.1) y una dirección en IPv6 (::1)
+c) Se han reservado 256 direcciones en IPv4 (127.0.0.0/24) y 256 direcciones en IPv6 (::127.0.0.1-255)
+d) Se han reservado 16.777.214 direcciones en IPv4 (127.0.0.0/8) y una dirección en IPv6 (::1)
+ANSWER: D
+
+42. [TEMA="2022.26"] El Centro de Información y Red de Creación de Empresas (CIRCE), gestionado por el Ministerio de Industria, Energía y Turismo:
+a) Permite realizar, de forma telemática, los trámites de constitución y puesta en marcha de todas las empresas que vayan a ejercer su actividad en el territorio nacional.
+b) Permite realizar, de forma telemática, los trámites de apoderamiento y gestiones notariales necesarias para la puesta en marcha de las empresas.
+c) Permite realizar de forma telemática, los trámites de constitución y puesta en marcha de Sociedades Limitada Nueva Empresa (SLNE), Sociedades de Responsabilidad Limitada (SRL o SL), o Empresarios Individuales (Autónomos).
+d) Es una plataforma para la información del emprendedor que se utiliza en los Puntos de Atención al Emprendedor (PAEs), no permitiendo la realización de trámites online.
+ANSWER: C
+
+43. [TEMA="2022.49"] El órgano responsable del sistema Cl@ve, la plataforma común del Sector Público Administrativo Estatal para la identificación, autenticación y firma electrónica mediante el uso de claves concertadas, será:
+a) La Dirección General de la Policía.
+b) La Dirección de Tecnologías de la Información y las Comunicaciones.
+c) La Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda.
+d) La Intervención General de la Administración del Estado.
+ANSWER: B
+
+44. [TEMA="2022.51"] ¿Cúal de las siguientes opciones NO es un plan incluido en la Agenda Digital para España?
+a) Contenidos y economía digital.
+b) Inclusión digital y empleabilidad.
+c) Confianza en el ámbito digital.
+d) Servicios públicos en la nube.
+ANSWER: D
+
+45. [TEMA="2022.78"] Respecto al formato de factura electrónica Facturae 3.2, señale la respuesta correcta:
+a) Es de tipo PDF-A, para facilitar su impresión.
+b) Es un formato certificado con la Norma SICRES 3.0, para la compatibilidad e interconexión de los Registros Contables de Facturas.
+c) Es un formato no estructurado compuesto por dos bloques obligatorios y cuatro opcionales.
+d) Incluye firma Electrónica en XML Advanced Electronic Signature (XADES)
+ANSWER: D
+
+46. [TEMA="2022.66"] ¿Qué es WCF (Windows Communication Foundation)?
+a) Es un estándar establecido por el IEEE para la definición de servicios electrónicos de acceso a datos.
+b) Es una librería que permite la generación de servicios web para aplicación desarrolladas en .NET.
+c) Es una fundación sin ánimo de lucro que gestiona los recursos comunes y propuestas de mejora de las aplicaciones de escritorio.
+d) Es el evento bianual en que se dictamina la política a seguir en el ámbito de las aplicaciones de escritorio.
+ANSWER: B
+
+47. [TEMA="2022.129"] Respecto a RTMP (Real Time Messaging Protocol), señale la respuesta correcta:
+a) Junto con ICMP proporciona las funciones de monitorización y control de TCP/IP.
+b) Permite la gestión conjunta de mensajería instantánea y mensajes cortos GSM.
+c) Se emplea para la emisión en tiempo real de streaming de vídeo.
+d) Define el estándar de comunicaciones para los procesadores de sistemas de tiempo real crítico.
+ANSWER: C
+
+48. [TEMA="2022.30"] En relación con el modelo de gobernanza en el ámbito de las TIC de la Administración General del Estado, y respecto a los medios y servicios de uso compartido es correcto que:
+a) Los medios y servicios TIC serán declarados de uso compartido cuando, en razón de su naturaleza o del interés común, respondan a necesidades transversales de los ciudadanos.
+b) La utilización de los medios y servicios compartidos será de carácter obligatorio y sustitutivo respecto a los medios y servicios particulares empleados por las distintas unidades.
+c) Las Comisiones Ministeriales de Administración Digital (CMAD) velarán por el uso de los medios y servicios compartidos. En este sentido, cuando las necesidades puedan ser comunes a varias unidades de diferentes Ministerios, se escogerá la alternativa que permita independizar el servicio entre los Departamentos.
+d) Los activos TIC afectos a la prestación de servicios sectoriales deberán migrarse a los medios y servicios compartidos.
+ANSWER: B
+
+49. [TEMA="2022.57"] NO es una plataforma de virtualización:
+a) KVM.
+b) XEN.
+c) Hyper-V.
+d) VSuite.
+ANSWER: D
+
+50. [TEMA="2022.93"] En diseño orientado a objetos se utiliza el patrón Observador (en inglés, Observer), que define una dependencia uno a muchos entre un sujeto y varios observadores. Señale la respuesta correcta:
+a) Cuando el sujeto se modifica, se notifica dicha modificación. Los observadores se actualizarán sólo si se va a utilizar la información del sujeto.
+b) Establece cuántos observadores de un sujeto van a existir para poder notificarles cualquier cambio.
+c) La responsabilidad de actualización puede residir en los observadores tras la notificación de cambio del sujeto.
+d) El sujeto nunca puede ser borrado.
+ANSWER: C
+
+51. [TEMA="2022.133"] Una de las siguientes opciones incluye tres herramientas de creación de blogs. Señale la respuesta correcta:
+a) Blogger, Tumblr y Pocket.
+b) Wordpress, Blogger y Pocket.
+c) Wordpress, Tumblr y Blogger.
+d) Blogger, Path y Wordpress.
+ANSWER: C
+
+52. [TEMA="2022.49"] REÚNETE es el Servicio Común de Reuniones Virtuales de la Red SARA que ofrece herramientas colaborativas a todas las Administraciones Públicas. Entre sus funcionalidades NO se encuentra:
+a) Correo electrónico multidominio.
+b) Integración de salas de videoconferencia tradicional H323/SIP.
+c) Soporte on-line para páginas web.
+d) Videoconferencia con herramientas de colaboración.
+ANSWER: A
+
+53. [TEMA="2022.81"] Respecto a las tarjetas de identificación con circuitos integrados, la norma ISO/IEC 7816-4:2013 NO especifica:
+a) Las dimensiones y tolerancias de la tarjeta de identificación.
+b) Métodos de acceso a los ficheros e información.
+c) Métodos para la securización de los mensajes.
+d) Métodos para la recuperación de información.
+ANSWER: A
+
+54. [TEMA="2022.8"] Respecto al Registro de Funcionarios Habilitados, señale la respuesta correcta:
+a) Podrán ser habilitados los funcionarios de carrera en situación de servicio activo e inscritos en el Registro Electrónico de Apoderamientos.
+b) El registro permite la descarga, bajo petición, de un fichero que con todas las habilitaciones vigentes para los trámites y actuaciones por medios electrónicos de los que el órgano peticionario sea competente.
+c) Las habilitaciones inscritas en el Registro deberán ser efectivas en el plazo máximo de 5 días hábiles.
+d) La habilitación se otorgará por tiempo máximo de 2 años, siendo necesaria su renovación por parte del Departamento competente.
+ANSWER: B
+
+55. [TEMA="2022.22"] ¿Cuál de las siguientes afirmaciones es verdadera respecto al esquema lógico REDER que se encuentra dentro del modelo EFQM?
+a) La Evaluación y Revisión se ocupa de los logros que está alcanzando una organización.
+b) Los Resultados se ocupan de cómo una organización implanta sistemáticamente el enfoque.
+X c) El Enfoque abarca lo que una organización planifica hacer y las razones para ello.
+d) El Despliegue aborda lo que hace una organización para evaluar, revisar y mejorar el enfoque.
+ANSWER: C
+
+56. [TEMA="2022.46"] ¿En virtud de qué instrumento jurídico se aprueban y publican las Normas Técnicas de Interoperabilidad?
+a) Orden Ministerial del Ministro de Hacienda y Administraciones Públicas.
+b) Resolución del Secretario de Estado de Presidencia.
+c) Resolución del Secretario de Estado de Administraciones Públicas.
+d) Reglamento del Ministerio de Hacienda y Administraciones Públicas.
+ANSWER: C
+
+57. [TEMA="2022.128"] Al configurar una red Ethernet, es correcto que:
+a) El administrador de red debe hacer un listado de todas las direcciones MAC que se conectarán.
+b) El administrador de red debe configurar en cada equipo la dirección MAC de la pasarela por defecto.
+c) El administrador de red debe instalar en todos los equipos la compatibilidad con 802.3 (Ethernet) y 802.4 (Gigabit Ethernet).
+d) El administrador de red debe establecer los segmentos de la red.
+ANSWER: D
+
+58. [ANULADA] [TEMA="2022.49"] El Punto de Acceso General de la Administración General de Estado se encuentra accesible en el dominio:
+a) ciudadano.gob.es
+b) pag.gob.es
+c) tuadmin.gob.es
+d) administración.gob.es
+ANSWER:
+
+59. [TEMA="2022.95"] Según la metodología Métrica 3, el Plan de Sistemas de Información:
+a) Incluye la evaluación de los recursos necesarios para los proyectos a desarrollar en los próximos cinco años, con el objetivo de tenerlos en cuenta en los presupuestos.
+b) La perspectiva del plan debe ser estratégica, operativa y tecnológica.
+c) El nivel de detalle con el que se hará el estudio de la situación actual no depende de la existencia de documentación.
+d) Para su elaboración se estudian las necesidades de información de los procesos afectados con el fin de definir requisitos generales y obtener modelos conceptuales de información.
+ANSWER: D
+
+60. [TEMA="2022.77"] Respecto a JSON (JavaScript Object Notation - Notación de Objetos de JavaScript), señale la respuesta correcta:
+a) Es una versión simplificada de XML que permite el intercambio de datos en un formato de texto solo entre aplicaciones JavaScript.
+b) Al igual que XML, permite el intercambio de datos en un formato de texto, tanto entre aplicaciones JavaScript como Java y .NET.
+c) Es una versión simplificada de XML que permite el intercambio de datos en un formato de texto tanto entre aplicaciones JavaScript como Java y .NET.
+d) Al igual que XML, permite el intercambio de datos en un formato de texto, solo entre aplicaciones JavaScript.
+ANSWER: B
+
+61. [TEMA="2022.61"] En referencia al software “Windows Mobile Device Center”, señale la respuesta correcta:
+a) Es un software de sincronización precursor del ActiveSync.
+b) Ofrece un controlador de base incorporado a la interfaz de dispositivos en el explorador de Windows.
+c) Permite que un dispositivo móvil se sincronice con un pc o un servidor que ejecute Microsoft Exchange Server.
+d) Es un programa de sincronización desarrollado para su uso con sistemas operativos Linux.
+ANSWER: C
+
+62. [TEMA="2022.79"] Respecto al algoritmo de cifrado RC5, señale la respuesta correcta:
+a) Se trata de un algoritmo de cifrado asimétrico.
+b) No utiliza rotaciones dependientes de los datos para su proceso.
+c) Posee un número fijo de rotaciones para su proceso.
+d) Posee tamaño variable de clave.
+ANSWER: D
+
+63. [TEMA="2022.106"] Dentro del modelo de referencia COBIT 5 para la gestión de las TI de una organización, se definen:
+a) 5 procesos de gobierno, que incluyen prácticas de Evaluación, Orientación y Supervisión.
+b) 5 procesos de gobierno con cuatro áreas de dominio para la planificación, construcción, ejecución y supervisión.
+c) 5 procesos de gobierno donde se gestiona la estrategia, la arquitectura empresarial, el portfolio, el presupuesto y los recursos humanos.
+d) 4 procesos de gobierno con 5 áreas de dominio para la planificación, diseño, construcción, ejecución y supervisión.
+ANSWER: A
+
+64. [TEMA="2022.66"] LINQ (Language-Integrated Query) es:
+a) Es una librería de Javascript para la integración de aplicaciones con HTML5.
+b) Es la tecnología que permite la integración de elementos Java dentro de una aplicación .NET y viceversa.
+c) Facilita el acceso a bases de datos y ficheros XML desde una aplicación .NET.
+d) Es el API de integración de la red social profesional Linkedin, basado en OAuth.
+ANSWER: C
+
+65. [TEMA="2022.120"] De la Red SARA (Sistemas de Aplicaciones y Redes para las Administraciones) podemos afirmar que:
+a) Permite acceder a la plataforma de validación de firma electrónica @firma.
+b) No admite IPv6. Tampoco admite tráfico cifrado.
+c) Su implantación se establece como una recomendación en el artículo 43 de la Ley 11/2007 LAECSP.
+d) Aún se encuentra en fase beta y no se encuentra afectada por el ENS (Esquema Nacional de Seguridad).
+ANSWER: C
+
+66. [TEMA="2022.8"] En relación con el Registro Electrónico de Apoderamientos (REA), señale la respuesta correcta:
+a) Un departamento ministerial puede adherirse al REA mediante la firma electrónica de un acuerdo de adhesión con el Ministerio de Hacienda y Administraciones Públicas, de forma simultánea con el alta electrónica de sus trámites en dicho Registro.
+b) Si un departamento ministerial ya está adherido al REA y desea incorporar nuevos trámites al mismo, deberá hacerlo electrónicamente en dicho Registro y publicar una Resolución oficial modificando o ampliando la relación inicial de trámites.
+c) Los departamentos ministeriales u organismos públicos que gestionen un Registro de apoderamientos propio, deberán dar de alta éstos también en el REA para garantizar la interoperabilidad de ambos registros
+d) El periodo máximo de vigencia de los apoderamientos para los trámites incorporados en el REA no podrá superar los dos años.
+ANSWER: B
+
+67. [TEMA="2022.80"] Respecto a los ficheros de firma electrónica y los documentos firmados electrónicamente, señale la respuesta correcta:
+a) El documento firmado siempre va incluído en el fichero de firma, tanto en XAdES como en CAdES.
+b) En CAdES, el documento puede no incluirse en el fichero de firma. Estas firmas se llaman explícitas.
+c) El documento firmado se incluye en el fichero de firma en XAdES, y no se puede incluir en CAdES.
+d) En XAdES, sólo se puede firmar de forma implícita, en la que el documento no se incluye en el resultado de firma y solamente se incluye una referencia al lugar en el que se encuentra.
+ANSWER: B
+
+68. [TEMA="2022.95"] En Métrica 3, la utilización del modelo entidad relación extendido se recomienda en los procesos de:
+a) Análisis y Diseño.
+b) Solo en el Análisis.
+c) Planificación de Sistemas de Información, Estudio de Viabilidad y Análisis.
+d) Solo en Planificación de Sistemas de Información y Estudio de Viabilidad.
+ANSWER: C
+
+69. [TEMA="2022.133"] Respecto a la imagen institucional en redes sociales de la AGE es correcto que:
+a) En las redes sociales que lo permitan, el fondo de todas las páginas tendrá color amarillo.
+b) El fondo de las páginas se diseñará optimizado a un tamaño para pantallas de 800 x 600 píxeles de anchura.
+c) Las dimensiones de la imagen del perfil serán las mismas para todas las redes sociales.
+d) La imagen del perfil deberá incluir siempre la denominación ministerial.
+ANSWER: A
+
+70. [TEMA="2022.67"] El 10 de enero de 2013 se publicó una vulnerabilidad de día cero en Java 7 Update 10 y versiones anteriores de Java 7 que permitía a un atacante escalar los privilegios de ejecución de un applet. Señale la opción INCORRECTA:
+a) Las vulnerabilidades de seguridad de Java han llevado a establecer un periodo mensual, los terceros viernes de cada mes, para los Oracle Java SE Critical Patch Updates.
+b) Las vulnerabilidades de seguridad de Java han llevado a Oracle a recomendar y facilitar la desactivación de Java a partir de la versión 7 Update 10.
+c) Las vulnerabilidades de seguridad de Java han provocado que Oracle recomiende la desinstalación de Java 6 de todos los equipos.
+d) Las vulnerabilidades de seguridad de Java han provocado que sea obligatorio firmar con un certificado reconocido los applets a partir de Java SE 7u21.
+ANSWER: A
+
+71. [TEMA="2022.62"] Al desarrollar una aplicación para Android, respecto al fichero AndroidManifest.xml señale la respuesta correcta:
+a) Debe renombrarse en el momento de la publicación de la aplicación en Google Play, con un identificador único.
+b) Declara los permisos que debe tener la aplicación para acceder a las parte protegidas del API.
+c) Debe posicionarse en el directorio \etc\manifest.
+d) Establece las condiciones legales que el usuario debe aceptar para poder acceder a la aplicación.
+ANSWER: B
+
+72. [TEMA="2022.129"] La Comisión Nacional de los Mercados y la Competencia (CNMC), en relación con las telecomunicaciones:
+a) Autoriza operadores de telecomunicaciones.
+b) Autoriza distribuidores de equipamiento de redes y servicios de la sociedad de la información.
+c) Define los mercados de referencia relativos a redes y servicios electrónicos.
+d) Define las actuaciones de los operadores, en relación con los posibles conflictos de los anchos de banda en el espacio radioeléctrico.
+ANSWER: C
+
+73. [TEMA="2022.95"] ¿A qué perfil corresponde en Métrica 3 la persona que asesora en los aspectos de seguridad y calidad relativos al producto y al proceso seguido para su obtención, identifica y analiza los riesgos y determina las medidas de control oportunas?
+a) Perfil Consultor.
+b) Perfil Directivo.
+c) Perfil Analista.
+d) Perfil Jefe de Proyecto.
+ANSWER: D
+
+74. [TEMA="2022.22"] La Agenda Digital para Europa, iniciativa de la estrategia Europa 2020 puesta en marcha por la Comisión Europea:
+a) Establece la ZUPE (Zona Única de Prestaciones para Empresas), que supondrá la interconexión de plataformas de apoyo al Emprendedor, permitiendo la presentación de trámites de inicio de actividad para todo el territorio europeo.
+b) Establece medidas para que, en el año 2020, el 75% de los hogares europeos estén abonados a conexiones de internet por encima de los 100 Mbps.
+c) Establece el objetivo de equipar a los europeos con un acceso en línea seguro a sus datos médicos en 2017.
+d) Propone que, para 2020, los países miembros deberían duplicar el gasto público anual total en investigación y desarrollo de las TIC.
+ANSWER: D
+
+75. [TEMA="2022.55"] El tipo de infraestructura de cloud computing que permite mantener las aplicaciones críticas dentro de una infraestructura controlada y hacer uso de otros servicios y aplicaciones compartidos por varios clientes se denomina:
+a) Nube privada
+b) Nube híbrida
+c) Nube pública
+d) Infraestructura como Servicio (IaaS)
+ANSWER: B
+
+76. [TEMA="2022.83"] Respecto a los formatos de ficheros de imágenes, señale la respuesta correcta:
+a) El formato de ficheros GIF utiliza un algoritmo de compresión sin pérdidas hasta los 256 colores.
+b) El formato BMP es el formato típico usado por el sistema operativo Linux.
+c) Los archivos RAW son compatibles con los formatos TIFF y JPEG.
+d) El formato WMK es el más utilizado para los sistemas de grabación de video.
+ANSWER: A
+
+77. [TEMA="2022.11"] En relación con el Punto General de Entrada de Facturas Electrónicas de la Administración General del Estado (FACe), señale la respuesta correcta:
+a) Las Comunidades Autónomas y las Entidades Locales deberán utilizar FACe, en todos los casos.
+b) Las Comunidades Autónomas y Entidades Locales deberán crear su propio punto general de facturas electrónicas e interoperar con el FACe.
+c) Las Comunidades Autónomas y Entidades Locales deberán crear su propio punto general de facturas electrónicas, sin necesidad de interoperar con FACe.
+d) Las Comunidades Autónomas y Entidades Locales podrán crear su propio punto general de entrada de facturas electrónicas, previa justificación de su no adhesión a FACe en términos de eficiencia, y con anterioridad a la realización de cualquier inversión al respecto.
+ANSWER: D
+
+78. [ANULADA] [TEMA="2022.132"] La capa de software que permite utilizar, al mismo tiempo, diferentes sistemas operativos o máquinas virtuales en una mismo entorno hardware se denomina:
+a) Virtual Desktop Infrastructure (VDI).
+b) HypervisorTerminal.
+c) Terminal Server.
+d) Virtual Network Computing (VNC).
+ANSWER:
+
+79. [TEMA="2022.131"] Entre los objetivos del proyecto STORK 2.0 (Secure idenTity acrOss boRders linKed) NO se encuentra:
+a) Construcción de pilotos o demostradores de servicios de administración electrónica.
+b) Estudio de las especificaciones técnicas comunes que permitan el reconocimiento europeo de las eID (identidades electrónicas) nacionales.
+c) Desarrollo de tecnologías y servicios avanzados de eID que sirvan de base para la construcción de la identidad electrónica europea única (eueID) prevista para 2020.
+d) Realización de estudios sobre la situación legal y técnica de los sistemas de identificación y firma electrónica utilizados en los Estados Miembros.
+ANSWER: C
+
+80. [TEMA="2022.125"] Para prevenir un ataque de SQL Injection:
+a) Debe detenerse la base de datos para evitar su infección por el código malicioso.
+b) Debe evitarse el uso de procedimientos almacenados en la base de datos.
+c) Debe eliminarse del equipo del usuario el código SQL descargado, para evitar su propagación.
+d) Debe utilizarse instrucciones SQL parametrizadas.
+ANSWER: C
+
+81. [TEMA="2022.48"] En el caso de un fichero de datos relativo a la comisión de infracciones administrativas o penales, indique los niveles de seguridad que deberán implantarse:
+a) Sólo las medidas de seguridad de nivel básico.
+b) Además de las medidas de seguridad de nivel básico, las medidas de nivel medio y alto.
+c) Además de las medidas de seguridad de nivel básico, las medidas de nivel medio.
+d) Además de las medidas de seguridad de nivel básico, las medidas de nivel alto.
+ANSWER: C
+
+82. [TEMA="2022.21"] Una de las competencias que debe poseer actualmente un directivo TIC es la de liderazgo. El liderazgo autocrático se caracteriza por:
+a) Permitir y formentar la participación de su equipo en la adopción de decisiones.
+b) Limitar su intervención a comunicar el objetivo final del trabajo que ha de realizar su equipo.
+c) Utilizar poco el poder y conceder al equipo un alto grado de independencia en sus tareas.
+d) Adoptar decisiones de manera unilateral, limitando o excluyendo a los subordinados.
+ANSWER: D
+
+83. [ANULADA] [TEMA="2022.100"] De las siguientes afirmaciones relacionadas con los conceptos de reingeniería, señale la respuesta correcta:
+a) La ingeniería inversa transforma una forma de representación en otra con el mismo nivel de abstracción.
+b) La ingeniería del software para los nuevos desarrollos es equivalente al concepto de ingenieria hacia adelante.
+c) La reestructuración analiza los componentes existentes ya sean datos o procesos creando representaciones a un nivel de abstracción superior.
+d) La ingeniería inversa analiza los componentes existentes ya sean datos o procesos creando representaciones a un nivel de abstracción superior.
+ANSWER:
+
+84. [TEMA="2022.77"] Respecto a HTML5, señale la respuesta correcta:
+a) Su uso está recomendado para el desarrollo web de los sitios de la Administración General del Estado, siempre que no se incumpla la normativa de accesibilidad.
+b) En ningún caso se recomienda el uso de HTML5 en el desarrollo web de los sitios de la Administración General del Estado.
+c) Simplifica el desarrollo de sitios web porque elimina el uso de CSS (Cascading Style Sheets).
+d) No permite incluir vídeo de forma nativa, siendo necesario recurrir siempre a complementos (plugins) externos.
+ANSWER: A
+
+85. [TEMA="2022.65"] En relación con jquery, señale la respuesta correcta:
+a) Es una biblioteca disponible en Java 6 y 7 que facilita la realización de consultas a bases de datos relacionales.
+b) Es una biblioteca de Javascript para simplificar la interacción con páginas web.
+c) Es un estándar abierto que facilita la realización de consultas a bases de datos relacionales.
+d) Es una biblioteca para el acceso a almacenes de datos y big data, que permite la interacción del usuario final con los datos agregados y de detalle.
+ANSWER: B
+
+86. [TEMA="2022.126"] En el ámbito de la ciberseguridad, respecto de las APT (Advanced Persistent Threats), señale la respuesta correcta:
+a) Una APT comprende distintas fases entre las que se encuentra la extracción de datos.
+b) Una APT no utiliza técnicas de ingeniería social para lograr el acceso al sistema objetivo.
+c) Una APT es un conjunto de software malicioso con poca repercusión en el sistema objetivo y de fácil detección por las herramientas antivirus.
+d) Una APT consiste en ataques avanzados próximos en el tiempo hacia objetivos generales e impersonales.
+ANSWER: A
+
+87. [TEMA="2022."] ¿En qué circunstancias los prestadores de servicios de la sociedad de la información no son responsables por la información que proporcionen a los destinatarios de sus servicios?
+a) Cuando el proveedor de contenidos al que se enlace o cuya localización se facilite actué bajo la dirección, autoridad o control del prestador que facilite la localización de esos contenidos.
+b) Siempre que tengan conocimiento de la ilicitud de la información o de que lesiona derechos o bienes de un tercero susceptible de indemnización y aleguen la imposibilidad de suprimir o inutilizar el enlace.
+c) Cuando el proveedor de contenidos al que se enlace o cuya localización se facilite desconozca el contenido ilícito de dicha información.
+d) Siempre que no tengan conocimiento efectivo de la ilicitud de la información o de que lesiona derechos o bienes de un tercero susceptible de indemnización o si lo tienen, actúen de forma diligente para suprimir o inutilizar el enlace.
+ANSWER: D
+
+88. [ANULADA] [TEMA="2022.77"] ¿Dónde se usa el elemento <video>?
+a) En HTML5 para incluir de forma estándar vídeos, sin necesidad de plugings adicionales, en navegadores Internet Explorer 8 y superiores, Safari y Chrome.
+b) En Java para incluir de forma estándar vídeos, sin necesidad de plugings adicionales, en navegadores Internet Explorer 8 y superiores, Safari y Chrome.
+c) En Java para incluir de forma estándar vídeos, sin necesidad de plugings adicionales, en navegadores Internet Explorer 8 y superiores, Safari y Chrome.
+d) En HTML5 para incluir de forma estándar vídeos, sin necesidad de plugings adicionales, en navegadores Internet Explorer 9 y superiores, Safari y Chrome.
+ANSWER:
+
+89. [ANULADA] [TEMA="2022.90"] Señale cuál de los siguientes lenguajes y notaciones no da soporte ni durante el diseño, ni durante la construcción en modelos basados en soluciones BPM:
+a) XPLD (XML Process Definition Language).
+b) BPMN (Business Process Model and Notation).
+c) BCFM (Business Charter Flow Model).
+d) YAWL (Yet another workflow language).
+ANSWER:
+
+90. [TEMA="2022.46"] De las siguientes opciones, señale cuál es la que incluye extensiones que son todas admitidas de acuerdo con lo establecido en la Norma Técnica de Interoperabilidad de Catálogo de estándares:
+a) .xls, .xlsx, .doc, .docx
+b) .rar, .zip, .gz
+c) .jpg, .gif, .png, .tiff
+X d) .mp3, .ogg, .mp4
+ANSWER: D
+
+91. [TEMA="2022.81"] Indique la respuesta FALSA respecto a las autoridades de validación del DNI electrónico:
+a) La prestación de estos servicios de validación se realiza en base a Online Certificate Status Protocol (OCSP).
+b) Para la validación del DNI electrónico se dispone de dos prestadores de Servicios de Validación.
+c) La información sobre los certificados electrónicos revocados se almacena en las denominadas listas de revocación de certificados (CRL).
+d) En la Infraestructura de Clave Pública adoptada para el DNI electrónico, se ha optado por asignar a una misma entidad las funciones de Autoridad de Validación y Certificación.
+ANSWER: D
+
+92. [TEMA="2022.88"] En el modelo Entidad/Relación, y dada una jerarquía obligatoria disjunta, indicar cuál de las siguientes afirmaciones es correcta:
+a) No es necesario que toda ocurrencia del supertipo se encuentre en al menos uno de los subtipos.
+b) Es necesario que toda ocurrencia del supertipo se encuentre en uno solo de los subtipos.
+c) Es necesario que toda ocurrencia del supertipo se encuentre en todos los subtipos.
+d) Es necesario que toda ocurrencia del supertipo se encuentre en al menos uno de los subtipos.
+ANSWER: B
+
+93. [TEMA="2022.119"] Respecto a la intranet de un ministerio señale la respuesta correcta:
+a) No puede estar conectada a la Red Sara, para evitar fugas de información.
+b) Se incluye dentro de la zona desmilitarizada pública (DMZ), para garantizar el acceso por teletrabajo.
+c) No podrá usar un nombre interno como ministerio.age en su certificado SSL a partir de 2016.
+d) Debe usar el direccionamiento privado 10.0.0.0/24, 192.168.0.0/16 y 172.16.0.0/16.
+ANSWER: C
+
+94. [TEMA="2022.88"] En el desarrollo orientado a objetos, dos casos de uso pueden estar relacionados mediante una relación include, y reciben los nombres de caso base y caso de inclusión. Señale la respuesta correcta:
+a) La ubicación de la inclusión en el caso base es implícita. Es decir, es una sentencia explícita dentro de la secuencia de comportamiento del caso de uso base.
+b) El caso de uso de inclusión indica una secuencia adicional de comportamiento cuya ejecución depende de una condición.
+c) El caso de uso de inclusión no puede acceder a atributos u operaciones del caso de uso base.
+d) Solo puede haber una relación de inclusión para un caso de uso base.
+ANSWER: A
+
+95. [ANULADA] [TEMA="2022.95"] Según las “Técnicas y Prácticas” en Métrica 3, al iniciar el diseño de prototipos de pantallas, es imprescindible tener en cuenta lo siguiente:
+a) Facilitar la exploración del sistema sin riesgo, permitiendo interrumpir y deshacer las acciones realizadas.
+b) Dificultar la selección de acciones destructivas y no reversibles.
+c) Buscar la eficiencia en el diálogo evitando cambios frecuentes entre los dispositivos de entrada.
+d) Evitar darle información al usuario sobre el estado de ejecución de las funciones.
+ANSWER:
+
+96. [TEMA="2022.88"] Señale la respuesta correcta respecto al modelo de Desarrollo Rápido de Aplicaciones (DRA) para el desarrollo de nuevas aplicaciones:
+a) El DRA no es un modelo adecuado si la nueva aplicación hace uso de tecnologías nuevas.
+b) Aunque un sistema no se pueda modularizar adecuadamente, la construcción de los componentes necesarios para DRA no será problemático.
+c) El DRA no es adecuado cuando el software nuevo no requiere un alto grado de interoperatividad con aplicaciones ya existentes.
+d) Es un modelo de proceso del desarrollo del software en espiral que enfatiza un ciclo de desarrollo extremadamente corto.
+ANSWER: A
+
+97. [ANULADA] [TEMA="2022.120"] Respecto al cliente de firma electrónica de @firma, señale la respUesta correcta:
+a) Es un paquete de firma electrónica en cliente, dependiente del servicio web, no disponible para entornos móviles, a disposición de todas las Administraciones Públicas.
+b) Solo funciona bajo el sistema operativo Windows no siendo posible su uso en los sistemas operativos Linux y MacOS X.
+c) Se libera como software libre de fuentes abiertas con una licencia: GNU GPL versión 1 y EUPL v2.2 .
+d) Permite la firma de documentos, independientemente de su formato, mediante estándares avanzados de firma como XAdES, CAdES, PAdES, PDF, ODF u OOXML.
+ANSWER:
+
+98. [ANULADA] [TEMA="2022.55"] Respecto a la implantación del cloud computing en las Administraciones Públicas, señale la respuesta correcta:
+a) Entre las dificultades para su puesta en marcha se encuentran la deslocalización de la información y la falta de ancho de banda en determinadas sedes.
+b) Permite ahorro en tiempo y una ampliación rápida de los servicios ofrecidos por el organismo, con la consecuente mejora de la productividad general.
+c) Las condiciones para su implantación en las Administraciones Públicas se regulan en el Real Decreto 806/2014, de 19 de septiembre, sobre organización e instrumentos operativos de las TIC en la Administración General del Estado y sus Organismos Públicos.
+d) El modelo de cloud computing será más eficiente si el organismo delega la gestión de la seguridad en varios proveedores, puesto que comparten un mismo bus de servicios.
+ANSWER:
+
+99. [TEMA="2022.46"] El proyecto SCSP, del Ministerio de Hacienda y Administraciones Públicas:
+a) Es un conjunto de especificaciones orientadas al intercambio de datos entre Administraciones Públicas con el objetivo de eliminar los certificados administrativos en papel.
+b) Es un catálogo de interfaces de interoperabilidad para el consumo de datos del Directorio Común de Organismos y Oficinas.
+c) Permite la conexión en tiempo real de múltiples salas de videconferencia.
+d) Es un diagramador de procedimientos administrativos, para su integración en las sedes electrónicas.
+ANSWER: A
+
+100. [TEMA="2022.62"] El 3 de Noviembre de 2014 se ha liberado una nueva versión del sistema operativo Android. Se denomina:
+a) Android 4.3 Jelly Bean
+b) Android 5.0 Lollipop.
+c) Android 6.0 Marshmallow.
+d) Android 4.4 KitKat.
+ANSWER: B

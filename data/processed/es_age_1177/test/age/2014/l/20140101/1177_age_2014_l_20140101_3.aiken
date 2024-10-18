@@ -1,0 +1,371 @@
+BLOQUE IV
+1. El comando ping es el acrónimo de:
+a) Packet Internet Group.
+b) Packet Internet Gangway.
+c) Packet Internet Gate.
+d) Packet Internet Groper.
+ANSWER:
+
+2. En un sistema operativo (S.O) con memoria virtual, cuando un proceso en ejecución genera un fallo de página:
+a) Se cierran todos los procesos en ejecución ya que es un error grave del sistema operativo.
+b) El S.O busca la página en memoria secundaria y la carga en memoria principal.
+c) El S.O interrumpe la ejecución del proceso y lo pone en la cola de errores.
+d) En un sistema con memoria virtual nunca hay fallos de página.
+ANSWER: D
+
+3. En Linux, guardamos en un fichero llamado log.txt todas las incidencias de una máquina con la siguiente estructura fecha#descIncidencia, ¿qué comando deberíamos usar para contar el número de filas que tienen la palabra "error"?
+a) grep error log.txt | wc –l
+b) grep wc –l |error log.txt
+c) grep error log.txt | ls -l |cut -r"#" -f2
+d) grep cut -r"#" -f2|ls -l | error log.txt
+ANSWER: B
+
+4. En Linux, la primera partición lógica en el disco duro maestro IDE del canal primario se identifica con:
+a) /dev/sda1
+b) /dev/hda1
+c) /dev/hda5
+d) /dev/hda2
+ANSWER: A
+
+5. Señale entre las siguientes herramientas el gestor de copia de seguridad en línea utilizado por productos de base de datos Oracle:
+a) RFID
+b) RSYNC
+c) RMAN
+d) RMON
+ANSWER: C
+
+6. ¿Qué es Navicat Premium en el entorno de administración de bases de datos?
+a) Es un conjunto de herramientas multiplataforma de software libre creado para ayudar a los administradores y desarrolladores de aplicaciones de bases de datos Oracle. También suministra soporte para MySQL y PostgreSQL.
+b) Es una herramienta de IBM que permite realizar administración remota de bases de datos.
+c) Es una base de datos NoSQL distribuida y basada en un modelo de almacenamiento de clave-valor, escrita en Java.
+d) Es un administrador de bases de datos propietario, de múltiples conexiones, que permite conectarse a diversas bases de datos como MySQL, MariaDB, SQL Server, etc. Simultáneamente en una sola aplicación.
+ANSWER: C
+
+7. Respecto a la tecnología de almacenamiento InnoDB señale la respuesta afirmativa:
+a) InnoDB es una tecnología de almacenamiento de datos de código abierto para la base de datos Oracle.
+b) Es la tecnología de almacenamiento de datos por defecto por el sistema administrador de bases de datos relacionales MySQL.
+c) Se basa en el código ISAM.
+d) No permite las búsquedas denominadas full-text, que para conjuntos de datos grandes son mucho más eficientes.
+ANSWER: B
+
+8. Cuál de las siguientes NO es un tipo de declaración válida en un trabajo basado en JCL:
+a) JOB
+b) COMMENT
+c) EXEC
+d) DD
+ANSWER: B
+
+9. Señale de los siguientes cuál NO es un cliente Subversion para control de versiones:
+a) TortoiseCVS
+b) Subversive
+c) Sventon
+d) Subclipse
+ANSWER: A
+
+10. Entre las configuraciones de almacenamiento en RAID, NO ofrece redundancia de datos:
+a) Todas las configuraciones RAID garantizan la redundancia de la información.
+b) RAID 0.
+c) RAID 1.
+d) RAID 5.
+ANSWER: B
+
+11.Cuál de las siguientes relaciones NO es correcta:
+a) 1024 Petabytes = 1 Zettabyte.
+b) 1024 Zettabytes = 1 Yottabyte.
+c) 1024 Yottabytes = 1 Brontobyte.
+d) 1024 Brontobytes = 1 Geopbyte.
+ANSWER: A
+
+12. ¿Cuál de los siguientes NO es un producto de virtualización?
+a) Virtual PC.
+b) XEN.
+c) Atheros.
+d) VirtualBox.
+ANSWER: C
+
+13. Señale qué norma del IEEE normaliza la tecnología Power over Ethernet Plus (PoE +):
+a) IEEE 802.3ab
+b) IEEE 802.3at
+c) IEEE 802.3ap
+d) No es un estándar del IEEE sino que es una categoría de EIA/TIA 568b.
+ANSWER: B
+
+14.La dirección canónica de un puente o bridge es la dirección:
+a) MAC del interface principal del puente.
+b) IP del interface principal del puente.
+c) MAC del puente.
+d) Del interface de rango numérico más alto del puente.
+ANSWER: C
+
+15. En el ámbito de las redes informáticas, el tiempo que tarda un paquete enviado desde un emisor en volver a este mismo emisor habiendo pasado por el receptor de destino es conocido como:
+a) Jitter.
+b) Delay.
+c) Round Trip delay Time.
+d) Latencia.
+ANSWER: C
+
+16. Tamaño destinado en una trama básica Ethernet (IEEE 802.3-2012) para el payload:
+a) Tiene un mínimo de 64 Bytes hasta un máximo de 1500 Bytes.
+b) Tiene un mínimo de 16 Bytes hasta un máximo de 1000 Bytes.
+c) Tiene un mínimo de 46 Bytes hasta un máximo de 1500 Bytes.
+d) Tiene un mínimo de 32 Bytes hasta un máximo de 1000 Bytes.
+ANSWER: C
+
+17.Señale cuál de las siguientes NO es una Protocol Data Unit (PDU) del protocolo SNMP v3:
+a) SetRequest PDU
+b) InformRequest PDU
+c) Report PDU
+d) GetBackRequest PDU
+ANSWER: D
+
+18.En una red Ethernet 10BASE-T, un paquete de 1000 KBytes se transmite en:
+a) 0,81 ms
+b) 8,19 ms
+c) 819 ms
+d) 81,9 ms
+ANSWER: C
+
+19. El protocolo DHCP (Dynamic Host Configuration Protocol) y DHCPv6 (DHCP for IPv6) están definidos en los documentos:
+a) RFC 792 y RFC 4361, respectivamente.
+b) RFC 826 y RFC 3315, respectivamente.
+c) RFC 1034 y RFC 4361, respectivamente.
+d) RFC 2131 y RFC 3315, respectivamente.
+ANSWER: D
+
+20. El puerto del protocolo FTP sobre TLS/SSL (FTPS) es:
+a) 2121
+b) 2020
+c) 980
+d) 2020
+ANSWER: D
+
+21. ¿Cuál de los siguientes protocolos permite conocer en tiempo real si un certificado ha sido o no revocado?
+a) OCSP
+b) CRL
+c) PKCS#10
+d) HTTPS
+ANSWER: A
+
+22. ICMP envía mensajes en forma de datagramas que permiten al conjunto del protocolo TCP/IP realizar entre otras las siguientes funciones, señale la FALSA:
+a) Control de flujo.
+b) Detección de destinos inalcanzables.
+c) Encriptación de paquetes.
+d) Pruebas de conectividad.
+ANSWER: C
+
+23. Señale cuál de las siguientes direcciones IP puede ser asignada a un host en la siguiente subred 132.26.41.90/26:
+a) 132.26.41.128
+b) 132.26.41.127
+c) 132.26.41.124
+d) 132.26.41.55
+ANSWER: C
+
+24. Indique a qué subred pertenece la siguiente dirección de broadcast 95.25.46.159:
+a) 95.25.30.128/27
+b) 95.25.30.128/25
+c) 95.25.46.128/27
+d) 95.25.46.128/25
+ANSWER: C
+
+25. Según RFC 2460, señale de las siguientes cabeceras IPv6 cuál es una cabecera de extensión:
+a) Cabecera Siguiente.
+b) Fragmento.
+c) Límite de Saltos.
+d) Longitud de la Carga Útil.
+ANSWER: B
+
+26. ¿Cuál es el tipo de la dirección IPv6 ::1/128?
+a) Loopback.
+b) Indefinida (Unspecified).
+c) Multicast.
+d) No es válida.
+ANSWER: A
+
+27. Señale cuál de las siguientes afirmaciones es correcta en relación a la MTU (Maximum Transfer Unit) en redes IP, la MTU del camino es el valor de la:
+a) suma de todas las MTU entre el receptor y el emisor.
+b) media aritmética de todas las MTU entre el receptor y el emisor.
+c) MTU más baja de todos los enlaces a lo largo del camino entre nodos receptor y emisor.
+d) MTU más alta de todos los enlaces a lo largo del camino entre nodos receptor y emisor.
+ANSWER: C
+
+28. En el protocolo RIP Version 2 (Routing Information Protocol), cuyo algoritmo está basado en vector distancia, el límite máximo de saltos a partir del cual se considera una ruta como inalcanzable es:
+a) 15 saltos.
+b) 9 saltos.
+c) 16 saltos.
+d) 7 saltos.
+ANSWER: A
+
+29. El PUE (Power Usage effectiveness) es una métrica que trata de determinar la eficiencia energética de un Centro de Proceso de Datos, y se define como el resultado de dividir:
+a) La potencia total consumida por el CPD por la potencia consumida en el equipamiento TI (servidores, equipos de comunicaciones, almacenamiento y otros).
+b) La potencia total consumida por el CPD por la potencia usada en el equipamiento no TI (climatización, distribución eléctrica, iluminación, etc).
+c) La potencia consumida por el equipamiento TI entre la consumida por el equipamiento no TI.
+d) La potencia total consumida por el CPD por la potencia consumida en el equipamiento de cómputo (servidores), excluyendo equipos de comunicaciones y almacenamiento.
+ANSWER: A
+
+30. Diferencia entre el protocolo RIP v1 y RIP v2:
+a) RIP v1 es un protocolo de estado del enlace mientras que el RIP v2 es de vector de distancia.
+b) RIP v1 encapsula los mensajes en paquetes UDP y RIP v2 en paquetes TCP.
+c) RIP v1 no admite subredes y RIP v2 si las admite.
+d) RIP v1 es un protocolo de encaminamiento dinámico de tipo IGP Y RIP v2 es un protocolo de encaminamiento dinámico de tipo BGP.
+ANSWER: C
+
+31. El tamaño de una cabecera MPLS según la RFC 3032, es de:
+a) 20 bits.
+b) 32 bits.
+c) 48 bits.
+d) 64 bits.
+ANSWER: B
+
+32. ¿Quién elaboró la especificación Transport Layer Security (TLS)?
+a) UIT (Unión Internacional de Telecomunicaciones).
+b) IETF (Internet Engineering Task Force).
+c) Netscape Communications.
+d) ETSI (European Telecommunications Standards Institute).
+ANSWER: B
+
+33. ¿Cuál de los siguientes modos de funcionamiento NO se corresponde con el algoritmo de cifrado DES?
+a) Modo ECB (Electronic CodeBook).
+b) Modo CBC (Cipher Block Chaining).
+c) Modo OFB (Output FeedBack).
+d) Modo UBC (Uncipher Block Chaining).
+ANSWER: D
+
+34. Atendiendo únicamente a criterios de eficiencia en tiempo, ¿cuál de los siguientes métodos sería el más eficiente para securizar las comunicaciones entre usuarios dentro de una red?
+a) Mediante claves simétricas.
+b) Mediante claves asimétricas.
+c) Mediante claves simétricas compartidas periódicamente con claves asimétricas.
+d) Mediante claves asimétricas compartidas periódicamente con claves simétricas.
+ANSWER: A
+
+35. En el contexto de la web semántica, señale la definición correcta de ontología:
+a) Es una especificación explícita de una conceptualización.
+b) Es un sistema de clasificación abierto y/o colaborativo basado en etiquetas.
+c) Es un conjunto de nombres en el cual todos los nombres son únicos.
+d) Es un sistema de clasificación que permite agrupar un conjunto de elementos dentro de unas categorías predefinidas que pueden estar contenidas unas en otras, o relacionadas de cualquier otra manera.
+ANSWER: A
+
+36. La arquitectura de cortafuegos que combina un router con un host bastión y donde el principal nivel de seguridad proviene del filtrado de paquetes se denomina:
+a) Screened Subnet.
+b) Dual-Homed Host.
+c) Router-Homed Host.
+d) Screened Host.
+ANSWER: D
+
+37. ¿Qué es SPDY?
+a) Es un protocolo que reduce el tiempo de carga de sitios web.
+b) Storage Protocol Data Yield, protocolo para el almacenamiento de datos según la probabilidad de uso de los mismos.
+c) Es una medida de rendimiento de CPU utilizada en entornos de altas prestaciones.
+d) Es la evolución de HSUPA con una tasa de transferencia de 5 Gbps reales.
+ANSWER: A
+
+38. ¿A qué se refiere el término mashup?
+a) Plataforma de desarrollo Web que define la base de datos (MySQL), el servidor Web (Apache), el sistema operativo (Solaris), y el lenguaje de programación (Haskell).
+b) Pequeña sección de la ventana del navegador que muestra un mensaje de texto que se desplaza a través de la pantalla.
+c) Conjunto de técnicas y recomendaciones para conseguir que una página web aparezca en los primeros resultados de los buscadores para unas determinadas palabras clave (keywords).
+d) Aplicaciones web que combinan datos y contenido de distintas fuentes para dar una experiencia de usuario integrada.
+ANSWER: D
+
+39. El lenguaje de consulta sobre RDF que permite hacer búsquedas sobre los recursos de la Web Semántica utilizando distintas fuentes de datos es:
+a) OWL
+b) RQUERY
+c) JQUERY
+d) SPARQL
+ANSWER: D
+
+40. Señale la respuesta correcta según lo que dicta el artículo 79 de la Ley 9/2014, General de Telecomunicaciones:
+a) Por la comisión de infracciones muy graves se impondrá al infractor multa por importe de hasta 30 millones de euros.
+b) Las infracciones muy graves, en función de sus circunstancias, podrán dar lugar a la inhabilitación hasta de 10 años del operador para la explotación de redes o la prestación de servicios de comunicaciones electrónicas.
+c) Por la comisión de infracciones graves se impondrá al infractor multa por importe de hasta 5 millones de euros.
+d) Por la comisión de infracciones leves se impondrá al infractor una multa por importe de hasta 50 mil euros.
+ANSWER: D
+
+41. Señala la afirmación INCORRECTA:
+a) La tecnología VDSL permite transmisión asimétrica o simétrica.
+b) VDSL utiliza 2 canales para transmisión de datos, uno para subida y el otro para descarga.
+c) La tecnología HFC es una combinación de cable y fibra óptica.
+d) La tecnología FTTH permite que la fibra óptica llegue hasta la casa del cliente.
+ANSWER: B
+
+42. Según la norma de la ITU-T asociada a la recomendación G.726, de Modulación por impulsos codificados diferencial adaptativa, indicar la respuesta correcta que se corresponde con su bit rate (kbit/s):
+a) 16, 24, 32 ó 40
+b) 6, 12, 24 ó 48
+c) 4, 8, 16 ó 40
+d) 8, 16, 32 ó 64
+ANSWER: A
+
+43. Uno de los problemas en cuanto a la calidad del servicio (QoS) de una red VoIP es la latencia, señale su definición correcta:
+a) Variación en el tiempo de llegada de los paquetes, causada por congestión de red, pérdida de sincronización o por las diferentes rutas seguidas.
+b) Es una reflexión retardada de la señal acústica original.
+c) El tiempo que tarda un paquete en llegar desde la fuente al destino.
+d) Pérdida que se produce al usar protocolos no orientados a conexión que no reenvían paquetes perdidos. Además también se produce por descartes de paquetes que no llegan a tiempo al receptor.
+ANSWER: C
+
+44. La tecnología de telefonía móvil GSM utiliza, entre otras, la siguiente base de datos de usuarios:
+a) MSC
+b) BSC
+c) NSS
+d) VLR
+ANSWER: D
+
+45. Señalar de las siguientes tecnologías de comunicaciones móviles cuál utiliza W-CDMA:
+a) GSM
+b) EDGE
+c) UMTS
+d) LTE
+ANSWER: C
+
+46. La red de acceso especificada para la tecnología de comunicaciones móviles LTE (Long Term Evolution) y que utiliza la tecnología OFDMA para la comunicación con los equipos de los usuarios se llama:
+a) E-UTRAN
+b) FFTN
+c) LMDS
+d) WIMAX
+ANSWER: A
+
+47. Señale la afirmación correcta respecto al estándar IEEE 802.11ac-2013:
+a) Amplía ancho de banda de canal a 160 MHz y opera en la banda de 2,4 GHz.
+b) Amplía ancho de banda de canal a 40 MHz y opera en la banda de 2,4 GHz.
+c) Amplía ancho de banda de canal a 80 MHz y opera en la banda de 60 GHz.
+d) Amplía ancho de banda de canal a 160 MHz y opera en la banda de 5 GHz.
+ANSWER: D
+
+48. En un escenario de movilidad IP ¿de qué se encarga el Agente Base (Home Agent)?
+a) Es el nodo que cambia su punto de conexión a la red sin cambiar su dirección IP o perder las conexiones establecidas.
+b) Es el router situado en la red origen del nodo móvil que intercepta el tráfico destinado al nodo móvil y se lo reenvía mediante túneles IP, realizando además tareas de localización de los nodos móviles.
+c) Es el router situado en la red visitada que proporciona servicios de encaminamiento a los nodos móviles registrados.
+d) Es el router situado en la red visitada que facilita una nueva dirección IP al nodo móvil.
+ANSWER: B
+
+49. Un proyecto europeo cuyo objetivo estratégico fue mejorar y potenciar el uso de la tecnología PLC se denominó proyecto:
+a) CORDIS
+b) OPERA
+c) Dublin Core
+d) POIROT
+ANSWER: B
+
+50. ¿En qué consiste la liberación del dividendo digital?
+a) Es el proceso por el que se volvieron a repartir las frecuencias del espectro radioeléctrico de los 900 MHz, anteriormente asignadas a Movistar, Vodafone y Orange, a aquellos operadores que lo solicitaron, de forma que pudieran ser utilizadas para ofrecer servicios móviles LTE/4G.
+b) Se denomina así al espectro asignado a la emisión de televisión analógica, que va a pasar a ser utilizado por tecnologías LTE/4G.
+c) Se denomina así al espectro recuperado al hacerse efectiva la transición a la televisión digital terrestre.
+d) Es el proceso de reordenación de algunos canales TDT, para liberar las frecuencias radioeléctricas de la banda de 800 MHz que será utilizada por tecnologías móviles LTE/4G.
+ANSWER: D
+
+1. [RESERVA] La tasa de transferencia máxima que soporta el Serial Advanced Technology Attachment Express (SATA Express) es de hasta:
+a) 6 Gbps.
+b) 16 Gbps.
+c) 8 Gbps.
+d) 3 Gbps.
+ANSWER: B
+
+2. [RESERVA] ¿Qué características de seguridad presenta SNMPv3, tal y como se mencionan en la RFC 3418 (MIB for the SNMP Protocol)?
+a) Se recomienda que los implementadores usen el modelo de seguridad basado en usuario y el control de acceso basado en vistas.
+b) Se obliga a que los implementadores usen el modelo basado en usuario y el control de acceso basado en vistas.
+c) En dicha RFC no se menciona ningún elemento de seguridad.
+d) En temas de seguridad, sólo hace mención al uso obligatorio del algoritmo de encriptación CBC (Cipher Block Chaining) de DES, conocido también por DES-56.
+ANSWER: A
+
+3. [RESERVA] Si se quiere interconectar mediante fibra óptica dos dispositivos separados a menos de 100 metros en un CPD a una velocidad de 40Gb/s, la categoría mínima de fibra óptica a usar debería ser:
+a) OM2
+b) OM3
+c) OM4
+d) OM5
+ANSWER: C
