@@ -1,66 +1,68 @@
 BLOQUES I y II
-
-1. El chip del DNI 3.0 en su zona de seguridad {accesible por el dudadano en los puntos de actualizaci6n DNie) contiene:
-a) Certificado C.A intermedia emisora.
-b) Dates de filiaci6n del cludadano.
+1. El chip del DNI 3.0 en su zona de seguridad (accesible por el dudadano en los puntos de actualizaci6n DNie) contiene:
+a) Certificado CA intermedia emisora.
+b) Dates de filiación del ciudadano.
 c) craves Diffie-Hellman.
 d) Certificado x509 de componente.
-ANSWER:
+ANSWER: B
 
-2. ¿Cual de los siguientes comandos UNIX lmprime en pantalla un resumen detallado linea a linea de las diferencias entre archivos?
+2. ¿Cual de los siguientes comandos UNIX imprime en pantalla un resumen detallado línea a línea de las diferencias entre archivos?
 a) cmp
 b) sort
-ANSWER:
+c) wc
+d) diff
+ANSWER: D
 
-3. El lector NFC y el DNI 3.0 negocian y establecen un canal seguro de comunicacion usando el c6digo CAN (Card Access Number), este es un c6digo:
-a) numerico de 9 d(gitos que debe conocer solo el ciudadano.
-b) de 6 dfgitos y de un solo uso, es decir, s61o es valido para una (mica sesi6n de trabajo, termlnada esta habrfa que solicitar otro.
-c} de 6 dfgitos que aparece en el anverso del documento fisico del DNI 3.0.
-d} accesible en la zona privada del DNI 3.0 mediante la utilizaci6n de la clave personal de acceso o PIN.
-ANSWER:
+3. El lector NFC y el DNI 3.0 negocian y establecen un canal seguro de comunicacion usando el código CAN (Card Access Number), este es un código:
+a) numérico de 9 dígitos que debe conocer sólo el ciudadano.
+b) de 6 dígitos y de un solo uso, es decir, sólo es válido para una única sesión de trabajo, terminada esta habría que solicitar otro.
+c) de 6 dígitos que aparece en el anverso del documento físico del DNI 3.0.
+d) accesible en la zona privada del DNI 3.0 mediante la utilización de la clave personal de acceso o PIN.
+ANSWER: C
 
-4. Segun la Ley 59/2003, de firma electrimlca, indique cual es el tipo de firma electronlca que: tendra respecto de los datos consignados en forma elec:tr6nica el mismo valor que la flrma manuscrita en reladon con los consignados en papel".
-a) Anna electronica avanzada.
-b) Firma electr6nica intermedia.
-c) Rrma electr6nlca reconocida.
-d) Firma electr6nlca final.
-ANSWER:
+4. Segun la Ley 59/2003, de firma electrónica, indique cuál es el tipo de firma electrónica que: "tendrá respecto de los datos consignados en forma electrónica el mismo valor que la firma manuscrita en relación con los consignados en papel".
+a) Firma electrónica avanzada.
+b) Firma electrónica intermedia.
+c) Rrma electrónlca reconocida.
+d) Firma electrónlca final.
+ANSWER: C
 
-5. Segun se establece en el Real Decreto 414/2015 con independencia de lo que establece el artrculo 6.1 sobre la validez del DNI, la vigencia de los certlficados electronicos reconocidos incorporados al mismo NO podri\ ser superior a:
-a) 2 anos
-b) 3 aiios
-c) 4 aiios
-d) 5 aiios
-ANSWER:
+5. Según se establece en el Real Decreto 414/2015 con independencia de lo que establece el artrculo 6.1 sobre la validez del DNI, la vigencia de los certlficados electrónicos reconocidos incorporados al mismo NO podrá ser superior a:
+a) 2 años
+b) 3 años
+c) 4 años
+d) 5 años
+ANSWER: D
 
-6. La aplicacion eCoFlrma, realizada por el Mlnfsterlo de Energia, Industria y Agenda Digital, permlte generar y valldar firmas electronlcas en formato:
+6. La aplicación eCoFirma, realizada por el Ministerio de Energía, Industria y Agenda Digital, permite generar y validar firmas electrónicas en formato:
 a) PAdES
 b) CAdES
 c) XAdES
 d) XDES
-ANSWER:
+ANSWER: C
 
+7. En los entornos UNIX / Linux o MAC podemos utilizar el DNI 3.0 a traves de un módulo criptográfico denominado:
+a) PCKS#11
+b) PKCS#lO
+c) PKCS#11
+d) PSCK#12
+ANSWER: C
 
-7. En los entornos UNIX / Linux o MAC podemos utilizar el DNI 3.0 a traves de un modulo criptogr6fico denomlnado:
-a) PCKS#11 b) PKCS#lO
-c) PKCS#11 d) PSCK#12
-ANSWER:
-
-Segun establece la Ley Organica 15/1999, de Proteccion de Datos de Caracter Personal, las disposiciones de creaci6n ode modlficacion de ficheros de las Administraciones Publlcas que contengan datos de caracter personal deberan indicar el procedimiento de:
+8. Segun establece la Ley Organica 15/1999, de Proteccion de Datos de Caracter Personal, las disposiciones de creaci6n ode modlficacion de ficheros de las Administraciones Publlcas que contengan datos de caracter personal deberan indicar el procedimiento de:
 a) cancelaci6n de los datos de caracter personal.
 b) recogida de los datos de caracter personal.
 c) acceso de los datos de caracter personal.
 d) rectificaci6n de los clatos de caracter personal.
-ANSWER:
+ANSWER: B
 
-Segun el Real Decreto 1720/2007, por el que se aprueba el Reglamento de desarrollo de la Ley Organlca 15/1999 LOPD, cuando deban implantarse las medidas de seguridad de nivel:
+9. Segun el Real Decreto 1720/2007, por el que se aprueba el Reglamento de desarrollo de la Ley Organlca 15/1999 LOPD, cuando deban implantarse las medidas de seguridad de nivel:
 a) alto, la transmisi6n de datos de caracter personal a traves de redes de comunicaclones electr6nicas se reallzara cifrando dichos datos.
 b) media, la transmisi6n de dates de caracter personal a traves de redes publicas o redes inalambricas de comunicaciones electr6nicas se realizara cifrando dichos dates.
 c) alto, la transmlsl6n de datos de caracter personal a traves de redes publicas o redes inalambricas de comunicaciones electr6nicas se realizara cifrando dichos datos.
 d) alto, la transmlsl6n de datos de caracter personal a traves de redes publicas o redes inalambricas de comunicaciones electr6nicas se realizara cifrando dlchos datos o bien utilizando cualquier otro mecanismo que garantice que la informaci6n no sea inteligible nl manipulada por terceros.
-ANSWER:
+ANSWER: D
 
-Un Plan de Contingencias del area de la seguridad de la informad6n, contendra:
+10. [ANULADA] Un Plan de Contingencias del area de la seguridad de la informad6n, contendra:
 a) de prevenci6n cuya funci6n es minlmizar la probabilidad de ocurrenda de inddentes.
 b) de correcci6n que permitan reduclr los danos una vez que un incidente se ha producido.
 c) de analisis que permlta identificar cuales son los sistemas de inforrnaci6n mas criticos.
@@ -73,1068 +75,208 @@ b} Toda el trafico clebera atravesar dicho cortafuegos que solo dejara transltar
 c) Toda el trafico atravesa'ra dos o masequlpos cortafuegos de distintos fabricantes dispuestos en cascada, inclependientemente
 del nivel de seguridad.
 d) Se emplearan redes privadas virtuales cuando la comunicaci6n dlscurra entre las redes del proplo dominio de seguridad.
-ANSWER:
+ANSWER: B
 
 12. La Ley 39/2015, del Procedimiento Adminlstratlvo Comun de las Administraciones Publicas, establece en el articulo 26 que para ser considerados valldos, los documentos electr6nicos admlnistratJvos deberan cumplir clertas condlciones. Entre ellas NO se menclona:
 a) COntener informaci6n de cualquier naturaleza archlvada en un soporte flSico segun un formato determlnado susceptible de identificaci6n y tratamienlD diferenciado.
-b) Disponer de las datos de identificaci6n que permltan su individualizaci6n, sin perjuicio de su posible incorporad6n a un
-expediente electr6nico.
+b) Disponer de las datos de identificaci6n que permltan su individualizaci6n, sin perjuicio de su posible incorporad6n a un expediente electr6nico.
 c) Incorporar una referenda temporal def momenta en que han sido emitidos.
 d) Incorporar las metadatos mfnimos exigldos.
-ANSWER:
+ANSWER: A
 
-13, La Ley 39/2015, del ProcecHmiento Administrativo Comun de las AA.PP, establece en su articulo 98 los medios en los que preferentemente se abonani a la Hacienda Publica una obllgadon de pago. Entre ellos NO menclona:
-a) Tarjeta de credito y debito. b) Transferencia bancaria.
-c) Abono en ofidna bancaria. d) Domiciliaci6n bancaria.
-ANSWER:
+13. La Ley 39/2015, del ProcecHmiento Administrativo Comun de las AA.PP, establece en su articulo 98 los medios en los que preferentemente se abonani a la Hacienda Publica una obllgadon de pago. Entre ellos NO menclona:
+a) Tarjeta de credito y debito.
+b) Transferencia bancaria.
+c) Abono en ofidna bancaria.
+d) Domiciliaci6n bancaria.
+ANSWER: C
 
 14. La herramienta proporcionada por el CCN-CERT para analizar las caracteristicas de seguridad temicas deftnidas a traves del Esquema Naclonal de Seguridad en el ambito de la Administraci6n Electr6nica se denomina:
-a) INES b) LUCIA
-c) CARA d) CARMEN
-ANSWER:
+a) INES
+b) LUCIA
+c) CARA
+d) CARMEN
+ANSWER: C
 
-15, l.Cuando es obligatorio utilizar firma electr6nlca cualific:ada segun el Esquema Nacional de Seguridad?
+15. ¿Cuándo es obligatorio utilizar firma electrónica cualificada según el Esquema Nacional de Seguridad?
 a) Si las dimensiones de integridad y autenticidad del sistema de lnforrnad6n son de nivel alto.
 b) SI las dimensiones de integridad y autenticidad del sistema de rnformaci6n son de nivel media.
 c) SI las dimensiones de integridad y confldencialidad del slstema de informaci6n son de nivel alto.
 d) No depende de la categorfa del sistema de informacl6n.
-ANSWER:
+ANSWER: A
 
 16. En la Ley Organica 3/2007, para la igualdad efectiva de mujeres y hombres, en sus articulos 37 y 38 plantea una serie de objetivos respecto a Igualdad para dos empresas relac:ionadas con los medios de comunicac16n, estas son:
 a) Corporaci6n ATRESMEDIA (A3M) y la Sociedad Estatal de Partidpaciones Industriales (SEPI).
 b) MEDIASET y la Sociedad Estatal de Partidpadones Industriales (SEPI).
 c) Corporaci6n RlVE y la agencia EFE.
 d) COrporaci6n RlVE y la agencia Reuters.
-ANSWER:
+ANSWER: C
 
 17. Segun la Ley Organica 1/2004, la funcionaria victlma de violencia de genero que se vea obllgada a abandonar el puesto de trabajo en la localidad donde venia prestando sus servidos, para hacer efectiva su protecci6n, respecto a la provision de puestos de trabajo tendra derecho:
 a) Solidario.
 b) SUbsidiario.
-·c) Preferente.
+c) Preferente.
 d) No tendran derecho diferente al resto de funcionarias.
-ANSWER:
+ANSWER: C
 
 18. Segun la Ley 39/2006, de Promoci6n de la Autonomia Personal y Atend6n a las persorias en situac:ion de dependencla l.CU61 NO es un grado de dependenda?
 a) Grado I. Depenclencia moderada.
-b) Grado n. Dependencia severa.
+b) Grado II. Dependencia severa.
 c) Grado III. Gran dependencla.
-d) Grado rv. Dependenda continua.
-ANSWER:
+d) Grado IV. Dependenda continua.
+ANSWER: D
 
 19. El Real Decreto 919/2014, por el que se aprueba el Estatuto del Consejo de Transparenda y Buen Gobierno, establece que los Vocales de la Comision de Transparenda y Buen Goblemo desempefiaran su cargo durante:
-a) 2 arias. b) 3 afios.
-c) 4 afios. d) 5 afios.
-ANSWER:
+a) 2 arias.
+b) 3 afios.
+c) 4 afios.
+d) 5 afios.
+ANSWER: D
 
-20. El Presidente del Consejo de Transparencia y Buen Gobiemo seri nombrado por un periodo:
+20. El Presidente del Consejo de Transparencia y Buen Gobierno será nombrado por un periodo:
 a) renovable de 4 afios mediante Orden Ministerial.
 b) no renovable de 5 afios mediante Real Decretn.
 c) renovable de 5 afios mediante Orclen Ministerial.
 d) no renovable de 4 afios mediante Real Decreto.
-ANSWER:
+ANSWER: B
 
 21. Grid Computing es un tipo de arquitectura dlstribuida y paralela, de ambito:
 a) local, en la que se premia la paralelizacl6n, ya continuad6n la distribuci6n.
 b) local, en la que se premia la distribuci6n, ya continuaci6n la paralellzaci6n.
 c) extenso geograficamente, en la que se premia la paralelizaci6n, y a continuaci6n la distribuci6n.
 d) extenso geograflc:amente, en la que se premia la distribud6n, ya continuaci6n la paralelizaci6n.
-ANSWER:
+ANSWER: D
 
-24.
-i.
-Cual es la unidad de capacidad de informac16n que se corresponde con 10 elevado a 24 Bytes?
-a) 1 ExaByte b) 1 ZettaByte
-c) 1 PetaByte d) 1 YottaByte
-i. Cu61 de los siguientes NO es un sistema operativo para dispositivos moviles?
-a) iOS b) Fire OS
-c) Tlzen d) OS/2 Merlin
-ANSWER:
+22. Cual es la unidad de capacidad de informac16n que se corresponde con 10 elevado a 24 Bytes?
+a) 1 ExaByte
+b) 1 ZettaByte
+c) 1 PetaByte
+d) 1 YottaByte
+ANSWER: D
 
-La taxonomfa segun la cual las arquitecturas de los computadores se clasifican en 515D, MISD, SIMD y MIMD, se debe a:
+23. Cu61 de los siguientes NO es un sistema operativo para dispositivos moviles?
+a) iOS
+b) Fire OS
+c) Tlzen
+d) OS/2 Merlin
+ANSWER: D
+
+24. La taxonomfa segun la cual las arquitecturas de los computadores se clasifican en 515D, MISD, SIMD y MIMD, se debe a:
 a) Tanenbaum
+b) Flynn
 c) Tuting
-b)
-Flynn
 d) Dijkstra
-ANSWER:
+ANSWER: B
 
 25. En las tecnologias de clustering, la propiedad de un sistema que oculta la naturaleza heterogenea y distrlbuida de los recursos, y los presenta a los usuarios ya las aplicaciones como un recurso computacional unificado y sencillo se denomina:
 a) VCS (Virtual Cluster Software).
 b) SSI (Single System Image).
 c) SA (System Availability).
 d) AVS (Automatic Virtual System).
-ANSWER:
+ANSWER: B
 
 26. Seiiale el orden correcto de menor a mayor velocidad alcanzacla de los diferentes dispositlvos SCSI:
 a) SCSI-2, Fast SCSI-2, Fast/Wide SCSI-2 y Ultra2 SCSI LVD.
 b) Fast SCSI-2, Ultra SCSI, Uttra2 SCSI LVD y Fast/Wide SCSI-2.
 c) Ultra SCSI, Fast SCSI-2, Fast/Wide SCSl-2 y Ultra2 SCSI LVD.
 d) Fast/Wide SCSI-2, Ultra SCSI, Ultra2 SCSI LVD y Fast SCSI-2.
-ANSWER:
+ANSWER: A
 
 27. El nombre de Raspberry Pi hace referencia a:
 a) Un lenguaje de programaci6n visual libre orientado a la enseiianza.
 b) Un computador de placa simple (SBC) de bajo caste.
 c) Un potente framework para el dlsefio web adaptativo.
 d) Una base de datos NoSQL orientada a documentos.
-ANSWER:
+ANSWER: B
 
-28. El entomo de ejeaaci6n de Android 7.o Nougat es:
-a) Dalvik b) NougatRT
-c) Google Runtime d) ART
-ANSWER:
+28. El entorno de ejecución de Android 7.0 Nougat es:
+a) Dalvik
+b) NougatRT
+c) Google Runtime
+d) ART
+ANSWER: D
 
-29. En un slstema de ficheros formateado en NTFS con una unidad de asignaci6n de 4096 bytes (tamaiio de cluster),
-lcual es el minima tamafto de fichero que se puede generar?
-a) Un fichero mayor de 4GB. b) Un fichero menor de 4GB.
-c) Un fichero de 4KB. d) Un fichero de 1KB.
-ANSWER:
+29. En un slstema de ficheros formateado en NTFS con una unidad de asignaci6n de 4096 bytes (tamaiio de cluster), ¿cual es el minima tamafto de fichero que se puede generar?
+a) Un fichero mayor de 4GB.
+b) Un fichero menor de 4GB.
+c) Un fichero de 4KB.
+d) Un fichero de 1KB.
+ANSWER: C
 
 30. De los siguientes, tcual NO es un entorno de escritorio en Linux?
-a) GNOME b) KSH
-c) KDE d) XFCE
-ANSWER:
+a) GNOME
+b) KSH
+c) KDE
+d) XFCE
+ANSWER: B
 
 31. Indique cual de los siguientes comandos de Unix lista los ficheros de un dlrectorio:
-a) list b) Is
-c) dir -d) chmod
-ANSWER:
+a) list
+b) Is
+c) dir
+d) chmod
+ANSWER: B
 
 32. i.Cual es el nombre d I asistente virtual que lncluye el sistema operativo Windows 10?
-a) Aptana b) Siri ·
-c) Cortana d) Windows Now
-ANSWER:
+a) Aptana
+b) Siri ·
+c) Cortana
+d) Windows Now
+ANSWER: C
 
-33. 5eiiale que comando se utlliza en Linux para comprobar el formato y la validez de los datos del fichero
-/ etc/password:
-
+33. 5eiiale que comando se utlliza en Linux para comprobar el formato y la validez de los datos del fichero / etc/password:
 a) passwd
+b) pwd
 c) passck
-b)
-pwd
 d) pwck
-ANSWER:
+ANSWER: D
 
-34. i.Cual de los siguientes NO es un algoritmo de planlficaci6n de sistema operativo?
-a) SJF {Shortest Job First).
+34. ¿Cuál de los siguientes NO es un algoritmo de planificación de sistema operativo?
+a) SJF (Shortest Job First).
 b) Round Robin.
 c) PJS (Preemptive Job Scheduling).
 d) SRTF (Short Remaining Time First).
-ANSWER:
+ANSWER: C
 
 35. En el contexto de la gesti6n de memoria, i.que intentan minimizar los algoritmos de reemplazo?
 a) El numero de marcos de pagina.
 b) El tiempo de acceso a los marcos de paglna.
 c) La tasa de fallos de pagina.
 d) El tlempo de acceso al heap.
-ANSWER:
+ANSWER: C
 
-36. i.Que compaiiia esta detras del sistema de ficheros F2FS (Flash-Friendly File System), el cual esta orientado a memorias flash?
-a) Sony b) Samsung
-c) Microsoft d) Intel
-ANSWER:
+36. ¿Qué compañía está detrás del sistema de ficheros F2FS (Flash-Friendly File System), el cuál esta orientado a memorias flash?
+a) Sony
+b) Samsung
+c) Microsoft
+d) Intel
+ANSWER: B
 
-37, El lenguaje de programaci6n creado por liipple enfocado en el desarrollo de aplicaciones para iOS y Mac se llama:
-a) Rust b) iRuby
-c) Swift d) Objective-C
-ANSWER:
+37. El lenguaje de programaci6n creado por liipple enfocado en el desarrollo de aplicaciones para iOS y Mac se llama:
+a) Rust
+b) iRuby
+c) Swift
+d) Objective-C
+ANSWER: C
 
-38, lCual de las siguientes opciones es un framework de desarrollo de aplicaciones web?
-a) Python b) PHP
-c) Javi:i d) Ruby on Rails
-ANSWER:
+38. ¿Cual de las siguientes opciones es un framework de desarrollo de aplicaciones web?
+a) Python
+b) PHP
+c) Javi:i
+d) Ruby on Rails
+ANSWER: D
 
 39, lCual de los siguientes es un protocolo de encaminamiento vector distanda avanzado, propiedad de Cisco
 Systems?
-a) EIGRP b) RIP
-c) OSPF d) BGP2
-ANSWER:
+a) EIGRP
+b) RIP
+c) OSPF
+d) BGP2
+ANSWER: A
 
 40. ¿Que protocolo no orientado a conexi6n se utiliza de forma extensa en el nivel de transporte del modelo TCP/IP?
 a) IP
 b) TCP
 c) UDP
 d) RPC
-ANSWER:
-
-1. [RESERVA] La Ley 39/2015, del Procedimiento Administrativo Comun de las AA.PP, trata la obligaci6n a dictar resoluci6n expresa de la Administraci6n estableciendo que el plazo maxima en el que debe notificarse dicha resoluci6n NO podra exceder de:
-a) 4 meses, salvo que una norma con range de Ley establezca uno mayor o asi venga previsto en el Derecho de la Union Europea.
-b) 4 meses, sin excepci6n.
-c) 6 meses, sin excepci6n.
-d) 6 meses, salvo que una nom,a con range de Ley establezca uno mayor o asi venga previsto en el Derecho de la Union Europea.
-ANSWER:
-
-2. [RESERVA] La arquitectura hardware de un ordenador compuesta por: una unidad aribnetico-I6gica, una unidad de control, una unica memoria para almacenar instrucciones y datos, dispositivos de entrada/salida y buses de datos que comunican las distintas partes, es la arquitectura:
-a) de Von Newmann.
-c) de Moore.
-b) Harvard.
-d) de Wirth.
-
-3. [RESERVA] Seiiale cu.ii de los siguientes elementos hardware se usa exclusivamente como una unidad de procesamiento griifico (GPU) en un dispositivo m6vil:
-a) Aclreno 530
-c) Kirin 955
-b) Intel Atom X3
-d) Exynos 8890
-ANSWER:
-
- BLOQUE III
-1. Ingenieria del software es:
-a) Es la actividad profesional que busca la economia de costes en el desarrollo de software, a la vez que se cumplen los plazos de ejecuci6n.
-b) Es la aplicaci6n de un enfoque sistematico, disciplinado y cuantificable al desarrollo, operaci6n y mantenimiento de software, y el estudio de estos enfoques, es decir, la aplicaci6n de la ingenierfa al software.
-c) Es la aplicaci6n de principios robustos y metodos orientados a objetos en el disei'io y desarrollo de programas.
-d) Es el nombre actual que se da a lo que antiguamente se llamaba modelo de ciclo de vida en espiral.
-ANSWER:
-
-2. En lo que se refiere a estandares de referenda de Metrica v3, se ha tenido en cuenta el modelo de cido de vida de desarrollo propuesto en la norma:
-a) ISO 12.107
-b) ISO 12.207
-c) ISO 12.307
-d) ISO 12.407
-ANSWER:
-
-3. Indique la afirmaci6n correcta en relaci6n al modelo de ciclo de vida en espiral:
-a) Fue propuesto por R. Pressman para solventar los problemas de los modelos tradicionales.
-b) Se centra en la identificaci6n de los riesgos asociados a cada alternativa yen la manera de resolver dichos riesgos.
-c) Es un modelo poco versatil y flexible.
-d) La dimensi6n radial mide el grade de avance del proyecto.
-ANSWER:
-
-4. En Metrica v3, dentro del perfil Consultor se engloban, entre otros, los siguientes participantes:
-a) Aclministrador de Bases de Dates - Grupo de Aseguramiento de la calidad - Responsable de Sistemas
-b) Especialista en Comunicaciones - Tecnico de Sistemas - Tecnicos de Comunicaciones
-c) Especialista en Comunicaciones - Equipo de Arquitectura - Equipo de Formaci6n
-d) Tecnico de Sistemas - Tecnicos de Comunicaciones - Equipo de Soporte Tecnico
-ANSWER:
-
-5. En Metrica v3, dentro de la Interfaz de Gesti6n de Proyectos, las actividades contempladas en el grupo de actividades de seguimiento y control (GPS) se desarrollan durante los procesos:
-a) EVS, AS!, DSI, CSI, IAS.
-b) ASI, DSI, CSI, IAS, MSI.
-c) GPI, GPF.
-d) Se realizan al principio del proyecto, al concluir el proceso E\/S y justo al finalizar, al empezar el proceso MS!.
-ANSWER:
-
-6. En el marco de desarrollo agil SCRUM se producen reuniones diarias, denomlnadas daily scrums, durante las cuales cada miembro del equipo debe responder a 3 preguntas, entre las que NO figura:
-a) lQue trabajo tlene previsto realizar hoy?
-b) lQue impedimentos deben elfminarse para poder reallzar el trabajo?
-c) lQue trabajo se ha realizado el dfa anterior? ·
-d) lQue tec:nicas o herramlentas se usarim para realizar el trabajo?
-ANSWER:
-
-7. Los productos finales que se obtienen en la Planificaci6n def Sistema de Informaci6n segun Metrlca v3 y que sirven de entrada a la fase de Evaluaci6n del Sistema de Informaci6n son:
-a) Especificaci6n de la interfaz de usuario.
-b) catalogo de requisites y la arquitectura de Informaci6n.
-c) Planificaci6n de la soluci6n.
-d) Valoraci6n de rlesgos de la soluci6n. Especificaci6n de la interfaz de usuario
-ANSWER:
-
-8. Dentro de la actividad Deflnici6n de Requisitos del Sistema de Metrica v3, indique los participantes intervinientes en la tarea Catalogadon de Requisitos (EVS 3,3):
-a) Jefe de Proyecto y Comite de Direcci6n.
-b) Jefe de Proyecto, Analistas y Usuarios Expertos.
-c) Comite de Direction y Usuarios Expertos.
-d) Consulteres, Analistas y Usuarios Expertos.
-ANSWER:
-
-9. Respecto a las tecnicas que propone la metodologia Met:rica v3, el comportamiento temporal de una clase se representa en el:
-a) Diagrama de Clases.
-b) Diagrama de Transici6n de Estados.
-c) Dlagrama de Componentes.
-d) Dlagrama de Despliegue.
-ANSWER: 
-
-10. En la metodologia 6gil SCRUM, la lista de tareas necesarias para llevar a cabo las historlas de una iteracion es el:
-a) Product Backlog.
-b) Sprint Planning.
-c) Sprint Backlog.
-d) Planning Backlog.
-ANSWER:
-
-11. Segun la metodologia Metrica v3, una de las tecnicas que propone para la obtenci6n de requisttos en el analisis de
-un slstema es:
-a) Diagrama de Aujo de Dates.
-c) Modelo Entidad/Relad6n.
-b) casos de Uso.
-d) Diagrama de Clases.
-ANSWER:
-
-12. En analisis' estructurado, segun Metrica v3, el objetivo del diagrama de estructura es:
-a) Propordonar una visi6n fisica de la construcd6n del sistema de informaci6n.
-b) caprurar los requisites funcionales del sistema y expresartos clesde el punto de vista del usuario.
-c) La obtencl6n de un modelo I6gico de procesos que represente el sistema, con independenCla de las restricciones fisicas del entemo,
-d) Representar la estructura modular del sistema o de un componente del mismo y, definlr los parametros de entrada y salida de cada uno de los modules.
-ANSWER:
-
-13. De acuerdo con la lnterfaz de Metrica v3 de Gestion de la Configuracion, i.cual de los siguientes elementos NO
-debe ser gestionado por la misma?
-a) C6digo fuente.
-b) Especificaciones de requisites.
-c) Pruebas.
-d) Presupuesto.
-ANSWER:
-
-14. En el 6mbito del modelo entidad-relacion extendido, un tipo de entidad, para un conjunto de entidades que poseen la misma estructura, describe el esquema o:
-a) Ocurrencia b) Intension
-c) Extensi6n d) Jerarqufa
-ANSWER:
-
-15. En relacion al modelo entidad-relad6n extendido, la construccion de un nuevo tipo de entidad como composlci6n de otros y su tipo de relaci6n para poder manejarlo en un nlvel de abstracci6n mayor, se denomina:
-a) Especializad6n b) categorfa
-c) Asociacl6n d) Agregaci6n·
-ANSWER:
-
-16. En el diseiio de bases de datos, una vista materializada presenta como ventaja, frente a una vista normal:
-a) La minimizad6n del consume de espacio.
-b) La velocidad de ejecucl6n.
-c) La reclucci6n de la redundancla de datos.
-d) la posibilidad de acceder a ella desde triggers.
-ANSWER:
-
-17. La optimizacion es la t:ecnica que consiste en:
-a) obtener un modelo ffsico de dates a partir del modelo 16gico de dates nonnalizado.
-b) reestructurar el modelo fisico de dates con el de asegurar que satisface los requisites de rendlmiento establecidos y conseguir una adecuada eficiencia del Sistema.
-c) obtener un modelo ffslco de dates a partir del modelo de dases.
-d) una normalizacl6n controlada del modelo fisico de datos que se aplica para reducir o simplifrcar el numero de accesos a la base de dates.
-ANSWER:
-
-18. tCual de las siguientes palabras reservadas de SQL permite aplicar una condici6n a funciones agregadas?
-a) HAVE ... IN
-b) WHERE ... IN
-c) HAVING
-d) GROUP BY
-ANSWER:
-
-CU.ii de las siguientes reglas de Codd corresponde con la siguiente definici6n: "A nivel 16gico, la descripd6n de la base de datos se representa de la misma forma que los datos nonnales y, por tanto, los usuarios autorizados podran consultar dicha descripci6n empleando el mismo lenguaje relacional que emplean para consultar las datos":
-a) Regla 5 (del sublenguaje complete de datos).
-b) Regla 9 (independencia 16gica de datos).
-c) Regla 7 (insercion, actualizaci6n y borrado de alto nlvel).
-d) Regla 4 (cat:alogo en linea dinamico basado en el modelo relacional).
-ANSWER:
-
-En relacion con los metodos de control de concurrenda en bases de datos, la regla de Thomas es una ...
-a) regla para mantener en almacenamiento multiples verslones del mismo granule.
-b) regla para protocolos de bloqueo optimistas.
-c) variante del protocolo de ordenacl6n par marcas de tiempo.
-d) variante para determinar confllctos en las transacciones utilizando una estructura de arbol.
-ANSWER:
-
-tCual es la primera fase del disefto de la base de datos en la que disefia pensando en el SGBD especifico que se va a usar?
-a) Diseii.o concepbJal.
-b) Diseiio logico.
-c) Diseiio fisico.
-d) El dlseii.o de la base de datos es independiente del SGBD que se vaya a utilizar.
-ANSWER:
-
-En la organizaci6n de los reglstros de un fichero que slgue la estructura de fichero disperso", el Metodo de Lin:
-a) nose puecle utilizar como algoritmo de dispersion.
-b) Es un algoritmo que utiliza el desplazamiento de los digitos de tos extremes hada el centro y posteriormente los suma para calcular el valor de dispersi6n.
-c) Es un algoribno que utillza el plegado de los dfgitos de los extremos hacia el centro y se suman para calcular el valor de dispersion.
-d) Es un algoribno que utillza dos numeros primos en el calculo final del valor de dispersion.
-ANSWER:
-
-Seleccione de entre las slgulentes, la opci6n que contiene una relacion correcta de principios del modelo de orientad6n a objetos:
-a) Reusabilidad, herencia, consistencia, polimorfismo y abstracci6n,
-b) Polimorfismo, atomiddad, reusabilidad, consistencia y encapsulaci6n.
-c) Herencia, encapsulad6n, atomiddad, reusabilidad y abstracci6n.
-d) Polimorflsmo, abstracd6n, reusabilidad, herencia y encapsulaci6n.
-ANSWER:
-
-Cuando un m6dulo realiza actividades paralelas usando los mismos datos de eritrada y salida, estamos ante el tlpo de cohesi6n:
-a) L6gica
-b) Secuencial
-c) Comunicacional
-d) Procedimental
-ANSWER:
-
-29. Segun la metodologia Metrlca v3, en el disefio de sistemas de informaci6n se espera que los m6dulos resultantes tengan:
-a) Maximo acoplamiento y maxima cohesion.
-b) Mfnimo acoplamiento y mfnima cohesion.
-c) Mfnimo acoplamiento y maxima c.ohesion.
-d) Maximo acoplamiento y minima cohesion.
-ANSWER:
-
-En Met:rica v3, dentro de la actividad Aprobaci6n del Sistema de Infonnaci6n, indique cual de los sigulentes productos NO es una entrada de la tarea Presentaci6n y Aprobaci6n del Sistema de Informaci6n (CSI 9.1):
-a) Resultado y evaluaci6n de las Pruebas Unitarias.
-b) Procedimientos de Mlgrad6n y carga Inicial de Dates.
-c) Evaluacion del. Resultado de las Pruebas del Sistema.
-d) Plan de Migracion y carga Inrclal de Datos.
-ANSWER:
-
-i. Cual de los siguientes es un entomo e leaming basado en software libre?
-a) Dokeos b) Blackboard
-c) Weber d) eCollege
-ANSWER:
-
-Seg{m Metrica v3, escoja la correcta definicion de "pruebas de entorno:
-a) Consisten en demostrar que el Sistema puede recuperarse ante fallos, tanto de equipo ffsico como 16gico, sin comprometer la integridad de los datos en el entorno.
-b) Consisten en examinar el funclonamiento del sistema cuando est.a trabajando con grandes volumenes de datos, simulando las cargas de trabajo esperadas en el entomo.
-c) Consisten en verificar los mecanismos de control de acceso a1 entomo para evitar alteraciones lndebidas en los dates.
-d) Consisten en verificar las interacciones del sistema con otros slstemas dentro del mismo entorno.
-ANSWER:
-
-Las pruebas cuyo objetivo es ellminar el efecto onda, es decir, comprobar que los cambios sobre un componente de un sistema de informacion no introduce errores o comportamientos no deseados son:
-a) Pruebas unitarias.
-b) Pruebas de aceptac16n.
-c) Pruebas de regresi6n.
-d) Pruebas de caja blanca. 8
-ANSWER:
-
-30. Las pruebas de caja blanca sirven para:
-a) Verificar la estructura interna de un componente con independencia de la funcionalidad establecida para el mismo.
-b) Comprobar el correcto funcionamiento de los componentes del sistema de informaci6n, analizando las entradas y salidas y verificando que el resultado es el esperado.
-c) Comprobar el funcionamiento del sistema en el umbral limite de las recursos, sometiendole a cargas masivas.
-d) Demostrar que el sistema puede recuperarse ante fallos, tanto de equipo fislco coma logico, sin comprometer la integndad de los dates.
-ANSWER:
-
-31. iCu61 de los siguientes grupos NO participa en la activldad 5 {pruebas de implantaci6n del sistema) del proceso
-IAS (Implantacion y Aceptaci6n del Sistema) segun Met:rica v3?
-a) Jefe de Proyecto. b) Responsable de Implantaci6n.
-c) Equipo de Implantaci6n. d) Usuarios Expertos.
-ANSWER:
-
-32. iCual de las siguientes NO es una aplicaci6n de automatizaci6n de pruebas de software?
-a) Junit b) Selenium
-c) Rapid Test d) Robotium
-ANSWER:
-
-33. Segun Metrica v3, un mantenimiento evolutivo incluye:
-a) Los cambios precisos para corregir errores del producto software.
-b) Las modificaciones en un producto software para cubrir el cambio en las necesidades del usuar10.
-c) Las modificaciones que afectan a las entornos en los que el sistema opera.
-d) Las acciones llevadas a.cabo para mejorar la calidad interna de los sistemas.
-ANSWER:
-
-34. No se encuentran dentro del ambito def MSI de Metrica v3 los tipos de mantenimientos:
-a) Evolutivo y adaptativo. b) Perfective y evolutivo.
-c) Adaptive y perfective. d) Correctivo y evolutivo.
-ANSWER:
-
-35. Indique que patron de diseiio permite aiiadir responsabilidades a un objeto din6micamente:
-a) Decorator b) Composite
-c) Adapter d) Proxy
-ANSWER:
-
-36. l.Cual de los siguientes NO es un diagrama de comportamiento, segun la especificaci6n UML 2.0?
-a) Diagrama de caso de uso. b) Diagrama de despliegue.
-c) Diagrama de actividad. d) Diagrama de estado.
-ANSWER:
-
-37. l.Cual de los siguientes NO es un servidor de aplicaciones Java EE 7 certificado?
-a) WildFly. b) IBM WebSphere.
-c) GlassFish Server. d) Apache Tomcat.
-ANSWER:
-
-38. El patr6n de diseiio utilizado en Java Enterprise Edition (JEE) que nos permite locallzar de forma transparente y uniforme los componentes de negocio es:
-a) Service Locator.
-b) Transfer Object Locator.
-c) Transfer Object Assembler.
-d) Value List Handler.
-ANSWER:
-
-39. El fichero que se utiliza en el interfaz de Java en JPA para definir una unidad de persistencia se llama:
-a) persistence-container.xml
-b) mapping-jpa.xml
-c) .  persistence.xml
-d) web.xml
-ANSWER:
-
-40. A la unidad logica de despliegue en la plataforma .NET que induye metadatos, codigo intermedio (MSIL) y otros recursos adicionales se denomina:
-a) Assembly
-b) .NET Class Library
-c) Mondrian
-d) CLRLib
-ANSWER:
-
-La Plataforma universal de Windows o UWP es:
-a) un framework grafico de aplicaciones en 3D con lenguaje C#.
-b) entomo de desarrollo para construir aplicaciones para dispositivos m6viles utilizando CSS3, HTMLS, Y JavaScript en vez de utilizar APis espedficas de cada plataforma coma Android o iOS.
-c) un interprete de c6digo MSIL, que son instrucciones que son ejecutadas posteriormente en la maquina virtual MVM (Microsoft Virtual Machine).
-d) una plataforma comun de aplicaciones presentes en todos los dispositivos que cuentan con Windows 10 Y variantes, se present6 en Windows 8 por primera vez coma Windows Runtime.
-ANSWER:
-
-42. En relaci6n al ciclo de vida de una p6gina ASP.NET, seiiale cual de los sigulentes eventos de pagina realiza los cambios finales en el contenido de la pagina:
-a) Page_PreRender
-c) Page_Unload
-b) Page_Prelnit
-d) Page_Init
-
-43. En relaci6n con el objeto DataSet de ADO.NET 2.0, seiiale la opd6n INCORRECTA:
-a) En un Dataset pueden existir dos o mas tablas o relaciones con el mismo nombre, pero que difieran en mayusculas y minusculas.
-b) Si no especifica ningun nombre en la creaci6n de un Dataset mediante constructor, se establecera el nombre NewDataSet.
-c) Para copiar un DataSet que incluya el esquema y solo las filas modificadas se utiliza el metodo GetChanges del DataSet.
-d) Para crear una copia de un Dataset que solo incluya el esquema, sin copiar ninguna fila, se utiliza el metodo Copy del DataSet.
-
-44. Seiiale cual de las siguiente, respuestas es una plataforma que permite crear aplicaciones nativas para iOS, Android y Windows usandci elfenguaje C#:
-a) Bootstrap
-b) Midlets
-c) Xamarin
-d) SOnarQube
-
-45. El prop6sito de DOM (Document Object Model) es:
-a) Acceder a un documento XML y poder modificarlo.
-b) Leer secuencialmente de principio a fin un doo.Jmento XML, sin cargar todo el documento en memoria.
-c) Transformar los mapas de un gestor documental para ser compartldo por dlstintas aplicaciones.
-d) Proteger un documento XML para que no pueda ser manipulado o modificado por objetos externos.
-ANSWER:
-
-46.  acuerdo con las recomendaciones W3C, en el URI (Uniform Resource Identifier) "mailto:GSl@inap.es0, lque representa "mailto"?
-a) El programa que se debe emplear para abrirlo.
-b) El esquema URI que se debe emplear para interpretarlo.
-c) El puerto al que debe conectarse para acceder.
-d) En realidad es superfluo, y puecle eliminarse.
-ANSWER:
-
-47. Estandar para especificaci6n de lenguaje C#:
-a) ECMA331
-b) ECMA 332
-c) ECMA 333
-d) ECMA334
-ANSWER:
-
-48,
-
-
-
-
-49.
-
-
-so.
-
-
-
-
-
-52.
-
-El dlseiio web adaptativo (responsive web design) es una tecnlca de diseiio y desarrollo web que:
-a) Permite al usuario modificar la presentaci6n y conflguraci6n de la pagina.
-b) Busca que las paglnas se adapten automaticamente al disposftivo en el que se visualizan.
-c) Obliga a que las paginas muestre en un tamano fijo independlente del dispositivo utilizado.
-d) Posibilita al usuario elegir el idloma de! texto presentado en la pagina.
-ANSWER:
-
-En relaci6n con la seguridad de los servlcios web, el perfil que aiiade sellos de tiempo a XAdES-C para evitar que pueda vene comprometida en el futuro una cadena de certificados es:
-a) XAdES-BES b) XAc:IES-T
-c) XAdES-X d) XAc:IES-S
-ANSWER:
-
-Sefiale el estilo de arquitectura que permite crear servicios web a traves de la emulaci6n de protocolos, como pueda ser HTIP (operaciones GET, DELETE, PUT y POST), llev6ndolo a cabo a traves de la deflnici6n de operaciones conoddas en la interfaz (read, delete, update y aeate) :
-a) REST b) JAX-RPC
-c) JAX-WS d) UDDI
-ANSWER:
-
-El modelo de McCall se basa en factores de calidad organizados en tres ejes o puntos de vista, seiiale de entre los siguientes factores el que se engloba en 'operaci6n del producto':
-a) Facllldad de prueba. b) Reusabilidad.
-c) Flexlbilidad. d) Eficiencia.
-ANSWER:
-
-De las siguientes herramientas, cual permite al departamento de calldad analizar el c6digo fuente de un programa para validar la calidad de este:
-
-a) Viewlnside
-c) PMD
-b)
-Quality observer
-d) StyleDeep
-ANSWER:
-
-53.
-
-
-
-54.
-
-
-
-
-
-55,
-
-La norma UNE que establece los requisitos de accesibilidad para los contenidos web con equivalencia directa a las
-pautas de accesibilidad WCAG2.0 del W3C, es la nonna:
-a) UNE 139803:2012 b) UNE 139803:2004
-c) UNE 139308:2012 d) UNE 139308:2004
-ANSWER:
-
-En relaci6n a la accesibilidad de contenldos, es cierto que:
-a Los botones y textos del lnterfaz de usuario se consideran accesibles cuando todos usan la misma gama de colores.
-) Una paglna web se consldera acces[ble cuando no contlene niveles de encabezados o titulos que estrucb.Jren dicha pagina.
-c) Una imagen se considera accesible si proporciona un texto alternative que aporte la mlsma informaci6n o fund6n que dicha imagen.
-d) Los elementos de interacci6n con el usuario se consideran accesibles cuando permiten el uso de la voz humana.
-ANSWER:
-
-Las WCAG 2,0 se estructuran en una serie de principios, pautas y criterios de conformldad. La pauta "distinguible" esd contenida dentro del principio:
-
-a) Operable
-b) Robusto
-c) Perceptible
-d) Comprensfble
-ANSWER:
-
-56. La recomendacion ITU-T donde se presentan los requlsitos y capacidades basados en la computacl6n en la nube (Big Data) es:
-
-a}
-Y.3600
-b)
-Y.3700
-c)
-Y.3800
-d)
-Y.3900
-ANSWER:
-
-57.
-
-Seliale la aflrmaci6n INCORRECTA en relacion a los diferentes tipos de implementacion de un Data Warehouse:
-a) ROLAP ofrece mucha flexlbilldad, ya que los cubes son generados dinamicamente.
-b) En MOLAP, cada vez. que es necesario realizar cambios sobre algun cube, se debe recalcular el mismo totalmente.
-c) ROLAP sufre de un rendimiento menor en la ejecucion de consultas (comparado con MOLAP).
-d) Los dates de los cubes se deben calcular cada vez que se ejecuta una consulta sobre ellos en MOLAP.
-ANSWER:
-
-58. En reJacion con er Big Data, seftale la opcion FALSA sobre Hadoop:
-a) Apache Hive es una infrae.structura de almacenamiento de datos construida sabre Hadoop para proporcionar agrupaci6n, consulta y analisis de datos.
-b) Esta inspirado en el proyecto Google File System y el paradigma de programaci6n MapReduce.
-c) En Hadoop se denomina "rack" a la combinacl6n de nodes de dates.
-d) El sistema de archives HDFS tiene una arquitectura maestro-esclavo: un cluster HDFS consta de varies NameNode y un DataNode.
-ANSWER:
-
-59.
-
-l.Cual de las siguientes NO es una base de datos NoSQL?
-a) MongoDB b)
-tj H se
-
-
-cassandra Kaltura
-
-60. ,cual de las siguientes bases de datos se puede categorizar en una base de datos NoSQL de almacenamiento en grafo?
-a) DyanamoDB
-b) Neo4J
-c) COuchDB
-d) cassandra
-ANSWER:
-
-1. [RESERVA] El Manlfiesto por el Desarrollo Agil de Software valora:
-a) Indlviduos y su lnteracci6n, sobre procesos y herramientas.
-b) Software que funclona,_por encima de la documentaci6n exhaustiva.
-c) Seguimiento de un plan, par encima de respuesta al cambio.
-d) COlaboraci6n con el cliente, por encima de la negoclaci6n contractual.
-ANSWER:
-
-2. [RESERVA] Estandar para fonnato de intercambio de datos JSON:
-a) ECMA 401
-b) ECMA 402
-c) ECMA 403
-d) ECMA 404
-ANSWER:
-
-3. [RESERVA] El Marco Comun de Evaluacion (CAF 2013), como herramienta de gesti6n de ta calidad total desarrollada por y para el sector public:o, incluye entre sus 8 princlpios basicos de la excelencla el de:
-a) Orlentad6n a los dates.
-b) Uderazgo sistemico.
-c) Responsabilidad social.
-d) Desarrollo e implicaci6n de los organismos.
-ANSWER:
-
- BLOQUEIV
-1. Indique el fichero y ruta asociada para anadir repositorios dentro de una maquina Linux con dlstribucl6n derivada de Deblan:
-a) /root/home/sources.list
-c) /etc/aptjsources.list
-b) /etc/mount/sources.list
-d) /etc/sources/sources.list
-ANSWER:
-
-2. Indique junto a cual de los siguientes sistemas operativos fue presentado el sistema de ficheros ReFS por primera vez:
-a) Windows 8.1
-c) Windows Server 2012
-b) Windows 10
-d) Windows Server 2016
-ANSWER:
-
-3. De las slguientes soluciones, ¿cual permite la ejecuci6n remota, asi como la automatizacion de la configuracion en servidores Linux?
-a) Salt Open.
-b) Nougat Orchestrator.
-c) Unity.
-d) Empathy.
-ANSWER:
-
-4. En el ambito de las Base de Datos ORACLE, tnsnames.ora es un fichero de configuracion que contiene:
-a) nombres de servicios en red mapeados, asignados a descriptores a traves de los cuales podemos acceder a !a se  de dates.
-b) informaci6n de toclos los tablespaces sobre los que esta soportada la base de datos.
-c) todos los nombres de los distintos datafiles sabre los que esta soportada la base de dates.
-d) informaci6n sabre los distintos nombres de los esquemas de usuario que tienen las distintas lnstanc1as de la base de dates.
-ANSWER:
-
-s. l.En que consiste el mantenimiento preventivo?
-a) Aclelantarse a las nuevas fundonalidades de los usuarios.
-b) COnservar los equipos en condiciones 6ptimas de funcionamiento, previniendo las posibles averias Y fallos.
-c) Prevenir la obsolescencia de equipos e instalaciones.
-d) Mantener el nlvel de rendimiento actual.
-ANSWER:
-
-6. Segun ASHRAE (Sociedad Americana de Ingenieros de Calefacci6n, Refrigeraci6n y Aire Acondicionado) en su publlcaci6n Standard 90.4-2016 Energy Standard for Data Centers recomlenda que la temperatura de operacion en un CPD sea de:
-a) 20-25 grados.
-b) 20-26 grades.
-c) 18-20 grados.
-d) 18-27 grados.
-ANSWER:
-
-7. lQue slgnifican las sigas JCL?
-a) Job control Level
-b) Job Control Language
-c) Java Control Language
-d) Job Controller' Language
-ANSWER:
-
-8. La sentencia EXEC de JCL identifica el:
-a) comienzo de un trabaJo a ejecutar.
-b) comienzo de un paso dentro de un trabajo y el programa a ejecutar.
-c) conjunto de datos de un trabajo.
-d) final de un trabajo.
-ANSWER:
-
-9. Las librerias estaticas tienen la extension:
-a) En Linux .lib
-b) En Linux .a
-c) En Windows .dll
-d) En Windows .so
-ANSWER:
-
-10. Si tuvlera que realizar pruebas de carga en su sistema, lque herramienta debe utilizar?
-a) Jloader b) JMeasurer
-c) JRaw d) JMeter
-ANSWER:
-
-11. Solucion de IBM para virtualizaci6n de almacenamiento:
-a) SAC b) SNC
-c) SVC d) ninguna de las anteriores
-ANSWER:
-
-12. En un sistema con 8 discos de 400GB, ordene los distintos tipos de RAID de mayor capacidad final disponible a menor capacidad final disponible:
-a) RAID 60 > RAID 6 > RAID 5 b) RAID 5 > RAID 60 > RAID 6
-c) RAID 6 > RAID 60 > RAID 5 d) RAID 5 > RAID 6 > RAID 60
-ANSWER:
-
-13, l.Se podria conectar un sistema de almacenamiento DAS mediante Fibre Channel a un servidor?
-a) No.
-b) Si, mediante una HBA.
-c) Si, mediante una tarjeta de red.
-d) Si, mediante una tarjeta iSCSI.
-ANSWER:
-
-14. Cuando se utiliza un cable CAT& en un enlace 10/100/1000 BASE-T, la longitud maxima, sin contar los latiguillos de la toma de pared a los dlspositivos conectados, es de:
-a) 80 metros. b) 90 metros.
-c) 110 metros. d) 115 metros.
-ANSWER:
-
-15. Si hablamos de una fibra 6ptica de 9/125 micr6metros, estamos ante una flbra:
-a) Multimodo b) Monomodo
-c) OM3 d) OMl
-ANSWER:
-
-16, La banda que se usa princlpalmente en las comunicaciones satelitales, siendo la television uno de sus principales
-usos es la:
-a) Banda S. b) Banda X.
-c) Banda L. d) Banda Ku.
-ANSWER:
-
-17. Cuando se conecta un PC a un puerto de un switch de capa 2, lhasta d6nde se extiende el domlnio de colisi6n del PC?
-a) Al puerto del switch.
-b) A todos los puertos del switch.
-c) A la VLAN a la que pertenezca el puerto del switch.
-d) A la tarjeta de red del PC.
-ANSWER:
-
-18. Sefiale en que estandar del IEEE se define por primera vez transmislones de datos de 40 Gigabit Ethernet y 100 Gigabit Ethernet sobre fibra 6ptica:
-a) 802.3ae b) 802.3ba
-c) 802.at d) 802.3a
-ANSWER:
-
-19. Cuando hablamos de Ethernet, lque signfficado tiene la "seflal de jammingn?
-a) Aviso de que se ha producido una colisi6n.
-b) Aviso de que se va a retrasmitir desde la ultima trama redbida correctamente (ACK x).
-c) Solicitud de repetici6n automatica.
-d) Aviso de perdida de sincronizacl6n de la comunlcaci6n entre dos nodos:
-ANSWER:
-
-2. Cfl. Sei'iale que petici6n de SNMP v3 permite recuperar grandes cantidades de datos de fonna eficiente:
-a) GetNext b) GetBlock
-c) GetBulk d) GetTrap
-ANSWER:
-
-11. La direcci6n de broadcast de la red a la que pertenece el host con dlrecci6n IP 83.27.139.46/27 es:
-a) 83.27.139.255 b) 83.27.139.191
-c) 83.27.139.63 d) 83.27.139.127
-ANSWER:
-
-t2.. Una direcci6n IP en el protocolo IPv6 esta formada por:
-a) 32 bits b) 64 bits
-c) 128 bits d) 256 bits
-ANSWER:
-
-U. Segun la RFC 4271, lcual de los siguientes NO es un tipo de mensaje del protocolo BGP?
-a) OPEN b) UPDATE
-KEEPALJVE d) CLOSE
-ANSWER:
-
-24. El campo "codigo de operaci6n" de un datagrama ARP/RARP con el valor 4 se utiliza para una trama de=
-a) solicitud RARP.
-b) respuesta RARP.
-c) solicitud ARP.
-d) respuesta ARP
-ANSWER:
-
-25. c.Cual es el nombre de la PDU de capa 2 del modelo OSI?
-c) Segmento
-d) Trama Paquete
-ANSWER:
-
-26. lQue dos campos emplea 1Pv6 para proporcionar calidad de servicio?
-a) Tipo de Servicio y Clase de Trafico.
-b) Umite de Saltos y Etiqueta de Traflco.
-c) Case de Traflco y Etiqueta de Flujo.
-d) Tipo de Servicio y Prioridad.
-ANSWER:
-
-27. El protocolo IPYS:
-a) Es un protocolo de transld6n entre 1Pv4 e IPv6 con direcdones de 64 bits.
-b) Es un protocolo experimental llamado ST (Internet Stream Protocol).
-c) Es un protocolo de traducci6n/mapeo de direcciones 1Pv4 en IPv6, y viceversa.
-d) No exlste.
-ANSWER:
-
-28. lQue Puerto utiliza LDP (Label Distribution Protocol)?
-a) TCP 746 b) TCP 646
-c) TCP 656 d) TCP 756
-ANSWER:
-
-29. lCUal de las siguientes caracteristicas pertenece al algoritmo de Dijkstra?
-a) Se le conoce tambien como algoritmo de Bellman & Ford.
-b) Determlna el camino mas corto dado un vertlce origen al resto de los vertices en un grafo con pesos en cada arista.
-c) El metoclo de enrutamiento vector de dlstancias usa este algoribTio.
-d) Fundona siempre aun cuando el grafo tiene aristas de coste negativo.
-ANSWER:
-
-30. lCual de las siguientes tecnicas permite ahorro de energia en un CPD?
-a) Utilizaci6n de sistemas UPS de carga menor.
-b) Consolidaci6n de servicios.
-c) Uso de discos en RAID 5.
-d) Instalaci6n de sistemas de clfmatizaci6n muy redundantes.
-ANSWER:
-
-31. c.Que porcentaje de dlsponlbilidad garantizada tiene un Data Center de categoria Tier 2?
-a) 99.895 b) 99.671
-c) 99.741 d) 99.982
-ANSWER:
-
-32. Segun la RFC 3032, de entre los valores reservados en la etlqueta MPLS, el valor 2 se corresponde con la etiqueta:
-a) de Alerta de Router. b) NULL Implfcita.
-c) NULL Explfcita 1Pv4. d) NULL Expliclta 1Pv6.
-ANSWER:
-
-33. La cabecera MPLS de un paquete se encuentra (respecto a las capas OSI):
-a) Antes de la cabecera de capa 2.
-b) Entre la cabecera de la capa 2 y la cabecera de la capa 3.
-c) Entre la cabecera de la capa 3 y la cabecera de la capa 4.
-d) Despues de la cabecera de la capa 4.
-ANSWER:
-
-34. Sefiale la afirmacion CORRECTA sobre la cabecera MPLS segun fndica la RFC 3031:
-a) Un valor de Oen ei'campo t.abel (Etfqueta) representa una etiqueta NULL implfcita.
-b) El bit "S" tendra un valor de "1" en la primera y siguientes etiquetas del "stack'' excepto en la ultrma, donde tendra el valor 11011.
-c) cada etiqueta MPLS se compone de 5 campos.
-d) El campo TTL se almacena usando 8 bits.
-ANSWER:
-
-35. l.Cual de los siguientes ataques y vulnerabilidades NO afecta a la famllia de protocolos SSL/TIS o alguna de sus implementaciones?
-a) Heartbleecl b) POODLE
-c) CRIME d) Shellshock
-ANSWER:
-
-36. El algoritmo Blowfish utilizado en crlptografia, es un algoritmo de cifrado por bloques de:
-a) 64 bits y clave de tamano variable.
-b) 128 bits y clave de 56 bits.
-c) tamano variable y dave de tamai'io variable.
-d) 64 bits y clave de 128 bits.
-ANSWER:
-
-37. En el amblto de la seguridad de sistemas, un indicador de compromiso (IOC - Indicator of Compromise) sirve para:
-a) Confirmar el nivel de ataque realizado a la organizaci6n en un periodo de tiempo corto.
-b) Determinar el objetivo que se quiere alcanzar con las politicas de seguridad definidas.
-c) Identificar sl un sistema ha sido comprometido o si se esta intentando comprometer1o.
-d) Medir el compromiso de los usuarios en las polfticas aplicadas en su organizaci6n.
-ANSWER:
-
-38. YARA es una herramienta til.iz.ada en el cimbito de:
-a) La segurfdad de sistemas';. ·
-b) Las comunicaciones inalambricas.
-c) La virtualizad6n de sistemas.
-d) Las comunicaciones m6viles.
-ANSWER:
-
-39. c.Que mecanismo asociado a IPSec proporciona la confidencialidad de la comunicacion?
-a) Authentication Header (AH).
-b) SSL
-c) Encapsulating Security Payload (ESP).
-d) Internet key exchange (IKE).
-ANSWER:
-
-40. c.Cu61 de entre los siguientes formatos de firma electronica NO es considerado como formato de firma longeva (dotada de validez a lo largo del tlempo)?
-a) PAdES-BES b) CAdES-A
-c) CAdES-LlV d) CAdES-XL
-ANSWER:
-
-41. De entre los siguientes est:iindares XML del W3C, i.Cual define politicas de control de acceso de usuarios?
-a) DSML
-b) XrML
-c) XACML
-d) XKML
-ANSWER:
-
-42. i.Qu tipo de codigo mallcfoso es un Stealer?
-a) Virus
-b) Gusano
-c) Troyano
-d) Adware
-ANSWER:
-
-43. IPsec consta de tres protocolos, indicar el FALSO:
-a) AH (Authentication Header)
-b) ESP (Encapsulation Security Payload)
-c) ISAP (Internet Security Association Protocol)
-d) IKE (Internet Key Exchange)
-
-44. TFTP (Trivial File Transfer Protocol), segun lo definido en la RFC 1350, soporta 5 tipos de paquetes, seiiale el INCORRECTO:
-a) Data (DATA).
-b) Acknowledgment (ACK).
-c) Read-write request (RWQ),
-d) Error (ERROR).
-ANSWER:
-
-45. Si nos referimos a la web semcintica, podemos decir que SPARQL:
-a) Esta ligado a un formato de base de datos especifico.
-b) Esta definido en la RFC 2460.
-c) Se puede utilizar para expresar consultas que permiten interrogar diversas fuentes de datos.
-d} No contiene las capacidades para la consulta de los patrones obligatorios y opdonales de grafo.
-ANSWER:
-
-46. Un sistema FAMM (Frequency Aglle MultiMode) permite:
-a) transformar los paquetes del Cable Modem en celdas ATM.
-b) el uso de varios PCs conectados a un (mico cable Modem.
-c) el enrutado de trafico IP de forma transparente entre usuarios y cabecera.
-d) a los cable Modem conmutar de un canal ruidoso a otro en mejores condiciones de manera automatica.
-ANSWER:
-
-47. La antigua CMT, ahora integrada en la CNMC, permite a Telefonica el cierre de la centrales de cobre que ofrecen servlcios de xDSL sf se cumplen 3 condiciones. lCual NO es una de ellas?
-a) Solo se puede cerrar una central cuando mas del 25% de los dientes de esa central se conecten par medics alternatives a la red de cobre (por ejemplo, fibra 6ptica).
-b) Si los operadores alternatil/Os son exdusivamente "operadores virtuales", Telefonica debera avisarles con 6 meses de antelaci6n para que puedan mlgrar a sus dientes.
-c) Si no hay operadores alternatives coubicados en la central, el periodo de garantfa se reduce a 1 afio, seguido de los 6 meses de guarda.
-d) Si en esa central hay operadores alternatives desagregando bucle, Telefonica debera seguir prestando ese servicio mayorista durante s afios, mas 6 meses de guarda. Esos 5 afios seran suficientes para que los operadores alternatives puedan mlgran
-a sus clientes a otras redes.
-ANSWER:
-
-48. ¿Cual de los siguientes c6dec NO es utilizado en la tecnologfa VoIP (Voice over Internet Protocol)?
-a) G.711
-b) G.729
-c) G.723
-d) G.730
-ANSWER:
-
-49. ¿Como se llama la red de satelltes diseiiada por Motorola que permite telefonia vra satelfte?
-a) Galileo
-b) GSM
-C) Hispasat
-d) Iridium
-ANSWER:
-
-50. En una red VoIP H.323, lqulen tiene las funciones de Reglstro, admisi6n y estado?
-a) Terminal H.323
-b) can Agent
-c) Gateway
-d) Gatekeeper
-ANSWER:
-
-51. Las siglas DECT se corresponden con:
-a) Digital Electronic Cordless Telecommunications.
-b) Digital Energy Cordless Telecommunications.
-c) Digital Enhanced Cordless Telecommunications.
-d) Digital Edge Cordless Telecommunications.
-ANSWER:
-
-52- l.Cu61 de las siguientes interfaces y protocolos NO se usa para conexiones de almacenamlento de conexl6n directa (DAS)?
-a) Fibre Channel.
-b) externo Serial Advanced Technology Attachment (eSATA).
-c) Serial Link (Slink).
-d) Serial attached SCSI (SAS).
-ANSWER:
-
-53. Indlque la afirmaci6n correcta:
-a) La 18 generaci6n de telefonfa m6vil se caracteriz6 par la transmisi6n anal6gica, rmitie,ido llamadas de voz y envfo de mensajes SMS (Short Message Service).
-b) La 28 generaci6n de telefonfa m6vil se caracteriz6 por utllizar el servicio digital, permitiendo envro de mensajes MMS (Multimedia Messaging Service).
-c) EDGE (Enhanced Data Rates for GSM Evolutton) se considera una evolud6n del GPRS (General Packet Radio Service) y funciona con redes LTE (Long Tenn Evolution) y su me.Jara GSM.
-d) La 38 generaci6n de telefonfa m6vil increment6 el grado de seguridad al autenticar la red a la que se esta conectando.
-ANSWER:
-
-54. En GSM, las bases de datos que contienen datos de los usuarios se denominan:
-aj y C y C
-c) HLR y VLR.
-d) BLR y MLR.
-ANSWER:
-
-55. Señale qué estándares WiFi utilizan la banda de 2.4 GHz:
-a) 802.llb y 802.llac.
-b) 802.llg y 802.lla.
-c) 802.lln y 802.llh.
-d)  802.llg y 802.lln.
-ANSWER:
-
-56. En una red wifi, c.cu61 de los sigulentes NO es un protocolo de seguridad que le sea aplicable?
-a) WPA2
-b) WPA
-c) WAP
-d) WEP
-ANSWER:
-
-57. ¿Cuál de las siguientes características de seguridad está incluida en el estándar WPA2 pero no lo está en el estandar WPA?
-a) TKIP.
-b) Encriptaci6n AES.
-c) Autenticaci6n 802.lx.
-d) Preshared Keys {PSI<).
-
-
-58. El dividendo digital es:
-a) El elemento que se divide por un numero primo coma operaci6n criptografica previa que se realiza en el dfrado AES.
-b) El conjunto de frecuencias que han quedado libres por la migraci6n de la televisi6n anal6gica a la digital.
-c) El resultado econ6mico de una inversion en Bltcoln o de otra divisa digital.
-d) Uno de las tres componentes de la unidad de calculo en las procesadores de arquitectura x86.
-ANSWER:
-
-59. El nombre de las especlficaciones de comunicaciones por linea elktrica que facilitan la creacion de redes a ttav6s
-del cableado elec:1:1'.'ICO preexistente en el hogar cuyo estandar es el IEEE 1901-2010 se denomina:
-a) HomePlug AV b) PLC
-c) DomotIc-MIMO d) IndoorWall
-ANSWER:
-
-60. i.A que frecuencia de canal puede llegar el est6ndar Wi-Fi AC Wave 2?
-a) 60 MHz. b) 90 MHz.
-c) 160 MHz. d) 180 MHz.
-ANSWER:
-
-1. [RESERVA] En los slstemas operativos UNIX, indique cu61 de los siguientes NO es un comando para el tratamiento de ficheros detexto:
-a) rpm
-b) vi
-c) awk
-d) sed
-ANSWER:
-
-2. [RESERVA] Tecnologia de virtualizaci6n que NO es open source:
-a) VMWare VSphere.
-b) Kernel-based Virtual Machine (KVM).
-c) Xen.
-d) OpenVZ.
-ANSWER:
-
-3. [RESERVA] Respecto a los algoritmos DSA y RSA:
-a) RSA es un algoritmo mas lento que el DSA.
-b) DSA es valido tanto para cifrar como para firmar digitalmente, RSA en cambio no cifra.
-c) DSA es una variante del algoritmo de El Gama!,
-d) Tanto DSA coma DSA utilizan cifrado simetrico.
-ANSWER:
+ANSWER: C

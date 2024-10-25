@@ -1,412 +1,441 @@
 BLOQUE IV
-1 En el contexto de las tareas de explotaci6n de sistemas de lnfonnacion, se denomi11an !areas u operaciones "lights out.. e:
-a) Las tareas u operaciones automalizadas.que se llevan a cabo sin lntervenci6n humana, de forma desalendida_
-b) Las 1areas int:luidas en el plan da conlingenoias, a Uevar acabo en caso de corte det sumlnisiro eleclrlco.
-c) Las lareas quf!nose pueden a_utomatlzar, por lo que necesariamente requieren personal para su reallzaci6n.
-d) Las tareas crllicas, que requieren su lhclusl6n especlfica en el plan de contlngencias, en una localizacion fisica altemat/va a la habitual.
-ANSWER:
+1 En el contexto de las tareas de explotación de sistemas de información, se denominan tareas operaciones "lights-out" a:
+a) Las tareas u operaciones automatizadas, que se llevan a cabo sin intervención humana, de forma desatendida.
+b) Las tareas incluidas en el plan da contingencias, a llevar a cabo en caso de corte del suministro eléctrico.
+c) Las tareas que no se pueden automatlzar, por lo que necesariamente requieren personal para su realización.
+d) Las tareas críticas, que requieren su inclusión especifica en el plan de contingencias, en una localización física altenativa a la habitual.
+ANSWER: A
 
-2 SI sobre el flchero "ejemplo.txt" queremos dar permlsos totales al dueilo, de lectura y ejecuci6n al grupo y solo de tecturaal resto de usuarios, usaremos la ln.struccion:
-s) chmod 766·ejemplo.lxl
-b) chmod 751 ejempI0.lxt
+2 Si sobre el fichero "ejemplo.txt" queremos dar permisos totales al dueño, de lectura y ejecución al grupo y sólo de lectura al resto de usuarios, usaremos la instrucción:
+s) chmod 766 ejemplo.txt
+b) chmod 751 ejemplo.lxt
 c) chmod 761 ejemplo.txt
-d) chmod7E!4 ejemplo.txt
-ANSWER:
+d) chmod 754 ejemplo.txt
+ANSWER: D
 
-3 Para la gesll6n def sfstema operatlvo queremos llevar un lnventario. ;.Cua! de los slgulentes.recursos NO es necesario en el mlsmo?
-a) Lista.dode todos los equipos
-b)
+3 Para la gestión del sistema operativo queremos llevar un inventario. ¿Cuál de los siguientes recursos NO es necesario en el mismo?
+a) Listado de todos los equipos.
+b) Listados de software usado en cada equipo.
 c) Esquema de la red.
-d) Ustado de software usado en cada eqlilpo. Todos sonnecesarios.
-ANSWER:
+d) Todos son necesarios.
+ANSWER: D
 
-4 En relaclon con la admlnistraci6n de un slstema operatlvo Unu)(, indique cual de los slguientes comandos NO esta destinado a reallxar coplas de segurldad:
-a) iar con los paramo\ros cvf.
-b) tar con ios parametros M.
-c) cpio en conjuncl6n t:bn el comando Is,
-d) cpio en con)unci6n con el comando find.
-ANSWER:
+4 En relación con la admlnistración de un sistema operativo Linux, indique cuál de los siguientes comandos NO está destinado a realizar copias de seguridad:
+a) tar con los parámetros cvf.
+b) tar con los parámetros tvf.
+c) cpio en conjunción con el comando ls.
+d) cpio en conjunción con el comando find.
+ANSWER: B
 
-5 lCual delassigoientes soluciones comerciales de EscritorioRemoto se dlstribuye bajo ficencia propletaria?
-a) Vinagre. b) DameWare Mini Remote Control.
-c) TightVNC, d) Rdesktop.
-ANSWER:
+5 ¿Cuál de las siguientes soluciones comerciales de Escritorio Remoto se distribuye bajo licencia propietaria?
+a) Vinagre.
+b) DameWare Mini Remote Control.
+c) TightVNC.
+d) Rdesktop.
+ANSWER: B
 
-6 En un entomo controlado de sistemas de·1nfonnacl6n, la !area de admlnistraci6n de base de datos NO deberfa compatibflizarsa con la de: ·
-a) Administraci6n de seguridad.
-b) Programac.6n de apffcac\ones.
-c) Gestión de librerías de clntas.
-d) Aseguramlento de la calldad.
-ANSWER:
+6 En un entorno controlado de sistemas de información, la tarea de administración de base de datos NO debería compatibilizarse con la de:
+a) Administración de seguridad.
+b) Programación de aplicaciones.
+c) Gestión de librerías de cintas.
+d) Aseguramiento de la calidad.
+ANSWER: B
 
-7 El mantenlmiento qua tiene por objeto adelantarse al deterioro de los equipos corrio consecuencla del uso y del paso del tiempo, se denomlna:
-a) Manlenlmienlo adaptativo.
-b) Manlenimiento preventivo.
+7 El mantenimiento que tiene por objeto adelantarse al deterioro de los equipos como consecuencia del uso y del paso del tiempo, se denomina:
+a) Mantenimiento adaptativo.
+b) Mantenimiento preventivo.
 c) Mantenimiento correctivo.
-d) Mantenimlento evotuUvo.
-ANSWER:
+d) Mantenimlento evolutivo.
+ANSWER: B
 
-8 lCuat delas siguientes NO es una fancion del administrador de bases de datos?
-a) Disefiar la arqullectura de balanceo de carga de las apllcaciones lnsta!adas eri una granja de servldores.
-b) Ba!ancear la distribucl6n de los datos entre los dispos tvos de almaccnamiento
-c) Optimlzar les carges maslvas de datos, ya sean iniciales o parciale.s.
-cf) Gestionar permisos y role.s de usuarios para que sean los necesarlos para sus funcionos y se garaoUce la confidenclalldade lnlegridad de los datos.
-ANSWER:
+8 ¿Cuál de las siguientes NO es una función del administrador de bases de datos?
+a) Diseñar la arquitectura de balanceo de carga de las aplicaciones instaladas en una granja de servidores.
+b) Balancear la distribución de los datos entre los dispositvos de almacenamiento.
+c) Optimizar las cargas masivas de datos, ya sean iniciales o parciales.
+d) Gestionar permisos y roles de usuarios para que sean los necesarios para sus funciones y se garatice la confidencialidad e integridad de los datos.
+ANSWER: A
 
-9 Con el objeto de asegurar la lntagridad de los dato·s, es necesario que una de las- funciones del slstema gestor de base de datos sea la gesti6n de las transacclones.1,Que propledades deben tonerestas?
-a) Autenticaci6n, oonfldenclalidad, integridad y disponibllidad.
-b} ERciencia, eficacia, rapidez y eslabilidad.
-c} /',tomicidad, coosistencla, aislamleoto y persistencia.
-d) Seriallzaci6n, indexacl6n, lndependencla y transparencia.
-ANSWER:
+9 Con el objeto de asegurar la intagridad de los datos, es necesario que una de las funciones del sistema gestor de base de datos sea la gestión de las transacciones. ¿Qué propiedades deben tener éstas?
+a) Autenticación, oonfidencialidad, integridad y disponibilidad.
+b) Eficiencia, eficacia, rapidez y estabilidad.
+c) Atomicidad, consistencla, aislamiento y persistencia.
+d) Serialización, indexación, independencla y transparencia.
+ANSWER: C
 
-10 ;.Qui,tareas de mantenlmiento contempla Metrlca v3 en su proceso MSI?:
-a) CorrectlllO, evoluUvo yadaptatlvo. b) Correctivo, evotutlvo, adaptativo yperleciivo.
-c) Correctivo y avo!utivo. cl) Correctivo, evolutivo yperfectivo.
-ANSWER:
+10. ¿Qué tareas de mantenimiento contempla Métrica v3 en su proceso MSI?
+a) Correctivo, evolutivo y adaptativo.
+b) Correctivo, evolutivo, adaptativo y perfectivo.
+c) Correctivo y evolutivo.
+d) Correctivo, evolutivo y perfectivo.
+ANSWER: C
 
-11 .El tipo demantenlmfento de equlpos que se reali:ta en las instalaciones del prestador del servlclo de mantenimiento y NO en las instalaclones del cllente, se denomina:
+11 El tipo de mantenimiento de equipos que se realiza en las instalaciones del prestador del servicio de mantenimiento y NO en las instalaciones del cliente, se denomina:
+a) Out-side.
+b) Off-side.
+c) In-site.
+d) On-site.
+ANSWER: D
 
-a) Out-side. ·
-c) ln--slte.
-b)
-Off-side.
-d) On-site,
-ANSWER:
+12 ¿Cuál de las siguientes características NO es propia del sistema de almacenamtento RAID 5?
+a) La paridad está en un disco dedicado.
+b) La división se produce a nivel de bloques.
+c) Tiene un bajo coste de redundancia.
+d) Se necesitarán al menos 3 discos.
+ANSWER: A
 
-12 lCual delassiguientes caracteristicasNO es propia del sistema de almacenamtento RAIO 5?
-a) La paridad esta en un disco dedfcado. b) Lad1v1si6n se produce a nlvel de bloques.
-c) Tiene uri bajo coste de redundancia.. d) Se !lecesftan al menos 3 dtsco.s,
-ANSWER:
+13 Señale la respuesta correcta respecto a las cintas Ultrium LTO:
+a) Tienen un formato propietario.
+b) Los lectores son compatibles con las cintas AIT de Sony.
+c)  En su version LTO 5, alcanza capacidades sin compresión de hasta 1,4 TB.
+d) No permiten ningún tipo de cifrado.
+ANSWER: C
 
-13 Sei\ale la respuesta correcta respecto a las clntas UltrlumLTO:
-a) Tienenun formato propletatlo.
-b) Loslectores son compatibles con las cintas AIT de Sony.
-d) No permlten ningun lipode cifrado.
-ANSWER:
-
-14 En su version LTO 5, a!canz:a capacidades sin compresi6n de hasta 1,4 TB.
+14 Entre las configuraciones de almacenamiento en RAID, NO ofrece redundancia de datos:
 a) RAID 0.
 b) RAID 1
 c) RAID 5.
-d) Todas las configuracfones RAfD garantizan la redundancla de la lnformaci6n
-ANSWER:
+d) Todas las configuraciones RAID garantizan la redundancia de la información.
+ANSWER: A
 
-15 ;.Cua!de las sigulentes NO es una plalaforma de vfrtuall.taci6n?
-a) Xen b) Alfresco.
-c) VMWare d/ Vlrtuozzo.
-ANSWER:
+15 ¿Cuál de las siguientes NO es una plataforma de virtualización?
+a) Xen.
+b) Alfresco.
+c) VMWare.
+d) Virtuozzo.
+ANSWER: B
 
-16 <-Que es el World WideName(WWN)?
-a/ Un lden\iftcador tlnico de 8 bytes en una red de almacenamlenlo-
-b) Uno de los·servidores ONS ralz.
-cJ Un nuevo dominio de Internet basado en IPv6 que va a suslilulr los acluales domlnlos basados-en IPv4.
-d) Un protocolo que permll.e idenlificar un equipo y·sus recursos conindependencia del lipo de red y sistema operativo
-ANSWER:
+16 ¿Qué es el World Wide Name (WWN)?
+a) Un identificador único de 8 bytes en una red de almacenamiento.
+b) Uno de los servidores DNS raíz.
+c) Un nuevo dominio de Internet basado en IPv6 que va a sustituir los actuales dominios basados en IPv4.
+d) Un protocolo que permite identificar un equipo y sus recursos con independencia del tipo de red y sistema operativo.
+ANSWER: A
 
-17 t,Cual de los slgulentes problemas afecta a los medios de transmisI6n?
-a) Revert>eracibn.
+17 ¿Cuál de los siguientes problemas afecta a los medios de transmisión?
+a) Reverberación.
 b) Ruido blanco.
-c) Afonia.
-d) Todos son posibles problemas de los JT1edios de iransmisi6n
-ANSWER:
+c) Afonía.
+d) Todos son posibles problemas de los medios de transmisión.
+ANSWER: B
 
-18 Un cable consistente en un ntlcloo de vldrlo con un alto lhdice refraccl6n, rodeada de una capa o revestlmlento de material similar, poro con indice de refracci6n ligeramente menor, y, todo ello, erivuello en ona eubierta de protecci6n totalmente opaca que le proporciona consistencia, es un cable:·
-a) De par trenzado lipo BS/UTP (Braided and screenedunshielded lwlsted palr).
-b) Coaxial de Upo thick
-c) De par lrenzado tlpo $/STP {Screened and stiielded twisted pair).
-d) De ftbra6p1Jca,
-ANSWER:
+18 Un cable consistente en un núcleo de vídrio con un alto índice refracción, rodeada de una capa o revestimiento de material similar, pero con índice de refracción ligeramente menor, y, todo ello, envuelto en una cubierta de protección totalmente opaca que le proporciona consistencia, es un cable:
+a) De par trenzado lipo BS/UTP (Braided and screened unshielded twisted pair).
+b) Coaxial de tipo thick.
+c) De par trenzado tipo S/STP (Screened and shielded twisted pair).
+d) De fibra óptica.
+ANSWER: D
 
-19 En ol confexto de las redes de cable, con objeto de permitir la asignacion dlnamica de ancho de ba11da a los usuarlos,
-1.,cuales son las estrategias poslbles de acceso a !raves de m6dem?
-a) Par encaminamiento IP y basada en ATM
-b) A !raves del nodo prlmarlo de la red ya traves del nodo secundarlo de la red
-c) Mediante soliellud-reserva y por contlenda.
-d) En estreha 'I en arbol.
-ANSWER:
+19 En el contexto de las redes de cable, con objeto de permitir la asignación dinámica de ancho de banda a los usuarios, ¿cuáles son las estrategias posibles de acceso a través de módem?
+a) Por encaminamiento IP y basada en ATM.
+b) A través del nodo primario de la red y a través del nodo secundario de la red.
+c) Mediante solicitud-reserva y por contienda.
+d) En estrella y en árbol.
+ANSWER: C
 
-1,() De ontre las sigulentes opciones on el llmbito del almacenamlento en los slstemas de informacl6n, seiiale la verdadera:
-a) SAS es una inlerfaz de lransferencia de datos en serie
-b) SATA es una lnterfaz de lransferenda de datos en parale!o
-c) Los dlsposlllvos SAS se:identifican por el World Wide Web Name (WWWN),
-d) El conector SAT/', posee 68 pines.
-ANSWER:
+20 De entre las siguientes opciones en el ámbito del almacenamiento en los sistemas de información, señale la verdadera:
+a) SAS es una interfaz de transferencia de datos en serie.
+b) SATA es una interfaz de transferenda de datos en paralelo.
+c) Los dispositivos SAS se identifican por el World Wide Web Name (WWN),
+d) El conector SATA, posee 68 pines.
+ANSWER: A
 
-2.1 lCualdelasslguientes afirmaciones sobre los cabl'!s EIA/TIA 5688 de categorla 6 es corrects?
-a) nene unancho de banda de hasta 10 Ghz en cada par
-b} .Alcan2a velocidades maximas de 1Gbps.
-cJ No permite implementar Power over Ethernel (PoE).
-d) S6Io est.'J disponible.de forma experimental
-ANSWER:
+21 ¿Cuál de las siguientes afirmaciones sobre los cables EIA/TIA 568B de categoría 6 es correcta?
+a) Tienen un ancho de banda de hasta 10 GHz en cada par.
+b) Alcanza velocidades máximas de 1 Gbps.
+c) No permite implementar Power over Ethernet (PoE).
+d) Sólo está disponible de forma experimental.
+ANSWER: B
 
-22 ;,Cual de los slgulontes modos de propagacl6 dll la flbra 6ptica permlte un mayor alcance y capacldad?
-a) Monomodo. b) MUlllmodo con sallo de indice de refracci6n,
-c) Mullimodo conTndice de refraccI6n gradual. d} Ultramodo de alta dispersion modal
+22 ¿Cuál de los siguientes modos de propagación de la fibra óptica permite un mayor alcance y capacidad?
+a) Monomodo.
+b) Multimodo con salto de índice de refracción.
+c) Multimodo con índice de refracción gradual.
+d) Ultramodo de alta dispersión modal.
+ANSWER: A
 
-23 El estandar IEEE 80.2.16 hace referencia a:
+23 El estándar IEEE 802.16 hace referencia a:
 a) Bluetooth.
-b) WiFI,
-c) Wlrnax.
-d) Wireless LAN
-ANSWER:
+b) WiFi.
+c) WiMax.
+d) Wireless LAN.
+ANSWER: C
 
-24 En la traslacl6n del.modelo OSI para su apllcacl6n a las redes de area local (LAN), es clerto qoe:
-a) Elnivelde enlece se subdlvide en subnlvei LLC y subnlvel MAC.
-b) El nlvel fislco se subdivide en subnivel LLC y subnlvel MAC
-cJ Se c ablecenlos tres nivelessigulentes: nivel fisico (quepasa a denomlnarse nlvel LLC), nlvel MAC y nli/el de enlace.
-d) Los nlveles fisicoy de enlace pasan de denominarse, respeclivamente, nivel LLC y nivel MAC ·
-ANSWER:
+24 En la traslación del modelo OSI para su aplicación a las redes de área local (LAN), es cierto que:
+a) El nivel de enlace se subdivide en subnivel LLC y subnivel MAC.
+b) El nivel físico se subdivide en subnivel LLC y subnivel MAC.
+c) Se establecen los tres niveles siguientes: nivel físico (que pasa a denominarse nivel LLC), nivel MAC y nivel de enlace.
+d) Los niveles físico y de enlace pasan a denominarse, respectivamente, nivel LLC y nivel MAC.
+ANSWER: A
 
-25 lndlque cual delos siguientes es un es1andar WIMAX para servlcios m6viles:
-a) IEEE 802.16-2004. b) IEEE 802 16d
-c) IEEE802.16c. d) Wimax no permIle aeceso a servicJos m6vlles
+25 Indique cuál de los siguientes es un estándar WiMAX para servicios móviles:
+a) IEEE 802.16-2004.
+b) IEEE 802.16d.
+c) IEEE 802.16e.
+d) WiMAX no permite acceso a servicios móviles.
+ANSWER: C
 
-26 l Que Upo de codiflcacl6n se utlliza en las redes Ethernet?
-a) London
+26 ¿Qué tipo de codificación se utiliza en las redes Ethernet?
+a) London.
 b) Liverpool.
-c) Manchesler.
-d) Boston
-ANSWER:
+c) Manchester.
+d) Boston.
+ANSWER: C
 
-27 lCuai delas slgulentes operaclones se lncorpora en SNMP v2?
-a) SetRequcsl
+27 ¿Cuál de las siguientes operaciones se incorpora en SNMP v2?
+a) SetRequest.
 b) GetBulkRequest.
-c) GetNexiRequest.
+c) GetNextRequest.
 d) Trap.
-ANSWER:
+ANSWER: B
 
-28 ¿Oué es una DMZ o zona desmilitarizada?
-e) Es unasubred penmetral aislada par cortafuegos aunque visible desde Internet,
-b) Es una subred libre de ataques externos, d9npe residen -entr,e ofro.s- servidores con basesde datos crlllcas.
-c) l':s una subred desde!a que se permiten conexiones a la red ln.lema, po, estar la prlmera desmilttarlzada
-d) Es un tlpo de honeypot ·
-ANSWER:
+28 ¿Qué es una DMZ o zona desmilitarizada?
+a) Es una subred perimetral aislada por cortafuegos aunque visible desde Internet.
+b) Es una subred libre de ataques externos, donde residen -entre otros- servidores con bases de datos críticas.
+c) Es una subred desde la que se permiten conexiones a la red interna, por estar la primera desmilitarizada.
+d) Es un tipo de honeypot.
+ANSWER: A
 
-29 ¿Cual es el well-lmown portdel protocolo SNMP en el modo petlcl6n-respues1a?
-a) 169. b)  161.
-cJ  171. d)  179.
-ANSWER:
+29 ¿Cuál es el well-known port del protocolo SNMP en el modo petición-respuesta?
+a) 169.
+b) 161.
+c) 171.
+d) 179.
+ANSWER: B
 
-30 lCual delasslgulentes afirmacion_es es correcta, considerando dlferencias entre IP\14 e 1Pv6?
-a) lpv6 duplica el lamalio dela dlreoci6n desde los 32 bitsa los64 bits
-b) Algunos campos de la cabecera de lpv4 han sido ellmlnados o convertidos en opcionales para reducir el coste de fJrooeso normal de los paquetes y limiter el coste en ancho de ba.nda de la cabecera lpY6.
-c) IPV6 compl1ca la cabecera, al ai\adir campos a los que ya ten la la cabecea lpv4, para permitir mayor capaCidad de corifiguraci6n, lo qua supono, por contra, un mayor coste de proceso, qua se compensara por la mayor potencia del hardware.
-d}   1Pv6 l!iplica el tamal\o de la dlrecci6n desdo los 32 bitsalos 96 bits.
-ANSWER:
+30 ¿Cuál de las siguientes afirmaciones es correcta, considerando diferencias entre IPv4 e IPv6?
+a) IPv6 duplica el tamaño de la dirección desde los 32 bits a los 64 bits.
+b) Algunos campos de la cabecera de IPv4 han sido eliminados o convertidos en opcionales para reducir el coste de proceso normal de los paquetes y limitar el coste en ancho de banda de la cabecera IPv6.
+c) IPv6 complica la cabecera, al añadir campos a los que ya tenía la cabecera IPv4, para permitir mayor capacidad de configuración, lo que supone, por contra, un mayor coste de proceso, que se compensará por la mayor potencia del hardware.
+d) IPv6 triplica el tamaño de la dirección desde los 32 bits a los 96 bits.
+ANSWER: B
 
-31 De las s.lgulentes aflrmaclones sobre el protocolo ICMP, lcualescierta?
-J  Esta deflnido en las RFC 792 y 2463.
-b) se·considera un protocolo de nivel de transporte, al ir sobre datagramas IP
-c) Permile conocer la direocl6n MAC asociada a una direcc16n IP
-d} L.&cabecera Ilene una longilud de 4 byles enICMPv4 y de 8 en ICMPv6
-ANSWER:
+31 De las siguientes afirmaciones sobre el protocolo ICMP, ¿cuál es cierta?
+a) Está definido en las RFC 792 y 2463.
+b) Se considera un protocolo de nivel de transporte, al ir sobre datagramas IP.
+c) Permite conocer la dirección MAC asociada a una dirección IP.
+d) La cabecera tiene una longitud de 4 bytes en ICMPv4 y de 8 en ICMPv6.
+ANSWER: A
 
-32 ¿Sobre que protocolo se encapsulan los paquetes DHCP?
-a) HTTP
-b) UDP
-c) TCP
+32 ¿Sobre qué protocolo se encapsulan los paquetes DHCP?
+a) HTTP.
+b) UDP.
+c) TCP.
 d) IP.
-ANSWER:
+ANSWER: B
 
-33 Se Hla planificando la configuraci6n de tos equlpos de un centro de tratamiento de la lnformacl6n, segun un onfoque ba.slldo en el riesgo. Deacuerdo con la mefodologia MAGERtT, la tarea de valoracl6n de salvaguardlas se encuadra en el proceso:
-a) Gesli6n de riesgos.
-b) Anallsis de salvaguardias.
-c) Anatisis de riesgc;s.
-d} Gestl0n de salvaguardlas.
-ANSWER:
+33 Se está planificando la configuración de los equipos de un centro de tratamiento de la información, según un enfoque basado en el riesgo. De acuerdo con la metodología MAGERIT, la tarea de valoración de salvaguardias se encuadra en el proceso:
+a) Gestión de riesgos.
+b) Análisis de salvaguardias.
+c) Análisis de riesgos.
+d) Gestión de salvaguardias.
+ANSWER: C
 
-34 Los centres de proceso de datos o datacenters deben cumpllr una serie de caracleristicas de seguridad fisica, tcual de las.slguientes NO es una buena politica de segurldad?
-a) Debe disponer de puertas de acceso grandes. cJ  Oebe evitar tener venlanas.
-b) Debe estar expllcitamenle sefializado.
-d) Dispondra de on sistema de refrlgeraci6n,
-ANSWER:
+34 Los centros de proceso de datos o datacenters deben cumplir una serie de características de seguridad física, ¿cuál de las siguientes NO es una buena política de seguridad?
+a) Debe disponer de puertas de acceso grandes.
+b) Debe evitar tener ventanas.
+c) Debe estar explícitamente señalizado.
+d) Dispondrá de un sistema de refrigeración.
+ANSWER: B
 
-35 Deniro del nivel AAL de ATM, AAL2 se caracteriza por tenor:
-a) Retardo constanle y lasa debit variable.
-b) Retardo variable ylasa de bHconstante.
-c) Retardo variable y tasa de bil variable.
-d) Retardo constanle y tasa de bit constanle.
-ANSWER:
+35 Dentro del nivel AAL de ATM, AAL2 se caracteriza por tener:
+a) Retardo constante y tasa de bit variable.
+b) Retardo variable y tasa de bit constante.
+c) Retardo variable y tasa de bit variable.
+d) Retardo constante y tasa de bit constante.
+ANSWER: A
 
-36 En la planlflcacl6n de la capacfdad de los slstemas de lnformaci6n, una fase fundamental es la proyecc16n. Para ello se utillzan dlversas tecnlcas, enlre las que se encuentra ta teorla de colas. lOUe valor ideal deberia tomar el Uamado factor de cola?
-a) Cualquier valor negatlvo.
-b) Fq=0.
-c) Fq:1.
-d) lnflnlto.
-ANSWER:
+36 En la planificación de la capacidad de los sistemas de información, una fase fundamental es la proyección. Para ello se utilizan diversas técnicas, entre las que se encuentra la teoría de colas. ¿Qué valor ideal debería tomar el llamado factor de cola?
+a) Cualquier valor negativo.
+b) Fq = 0.
+c) Fq = 1.
+d) Infinito.
+ANSWER: C
 
-31 1,Cwi.l de fos siguJentes es w:, tipo dealgorltmo de control de la congastl6n enled es conmufadas?
-·a) Estado del enlace. b) Vector distancia.
-c)- lnundacl6tT de paquetes. d) Cubeta con goleo.
-ANSWER:
+37 ¿Cuál de los siguientes es un tipo de algoritmo de control de la congestión en redes conmutadas?
+a) Estado del enlace.
+b) Vector distancia.
+c) Inundación de paquetes.
+d) Cubeta con goteo.
+ANSWER: D
 
-38 l.Oue tamaiio tlene unacelda ATM?
-a) 48 bytes, de los oua.les 44 son para lransmisi6n de lnformaci6n y, el resto, para tiso de c,ampos de control.
-b) El campo de direoci6n o cabecera tiene una longllud de. 2 ocletos, .ampllable hasla 4, y un campo de informaci6n de enlre1 y 8000bytes(1600 por defecto).
-c) LDs doce prlmeros octetc,s esti\n presentes en cada celda, como cabocera de conlrol, con un cuerpo de informaci6n de longllud variable.
-d) 53 bytes, de !os cuales 48 (opcionalmente 44) son para lrasiego de informaci6n y, los restanles, para uso de campos de control (cabecera) con <latos de direecionamiento.
-ANSWER:
+38 ¿Qué tamaño tiene una celda ATM?
+a) 48 bytes, de los cuales 44 son para transmisión de información y el resto para uso de campos de control.
+b) El campo de dirección o cabecera tiene una longitud de 2 octetos, ampliable hasta 4, y un campo de información de entre 1 y 8000 bytes (1600 por defecto).
+c) Los doce primeros octetos están presentes en cada celda, como cabecera de control, con un cuerpo de información de longitud variable.
+d) 53 bytes, de los cuales 48 (opcionalmente 44) son para trasiego de información y los restantes para uso de campos de control (cabecera) con datos de direccionamiento.
+ANSWER: D
 
-39 lCuanto overhead o sobrecarga genera cadapaqueteMPLS?
-a) 4*. ?
-b) 5 bits
+39 ¿Cuánto overhead o sobrecarga genera cada paquete MPLS?
+a) 4 bytes.
+b) 5 bits.
 c) 32 bits.
-d) 256bits,
-ANSWER:
+d) 256 bits.
+ANSWER: C
 
 40 Los routers para filtrado de paquetes ("packet filtering"):
-a) Soncortalue.gos (firewalls) que operanen el nivel de aplicaci6n en su modalidad statel\JI inspedioi:t".
-b) Son firewalls que operan en el nivelde apllcaci6n en su modalidad "stateless Inspection".
-cJ No son flrtlw.llls, sino disposllivos de encaminamiento ("roullng") que se pueden conectar a un cortafuegos como complemento de es1e.
-d) Son firewalls que operan en et nivelde red.
-4Q Los routers para filtrado de paquetes ("packet filtering"):
+a) Son cortafuegos (firewalls) que operan en el nivel de aplicación en su modalidad "stateful inspection".
+b) Son firewalls que operan en el nivel de aplicación en su modalidad "stateless inspection".
+c) No son firewalls, sino dispositivos de encaminamiento ("routing") que se pueden conectar a un cortafuegos como complemento de este.
+d) Son firewalls que operan en el nivel de red.
+ANSWER: D
 
-En relación con los mecanismos de segurldad en rodes WiFi lndlque ta afirmacl6n FALSA:
+41 En relación con los mecanismos de seguridad en redes WiFi indique la afirmación FALSA:
 a) Las especificaciones WEP y WPA usan RC4 como algoritmo de cifrado.
-b) La especlficaci6n WPA2 rnejora le seguridad al usar AES como algorllmo de oifrado
-c) En ol estandar IEEE 602.111es donde se delalla la especificacl6n de WPA2,
-d) El eslandar IEEE802.119 lncrementa la segurldaq lntroduciendo 3DES coma algorltmo de cilrado,
-ANSWER:
+b) La especificación WPA2 mejora la seguridad al usar AES como algoritmo de cifrado.
+c) En el estándar IEEE 802.11i es donde se detalla la especificación de WPA2.
+d) El estándar IEEE 802.11n incrementa la seguridad introduciendo 3DES como algoritmo de cifrado.
+ANSWER: D
 
-42 En un cortafuegos en modo SPI(Stateful Packet lospeclion), seilale la opci6n verdadera:
-a) Trabaja exciusivamente en el nivel3 de OSI.
-b} Permilira el paso de un paquete solosi se dirige al puerto 80 de nuestro servidor.
-c) Tiene en c:uenta la negoclaci6n en 3 pasos (3 way handshake) de! protocolo TCP/IP.
-d) No permile la conexi6n SSH ya que est.a·cttrada.
-ANSWER:
+42 En un cortafuegos en modo SPI (Stateful Packet Inspection), señale la opción verdadera:
+a) Trabaja exclusivamente en el nivel 3 de OSI.
+b) Permitirá el paso de un paquete solo si se dirige al puerto 80 de nuestro servidor.
+c) Tiene en cuenta la negociación en 3 pasos (3-way handshake) del protocolo TCP/IP.
+d) No permite la conexión SSH ya que está cerrada.
+ANSWER: C
 
-43
-a) Reahza cifi:ado por b1oques.
-b) Utiliza un par de claves· una publfca yuna privada
-cJ Es  potente pero complejo. por lo que requiere baslanle memoria
-d) No es aconsejable para grandesvolumenes y Hujos de lnformaciOn
-ANSWER:
+43 En relación con el algoritmo de cifrado DES, ¿cuál de las siguientes afirmaciones es correcta?
+a) Realiza cifrado por bloques.
+b) Utiliza un par de claves: una pública y una privada.
+c) Es potente pero complejo, por lo que requiere bastante memoria.
+d) No es aconsejable para grandes volúmenes y flujos de información.
+ANSWER: A
 
-44 En IPSec, er moelo de functonamlcnto en el que, s6I0 los datos son clfrados 0  autenticados, y el cnrutamiento
-permanece intacto por fo que asegura la comunicaci6n extremo a extr8mo, se deno.mtna;.
-a) Modo 1unel. b} Modo transporle
-c) Medo encapsulado. d) Modo transparenle.
-ANSWER:
+44 En IPSec, el modelo de funcionamiento en el que solo los datos son cifrados o autenticados, y el enrutamiento permanece intacto por lo que asegura la comunicación extremo a extremo, se denomina:
+a) Modo túnel.
+b) Modo transporte.
+c) Modo encapsulado.
+d) Modo transparente.
+ANSWER: B
 
-45 En el contexlo de la Web 2.0, el c0njuri10 formado por una coleccion extensible de paglnas web entrelaudas, un sistema hipertextlial para aJ.macena.r y modlflcar lnformacion y una base de datos donde cada pagina puede ·ser fa ilmente modlficada por cualquier usuario quedlsponga de un navegador web estandar que admlta la utilizacion de formularlos, corresponde al concept(> de:
-a) Wik!.
-b) Mash1Jp.
-c) Blog
-d) Agregador o feeder
-ANSWER:
+45 En el contexto de la Web 2.0, el conjunto formado por una colección extensible de páginas web entrelazadas, un sistema hipertextual para almacenar y modificar información, y una base de datos donde cada página puede ser fácilmente modificada por cualquier usuario que disponga de un navegador web estándar que admita la utilización de formularios, corresponde al concepto de:
+a) Wiki.
+b) Mashup.
+c) Blog.
+d) Agregador o feeder.
+ANSWER: A
 
-46 La Web semaJitica prele.nde dotar a la Webde mayor slgnificado, gracias a una lnformacl6n mejor deflnlda. Para ello seutilizan tecnologias como:
-a) RTF
-b) RML
-c) OWL
+46 La Web Semántica pretende dotar a la Web de mayor significado, gracias a una información mejor definida. Para ello se utilizan tecnologías como:
+a) RTF.
+b) RML.
+c) OWL.
 d) Jabsys.
-ANSWER:
+ANSWER: C
 
-47 J,Que as un "splitter", en el entorno de la tecnotogia AOSL?
-a) Es un llllto sep8Tlldor de banaas en casa del abqnado.
-b) Es un dispositivo opcional demejora de calidad, UJ1icamenle es lmprescindibleen el caso de AOSL-llte
-c) Es un efeclo lndeseable en la linea, consistente en el acoplamiento l11diJctlvo y capacith,o enlfe dlferentes hllos denlro de! mismo mazo o mazos adyacenles, ·
-d) Es el mecanismo median1e el cual·el operador eslablecldo ha de ceder al nuevo operador la conexl6n a ·su" abonado.
-ANSWER:
+47 ¿Qué es un "splitter" en el entorno de la tecnología ADSL?
+a) Es un filtro separador de bandas en casa del abonado.
+b) Es un dispositivo opcional de mejora de calidad, únicamente imprescindible en el caso de ADSL-lite.
+c) Es un efecto indeseable en la línea, consistente en el acoplamiento inductivo y capacitivo entre diferentes hilos dentro del mismo mazo o mazos adyacentes.
+d) Es el mecanismo mediante el cual el operador establecido ha de ceder al nuevo operador la conexión a su abonado.
+ANSWER: A
 
-En retaci6n con la tec;nologia ADSL, uri multiplexor localludo en la central ta1ef6nica que concantra·el tnlflco de enlaces ADSL de usuario, se denomina:
-a) CSL.AM,
-c) ADSLM,
-b)
-OSLM.
-d) ADSLAM,
-ANSWER:
+48 En relación con la tecnología ADSL, un multiplexor localizado en la central telefónica que concentra el tráfico de enlaces ADSL de usuario, se denomina:
+a) DSLAM.
+b) DSLM.
+c) ADSLM.
+d) ADSLAM.
+ANSWER: A
 
-49 1,Que metodo de codificacl6n de la vozNO realiza compresl6n?
-a) LO-CELP (Low-Oelay Code-Exerted Llnear Prediction),
-bJ CS-ACELP (Oonju.9ate-Stcuclurecf Algebraic CodeExciled Unear Prediction cJ  PCM (Pulse-Code ModulaUon).
-d} AOPCM (P.daptalive Differential Pulse Code ModulaUor\)
-ANSWER:
+49 ¿Qué método de codificación de la voz NO realiza compresión?
+a) LD-CELP (Low-Delay Code-Excited Linear Prediction).
+b) CS-ACELP (Conjugate-Structured Algebraic Code Excited Linear Prediction).
+c) PCM (Pulse-Code Modulation).
+d) ADPCM (Adaptive Differential Pulse Code Modulation).
+ANSWER: C
 
-50 J.Cual es e1 eslandar Modidatlon) de la voz correspondlente al metodo de compresl6n AOPCM (Adapt.atlve Differential Pulse Code?
-a) G.711
-b) G.726
+50 ¿Cuál es el estándar de codificación de la voz correspondiente al método de compresión ADPCM (Adaptive Differential Pulse Code Modulation)?
+a) G.711.
+b) G.726.
 c) G.728.
-d) G.729,
+d) G.729.
+ANSWER: B
+
+51 ¿Qué tecnología de acceso permite un tipo de servicio tanto simétrico como asimétrico?
+a) SHDSL.
+b) HDSL.
+c) ADSL2.
+d) VDSL.
+ANSWER: D
+
+52 [ANULADA] ¿Qué tipo de modulación usa UMTS HSDPA (High-Speed Downlink Packet Access)?
+a) QPSK.
+b) 16QAM.
+c) 64QAM.
+d) 256QAM.
 ANSWER:
 
-51 lOUI! tecnologla de acceso permite un Upo do servicio tanto slmeirico como asimetrlco?
-a) SHOSL
-b) HDSL
-c) AOSL2.
-d) VOSL
-ANSWER:
+53 La tecnología HSDPA presenta una capacidad máxima de transferencia de información de:
+a) 10,8 Mbps teóricos.
+b) 14 Mbps.
+c) 2 Mbps.
+d) 384 Kbps.
+ANSWER: B
 
-52 l Que tipo de modulacion usa UMTS HSPDA (High-Speed Downlink Packet Access)?
-a) QPSK b) 16QAM
-c) 64QAM, d) 256QAM,
-ANSWER:
+54 En las redes móviles 3G de transición, encontramos tecnologías como HSPA evolucionado o HSPA+. ¿Cuál es una de las características de mejora de esta tecnología?
+a) Permite el uso de antenas MIMO.
+b) Alcanza velocidades pico teóricas de 100 Mbps.
+c) Proporciona capacidades simétricas para los enlaces ascendente y descendente.
+d) La modulación GMSK, de gran eficiencia espectral.
+ANSWER: A
 
-53 La tecnologia HSDPA presenta una capacldad maxima de lransferencia de informaci6n de: aJ 10,8 Mbps 1e6ricos. b) 14 Mbps.
-c) 2.Mbps cf) 384 Kbps.
-ANSWER:
+55 ¿En qué banda de frecuencias y hasta qué velocidad funciona el estándar 802.11a?
+a) 2,4 GHz y hasta 11 Mbps.
+b) 5 GHz y hasta 54 Mbps.
+c) 2,4 GHz y hasta 54 Mbps.
+d) 5 GHz y hasta 11 Mbps.
+ANSWER: B
 
-54 En las redes m6vlles 3Gde lr!lnsici6f), oncontramos tecnologias como HSPA evolucionado o HSPA+. 1,Cu I es u.n.a de las caracteristicas de mejora de estatecnologla?
-a) Permile el uso de ant nas MIMO,
-bj Alcanza velocidades pico 1e6rlc;as di? 100 Mbps.
-c) Proporc1ona capacidades s1rnellicas para tos enlaces ascenelente y descendente
-d) La modulae<6n GMSK, de gran eficiencia especlral.
-ANSWER:
+56 ¿Qué estándar de redes inalámbricas permite a dispositivos en movimiento realizar itinerancia rápida de un punto de acceso a otro?
+a) IEEE 802.11h.
+b) IEEE 802.11i.
+c) IEEE 802.11p.
+d) IEEE 802.11r.
+ANSWER: D
 
-55 lEn qui! banda de frecuenclas y hasta qua velocidad funciona el estandar 802.11a?
-a) 2,4 GHz.y hasla 11Mbps. b) S GHz y hasla 54Mbps.
-cJ 2,4 GHz y hasta 54 Mbps. d) 5 GHz y hasla 11 Mbps
-ANSWER:
+57 ¿Cuál de los siguientes algoritmos de cifrado se implementa en WiMAX?
+a) 3DES.
+b) SEAL.
+c) AES.
+d) RSA.
+ANSWER: B
 
-56 lQue estandar de redes inalambricas permite a disposi!ivos en movlmfento reallz.ar l,Unerancia rapida de un punto cle acc;es-o a otro?
-a) IEEE802.11 h
-c) IEEEao.2.11 p,
-b)
-IEEE 802..11 I
-d) IEEE 802..11 r.
-ANSWER:
+58 ¿En qué año ha concluido el apagón analógico en España?
+a) 2007.
+b) 2008.
+c) 2009.
+d) 2010.
+ANSWER: D
 
-57 lCual detosslgulentes algorltmos de cifrado O se lmplementa en WIMax?
-a) 3DES bJ SEAL
-c) AES d) RSA
-ANSWER:
-
-58 lEn qui!anohaconcluldo el apagon anal6gico en Espana?
-?aj
-?7. ?
-d}
-2008
-2010.
-ANSWER:
-
-59 lCu.alesel esta.odar europeo de TDT'?
+559 ¿Cuál es el estándar europeo de TDT?
 a) ISDB.
-c) OVB-T
-b) MPEG-2.
-d) EOTV.
-ANSWER:
+b) DVB-T.
+c) MPEG-2.
+d) EDTV.
+ANSWER: B
 
-60 1,aue codec de video se utlliza en la TOT paralos canales en alta definicion (HD)?
-a) Huffyuv. b) MPEG-4.
-c) MPEG-2 d) Sore11Son.
-ANSWER:
+60 ¿Qué códec de vídeo se utiliza en la TDT para los canales en alta definición (HD)?
+a) Huffyuv.
+b) MPEG-4.
+c) MPEG-2.
+d) Sorenson.
+ANSWER: B
 
-1 [RESERVA] lEn qua RFC se describe el modelo de seguridad basado en usuarlo (USM o User-based Security ModeQ para la 11ersi6n 3 de SNMP?
-a) RFC 1157. b) RFC 1441
-c) RFC 3414. d) RFC 3854.
-ANSWER:
+1 [RESERVA] ¿En qué RFC se describe el modelo de seguridad basado en usuario (USM o User-based Security Model) para la versión 3 de SNMP?
+a) RFC 1157.
+b) RFC 1441.
+c) RFC 3414.
+d) RFC 3854.
+ANSWER: C
 
-2 [RESERVA] La especifleacionPKCS#3 de RSA se refiere a:
-a) 1:1eslandar criplogtafico RSA,
-b) La sinlaxis de talnformaclon de Clave privada,
-c) El in!ercamblo de ciaves Oillie-Hellrnan.
-d) Lasihtaxls del mensafe criptografico.
-ANSWER:
+2 [RESERVA] La especificación PKCS#3 de RSA se refiere a:
+a) El estándar criptográfico RSA.
+b) La sintaxis de la información de clave privada.
+c) El intercambio de claves Diffie-Hellman.
+d) La sintaxis del mensaje criptográfico.
+ANSWER: C
 
 3 [RESERVA] ¿En qué recomendación de la Unión Internacional de Telecomunlcaciones viene recogida la tecnologla ADSL-LJte?
 a) ITU G.992.1.
 b) ITU G.992.2.
 c) ITU G,992.3.
 d) ITU G.992.4.
-ANSWER:
+ANSWER: B

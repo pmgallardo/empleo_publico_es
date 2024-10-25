@@ -6,14 +6,14 @@ c) Analistas.
 d) Jefes de Proyecto.
 ANSWER: A
 
-2.Los puntos de fijación (anchor points) son característicos en el modelo de desarrollo:
+2. Los puntos de fijación (anchor points) son característicos en el modelo de desarrollo:
 a) En cascada.
 b) Basado en prototipos.
 c) En espiral WINWIN.
 d) RAD.
 ANSWER: C
 
-3.Señale la respuesta correcta relativa al modelo de ciclo de vida en espiral:
+3. Señale la respuesta correcta relativa al modelo de ciclo de vida en espiral:
 a) La dimensión radial mide el grado de avance del proyecto en cada fase y la dimensión angular el coste.
 b) Cada ciclo consta de 5 actividades: Determinar objetivos, análisis del riesgo, estimar, planificar y desarrollo-pruebas.
 c) Fue propuesto inicialmente por Rutherford.
@@ -27,28 +27,28 @@ c) Mecanismo.
 d) Entrada.
 ANSWER: B
 
-5.La finalidad principal de la Gestión de Proyectos según Métrica v3 es la planificación, el seguimiento y control de:
+5. La finalidad principal de la Gestión de Proyectos según Métrica v3 es la planificación, el seguimiento y control de:
 a) Las actividades y de los recursos humanos que intervienen en el desarrollo de un Sistema de Información (S.I).
 b) Las actividades que intervienen en el desarrollo de un S.I.
 c) Las actividades y de los recursos humanos y materiales que intervienen en el desarrollo de un S.I.
 d) Los recursos humanos y materiales que intervienen en el desarrollo de un S.I.
 ANSWER: C
 
-6.En el modelo CMM (Capability Maturity Model) un grado mayor de madurez al nivel Repetible es:
+6. En el modelo CMM (Capability Maturity Model) un grado mayor de madurez al nivel Repetible es:
 a) Optimizado
 b) Definido
 c) Gestionado
 d) Inicial
 ANSWER: B
 
-7.De las siguientes cuatro opciones, tres son tareas incluidas en la actividad "GPI 2" del interfaz de Gestión de Proyectos de Métrica v3, indique cuál es la INCORRECTA:
+7. De las siguientes cuatro opciones, tres son tareas incluidas en la actividad "GPI 2" del interfaz de Gestión de Proyectos de Métrica v3, indique cuál es la INCORRECTA:
 a) Selección de la Estrategia de Desarrollo.
 b) Establecimiento del Calendario de Hitos y Entregas.
 c) Planificación Detallada de Actividades y Recursos Necesarios.
 d) Cálculo del Esfuerzo.
 ANSWER: D
 
-8.En Métrica v3 existe una interfaz de "Aseguramiento de la Calidad". Indique la afirmación correcta sobre dicho interfaz:
+8. En Métrica v3 existe una interfaz de "Aseguramiento de la Calidad". Indique la afirmación correcta sobre dicho interfaz:
 a) Para cada uno de los procesos que se definen en el interfaz se establecen un conjunto de tareas que se desarrollan mediante la ejecución de diversas actividades.
 b) El Grupo de Aseguramiento de la Calidad no participa en todos los procesos que se describen en el interfaz.
 c) La "Constitución del equipo de aseguramiento de la calidad" se realiza dentro del proceso de Estudio de Viabilidad del Sistema del interfaz.
@@ -62,14 +62,14 @@ c) El cliente está integrado en el proyecto.
 d) Simplicidad en el diseño para agilizar el desarrollo y facilitar el mantenimiento.
 ANSWER: B
 
-10.¿Cuál de los siguientes productos Java dispone de un motor de workflow?
+10. ¿Cuál de los siguientes productos Java dispone de un motor de workflow?
 a) Hibernate.
 b) Easy BPM.
 c) Spring.
 d) jBPM.
 ANSWER: D
 
-11.Señale cuál de las siguientes es una técnica de desarrollo según Métrica v3:
+11. Señale cuál de las siguientes es una técnica de desarrollo según Métrica v3:
 a) Técnicas Matriciales.
 b) Método Albrecht.
 c) Análisis de Impacto.
@@ -104,7 +104,7 @@ c) Sketch, WireFrame y Mockup.
 d) Mockup, Wireframe y Sketch.
 ANSWER: C
 
-16.Señale la opción INCORRECTA en relación con los DFD (Diagrama de Flujos de Datos) y los DE (Diagramas de Estructura), según Métrica v3:
+16. Señale la opción INCORRECTA en relación con los DFD (Diagrama de Flujos de Datos) y los DE (Diagramas de Estructura), según Métrica v3:
 a) El objetivo del DFD es la obtención de un modelo lógico de procesos que represente el sistema, con independencia de las restricciones físicas del entorno.
 b) En un DFD, los flujos de control representan movimientos de datos con valores síncronos entre procesos de control.
 c) Existen dos estrategias para obtener el DE a partir de un DFD, análisis: de transacción y de transformación. El uso de una de las dos dependerá de los procesos del DFD.
@@ -153,14 +153,14 @@ c) Dependencia en existencia y dependencia en discriminación.
 d) Dependencia en composición y dependencia en discriminación.
 ANSWER: A
 
-23.Sean dos transacciones (T1 y T2), T1 con estampa de tiempo igual a 8 y T2 con estampa de tiempo igual a 10 (T1 es más antiguo que T2). Suponiendo que T2 tiene un bloqueo en un elemento y T1 pide bloqueo para ese mismo elemento, si aplicamos el enfoque WOUND-WAIT para resolución del conflicto:
+23. Sean dos transacciones (T1 y T2), T1 con estampa de tiempo igual a 8 y T2 con estampa de tiempo igual a 10 (T1 es más antiguo que T2). Suponiendo que T2 tiene un bloqueo en un elemento y T1 pide bloqueo para ese mismo elemento, si aplicamos el enfoque WOUND-WAIT para resolución del conflicto:
 a) T1 esperará hasta que T2 se completa y libera su bloqueo.
 b) T1 se apropia del elemento que tenía bloqueo T2. T2 se aborta y se reinicia usando la misma estampa de tiempo.
 c) T1 se reinicia con la misma estampa de tiempo y T2 se reprograma usando la misma estampa de tiempo.
 d) T1 se apropia del elemento que tenía bloqueo T2. T2 se reinicia usando distinta estampa de tiempo.
 ANSWER: B
 
-24.En una transacción en un Sistema de Gestión de Bases de Datos (SGBD), ¿qué se entiende por el punto de integridad?
+24. En una transacción en un Sistema de Gestión de Bases de Datos (SGBD), ¿qué se entiende por el punto de integridad?
 a) El momento después en el que se inicia la transacción.
 b) El estado de la base de datos en el momento en que se inicia la transacción.
 c) Hacer un rollback en el caso de que haya un problema antes de completar la transacción.
@@ -174,7 +174,7 @@ c) Sólo si no hay ninguna población perteneciente a esa provincia.
 d) No, la tabla de provincias no puede cambiar ya que son un elemento estable.
 ANSWER: C
 
-26.ANSI/ISO SQL define ciertos niveles de aislamiento en transacciones en función de qué fenómenos puede que ocurran. Indique la respuesta correcta respecto al fenómeno "lectura fantasma":
+26. ANSI/ISO SQL define ciertos niveles de aislamiento en transacciones en función de qué fenómenos puede que ocurran. Indique la respuesta correcta respecto al fenómeno "lectura fantasma":
 a) Se permite en read uncommitted, read committed y repeatable read, pero no se permite en serializable.
 b) Se permite en read uncommitted y read committed, pero no se permite en repeatable read ni en serializable.
 c) Se permite en read uncommitted y repeatable read, pero no se permite en read committed ni en serializable.
@@ -237,23 +237,21 @@ c) Para la asignación de prioridades a diferentes actividades, dice que el 80% 
 d) Acuñada en los años 80, cuya finalidad era calcular la capacidad física de los usuarios del sistema informático.
 ANSWER: A
 
-35.Existen dos especificaciones complementarias que constituyen la especificación completa del lenguaje de
-modelado UML 2.4.1. Estas especificaciones se denominan:
+35. Existen dos especificaciones complementarias que constituyen la especificación completa del lenguaje de modelado UML 2.4.1. Estas especificaciones se denominan:
 a) Intrastructure e Hiperstructure.
 b) Basic y Complex.
 c) Infrastructure y Superstructure.
 d) Infrastructure y Substructure.
 ANSWER: C
 
-36.¿Cuál de los siguientes NO es un concepto clave asociado con casos de uso según la definición de UML 2.4.1?
+36. ¿Cuál de los siguientes NO es un concepto clave asociado con casos de uso según la definición de UML 2.4.1?
 a) Actors.
 b) Use cases.
 c) Subject.
 d) Scenario.
 ANSWER: D
 
-37.En un despliegue de una aplicación Java EE sobre WebSphere, fijar el mode del class loader como
-"PARENT_LAST" tiene el efecto de que busca las clases a cargar primero:
+37. En un despliegue de una aplicación Java EE sobre WebSphere, fijar el mode del class loader como "PARENT_LAST" tiene el efecto de que busca las clases a cargar primero:
 a) En el módulo web, si no las encuentra busca en la aplicación, y si no las encuentra, en las librerías del sistema.
 b) En las librerías del sistema, si no las encuentra busca en la aplicación, y si no las encuentra, en el módulo web.
 c) En la aplicación, y si no las encuentra busca en el módulo web, y si no las encuentra, en las librerías del sistema.
@@ -267,42 +265,36 @@ c) Context-Dependent Interface.
 d) Case-Driven Implementation.
 ANSWER: A
 
-39.Con respecto al Entity Framework ¿Cuál de las siguientes afirmaciones es correcta?
+39. Con respecto al Entity Framework ¿Cuál de las siguientes afirmaciones es correcta?
 a) Para usar Entity framework se requiere una versión del framework de .Net de 2.0, o superior.
 b) Entity framework es la implementación del Modelo Vista Controlador (MVC) en .NET.
-c)
-El contexto en el Entity Framework es el punto de arranque dentro del espacio de nombres.
+c) El contexto en el Entity Framework es el punto de arranque dentro del espacio de nombres.
 d) Entity es una clase u objeto que representa los datos de la aplicación.
 ANSWER: D
 
 40.Señale, entre los siguientes, cuál es un cliente WebDAV de línea de comandos para entornos Unix:
 a) cadaver
 b) audacity
-c)
-mahout
+c) mahout
 d) CalDAV
 ANSWER: A
 
-41.¿Qué significan las siglas MVC en el contexto de ASP.NET?
+41. ¿Qué significan las siglas MVC en el contexto de ASP.NET?
 a) Model View Controller.
-b)
-c)
-Mobile Video Compatible.
-d)
-Multiple Views Canvas.
-Mobile View Connector.
+b) Multiple Views Canvas.
+c) Mobile Video Compatible.
+d) Mobile View Connector.
 ANSWER: A
 
 42.¿Qué es el Marco Común de Evaluación (CAF) 2013?
 a) CAF ofrece dos sistemas de puntuación, el clásico y el refinado, sólo el primero de ellos está fundamentado sobre el Ciclo
 de Deming.
 b) Es uno del los ejes del modelo EFQM.
-c)
-Es una herramienta de gestión de la calidad total, desarrollada por y para el sector público.
+c) Es una herramienta de gestión de la calidad total, desarrollada por y para el sector público.
 d) Es una autoevaluación que debe realizar una organización conforme a lo que dicta la norma ISO 9000.
 ANSWER: C
 
-43.COCOMO II está formado por tres modelos o submodelos. ¿Cuál de los siguientes NO es un modelo de COCOMO II?
+43. COCOMO II está formado por tres modelos o submodelos. ¿Cuál de los siguientes NO es un modelo de COCOMO II?
 a) Modelo de Composición de Aplicación.
 b) Modelo de Reutilización de Objetos.
 c) Modelo de Diseño Preliminar.
@@ -358,8 +350,7 @@ c) Es el área del almacén (conceptual o físicamente separada en otra base de 
 d) Es una copia idéntica de las bases de datos originales, cuando en ellas existe mucha carga y no es posible bloquearlas para asegurar la integridad referencial al copiar los datos.
 ANSWER: A
 
-1. [RESERVA] ¿En qué proceso de Métrica Versión 3 se lleva a cabo la elaboración de la documentación de usuario, tanto de
-usuario final como de explotación?
+1. [RESERVA] ¿En qué proceso de Métrica Versión 3 se lleva a cabo la elaboración de la documentación de usuario, tanto de usuario final como de explotación?
 a) Análisis del sistema de información (ASI).
 b) Diseño del sistema de información (DSI).
 c) Construcción del sistema de información (CSI).
@@ -375,10 +366,7 @@ ANSWER: D
 
 3. [RESERVA] Las Pruebas de caja blanca NO dan cobertura de:
 a) Segmentos y ramas.
-c)
-Bucles.
-b)
-d)
-Condición / decisión.
-Texto.
+b) Condición / decisión.
+c) Bucles.
+d) Texto.
 ANSWER: D

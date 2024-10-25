@@ -1,0 +1,441 @@
+BLOQUE IV
+1. El comando ping es el acrónimo de:
+a) Packet Internet Group.
+b) Packet Internet Gangway.
+c) Packet Internet Gate.
+d) Packet Internet Groper.
+ANSWER: D
+
+2. El comando presente en sistemas operativos Unix que lista el buffer de mensajes generados durante el arranque del sistema se llama:
+a) uptime
+b) messages
+c) dmesg
+d) logmsg
+ANSWER: C
+
+3. Señale entre las siguientes herramientas el gestor de copia de seguridad en línea utilizado por productos de base de datos Oracle:
+a) RFID
+b) RSYNC
+c) RMAN
+d) RMON
+ANSWER: C
+
+4. ¿Qué podría usar el administrador de una base de datos SQL Server para supervisar el uso de los recursos del sistema?
+a) Los comandos cpustat y cputrack.
+b) El procedimiento almacenado sp_startmonitor.
+c) El monitor de sistema.
+d) El Enterprise SyMON 2.0.
+ANSWER: C
+
+5. De las siguientes tareas a efectuar sobre un servidor de aplicaciones, ¿cuál se puede encuadrar dentro del mantenimiento preventivo?
+a) Limpieza periódica del polvo en la fuente de alimentación.
+b) Sustitución de un disco duro defectuoso.
+c) Ampliación de la RAM del equipo.
+d) Actualización de la versión del software servidor de aplicaciones.
+ANSWER: A
+
+6. Cuál de las siguientes NO es un tipo de declaración válida en un trabajo basado en JCL:
+a) JOB
+b) COMMENT
+c) EXEC
+d) DD
+ANSWER: B
+
+7. Señale de los siguientes cuál NO es un cliente Subversion para control de versiones:
+a) TortoiseCVS
+b) Subversive
+c) Sventon
+d) Subclipse
+ANSWER: A
+
+8. Si queremos conocer las librerías vinculadas a un determinado programa en un sistema Linux usaremos el comando:
+a) ldd
+b) linkedl
+c) linklib
+d) lk
+ANSWER: A
+
+9. En Linux, el comando utilizado para obtener un análisis del estado del sistema, un detalle general de los procesos, E/S, uso de memoria, swap, estado del sistema y actividad de la CPU es:
+a) free
+b) iostat
+c) lsof
+d) vmstat
+ANSWER: D
+
+10. Entre las configuraciones de almacenamiento en RAID, NO ofrece redundancia de datos:
+a) Todas las configuraciones RAID garantizan la redundancia de la información.
+b) RAID 0.
+c) RAID 1.
+d) RAID 5.
+ANSWER: B
+
+11. Cuál de las siguientes relaciones NO es correcta:
+a) 1024 Petabytes = 1 Zettabyte.
+b) 1024 Zettabytes = 1 Yottabyte.
+c) 1024 Yottabytes = 1 Brontobyte.
+d) 1024 Brontobytes = 1 Geopbyte.
+ANSWER: A
+
+12. Según el estándar ISO/IEC 11801 para la clasificación de fibras multimodo, indicar la respuesta correcta en relación a OM4:
+a) Fibra de 62.5/125 micras.
+b) Fibra de 50/125 micras.
+c) Fibra de 50/25 micras.
+d) Fibra de 62/25 micras.
+ANSWER: B
+
+13.Señale qué norma del IEEE normaliza la tecnología Power over Ethernet Plus (PoE +):
+a) IEEE 802.3ab
+b) IEEE 802.3at
+c) IEEE 802.3ap
+d) No es un estándar del IEEE sino que es una categoría de EIA/TIA 568b.
+ANSWER: B
+
+14.La fibra multimodo NO se usa para aplicaciones donde el producto "largas distancias por ancho de banda" deba ser alto, porque:
+a) Existen diferentes modos de propagación, con diferentes velocidades de propagación de la señal, llegando la misma distorsionada al receptor.
+b) El coste de fabricación de un segmento continuo se incrementa cuadráticamente con la distancia (mientras que en la monomodo lo hace linealmente).
+c) Requiere transmitir en la segunda ventana, lo que unido a la potencia óptica necesaria por larga distancia hace que aumente prohibitivamente el coste.
+d) Requiere, para amplificar la señal a largas distancias, EDFAs (Erbium Doped Fibre Amplifier), mientras que en monomodo hay amplificadores más baratos.
+ANSWER: A
+
+15.El estándar conocido como WRAN (Wireless Regional Area Network) pertenece al grupo de trabajo del IEEE:
+a) 802.19
+b) 802.20
+c) 802.21
+d) 802.22
+ANSWER: D
+
+16. En el ámbito de las redes informáticas, el tiempo que tarda un paquete enviado desde un emisor en volver a este mismo emisor habiendo pasado por el receptor de destino es conocido como:
+a) Jitter.
+b) Delay.
+c) Round Trip delay Time.
+d) Latencia.
+ANSWER: C
+
+17. Señale cuál de las siguientes NO es una Protocol Data Unit (PDU) del protocolo SNMP v3:
+a) SetRequest PDU
+b) InformRequest PDU
+c) Report PDU
+d) GetBackRequest PDU
+ANSWER: D
+
+18.Señalar cuál de las siguientes NO es una ventaja del uso de directorios LDAP para la autenticación de usuarios:
+a) La mayoría de aplicaciones comerciales permiten su integración fácilmente.
+b) Están optimizados para las búsquedas, que es la operación más repetida a la hora de gestionar los usuarios.
+c) Permiten implantar sin ningún mecanismo adicional Single Sign On, ya que todas las aplicaciones pueden tener la autenticación a través del LDAP.
+d) La replicación con los directorios /etc/passwd está automatizada, y por tanto la integración con las aplicaciones comerciales.
+ANSWER: D
+
+19.La especificación del protocolo RTP (Real-Time Transport Protocol) corresponde a:
+a) ITU-T
+b) IETF
+c) W3C
+d) IEEE
+ANSWER: B
+
+20. El puerto del protocolo FTP sobre TLS/SSL (FTPS) es:
+a) 2121
+b) 2020
+c) 980
+d) 990
+ANSWER: D
+
+21. ¿Qué números de puerto TCP tienen asignados por IANA los protocolos IMAP e IMAPS (IMAP4 sobre TLS/SSL)?
+a) IMAP 143 e IMAPS 993.
+b) IMAPS 143 e IMAP 993.
+c) IMAP 193 e IMAPS 443.
+d) IMAPS 193 e IMAP 443.
+ANSWER: A
+
+22. Señale cuáles son las direcciones IP de red y de broadcast para la siguiente subred 132.27.43.25/27:
+a) red: 132.27.43.31/27 y broadcast: 132.27.43.0
+b) red: 132.27.43.20/27 y broadcast: 132.27.43.1
+c) red: 132.27.43.0/27 y broadcast: 132.27.43.1
+d) red: 132.27.43.0/27 y broadcast: 132.27.43.31
+ANSWER: D
+
+23. Según RFC 2460, señale de las siguientes cabeceras IPv6 cuál es una cabecera de extensión:
+a) Cabecera Siguiente.
+b) Fragmento.
+c) Límite de Saltos.
+d) Longitud de la Carga Útil.
+ANSWER: B
+
+24. Señale los tipos de tráfico IPv6 que hay:
+a) Unicast, Multicast y Broadcast.
+b) Unicast, Megacast y Anycast.
+c) Unicast, Multicast y Anycast.
+d) Somecast, Multicast y Broadcast.
+ANSWER: C
+
+25. ¿Cuál es el tipo de la dirección IPv6 ::1/128?
+a) Loopback.
+b) Indefinida (Unspecified).
+c) Multicast.
+d) No es válida.
+ANSWER: A
+
+26. El estándar ANSI/TIA-942 describe distintos niveles en relación a ciertos requisitos de seguridad en los CPD. ¿Cuál es el nivel (Tier) que se refiere a una instalación que no tiene redundadas sus componentes vitales (climatización, suministro eléctrico)?
+a) Tier 0.
+b) Tier 2.
+c) Tier 1.
+d) Tier 3.
+ANSWER: C
+
+27.Indique la afirmación correcta respecto a VPLS:
+a) Sólo permite establecer enlaces VPN punto a punto.
+b) Ofrece un servicio VPN de capa 4.
+c) Permite establecer Calidad de Servicio (QoS) utilizando el campo EXP.
+d) Sólo es útil en un contexto LAN.
+ANSWER: C
+
+28.Cuál de las siguientes afirmaciones sobre el protocolo de enrutamiento OSPF (Open Shortest Path First) es INCORRECTA:
+a) OSPF enruta paquetes basándose únicamente en la dirección IP destino.
+b) Utiliza un método basado en el algoritmo de Dijkstra para el cálculo de la ruta óptima.
+c) En OSPF un sistema autónomo (AS) es un conjunto de redes bajo una administración común.
+d) Al operar OSPF internamente en un sistema autónomo (AS), no puede enviar ni recibir rutas a otros AS.
+ANSWER: D
+
+29. En el ámbito de la criptografía asimétrica, ¿cuál de las siguientes afirmaciones es cierta?
+a) La clave pública sirve para firmar los documentos, antes de enviarlos.
+b) La clave privada sirve para cifrar la clave pública antes de firmar con esta última un documento.
+c) La clave privada se ha de generar aleatoriamente a partir de la clave pública cada vez que se firma un documento.
+d) La clave pública sirve para comprobar la firma digital de un documento firmado.
+ANSWER: D
+
+30. Señale la respuesta correcta. En una comunicación HTTPS, ¿qué tipo de cifrado se utiliza?
+a) Simétrico exclusivamente.
+b) Asimétrico exclusivamente.
+c) No se utiliza ningún cifrado.
+d) Tanto el simétrico como el asimétrico.
+ANSWER: D
+
+31. ¿Cuál es la dirección de broadcast de la subred 172.17.11.32/27?
+a) 172.17.11.255
+b) 172.17.11.63
+c) 172.17.11.47
+d) 172.17.255.255
+ANSWER: B
+
+32. Si a un mensaje le aplicamos una función hash, ciframos el resultado con una clave privada y se lo enviamos a un tercero junto con el mensaje original conseguimos:
+a) Autenticación, Integridad y No repudio en origen.
+b) Confidencialidad, Integridad y No repudio en origen.
+c) Autenticación, Confidencialidad e Integridad.
+d) Autenticación, Confidencialidad y No repudio en origen.
+ANSWER: A
+
+33. NO es un formato de firma electrónica recogida en la Norma Técnica de Interoperabilidad de Catálogo de estándares:
+a) XAdES
+b) PKCS#11
+c) PAdES
+d) XML-Dsig
+ANSWER: B
+
+34. SHA-1 produce un valor hash de:
+a) 20 bytes.
+b) 256 bits.
+c) 256 y 512 bits, respectivamente.
+d) 33 bytes.
+ANSWER: A
+
+35. Atendiendo únicamente a criterios de eficiencia en tiempo, ¿cuál de los siguientes métodos sería el más eficiente para securizar las comunicaciones entre usuarios dentro de una red?
+a) Mediante claves simétricas.
+b) Mediante claves asimétricas.
+c) Mediante claves simétricas compartidas periódicamente con claves asimétricas.
+d) Mediante claves asimétricas compartidas periódicamente con claves simétricas.
+ANSWER: A
+
+36. La arquitectura de cortafuegos que combina un router con un host bastión y donde el principal nivel de seguridad proviene del filtrado de paquetes se denomina:
+a) Screened Subnet.
+b) Dual-Homed Host.
+c) Router-Homed Host.
+d) Screened Host.
+ANSWER: D
+
+37.En un contexto web, ¿qué significa AJAX?
+a) Accelerated JAva eXtensions.
+b) Active JSON And XML.
+c) Asynchronous JAvaScript eXtensions.
+d) Asynchronous JavaScript and XML.
+ANSWER: D
+
+38. La especificación de las hojas de estilo en cascada (CSS 2.1) del W3C define varios orígenes para las hojas de estilo. Entre ellos NO se encuentra:
+a) Autor.
+b) Usuario.
+c) Dispositivo.
+d) Agente de usuario (user agent).
+ANSWER: C
+
+39. ¿Qué es SPDY?
+a) Es un protocolo que reduce el tiempo de carga de sitios web.
+b) Storage Protocol Data Yield, protocolo para el almacenamiento de datos según la probabilidad de uso de los mismos.
+c) Es una medida de rendimiento de CPU utilizada en entornos de altas prestaciones.
+d) Es la evolución de HSUPA con una tasa de transferencia de 5 Gbps reales.
+ANSWER: A
+
+40. El lenguaje de consulta sobre RDF que permite hacer búsquedas sobre los recursos de la Web Semántica utilizando distintas fuentes de datos es:
+a) OWL
+b) RQUERY
+c) JQUERY
+d) SPARQL
+ANSWER: D
+
+41. La recomendación ITU-T G.992.3 hace referencia a:
+a) ADSL
+b) VDSL
+c) ADSL2
+d) ADSL2+
+ANSWER: C
+
+42. ¿A qué se refiere el término mashup?
+a) Plataforma de desarrollo Web que define la base de datos (MySQL), el servidor Web (Apache), el sistema operativo (Solaris), y el lenguaje de programación (Haskell).
+b) Pequeña sección de la ventana del navegador que muestra un mensaje de texto que se desplaza a través de la pantalla.
+c) Conjunto de técnicas y recomendaciones para conseguir que una página web aparezca en los primeros resultados de los buscadores para unas determinadas palabras clave (keywords).
+d) Aplicaciones web que combinan datos y contenido de distintas fuentes para dar una experiencia de usuario integrada.
+ANSWER: D
+
+43. Tal y como indica la Ley 9/2014, General de Telecomunicaciones, en su artículo 84, tienen competencia sancionadora (señale la respuesta FALSA):
+a) El Secretario de Estado de Telecomunicaciones y para la Sociedad de la Información.
+b) La Comisión Nacional de los Mercados y la Competencia.
+c) El Ministro de Industria, Energía y Turismo.
+d) La Agencia Española de Protección de Datos.
+ANSWER: C
+
+44. Entre los múltiples protocolos de señalización para VoIP se encuentra:
+a) SIP
+b) VDSL
+c) IMAP
+d) POTS
+ANSWER: A
+
+45. Según la norma de la ITU-T asociada a la recomendación G.726, de Modulación por impulsos codificados diferencial adaptativa, indicar la respuesta correcta que se corresponde con su bit rate (kbit/s):
+a) 16, 24, 32 ó 40
+b) 6, 12, 24 ó 48
+c) 4, 8, 16 ó 40
+d) 8, 16, 32 ó 64
+ANSWER: A
+
+46. En conmutación de paquetes, ¿cuál de las siguientes afirmaciones con respecto a la multiplexación por división de tiempo es correcta?
+a) En la multiplexación síncrona no hay preasignación de ranuras temporales.
+b) En la multiplexación asíncrona se asigna siempre la misma ranura de tiempo a cada dispositivo.
+c) En la multiplexación síncrona el número de dispositivos debe ser igual al número de ranuras de tiempo disponibles.
+d) En la multiplexación asíncrona el retardo es variable.
+ANSWER: D
+
+47. ¿Qué tasa de transferencia tiene la codificación de voz CS-ACELP (Conjugate-Structure Algebraic Code Excited Linear-Prediction) de la Recomendación ITU G.729 (anexo A)?
+a) 8 Kbit/s.
+b) 16 Kbit/s.
+c) 32 Kbit/s.
+d) 64 Kbit/s.
+ANSWER: A
+
+48. La tecnología de telefonía móvil GSM utiliza, entre otras, la siguiente base de datos de usuarios:
+a) MSC
+b) BSC
+c) NSS
+d) VLR
+ANSWER: D
+
+49.¿A qué generación pertenece UMTS?
+a) 2G
+b) 3G
+c) 3.5G
+d) 4G
+ANSWER: B
+
+50.La norma TETRA (TErrestrial Trunked RAdio) es un estándar elaborado por:
+a) IEEE (Institute of Electrical and Electronics Engineers).
+b) IETF (Internet Engineering Task Force).
+c) ETSI (European Telecommunications Standards Institute).
+d) ITU (International Telecommunications Union).
+ANSWER: C
+
+51. La longitud de clave que se usa en el cifrado opcional de DECT, el denominado DECT Standard Cipher (DSC) es:
+a) 32 bits.
+b) 64 bits.
+c) 128 bits.
+d) 256 bits.
+ANSWER: B
+
+52. En el ámbito de las redes inalámbricas, la variante IEEE 802.11a:
+a) Opera dentro del rango de los 5 GHz.
+b) Es compatible con el estándar 802.11b.
+c) Es compatible con el estándar 802.11g.
+d) Incorpora QoS (Calidad de Servicio).
+ANSWER: A
+
+53. El estándar IEEE 802.11e sobre redes inalámbricas se corresponde con especificaciones …
+a) para la coexistencia con sistemas de Radar o Satélite.
+b) de seguridad.
+c) de roaming.
+d) sobre calidad de servicio QoS.
+ANSWER: D
+
+54.¿Cuál de los siguientes NO es un protocolo relacionado con las redes inalámbricas WLAN?
+a) DECT.
+b) 802.11b.
+c) 802.11g.
+d) 802.11n.
+ANSWER: A
+
+55.Señalar en qué banda de frecuencias el estándar 802.11ad alcanza sus velocidades máximas:
+a) 60 GHz.
+b) 6 GHz.
+c) 600 MHz.
+d) 60 MHz.
+ANSWER: A
+
+56.¿Qué es WirelessMAN-Advanced?
+a) La evolución de la norma 802.16.
+b) Bluetooth versión 5.
+c) El nuevo grupo de trabajo 802.13.
+d) LTE (Long-Term Evolution) para redes MAN.
+ANSWER: A
+
+57.¿Qué estándar del IEEE opera con canales de 80 MHz de ancho de banda por cliente?
+a) 802.11n
+b) 802.11g
+c) 802.11ac
+d) 802.11ad
+ANSWER: C
+
+58. El estándar del IEEE que permite a la tecnología PLC llegar a velocidades de 500 Mbps (denominado Broadband over Power Line o BPL) es:
+a) IEC 61850.
+b) IEEE 1901.
+c) IEEE 1613.
+d) IEEE 1284.
+ANSWER: B
+
+59. ¿Cuál de los siguientes conceptos NO está relacionado con la especificación de IP móvil para IPv4 del IETF (RFC 5944)?
+a) Tunneling.
+b) Home agent.
+c) Mobile Switching Centre.
+d) Care-of address.
+ANSWER:C
+
+60. ¿En qué consiste la liberación del dividendo digital?
+a) Es el proceso por el que se volvieron a repartir las frecuencias del espectro radioeléctrico de los 900 MHz, anteriormente asignadas a Movistar, Vodafone y Orange, a aquellos operadores que lo solicitaron, de forma que pudieran ser utilizadas para ofrecer servicios móviles LTE/4G.
+b) Se denomina así al espectro asignado a la emisión de televisión analógica, que va a pasar a ser utilizado por tecnologías LTE/4G.
+c) Se denomina así al espectro recuperado al hacerse efectiva la transición a la televisión digital terrestre.
+d) Es el proceso de reordenación de algunos canales TDT, para liberar las frecuencias radioeléctricas de la banda de 800 MHz que será utilizada por tecnologías móviles LTE/4G.
+ANSWER: D
+
+1. [RESERVA] ¿Cuál de los siguientes NO es un elemento de una red MPLS según el RFC 3031?
+a) LSR - Label Switching Router.
+b) LDP - Label Distribution Protocol.
+c) ILM - Incoming Label Mode.
+d) LSP - Label Switched Path.
+ANSWER: C
+
+2. [RESERVA] Señale la respuesta correcta relativa al protocolo iSCSI (Internet Small Computer System Interface), definido en la RFC 7143:
+a) Tanto iniciadores como destinos compatibles iSCSI deben implementar el método de autenticación CHAP (Challenge Handshake Authentication Protocol).
+b) Un nombre iSCSI consiste en una cadena de texto con tres campos: un designador de tipo, un espacio de nombres, y un nombre de dispositivo único dado por la IETF.
+c) En la RFC se definen sólo dos designadores de tipo: el tipo “iqn” y el tipo “eui”.
+d) Debe utilizarse obligatoriamente iSNS (Internet Storage Name Service) para localizar los destinos iSCSI.
+ANSWER: A
+
+3. [RESERVA] De acuerdo al Cuadro Nacional de Atribuciones de Frecuencias del Ministerio de Industria, ¿qué frecuencia está reservada a la Eurobaliza para ferrocarriles?
+a) 457 KHz
+b) 27,095 MHz
+c) 93,9 MHz
+d) 1.600 MHz
+ANSWER: B

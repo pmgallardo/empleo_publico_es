@@ -47,35 +47,35 @@ c) Directa, si concurre violencia física, e indirecta en el resto de casos.
 d) Directa o indirecta, según decisión judicial, considerando las circunstancias que concurran.
 ANSWER: B
 
-8.¿Qué tres derechos específicos incorpora la Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género, para las funcionarias víctimas de violencia de género?
+8. ¿Qué tres derechos específicos incorpora la Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género, para las funcionarias víctimas de violencia de género?
 a) La reducción o reordenación de su tiempo de trabajo, la movilidad geográfica de centro de trabajo y la excedencia por este motivo.
 b) La movilidad geográfica de centro de trabajo, la excedencia por este motivo y la reserva de plazas en los procesos de promoción interna de grupo administrativo.
 c) La reserva de plazas en los procesos de promoción interna de grupo administrativo, la reducción o reordenación de su tiempo de trabajo y la excedencia por este motivo.
 d) La excedencia por este motivo, la movilidad geográfica de centro de trabajo y la reserva de plazas en los procesos de promoción interna.
 ANSWER: A
 
-9.El uso conjunto de los certificados ubicados en el DNI electrónico proporcionan las siguientes garantías:
+9. El uso conjunto de los certificados ubicados en el DNI electrónico proporcionan las siguientes garantías:
 a) Disponibilidad, autenticidad de origen, confidencialidad y no repudio de origen.
 b) Disponibilidad, integridad, autenticidad de origen.
 c) Integridad, autenticidad de origen y no repudio de origen.
 d) Integridad, confidencialidad, autenticidad de origen y no repudio de destino.
 ANSWER: C
 
-10.¿Cuáles son áreas de actuación dentro de la Estrategia 2011-2015 del Plan Avanza 2?
+10. ¿Cuáles son áreas de actuación dentro de la Estrategia 2011-2015 del Plan Avanza 2?
 a) Ciudadanía Digital, Economía Digital, Educación y Servicios Públicos Digitales, Publicación Digital.
 b) Infraestructura, Gobernanza, Confianza y Seguridad, Espacio único de información.
 c) Administración sin papeles, Infraestructuras, Uso y confianza en Internet, Impulso de la industria TIC española.
 d) Administración en línea, Comercio electrónico, Salud y Educación en línea, Banda Ancha.
 ANSWER: C
 
-11.En la Ley 59/2003, de firma electrónica, se indica que la prestación de servicios de certificación:
+11. En la Ley 59/2003, de firma electrónica, se indica que la prestación de servicios de certificación:
 a) Está sujeta a autorización previa por parte del Ministro de Hacienda.
 b) Está sujeta a autorización previa por parte del Consejo de Ministros.
 c) No está sujeta a autorización previa.
 d) Es una competencia autonómica.
 ANSWER: C
 
-12.Según la Ley 59/2003 de Firma electrónica, los prestadores de servicios de certificación que expidan certificados reconocidos deberán conservar registrada por cualquier medio seguro toda la información y documentación relativa a un certificado reconocido al menos durante:
+12. Según la Ley 59/2003 de Firma electrónica, los prestadores de servicios de certificación que expidan certificados reconocidos deberán conservar registrada por cualquier medio seguro toda la información y documentación relativa a un certificado reconocido al menos durante:
 a) 5 años.
 b) 10 años.
 c) Permanentemente.
@@ -103,7 +103,7 @@ c) Desarrollo.
 d) Energía eléctrica.
 ANSWER: A
 
-16.Indique la opción INCORRECTA en relación con el Esquema Nacional de Seguridad (ENS):
+16. Indique la opción INCORRECTA en relación con el Esquema Nacional de Seguridad (ENS):
 a) Los sistemas de información a los que se refiere el ENS serán objeto de una auditoría regular ordinaria, al menos cada dos años, que verifique el cumplimiento de los requerimientos expuestos en el ENS.
 b) Gestión de riesgos, función diferenciada y reevaluación periódica son 3 de los principios básicos que deberán tenerse en cuenta en las decisiones en materia de seguridad.
 c) El Instituto Nacional de las Tecnologías de la Información (INTECO), en el ejercicio de sus competencias, elaborará y difundirá las correspondientes guías de la seguridad de las tecnologías de la información y las comunicaciones.
@@ -152,127 +152,126 @@ c) Yottabyte (YB)
 d) Zettabyte (ZB)
 ANSWER: C
 
-23.La velocidad del estándar USB 3.0 es:
+23. La velocidad del estándar USB 3.0 es:
 a) Similar a la del USB 2.0.
 b) 10 veces superior a la del USB 2.0.
 c) 480 Mbps.
 d) 15 veces superior a la del USB 2.0.
 ANSWER: B
 
-24.¿Cuál de los siguientes nombres NO se corresponde con una versión del sistema operativo Android?
+24. ¿Cuál de los siguientes nombres NO se corresponde con una versión del sistema operativo Android?
 a) Kit Kat.
 b) Ice Cream Sandwich.
 c) Donut.
 d) Candy Marzipan.
 ANSWER: D
 
-25.La técnica que permite solapar instrucciones mediante la división de su ejecución en etapas se denomina:
+25. La técnica que permite solapar instrucciones mediante la división de su ejecución en etapas se denomina:
 a) Parametrización
 b) Segmentación
 c) Multiplexación
 d) Paginación
 ANSWER: B
 
-26.Indique cuál de los siguientes sistemas de archivos se corresponde con el nuevo desarrollado por Microsoft y que fue presentado junto a Windows Server 2012:
+26. Indique cuál de los siguientes sistemas de archivos se corresponde con el nuevo desarrollado por Microsoft y que fue presentado junto a Windows Server 2012:
 a) ReFS
 b) NTFS
 c) HPFS
 d) CSFS
 ANSWER: A
 
-27.Podremos almacenar un fichero de 6 GB en un dispositivo, si el sistema de ficheros con el que está formateado es:
+27. Podremos almacenar un fichero de 6 GB en un dispositivo, si el sistema de ficheros con el que está formateado es:
 a) FAT32.
 b) NTFS.
 c) HPFS.
 d) ISO 9660:1988 Level 2.
 ANSWER: B
 
-28.TinyOS, cuyo diseño está orientado a sistemas embebidos inalámbricos de baja potencia, está escrito en el lenguaje:
+28. TinyOS, cuyo diseño está orientado a sistemas embebidos inalámbricos de baja potencia, está escrito en el lenguaje:
 a) Java
 b) Python
 c) .Net
 d) nesC
 ANSWER: D
 
-29.En el sistema operativo Linux, ¿cuál de las siguientes opciones busca la palabra "libro" dentro de ficheros?
+29. En el sistema operativo Linux, ¿cuál de las siguientes opciones busca la palabra "libro" dentro de ficheros?
 a) find -type f | xwygs grep "libro"
 b) find -type f | xaygs grep "libro"
 c) find -type f | xargs grep "libro"
 d) find -type f | xargp grep "libro"
 ANSWER: C
 
-30.Para entornos Unix, indica cómo se asigna el sticky bit a un directorio:
+30. Para entornos Unix, indica cómo se asigna el sticky bit a un directorio:
 a) chmod u+s /directorio/fichero
 b) chmog g+s /directorio
 c) chmod 177 /directorio
 d) chmod +t /directorio
 ANSWER: D
 
-31.¿Cuál de los siguientes NO es un gestor de ventanas de Linux?
+31. ¿Cuál de los siguientes NO es un gestor de ventanas de Linux?
 a) Metacity de GNOME.
 b) KWIN de KDE.
 c) GTK de CDE.
 d) Enlightenment de GNOME.
 ANSWER: C
 
-32.¿Con qué directiva se declara una página maestra en ASP.Net?
+32. ¿Con qué directiva se declara una página maestra en ASP.Net?
 a) Master
 b) MasterPage
 c) Master.Page
 d) Page
 ANSWER: A
 
-33.CODASYL, modelo de Sistemas Gestores de Bases de datos en red, es acrónimo de:
+33. CODASYL, modelo de Sistemas Gestores de Bases de datos en red, es acrónimo de:
 a) Conference on Data Systems Languages.
 b) Concurrent Database Systems Languages.
 c) Coherent Data Symmetric Location.
 d) CODe And Systematic Language.
 ANSWER: A
 
-34.¿Cuál de las siguientes herramientas utiliza un SGBD (sistema de gestión de bases de datos) para asegurar la atomicidad y persistencia de las transacciones?
+34. ¿Cuál de las siguientes herramientas utiliza un SGBD (sistema de gestión de bases de datos) para asegurar la atomicidad y persistencia de las transacciones?
 a) Módulo de comprobación de la integridad.
 b) El esquema conceptual.
 c) Fichero diario.
 d) Triggers.
 ANSWER: C
 
-35.Señale la afirmación es correcta respecto a firmar digitalmente mediante XML Signature al usar WS-Security:
+35. Señale la afirmación es correcta respecto a firmar digitalmente mediante XML Signature al usar WS-Security:
 a) WS-Security no contempla el uso de XML Signature por no adaptarse bien al modelo petición respuesta de Web Services.
 b) WS-Security contemplaba el uso de XML Signature en la versión 1.0 pero se abandonó en favor de XML DynaSign.
 c) WS-Security contempla el uso de XML Signature con algunas limitaciones, como recomendar el no usar Enveloped Signature Transform.
 d) WS-Security contempla el uso de XML Signature, sin establecer limitaciones ni extensiones especiales.
 ANSWER: C
 
-36.Señale cuál de las siguientes opciones está basada en el protocolo ICMP:
+36. Señale cuál de las siguientes opciones está basada en el protocolo ICMP:
 a) SMTP
 b) SNMP
 c) PING
 d) DNS
 ANSWER: C
 
-37.El lenguaje de marcado PMML (Predictive Model Markup Language) es un lenguaje relacionado con las técnicas relativas a:
+37. El lenguaje de marcado PMML (Predictive Model Markup Language) es un lenguaje relacionado con las técnicas relativas a:
 a) Virtualización de escritorio.
 b) Virtualización de servidores.
 c) Sistemas SAN.
 d) Minería de datos.
 ANSWER: D
 
-38.En un documento XML los valores de un atributo:
+38. En un documento XML los valores de un atributo:
 a) Deben ir siempre entre comillas.
 b) Deben ir entre comillas si no son números o fechas.
 c) No deben ir entre comillas.
 d) Deben ir entre comillas si son números o fechas.
 ANSWER: A
 
-39.Según Magerit v2, quien NO es un participante en un proyecto de análisis y gestión de riesgos:
+39. Según Magerit v2, quien NO es un participante en un proyecto de análisis y gestión de riesgos:
 a) Comité de Gestión.
 b) Grupos de Interlocutores.
 c) Comité de Seguimiento.
 d) Equipo de Proyecto.
 ANSWER: A
 
-40. Según Magerit v2 cuál de las siguientes tareas NO forma parte de la actividad de caracterización de los activos
-en el Análisis de Riesgos:
+40. Según Magerit v2 cuál de las siguientes tareas NO forma parte de la actividad de caracterización de los activos en el Análisis de Riesgos:
 a) Identificación de los activos.
 b) Dependencias entre activos.
 c) Auditoría de los activos.
@@ -293,14 +292,14 @@ c) Define la forma en la que las palabras son pronunciadas.
 d) Define la estructura de las gramáticas usadas en el reconocimiento del habla.
 ANSWER: C
 
-43.La norma ISO/IEC 27002 es un conjunto de controles de seguridad para sistemas de información genéricos. Esta norma está relacionada con el Esquema Nacional de Seguridad (ENS). Señale la opción INCORRECTA:
+43. La norma ISO/IEC 27002 es un conjunto de controles de seguridad para sistemas de información genéricos. Esta norma está relacionada con el Esquema Nacional de Seguridad (ENS). Señale la opción INCORRECTA:
 a) Numerosas medidas de seguridad del ENS coinciden con controles de ISO/IEC 27002.
 b) El ENS es más preciso que la norma ISO/IEC 27002 y establece un sistema de protección proporcionado a la información y servicios a proteger para racionalizar la implantación de medidas de seguridad y reducir la discrecionalidad.
 c) La norma ISO/IEC 27002 carece de la proporcionalidad del ENS, quedando a la mejor opinión del auditor que certifica la conformidad con ISO/IEC 27001. La certificación de la conformidad con ISO/IEC 27001 no es obligatoria en el ENS.
 d) Tanto la norma ISO/IEC 27002 como el ENS contemplan diversos aspectos relativos a la firma o la autenticación electrónica.
 ANSWER: D
 
-44.¿Cuál es el objetivo principal perseguido por un keylogger?
+44. ¿Cuál es el objetivo principal perseguido por un keylogger?
 a) "Intercepción" y captura de datos.
 b) Suplantación de identidad.
 c) Denegación de servicio.

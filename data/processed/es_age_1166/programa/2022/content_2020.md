@@ -50,6 +50,73 @@ Exámenes revisados hasta convocatoria 2022.
 
 22. La calidad en los servicios públicos y el papel de las TIC en su modernización. La legislación en materia de sociedad de la información y administración electrónica en España y Europa.
 
+    * Calidad de los servicios
+      * Modelos y normas de calidad
+        * Calidad general
+          * [ISO 9000](https://es.wikipedia.org/wiki/Normas_ISO_9000)
+            * Conjunto de normas ISO 9000
+              * ISO 9000: vocabulario
+              * ISO 9001: modelo para sistema de gestión
+              * ISO 9004: mejora de desempeño
+          * [EFQM (European Foundation Quality Management)](https://es.wikipedia.org/wiki/Fundaci%C3%B3n_Europea_para_la_Gesti%C3%B3n_de_la_Calidad)
+          * [CAF (Common Assessment Framework)](https://es.wikipedia.org/wiki/Marco_Com%C3%BAn_de_Evaluaci%C3%B3n)
+          * Modelo EVAM (2009)
+          * TQM (Total Quality Management)
+          * Lean Six Sigma
+        * Calidad de Servicios
+          * SERVQUAL
+        * Gestión de servicios
+          * ISO 20000
+          * ITIL v3
+          * SIAM
+          * VeriSM
+      * Calidad de los servicios públicos en España
+        * Informe DESI
+        * Organismos involucrados
+          * DGGP (Dirección General de Gobernana Pública)
+    * Sociedad de la información y administración electrónica
+      * Sociedad de la información y administración electrónica en Europa
+        * Iniciativas
+          * IDA (Intercambio de Datos entre Administraciones)
+          * Consejo Europeo de Lisboa (2002)
+          * eEuropa 2002
+          * Agenda Digital Europea 2010
+          * Plan de acción sobre la administración europea 2016-2020
+            * 6 principios
+              * Digital por defecto
+              * Interoperabilidad
+              * Accesibilidad
+              * Transparencia administrativa
+              * Confianza digital
+          * Estrategia Digital Europea 2020
+            * Áreas
+              * Computación avanzada
+              * Inteligencia artificial
+              * Ciberseguridad
+              * Competencias digitales avanzadas
+              * Mejor uso de las capacidades digitales e interoprabilidad
+          * Libro Blanco de la Inteligencia Artificial 2020
+      * Sociedad de la información y administración electrónica en España
+        * RD 1289/1999
+        * Plan de Choque para el Impulso de la Administración Electrónica en España (2003)
+        * Plan Avanza 2006-2010
+          * Leyes potenciadas:
+            * Ley 60/2007
+            * Ley 11/2007
+              * Continúa la Ley 59/2003, de firma electrónica
+              * Desarrollada en RD 1671/2009
+        * Plan Moderniza 2006-2008
+        * Plan Avanza 2 2009-2012
+        * Agenda Digital para España 2013
+          * 6 objetivos
+        * Plan Transformación Digital de la AGE 2015-2020
+          * Leyes potenciadas:
+            * Ley 39/2015 LPAC
+            * 40/2015 LRJSP
+        * Plan de Digitalización de las AAPP 2021-2025
+        * Agenda Digital España 2025
+          * 10 ejes estratégicos
+
 23. La crisis de la burocracia como sistema de gestión. La adecuación de técnicas del sector privado. El «management» público y la gobernanza. Hacia la excelencia en las instituciones públicas.
 
 24. Empleo Público en España. Tipología del empleo público. Estatuto Básico del Empleado Público. Planificación de recursos humanos en las Administraciones Públicas: la oferta de empleo público. Ley de Incompatibilidades del personal al servicio de las Administraciones Públicas.
@@ -59,6 +126,91 @@ Exámenes revisados hasta convocatoria 2022.
 26. La dinamización y el apoyo a la actividad económica y al emprendimiento. La garantía de la unidad de mercado.
 
 27. La política de protección de datos de carácter personal. Régimen jurídico. El Reglamento UE 2016/679, de 27 de abril, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos. Principios y derechos. Obligaciones. El Delegado de Protección de Datos en las Administraciones Públicas. La Agencia Española de Protección de Datos.
+
+    * Marco jurídico histórico
+      * LORTAD
+      * Directiva 95/46/CE
+      * [LOPD](https://es.wikipedia.org/wiki/Ley_Org%C3%A1nica_de_Protecci%C3%B3n_de_Datos_de_Car%C3%A1cter_Personal_(Espa%C3%B1a))
+      * RLOPD
+    * Marco jurídico vigente
+      * GDPR, RGPD o [Reglamento (UE) 2016/679](https://es.wikipedia.org/wiki/Reglamento_General_de_Protecci%C3%B3n_de_Datos)
+        * Ámbito
+        * Control del interesado
+          * Principios de control del interesado relativos al tratamiento
+            * Licitud, lealtad y transparencia
+            * Limitación de la finalidad
+            * Minimización de datos
+            * Exactitud
+            * Limitación del plazo de conservación
+            * Integridad y confidencialidad
+            * Responsabilidad proactiva
+              * Principios de responsabilidad proactiva
+                * Protección del datos desde el diseño
+                * Protección de datos por defecto
+                * Registro de actividades de tratamiento
+                * Análisis de riesgos
+                * Medidas de seguridad
+                * Evaluación de impacto
+                * DPD (Delegado de protección de datos)
+                  * Sujetos obligados
+                  * Relación laboral
+                  * Funciones
+                  * [DPD en Sector Público](https://es.wikipedia.org/wiki/Oficial_de_protección_de_datos)
+                * Notificación de brechas de seguridad
+                * Códigos de conducta y certificación
+                  * Códigos de conducta
+                  * Mecanismos de certificación
+          * Derechos (PILDORAS)
+            * Información
+            * Acceso
+            * Rectificación
+            * Oposición
+            * Supresión
+            * Limitación del tratamiento
+            * Portabilidad
+            * Decisiones individuales automatizadas
+        * Transferencias de datos a terceros
+        * Cooperación y coherencia transfronteriza
+          * Mecanismo de ventanilla única / one-stop shop
+          * Asistencia mutua entre utoridades de control
+          * Mecanismo de coherencia
+            * [CEPD (Comité Europeo de Protección de Datos)](https://es.wikipedia.org/wiki/Comit%C3%A9_Europeo_de_Protecci%C3%B3n_de_Datos)
+              * Misión
+              * Composición del CEPD
+                * Director de una autoridad de control de cada Estado miembro de la UE
+                * [Supervisor Europeo de Protección de Datos](https://es.wikipedia.org/wiki/Supervisor_Europeo_de_Protecci%C3%B3n_de_Datos)
+              * Secretaría del CEPD
+        * Régimen sancionador
+          * Sujetos afectados
+          * Poderes de investigación y correctivos
+            * Multas administrativas
+      * [LOPD-GDD](https://es.wikipedia.org/wiki/Ley_Org%C3%A1nica_de_Protecci%C3%B3n_de_Datos_Personales_y_garant%C3%ADa_de_los_derechos_digitales), o Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de derechos digitales
+        * Contenido
+          * Datos de contacto de empleados y autónomos
+          * Sistemas de información crediticia
+          * Operaciones mercantiles
+          * Videovigilancia
+          * Sistemas de exclusión publicitaria
+          * Sistemas de denuncias internas
+          * Función estadística pública
+          * Archivo de interés público
+          * Infracciones y sanciones administrativa
+          * Actividades electorales de partidos políticos
+      * LGT, o Ley 9/2014
+      * LSSI, o ley 34/022, de servicios de la sociedad de la información y de comercio electrónico
+      * Law Enforcement Directive, o Directiva (UE) 2016/680
+      * Reglamento (UE) 2018/1725
+      * RDL 14/2019, por le que se adoptan medidas urgentes por razones de seguridad pública en materia de administración digital, contratación del sector público y telecomunicaciones.
+    * Autoridades de control de protección de datos
+      * [AEPD (Agencia Española de Protección de Datos)](https://es.wikipedia.org/wiki/Agencia_Espa%C3%B1ola_de_Protecci%C3%B3n_de_Datos)
+        * Régimen jurídico
+        * Régimen presupuestario y de personal
+        * Presidencia
+        * Estrucura orgánica
+        * Consejo Consultivo
+        * Deber de colaboración
+        * Potestades de regulación
+        * Autoridades autonómicas
 
 28. Definición, estructura, y dimensionamiento eficiente de los sistemas de información.
 
@@ -272,6 +424,15 @@ Exámenes revisados hasta convocatoria 2022.
 58. El procesamiento cooperativo y la arquitectura cliente-servidor. Arquitectura SOA.
 
 59. Conceptos y fundamentos de sistemas operativos. Evolución y tendencias.
+    * Asignación de turnos de CPU
+      * Algoritmos para asignar turno de petición
+        * FCFS (First comes first served) / El primero en llegar, el primero en ejecutarse
+        * SJF (Shortest Job First)
+        * [RR (Round Robin)](https://es.wikipedia.org/wiki/Planificaci%C3%B3n_Round-robin)
+        * SRTM (Shortest remaining time first) / El tiempo restante más corto
+        * HRRN (Highest Response Radio Next) / La tasa de respuesta más alta
+        * Por política
+      * Concepto de preemptive / non-preemptive
 
 60. Sistemas operativos UNIX-LINUX. Fundamentos, administración, instalación, gestión.
 
@@ -280,6 +441,21 @@ Exámenes revisados hasta convocatoria 2022.
 62. Conceptos básicos de otros sistemas operativos: OS X, iOS, Android, z/OS. Sistemas operativos para dispositivos móviles.
 
 63. Los sistemas de gestión de bases de datos SGBD. El modelo de referencia de ANSI.
+
+    * [ACID](https://es.wikipedia.org/wiki/ACID)
+      * [Atomicidad](https://es.wikipedia.org/wiki/Atomicidad)
+      * [Consistencia](https://es.wikipedia.org/wiki/Consistencia_de_datos)
+      * [Aislamiento](https://es.wikipedia.org/wiki/Aislamiento_(ACID))
+        * [Niveles de aislamiento](https://es.wikipedia.org/wiki/Aislamiento_(ACID)#Niveles_de_aislamiento)
+          * [Lecturas no comprometidas](https://es.wikipedia.org/wiki/Aislamiento_(ACID)#Lecturas_no_comprometidas) 
+          * [Lecturas comprometidas](https://es.wikipedia.org/wiki/Aislamiento_(ACID)#Lecturas_comprometidas)
+          * [Lecturas repetibles](https://es.wikipedia.org/wiki/Aislamiento_(ACID)#Lecturas_repetibles)
+          * [Serializable](https://es.wikipedia.org/wiki/Aislamiento_(ACID)#Serializable)
+        * [Efectos en lectura](https://es.wikipedia.org/wiki/Aislamiento_(ACID)#Efectos_en_lectura)
+          * Lecturas sucias
+          * Lecturas no repetibles
+          * Lecturas fantasmas
+      * [Durabilidad](https://es.wikipedia.org/wiki/Persistencia_(inform%C3%A1tica))
 
 64. El modelo relacional. El lenguaje SQL. Normas y estándares para la interoperabilidad entre gestores de bases de datos relacionales.
 
@@ -327,6 +503,8 @@ Exámenes revisados hasta convocatoria 2022.
 83. El tratamiento de imágenes. Tecnologías de digitalización y de impresión. Impresión 3D.
 
 84. Reconocimiento óptico de caracteres (OCR, ICR). Reconocimiento biométrico.
+    
+    
 
 85. El ciclo de vida de los sistemas de información. Modelos del ciclo de vida.
 
@@ -361,10 +539,15 @@ Exámenes revisados hasta convocatoria 2022.
       * [Metodología Métrica V.3. para Plan de Sistemas de Información](#psi)
 
 87. Análisis funcional de sistemas, casos de uso e historias de usuario. Metodologías de desarrollo de sistemas. Metodologías ágiles: Scrum y Kanban.
+    <a id="casos-de-uso"></a>
+    * Casos de uso
+    * JRP (Joint Requirement Planning) 
+    * [JAD (Joint Application Design)](https://es.wikipedia.org/wiki/Joint_Application_Design)  
 
 88. Análisis del dominio de los sistemas: modelado de dominio, modelo entidad relación y modelos de clases.
     * Modelado de dominio
       * Pasos de Construcción de modelado de dominio
+    <a id="modelo-entidad-relacion"></a>
     * [Modelos entidad-relación](https://es.wikipedia.org/wiki/Modelo_entidad-relaci%C3%B3n)
       * Versiones del modelo entidad-relación 
         * Modelo entidad-relación (E/R) de Chen
@@ -409,6 +592,8 @@ Exámenes revisados hasta convocatoria 2022.
           * Agregación
       * Ventas y desventajas de los modelos entidad-relación
     * Modelado de clases
+      <a id="diagrama-de-clases"></a>
+      * [Diagramas de clases](https://es.wikipedia.org/wiki/Diagrama_de_clases)
       * Clase
         * Elementos de una clase
           * Atributos 
@@ -444,6 +629,7 @@ Exámenes revisados hasta convocatoria 2022.
             * Wirfs-Brock
             * B. Meyer
     * [Diagrama de objetos](https://es.wikipedia.org/wiki/Diagrama_de_objetos)
+    <a id="diagrama-de-paquetes"></a>
     * [Diagrama de paquetes](https://es.wikipedia.org/wiki/Diagrama_de_paquetes)
       * Dependencias entre paquetes
         * merge o Combinación de paquetes
@@ -481,10 +667,18 @@ Exámenes revisados hasta convocatoria 2022.
 
       
 89. Análisis dinámico de sistemas: modelado de procesos, modelado dinámico y BPMN (Business Process Model and Notation).
+    <a id="diagrama-de-flujo-de-datos"></a>
+    * [DFD (Diagrama de flujo de datos)](https://es.wikipedia.org/wiki/Diagrama_de_flujo_de_datos)
+      * Niveles de diagramas
+        * Nivel 0: Diagrama de contexto
+        * Nivel 1: Diagrama de nivel superior
+        * Nivel 2: Diagrama de detalle o expansión
 
 90. Análisis de aspectos no funcionales: rendimiento, seguridad, privacidad.
 
 91. Diseño arquitectónico de sistemas. Diagramas de despliegue.
+    <a id="diagramas-de-despliegue"></a>
+    * [Diagramas de despliegue](https://es.wikipedia.org/wiki/Diagrama_de_despliegue)
 
 92. Técnicas de diseño de software. Diseño por capas y patrones de diseño.
 
@@ -547,14 +741,45 @@ Exámenes revisados hasta convocatoria 2022.
                 * ASI 1.3 Especificación de los Estándar y Normas
                 * ASI 1.4 Identificación de los Usuarios participantes y finales
               * ASI 2 Establecimiento de requisitos
+                * ASI 2.1. Obtención de requisitos
+                * ASI 2.2. Especificación de Casos de Uso
+                * ASI 2.3. Análisis de Requisitos
+                * ASI 2.4. Validación de Requisitos
               * ASI 3 Identificación de Subsistemas de Análisis
+                * ASI 3.1. Determinación de Sistemas de Análisis
+                * ASI 3.2. Integración de Subsistemas de Análisis
               * ASI 4 Análisis de los Casos de Uso
+                * ASI 4.1. Identificación de Clases Asociadas a un Caso de Uso
+                * ASI 4.2. Descripción de la Interacción de los Objetos
               * ASI 5 Análisis de Clases
+                * ASI 5.1. Identificación de Responsabilidades y Atributos
+                * ASI 5.2. Identificación de Asociaciones y Agregaciones
+                * ASI 5.3. Identificación de Generalizaciones
               * ASI 6 Elaboración del Modelo de Datos
+                * ASI 6.1. Obtención del Modelo de Procesos del Sistema
+                * ASI 6.2. Elaboración del Modelo Lógico de Datos
+                * ASI 6.3. Normalización del Modelo Lógico de Datos
+                * ASI 6.4. Especificación de Necesidades de Migración de Datos y Carga Inicial
               * ASI 7 Elaboración del Modelo de Procesos
+                * ASI 7.1. Especificación de Interfaces con Otros Sistemas
+                * ASI 7.2. Especificación de Interfaces con Otros Sistemas
               * ASI 8 Definición de Interfaces de Usuario
+                * ASI 8.1. Especificación de Principios Generales de la Interfaz 
+                * ASI 8.2. Identificación de Perfiles y Diálogos
+                * ASI 8.3. Especificación de Formatos Individuales de la Interfaz de Pantalla
+                * ASI 8.4. Especificación del Comportamiento Dinámico de la Interfaz
+                * ASI 8.5. Especificación de Formatos de Impresión
               * ASI 9 Análisis de Consistencia y Especificación de Requisitos
+                * ASI 9.1. Verificación de los Modelos
+                * ASI 9.2. Análisis de Consistencia entre Modelos
+                * ASI 9.3. Validación de los Modelos
+                * ASI 9.4. Elaboración de la Especificación de Requisitos Software (ERS)
               * ASI 10. Especificación del Plan de Pruebas
+                * ASI 10.1. Aprobación del Análisis del Sistema de Información
+                * ASI 10.2. Definición de Requisitos del Entorno de Pruebas
+                * ASI 10.3. Definición de las Pruebas de Aceptación del Sistema
+              * ASI 11. Aprobación del Análisis del Sistema de Información
+                * ASI 11.1. Presentación y Aprobación del Análisis del Sistema de Información 
             * DSI (Diseño del sistema de Información)
               * DSI 1
               * DSI 2
@@ -651,18 +876,18 @@ Exámenes revisados hasta convocatoria 2022.
             * Análisis Coste/Beneficio %
               * VAN (Valor Actual Neto) %
               * ROI (Return of Investment) / Retorno de la Inversión %
-            * Casos de Uso
-            * Diagramas de Clases
+            * [Casos de Uso](#casos-de-uso)
+            * [Diagrama de Clases](#diagrama-de-clases)
             * Diagrama de Componentes
             * Diagrama de Descomposición
-            * Diagrama de Despliegue
+            * [Diagrama de Despliegue](#diagramas-de-despliegue)
             * Diagrama de Estructura
-            * Diagrama de Flujo de Datos
+            * [Diagrama de Flujo de Datos](#diagrama-de-flujo-de-datos)
             * Diagrama de Interación
-            * Diagrama de Paquetes
+            * [Diagrama de paquetes](#diagrama-de-paquetes)
             * Diagrama de Transición de Estados %
             * Modelado de Procesos de la Organización
-            * Modelo Entidad/Relación %
+            * [Modelo Entidad/Relación](#modelo-entidad-relacion) %
             * Normalización
             * Optimización
             * Reglas de Obtención del Modelo Físico a partir del Lógico
@@ -694,10 +919,39 @@ Exámenes revisados hasta convocatoria 2022.
             * Sesiones de trabajo
         * Perfiles
           * Directivo
+            * Comité de Dirección
+            * Comité de Seguimiento
+            * Directores de usuarios
+            * Usuarios expertos  
           * Jefe de proyecto
+            * Jefe de Proyecto  
+            * Responsable de Implantación
+            * Responsable de Mantenimiento
+            * Responsable de Operación
+            * Responsable de Sistemas
+            * Responsable de Seguridad
+            * Responsable de Calidad  
           * Consultor
+            * Consultor
+            * Consultor Informático
+            * Consultor de las Tecnologías de la Información
+            * Consultor de Sistemas de Información
+            * Especialista en Comunicaciones
+            * Técnico de Sistemas
+            * Técnico de Comunicaciones 
           * Analista
+            * Analista
+            * Administrador de Bases de Datos
+            * Equipo de Arquitectura
+            * Equipo de Formación
+            * Equipo de Implantación
+            * Equipo de Operación
+            * Equipo de Seguridad
+            * Equipo de Soporte Técnico
+            * Equipo de Proyecto
+            * Grupo de Aseguramiento de la Calidad  
           * Programador
+            * Programador 
 
 95. Procesos de pruebas y garantía de calidad en el desarrollo de software. Planificación, estrategia de pruebas y estándares. Niveles, técnicas y herramientas de pruebas de software. Criterios de aceptación de software.
 
@@ -705,11 +959,39 @@ Exámenes revisados hasta convocatoria 2022.
 
 97. Métricas y evaluación de la calidad del software. La implantación de la función de calidad.
 
+    * [Modelo de calidad de McCall](https://es.wikipedia.org/wiki/Modelo_de_calidad_de_MacCall) (1977)
+      * Capacidades
+        * Operación
+          * Corrección
+          * Confiabilidad
+          * Usabilidad
+          * Integridad
+          * Eficiencia
+        * Transición
+          * Portabilidad
+          * Reusabilidad
+          * Interoperabilidad
+        * Revisión
+          * Facilidad de mantenimiento
+          * Flexibilidad
+          * Facilidad de prueba
+
 98. La estimación de recursos y esfuerzo en el desarrollo de sistemas de información.
+
+    * Algoritmos de ordenación
+      * [Merge sort / Ordenamiento por mezcla](https://es.wikipedia.org/wiki/Ordenamiento_por_mezcla)
 
 99. La migración de aplicaciones en el marco de procesos de ajuste dimensional y por obsolescencia técnica. Gestión de la configuración y de versiones. Gestión de entornos.
 
 100. Mantenimiento de sistemas. Mantenimiento predictivo, adaptativo y correctivo. Planificación y gestión del mantenimiento.
+
+    * Tipos de mantenimiento
+      * Correctivo
+        * Preventivo
+        * Predictivo
+      * Adaptativo
+      * Evolutivo
+      * Perfectivo
 
 101. Gestión de cambios en proyectos de desarrollo de software. Gestión de la configuración y de versiones. Gestión de entornos.
 

@@ -1,0 +1,367 @@
+BLOQUEIV
+1. l.Que sentencia es equivalente a la siguiente: "'grep -n texto fichero"?
+a) awk '/texto/{print NR":"$0}' flchero
+b) awk '/texto/{x++;}END{prlnt x}' flchero
+c) awk '!/texto/' flchero
+d) awk '/texto/{print;getllne;prlnt}'. fichero
+ANSWER: A
+
+2. CUando se admlnlstran sistemas operativos Windows, la hel1'amlenta de escritorto remoto es fundamental. SI tuviera que ejecutarla por comandos necesitaria saber el nombre del ejecutable, y este es:
+a) mtscs
+b) mstsc
+c) mtcsc
+d) m
+ANSWER: B
+
+3. En el slstema operativo Linux, el nlvel 6 de ejecuci6n se define como:
+a) Sistema Detenido (system halt).
+b) Modo de usuario individual (single mode user).
+c) Reinlo del slstema (system reboot). .
+d) Modo multiusario complete (full multiuser).
+ANSWER: C
+
+4. En 1111 base de datos MySQL 5.7, lqu6 comando vacla por completo el contenido de una tabla sin eliminarla de la base de datos?
+a) TRUNCATE [TABLE] tbl_name
+b) DROP [TEMPORARY] TABLE [IF EXISTS] tbl_narne [, tbl_name] ... [RESTRICT I CASCADE]
+c) REMOVE * FROM tbl_name
+d) Nlnguna de las anteriores.
+ANSWER: A
+
+5. Para programar la ejecuci6n del script /usr/bin/script el primer dia de cada mes a las 12 de la maftana ya las 12 de la noche, deberemos ailadlr en el fichero /etc/crontab la linea:
+a) O 0,12 1 * * /usr/bin/scrlpt
+b) * */12 * *1 /usr/bln/script
+c) 0 0-12 1 * * /usr/bin/scrlpt
+d) 0 0/12 * 1 * /usr/bln/script
+ANSWER: A
+
+6. El benchmark SPEC CPU2006, la que grupo pertenece?
+a) The High-Performance Group (HPG).
+b) The Graphics and Workstation Performance Group (GWPG).
+c) The Open Systems Group (OSG).
+d) Research Group (RG).
+ANSWER: C
+
+7. En una red SAN de flbra 6ptica podemos tener estos 3 tipos de topologias:
+a) . FC·AL, FC-HW, punto-a-punto
+b) FC-BL, FC-SW, FCoE
+c) FC-BL, FC-HW, FCoE
+d) FC-AL, FC-SW, punto-a-punto
+ANSWER: D
+
+s. Seiiale la respuesta correcta sobre un nivel de RAID 1+0:
+a) La desventaja de este tipo de configuraci6n es que es no posible recuperar las dates ante un fallo de un disco.
+b) Es una division de espejos (stripe of mirrprs).
+c) Es un espejo de divisiones (mirror of stripes).
+d) Primero se crean dos RAID 0 y luego; sabre las anteriores, se crea un RAID 1 para dotar al "array" de funcionaltdad espejo.
+ANSWER: B
+
+9. Sellale la correcta, respecto al protocolo IFCP es un protocolo:
+a) a nivel de gateway que realiza la transformaci6n de mnexiones fibre channel en mnexiones TCP para el envfo de informaci6n entre distintas recles SAN.
+b) que utiliza la tecnica de tunelado para transportar tramas Fibre Channel sin modificar en el interior de paquetes IP para el envfo de informaci6n entre distintas 11!('.les SAN.
+c) que utiliza el servicio de transporte TCPpara mover paquetes SCSI sabre una red tipicamente Ethernet.
+d) a nivel de red que realiza la conmutaci6n de paquetes medlante el intercambio de etiquetas para el envio de la informaci6n.
+ANSWER: A
+
+10. tQue es JBOD (Just a Bunch Of Disks)?
+a) Un concatenaci6n de discos redundantes similar a RAID 1.
+b) Particionado de un disco en varios de menor tamaiio para salvaguan:(ar la informaci6n.
+c) Una combinacion de discos pequefios para crear una Unidad mayor.
+d) Discos del sistema RAID dedicados a almacenar la paridad.
+ANSWER: C
+
+11. El est:andar ISO/IEC 11801 claslflca las fibras multlmodo. Indlcar la respuesta ERR6NEA:
+a) OM1: Abra multimodo con nudeo de vidrio y 62,5 micrones de dl metro. Ancho de banda de 200 Mhz y atenuaci6n de 3,5 dB en longitud de onda de 850 nm. · ·
+b) OM2: Fibra multlmodo con nucleo de vidrio y so micrones de dlametro. Ancho de banda de 500 Mhz y atenuaci6n de 3,5 dB en longitud de onda de 850 nm. ·
+c) OM3: Fibra multlmodo optimizada con nudeo de vidrio y 50 mlcrones de dlametro. Ancho de banda de 1500 Mhz y atenuaci6n de 3,5 dB en longltud de onda de 850 nm.
+d) OM4: Fibra multlmodo optlmizada de nucleo c!e vidrio que permlte transportar 100 Gigabit Ethernet hasta 850 m.
+ANSWER: D
+
+12. El codigo binario de Golay extendido es:
+a) Un c6digo de correcci6n de errores que codlfica 12 bits de datos en 24 bits y perrnlte correglr cualquier error de 3 bits y detectar cualquler error de 4 bits. · ·
+b) Un c6digo de detecci6n de errores que anade un c6digo mas a una cadena de transmisi6n, e lndlca si numero de unos es par o es impar. ·
+c) Una suma del valor de todas las.palabras en las que se divide el mensaje a transmltir, yse af'iade el resultado al mensaje, pero cambiado de srgno. · _
+d) Una version del c6digo de Hamming, que en lugar de aiiadir 3 bits por cada 4 bits de datos del mensaje, aiiade solamente 2 bits.
+ANSWER: A
+
+13. El estandar Gigabrt Ethernet para flbra optica que opera con longitudes de onda alrededor de los 1550 nm es:
+a) 1000BASE-SX
+b) l0OOBASE-LX
+c) 1000BASE-ZX
+d) lOOOBASE-LH
+ANSWER: C
+
+14. i.Que satelites tienen un periodo orbital de 23 horas, 56 minutos y 4,09 segundos?
+a) LEO
+b) MEO
+c) GEO
+d) HEO
+ANSWER: C
+
+15. lCu61 de los siguientes medias de transmisi6n tiene una menor impedancla caracteristica?
+a) cable coaxial.
+b) cabte UTP.
+c) cable STP.
+d) cable FTP.
+ANSWER: A
+
+16. El est:andar 802.3bz-2016 pennite una veloddad de hasta:
+a) 5 Gbps a traves de cables de red de clase cat Se y de hasta 10 Gbps sabre cable de clase cat 6.
+b) 2.5 Gbps a traves de cables de red de clase cat 6.
+c) 10 Gbps sabre cable de clase C.at 6 de hasta 100 metros.
+d) 2.5 Gbps a traves de cables ·de red de clase cat Se y de hasta s Gbps sobre cable de clase cat 6.
+ANSWER: D
+
+17. lCu61 de las slguientes es una soluci6n MDM .(Moblle Device Management) para la gesti6n de dispositlvos m6viles? · ·
+a) Magenta b) Joomla
+c) AirWatch d) Kobli
+ANSWER: C
+
+18. ¿QuÉ puerto utiliza SNMP para los traps por defecto?
+a) 391 · · ·
+b) 332
+c) 162
+d) 161
+ANSWER: C
+
+19. Una de las siguienms NO es una encoding rule de ASN.1:
+a) BER (Basic Encoding Rules).
+b) CER (canonical Encoding Rules).
+c) DER (Distinguished Encocllng Rules).
+d) XER (eXchange Encoding Rules); .'
+ANSWER: D
+
+20. Entre las siguientes, seftale la plataforma de software llbre para configurar y admlnlslr;lr computadoras:
+a) GitHub
+b) Pfone
+c) Ansible
+d) MooTools
+ANSWER: C
+
+21. Una dlrecci6n IP en el protocolo IPv& esta formada por:
+a) 32 bits b) 64 bits
+c) 128 bits d) 256 bits
+ANSWER: C
+
+22. Seftale la respuesta CORRECTA sobre el protocolo de transferencla segura de ficheros FTPS:
+a) Al igual que en FTP, se utilizan canales diferentes para comandos y datos.
+b) Usa el puerto estandar 22 (SSH) para realizar la transferencla de archives.
+c) En el metodo de conexi6n explrcitD, el diente debe conectarse directamente al puerto TCP 990.
+d) Tanto el canal de comandos como el de dates deben cifrarse en rualquier caso.
+ANSWER: A
+
+23. Las direcciones IPv& que proporcionan dlrecclonamiento IP automatico a los noclos en caso de que no exist.a un servldor DHCP, se denominan:
+a) Link-Local
+b) Aggregatable-Local
+c) Anycast
+d) Site-Local
+ANSWER: A
+
+24. La gesti6n de claves en IPsec se realiza a traves del protocolo:
+a) IKE
+b) AH
+c) ESP
+d) A traves de los protocolos AH y ESP.
+ANSWER: A
+
+25. l.Que medida se utiliza para medlr la eficiencia energ6tica de un centro de proceso de datos?
+a) BTU (British Thermal Unit).
+b) Estandar TIA 942.
+c) TIER I, II, III, N.
+d) PUE (Power Usage Effectiveness).
+ANSWER: D
+
+26. i.Que porcentaje de disponlbllldad garantizada tiene un Data Center de categorra Tier 2?
+a) 99.895
+b) 99.671 .
+c) 99.741
+d) 99.982
+ANSWER: C
+
+27. Segun la RFC 3032, de entre los valores reservados en la etiqueta MPLS, el valor 2 se corresponde con la etiqueta:
+a) de Aferta de Router.
+b) NULL Implfcita.
+c) NULL ExpUcita 1Pv4.
+d) NULL Explfdta 1Pv6.
+ANSWER: D
+
+28. I.Que puertos por defecto utiliza er protocolo LDP (Label Distribution Protocol) de MPLS (Multiprotocol Label Switching)?
+a) El 646 en TCP y UDP.
+b) El646 en UDP y 647 en TCP.
+c) El 647 en UDP y 646 en TCP.
+d) 13 647 en TCP y UDP.
+ANSWER: A
+
+29. 0pci6n dentro de la herramienta NMAP que permite la deteccl6n del sistema operatlvo del objetivo a analizar:
+a) -sN
+b) -F
+c) -0
+d) -0
+ANSWER: C
+
+30. Segun las nonnas de seguridad de las TIC (CCN-mC-400), en relad6n a las medidas de seguridad, cuando se trata de medidas para asegurar los canales de transmlsl6n, se habla de:
+a) TRANSEC.
+b) COMPUSEC.
+c) EMSEC.
+d) NETSEC.
+ANSWER: A
+
+31. Una dlstribuci6n basada en Linux que permlte efectuar pruebas de penetraci6n en sistemas TI y audltorias de seguridad es:
+a) M$sploit
+b) Kali
+c) Wireshark
+d) Knoppix
+ANSWER: B
+
+32. lCual de estas afirmaciones respecto a un WAF (Web Application Firewall) es correcta?
+a) Es un dispositivo que trabaja en la capa de red, nivel 2 OSI y que protege de diversos ataques tales como SQLInjection, Cross Site Scripting, etc.
+b) Un ejemplo de disposltlvo WAF hardware es el mod_securlty desarrollado por la compaflfa Breach Security.
+c) Los dispositivos WAF permlten enrutar tratico y/o tradudr dlrecciones IPs medlante el uso de NAT, para la cletecci6.n y protecci6n de posibles ataqu .
+d) Uno de los principales objetivos del proyecto WAFEC (Wireless Application Firewall Evaluation Criteria), es difundir la bondades de implantac16n de dispositivos WAF.
+ANSWER: D
+
+33. Una variante del phishing cuyo ataque se dlrige hacla los objetivos de alta importancia dentro de una organlzaci6n (altos directivos, politicos, etc.) o simplemente de gran transcendencia social (cantantes, artlstas, famosos, etc.) se denomina:
+a) Phreaking
+b) Whaling
+c) Phishing CEO
+d) Cracker
+ANSWER: B
+
+34. Cuales de los siguientes es un estandar que permite el intercambio de datos de autenticaci6n y autorlzación?
+a) XADES
+b) SAML
+c) BPMN
+d) PADES
+ANSWER: B
+
+35. lQue tennlno hace referencia a las emisiones electromagneticas no deseadas que detectadas y anallzadas con los medios adecuados pueden llevar a la obtencl6n de lnformaci6n?
+a) TEMPEST
+b) CARMEN
+c) SCADA
+d) SAT
+ANSWER: A
+
+36. En el establech:nlento de una comunicaci6n mediante SSL, c.cu61 es el protocolo que especifica la forma de encapsular los datos que se van a lntercambiar?
+a) Cipher Secure Layer.
+b) SSL Handshake.
+c) SSL Record.
+d) Secure Socker Layer.
+ANSWER: C
+
+37. El protocolo Oauth:
+a) Es propietario de Twitter, y permite gestionar el acceso a su API par parte de otras aplicaciones.
+b) Perinite su uso en aplicaciones web y m6viles, pero no en aplicaciones de escritorio.
+c) Pennite el acceso a la identidad completa del usuario par parte del servidor de aplicaciones.
+d) Pennite utilizar la cuenta de Facebook para acceder a otras aplicaciones.
+ANSWER: D
+
+38. Una tecnica estandar para extraer infonnacion expresada en RDF de una p.igina XHTML es:
+a) RDFa
+b) GRDDL
+c) FOAF
+d) RSS
+ANSWER: B
+
+39. ¿Cuá1 NO es una modulaci6n para DSL?
+a) CAP
+b) FSK
+c) DMT
+d) WDMT
+ANSWER: B
+
+40. lCual de las siguientes respuestas es correcta respecto a la norma G.fast?
+a) Es una nonna auspiciada par el IEFT que forma parte del conjunto de nonnas de 1Pv6 relative a la flexibilidad de autoconfiguraci6n de la direcciones IP en una red local.
+b) Es un protocolo que pemite transferencias de hasta 600 Gbits/s en el interfaz aire en la banda de las 2,48Gh .
+c) Es una norma de la ITU-T sabre banda ancha que permite velocidades de acceso par el par de cobre de hasta 1 Gbit/s.
+d) Es un nuevo estandar de la norma 3GPP, definida coma una evoluci6n de la norma UMTS(3G) que pennitira transmisi6n de dates y videos de alta definici6n gracias a la tecnalogfa OFDMA.
+ANSWER: C
+
+41. Una respuesta SIP coniienza con una primera linea de estado. Sefiale cu61 de los slgulentes NO es un campo valido en esta linea de estado:
+a) C6digo de estado.
+b) Vers16n de SIP. ·
+c) Descripci6n del c6digo de estada.
+d) Metodo SIP usado..
+ANSWER: D
+
+42. Un servidor STUN es:
+a) Servidor utilizado en telefonia IP que permite a las clientes NAT encontrar su direcci6n IP publica.
+b) Servidor de aplicaciones de software libre desarrollado par Sun MicroSystems.
+c) Servidor de objetos disbibuidos utilizado en CORBA.
+d) Modulo software empleado en algunos sistemas de detecci6n de intrusos de una red (NIDS) y que se encarga de analizar el trafico en tiempo real buscando patrones sospechosos.
+ANSWER: A
+
+43. ¿Cómo se Hamai la red de lites diseiiada por Motorola que permite telefonia via satelite?
+a) Galileo
+b) GSM
+c) Hispasat
+d) Iridium
+ANSWER: D
+
+44. ¿Qué frecuencia de muestreo tlene el códec G728A utilizado en VoIP (Voice over Internet Protocol)?
+a) 8.000 veces por segundo.
+b) 16.000 veces por segundo.
+c) 64.000 veces par segundo.
+d) 32.000 veces por segundo.
+ANSWER: A
+
+45. Tecnología emergente, en desarrollo, que representa una tarjeta SIM electr6nica que no requeriría la inserción de una SIM fisica en los diferentes dlspositivos m6viles:
+a) eSIM.
+b) uSIM.
+c) xSIM.
+d) Ninguna de las anteriores.
+ANSWER: A
+
+46. En la arquitectura· de redes m6viles LTE (Long Term Evolution), el lnterfaz que enlaza los eNodeB con el nucleo de la red EPS (Evolved Packet System) se denomina:
+a) fil
+b)
+c) . . Um
+d) Abis
+ANSWER: B
+
+47. ¿Cuál de las siguientes modulaciones es utilizada por la tecnologia 4G LTE?
+a) DSSS, Espectro Ensanchado par Secuencia Directa.
+b) OFDM, lv:.ceso Multiple par Division de Frecuencia Ortogonal.
+c) FHSS, Espectro Ensanchado por Saito de Frecuencia.
+d) GMSK, Desptazamiento Mfnimo·Gaussiano.
+ANSWER: B
+
+48. ¿Cuál es el nombre de la tecnologia que permite transmltir a frecuencias entre 400 y 800 THz en el espectro visible de los humanos?
+a) Li-Fi
+b) Visual Wi-Fi
+c) Ultra WI-Fi
+d) UV-Fi
+ANSWER: A
+
+49. El dMdendo digital es:
+a) El elemento que se divide por un numero prlmo como operaci6n criptogratica previa que se realiza en el afrado AES.
+b) El conjunto de frecuencias que han quedado llbres por la mlgraci6n de la television anaf6glca a la digital.
+c) El resultado econ6miro de una Inversion en Bitcoln o de otra divisa digital.
+d) Uno de Jos tres componentes de la unidad de calculo en los procesadores de arquitectura x86.
+ANSWER: B
+
+50. DOCSIS es un estindar que pannite la transferencla de datos en·redes:
+a) HFC
+b) FTTH
+c) inalambricas
+d) xDSL
+ANSWER: A
+
+1. [RESERVA] La denominada Generalized Mufti-Protocol Label Switching (GMPLS) tiene propuesta su arquitectura en el:
+a) RFC 4372
+b) RFC 3031
+c) RFC 3945
+d) RFC 2684
+ANSWER: C
+
+2. [RESERVA] Indique el concepto correcto, es una dase especial de procedimiento almacenado que se ejecuta automaticamente cuando se produce un evento en el sentldor de bases de datos:
+a) Trigger
+b) Assertion
+c) Index
+d) Synonym
+ANSWER: A
+
+3. [RESERVA] Según uno de los referentes en recomendaciones y mejores prácticas para la administraci6n de servicios de Tecnologías de la lnformacion como es mL Foundation, la Gesti6n de Incidencias:
+a) se centrará exclusivamente en restaurar el servido, sin buscar ni analizar las causas del incidente.
+b) debe contar entre sus funciones analizar y encontrar las causas subyacentes a un determinado incidente.
+c) se centrara en la aceptaci6n de solicitudes que los usuarios planreen para mejorar el servido.
+d) debe contar entre sus funclones la gesti6n del cambio derivada del mantenimiento evolutivo de los sistemas.
+ANSWER: A

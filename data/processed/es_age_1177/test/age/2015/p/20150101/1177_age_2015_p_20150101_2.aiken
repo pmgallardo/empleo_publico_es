@@ -1,0 +1,435 @@
+BLOQUE III
+1. Indique cuál de los siguientes es un estándar en los modelos de ciclo de vida de Software:
+a) ISO 26000:2010
+b) ISO/IEC 12207
+c) ISO/IEC 27002
+d) ISO 9001:2015
+ANSWER: B
+
+2. De las siguientes fases, cuál NO forma parte del modelo de ciclo de vida en espiral, según el diagrama original de Barry Boehm:
+a) Determinar objetivos, alternativas y restricciones.
+b) Evaluar alternativas, identificar y resolver riesgos.
+c) Desarrollo y verificación del producto del siguiente nivel.
+d) Validación del software por medio del plan de pruebas.
+ANSWER: D
+
+3. Indique el modelo de desarrollo más apropiado para un proyecto en el cual los usuarios finales NO tienen claros los requisitos del sistema:
+a) Modelo de ciclo de vida en espiral: para poder tener un desarrollo en cada ciclo.
+b) Modelo de ciclo de vida incremental: de modo que los usuarios puedan ir viendo el sistema de forma incremental.
+c) Modelo ciclo de vida en circulo: es una variante del modelo ciclo de vida en espiral donde los usuarios definen los requisitos paulatinamente.
+d) Metodologias agiles: se ajustan mejor a los cambios.
+ANSWER: D
+
+4. ¿Cuál de los siguientes NO es un rol de la metodologia Scrum?
+a) Product Owner.
+b) Project Manager.
+c) Scrum Master.
+d) Development Team.
+ANSWER: B
+
+5. La metodologia Metrica v3, de uso en los proyectos de sistemas de informacion llevados a cabo en el seno de la Administracion del Estado y sus organos dependientes o vinculados, es de uso obligatorio desde:
+a) La entrada en vigor de la Ley 11/2007, de acceso electronico de los ciudadanos a los Servicios Publicos.
+b) La entrada en vigor del Real Decreto 4/2010, que regula el Esquema Nacional de Interoperabilidad en el ambito de la Administracion Electronica.
+c) El Acuerdo del Consejo de Ministros de 28/02/2005, pero solo para las aplicaciones desarrolladas con medios propios, no para aquellas contratadas "llave en mano", o que el porcentaje de esfuerzo de desarrollo sea mayoritariamente con medios externos.
+d) Se recomienda el uso de Metrica v3, pero su empleo no es obligatorio.
+ANSWER: D
+
+6. En Metrica v3, la elaboracion de un catalogo detallado de requisitos que describa de forma precisa el sistema de informacion compete a personas con perfil:
+a) Consultor.
+b) Jefe de Proyecto.
+c) Directivo.
+d) Analista.
+ANSWER: D
+
+7. ¿Cuál de las siguientes NO es una interfaz de Metrica v3?
+a) Seguridad (SEG).
+b) Aseguramiento de la Calidad (CAL).
+c) Plan de Accion (PA).
+d) Gestion de la Configuracion (GC).
+ANSWER: C
+
+8. Según la metodología Metrica v3, el entorno tecnologico del sistema, es un producto del proceso:
+a) Construcción del Sistema de Información.
+b) Análisis del Sistema de Información.
+c) Diseño del Sistema de Información.
+d) Implantación y Aceptación del Sistema.
+ANSWER: C
+
+9. En un diagrama de flujo de datos DFD, ¿cuál de las siguientes es una conexión prohibida entre elementos?
+a) Proceso - Proceso
+b) Entidad Externa - Entidad Externa
+c) Entidad Externa - Proceso
+d) Proceso - Almacen de datos
+ANSWER: B
+
+En relación al esquema conceptual en los niveles ANSI/SPARC, ¿qué afirmación de las siguientes NO es correcta?
+a) Representa el modelo de datos de forma independiente del sistema gestor de bases de datos que se utilizara.
+b) Refleja la representacion de los datos que se van a guardar y sus relaciones a partir del Modelo Entidad Relacion.
+c) Corresponde a la vision de la base de datos que ofrece cada aplicacion.
+d) Debe ser absolutamente independiente del esquema fisico.
+ANSWER: C
+
+11. En el modelo entidad/relacion extendido, el numero maximo y minimo de ocurrencias de un tipo de entidad que pueden estar interrelacionadas con una ocurrencia de otro tipo de entidad, se denomina:
+a) Cardinalidad.
+b) Grado.
+c) Asociacion.
+d) Tipo de correspondencia.
+ANSWER: A
+
+12. El operador join del algebra relacional es un operador compuesto de otros operadores fundamentales, que son:
+a) Seleccion, proyeccion y union.
+b) Seleccion, producto cartesiano y proyeccion.
+c) Diferencia de conjuntos, union y producto cartesiano.
+d) Union, proyeccion y producto cartesiano.
+ANSWER: B
+
+13. En un modelo relacional, ¿a qué hace referencia el dominio?
+a) Cada uno de los elementos que contiene una instancia de la relacion.
+b) Elemento susceptible de tomar valores.
+c) Conjunto de valores que puede tomar un atributo.
+d) Conjunto de filas y columnas que forman una tabla.
+ANSWER: C
+
+14. Según el libro de Tecnicas de Metrica v3, en referencia al modelo entidad/relacion extendido, una relacion es exclusiva cuando:
+a) La entidad se relaciona con ella misma, apuntando la cardinalidad hacia ella misma.
+b) La existencia de una relacion entre dos tipos de entidades implica la no existencia de las otras relaciones.
+c) Se agrupan entidades en una sola entidad general la cual tendra todos los atributos o la mayoria.
+d) La existencia de una relacion entre dos tipos de entidades implica la existencia de las otras relaciones.
+ANSWER: B
+
+15. La integridad referencial en bases de datos relacionales define que:
+a) todas las filas deben tener las mismas columnas y formato.
+b) si en una relacion hay alguna clave ajena, sus valores deben coincidir con valores de la clave primaria a la que hace referencia, o bien, deben ser todos nulos.
+c) la clave primaria de una tupla no debe ser nulo, ni ninguno de los atributos que la componen.
+d) la independencia fisica de la base de datos.
+ANSWER: B
+
+16. En cuál de las siguientes opciones todos los elementos pertenecen al Lenguaje de Definición de Datos (o DDL) de SQL:
+a) CREATE, INSERT, ALTER
+b) UPDATE, DROP, ALTER
+c) CREATE, DROP, ALTER
+d) CREATE, ALTER, DELETE
+ANSWER: C
+
+17. En un modelo lógico relacional, ¿cuál de los siguientes NO es un axioma de Armstrong?
+a) Reflexividad.
+b) Aumentatividad.
+c) Transitividad.
+d) Conmutatividad.
+ANSWER: D
+
+18. Con respecto al modelo relacional, ¿cuál de las siguientes afirmaciones es correcta?
+a) Llamamos superclaves de la relacion a todas las claves candidatas minimas o no descomponibles.
+b) El conjunto de tuplas de una relacion constituye su intension.
+c) Codasyl fue el primer modelo relacional puro.
+d) QBE es un lenguaje de acceso a bases de datos relacionales.
+ANSWER: D
+
+19. Según la guía Tecnicas y Prácticas de Metrica v3, las clases identificadas en el modelo de clases se deberán corresponder con los elementos del modelo físico de datos. ¿Qué se puede emplear para comprobar dicha asociación?
+a) Técnicas lineales de asociación.
+b) Técnicas matriciales de relación.
+c) Técnica de conjuntos.
+d) No es necesario especificar dicha asociación. El modelo de clases se debe corresponder con el modelo conceptual, no con el modelo físico.
+ANSWER: B
+
+20. Los segmentos de ROLLBACK:
+a) Impiden deshacer la transaccion.
+b) Son objetos de la base de datos que almacenan los datos de los bloques tal como estaban antes de ser modificados.
+c) Son causa de lecturas inconsistentes.
+d) Tras algun fallo, no se pueden utilizar en la recuperacion.
+ANSWER: B
+
+21. El objetivo de la normalización de bases de datos es:
+a) Conseguir que los datos incluidos en la misma estén representados según los estándares de organizaciones internacionales como ISO.
+b) Eliminar redundancias de los datos incluidos en las mismas y prevenir la aparición de inconsistencias.
+c) Que se emplee SQL como lenguaje de definición de datos (DDL) y lenguaje de manipulación de datos (DML).
+d) Conseguir que las consultas a la base de datos sean más sencillas y eficientes.
+ANSWER: B
+
+22. El algoritmo de ordenación que selecciona un elemento del array (pivote), particiona el array en 3 (menores que pivote, pivote, mayores que pivote), aplica recursión sobre dos de ellos y finalmente une todas las soluciones para formar el array ordenado se denomina:
+a) Ordenacion por monticulos (Heapsort).
+b) Ordenacion por intercalacion (Mergesort).
+c) Ordenacion rapida (Quicksort).
+d) Ordenacion por insercion.
+ANSWER: C
+
+23. Se dice que un grafo NO dirigido es un árbol si:
+a) Es conexo y acíclico.
+b) Es inconexo y acíclico.
+c) Es conexo y contiene al menos un ciclo.
+d) Es inconexo y contiene al menos un ciclo.
+ANSWER: A
+
+24. ¿Cuál de los siguientes conceptos se corresponde con la definición "conjunto de valores y sus operaciones asociadas"?
+a) Vista materializada.
+b) Esquema de una relación o intención.
+c) Instancia de una relación o extensión.
+d) Tipo abstracto de datos.
+ANSWER: D
+
+25. Cuando hablamos de restricciones de integridad en bases de datos nos estamos refiriendo a:
+a) Un mecanismo de seguridad para el acceso a la base de datos, que debe preservar su integridad.
+b) Un mecanismo de sincronización de tareas y orquestación de procesos, diseñado para evitar los problemas de concurrencia en acceso múltiple de transacciones a las tablas de la base de datos.
+c) Una serie de condiciones que deben cumplir los datos almacenados en la base de datos.
+d) Una serie de condiciones que deben cumplir los mecanismos de almacenamiento físico de la base de datos.
+ANSWER: C
+
+26. Cuando los módulos se comunican mediante parámetros que constituyen elementos de datos simples, ¿qué tipo de acoplamiento se dice que presentan?
+a) Normal.
+b) De datos.
+c) De control.
+d) De instancia.
+ANSWER: B
+
+27. La ley cuya finalidad es reducir el acoplamiento en un sistema de información es la:
+a) Ley de Amper.
+b) Ley de Demeter.
+c) Ley de Moore.
+d) Ley de Hooke.
+ANSWER: B
+
+28. ¿Cuál de las siguientes afirmaciones sobre el empleo de disparadores o triggers en bases de datos relacionales es correcto?
+a) En las versiones recientes del estándar SQL el uso de triggers se ha visto sustituido por las características de polimorfismo del lenguaje.
+b) El uso de triggers es el mejor mecanismo para mantener resúmenes o agregaciones de datos de acceso frecuente que deban ser accesibles rápidamente.
+c) Un disparador es una orden que el sistema ejecuta incondicionalmente ante una entrada vía editor de comandos.
+d) Un disparador es una orden que el sistema ejecuta subordinadamente ante la ocurrencia de una modificación en la base de datos.
+ANSWER: D
+
+29. Cuando en la transacción se tiene un nivel de aislamiento de lectura repetible, puede producirse el siguiente tipo de violación:
+a) Lectura sucia y lectura fantasma.
+b) Solo de lectura fantasma.
+c) Lectura no repetible y lectura fantasma.
+d) Con el aislamiento de lectura repetible no se pueden producir violaciones.
+ANSWER: B
+
+30. Indique qué es xAPI:
+a) Es un API que permite desarrollar plugins para los navegadores web.
+b) Es un API de JAVA que permite operar con ficheros XML.
+c) Es una especificación técnica orientada al aprendizaje que permite recopilar información acerca de las experiencias que tienen las personas.
+d) Es una librería en JavaScript que permite realizar desarrollos con el conocido patrón modelo-vista-controlador.
+ANSWER: D
+
+31. En informática, las pruebas de humo (smoke testing) son aquellas pruebas que son:
+a) una comprobación del funcionamiento del software desarrollado en muchas plataformas.
+b) una revisión exhaustiva del producto software para comprobar la buena integración modular que presenta.
+c) una revisión rápida del producto de software para comprobar que funciona y no tiene defectos que interrumpan la operación básica del mismo.
+d) el tipo de pruebas que se realizan sin ejecutar el código de la aplicación.
+ANSWER: D
+
+32. Se definen en Métrica v3 como "comprobación de la correcta implementación de los procedimientos de operación, incluyendo la planificación y control de trabajos, arranque y rearranque del sistema, etc.":
+a) Pruebas funcionales.
+b) Pruebas de operación.
+c) Pruebas de entorno.
+d) Pruebas de volumen.
+ANSWER: B
+
+33. Señale cuál se corresponde con una herramienta de pruebas de software libre, tipo open source y distribuida bajo licencia GNU General Public License (GPL):
+a) Sahi.
+b) LoadStorm.
+c) WebInject.
+d) vTest.
+ANSWER: C
+
+34. De acuerdo a Métrica v3, ¿cuál de las siguientes técnicas/prácticas NO es utilizada en las actividades del proceso Mantenimiento de Sistemas de Información (MSI)?
+a) Pruebas de Implantación.
+b) Análisis de Impacto.
+c) Pruebas de Regresión.
+d) Sesiones de trabajo.
+ANSWER: A
+
+35. Señale cuáles son las etapas que se contemplan para un sistema que se encuentra en mantenimiento y sigue el modelo cíclico de reingeniería del software definido por R.S. Pressman para su nueva adaptación:
+a) Análisis de requisitos, reestructuración de documentos, ingeniería inversa, reestructuración de código, reestructuración de datos e ingeniería directa.
+b) Análisis de requisitos, reestructuración de requisitos, ingeniería inversa, reestructuración de código, reestructuración de datos y reestructuración de las pruebas.
+c) Análisis de inventario, reestructuración de documentos, ingeniería inversa, reestructuración de código, reestructuración de datos e ingeniería directa.
+d) Análisis de inventario, reestructuración de requisitos, ingeniería inversa, reestructuración de código, reestructuración de datos y reestructuración de las pruebas.
+ANSWER: C
+
+36. Indique en cuál de los siguientes diagramas aparecen representados objetos y mensajes, según Métrica v3:
+a) Diagrama de casos de uso.
+b) Diagrama de colaboración.
+c) Diagrama de flujo de datos.
+d) Diagrama Entidad/Relación.
+ANSWER: B
+
+38. En Métrica v3, indique la tarea englobada dentro de la actividad DSI 4 "Diseño de Clases":
+a) Identificación de Clases Asociadas a un Caso de Uso.
+b) Diseño de Módulos del Sistema.
+c) Análisis de Consistencia de las Especificaciones de Diseño.
+d) Diseño de la Jerarquía.
+ANSWER: A
+
+39. En los diagramas de clases de UML, ¿qué diferencia existe entre una relación de agregación y una relación de composición?
+a) No existe ninguna diferencia: los términos se usan indistintamente para definir el mismo concepto en el que una clase está fuertemente ligada a otra clase.
+b) La agregación es un tipo de relación que indica que una clase es "parte de" otra clase. La composición es una forma de agregación donde la relación de propiedad entre las partes y el todo es más fuerte que en la agregación.
+c) La agregación es un tipo de relación muy particular en la que una clase es instanciada, mientras que la composición permite asociar objetos que colaboran entre sí pero que son independientes.
+d) La composición es un mecanismo que se utiliza para orquestar las diferentes clases que aparecen en los diagramas UML, mientras que la agregación es un mecanismo utilizado para mostrar la herencia entre clases.
+ANSWER: B
+
+40. Según el estándar UML diseñado por Booch, Jacobson y Rumbaugh:
+a) la visibilidad de los atributos de una clase se puede representar en cuatro niveles: public, protected, private y package.
+b) la visibilidad de los atributos de una clase se puede representar en tres niveles: public, static y private.
+c) el nivel de visibilidad protected en un atributo se representa precediéndolo con el símbolo -.
+d) el nivel de visibilidad protected en un atributo se representa precediéndolo con el símbolo +.
+ANSWER: A
+
+41. En lenguaje orientado a objetos, ¿cómo se denomina la propiedad por la que un mismo mensaje puede originar comportamientos diferentes al ser recibido por objetos diferentes?
+a) Persistencia.
+b) Polimorfismo.
+c) Herencia.
+d) Reutilización.
+ANSWER: B
+
+42. De los siguientes tipos de diagrama, ¿cuál es un diagrama UML estructural?
+a) Diagrama de despliegue (deployment diagram).
+b) Diagrama de estados (state diagram).
+c) Diagrama de actividades (activity diagram).
+d) Diagrama de descomposición de sistemas (system decomposition diagram).
+ANSWER: A
+
+43. ¿Cuál NO es una extensión utilizada para empaquetar aplicaciones o módulos Java EE?
+a) JAR.
+b) PAR.
+c) EAR.
+d) WAR.
+ANSWER: B
+
+44. El servidor de aplicaciones de código abierto desarrollado por la Apache Software Foundation se denomina:
+a) Jetty
+b) Tomcat
+c) Geronimo
+d) JBoss
+ANSWER: C
+
+45. Señale la respuesta correcta en relación a la tecnología de desarrollo JSF:
+a) JSF no está soportada en el desarrollo Java EE, ya que hacen uso de backing beans.
+b) La especificación de JSF 2.2 viene descrita en la JSR-344.
+c) La especificación JSF 2.2 es incompatible con HTML5.
+d) El uso de JSF impide el uso de taglibs en las páginas JSP.
+ANSWER: B
+
+46. Señale cuál de las siguientes respuestas se corresponde con una implementación de la especificación de JSF (Java Server Faces):
+a) Arquillian.
+b) AJAX.
+c) Mojarra.
+d) Tuxedo.
+ANSWER: C
+
+47. El motor de JavaScript desarrollado en Java por Oracle, integrado con el JDK versión 8 se llama:
+a) Rhino.
+b) Nashorn.
+c) Bootstrap.
+d) Backbone JS.
+ANSWER: B
+
+48. ¿Cuál de las siguientes afirmaciones sobre Entity Framework (EF) es correcta?
+a) Es un plugin de Visual Studio que permite realizar una conversión del modelo entidad relación al modelo relacional.
+b) Es una plataforma que permite a los desarrolladores gestionar el acceso a base de datos a través de código SQL.
+c) Es una biblioteca de componentes gráficos que permite generar automáticamente las entidades desde la base de datos.
+d) Es una herramienta que permite a los desarrolladores trabajar con datos en el contexto del modelo objeto.
+ANSWER: D
+
+49. Señale cuál de los siguientes lenguajes es un lenguaje de programación incluido en la plataforma .NET:
+a) Visual J++
+b) C#
+c) Visual Java#
+d) Visual C*
+ANSWER: A
+
+50. Cómo se denomina al conjunto de tecnologías Microsoft que permiten coordinar el trabajo de un equipo para finalizar un producto software:
+a) SVN.
+b) Team Foundation Server.
+c) Mercurial.
+d) ClearCase.
+ANSWER: B
+
+51. En ASP.NET MVC, ¿Cuál de los siguientes es un nombre de controlador válido?
+a) Servicios.
+b) ServiciosController.
+c) ServiciosActionlistener.
+d) Cualquiera de los tres es válido. Basta con que esté en la carpeta controllers.
+ANSWER: B
+
+52. Indique cuál de los siguientes componentes se emplea para indicar la localización de un servicio web en WSDL 2.0:
+a) port
+b) interface
+c) service
+d) endpoint
+ANSWER: D
+
+53. ¿Cuál de las siguientes afirmaciones sobre el proyecto XAMPP es CORRECTA?
+a) Las últimas versiones están disponibles para iOS y Android.
+b) La versión para Windows contiene SQLite como motor de base de datos por defecto.
+c) Incluye PHP y Python como intérpretes de lenguajes de scripts.
+d) La X del nombre significa que está disponible para diferentes sistemas operativos: Windows, GNU/Linux, Solaris y Mac OS.
+ANSWER: D
+
+54. ¿Cuál de los siguientes NO es un framework Javascript?
+a) AngularJS.
+b) Webix.
+c) jQuery.
+d) Symfony.
+ANSWER: D
+
+55. En el ámbito técnico es habitual mencionar el código i18N, ¿a qué se refiere?
+a) Es una librería en Java que permite realizar operaciones de entrada salida.
+b) Dicho código es un sinónimo de Internacionalización.
+c) Es un término empleado en las aplicaciones web que garantizan la alta disponibilidad.
+d) Es un acrónimo de Internet of Things.
+ANSWER: B
+
+56. Señale la respuesta FALSA relativa a SQuaRE (Software Product Quality Requirements and Evaluation):
+a) Permite la evaluación de la calidad del software.
+b) Su certificación es complementaria a ISO/IEC 15504-SPICE.
+c) Así se conoce a las normas de la familia ISO/IEC 25000.
+d) Es un framework de programación de requisitos software.
+ANSWER: D
+
+57. El modelo CMMI v1.3 en su representación continua establece:
+a) 5 niveles de madurez que son: Inicial, Gestionado, Definido, Gestionado cualitativamente y en Optimización.
+b) 4 niveles de capacidad que son: Incompleto, Realizado, Gestionado y Definido.
+c) 4 niveles de madurez que son: Inicial, Realizado, Gestionado y en Optimización.
+d) 5 niveles de capacidad que son: Incompleto, Gestionado, Definido, Gestionado cualitativamente y en Optimización.
+ANSWER: B
+
+58. La WCAG 2.0 contempla varias pautas que se agrupan en principios, que son:
+a) Organizado, simple, limpio y robusto.
+b) Perceptible, estructurado y robusto.
+c) Abierto, accesible y robusto.
+d) Perceptible, operable, comprensible y robusto.
+ANSWER: D
+
+59. ¿Cuál de las siguientes herramientas NO está orientada a Big Data?
+a) Hadoop
+b) Cordova
+c) Cassandra
+d) Chukwa
+ANSWER: B
+
+60. ¿Cuál de los siguientes algoritmos se emplea en minería de datos?
+a) Algoritmo de Dijkstra.
+b) Algoritmo de Prim.
+c) Algoritmo de k-means.
+d) Algoritmo de Kruskal.
+ANSWER: C
+
+1. [RESERVA] ¿Cuál de las siguientes NO es considerada como una metodología ágil de desarrollo software?
+a) SCRUM.
+b) SSADM.
+c) DSDM.
+d) Crystal.
+ANSWER: B
+
+2. [RESERVA] Indique cuál de los siguientes es un estándar en la especificación de requisitos software:
+a) IEEE 830-1998
+b) IEEE 1284
+c) ANSI SQL-92
+d) Standard ECMA-262
+ANSWER: A
+
+3. [RESERVA] Señale cuál de las siguientes respuestas se corresponde con una herramienta que está especialmente diseñada para la ejecución de pruebas de carga:
+a) Wireshark
+b) Watir
+c) SapUI
+d) SOASTA
+ANSWER: D
+

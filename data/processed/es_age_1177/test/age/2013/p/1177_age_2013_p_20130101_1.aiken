@@ -188,8 +188,7 @@ c) ps
 d) wc
 ANSWER: A
 
-28. Para crear en Solaris 10 un enlace simbólico que se denomine "soft_link" a un archivo denominado "test" y que
-se encuentra en el mismo directorio que el enlace, ¿qué comando de los siguientes tenemos que ejecutar?:
+28. Para crear en Solaris 10 un enlace simbólico que se denomine "soft_link" a un archivo denominado "test" y que se encuentra en el mismo directorio que el enlace, ¿qué comando de los siguientes tenemos que ejecutar?:
 a) ln test soft_link
 b) ln -s test soft_link
 c) ln soft_link test
@@ -252,8 +251,7 @@ c) Android
 d) C
 ANSWER: D
 
-37. Para desarrollar software en el sistema operativo Android, su propietario proporciona Android SDK y para
-desarrollar nativamente NDK, ¿qué lenguajes soportan cada uno?
+37. Para desarrollar software en el sistema operativo Android, su propietario proporciona Android SDK y para desarrollar nativamente NDK, ¿qué lenguajes soportan cada uno?
 a) Android SDK: ObjectiveC con Cocoa y NDK: desarrollo nativo en C/C++.
 b) Android SDK: Java y NDK: ObjectiveC con GNUstep como API de facto.
 c) Android SDK: Java con Java ME como API principal y NDK: ObjectiveC con GNUstep como API de facto.
@@ -280,5 +278,3 @@ b) FF:FF:FF:FF:FF:FF
 c) FF:00:00:00:00:FF
 d) 00:00:00:00:00:00
 ANSWER: B
-
-

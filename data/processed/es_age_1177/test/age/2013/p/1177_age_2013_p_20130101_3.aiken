@@ -21,8 +21,7 @@ c) cat /dev/null > 2013
 d) | > 2013
 ANSWER: D
 
-4. Si queremos restringir el almacenamiento en disco en Linux a determinados usuarios o grupos, ¿cuál de los
-siguientes métodos podemos usar?
+4. Si queremos restringir el almacenamiento en disco en Linux a determinados usuarios o grupos, ¿cuál de los siguientes métodos podemos usar?
 a) Mediante cuotas de disco.
 b) Mediante el editor de directivas de grupo.
 c) No se puede restringir el almacenamiento a usuarios.
@@ -151,7 +150,7 @@ ANSWER: B
 22. ¿Cómo se llama la base de datos que tiene los parámetros de gestión de una red?
 a) MIB (Management Information Base).
 b) NMD (Network Management database).
-c)NMS (Network Management System).
+c) NMS (Network Management System).
 d) Ninguna de los anteriores.
 ANSWER: A
 

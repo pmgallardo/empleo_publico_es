@@ -1,1150 +1,280 @@
 BLOQUES I Y II
-1. Senate la respuesta correcta respecto a lo indicado en la Ley 34/2002, respecto a la prescripci6n de infracciones y de sanciones:
-a) Las infracciones muy graves prescribiran a los 3 anos, las graves a los 2 anos y las !eves al ano.
-b) Las infracciones muy graves prescribiran a los 2 anos, las graves al ano y las leves a los seis meses.
-c) Las sanciones impuestas por faltas muy graves prescribiran a los 3 anos, las impuestas por faltas graves a los 2 anos y las impuestas por faltas !eves al ano.
-d) Las sanciones impuestas por faltas muy graves prescribiran a los 2 anos, las impuestas por faltas graves al ano y las impuestas por faltas leves a los seis meses.
-ANSWER:
+1. Señale la respuesta correcta respecto a lo indicado en la Ley 34/2002, respecto a la prescripción de infracciones y de sanciones:
+a) Las infracciones muy graves prescribirán a los 3 años, las graves a los 2 años y las leves al año.
+b) Las infracciones muy graves prescribirán a los 2 años, las graves al año y las leves a los seis meses.
+c) Las sanciones impuestas por faltas muy graves prescribirán a los 3 años, las impuestas por faltas graves a los 2 años y las impuestas por faltas leves al año.
+d) Las sanciones impuestas por faltas muy graves prescribirán a los 2 años, las impuestas por faltas graves al año y las impuestas por faltas leves a los seis meses.
+ANSWER: C
 
 2. Según la legislación en vigor, Real Decreto 414/2015, la vigencia de los certificados electrónicos reconocidos incorporados al dni-e NO podrá ser superior a:
 a) 2 años.
 b) 30 meses.
 c) 4 años.
 d) 5 años.
-ANSWER:
+ANSWER: D
 
-3. Según el artículo 37 de la Ley Organica 15/1999, cual de las siguientes funciones corresponde a la Agencia Espanola de Protecci6n de Datos:
+3. Según el artículo 37 de la Ley Orgánica 15/1999, ¿cuál de las siguientes funciones corresponde a la Agencia Española de Protección de Datos?
 a) Redactar una memoria semestral y remitirla al Ministerio del Interior.
 b) Redactar una memoria semestral y remitirla al Ministerio de Justicia.
 c) Redactar una memoria anual y remitirla al Ministerio del Interior.
 d) Redactar una memoria anual y remitirla al Ministerio de Justicia.
-ANSWER:
+ANSWER: D
 
-4. Según la Ley Orgánica 15/1999 de Protecci6n de Datos de caracter personal, el director de la Agencia Espanola de Protecci6n de Datos sera nombrado, de entre quienes componen el Consejo Consultivo, por un periodo de:
-a) 5 anos mediante Real Decreto.
-b) 2 anos mediante Ley.
-c) 3 anos mediante Orden Ministerial.
-d) 4 anos mediante Real Decreto.
-ANSWER:
+4. Según la Ley Orgánica 15/1999 de Protección de Datos de carácter personal, el director de la Agencia Española de Protección de Datos será nombrado, de entre quienes componen el Consejo Consultivo, por un periodo de:
+a) 5 años mediante Real Decreto.
+b) 2 años mediante Ley.
+c) 3 años mediante Orden Ministerial.
+d) 4 años mediante Real Decreto.
+ANSWER: D
 
 5. ¿Qué datos NO contiene el chip del nuevo DNie 3.0?
-a) Filiaci6n.
+a) Filiación.
 b) Firma digitalizada.
 c) Fiscal.
-d) Resumen criptografico de la impresi6n dactilar.
-ANSWER:
+d) Resumen criptográfico de la impresión dactilar.
+ANSWER: C
 
-6. Segun el articulo 44 de la Ley Organica 15/1999, de Protecci6n de Datos de Caracter Personal (LOPD}, lcual de las siguientes infracciones es muy grave?
-a) El impedimento o la obstaculizaci6n del ejercicio de los derechos de acceso y oposici6n y la negativa a facilitar la informaci6n que sea solicitada.
-b) La recogida de dates en forma enganosa y fraudulenta.
-c) Preceder a la creaci6n de ficheres de titularidad privada o iniciar la recogida de dates de caracter personal para los mismos con finalidades distintas de las que constituyen el objeto legftimo de la empresa o entidad.
-d) Preceder a la recogida de dates de caracter personal de los propios afectados sin preporcionarles la informaci6n que senala el artfculo 5 de la LOPD.
-ANSWER:
+6. Según el artículo 44 de la Ley Orgánica 15/1999, de Protección de Datos de Carácter Personal (LOPD), ¿cuál de las siguientes infracciones es muy grave?
+a) El impedimento o la obstaculización del ejercicio de los derechos de acceso y oposición y la negativa a facilitar la información que sea solicitada.
+b) La recogida de datos en forma engañosa y fraudulenta.
+c) Preceder a la creación de ficheros de titularidad privada o iniciar la recogida de datos de carácter personal para los mismos con finalidades distintas de las que constituyen el objeto legítimo de la empresa o entidad.
+d) Preceder a la recogida de datos de carácter personal de los propios afectados sin proporcionarles la información que señala el artículo 5 de la LOPD.
+ANSWER: B
 
-7. Cual de los siguientes es un metadato minimo obligatorio, segun aparece en el anexo I de la Norma Tecnica de Interoperabilidad (NTI} de Documento Electr6nico:
+7. ¿Cuál de los siguientes es un metadato mínimo obligatorio, según aparece en el anexo I de la Norma Técnica de Interoperabilidad (NTI) de Documento Electrónico?
 a) Identificador: identificador normalizado del documento.
-b) NumDocumental: numere de registre documental.
+b) NumDocumental: número de registro documental.
 c) Creador: nombre del creador del documento.
-d) EstadoTramitaci6n: Indica el estado de tramitaci6n en el que se encuentra el documento.
-ANSWER:
+d) EstadoTramitación: indica el estado de tramitación en el que se encuentra el documento.
+ANSWER: A
 
 8. El perfil XAdES-X:
-a) anade la posibilidad de timestamping peri6dico de documentos archivados para prevenir que puedan ser compremetidos debido a la debilidad de la firma durante un periodo largo de almacenamiento.
-b) anade sellos de tiempo a las referencias intreducidas por XAdES-C para evitar que pueda verse compremetida en el future una cadena de certificados.
-c) es una forma basica a la que se la ha anadido informaci6n sobre la polftica de firma solamente.
-d) anade sellos de tiempo a las referencias intreducidas por XAdES-A para evitar que pueda verse compremetida en el future una cadena de certificados.
-ANSWER:
+a) añade la posibilidad de timestamping periódico de documentos archivados para prevenir que puedan ser comprometidos debido a la debilidad de la firma durante un periodo largo de almacenamiento.
+b) añade sellos de tiempo a las referencias introducidas por XAdES-C para evitar que pueda verse comprometida en el futuro una cadena de certificados.
+c) es una forma básica a la que se le ha añadido información sobre la política de firma solamente.
+d) añade sellos de tiempo a las referencias introducidas por XAdES-A para evitar que pueda verse comprometida en el futuro una cadena de certificados.
+ANSWER: B
 
-9. En la ley 11/2007, el principio de neutralidad relativo a la sede electr6nica, pretende garantizar:
-a) la independencia en la elecci6n de las alternativas tecnol6gicas por los ciudadanos y por las Administraciones publicas.
-b) la igualdad de los ciudadanos cuando se relacionen con las Administraciones publicas usen medics electr6nicos o no.
-c) el acceso a la informaci6n sin dependencias de huso horario.
-d) el acceso a la informaci6n, sin dependencia de los idiomas naturales de usuario y Administraciones.
-ANSWER:
+9. En la ley 11/2007, el principio de neutralidad relativo a la sede electrónica, pretende garantizar:
+a) la independencia en la elección de las alternativas tecnológicas por los ciudadanos y por las Administraciones públicas.
+b) la igualdad de los ciudadanos cuando se relacionen con las Administraciones públicas usen medios electrónicos o no.
+c) el acceso a la información sin dependencias de uso horario.
+d) el acceso a la información, sin dependencia de los idiomas naturales de usuario y Administraciones.
+ANSWER: A
 
-10. Según se establece en el Esquema Nacional de Interoperabilidad, con el fin de garantizar la conservaci6n, el documento se conservara en el formato en que haya sido elaborado, enviado o recibido, y preferentemente en un formato correspondiente a un estandar:
-a) Abierto que preserve a lo largo del tiempo la integridad del contenido del documento, del no repudio en origen y en destino, de la firma electr6nica y de los metadatos que lo acompaf\an.
-b) Abierto que preserve a lo largo del tiempo la integridad del contenido del documento, del no repudio en destino y de los metadatos que lo acompaf\an.
-c) Abierto que preserve a lo largo del tiempo la integridad del contenido del documento, de la firma electr6nica y de los metadatos que lo acompaf\an.
-d) Propietario que preserve a lo largo del tiempo la integridad del contenido del documento y de la confidencialidad.
-ANSWER:
+10. Según se establece en el Esquema Nacional de Interoperabilidad, con el fin de garantizar la conservación, el documento se conservará en el formato en que haya sido elaborado, enviado o recibido, y preferentemente en un formato correspondiente a un estándar:
+a) abierto que preserve a lo largo del tiempo la integridad del contenido del documento, del no repudio en origen y en destino, de la firma electrónica y de los metadatos que lo acompañan.
+b) abierto que preserve a lo largo del tiempo la integridad del contenido del documento, del no repudio en destino y de los metadatos que lo acompañan.
+c) abierto que preserve a lo largo del tiempo la integridad del contenido del documento, de la firma electrónica y de los metadatos que lo acompañan.
+d) propietario que preserve a lo largo del tiempo la integridad del contenido del documento y de la confidencialidad.
+ANSWER: C
 
-11. Indique cual de los siguientes estandares NO esta recogido en la NTI de Catalogo de estandares en la categoria de tecnologias para identificaci6n:
+11. Indique cuál de los siguientes estándares NO está recogido en la NTI de Catálogo de estándares en la categoría de tecnologías para identificación:
 a) ASN.1
 b) URN
 c) SFX
 d) OID
-ANSWER:
+ANSWER: C
 
-12. ¿Cuál de los siguientes es un requisito minimo de seguridad seg(m el articulo 11 del Esquema Nacional de Seguridad?
-a) Uneas de defensa.
-b) Analisis y gesti6n de los riesgos.
+12. ¿Cuál de los siguientes es un requisito mínimo de seguridad según el artículo 11 del Esquema Nacional de Seguridad?
+a) Unidades de defensa.
+b) Análisis y gestión de los riesgos.
 c) Seguridad integral.
-d) Detecci6n ante otros sistemas de informaci6n interconectados.
-ANSWER:
+d) Detección ante otros sistemas de información interconectados.
+ANSWER: B
 
-13. Las instrucciones tecnicas de seguridad y guias de seguridad del articulo 29 del Esquema Nacional de Seguridad son aprobadas por el:
-a) Ministerio de Presidencia, a propuesta del Centro Criptol6gico Nacional y se publicaran mediante resoluci6n de la Secretarfa de Estado de Telecomunicaciones y Sociedad de la Informaci6n.
-b) Ministerio de Presidencia, a propuesta del Centro Criptol6gico Nacional y se publicaran mediante resoluci6n de la Secretarfa de Estado de Administraciones Publicas.
-c) Ministerio de Hacienda y Administraciones Publicas, a propuesta del Comite Sectorial de Administraci6n Electr6nica y se publicaran mediante resoluci6n de la Secretarfa de Estado de Telecomunicaciones y Sociedad de la Informaci6n.
-d) Ministerio de Hacienda y Administraciones Publicas, a propuesta del Comite Sectorial de Administraci6n Electr6nica y se publicaran mediante resoluci6n de la Secretarfa de Estado de Administraciones Publicas.
-ANSWER:
+13. Las instrucciones técnicas de seguridad y guías de seguridad del artículo 29 del Esquema Nacional de Seguridad son aprobadas por el:
+a) Ministerio de Presidencia, a propuesta del Centro Criptológico Nacional y se publicarán mediante resolución de la Secretaría de Estado de Telecomunicaciones y Sociedad de la Información.
+b) Ministerio de Presidencia, a propuesta del Centro Criptológico Nacional y se publicarán mediante resolución de la Secretaría de Estado de Administraciones Públicas.
+c) Ministerio de Hacienda y Administraciones Públicas, a propuesta del Comité Sectorial de Administración Electrónica y se publicarán mediante resolución de la Secretaría de Estado de Telecomunicaciones y Sociedad de la Información.
+d) Ministerio de Hacienda y Administraciones Públicas, a propuesta del Comité Sectorial de Administración Electrónica y se publicarán mediante resolución de la Secretaría de Estado de Administraciones Públicas.
+ANSWER: D
 
 14. Las dimensiones de la seguridad que indica el Esquema Nacional de Seguridad en su anexo I son:
-a) Autenticaci6n, confidencialidad, integridad, no repudio y disponibilidad.
+a) Autenticación, confidencialidad, integridad, no repudio y disponibilidad.
 b) Autenticidad, integridad, confidencialidad, disponibilidad y usabilidad.
 c) Autenticidad, integridad, confidencialidad, disponibilidad y trazabilidad.
 d) Autenticidad, integridad, confidencialidad, atomicidad y persistencia.
-ANSWER:
+ANSWER: C
 
-15. Seg(m el ENS en su Anexo II, la dimension de la confidencialidad afecta a la siguiente medida de seguridad:
+15. Según el ENS en su Anexo II, la dimensión de la confidencialidad afecta a la siguiente medida de seguridad:
 a) Sellos de tiempo.
 b) Medios alternativos.
 c) Cifrado.
 d) Copias de seguridad.
-ANSWER:
+ANSWER: C
 
-16. En el ambito del Esquema Nacional de Seguridad, ,cual seria la herramienta mas util para ayudar a definir una estructura organizacional?
-a) Matriz de asignaci6n de responsabilidades (RACI).
-b) El Cicio de Deming.
-c) Diagrama de extrapolaci6n.
+16. En el ámbito del Esquema Nacional de Seguridad, ¿cuál sería la herramienta más útil para ayudar a definir una estructura organizacional?
+a) Matriz de asignación de responsabilidades (RACI).
+b) El Ciclo de Deming.
+c) Diagrama de extrapolación.
 d) Modelo de Mejora Continua del Servicio.
-ANSWER:
+ANSWER: A
 
-17. En la Ley Organica 3/2007, para la igualdad efectiva de mujeres y hombres, se indica en el articulo 38 que la Agencia EFE, velara por el respeto del principio de igualdad y perseguira en su actuaci6n uno de los siguientes objetivos:
+17. En la Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres, se indica en el artículo 38 que la Agencia EFE, velará por el respeto del principio de igualdad y perseguirá en su actuación uno de los siguientes objetivos:
 a) Reflejar presencia paritaria de mujeres en su plantilla de empleados.
 b) No incluir publicidad sexista.
 c) Priorizar el uso de un lenguaje que transmita el principio de igualdad.
-d) Adoptar c6digos de conducta tendentes a transmitir el contenido del principio de igualdad.
-ANSWER:
+d) Adoptar códigos de conducta tendentes a transmitir el contenido del principio de igualdad.
+ANSWER: D
 
-18. Respecto a lo indicado en la Ley Organica 3/2007, el Gobierno, en las materias que sean de la competencia del Estado, utilizara entre otros instrumentos basicos para la consecuci6n del principio de igualdad y para eliminar la discriminaci6n por raz6n de sexo un:
-a) Objetivo espedfico de igualdad.
-b) Plan Estrategico de igualdad de Oportunidades.
+18. Respecto a lo indicado en la Ley Orgánica 3/2007, el Gobierno, en las materias que sean de la competencia del Estado, utilizará entre otros instrumentos básicos para la consecución del principio de igualdad y para eliminar la discriminación por razón de sexo un:
+a) Objetivo específico de igualdad.
+b) Plan Estratégico de igualdad de Oportunidades.
 c) Programa de igualdad.
-d) Informe peri6dico del Ministerio de Justicia.
-ANSWER:
+d) Informe periódico del Ministerio de Justicia.
+ANSWER: B
 
-19. En el contexto de la Ley Organica 3/2007, para la igualdad efectiva de mujeres y hombres, se entiende por composici6n equilibrada la presencia de mujeres y hombres de forma que, en el conjunto a que se refiera, las personas de cada sexo:
-a) no superen el 70 por ciento ni sean menos del 30 por ciento.
+19. En el contexto de la Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres, se entiende por composición equilibrada la presencia de mujeres y hombres de forma que, en el conjunto a que se refiera, las personas de cada sexo:
+a) no superen el 70 por ciento ni sean menos del 40 por ciento.
 b) no superen el 60 por ciento ni sean menos del 30 por ciento.
-c) no superen el 60 por ciento ni sean menos del 40 por ciento.
-d) no superen el 70 por ciento ni sean menos del 40 por ciento.
-ANSWER:
+c) no superen el 50 por ciento ni sean menos del 40 por ciento.
+d) no superen el 60 por ciento ni sean menos del 50 por ciento.
+ANSWER: A
 
-20. lQue permiten los certificados X.509 v3 de ciudadano del DNie 3.0?
+20. ¿Qué permiten los certificados X.509 v3 de ciudadano del DNie 3.0?
 a) Firma y cifrado.
-b) Autenticaci6n y cifrado.
-c) Autenticaci6n y firma.
-d) Identificaci6n y autenticaci6n.
-ANSWER:
+b) Autenticación y cifrado.
+c) Autenticación y firma.
+d) Identificación y autenticación.
+ANSWER: C
 
 21. Ordenar de mayor a menor rapidez de velocidad de acceso, los siguientes elementos que se encuentran en un ordenador personal:
-a) Memoria cache, memoria principal, bancos de registros, discos duros.
-b) Bancos de registros, memoria cache, memoria principal, discos duros.
-c) Bancos de registros, memoria cache, discos duros, memoria principal.
-d) Memoria cache, bancos de registros, memoria principal, discos duros.
-ANSWER:
+a) Memoria caché, memoria principal, bancos de registros, discos duros.
+b) Bancos de registros, memoria caché, memoria principal, discos duros.
+c) Bancos de registros, memoria caché, discos duros, memoria principal.
+d) Memoria caché, bancos de registros, memoria principal, discos duros.
+ANSWER: B
 
 22. Ordene de mayor a menor potencia los siguientes procesadores:
 a) Intel Core i7, Intel Core i3, Intel Celeron e Intel Atom.
 b) Intel Core i3, Intel Core i7, Intel Celeron e Intel Atom.
 c) Intel Core i3, Intel Core i7, Intel Atom e Intel Celeron.
 d) Intel Atom, Intel Celeron, Intel Core i7 e Intel Core i3.
-ANSWER:
+ANSWER: A
 
-23. La version 6.0 de Android se conoce comercialmente como:
+23. La versión 6.0 de Android se conoce comercialmente como:
 a) Jelly Bean
 b) Kitkat
 c) Marshmallow
 d) Lollipop
-ANSWER:
+ANSWER: C
 
 24. La potencia de un microprocesador se mide en FLOPS, unidad que indica:
-a) El numero de accesos a memoria que es capaz de realizar en un segundo.
-b) La frecuencia de la serial de reloj del microprocesador.
-c) El numero de operaciones de coma flotante par segundo que puede realizar.
-d) El numero de millones de instrucciones por segundo que puede procesar.
-ANSWER:
+a) El número de accesos a memoria que es capaz de realizar en un segundo.
+b) La frecuencia de la señal de reloj del microprocesador.
+c) El número de operaciones de coma flotante por segundo que puede realizar.
+d) El número de millones de instrucciones por segundo que puede procesar.
+ANSWER: C
 
-25. La clasificaci6n de Flynn divide a las computadoras en cuatro grupo principales. Indique el ERRONEO:
+25. La clasificación de Flynn divide a las computadoras en cuatro grupos principales. Indique el ERRÓNEO:
 a) SISD
 b) SIMD
 c) MISD
 d) SSMD
-ANSWER:
+ANSWER: D
 
-26. El uso de estandares y protocolos abiertos ha favorecido el desarrollo de la tecnologia Grid, entre ellos NO se encuentra:
+26. El uso de estándares y protocolos abiertos ha favorecido el desarrollo de la tecnología Grid, entre ellos NO se encuentra:
 a) OGSI
 b) OGSA
 c) GNoMo
 d) WSRF
-ANSWER:
+ANSWER: C
 
-27. ,Cual de las siguientes caracteristicas sobre el sistema operativo GNU Hurd es INCORRECTA?
-a) Esta basado en arquitectura microkernel.
+27. ¿Cuál de las siguientes características sobre el sistema operativo GNU Hurd es INCORRECTA?
+a) Está basado en arquitectura microkernel.
 b) Se distribuye con licencia BSD.
-c) Cada parte del sistema esta disefiada para ser modificada y extendida facilmente.
+c) Cada parte del sistema está diseñada para ser modificada y extendida fácilmente.
 d) Tiene una estructura orientada a objetos.
-ANSWER:
+ANSWER: B
 
-28. Indique el algoritmo de asignaci6n de turno de ejecuci6n consistente en asignar a cada proceso un intervalo de tiempo de ejecuci6n, y cada vez que se vence ese intervalo se le asigna su turno a otro proceso:
-a) Par prioridad.
-b) Tasa de respuesta mas alta.
+28. Indique el algoritmo de asignación de turno de ejecución consistente en asignar a cada proceso un intervalo de tiempo de ejecución, y cada vez que se vence ese intervalo se le asigna su turno a otro proceso:
+a) Por prioridad.
+b) Tasa de respuesta más alta.
 c) SJF (Shortest Job First).
 d) Round Robin.
-ANSWER:
+ANSWER: D
 
-29. El comando LINUX que muestra fecha y hora del ultimo reinicio del sistema es:
+29. El comando LINUX que muestra fecha y hora del último reinicio del sistema es:
 a) who -b
 b) reboot
 c) who -u
 d) whoami
-ANSWER:
+ANSWER: A
 
-30. Indique la respuesta correcta sobre los lenguajes de programaci6n lava y JavaScript:
-a) JavaScript es una version reducida de Java.
-b) JavaScript es un branch de Java disponible en la inmensa mayorfa de navegadores web.
+30. Indique la respuesta correcta sobre los lenguajes de programación Java y JavaScript:
+a) JavaScript es una versión reducida de Java.
+b) JavaScript es un branch de Java disponible en la inmensa mayoría de navegadores web.
 c) JavaScript es un lenguaje completamente independiente de Java.
 d) Java y JavaScript son dos versiones de un mismo lenguaje, la primera de ellas compilada y la segunda interpretada.
-ANSWER:
+ANSWER: C
 
 31. Es un lenguaje fuertemente tipado:
 a) Lisp.
-c) Haskell.
 b) Prolog.
+c) Haskell.
 d) Smalltalk.
-ANSWER:
+ANSWER: C
 
-32. A continuaci6n aparecen varias listas de versiones de Android, indique cual de ellas esta correctamente ordenada de la mas antigua a la mas reciente:
+32. A continuación aparecen varias listas de versiones de Android, indique cuál de ellas está correctamente ordenada de la más antigua a la más reciente:
 a) Froyo, Jelly Bean, Gingerbread y Lollipop.
 b) Froyo, Jelly Bean, Lollipop y Gingerbread.
 c) Froyo, Honeycomb, Jelly Bean y Marshmallow.
 d) Froyo, Gingerbread, Jelly Bean y Ice Cream Sandwich.
-ANSWER:
+ANSWER: C
 
-33. La palabra reservada final en el contexto de la programaci6n en lava 8:
+33. La palabra reservada final en el contexto de la programación en Java 8:
 a) Permite asignar un valor constante a una variable.
-b) Permite indicar la condici6n final para que un bucle finalice su ejecuci6n.
-c) Permite obtener la posici6n o valor final de una iteraci6n.
-d) No es una palabra clave en el contexto de la programaci6n en Java.
-ANSWER:
+b) Permite indicar la condición final para que un bucle finalice su ejecución.
+c) Permite obtener la posición o valor final de una iteración.
+d) No es una palabra clave en el contexto de la programación en Java.
+ANSWER: A
 
 34. Los protocolos ARP y RARP se encargan de enlazar:
-a) La sesion del usuario con la capa de transporte TCP.
-b) El nivel fisico con la capa de sesion del protocolo TCP/IP.
+a) La sesión del usuario con la capa de transporte TCP.
+b) El nivel físico con la capa de sesión del protocolo TCP/IP.
 c) El protocolo de transporte utilizado con el nivel de red utilizado.
-d) Los sistemas de direccionamiento IP y el de la red ffsica utilizada.
-ANSWER:
+d) Los sistemas de direccionamiento IP y el de la red física utilizada.
+ANSWER: D
 
-35. La direccion de loopback para IPv6 es:
+35. La dirección de loopback para IPv6 es:
 a) ::127
 b)
-c) ffOO::
+c) ff00::
 d) ::1
-ANSWER:
+ANSWER: D
 
-36. Seg(m el modelo TCP/IP, el protocolo UDP pertenece a la capa de:
-a) Aplicacion.
+36. Según el modelo TCP/IP, el protocolo UDP pertenece a la capa de:
+a) Aplicación.
 b) Transporte.
 c) Internet.
 d) Acceso al medio.
-ANSWER:
+ANSWER: B
 
-37. Entre los tipos de direccionamientos IPv6 estan los siguientes:
+37. Entre los tipos de direccionamientos IPv6 están los siguientes:
 a) Unicast, Multicast, Anycast, Broadcast.
 b) Unicast, Anycast, Broadcast.
 c) Unicast, Multicast, Broadcast.
 d) Unicast, Multicast, Anycast.
-ANSWER:
+ANSWER: D
 
 38. El protocolo de mensajes de control de Internet (ICMP) detecta y registra las condiciones de error de la red, pero NO registra:
-a) Paquetes soltados: Paquetes que llegan demasiado rapido para poder procesarse.
-b) Fallo de conectividad: Nose puede alcanzar un Sistema de destino.
-c) Redireccion: Redirige un sistema de envio para utilizar otro enrutador.
-d) Validacion: Transmision completa en orden de bytes.
-ANSWER:
+a) Paquetes soltados: Paquetes que llegan demasiado rápido para poder procesarse.
+b) Fallo de conectividad: No se puede alcanzar un sistema de destino.
+c) Redirección: Redirige un sistema de envío para utilizar otro enrutador.
+d) Validación: Transmisión completa en orden de bytes.
+ANSWER: D
 
-39. ,Que direccion de las indicadas es valida para un host en la subred 192.168.31.48/28?
+39. ¿Qué dirección de las indicadas es válida para un host en la subred 192.168.31.48/28?
 a) 192.168.31.48
 b) 192.168.31.64
 c) 192.168.31.49
 d) 192.168.31.63
-ANSWER:
+ANSWER: C
 
-40. La direccion IP 192.178.16.66 con la mascara de subred 255.255.255.192 se interpreta como:
+40. La dirección IP 192.178.16.66 con la máscara de subred 255.255.255.192 se interpreta como:
 a) Host 4 de la subred 192.178.16.66
 b) Host 2 de la subred 192.178.16.64
 c) Host 2 de la subred 192.178.16.66
 d) Host 1 de la subred 192.178.16.64
-ANSWER:
-
-BLOQUE III
-
-1. Indique cual de los siguientes es un estandar en los modelos de ciclo de vida de Software:
-a) ISO 26000:2010
-b) ISO/IEC 12207
-c) ISO/IEC 27002
-d) ISO 9001:2015
-ANSWER:
-
-2. De las siguientes fases, cual NO forma parte del modelo de ciclo de vida en espiral, segun el diagrama original de Barry Boehm:
-a) Determinar objetivos, alternativas y restricciones.
-b) Evaluar alternativas, identificar y resolver riesgos.
-c) Desarrollo y verificacion del producto del siguiente nivel.
-d) Validacion del software por medio del plan de pruebas.
-ANSWER:
-
-3. Indique el modelo de desarrollo mas apropiado para un proyecto en el cual los usuarios finales NO tienen claros los requisitos del sistema:
-a) Modelo de ciclo de vida en espiral: para poder tener un desarrollo en cada ciclo.
-b) Modelo de ciclo de vida incremental: de modo que los usuarios puedan ir viendo el sistema de forma incremental.
-c) Modelo ciclo de vida en circulo: es una variante del modelo ciclo de vida en espiral donde los usuarios definen los requisitos paulatinamente.
-d) Metodologfas agiles: se ajustan mejor a los cambios.
-ANSWER:
-
-4. ¿Cuál de los siguientes NO es un rol de la metodologia Scrum?
-a) Product Owner.
-b) Project Manager.
-c) Scrum Master.
-d) Development Team.
-ANSWER:
-
-5. La metodologia Metrica v3, de uso en los proyectos de sistemas de informacion llevados a cabo en el seno de la Administracion del Estado y sus 6rganos dependientes o vinculados, es de uso obligatorio desde:
-a) La entrada en vigor de la Ley 11/2007, de acceso electronico de los ciudadanos a los Servicios Publicos.
-b) La entrada en vigor del Real Decreto 4/2010, que regula el Esquema Nacional de Interoperabilidad en el ambito de la Administracion Electronica.
-c) El Acuerdo del Consejo de Ministros de 28/02/2005, pero solo para las aplicaciones desarrolladas con medios propios, no para aquellas contratadas "!lave en mano", o que el porcentaje de esfuerzo de desarrollo sea mayoritariamente con medios externos.
-d) Se recomienda el uso de Metrica v3, pero su empleo no es obligatorio.
-ANSWER:
-
-6. En Metrica v3, la elaboracion de un catalogo detallado de requisitos que describa de forma precisa el sistema de informacion compete a personas con perfil:
-a) Consultor.
-b) Jefe de Proyecto.
-c) Directivo.
-d) Analista.
-ANSWER:
-
-7. lCual de las siguientes NO es una interfaz de Metrica v3?
-a) Seguridad (SEG).
-b) Aseguramiento de la Calidad (CAL).
-c) Plan de Accion (PA).
-d) Gestion de la Configuracion (GC).
-ANSWER:
-
-8. Segun la metodologia Metrica v3, el entorno tecnol6gico del sistema, es un producto del proceso:
-a) Construccion del Sistema de Informacion.
-b) Analisis del Sistema de Informacion.
-c) Disefio del Sistema de Informacion.
-d) Implantacion y Aceptacion del Sistema.
-ANSWER:
-
-9. En un diagrama de flujo de datos DFD, lcual de las siguientes es una conexi6n prohibida entre elementos?
-a) Proceso - Proceso
-b) Entidad Externa - Entidad Externa
-c) Entidad Externa - Proceso
-d) Proceso - Almacen de datos
-ANSWER:
-
-En relaci6n al esquema conceptual en los niveles ANSI/SPARC , lque afirmaci6n de las siguientes NO es correcta?
-a) Representa el modelo de datos de forma independiente del sistema gestor de bases de datos que se utilizara.
-b) Refleja la representacion de los datos que se van a guardar y sus relaciones a partir del Modelo Entidad Relacion.
-c) Corresponde a la vision de la base de datos que ofrece cada aplicacion.
-d) Debe ser absolutamente independiente del esquema fisico.
-ANSWER:
-
-11. En el modelo entidad/relaci6n extendido, el numero maximo y minimo de ocurrencias de un tipo de entidad que pueden estar interreladonadas con una ocurrenda de otro tipo de entidad, se denomina:
-a) Cardinalidad.
-b) Grado.
-c) Asociacion.
-d) Tipo de correspondencia.
-ANSWER:
-
-12. El operador join del algebra reladonal es un operador compuesto de otros operadores fundamentales, que son:
-a) Seleccion, proyeccion y union.
-b) Seleccion, producto cartesiano y proyeccion.
-c) Diferencia de conjuntos, union y producto cartesiano.
-d) Union, proyeccion y producto cartesiano.
-ANSWER:
-
-13. En un modelo relacional, la que hace referenda el dominio?
-a) Cada uno de los elementos que contiene una instancia de la relacion.
-b) Elemento susceptible de tomar valores.
-c) Conjunto de valores que puede tomar un atributo.
-d) Conjunto de filas y columnas que forman una tabla.
-ANSWER:
-
-14. Segun el libro de Tecnicas de Metrica v3, en referenda al modelo entidad/relaci6n extendido, una relaci6n es exclusiva cuando:
-a) La entidad se relaciona con ella misma, apuntando la cardinalidad hacia ella misma.
-b) La existencia de una relacion entre dos tipos de entidades implica la no existencia de las otras relaciones.
-c) Se agrupan entidades en una sola entidad general la cual tendra todos los atributos o la mayoria.
-d) La existencia de una relacion entre dos tipos de entidades implica la existencia de las otras relaciones.
-ANSWER:
-
-15. La integridad referencial en bases de datos relacionales define que:
-a) todas las filas deben tener las mismas columnas y formato.
-b) si en una relacion hay alguna clave ajena, sus valores deben coincidir con valores de la clave primaria a la que hace referencia, o bien, deben ser todos nulos.
-c) la clave primaria de una tupla no debe ser nulo, ni ninguno de los atributos que la componen.
-d) la independencia fisica de la base de datos.
-ANSWER:
-
-16. En cual de las siguientes opciones todos los elementos pertenecen al Lenguaje de Definid6n de Datos (o DDL) de SQL:
-a) CREATE,INSERT,ALTER
-b) UPDATE, DROP,ALTER
-c) CREATE,DROP,ALTER
-d) CREATE,ALTER, DELETE
-ANSWER:
-
-17. En un modelo 16gico reladonal, lcual de los siguientes NO es un axioma de Armstrong?
-a) Reflexividad.
-b) Aumentatividad.
-c) Transitividad.
-d) Conmutatividad.
-ANSWER:
-
-18. Con respecto al modelo reladonal, lcual de las siguientes afirmadones es correcta?
-a) Llamamos superclaves de la relacion a todas las claves candidatas minimas o no descomponibles.
-b) El conjunto de tuplas de una relacion constituye su intension.
-c) Codasyl fue el primer modelo relacional puro.
-d) QBE es un lenguaje de acceso a bases de datos relacionales.
-ANSWER:
-
-19. Segun la guia Tecnicas y Practicas de Metrica v3, las clases identificadas en el modelo de clases se deberan corresponder con los elementos del modelo fisico de datos. ,Que se puede emplear para comprobar dicha asociaci6n?
-a) Tecnicas lineales de asociacion.
-b) Tecnicas matriciales de relacion.
-c) Tecnica de conjuntos.
-d) No es necesario especificar dicha asociacion. El modelo de clases se debe corresponder con el modelo conceptual, no con el modelo fi'sico.
-ANSWER:
-
-20. Los segmentos de ROLLBACK:
-a) Impiden deshacer la transaccion.
-b) Son objetos de la base de dates que almacenan los dates de los bloques tal como estaban antes de ser modificados.
-c) Son causa de lecturas inconsistentes.
-d) Tras algun fallo, no se pueden utilizar en la recuperacion.
-ANSWER:
-
-21. El objetivo de la normalizaci6n de bases de datos es:
-a) Conseguir que los dates incluidos en la misma esten representados segun los estandares de organizaciones internacionales como ISO.
-b) Eliminar redundancias de los dates incluidos en las mismas y prevenir la aparicion de inconsistencias.
-c) Que se emplee SQL como lenguaje de definicion de datos (DDL) y lenguaje de manipulacion de dates (DML).
-d) Conseguir que las consultas a la base de datos sean mas sencillas y eficientes.
-ANSWER:
-
-22. El algoritmo de ordenaci6n que selecciona un elemento del array (pivote), particiona el array en 3 (menores que pivote, pivote, mayores que pivote), aplica recursion sobre dos de ellos y finalmente une todas las soluciones para formar el array ordenado se denomina:
-a) Ordenacion por montfculos (Heapsort).
-b) Ordenacion por intercalacion (Mergesort).
-c) Ordenacion rapida (Quicksort).
-d) Ordenacion por insercion.
-ANSWER:
-
-23. Se dice que un grafo NO dirigido es un arbol si:
-a) Es conexo y adclico.
-b) Es inconexo y adclico.
-c) Es conexo y contiene al menos un ciclo.
-d) Es inconexo y contiene al menos un ciclo.
-ANSWER:
-
-24. ,cual de los siguientes conceptos se corresponde con la definici6n "conjunto de valores y sus operaciones asociadas"?
-a) Vista materializada.
-b) Esquema de una relacion o intension.
-c) Instancia de una relacion o extension.
-d) Tipo abstracto de datos.
-ANSWER:
-
-25. Cuando hablamos de restricciones de integridad en bases de datos nos estamos refiriendo a:
-a) Un mecanismo de seguridad para el acceso a la base de datos, que debe preservar su integridad.
-b) Un mecanismo de sincronizacion de tareas y orquestacion de procesos, disefiado para evitar los problemas de concurrencia en acceso multiple de transacciones a las tablas de la base de datos.
-c) Una serie de condiciones que deben cumplir los datos almacenados en la base de datos.
-d) Una serie de condiciones que deben cumplir los mecanismos de almacenamiento fi'sico de la base de datos.
-ANSWER:
-
-26. Cuando los m6dulos se comunican mediante parametros que constituyen elementos de datos simples, lque tipo de acoplamiento se dice que presentan?
-a) Normal.
-b) De datos.
-c) De control.
-d) De instancia.
-ANSWER:
-
-27. La ley cuya finalidad es reducir el acoplamiento en un sistema de informaci6n es la:
-a) Ley de Amper.
-b) Ley de Demeter.
-c) Ley de Moore.
-d) Ley de Hooke.
-ANSWER:
-
-28. ,cual de las siguientes afirmaciones sobre el empleo de disparadores o triggers en bases de datos relacionales es correcto?
-a) En las versiones recientes del estandar SQL el uso de triggers se ha visto sustituido por las caracterfsticas de polimorfismo del lenguaje.
-b) El uso de triggers es el mejor mecanismo para mantener resumenes o agregaciones de datos de acceso frecuente que deban ser accesibles rapidamente.
-c) Un disparador es una orden que el sistema ejecuta incondicionalmente ante una entrada vfa editor de comandos.
-d) Un disparador es una orden que el sistema ejecuta subordinadamente ante la ocurrencia de una modificacion en la base de datos.
-ANSWER:
-
-29. Cuando en la transacci6n se tiene un nivel de aislamiento de lectura repetible, puede producirse el siguiente tipo de violaci6n:
-a) Lectura sucia y lectura fantasma.
-b) Solo de lectura fantasma.
-c) Lectura no repetible y lectura fantasma.
-d) Con el aislamiento de lectura repetible nose pueden producir violaciones.
-ANSWER:
-
-30. Indique que es xAPI:
-a) Es un API que permite desarrollar plugins para los navegadores web.
-b) Es un API de JAVA que permite operar con ficheros XML.
-c) Es una especificacion tecnica orientada al aprendizaje que permite recopilar informacion acerca de las experiencias que tienen las personas.
-d) Es una librerfa en JavaScript que permite realizar desarrollos con el conocido patron modelo-vista-controlador.
-ANSWER:
-
-31. En informatica, las pruebas de humo (smoke testing) son aquellas pruebas que son:
-a) una comprobacion del funcionamiento del software desarrollado en muchas plataformas.
-b) una revision exhaustiva del producto software para comprobar la buena integracion modular que presenta.
-c) una revision rapida del producto de software para comprobar que funciona y no tiene defectos que interrumpan la operacion basica del mismo.
-d) el tipo de pruebas que se realizan sin ejecutar el codigo de la aplicacion.
-ANSWER:
-
-32. Se definen en Metrica v3 como "comprobaci6n de la correcta implementaci6n de los procedimientos de operaci6n, incluyendo la planificaci6n y control de trabajos, arranque y rearranque del sistema, etc.":
-a) Pruebas funcionales.
-b) Pruebas de operacion.
-c) Pruebas de entorno.
-d) Pruebas de volumen.
-ANSWER:
-
-33. Senate cual se corresponde con una herramienta de pruebas de software libre, tipo open source y distribuida bajo licencia GNU General Public License (GPL):
-a) Sahi.
-b) LoadStorm.
-c) Weblnject.
-d) vTest.
-ANSWER:
-
-34. De acuerdo a Metrica v3, lcual de lassiguientes tecnicas/practicas NO es utilizada en las actividades del proceso Mantenimiento de Sistemas de Informaci6n (MSI)?
-a) Pruebas de Implantacion.
-b) Analisis de Impacto.
-c) Pruebas de Regresion.
-d) Sesiones de trabajo.
-ANSWER:
-
-35. Senale cuales son las etapas que se contemplan para un sistema que se encuentra en mantenimiento y sigue el modelo ciclico de reingenieria del software definido por R.S. Pressman para su nueva adaptaci6n:
-a) Analisis de requisites, reestructuracion de documentos, ingenierfa inversa, reestructuracion de c6digo, reestructuraci6n de dates e ingenierfa directa.
-b) Analisis de requisites, reestructuracion de requisites, ingenierfa inversa, reestructuracion de c6digo, reestructuraci6n de dates y reestructuraci6n de las pruebas.
-c) Analisis de inventario, reestructuraci6n de documentos, ingenierfa inversa, reestructuraci6n de c6digo, reestructuracion de dates e ingenierfa directa.
-d) Analisis de inventario, reestructuraci6n de requisites, ingenierfa inversa, reestructuraci6n de c6digo, reestructuracion de dates y reestructuracion de las pruebas.
-b)
-ANSWER:
-
-36. Indique en cual de los siguientes diagramas aparecen representados objetos y mensajes, segun Metrica v3:
-
-
-37.
-
-
-38. En Metrica v3, indique la tarea englobada dentro de la actividad DSI 4 "Diseno de Clases":
-a) Identificacion de Clases Asociadas a un Caso de Uso.
-b) Disefio de M6dulos del Sistema.
-c) Analisis de Consistencia de las Especificaciones de Disefio.
-d) Disefio de la Jerarqufa.
-ANSWER:
-
-39. En los diagramas de clases de UML, lque diferencia existe entre una relaci6n de agregaci6n y una relaci6n de composici6n?
-a) No existe ninguna diferencia: los terminos se usan indistintamente para definir el mismo concepto en el que una clase esta fuertemente ligada a otra clase.
-b) La agregaci6n es un tipo de relaci6n que indica que una clase es "parte de" otra clase. La composicion es una forma de agregaci6n donde la relaci6n de propiedad entre las partes y el todo es mas fuerte que en la agregaci6n.
-c) La agregaci6n es un tipo de relaci6n muy particular en la que una clase es instanciada, mientras que la composici6n permite asociar objetos que colaboran entre sf pero que son independientes.
-d) La composici6n es un mecanismo que se utiliza para orquestar las diferentes clases que aparecen en los diagramas UML, mientras que la agregaci6n es un mecanismo utilizado para mostrar la herencia entre clases.
-ANSWER:
-
-40. Según el estandar UML disenado por Booch, Jacobson y Rumbaugh:
-a) la visibilidad de los atributos de una clase se puede representar en cuatro niveles: public, protected, private y package.
-b) la visibilidad de los atributos de una clase se puede representar en tres niveles: public, static y private.
-c) el nivel de visibilidad protected en un atributo se representa precediendolo con el sfmbolo -
-d) el nivel de visibilidad protected en un atributo se representa precediendolo con el sfmbolo +
-ANSWER:
-
-41. En lenguaje orientado a objetos, lc6mo se denomina la propiedad por la que un mismo mensaje puede originar comportamientos diferentes al ser recibido por objetos diferentes?
-a) Persistencia.
-b) Polimorfismo.
-c) Herencia.
-d) Reutilizaci6n.
-ANSWER:
-
-42. De los siguientes tipos de diagrama, ¿cual es un diagrama UML estructural?
-a) Diagrama de despliegue (deployment diagram).
-b) Diagrama de estados (state diagram).
-c) Diagrama de actividades (activity diagram).
-d) Diagrama de descomposicion de sistemas (system decomposition diagram).
-ANSWER:
-
-43. lCual NO es una extension utilizada para empaquetar aplicaciones o modulos Java EE?
-a) JAR.
-b) PAR.
-c) EAR.
-d) WAR.
-ANSWER:
-
-44. El servidor de aplicaciones de codigo abierto desarrollado por la Apache Software Foundation se denomina:
-a) Jetty
-b) Tomcat
-c) Geronimo
-d) JBoss
-ANSWER:
-
-45. Senale la respuesta correcta en relacion a la tecnologia de desarrollo JSF:
-a) JSF no esta soportada en el desarrollo Java EE, ya que hacen uso de backing beans.
-b) La especificacion de JSF 2.2 viene descrita en la JSR-344.
-c) La especificacion JFS 2.2 es incompatible con HTMLS.
-d) El USO de JSF impide el USO de taglibs en las paginas JSP.
-ANSWER:
-
-46. Senale cual de las siguientes respuestas se corresponde con una implementacion de la especificacion de JSF (Java Server Faces):
-a) Arquillian.
-b) AJAX.
-c) Mojarra.
-d) Tuxedo.
-ANSWER:
-
-47. El motor de JavaScript desarrollado en Java por Oracle, integrado con el JDK version 8 se llama:
-a) Rhino.
-b) Nashorn.
-c) Bootstrap.
-d) Backbone JS.
-ANSWER:
-
-48. lCual de las siguientes afirmaciones sobre Entity Framework (EF) es correcta?
-a) Es un plugin de Visual Studio que permite realizar una conversion del modelo entidad relacion al modelo relacional.
-b) Es una plataforma que permite a los desarrolladores gestionar el acceso a base de dates a traves de codigo SQL.
-c) Es la tecnologfa que se emplea dentro del paradigma ASP.NET MVC de desarrollo de aplicaciones web para el modelado de clases y acceso a dates.
-d) Es la tecnologfa que se emplea dentro del paradigma ASP.NET MVC de desarrollo de aplicaciones web para el disefio de cases de uso.
-ANSWER:
-
-49. Senale cual de los siguientes lenguajes es un lenguaje de programacion incluido en la plataforma .NET:
-a) Visual J++
-b) C@
-c) Visual Java#
-d) Visual C*
-ANSWER:
-
-50. Como se denomina al conjunto de tecnologias Microsoft que permiten coordinar el trabajo de un equipo para finalizar un producto software:
-a) SVN.
-b) Team Foundation Server.
-c) Mercurial.
-d) ClearCase.
-ANSWER:
-
-51. En ASP.NET MVC lCual de los siguientes es un nombre de controlador valido?
-a) Servicios.
-b) ServiciosController.
-c) ServiciosActionlistener.
-d) Cualquiera de los tres es valido. Basta con que este en la carpeta controllers.
-ANSWER:
-
-52. Indique cual de los siguientes componentes se emplea para indicar la localizacion de un servicio web en WSDL 2.0:
-a) port
-b) interface
-c) service
-d) endpoint
-ANSWER:
-
-53. lCual de las siguientes afirmaciones sobre el proyecto XAMPP es CORRECTA?
-a) Las ultimas versiones estan disponibles para iOS y Android.
-b) La version para Windows contiene SQLite como motor de base de dates por defecto.
-c) Incluye PHP y Python como interpretes de lenguajes de scripts.
-d) La X del nombre significa que esta disponible para diferentes sistemas operatives: Windows, GNU/Linux, Solaris y Mac OS .
-ANSWER:
-
-54. ¿Cuál de los siguientes NO es un framework Javascript?
-a) AngularJS.
-b) Webix.
-c) jQuery.
-d) Symfony.
-ANSWER:
-
-55. En el ambito tecnico es habitual mencionar el codigo i18N, la que se refiere?
-a) Es una librerfa en Java que permite realizar operaciones de entrada salida.
-b) Dicho codigo es un sinonimo de Internacionalizacion.
-c) Es un termino empleado en las aplicaciones web que garantizan la alta disponibilidad.
-d) Es un acronimo de Internet of ThiNgs.
-ANSWER:
-
-56. Senale la respuesta FALSA relativa a SQuaRE (Software Product Quality Requirements and Evaluation):
-a) Permite la evaluaci6n de la calidad del software.
-b) Su certificaci6n es complementaria a ISO/IEC 15504-SPICE.
-c) Asf se conoce a las normas de la familia ISO/IEC 25000.
-d) Es un framework de programacion de requisites software.
-ANSWER:
-
-57. El modelo CMMI v1.3 en su representaci6n continua establece:
-a) 5 niveles de madurez que son: Inicial, Gestionado, Definido, Gestionado cualitativamente yen Optimizaci6n.
-b) 4 niveles de capacidad que son: Incompleto, Realizado, Gestionado y Definido.
-c) 4 niveles de madurez que son: Inicial, Realizado, Gestionado yen Optimizaci6n.
-d) 5 niveles de capacidad que son: Incompleto, Gestionado, Definido, Gestionado cualitativamente yen Optimizaci6n.
-ANSWER:
-
-58. La WCAG 2.0 contempla varias pautas que se agrupan en principios, que son:
-a) Organizado, simple, limpio y robusto.
-b) Perceptible, estructurado y robusto.
-c) Abierto, accesible y robusto.
-d) Perceptible, operable, comprensible y robusto.
-ANSWER:
-
-59. ¿Cuál de las siguientes herramientas NO esta orientada a Big data?
-a) Hadoop
-b) Cordova
-c) Cassandra
-d) Chukwa
-ANSWER:
-
-60. ¿Cuál de los siguientes algoritmos se emplea en mineria de datos?
-a) Algoritmo de Dijkstra.
-b) Algoritmo de Prim.
-c) Algoritmo de k-means.
-d) Algoritmo de Kruskal.
-ANSWER:
-
-Preguntas de reserva
-1. ¿Cuál de las siguientes NO es considerada como una metodologia agil de desarrollo software?
-a) SCRUM.
-b) SSADM.
-c) DSDM.
-d) Crystal.
-ANSWER:
-
-2. Indique cual de los siguientes es un estandar en la especificaci6n de requisitos software:
-a) IEEE 830-1998 b) IEEE 1284
-c) ANSI SQL-92 d) Standard ECMA-262
-ANSWER:
-
-3. Señale cual de las siguientes respuestas se corresponde con una herramienta que esta especialmente diseiiada para la ejecuci6n de pruebas de carga:
-a) Wireshark
-b) Watir
-c) SapUI
-d) SOASTA
-Symfony.
-ANSWER:
-
-BLOQUE IV
-1. ¿Qué modelo de seguridad utiliza por defecto SNMPv3?
-a) LTPA (Lightweight Third-Party Authentication).
-b) CredSSP (Credential Security Support Provider).
-c) USM (User-based Security Model).
-d) CMS (Credential Manager Service).
-ANSWER: 
-
-2. La tecnologia correspondiente a la tercera generación (3G) de telefonia móvil es:
-a) GPRS
-b) CDMA
-c) UMTS
-d) GSM
-ANSWER: 
-
-3. Señale el producto de Microsoft que permite supervisar servicios, dispositivos y operaciones de varios equipos desde una sola consola:
-a) System Center Operations Manager.
-b) System Center Configuration Manager.
-c) System Center Service Manager.
-d) System Center Virtual Machine Manager.
-ANSWER:
-
-4. El comando, de sistemas operativos tipo Unix, denominado sudo permite:
-a) Mostrar las tareas en un modo jerarquico.
-b) Ejecutar sentencias con los privilegios de cualquier usuario.
-c) Ejecutar un apagado/reinicio remoto de la maquina.
-d) Mostrar la lista de las particiones montadas en el sistema.
-ANSWER:
-
-5. El algoritmo que se utiliza en programaci6n compartir un recurso sin conflictos es el:
-a) Algoritmo de Dekker.
-b) Algoritmo de Dijkstra.
-c) Algoritmo del reloj.
-d) Algoritmo de Bellman-Ford.
-ANSWER:
-
-6. Tanto Windows como Linux dispone de variables de entorno para almacenar informaci6n del sistema o del usuario. Existe una variable que permite ejecutar programas directamente, sin necesidad de especificar la ubicaci6n de dichos programas. ,Que variable permite esto?
-a) HOME
-b) COMSPEC
-c) PROMPT
-d) PATH
-ANSWER:
-
-7. Indique cuál de los siguientes NO es un comando Unix para el control de procesos:
-a) ps
-b) nice
-c) kill
-d) mv
-ANSWER:
-
-8. En Unix el comando pwd es usado para:
-a) Introducir la contrasena al sistema.
-b) Saber cual es directorio donde se esta situado.
-c) Cambiar nuestra contrasena.
-d) Saber cual es nuestra impresora asignada.
-ANSWER:
-
-9. El lenguaje SQL, que permite el acceso a Sistemas Gestores de Base de Datos, se encuentra definido en el estandar ISO/IEC:
-a) 7095
-b) 9075
-c) 7590
-d) 9057
-ANSWER:
-
-10. En el ámbito de las bases de datos Oracle, ANALYZE:
-a) Recopila estadfsticas acerca de los objetos del esquema usados por el optimizador.
-b) Es una herramienta de la base de datos con la que se realiza el analisis del modelo de datos.
-c) Es una herramienta de la base de datos con la que se realiza el diseno del modelo de datos.
-d) Es una vista ordinaria.
-ANSWER:
-
-11. Según el estandar IEEE 1219 para el mantenimiento del software, un cambio de tecnología pertenecería a un tipo de mantenimiento:
-a) Preventivo.
-b) Correctivo.
-c) Perfectivo.
-d) Adaptativo.
-ANSWER:
-
-12. ¿Cuál de los siguientes procesos asegura que los componentes (de un servicio, sistema o producto) que constituyen su configuración se identifican, se mantienen, tienen una línea base y sus cambios están controlados?
-a) Gestión del Conocimiento.
-b) Gestión de Incidentes.
-c) Gestión del Cambio.
-d) Gestión de Activos y Configuración del Servicio.
-ANSWER:
-
-13. Adecuar un sistema desarrollado en Python 2.x a Python 3.x, o un complemento de Firefox 6.x a Firefox 10 seria un mantenimiento:
-a) Preventivo.
-b) Adaptativo.
-c) Preventivo.
-d) Evolutivo.
-ANSWER:
-
-14. La utilidad desarrollada inicialmente para escribir datos a dispositivos de entrada/salida secuenciales, presente en los sistemas operativos UNIX es:
-a) tar
-b) gzip
-c) rsync
-d) stdio
-ANSWER:
-
-15. Señale la manera correcta de comentar una linea de c6digo en un job JCL:
-a) /*
-b) //*
-c) #
-d) //
-ANSWER:
-
-16. En UNIX, por debajo del directorio raíz se encuentran otros directorios importantes tales como:
-a) /etc: contiene la mayorfa de los programas ejecutables esenciales del sistema.
-b) /bin: contiene diferentes ficheros de configuraci6n del sistema.
-c) /home: aloja en diferentes subdirectorios los ficheros de dispositivos que permiten a los procesos comunicarse con los dispositivos perifericos.
-d) /usr: aloja en una serie de subdirectories diferentes programas de usuario y ficheros de configuraci6n del sistema.
-ANSWER:
-
-17. ¿En qué consiste la tecnica de benchmarking?
-a) Medida de aislamiento de un sistema.
-b) Comparaci6n del rendimiento de sistemas.
-c) Reproducci6n del comportamiento del sistema mediante metodos analfticos.
-d) Aproximaci6n te6rica al throughput de un sistema.
-ANSWER:
-
-18. Hadoop es un proyecto de:
-a) IBM.
-b) Microsoft.
-c) Apache.
-d) Facebook.
-ANSWER:
-
-19. Existen diversas alternativas para almacenar información, ¿cuál de las siguientes emplea el protocolo iSCSI?
-a) Archivo.
-b) SAN.
-c) DAS.
-d) RAID 1.
-ANSWER:
-
-20. Si hablamos de restringir que hosts pueden acceder a una determinada LUN en una cabina de almacenamiento, lde que estamos hablando?
-a) LUNing.
-b) LUN zoning.
-c) LUN masking.
-d) LUN netting.
-ANSWER:
-
-21. Un cable de conexi6n directa (DAC) de tipo twinax permite las siguientes velocidades:
-a) 1Gbps a 10Gbps.
-b) 1Gbps.
-c) 100Gbps.
-d) 10Gbps a 100Gbps.
-ANSWER:
-
-22. ¿Cuál de los siguientes terminos NO forma parte de la clasificaci6n de los satelites segun su 6rbita?
-a) GEO
-b) LEO
-c) HEO
-d) TEO
-ANSWER:
-
-23. ¿Qué grupo de trabajo dentro del IEEE se encarga del estandar WPAN (Wireless Personal Area Network)?
-a) IEEE 802.15
-b) IEEE 802.2
-c) IEEE 802.3
-d) IEEE 802.19
-ANSWER:
-
-24. Señale la especificaci6n del IEEE para Ethernet 10GBASE-T:
-a) IEEE 802.3am
-b) IEEE 802.3an
-c) IEEE 802.3ap
-d) IEEE 802.3aq
-ANSWER:
-
-25. Bluetooth LE son las siglas de:
-a) Bluetooth Low Energy.
-b) Bluetooth Large Enhanced.
-c) Bluetooth Long Evolution.
-d) Bluetooth Less Effort.
-ANSWER:
-
-26. Queremos segmentar la red a la que pertenece la direcci6n 192. 168. 18. 2/24 creando al menos 5 subredes de puedan albergar unos 20- 25 hosts cada una. iCual seria la mascara de subred necesaria?
-a) 255.255.255.192
-b) 255.255.255.224
-c) 255.255.255.240
-d) 255.255.255.248
-ANSWER:
-
-27. iCual de los siguientes elementos NO forma parte de una PDU de un Trap SNMP, segun la RFC 1157?
-a) Time-stamp
-b) Generic-Trap
-c) Vendor-Trap
-d) Specific-Trap
-ANSWER:
-
-28. El puerto UDP que usa en general SNMP para el gestor es el:
-a) 162
-b) 160
-c) 100
-d) 161
-ANSWER:
-
-29. El campo de la cabecera TCP (RFC 793) que indica el tamano de ventana (Window) tiene una longitud de:
-a) 8 bits.
-b) 16 bits.
-c) 24 bits.
-d) 32 bits.
-ANSWER:
-
-30. El acr6nimo ping significa:
-a) Packet Internet Groper.
-b) Packet Internet Group.
-c) Packet ICMP Group.
-d) Packet Internal Gate.
-ANSWER:
-
-31. El puerto utilizado por BOOTP y DHCP para escuchar y recibir mensajes de solicitud de los clientes es el:
-a) Puerto UDP 65.
-b) Puerto UDP 67.
-c) Puerto UDP 76.
-d) Puerto UDP 56.
-ANSWER:
-
-32. ¿Cuál de las siguientes afirmaciones sobre el protocolo de encaminamiento RIP es verdadera?
-a) El protocolo RIP es el sucesor natural de OSPF y dispone de un conjunto mas rico de funciones.
-b) RIP responde a las siglas Routing Internet Protocol.
-c) RIPng se rige por la RFC 2080.
-d) RIP realiza un encaminamiento estatico.
-ANSWER:
-
-33. De los siguientes softwares de virtualizaci6n, icual NO corresponde a un Hipervisor de tipo 1 (nativo o bare metal):
-a) ESXi
-b) XenServer
-c) VirtualBox
-d) Hyper-V
-ANSWER:
-
-34. En un paquete MPLS, un valor "1" en el campo de la cabecera "Label" significa:
-a) Implicit NULL Label
-b) IPv4 Explicit NULL Label
-c) IPv6 Explicit NULL Label
-d) Router Alert Label
-ANSWER:
-
-35. El campo label de la cabecera del protocolo MPLS ocupa:
-a) 20 bits.
-b) 20 bytes.
-c) 32 bits.
-d) 32 bytes.
-ANSWER:
-
-36. ¿Cuál de los siguientes servicios o aplicaciones tiene unos requisitos de QoS mayores con respecto al retardo?
-a) Correo electr6nico.
-b) Videoconferencia.
-c) Transferencia de archivos.
-d) Acceso a web.
-ANSWER:
-
-37. ¿Cuál de las siguientes afirmaciones es INCORRECTA cuando nos referimos a la tecnologia NFC?
-a) Trabaja en una banda que no requiere licencia para su uso.
-b) Es una tecnologfa inalambrica.
-c) Permite alcances de hasta 10 metros.
-d) Su funcionamiento se basa en los campos electromagneticos.
-ANSWER:
-
-38. OAKLEY es:
-a) Un protocolo de telefonfa m6vil.
-b) Un algoritmo de encaminamiento.
-c) Un protocolo de establecimiento de claves propuesto para IPSec.
-d) Una aplicaci6n para configurar dispositivos m6viles.
-ANSWER:
-
-39. En el campo de la seguridad informática, ic6mo se conoce al equipo de personas que se encarga de defender el sistema de informaci6n frente a los atacantes?
-a) Equipo rojo.
-b) Equipo azul.
-c) Equipo blanco.
-d) Equipo amarillo.
-ANSWER:
-
-40. ¿Según la RFC 5246, ¿que capas que componen el protocolo TLS 1.2?
-a) TLS Record Protocol y TLS Register Protocol.
-b) TLS Record Protocol y TLS Handshake Protocol.
-c) TLS Register Protocol y TLS Handoff Protocol.
-d) TLS Initializing Protocol y TLS Ending Protocol.
-ANSWER:
-
-41. ¿Cuál de los siguientes es un ataque de denegación de servicio basado en la fragmentaci6n IP?
-a) Smurf.
-b) Ransomware.
-c) Snork.
-d) TearDrop.
-ANSWER:
-
-42. Diffie-Hellman es:
-a) Una infraestructura de clave publica (PKI).
-b) Una funcion resumen.
-c) Un mecanismo de intercambio de claves criptograficas.
-d) Un algoritmo ordenacion.
-ANSWER:
-
-43. En seguridad informatica, senale de los siguientes un ejemplo de ataque pasivo:
-a) Ataques mediante analisis de trafico.
-b) Enmascaramiento.
-c) Ataque de denegacion de servicio.
-d) Spoofing del correo electr6nico.
-ANSWER:
-
-44. Senale la opci6n INCORRECTA en relaci6n con los sistemas federados y single sign-on:
-a) SAML solo describe dos roles de federacion: el agente y el de usuario.
-b) SAML solo describe dos roles de federacion: el de proveedor del servicio y el de proveedor de identidad.
-c) OpenID es una API de autorizacion entre aplicaciones.
-d) 'OpenID Connect' corresponde a la union de dos tecnologfas divergentes en sus inicios: OpenID y Oauth.
-ANSWER:
-
-45. Las implementaciones SSH vienen acompanadas de una herramienta que permite la generaci6n de claves de usuario. En el caso concreto de openssh es:
-a) ssh-keygen
-b) sshkeysign
-c) ssh-pass
-d) ssh-keysign
-ANSWER:
-
-46. El sistema distribuido de creaci6n y control de versiones web que permite a los usuarios remotos crear, mover o eliminar archivos, propiedades de archivos, directorios y propiedades de directorios en el servidor a traves de una conexi6n HTTP es:
-a) Web Version Control.
-b) WebSVN.
-c) Web System Controller.
-d) WebDAV.
-ANSWER:
-
-47. Indique de los siguientes el lenguaje estandarizado para la consulta de grafos RDF en Internet:
-a) PL SQL. b) SQL Chart.
-c) SPARQL. d) RDF SQL.
-ANSWER:
-
-48. El dominio .cat, segun la IANA, es un dominio:
-a) de Internet patrocinado (sponsored TLD o Stld).
-b) de nivel superior geografico o dominio de nivel superior de codigo de pafs (country code top-level domain o ccTLD).
-c) de nivel superior no patrocinados (Utld).
-d) de nivel superior de infraestructura.
-ANSWER:
-
-49. OWL (Ontology Web Language) ofrece tres variantes o sublenguajes con diferente nivel de potencia expresiva, indicar el FALSO:
-a) OWL Lite
-b) OWLDL
-c) OWL Full
-d) OWLMD
-ANSWER:
-
-50. ¿Cuál de las siguientes tecnologías xDSL puede ser asimétrica?
-a) VDSL b) HDSL
-c) SHDSL d) SDSL
-ANSWER:
-
-51. La frecuencia a la que trabaja ADSL2+ para conseguir mayores velocidades es:
-a) 1,2 Mhz b) 2,2 Mhz
-c) 3,2 Mhz d) 4,2 Mhz
-ANSWER:
-
-52. La recomendaci6n G.726 versa sobre:
-a) Modulaci6n diferencial adaptativa par impulsos codificados a 40, 32, 24, 16 kbit/s.
-b) Codificaci6n de voz a 8 kbit/s mediante predicci6n lineal.
-c) Redes 6pticas pasivas con capacidad de 40 Gigabits.
-d) Equipo de multiplicacion de circuitos de paquetes.
-ANSWER:
-
-53. ¿Cuáles son los requisitos de ancho de banda para una conexión de voz sobre IP que utilice un codec G.711?
-a) Menas de 1 Mbps. b) Entre 1 Mbps y 10 Mbps.
-c) Entre 10 Mbps y 100 Mbps. d) Mas de 100 Mbps.
-ANSWER:
-
-54. Las bandas de telefonia móvil utilizadas en Espana para GSM son:
-a) 2400 y 5000 Mhz
-b) 900 y 1800 Mhz
-c) 850 y 1900 Mhz
-d) 900 y 2100 Mhz
-ANSWER:
-
-55. Señale la tecnología inalámbrica funciona en la banda de los 13.56 MHz y su tasa de transferencia puede alcanzar los 424 Kbits/s:
-a) NFC
-b) Bluetooth 2.0
-c) USB 3.0
-d) Wifi n
-ANSWER:
-
-56. El estándar General Packet Radio System, o GPRS, es también conocido como:
-a) TACS
-b) UMTS-2G
-c) GSM-IP
-d) GGSN
-ANSWER:
-
-57. Señale que estandar wifi del IEEE esta especialmente diseñado para uso en redes que permitan la comunicación en entornos entre vehículos:
-a) 802.llQay
-b) 802.lln
-c) 802.llp
-d) 802.llve
-ANSWER:
-
-58. Senale la respuesta INCORRECTA en relaci6n a la tecnologia Bluetooth:
-a) Su estandar corresponde con el IEEE 802.15.1.
-b) Su ultima especificacion es la 3.0.
-c) Permite la conexion de dispositivos en la franja de frecuencia de 2.4 Ghz.
-d) Una piconet es una red que interconecta nodos utilizando Bluetooth.
-ANSWER:
-
-59. ¿Cual de las siguientes especificaciones NO esta asociada a la tecnologia HomePlug?
-a) IEEE 1901
-b) HomePlug AV 2.0
-c) HomePlug AV 1.1
-d) IEEE 802.5
-ANSWER:
-
-60. El estandar utilizado para la transmisi6n de la senal de television en la red de television digital terrestre es:
-a) PAL B/G
-b) DVB-T
-c) DVB-C
-d) DOCSIS 3.0
-ANSWER:
-
-1. [RESERVA] Si hablamos de modulaci6n PSK, estamos hablando de:
-a) Phase Shift Keying.
-b)
-c) Phormat Shift Keying.
-d) Phase Soft Keying. Phase Shift King.
-ANSWER:
-
-2. [RESERVA] En el contexto del Domain Name System (DNS), ,Que es el CNAME?
-a) Es un registro que enlaza un nombre de alias con un nombre de dominio canonico.
-b) Es un registro que proporciona informacion de texto a fuentes externas a tu dominio.
-c) Es un registro que dirige el correo electronico de un dominio a los servidores que alojan las cuentas de usuario del dominio.
-d) Es un registro que enlaza un dominio con la direccion IP ffsica.
-ANSWER:
-
-3. [RESERVA] Cuales son las siglas (en ingles) del protocolo de separaci6n localizador/identificador propuesto por CISCO como mecanismo de transici6n IPV4-IPV6:
-a) RISP
-b) OSP
-c) LISP
-d) NISP
-ANSWER:
+ANSWER: B

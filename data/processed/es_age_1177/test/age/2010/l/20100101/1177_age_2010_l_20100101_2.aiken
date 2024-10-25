@@ -1,363 +1,371 @@
 BLOQUE III
-1 lCcm quii 11omhre se ccmoce a las llerrami,mtas CASE adaptnbles que permiten la definid6n de rmestra propia tec11ic21 Ile modelado, pudiendo defimr rmestms propios e!ementos y simbolos de las 11otadm1es a uU!izar?
-a) Upper ( ,ASE (U CASE),
-b)
-MetaCASt,
-c) CAST ((omputer,Aided Software l e,,ting),
-d) !PSE (I11tteqmted Programming Support Environment).
-ANSWER:
+1 ¿Con qué nombre se conoce a las herramientas CASE adaptables que permiten la definición de nuestra propia técnica de modelado, pudiendo definir nuestros propios elementos y simbolos de las 11otadm1es a uU!izar?
+a) Upper CASE (U-CASE),
+b) MetaCASE.
+c) CAST (Computer-Aided Software Testing),
+d) IPSE (Integrated Programming Support Environment).
+ANSWER: B
 
-2 ¿Cuál de los siguientes modeios de ciclo de vida tiene en cuenta el 2:u13!isis de riesgo,?
-u) Extreme Programming.  b)  Modelo de Cfc!o de vtda en cascada.
-c)  El rnodefo de cido de vida en V,  d)  Modelo de ddo de vida en espiraL
-ANSWER:
+2 ¿Cuál de los siguientes modelos de ciclo de vida tiene en cuenta el análisis de riesgo?
+a) Extreme Programming.
+b) Modelo de ciclo de vida en cascada.
+c) El modelo de ciclo de vida en V.
+d) Modelo de ciclo de vida en espiral.
+ANSWER: D
 
-3 lCuiil de las siguientes 1110 es ,ma  metodologia agil de desarrollo?
-u) Pmorarnarn\n extrema (XP).  h)  SCRUM.
-
+3 ¿Cuál de las siguientes NO es una metodología ágil de desarrollo?
+a) Programación extrema (XP).
+b) SCRUM.
 c) RDS.
-d)
-Feature,Driven Development (FDD).
+d) Feature-Driven Development (FDD).
+ANSWER: C
+
+4 ¿A qué perfil pertenece el Responsable de Calidad según Métrica 3?
+a) Perfil Jefe de Proyecto.
+b) Perfil Consultor.
+c) Perfil Analista.
+d) Perfil Programador.
+ANSWER: A
+
+5 ¿Qué técnica es utilizada para identificar las dependencias en un proyecto?
+a) Los diagramas de Gantt.
+b) Program Evaluation & Review Technique.
+c) Estructura de Descomposición de Trabajo (WBS).
+d) Diagrama de Extrapolación.
+ANSWER: B
+
+6 Senale cuál de las siguientes NO es una técnica de la Interfaz Gestión de proyectos de la metodología Métrica v3:
+a) Diagrama de Extrapolación.
+c) Catalogación.
+b) Staffing Size.
+d) Diagrama de Gantt
+ANSWER: C
+
+7 ¿Cuál de las siguientes tareas NO se engloba, en Métrica v3, en la actividad de Planificación de la Interfaz de Gestión de Proyectos?
+a) Selección de la Estrategia de Desarrollo.
+b) Establecimiento del Calendrio de Hitos y Entregas.
+c) Planificación Detallada de Actividades y Recursos Necesarios.
+d) Planificación Detallada de las pruebas del Sistema.
+ANSWER: D
+
+8 ¿Qué tipo de diagrama permite estimar la desviación de un proyecto?
+a) Diagrama de Extrapolación.
+b) PERT.
+c) CPM.
+d) El histograma de recursos.
+ANSWER: A
+
+9 ¿En qué se diferencian JRP y JAD?
+a) El JRP es una técnica de estimación y el JAD es una técnica de captura de requisitos.
+b) El JRP es un módulo de ciclo de vida utilizado en el desarrollo de aplicaciones mientras que el JAD es una IDE (Integrated Development Environment) empleada en JAVA.
+c) Son distintas herramientas que permiten la gestión de la configuración del software.
+d) Son sesiones de trabajos que permiten identificar los requisitos de un sistema. Se diferencian en los perfiles que actúan en ellas y en los resultados de éstas,
+ANSWER: D
+
+10 ¿Qué tipo de diagrama permite representar un algoritmo?
+a) Diagrama de Clases.
+b) Flujoqrama de Sistemas.
+c) Flujograma de Programas.
+d) Diaqrama de Flujo de Datos.
+ANSWER: C
+
+11 ¿Cuál de los siguientes elementos NO pertenece al Modelo Conceptual de Procesos?
+a) El Diccionario de Datos.
+b) El Diagrama de Flujo de Datos.
+c) Las especificaciones de procesos.
+d) El Diagrama Entidad Relación.
+ANSWER: D
+
+12 [ANULADA] ¿Cuál de las siguientes operaciones pertenecen al lenguaje de definición de Datos (DDL) en SQL?
+a) GRANT.
+b) UPDATE.
+c) DELETE.
+d) TRUNCATE.
 ANSWER:
 
-4 lA que perfil pertenece el Responsable de Calida<! segu11 Metrica l?
-u)
-Perfil Jefe de Provecto.
-b)
-Perf!l Consultor.
-d
-Perf,I Anal,sta.
-d)
-Perfil Programildor,
-ANSWER:
-
-5 lQue tec:nica es 11tilizada para odentificar las depemlencias en u11 proyedo?
-a) Los ci12,i1 ames de Gartt  b)  Program Evaluation & Review Technique,
-c)  Estrucwra de [Jescomposic16n de Trabajo (WB.',),  d)  D,agrama de Extrapolacion.
-ANSWER:
-
-Senale c"al de lassiguientes 1110 es 1u1a tecnka de la I11terfaz Gestiim de proyectos de la metodologia Metrica v3:
-a) Diagrama de Extrapolaci6n.
-c)  Cata!ogackm.
-b)
-Staffing Size,
-d) Diagrarna de Gantt
-ANSWER:
-
-7 ¿Cuál de las siguientes tareas NO se engloba, en Metrica v3, Em la actividad de l'laniflcaciiin de la Interfaz de
-Gestiiin de Proyectos?
-,11  Se!ecd6n de la Estrategia de Desarrollo.
-b) Estabreomicntu del (alendario de Hito,, y Entregas,
-c) Planificeci6n Detallada de Actividades y Recursos Necesarios.
-dj  Planificacion Detallada de las pruebas del Sistema,
-ANSWER:
-
-8 Que tipo de diagrama permit., estimar la des11iaci(m de tm proy.,cto?
-11)  Diagrama de Extrapolaoon.  b)  PERT.
-c) CPM.  ii)  El histograma de recursos.
-ANSWER:
-
-9 ¿En que se diferendan JRP y JAD?
-u)  E! JRP es una tecntca de estimaci6n y el .JAD es una t.ecnica de captura de requisitos.
-h)    El ]RP es uo modulo de uclo de vrda uti11zado en el dcsarrollo de aplicacroncs mientras que el JAD es una IDE (Integrated Development Environment) empleada en JAVA.
-c) Son dlstlntas herramientas que permiten !a gestf()n de ia conflguraci6n del software.
-d) Son sesiones de trabajos que perrniten identificar los requisitos de un sisterna, Se diferencian en los perfiles que actUan en eHas yen !os result.ados de 2stas,
-ANSWER:
-
-10 lQue tipo de diagrama permite representar "" algoritmo?
-a) D,agrama de Oases.  b)
-c)  Flujograma de Programas.  ti)
-ANSWER:
-
-F!ujoqrarna de Slstemas. Diaqrama de Hujo de Datos.
-
-11 lCual de los sigui.,ntes eleme11tos NO pertenece al Modelo Conceptual de Procesos?
-11)
-El Diccionario de Datos.
-h)
-El Diagrarna de Flujo de Datos.
-c)
-Las especificaciones de procesos.
-ti)
-El Diagrama Entidad Relaci6n.
-ANSWER:
-
-12 lCual de las siguientes operacion.,5 pertenece al lenguaje de definidon de <Jatos (llDL) enSQL?
-a) GRANT.  /,)  UPDATE.
-c)  DELETE.  ti)  TRUNCATE.
-ANSWER:
-
-13 Para que """ tabla este en sevunda forma normal, lcual delossiguientes requisitos 1\10 es necesario?
-a) Que la tabla contenga una clave prirnarta.
+13 [ANULADA] Para que una tabla esté en segunda forma normal, ¿cuál de los siguientes requisitos NO es necesario?
+a) Que la tabla contenga una clave primaria.
 b) Que la clave primaria no contenga atributos nulos.
-c) Que los atributos que no forrnan parte de ninguna clave no dependan de forma completa de la dave principaL
-,()  Que no exista ninguna dependencia funcional transit.iva entre los atributos que no son clave.
+c) Que los atributos que no forman parte de ninguna clave no dependan de forma completa de la clave principaL.
+d) Que no exista ninguna dependencia funcional transitiva entre los atributos que no son clave.
 ANSWER:
 
-14 lQue se intenta conseguir al apliear tec11kas de denormalizad6n en algunas tablas en ,ma base de datos que fue normaHzada previamente?
-u)  0ptim1zar el desempefio de la base de datos.  Ir)  Evrtar datos redundantes.
-c}  Proteger la integridad de los datos.  ti)  Faolitar el uso al usuano final.
-ANSWER:
+14 ¿Qué se intenta conseguir al apliecr técnicas de denormalizad6n en algunas tablas en una base de datos que fue normalizada previamente?
+a) Optimizar el desempeño de la base de datos.
+b) Evitar datos redundantes.
+c) Proteger la integridad de los datos.
+d) Facilitar el uso al usuario final.
+ANSWER: A
 
-15 lCuiil delossiguientes algoritmos de ordenaci6n es inestal!le?
-a) Merge sort  I,)  Bubble sort
-c)  Quicksort  ti)  Insertion sort
-ANSWER:
+15 ¿Cuál de los siguientes algoritmos de ordenación es inestable?
+a) Merge sort
+b) Bubble sort
+c) Quicksort
+d) Insertion sort
+ANSWER: C
 
-16 lCual de las siguientes estructuras de datos requiere mas capacidad de almacenamiento de informaci6n?
-a) Arbo! Binario.  b)  Lista.
-c)  Lista enlazada.  d)  Arbol-8.
-ANSWER:
+16 ¿Cuál de las siguientes estructuras de datos requiere más capacidad de almacenamiento de información?
+a) Árbol Binario.
+b) Lista.
+c) Lista enlazada.
+d) Árbol-B.
+ANSWER: D
 
-17 Dado ,m grafo G = (V, E) donde V es el conj,mto de vertices v E es conj,mto de aristas, Diremos que es hamiltoniano si:
-a) Todos las vertices tienen el rnismo grado.
-bJ  Contiene un c,clo que pasa por todos los vertices del grafo.
+17 Dado un grafo G = (V, E) donde V es el conjunto de vértices y E es conjunto de aristas. Diremos que es hamiltoniano si:
+a) Todos los vértices tienen el mismo grado.
+b) Contiene un ciclo que pasa por todos los vértices del grafo.
 c) No contiene ciclos.
 d) Es conexo y contiene un ciclo.
-ANSWER:
+ANSWER: B
 
-18 ;.Que prnel>as tienen como objetivo comprol!ar que los cambios sobre un componente de ,m sistema lie informad6n no introducen 11.m comportamiento no deseado o errores adkiona!es en otros componentes no modifkados?
-a) Pruebas Unitarias.  b)  Pruebas del Sistema.
-c)  Pruebas de lrnplantacion.  ti)  Pruebas de Regresi6n.
-ANSWER:
+18 ¿Qué pruebas tienen como objetivo comprobar que los cambios sobre un componente de un sistema de información no introducen un comportamiento no deseado o errores adicionales en otros componentes no modificados?
+a) Pruebas Unitarias.
+b) Pruebas del Sistema.
+c) Pruebas de Implantación.
+d) Pruebas de Regresión.
+ANSWER: D
 
-19 Segiin la metodologia METRICA 3, en la tarea "Preparacion del Entorno de Constmcdon" partidpan:
-a) Proqramadores, Tecnicos de Sistemas, TE:cnicos de 0pf raci6n, Administradores de Bases de Datos,
-b) TE:cnicos de S!stemas, TEicnlcos de 0peraci6n, Administradores de Bases de Datos.
-c) Equipo del Proyecto, Tecnicos cle Sistemas, E.quipo de 0perac:16n, Administradores de Bases de Datos.
+19 Según la metodología MÉTRICA 3, en la tarea "Preparación del Entorno de Construcción" participan:
+a) Proqramadores, Técnicos de Sistemas, Técnicos de 0peración, Administradores de Bases de Datos,
+b) Técnicos de Sistemas, Técnicos de Operación, Administradores de Bases de Datos.
+c) Equipo del Proyecto, Técnicos de Sistemas, Equipo de Operación, Administradores de Bases de Datos.
 d) Programadores, Equipo de Arquitectura, Administradores de Bases de Datos.
-ANSWER:
+ANSWER: C
 
-20 lCual de los siguientes metocios es um, prneba de oaja bla11ca?
-a) Prueba de la tabla ortogonal.  b)  Partici6n equivalente.
-c)  Metodos de prueba basados en grafos.  d)  Prueba del cam,no basico.
-ANSWER:
+20 ¿Cuál de los siguientes métodos es una prueba de caja blanca?
+a) Prueba de la tabla ortogonal.
+b) Partición equivalente.
+c) Métodos de prueba basados en grafos.
+d) Prueba del camino básico.
+ANSWER: D
 
-21 lCual de los siguientes productos resultan del proceso de Construcdon del 51 seg,111 Metrica 113?
-a) Catalogo de Requisitos.  bi  Especificaciones de Construcci6n del Sistema.
-c)  Modelo de Datos.  d)  Manuales de Usuario.
-ANSWER:
+21 ¿Cuál de los siguientes productos resultan del proceso de Construcción del SI según Métrica v3?
+a) Catálogo de Requisitos.
+b) Especificaciones de Construcción del Sistema.
+c) Modelo de Datos.
+d) Manuales de Usuario.
+ANSWER: D
 
-22 lCual de las siguientes herramientas permite realizar pruel!as de regresion en el software?
-a) ]meter.
+22 ¿Cual de las siguientes herramientas permite realizar pruel!as de regresion en el software?
+a) Jmeter.
 b) Snort.
 c) Atria.
 d) JBPM.
-ANSWER:
+ANSWER: A
 
-23 lEn. cuat de !as siguiente pruebns ir.rtervtene ei usuar!o final?
-a) Pruebas de Caja Blanca.  b)  Pruebas de Aceptaci6n.
-c)  Pruebas de Implantaci6n.  d)  Pruebas de Regresi6n.
-ANSWER:
+23 ¿En cuál de las siguientes pruebas interviene el usuario final?
+a) Pruebas de Caja Blanca.
+b) Pruebas de Aceptación.
+c) Pruebas de Implantación.
+d) Pruebas de Regresión.
+ANSWER: B
 
-24 Cuando un sistema se debe modificar para que contemple un cambio en las necesidades de los usuarios, se hare referencia al:
-a) Mantenimiento Correctlvo.
+24 Cuando un sistema se debe modificar para que contemple un cambio en las necesidades de los usuarios, se hace referencia al:
+a) Mantenimiento Correctivo.
 b) Mantenimiento Evolutivo.
 c) Mantenimiento Adaptativo.
 d) Mantenfmiento Perfectivo.
-ANSWER:
+ANSWER: B
 
-25. Para las pruebas de caja tr:ansparen:te, sefialc0 ,a opciOn correcta:
-a) Aseguran la ausencia abso!uta de defectos.
-b) Comprueban la ftmcionaiidad de un program2L
-c) Se rea!izan ignorando compietarnente !a estructura interna de un programa.
-d) Exigen el conocirn[ento de la estructura interna del programa:.
-ANSWER:
+25 Para las pruebas de caja transparente, señale la opción correcta:
+a) Aseguran la ausencia absoluta de defectos.
+b) Comprueban la funcionalidad de un programa.
+c) Se realizan ignorando completamente la estructura interna de un programa.
+d) Exigen el conocimiento de la estructura interna del programa.
+ANSWER: D
 
-26 Elija la opcion que correspom:le a ,ma reladi>n entre casos de usos en UMl:
-a)  Extiende.
-b)  Referencia.
-c)  Hereda.
-d)  Vincula.
-ANSWER:
+26 Elija la opción que corresponde a la relación entre casos de usos en UML:
+a) Extiende.
+b) Referencia.
+c) Hereda.
+d) Vincula.
+ANSWER: A
 
-27 lCt!iil de las siguil!ntes es 1.ma camcler,stica propia del Proceso Unificado de Desarrollo de Software (PUDS}?
-a) Se basa en las Historias de U!;uario.  b)  Proceso centrado en !a arquitectura.
-d  f:':xiste una continua refactori1aci(m de! c6digo.  d)  No conternpla la gesti6n del proyecto.
-ANSWER:
+27 ¿Cuál de las siguientes es una característica propia del Proceso Unificado de Desarrollo de Software (PUDS)?
+a) Se basa en las Historias de Usuario.
+b) Proceso centrado en la arquitectura.
+c) Existe una continua refactorización del código.
+d) No contempla la gestión del proyecto.
+ANSWER: B
 
-28 lCm\l de los siguientes diagramas 1110 aparece recogido en UMl?
-a) Di·agrair,a de secuencia,  h)  Diagrarna de actividades.
-c)  Diagrarna de estaclos.  ti)  Diagrama de perspectiva.
-ANSWER:
+28 ¿Cuál de los siguientes diagramas NO aparece recogido en UML?
+a) Diagrama de secuencia.
+b) Diagrama de actividades.
+c) Diagrama de estados.
+d) Diagrama de perspectiva.
+ANSWER: D
 
-29 lCru:3! de los siguientes t8rminos NO es Ulna tecnk:a empleada en fviineria de Datos?
-u)  i_as redes neumnales_  b)  Look and Find"
-('j  Los ilrboles de decisiOn,  d)  Las redes bayesianas.
-ANSWER:
+29 ¿Cuál de los siguientes términos NO es una técnica empleada en Minería de Datos?
+a) Las redes neuronales.
+b) Look and Find.
+c) Los árboles de decisión.
+d) Las redes bayesianas.
+ANSWER: B
 
-30 .:Que tipo de nodo de control se emplea en un diagrama de actividades de UMl 2.0 para in<iicar la sincronizadon de vario:s flujos concu11rentes en m10 s6Uo?
+30 ¿Qué tipo de nodo de control se emplea en un diagrama de actividades de UML 2.0 para indicar la sincronización de varios flujos concurrentes en uno sólo?
 a) División (fork node).
-b) Bifurcad6n (dedsion node).
+b) Bifurcación (decision node).
 c) Fusión (merge node).
-d) Unión (join node),
-ANSWER:
+d) Unión (join node).
+ANSWER: D
 
-31 lCual de los siguientes mecanismos NO se utiliza para definir 1111 perfil (profile) e11 UML 2.ll?
-11) ; sre1eot1pos.
-b) Valores etiqu,,tados.
-c) Artefact,,s.
-d) RestricLioces.
-ANSWER:
+31 ¿Cuál de los siguientes mecanismos NO se utiliza para definir un perfil (profile) en UML 2.0?
+a) Estereotipos.
+b) Valores etiquetados.
+c) Artefactos.
+d) Restricciones.
+ANSWER: C
 
-32 !.lentro de los productos que engloba la plataforma .NET, las fundones de"" servidor web las realiza:
-a)
-11S (Internet Informabon Services).
-b)
-Apache.
-cJ
-.Jucmla.
-d)
-fVl1crosoft Web Server
-ANSWER:
+32 Dentro de los productos que engloba la plataforma .NET, las funciones de servidor web las realiza:
+a) IIS (Internet Information Services).
+b) Apache.
+c) Joomla.
+d) Microsoft Web Server.
+ANSWER: A
 
-33 ,:Para que siNe la palabra clave "static" en Java?
-a) lndica que aque! rnCtodo o variable que precede es constante, es decir, no puede modificarse.
-b) Perrnite indlcar que el m2todo o !a vartable al que precede pe1tenece a la dase en lugar de a! objeto.
-c) Indlca que la variable o metodo a! que precede no puede ser accedida desde otras dases,
-d) Indica que la variable o rnCtodo a! que precede no puede ser accedida desde !a dase a la que pertenece.
-ANSWER:
+33 ¿Para qué sirve la palabra clave "static" en Java?
+a) Indica que aquel método o variable que precede es constante, es decir, no puede modificarse.
+b) Permite indicar que el método o la variable al que precede pertenece a la clase en lugar de al objeto.
+c) Indica que la variable o método al que precede no puede ser accedida desde otras clases.
+d) Indica que la variable o rnCtodo a! que precede no puede ser accedida desde la dase a la que pertenece.
+ANSWER: B
 
-34 lQt1e librer,a de .l\iet permite aplicar el patron "Inversion of Control"?
-a) Unity /\pplicat1on Block.
-b) cogg,ng Application Block,
-c) Ajax Control rootkit
-d) Cached XML Data Mapper
-ANSWER:
+34 ¿Qué librería de .Net permite aplicar el patrón "Inversion of Control"?
+a) Unity Application Block.
+b) Logging Application Block.
+c) Ajax Control Toolkit.
+d) Cached XML Data Mapper.
+ANSWER: A
 
-35 lCual de las siguientes aplicacion partes !lei SOAP sieve para expresar instandas de tipos de datos definidos por la
-a)  SOAP envelope,
-c)  SOAP encc,dinq rules.
+35 ¿Cuál de las siguientes partes del SOAP sirve para expresar instancias de tipos de datos definidos por la aplicación?
+a) SOAP envelope.
 b) SOAP binding framework.
-d)  SOAP RPC representation.
-ANSWER:
+c) SOAP encodinq rules.
+d) SOAP RPC representation.
+ANSWER: C
 
-36 Endique out.I Ile las siguientes definkicmes se corresponde con Biztallc
-a) Es un servidor que permite gestionar procesos de negocio por medic de adaptadores disefiados al efecto, capacitiindolo para operar difcrentes tipos de software.
-b) Es una !ibrerfa de .NET que penT:ite la comunicao6n por IRC facilitando !a implementaci6n de chats.
-c) Es un servfdor web de .NET especia!mente adaptado para tecnologias m6viles.
-d) Es tm wmponente quc pe1tcn,,ce al Clk de .NEl y que facilita la ejecuci6n de la aplicaci6n.
-ANSWER:
+36 Indique cuál de las siguientes definiciones se corresponde con Biztalk:
+a) Es un servidor que permite gestionar procesos de negocio por medio de adaptadores diseñados al efecto, capacitándolo para operar diferentes tipos de software.
+b) Es una librería de .NET que permite la comunicación por IRC facilitando la implementaci6n de chats.
+c) Es un servidor web de .NET especialmente adaptado para tecnologias móviles.
+d) Es un componente que pertenece al CLR de .NET y que facilita la ejecución de la aplicación.
+ANSWER: A
 
-37 A partir de ASP.IIIEl 2.0, Len que carpeta se guarda el c6di90 comp;ia!lo para controles, compo11e11tes y otro codigo que pueda ser referendado 1,or la aplicacion (los archi11os .dli)'.>
+37 A partir de ASP.NET 2.0, ¿en qué carpeta se guarda el código compilado para controles, componentes y otro código que pueda ser referenciado por la aplicación (los archi11os .dll)?
 a) App Data.
 b) Bin.
 c) App WebReferences.
 d) Compilation.
-ANSWER:
+ANSWER: B
 
-38 La compañía que desarrollo la tecnologia JSP es:
+38 La compañía que desarrolló la tecnología JSP es:
 a) Sun Microsystems.
 b) Microsoft
 c) Google.
 d) IBM.
-ANSWER:
+ANSWER: A
 
-39 El ni11el S de! Modelo de Capacidad y Madurez (CMMI), nivel optimizado, tiene como objetivo:
-a) Gestionar cuantitativamente los procesos para lograr los objetivos de calldad y ejecuciOn del proceso establecido par el proyecto.
-b) El entendlrniento cuantitativo de los procesos de la organizaci6n.
-c) Mejorar la ca!idad de los procesos de !a organizaci6n, en base a un entendimiento de las causas comunes de varfaci6n.
-d) Proporcionar datos de !a ejecuciOn de procesos,
-ANSWER:
+39 El nivel 5 del Modelo de Capacidad y Madurez (CMMI), nivel optimizado, tiene como objetivo:
+a) Gestionar cuantitativamente los procesos para lograr los objetivos de calidad y ejecución del proceso establecido par el proyecto.
+b) El entendimiento cuantitativo de los procesos de la organización.
+c) Mejorar la calidad de los procesos de la organización, en base a un entendimiento de las causas comunes de variación.
+d) Proporcionar datos de la ejecución de procesos,
+ANSWER: C
 
-40 ¿Cual delas siguientes tecnologias de programaci6n se ejecuta en el servidor?
+40 ¿Cuál de las siguientes tecnologías de programación se ejecuta en el servidor?
 a) JavaScript.
-b) tspplets.
-c) JSP,
-d) VisualScnpt.
-ANSWER:
+b) Applets.
+c) JSP.
+d) VisualScript.
+ANSWER: C
 
-41 Seilale cuiil de estas es ,ma de las ftmciones del Grupo de Aseguramlento de la Calida<! (segun Metrica 113):
-a) Deflnir los recursos que se necesitan para instalar el sistema.
-b) Identificar las posib!es desviadones en !os est2lndares ap!icados1 asi como en !os requisitos y procedimientos especificactos.
-c) Notificar a los desarroHadores de las anomalias encontradas en ei proceso de desarml!o.
-d) Documentar !as pruebas segim el estandar ISO 9000:2000.
-ANSWER:
+41 Señale cuál de éstas es una de las funciones del Grupo de Aseguramiento de la Calidad (según Métrica v3):
+a) Definir los recursos que se necesitan para instalar el sistema.
+b) Identificar las posibles desviaciones en los estándares aplicados así como en los requisitos y procedimientos especificados.
+c) Notificar a los desarrolladores de las anomalías encontradas en el proceso de desarrollo.
+d) Documentar las pruebas según el estándar ISO 9000:2000.
+ANSWER: B
 
-42 En el proceso de Analisis de! Sistema de Informadiin (egun Metrica 113), lque acci611 realiza el gmpo de Aseguramiento de la Calidad en relad{m al l'la11 de l'ruebas?
+42 En el proceso de Análisis de Sistema de Información (según Métrica v3), ¿qué acción realiza el grupo de Aseguramiento de la Calidad en relación al Plan de Pruebas?
 a) Define su contenido.
-b) Revisa \os resultados de pruebas e,iecutadas en este proceso.
-c) Revisa la existencia de una normativa para la gesti6n de los resultados de las pruebas1 que permit.a ccnstatar que se han
-reaiizado y descubrir las dfferencias entre los resu!tados esperados y las obtenidos.
-d) Coordina su rea!izad6n para que cumplan 02n su definiciOn los criterios establecidos en el plan de aseguramiento de calidad.
-ANSWER:
+b) Revisa los resultados de pruebas ejecutadas en este proceso.
+c) Revisa la existencia de una normativa para la gestión de los resultados de las pruebas que permita constatar que se han realizado y descubrir las diferencias entre los resultados esperados y las obtenidos.
+d) Coordina su realización para que cumplan con su definición los criterios establecidos en el plan de aseguramiento de calidad.
+ANSWER: C
 
-43 tCual de los siguientes 1110 es "" factor de calidad e11 el modelo de McCall?
-a) Accesibilidad.  l,j  Correcn6n.
-c)  Reusabilidad.  d)  Interoperabilidad.
-ANSWER:
+43 ¿Cual de los siguientes NO es un factor de calidad en el el modelo de McCall?
+a) Accesibilidad.
+b) Corrección.
+c) Reusabilidad.
+d) Interoperabilidad.
+ANSWER: A
 
-44 En el contexto de herramie11tas de e11al11adcm de la accesi!llli<lad web, seiiale la herramienta INCORRECT!\.:
-11)  WAVE.  I,)  TrueCrypt.
-c) CSS Analyser,  ii)  TAW.
-ANSWER:
+44 En el contexto de herramientas de evaluación de la accesibilidad web, señale la herramienta INCORRECTA:
+a) WAVE.
+b) TrueCrypt.
+c) CSS Analyser,
+d) TAW.
+ANSWER: B
 
-45 Entre las temkas mascomimmente usadas en Datamining, lcuill delassi911ientes dasiflca cada registro en 1111 conjunto de <Jatos basado en ,ma combinadiin de las dases de los k registros miis similares a el en "" conjunto de clatos histiiricos (donde k 2'1)?
-a)  Redes neuronales artificialcs.
-b) Arboles de decision.
-c)  Metoclo del vecino mas cerc:ano.
-d) Regla de lnduccion.
-ANSWER:
+45 Entre las técnicas más comúnmente usadas en Datamining, ¿cuál de las siguientes clasifica cada registro en un conjunto de datos basado en una combinación de las clases de los k registros más similares a él en un conjunto de datos históricos (donde k ≥ 1)?
+a) Redes neuronales artificiales.
+b) Árboles de decisión.
+c) Método del vecino más cercano.
+d) Regla de inducción.
+ANSWER: C
 
-46 ¿Qué categoría de sistema OLA!' esta basado u orienrado a la web?
+46 ¿Qué categoría de sistema OLAP está basado u orientado a la web?
 a) SOLAP.
-b) DOI.AP.
+b) DOLAP.
 c) WOLAP.
-d)  RTOLAP.
-ANSWER:
+d) RTOLAP.
+ANSWER: C
 
-47 Entre las tecnicas usadas en mineria siguientes es uno de sus modelos?
-a) Redcs de Shelman.
-,)  Redes ART.
+47 Entre las técnicas usadas en minería de datos, se encuentran las redes neuronales artificiales. ¿Cuál de los siguientes es uno de sus modelos?
+a) Redes de Shelman.
+b) Redes ART.
+c) Redes de Coperfield.
+d) Máquina de Gauss.
+ANSWER: C
 
-cle datos, se encuentran las redes neuronales artiflciales. LCual de los
+48 ¿En qué tipo de técnica de minería de datos se utiliza el algoritmo k-medoids?
+a) Predicción.
+b) Categorización.
+c) Clustering.
+d) Estadísticas.
+ANSWER: C
 
-!,)  Redes de Coperfieid.
-ii)  Maquina de Gauss.
-ANSWER:
+49 Sobre un Data Warehouse con información de las ventas nacionales de una compañía, se quiere consultar los datos pero a nivel de ventas provinciales. ¿Qué operación debemos realizar en el almacén de datos para obtener dichos datos?
+a) Drill-Down.
+b) Slice & Dice.
+c) Roll-Up.
+d) Drill-Through.
+ANSWER: A
 
-48 c:En que tip<> !le tecnica de mineria de <Jatos se utiliza el algoritmo l<-medoids?
-a) Predicci6n.  /,)  Categorizaci6n.
-c)  Clustering.  d)  Estad(sticas.
-ANSWER:
+50 ¿En qué año se ha producido la última revisión del estándar ANSI SQL?
+a) 1992.
+b) 2003.
+c) 2006.
+d) 2008.
+ANSWER: D
 
-49 Sohre "" Data Warehouse con informad<'m de las 11entas m,cionales de ,ma compailia, se quiere consuitar ios datos pero a ni11el de ventas pro11inciales. i.Que operaciiin clebemos realizar en el almace11 de datos para obtener didms datos?
-a) Drill-Down.  b)  Slice & Dice.
-c)  Roll-Up.  d)  Drill·Through.
-ANSWER:
+1 [RESERVA] Cuando describimos o identificamos requisitos de una aplicación con términos c6mo eficiencia, accesibilidad, usabilidad o precio deseados, estamos hablando de requisitos:
+a) Funcionales.
+b) No funcionales.
+c) Web.
+d) No son requisitos,
+ANSWER: B
 
-50 ,En que aiio se ha producido la ultima revision <lei estandar 11.11151 SQL?
-11)
-1992.
-b)
-2003.
-c)
-2006.
-d)
-2008.
-ANSWER:
+2 [RESERVA] En los diagramas estructurados (Nassi-Schneiderman):
+a) Las flechas de unión son verticales.
+b) No hay flechas de unión.
+c) Cada posible acción se representa con una figura diferente.
+d) Las cajas no son contiguas.
+ANSWER: B
 
-1 [RESERVA] Cuando desc:ribimos o ident:mcamos requisitos de una aplicaci6n con terminos c6mo eficienda, accesibilidad, usabilidad o precio deseados, estamos hablzmdo de requisito.:
-a) Funclonales,
-b) No funcionales,
-c) Web,
-d) No son requ,s,tos,
-
-2 [RESERVA] En los diagramas estmcturados (Nassi-Schneiderman}:
-a) t_as flechas de uni6n son vertica!es.
-/,J  No hay flechas de urn6n,
-c) Cada posible acci6n se reprcsenta con una figura cliferente.
-d) Las ca_jas no son contiguas.
-ANSWER:
-
-3 [RESERVA] La norma UNI' 139802:2003 establece requisitos de accesibilidad del software de los ordenadores para las persona:s con di5capacidad, agrupados en:
-a) 7 categodas: Tedado, dispositivos apuntadores, pantalla, sonido y multimedia, notificaci6n a! usuario, informaci6n de
-objetos, tiempo.
-b) 8 categorias: Tec!ado1 dispositivos apuntadores, panta!la, sonido y rnu!timedla, not!ficad6n al usuario, informaci6n de
-objetos, tiempo docurnentaci0n.
-c) 11 categorias: Princtpios generales, tec!ado, dispositivos apuntadores1 pantaHa, sonido, multimedia, notfficaci6n al usuario, inforrnaci6n de objetos, tiempo, documentaci6n1 otros,
-d) 10 categorf;1s: Princfplos generales, teda(i01 dlspositivos apuntadores, pantaHa1 sonido y multimedia, notifkaci6n al usuario, informaci0n de objetos, tiempo, documentackm1 otros,
-ANSWER:
-
-
-
+3 [RESERVA] La norma UNE 139802:2003 establece requisitos de accesibilidad del software de los ordenadores para las personas con discapacidad, agrupados en:
+a) 7 categorías: Teclado, dispositivos apuntadores, pantalla, sonido y multimedia, notificación al usuario, información de objetos, tiempo.
+b) 8 categorías: Teclado, dispositivos apuntadores, pantalla, sonido y multimedia, notificación al usuario, información de objetos, tiempo, documentación.
+c) 11 categorías: Principios generales, teclado, dispositivos apuntadores, pantalla, sonido, multimedia, notificación al usuario, información de objetos, tiempo, documentación, otros.
+d) 10 categorías: Principios generales, teclado, dispositivos apuntadores, pantalla, sonido y multimedia, notificación al usuario, información de objetos, tiempo, documentación, otros.
+ANSWER: D

@@ -1,362 +1,371 @@
-BLOQUEIV
-1 um, de ias f!lndones primordiales !lei Sistema Operativo es:
-a) Gestionar fa cornun!caci6n con !as servidores cle correo.
-b) Proporcionar las herramientas ofimilticas bi3sicas.
-c) Facilitar, al menos, un navegador,
-d) Crear !a inte1faz de! hardware con el usuario.
-ANSWER:
+BLOQUE IV
+1 Una de las funciones primordiales del Sistema Operativo es:
+a) Gestionar la comunicación con los servidores de correo.
+b) Proporcionar las herramientas ofimáticas básicas.
+c) Facilitar, al menos, un navegador.
+d) Crear la interfaz del hardware con el usuario.
+ANSWER: D
 
 2 El mantenimiento que tiene por objeto adelantarse al deterioro de los equipos como consecuenda del uso y del paso del tiempo se denomi11a:
-a) Mantenimiento adaptatrvo.  h)  Mantenimiento preventivo.
-c) Mantenimiento correctivo.  d)  Mantenimiento evo!utivo.
-ANSWER:
+a) Mantenimiento adaptatrvo.
+b) Mantenimiento preventivo.
+c) Mantenimiento correctivo.
+d) Mantenimiento evolutivo.
+ANSWER: B
 
-3 lCual de los siguientes niveles de aislamiento previene de ios problemas de lecturas sucias y lect1.1ras no repetibles, pero 1110 evita las lecturas fantasmas?
-a) Read Comm,ted (lecturd confirrnada).  f;)  Serialrzable.
-c)  Read uncommitL>d (!ectura no confirrnada).  d)  Repeatable read (lectura repetible),
-ANSWER:
+3 ¿Cuál de los siguientes niveles de aislamiento previene de los problemas de lecturas sucias y lecturas no repetibles, pero NO evita las lecturas fantasmas?
+a) Read Commited (lectura confirmada).
+b) Serializable.
+c) Read uncommited (lectura no confirmada).
+d) Repeatable read (lectura repetible),
+ANSWER: D
 
-4 LCual de los siguientes metodos usallos en la planificacion de ia capacidad de los sistemas informilticos es de
-tipo analitico?
-a) Benchmarking.  b)  Teoria de colas,
-c)  Simu!aci6n.  d)  Regfas basadas en la experiencia,
-ANSWER:
+4 ¿Cuál de los siguientes métodos usados en la planificación de la capacidad de los sistemas informáticos es de tipo analítico?
+a) Benchmarking.
+b) Teoría de colas.
+c) Simulación.
+d) Reglas basadas en la experiencia.
+ANSWER: B
 
-5 Dentro de las arqi,itecturas de almacenamiento, las siglas inglesas SSA respom!en a,
-a) Serialized Storage Area.  b)  Serial Storage Area,
-c)  Sena! Storage Architecture,  d)  Senal,zed Storage Architecture.
-ANSWER:
+5 Dentro de las arquitecturas de almacenamiento, las siglas inglesas SSA responden a:
+a) Serialized Storage Area.
+b) Serial Storage Area.
+c) Serial Storage Architecture.
+d) Serialized Storage Architecture.
+ANSWER: C
 
-6 Sei\ale cual de las siguientes opciones 1110 es ,.ma herramienta de benchmarldng de aplicaciones web:
-a) JMeter  b)  OpenSTA.
-c)  ApacheBench.  dJ  ]Unit.
-ANSWER:
+6 Señale cuál de las siguientes opciones NO es una herramienta de benchmarking de aplicaciones web:
+a) JMeter
+b) OpenSTA.
+c) ApacheBench.
+d) JUnit.
+ANSWER: D
 
-7 lCual de las siguientes afirmaciones sobre iSCS! es FALSA?:
-a) Es un estandar de la IETF,  I,)  Utiliza por defecto los puertos TCP 860 y TCP 3260,
-c)  Necesita una arquitectura de cableac!o independiente,  d)  Usa CHAP coma prindpa! metodo de autenticad6n.
-ANSWER:
+7 ¿Cuál de las siguientes afirmaciones sobre iSCSI es FALSA?:
+a) Es un estándar de la IETF.
+b) Utiliza por defecto los puertos TCP 860 y TCP 3260.
+c) Necesita una arquitectura de cableado independiente.
+d) Usa CHAP coma principal método de autenticación.
+ANSWER: C
 
-8 la longitud de omJa alcededor de la cuai un mellio de transmisi6n basado er, film, optica se dice que esta trabajando en 3a ventana es:
-a)  750 nm,
-C)  1310 ilffl
-b)
-820 nm,
-d)  1550 nm,
-ANSWER:
+8 La longitud de onda alrededor de la cual un medio de transmisión basado en fibra óptica se dice que está trabajando en 3ª ventana es:
+a) 750 nm.
+b) 820 nm.
+c) 1310 nm.
+d) 1550 nm.
+ANSWER: D
 
-9 !Jna copia de seguridall que i"':luye todos los archivos creados o modificados desde la liltima copia completa, sin marcarlos indi11idualme11te como copiados, es ,ma copia de seguridad:
-a) Acumulativa,  b)  Intermedia,
-c) Incremental.  d)  Diferencial.
-ANSWER:
+9 Una copia de seguridad que incluye todos los archivos creados o modificados desde la última copia completa, sin marcarlos individualmente como copiados, es una copia de seguridad:
+a) Acumulativa.
+b) Intermedia.
+c) Incremental.
+d) Diferencial.
+ANSWER: D
 
-10 la velocidad Ile transferenda base (ll<) deun disco 8111-ray es de:
-£l)
-54 Mbits/s.
-b)
-4,5 MBytes/s.
-,
-36 MBytes/s,
-d)
-9 MBytes/s.
-ANSWER:
+10 La velocidad de transferencia base (1x) de un disco Blue-ray es de:
+a) 54 Mbits/s.
+b) 4,5 MBytes/s.
+c) 36 MBytes/s,
+d) 9 MBytes/s.
+ANSWER: B
 
-11
+11 La tecnología de transmisión 100Base-Fx:
+a) Utiliza cable UTP de categoría 5 o superior.
+b) Tiene una longitud máxima de 2 kilómetros para transmisiones half-duplex y 400 metros para transmisiones full-duplex.
+c) Es compatible con la tecnologia 10Base-FL.
+d) Puede usar conectores MIC.
+ANSWER: D
 
+12 um, desventaja de ia topoiogia fisica de estrelia es que:
+a) Requiere más cable que la topología de bus.
+b) Se requieren terminadores.
+c) Es dificil conectar nuevos nodos a la red.
+d) Toda la red se caería si hubiera una ruptura en el cable principal.
+ANSWER: A
 
-
-12
-
-
-
-
-131
-
-
-
-
-14
-
-La tecm:,!ogia de transmisi6n 100ilase-fl<:
-a) Utiliza cable UTP de categoria 5 o superior.
-b) Tiene una longitud maxima de 2 kil6metros para transmisiones half-duplex y 400 metros para transmisiones full-duplex.
-c) Es compatible con la tecnologia lOBase·FL.
-d) Puede usar conectores MIC
-ANSWER:
-
-um, desventaja de ia topoiogia fisica de estrelia es que:
-a)  Requiere mas cable que la topologia de bus.
-h)  Se requieren termfnadores,
-c}  Es dificil conectar nuevos nodos a la red,
-d) Toda la red se caerfa si hublera una ruptura en el cab!E"; principal.
-ANSWER:
-
-El cable IJTI' (Un5hielded Twisted Pair):
-11)  No es tan susceptible a las interfcrencids electromagneticas como el cable STP (Shielded Twisted Pair).
-IJ)  Es mas barato y faeil de man:pular quc el STP.
-c) Tiene una l3mfna externa de a!urninio o de cobre trenzado alrededor de! conjunto de pares.
+13 El cable UTP (Unshielded Twisted Pair):
+a) No es tan susceptible a las interferencias electromagnéticas como el cable STP (Shielded Twisted Pair).
+b) Es más barato y fácil de manipular que el STP.
+c) Tiene una lámina externa de aluminio o de cobre trenzado alrededor del conjunto de pares.
 d) Tiene una pantalla protectora para cada par de hilos.
-ANSWER:
+ANSWER: B
 
-Cual de los siguientes estados NO corresponde con nin911no de los estados en los que puede estar ,m puerto de
-,m dispositivo de interconexi611, seg(m lo definido en el esta11da1 ll02.1D para el protocolo Spanning Tree:
-a) Blocking (Bioqueando).  /,)  Listening (Escuchando),
-c) Learning (Aprendiendo).  ti)  Receiving (Recibienclo),
-ANSWER:
+14 Cuál de los siguientes estados NO corresponde con ninguno de los estados en los que puede estar un puerto de un dispositivo de interconexión, según lo definido en el estándar 802.1D para el protocolo Spanning Tree:
+a) Blocking (Bioqueando).
+b) Listening (Escuchando).
+c) Learning (Aprendiendo).
+d) Receiving (Recibiendo).
+ANSWER: D
 
-15 lCual de los siguientes protocolos de enmtamiento NO soporta VlSM (Variable length Subnet Mask - Mascara
-de subred de tamano variable)?:
-a) R!Pv2.
-c)  !GRP
-/J)
-tf)
-EIGRP.
-OSPF.
-ANSWER:
+15 ¿Cuál de los siguientes protocolos de enrutamiento NO soporta VLSM (Variable Length Subnet Mask - Máscara de subred de tamaño variable)?:
+a) RIPv2.
+b) EIGRP.
+c) IGRP.
+d) OSPF.
+ANSWER: C
 
-16 Un agente SNMI' envia traps a 11n sistema administrador de red a traves dei puerto:
-a) 162..  b)  126.
-c)  161.  d)  25.
-ANSWER:
+16 Un agente SNMP envía traps a un sistema administrador de red a través del puerto:
+a) 162.
+b) 126.
+c) 161.
+d) 25.
+ANSWER: A
 
-17 Una red administrada a traves de SNMP contempla tres componentes daves. .:Cua! de los siguientes NO es ,mo de elios'?
-a) Dispositivos adrninistraclos.
-c) Sistemas adm'1nistradores de red (NMS).
+17 Una red administrada a través de SNMP contempla tres componentes claves. ¿Cuál de los siguientes NO es uno de ellos?
+a) Dispositivos administrados.
 b) Agentes.
-d) Registro de ubicacion de visitantes (VLR).
-ANSWER:
+c) Sistemas administradores de red (NMS).
+d) Registro de ubicación de visitantes (VLR).
+ANSWER: D
 
-18 Respecto al protoco!o ligero de acceso a directorios {LDAPv3):
-a) No admite TCP/IP.  /JJ  No es un protocolo abierto.
-c) No requiere X.500.  ti)  Es depenrJiente del proveedor.
-ANSWER:
+18 Respecto al protocolo ligero de acceso a directorios (LDAPv3):
+a) No admite TCP/IP.
+b) No es un protocolo abierto.
+c) No requiere X.500.
+d) Es dependiente del proveedor.
+ANSWER: C
 
-19 Dada la red 193.168.14.192/27, podemos decir qlle:
-a) La direcci6n de broadcast de dicha red es la 193.168.14.255.
-b) Adrnite ha:sta 30 hosts, sin contar las direcciones de identificaci6n de red y de broadcast
+19 Dada la red 193.168.14.192/27, podemos decir que:
+a) La dirección de broadcast de dicha red es la 193.168.14.255.
+b) Admite hasta 30 hosts, sin contar las direcciones de identificación de red y de broadcast.
 c) La direccion IP 193.168.14.225 pertenece a dicha red.
 d) Es una red con direccionamiento privado.
-ANSWER:
+ANSWER: B
 
-20 ,cuai de los siguientes 1'110 se e11c1.1entra entre ios elementos de 1111 Sistema de Gestion de Red?
-a) Gestor DHCP.  b)  MIB.
-c)  Agente-SMAP,  ti)  NMS.
-ANSWER:
+20 ¿Cuál de los siguientes NO se encuentra entre los elementos de un Sistema de Gestión de Red?
+a) Gestor DHCP.
+b) MIB.
+c) Agente-SMAP,
+d) NMS.
+ANSWER: A
 
-21 Entre las diferencias en los protocolos !l'v4 e Il'v6 NO se encuentra que:
-a) La implementaci6n del multicast es obliqatoria en !Pv6 y opcional en !Pv4.
-b) El MTU minima de !Pv6 es de 1280 bytes frente a los 576 bytes de !Pv4.
-c) El encabezado de !Pv6 sin opciones es menor que el encabezado de !Pv4 sin opciones.
-ti)  El soporte para !Psec es obligatorio en !Pv6 y opcional en !Pv4.
-ANSWER:
+21 Entre las diferencias en los protocolos IPv4 e IPv6 NO se encuentra que:
+a) La implementación del multicast es obliqatoria en IPv6 y opcional en IPv4.
+b) El MTU mínimo de IPv6 es de 1280 bytes frente a los 576 bytes de IPv4.
+c) El encabezado de IPv6 sin opciones es menor que el encabezado de IPv4 sin opciones.
+d) El soporte para IPsec es obligatorio en IPv6 y opcional en IPv4.
+ANSWER: C
 
-22 Un socket necesita, para estar correcti'lme11te definido, especificar el protocoio cle nivel de:
-a) Enlace,  b)  Red.
-c)  Transporte.  d)  Aplicaci6n.
-ANSWER:
+22 Un socket necesita, para estar correctamente definido, especificar el protocolo de nivel de:
+a) Enlace.
+b) Red.
+c) Transporte.
+d) Aplicación.
+ANSWER: C
 
-23 El protocoio FTP es 1111 protocolo:
-a) Segura.
-c)  De nivel de enlace.
-b) Orientado a conexi6n,
-d)  Disenado para gestionar sefializaci6n de red.
-ANSWER:
+23 El protocolo FTP es un protocolo:
+a) Seguro.
+c) De nivel de enlace.
+b) Orientado a conexión.
+d) Diseñado para gestionar serialización de red.
+ANSWER: B
 
-24 i.Cuimtas direcdones IP serim asignadas en la subred 134.141.0.0/24, sin considerar las direcdones de sul>red
-I/ de broadcast?
-ll)  256.  /J)  254.
-d  -  M.
-ANSWER:
+24 ¿Cuántas direcdones IP serán asignadas en la subred 134.141.0.0/24, sin considerar las direcciones de subred y de broadcast?
+a) 256.
+b) 254.
+c) 30.
+d) 64.
+ANSWER: B
 
-25 Hal>lando del modelo OSI lCual de las siguientes parejas 1110 es correcta?
+25 Hablando del modelo OSI ¿Cuál de las siguientes parejas NO es correcta?
 a) Nivel 4 - HDLC.
 b) Nivel 1 - CSMA/CD.
 c) Nivel 3 - X.25.
 d) Nivel 2 - LAPB.
-ANSWER:
+ANSWER: A
 
-26 lCual de las iguientes definiciones explica !le rnejor manera lo que es el throughput de un sistema informiitico?
-a) La cantidad de trabajo (1W ejecutada por unidad de tiempo en un entorno de carga determinado.
-b) Es la mi3xima cantidad de trabajo Util que se puede ejecutar por unidad de tiempo en un entorno de carga determinado,
-c) Es el porcentaje de Uernpo durante e\ cua! dos o mas componentes de! sistema estan uti!\zados sirnu!tii:neamente.
-d)  Es e! porcentaje de tiernpo durante el cual se esta utlHzando un componente del sistema inform3tico.
-ANSWER:
+26 ¿Cuál de las siguientes definiciones explica de mejor manera lo que es el throughput de un sistema informático?
+a) La cantidad de trabajo útil ejecutada por unidad de tiempo en un entorno de carga determinado.
+b) Es la máxima cantidad de trabajo útil que se puede ejecutar por unidad de tiempo en un entorno de carga determinado.
+c) Es el porcentaje de tiempo durante el cual dos o más componentes del sistema están utilizados simultáneamente.
+d) Es el porcentaje de tiempo durante el cual se esta utlizando un componente del sistema informático.
+ANSWER: A
 
-27 Una direccion II' ide11tifiea:
-a) Una conexiOn,
+27 Una dirección IP identifica:
+a) Una conexión.
+b) Una interfaz de tarjeta de red.
 c) Un ordenador.
-h)  Una 1nterfaz de tarjeta de red,
-d) Una aplicaci6n interactiva,
-ANSWER:
+d) Una aplicación interactiva.
+ANSWER: B
 
-21!  El protocolo MPlS (Multiprotocol ta!Je! Switching), le11t1°e que capas de! moclelo OSI oper!I?
-a) Entre la capa fisica y la de enlace de datos,
-/J) Entre la capa de en\ace de datos y la capa de red,
-t) Entre la capa de red y !a capa de transporte.
-d) Entre la capa de transporte y las capas superlores.
-ANSWER:
+28 El protocolo MPLS (Multiprotocol Label Switching), ¿entre qué capas del modelo OSI opera?
+a) Entre la capa física y la de enlace de datos.
+b) Entre la capa de enlace de datos y la capa de red.
+c) Entre la capa de red y la capa de transporte.
+d) Entre la capa de transporte y las capas superiores.
+ANSWER: B
 
-29 Dentro de! nivel AAt !le ATM, AAl2 se carncteriza pen tener:
-a) Retardo constante y tasa de bit variable,  b)  Retardo variable y tasa de bit constante,
-c)  Retarclo variable y tasa de bit ,anable,  d)  Retardo constante y tasa de bit constante,
-ANSWER:
+29 Dentro del nivel AAL de ATM, AAL2 se caracteriza por tener:
+a) Retardo constante y tasa de bit variable.
+b) Retardo variable y tasa de bit constante.
+c) Retardo variable y tasa de bit variable.
+d) Retardo constante y tasa de bit constante.
+ANSWER: A
 
-30 la especificacion PKCS#3 de RSA se reflere a:
-a) El estandar cript'.,grafico RSA,
-c)  El intercambio de c!aves Diffie..·Hellman"
+30 La especificación PKCS#3 de RSA se refiere a:
+a) El estándar criptográfico RSA.
+b) La sintaxis de la información de clave privada.
+c) El intercambio de claves Diffie-Hellman.
+d) La sintaxis del mensaje criptográfico.
+ANSWER: C
 
-31 E<I reladcm a IPSec, sei\ale la opcion UICORRECTA:
-a) Se definiO orfginarfamente en las RFCs 1825 y 1829.
-b) La sintaxis rle la informao6n de clave privada,
-d)  La sintaxis del rnensaje criptografico,
-ANSWER:
+31 En relación a IPSec, señale la opción INCORRECTA:
+a) Se definió originalmente en las RFCs 1825 y 1829.
+b) Tanto AH (Authentication Header) como ESP (Encapsulating Security Payload) proporcionan integridad y autenticación en la comunicación.
+c) En modo transporte con AH no es posible traducir direcciones mediante NAT transversal.
+d) ESP debe implementar obligatoriamente el algoritmo AES-CBC con claves de 128 bits.
+ANSWER: C
 
-/,)  Tanto AH (/\uthent1cat1on HPador) coo,o ESP (focapsulating Security Payload) proporcIonan integridad y autenticaci6n en la comunicaci6n,
-d  En modo transporte con AH no es posibie traducir direcciones rnedlante NAT transversal.
-d) ESP debe irnpiernentar obHqatoriamente el aigoritmo AES-CBC con c!aves de 128 bits.
-ANSWER:
+32 En los sistemas criptográficos híbridos:
+a) Se prescinde del cifrado simétrico.
+b) Se cifra la clave de sesión mediante un cifrado simétrico.
+c) Se cifra la clave de sesión mediante un cifrado asimétrico.
+d) Se omite el uso de certificados digitales, cuando se dispone de plataformas PKL.
+ANSWER: C
 
-32 E11 los sistemas criptogrilflcos hibridos:
-a) Se prescinde del cifrar.10 sirnE:trtco.
-b) Se dfra la clave de sesi6n mediante un cifrado sirnt?trico_
-c) Se cifra la clave de sesiOn mediante un cifrado aslm'trtco.
-d) Se ornite e! uso de certificados digita!es, cuando se dfspone de p/ataformas PKL
-ANSWER:
-
-33 lCmll de losslgule11tes pertiles de XAdES incluye los certificados y listas de revocaci6n (consultas OCSP o CRls) para poder verificar el documento firmado en el f11turo induso si las fuentes eriginales 110 estuvieran disponibles?
-a) XAdES,X
-/J)  XAdES-X-l,
-Ci  XAdES C
-d)  Esta funcionalidad no se soporta en XAdES,
-ANSWER:
+33 ¿Cuál de los siguientes perfiles de XAdES incluye los certificados y listas de revocación (consultas OCSP o CRLs) para poder verificar el documento firmado en el futuro incluso si las fuentes originales no estuvieran disponibles?
+a) XAdES-X.
+b) XAdES-X-L.
+c) XAdES-C.
+d) Esta funcionalidad no se soporta en XAdES.
+ANSWER: B
 
 34 El ataque conoddo como "ARP Spoofing":
-a) Se impide con et uso de conrnutadores (switches) en vez de concentradores (hubs).
-b) Se efectlla en e! nlvel 3 de OSI ya que fa!sifica d!recciones IPs.
-c) Sirve para interceptor trafko en una r'ed de itrea local (LAN), pern no para modificarlo.
-d) Puede irnpedirse medfante DHCP snooping.
+a) Se impide con el uso de conmutadores (switches) en vez de concentradores (hubs).
+b) Se efectúa en el nivel 3 de OSI ya que falsifica direcciones IPs.
+c) Sirve para interceptor tráfico en una red de área local (LAN), pero no para modificarlo.
+d) Puede impedirse mediante DHCP snooping.
+ANSWER: D
+
+35 Un documento firmado digitalmente incluye la huella digital:
+a) De la clave privada del firmante, cifrada con su clave pública,
+b) De la clave pública del firmante, cifrada con su clave privada.
+c) Del documento firmado, cifrada con la clave privada del firrnante.
+d) Del documento firmado, cifrada con la clave privada del firmante.
+ANSWER: C
+
+36 ¿Cuál es el acrónimo del organismo responsalble de definir toda la arquitectura de Internet?
+a) IETF.
+b) IANA.
+c) IAB.
+d) IRTF.
+ANSWER: C
+
+37 Respecto a la Web 2.0 se puecle afirmar que:
+a) Transforma software del web hacia la plataforma de escritorio.
+b) Se trata de una actitud evolutiva, más que una tecnología.
+c) Pretende sustituir a las redes sociales, al manejar usuarios y comunidades.
+d) Encapsula APIs o XML para impedir que las aplicaciones puedan ser manipuladas por otros.
+ANSWER: B
+
+38 La autoridad encargada de la asignación de nombres de dominio de primer nivel genéricos (gTLD) y de códigos de países (ccTLD) únicos en Internet es:
+a) IANA.
+b) NIST.
+c) ICANN.
+d) IETF.
+ANSWER: C
+
+39 [ANULADA] En tecnología xDSL, el equipo encargado de separar las frecuencias entregando el servicio de voz a  la red telefónica tradicional y los datos a la red de datos o a Internet directamente, se denomina:
+a) Splitter.
+b) DSLAM.
+c) Microfiltro.
+d) Modem xDSL.
 ANSWER:
 
-35 Un documento lirmado cligitalmente incluye la hue!la digital:
-a) De la clave privada del firmante, cifrada con su clave pL/blica,
-b) De la clave p1.'.1blica de! firmante, cifrada con su clave privada.
-c) Del clocumento firrnado, cifrada con la dave privada de! firrnante.
-d) Del documento firmado, cifrada con la dave pt'ibfica dei firmante.
-ANSWER:
+40 Existe una variedad de tecnologías xDSl que se caracterizan por:
+a) La infraestructura física que soporta el servicio: par de cobre, fibra óptica u otros medios de transmisión.
+b) El número de canales de alta velocidad disponibles.
+c) Por la compatibilidad, o no, con la transmisión de voz, y la calidad de la misma.
+d) Su simetría/asimetría en los canales de subida y bajada de datos.
+ANSWER: D
 
-36 lCua! es el acr6nimo de! organismo respons!lble de definir toda la arqllitectura <le Internet?
-a) IETF.  h)  !CANN,
-c)  !AR  d)  !RTf,
-ANSWER:
-
-37 Respedo a la Web 2.0 se puecle afirmar q11e:
-a) Transforma software de! web hacia la p!ataforma de escritorio.
-b) Se trata de una actitud evo!utiva, masque una tecnologfa.
-c) Pretende susbtulr a las recles socia!es1 a\ manejar usuados y comunidades.
-d) Encapsula APb o XML per? ;mpedir que las aplicaciones puedan ser manipu\adas por otros,
-ANSWER:
-
-38 La autoriclad encargada de la asignacion <le nombres de dominio de primer nivel genericos (gTLD) y de c6digos de paises (ccTLD) unkos el! Intemet es:
-a) !AN/\,  b)  NIST,
-c)  ICANN,  d)  IETF,
-ANSWER:
-
-39 En temologia xDSl, el equipo encargado <le separar las frecuencias entreg,mdo el servicio de 11oz a  la red
-telefonica tradidornal y los datos a la red de datos o a Internet <lirectamente, se denomina:
-a) Splitter,  b)  DSLAM,
-c)  Microfiltro,  d)  Modem xDSL,
-ANSWER:
-
-40 Existe ,ma variedad de tecnologias xDSl quese caraderizan por:
-a) La infraestructura fisica que soporta el servicio: par de cobre, fibra 6ptica u otros medics de transmisi6n.
-b) El numero de canales de alta velocidad disponibles,
-c) Por la compatibilidad, o no, con la transmisi6n de voz, y la calidad de la misma.
-d) Su simetrialasimetria en los canales de subida y bajada de dates.
-ANSWER:
-
-41 ,cual delas siguientes NO es""" tecnologia xDSL?
+41 ¿Cuál delas siguientes NO es una tecnología xDSL?
 a) VDSL.
 c) HDSL
 b) DDSL
 d) ADSL
-ANSWER:
+ANSWER: B
 
-42 ,cual es el estandar correspondiente al metodo de compresi6n ADPCM (Adaptatlve Differential Pulse Code Modulation) de la voz?
+42 ¿Cuál es el estándar correspondiente al método de compresión ADPCM (Adaptative Differential Pulse Code Modulation) de la voz?
 a) G.711.
 c) G.728.
 b) G.726.
 d) G.729.
-ANSWER:
+ANSWER: B
 
-43 El codec G.729 especificado por la ITU-T para la codificaci6n de 11oz para su uso en sistemas de Voz sobre IP, la que tasas de bit puede operar?
+43 El códec G.729 especificado por la ITU-T para la codificación de voz para su uso en sistemas de Voz sobre IP, ¿a qué tasas de bit puede operar?
 a) A 56 o 64 kbps.
-c) Unicamente a 8 kbps.
 b) A 6.4, 8 o 11.8 kbps,
-d) A 5,3 o 6.4 kbps.
-ANSWER:
+c) Únicamente a 8 kbps.
+d) A 5.3 o 6.4 kbps.
+ANSWER: B
 
 44 La recomendadon para definida en 1996 por la UIT es el:
 a) H.261.
 c) H.221.
 b) H.320.
 d) H.323.
-ANSWER:
+ANSWER: D
 
 45 En el ámbito de las tecnologias de wmunicaciones m<iviles, el orden cronoliigico de protocolos, de mayor a menor antiguedad es:
 a) GSM, UMTS, HSUPA, HSDPA.
+b) GSM, UMTS, HSDPA, HSUPA.
 c) GSM, HSUPA, HSDPA, UMTS.
-b) GSM, UMTS, HSDPA, HSUPA,
-d) UMTS, GSM, HSDPA, HSUPA,
+d) UMTS, GSM, HSDPA, HSUPA.
+ANSWER: B
+
+46 [ANULADA] ¿Qué tipo de modulación usa UMTS HSPDA (High-Speed Downlink Packet Access)?
+a) QPSK.
+b) 16QAM.
+c) 64QAM.
+d) 256QAM.
 ANSWER:
 
-46 ,/.Que tipo de modulaci<in usa UMTS HSPDA (High-Speed Downlink Packet Access)?
-a) QPSK,  b)  16QAM,
-c)  64QAM,  d)  256QAM,
-ANSWER:
+47 El protocolo de acceso de datos para redes de telefonía móvil calificado como generación 3.75 (3.75G) es:
+a) GPRS.
+b) HSDPA.
+c) HSUPA.
+d) UMTS.
+ANSWER: C
 
-47 El protocolo de acceso de datos para redes de telefonia movil calificado como generadon 3.75 (3.75G) es:
-a) GPRS,  b)  HSDPA,
-c)  HSUPA.  d)  UMTS.
-ANSWER:
-
-48 lEn q11e banda de frecuencias y hasta que velocidad fundon:a el estandar 802.Ua?
-a) 2,4 GHz y hasta llMbps,
+48 ¿En qué banda de frecuencias y hasta qué velocidad funciona el estándar 802.11a?
+a) 2,4 GHz y hasta 11Mbps,
 b) 5 GHz y hasta 54Mbps,
 c) 2,4 GHz y hasta 54 Mbps
 d) 5 GHz y hasta 11 Mbps,
-ANSWER:
+ANSWER: B
 
-49 Ile las siguientes opciones, seiiale aq11ella que representa la maxima velociclad a la que 1m dispositi110 inaliimbrico puede enviar datos conforme al estandar IEEE indicado:
-a) 802.lla usando DSSS, a 11 Mbps.
-b) 802.lla usando DSSS, a 54 Mbps.
-c) 802.llb usando OFDM, a 54 Mbps.
-d) 802.llg usando OFDM, a 54 Mbps.
-ANSWER:
+49 De las siguientes opciones, seiiale aq11ella que representa la máxima velociclad a la que 1m dispositi110 inaliimbrico puede enviar datos conforme al estandar IEEE indicado:
+a) 802.11a usando DSSS, a 11 Mbps.
+b) 802.11a usando DSSS, a 54 Mbps.
+c) 802.11b usando OFDM, a 54 Mbps.
+d) 802.11g usando OFDM, a 54 Mbps.
+ANSWER: D
 
-50 Seiiale cual de las siguientes caracteristicas de seguridad esta induida tanto en el estandar WPA2 como en el estandar WEI':
+50 Señale cuál de las siguientes características de seguridad está incluida tanto en el estándar WPA2 como en el estándar WEP:
 a) Intercambio dinámico de claves.
-b) Autenticaci6n 802.lx.
+b) Autenticación 802.lx.
 c) Preshared Keys (PSK).
 d) Encriptación AES.
-ANSWER:
+ANSWER: C
 
-1 [RESERVA] ¿Cuál delas siguientes sentencias JCL (Job Control Language) marca el final de un trabajo?
-a) II
-b) II JOB
-c) ll*
-d) llOO
-ANSWER:
+1 [RESERVA] ¿Cuál de las siguientes sentencias JCL (Job Control Language) marca el final de un trabajo?
+a) //
+b) // JOB
+c) //*
+d) // DD
+ANSWER: A
 
-2 [RESERVA] Un sistema compuesto por 15 usuarios intercambian informaci6n cifrada mediante AES- Si los canales de comunicad6n entre 11s11arios es 2 a 2 ( es decir, todos intercambian informad6n con todos) i:c11antas claves son necesarias?
+2 [RESERVA] Un sistema compuesto por 15 usuarios intercambian información cifrada mediante AES. Si los canales de comunicación entre usuarios es 2 a 2 (es decir, todos intercambian información con todos) ¿cuántas claves son necesarias?
 a) 15.
 b) 105.
 c) 210.
 d) 30.
-ANSWER:
+ANSWER: B
 
-3 [RESERVA] La normativa que establece las condidones tecnicas para la emision del servido de television digital terrestre (TDT) en alta definicion, es:
-a) Ley 712010.
-b) Real Decreto 69112010.
-c) Oirectiva 98148ICE.
-d) Real Decreto 94412005.
-ANSWER:
+3 [RESERVA] La normativa que establece las condiciones técnicas para la emisión del servicio de televisión digital terrestre (TDT) en alta definición, es:
+a) Ley 7/2010.
+b) Real Decreto 691/2010.
+c) Directiva 98/48/CE.
+d) Real Decreto 944/2005.
+ANSWER: B

@@ -1,0 +1,371 @@
+BLOQUE III
+1. Señale la respuesta correcta en relación al modelo de ciclo de vida en espiral:
+a) Las cuatro fases por cada ciclo son: planificación, diseño, evaluación e ingeniería.
+b) La dimensión espacial mide el grado de avance del proyecto y la angular el coste.
+c) Los proyectos se dividen en ciclos de la espiral, avanzándose en el desarrollo al final de cada ciclo.
+d) Se adapta fácilmente al software adquirido mediante contratación.
+ANSWER: C
+
+2. Indique alguna certificación en el ámbito empresarial que le cualifique profesionalmente para poder gestionar un proyecto de desarrollo:
+a) CMP.
+b) Oracle Certified Associate, Java SE 8 Programmer Certification.
+c) Certificación ISO 9001:2008.
+d) PMP.
+ANSWER: D
+
+3. En Métrica v3, la elaboración de un catálogo detallado de requisitos que describa de forma precisa el sistema de información, compete a personas con perfil:
+a) Consultor.
+b) Jefe de Proyecto.
+c) Directivo.
+d) Analista.
+ANSWER: D
+
+4. ¿Cuál de las siguientes NO es considerada como una metodología ágil de desarrollo software?
+a) SCRUM.
+b) SSADM.
+c) DSDM.
+d) Crystal.
+ANSWER: B
+
+5. Según Métrica v3, ¿cuál de las siguientes afirmaciones es correcta?
+a) La ejecución de las pruebas unitarias se puede hacer simultáneamente con la ejecución de las pruebas del sistema.
+b) La ejecución de las pruebas de integración se pueden hacer a la vez que los manuales de usuario.
+c) La ejecución de las pruebas de integración no se puede llevar a cabo hasta haber terminado la ejecución de las pruebas unitarias.
+d) La definición de la formación a los usuarios finales no se puede llevar a cabo hasta haber terminado la elaboración de los manuales de usuario.
+ANSWER: B
+
+6. Según la metodología Métrica v3, el entorno tecnológico del sistema, es un producto del proceso:
+a) Construcción del Sistema de Información.
+b) Análisis del Sistema de Información.
+c) Diseño del Sistema de Información.
+d) Implantación y Aceptación del Sistema.
+ANSWER: C
+
+7. ¿Cuál de los siguientes roles principales NO está definido por Scrum Framework?
+a) Scrum Team.
+b) Scrum Manager.
+c) Scrum Master.
+d) Scrum Product Owner.
+ANSWER: B
+
+8. Según Métrica v3, la figura de "usuario experto" se engloba dentro del perfil:
+a) Jefe de Proyecto.
+b) Consultor.
+c) Directivo.
+d) Analista.
+ANSWER: C
+
+9. Señale la respuesta correcta en relación a los diagramas de flujos de datos (DFD):
+a) Una entidad externa se puede conectar directamente a un almacén de datos.
+b) Los almacenes permiten crear y transformar datos.
+c) Los procesos primitivos son aquellos procesos que no necesitan más descomposición.
+d) Los flujos de datos que comunican procesos pueden ser únicamente de diálogo.
+ANSWER: C
+
+10. En un modelo relacional, ¿la que hace referencia al dominio?
+a) Cada uno de los elementos que contiene una instancia de la relación.
+b) Elemento susceptible de tomar valores.
+c) Conjunto de valores que puede tomar un atributo.
+d) Conjunto de filas y columnas que forman una tabla.
+ANSWER: C
+
+11. ¿Cuál de las siguientes operaciones del álgebra relacional es una operación unaria?
+a) Proyección.
+b) Diferencia de conjuntos.
+c) Producto cartesiano.
+d) Unión.
+ANSWER: A
+
+12. Para importar un fichero en una tabla de una base de datos (BD) relacional, el administrador de BD decide eliminar la clave primaria existente. De entre las siguientes reglas de Codd que definen el modelo relacional, ¿cuál es la que posibilita esta acción?
+a) Regla 2: Regla del Acceso Garantizado.
+b) Regla 8: Independencia Física de los Datos.
+c) Regla 10: Independencia de la Integridad.
+d) Regla 11: Independencia de la Distribución.
+ANSWER: C
+
+13. En el contexto de las bases de datos que siguen el modelo relacional, una superclave es:
+a) Una clave candidata mínima, es decir, una clave candidata formada por un solo atributo.
+b) Una clave candidata siempre.
+c) Una clave primaria combinada con un identificador único generado por el gestor de base de datos, con el fin de reforzar la integridad y seguridad de la información.
+d) Un atributo o conjunto de atributos que permite identificar de forma única una fila en una tabla.
+ANSWER: D
+
+14. En relación con el diseño físico de base de datos, señale la respuesta INCORRECTA:
+a) Si el fichero se va a actualizar mucho (inserción/eliminación) debemos reducir al mínimo el número de índices del fichero.
+b) Una estructura común de índices en muchos sistemas gestores de BD son los B-Trees.
+c) Debemos evitar técnicas de dispersión (hashing) sobre columnas poco actualizadas.
+d) Para cada atributo (no de ordenación) que se use mucho en operaciones de selección o reunión, debemos crear un índice SECUNDARIO.
+ANSWER: C
+
+15. Existen multitud de tipos abstractos de datos que permiten almacenar información. Indique cuál de los siguientes tiene por definición almacenar una colección no ordenada de elementos distintos y todos del mismo tipo:
+a) TAD Lista.
+b) TAD Árbol.
+c) TAD Bolsa.
+d) TAD Conjunto.
+ANSWER: D
+
+16. [ANULADA] Dado un árbol binario, cuyo recorrido en pre-orden es "Redhat, Debian, Fedora, Mandriva, Archilinux", ¿cuál de las siguientes opciones podría ser un recorrido en in-orden?
+a) Fedora, Archilinux, Debian, Mandriva, Redhat.
+b) Fedora, Debian, Archilinux, Mandriva, Redhat.
+c) Debian, Fedora, Redhat, Archilinux, Mandriva.
+d) Debian, Mandriva, Fedora, Archilinux, Redhat.
+ANSWER:
+
+17. El algoritmo de grafos que resuelve el problema de encontrar los caminos más cortos a partir de un origen dado al resto de los vértices de un grafo pesado se denomina:
+a) Algoritmo de Prim.
+b) Algoritmo de Kruskal.
+c) Algoritmo de Dijkstra.
+d) Algoritmo de Floyd-Warshall.
+ANSWER: C
+
+18. Indique qué es xAPI:
+a) Es un API que permite desarrollar plugins para los navegadores web.
+b) Es un API de JAVA que permite operar con ficheros XML.
+c) Es una especificación técnica orientada al aprendizaje que permite recopilar información acerca de las experiencias que tienen las personas.
+d) Es una librería en JavaScript que permite realizar desarrollos con el conocido patrón modelo-vista-controlador.
+ANSWER: C
+
+19. En relación a UTF-8, señale la afirmación correcta:
+a) Siempre utiliza un solo byte (8 bits) para cada carácter UNICODE.
+b) Solo puede representar los caracteres del idioma inglés.
+c) Una cadena de texto en UTF-8 siempre ocupa más que en ASCII.
+d) Un carácter puede estar representado por entre uno y cuatro bytes.
+ANSWER: D
+
+20. ¿Cuál de los siguientes es un framework de pruebas para JavaScript?
+a) ScriptTester.
+b) Jspector.
+c) JavaTester.
+d) Qunit.
+ANSWER: D
+
+21. El método utilizado en el mantenimiento de software consistente en el examen y modificación de un sistema para reconstruirlo de una nueva forma es:
+a) Ingeniería inversa.
+b) Reestructuración software.
+c) Reingeniería.
+d) Transformación de programas.
+ANSWER: C
+
+22. En cuál de la siguiente lista de opciones todos los elementos forman parte del paquete PrimitiveTypes de UML 2.5:
+a) Tiny, Boolean, String, UnlimitedNatural, Real.
+b) Integer, Boolean, String, Float, Unreal.
+c) Integer, Boolean, String, UnlimitedNatural, Real.
+d) Integer, Array, String, Float, Real.
+ANSWER: C
+
+23. En Métrica v3, indique la tarea englobada dentro de la actividad DSI 4 "Diseño de Clases":
+a) Identificación de Clases Asociadas a un Caso de Uso.
+b) Diseño de Módulos del Sistema.
+c) Análisis de Consistencia de las Especificaciones de Diseño.
+d) Diseño de la Jerarquía.
+ANSWER: D
+
+24. El patrón de diseño Fachada (Facade) es del tipo:
+a) Estructural.
+b) De comportamiento.
+c) De prototipado.
+d) Creacional.
+ANSWER: A
+
+25. Señale cuál de los siguientes se corresponde con un patrón de diseño, usado en la arquitectura Java EE que se emplea para localizar de forma transparente y uniforme los componentes de negocio, abstrayendo la utilización de JNDI y ocultando la complejidad de la creación del contexto inicial:
+a) Service Activator.
+b) Service Locator.
+c) Intercepting Filter.
+d) Front Controller.
+ANSWER: B
+
+26. En UML, los diagramas que resaltan la ordenación temporal de los mensajes que se intercambian los objetos, se denominan:
+a) Diagramas de secuencia.
+b) Diagramas de colaboración.
+c) Diagramas de componentes.
+d) Diagrama de actividades.
+ANSWER: A
+
+27. Cual de los siguientes NO es un patron de diseiio de comportamiento:
+a) Interpreter.
+b) Mediator.
+c) Composite.
+d) Iterator.
+ANSWER: C
+
+28. El motor de JavaScript desarrollado en lava por Oracle, integrado con el JDK version 8 se llama:
+a) Rhino.
+b) Nashorn.
+c) Bootstrap.
+d) Backbone JS.
+ANSWER: B
+
+29. En ASP.NET MVC ¿Cuál de los siguientes es un nombre de controlador válido?
+a) Servicios.
+b) ServiciosController.
+c) ServiciosActionlistener.
+d) Cualquiera de las tres es válido. Basta con que esté en la carpeta controllers.
+ANSWER: B
+
+30. Señale la respuesta INCORRECTA en relación a la tecnología LINQ to Dataset:
+a) No se pueden utilizar las colecciones de objetos IEnumerable, debido a su incompatibilidad con IEnumerable<T>.
+b) Facilita y acelera las consultas en datos almacenados en caché en un objeto Dataset.
+c) LINQ proviene de Language-Integrated Query.
+d) Es una innovación introducida en Visual Studio 2008 y .NET Framework versión 3.5.
+ANSWER: A
+
+31. La suite de herramientas de desarrollo para el diseño multidispositivo puesta a disposición de los desarrolladores web por Google, se denomina:
+a) Chrome DevTools.
+b) Web Starter Kit.
+c) Java Web Start.
+d) Material Design.
+ANSWER: B
+
+32. Si quiero desarrollar un sitio web con diseño adaptativo (responsive web design) con un framework elegiría:
+a) Python
+b) Euphoria 3.0.
+c) Groovy
+d) Bootstrap.
+ANSWER: D
+
+33. ¿Cuál de los siguientes es un framework RESTful que fomenta el diseño web multidispositivo incluyendo dispositivos móviles?
+a) iBATIS
+b) Batik
+c) Web API
+d) Apache JAMES
+ANSWER: C
+
+34. ¿Qué tecnología impide la ejecución de los applets de Java en el navegador Chrome en sus últimas versiones?
+a) XQAPI
+b) PPAPI
+c) CRAPI
+d) NPAPI
+ANSWER: D
+
+35. Señale cuál de las siguientes respuestas corresponde con un framework de desarrollo específico para la implementación de la lógica de negocio en una aplicación web multicapa:
+a) Qbates
+b) Mybatis
+c) Spring
+d) JSF
+ANSWER: C
+
+36. En relación a Java y JavaScript indique la respuesta FALSA:
+a) JavaScript es un lenguaje de programación posterior a Java.
+b) Java JDK 8 no integra un motor de JavaScript.
+c) JavaScript es un lenguaje interpretado, y Java es compilado.
+d) JavaScript es estándar, Java no.
+ANSWER: B
+
+37. En un modelo cliente-servidor de comunicaciones, ¿qué entendemos por JSON?
+a) JavaScript Object Notation: es un formato ligero de intercambio de datos. Leerlo y escribirlo es simple para humanos, mientras que para las máquinas es simple interpretarlo y generarlo.
+b) Java Object Notation: es un formato ligero de intercambio de datos. Leerlo y escribirlo es simple para humanos, mientras que para las máquinas es simple interpretarlo y generarlo.
+c) JavaScript Open Notation: es un formato ligero de intercambio de datos. Leerlo y escribirlo es simple para humanos, mientras que para las máquinas es simple interpretarlo y generarlo.
+d) Java Open Notation: es un formato ligero de intercambio de datos. Leerlo y escribirlo es simple para humanos, mientras que para las máquinas es simple interpretarlo y generarlo.
+ANSWER: A
+
+38. En JavaScript, ¿cómo se forma la sentencia correcta para eliminar una cookie llamada "_userxmd"?
+a) document.cookie= "_userxmd=; expires=Thu, 01 Jan 1970 00:00:00 UTC";
+b) document.cookie = 1111
+c) document.cookie._userxmd.delete()
+d) document.cookie.delete(_userxmd)
+ANSWER: A
+
+39. Indique cuál de los siguientes es un valor JSON válido:
+a) 'hola'
+b) null
+c) nombre : juan
+d) nombre : "11juan11"
+ANSWER: B
+
+40. ¿Cuál es la etiqueta de comienzo de un fichero PHP?
+a) <php
+b) <?php
+c) <@
+d) <!
+ANSWER: B
+
+41. El atributo de la etiqueta <jsp:useBean> encargado de especificar el ámbito o alcance que tendrá el bean es:
+a) request
+b) scope
+c) class
+d) session
+ANSWER: B
+
+42. Recientemente se ha publicado la norma de calidad ISO 9000:2015. Al igual que la ISO 9000:2008 se basa en principios. Indique de los siguientes cuál NO es un principio de la ISO 9000:2015:
+a) Enfoque al cliente.
+b) Liderazgo.
+c) Gestión de las relaciones.
+d) Enfoque al beneficio.
+ANSWER: D
+
+43. Señale la respuesta FALSA relativa a SQuaRE (Software Product Quality Requirements and Evaluation):
+a) Permite la evaluación de la calidad del software.
+b) Su certificación es complementaria a ISO/IEC 15504-SPICE.
+c) Así se conoce a las normas de la familia ISO/IEC 25000.
+d) Es un framework de programación de requisitos software.
+ANSWER: D
+
+44. [ANULADA] El modelo CMMI v1.3 en su representación por etapas establece:
+a) 4 niveles de capacidad que son: Incomplete, Realizado, Gestionado y Definido.
+b) 4 niveles de madurez que son: Inicial, Realizado, Gestionado cualitativamente y en optimización.
+c) 5 niveles de madurez que son: Inicial, Gestionado, Definido, Gestionado cualitativamente y en optimización.
+d) 5 niveles de capacidad que son: Incomplete, Realizado, Definido, Gestionado cualitativamente y en optimización.
+ANSWER:
+
+45. Dentro de la especificación WAI-ARIA 1.0, ¿cuál de las siguientes opciones es un valor válido para el atributo role?
+a) paragraph
+b) rowtitle
+c) tab
+d) anchor
+ANSWER: C
+
+46. De entre las siguientes, ¿qué herramienta sirve para evaluar la accesibilidad de una Web?
+a) IndieUI: Independent User Interface.
+b) TAW: Test de Accesibilidad Web.
+c) WAI-ARIA: Web Accessibility Initiative - Accessible Rich Internet Applications Suite.
+d) UAAG: User Agent Accessibility Guidelines.
+ANSWER: B
+
+47. ¿Quién desarrolló inicialmente la base de datos NoSQL Cassandra?
+a) Apache.
+b) Facebook.
+c) Apple.
+d) Twitter.
+ANSWER: B
+
+48. ¿Cuál de las siguientes afirmaciones sobre MongoDB es CORRECTA?
+a) Permite el uso de instrucciones SQL.
+b) El equivalente en MongoDB a una tabla de un RDBMS se denomina Documento.
+c) Utiliza BSON con formato de serialización para almacenar los datos.
+d) Soporta transacciones sobre múltiples documentos.
+ANSWER: C
+
+49. En relación al diseño de un Data Warehouse (DW), señale la respuesta incorrecta:
+a) Slicing: selecciona una dimensión en particular de un cubo determinado, cuyo resultado es un nuevo sub-cubo.
+b) Rolling up: permite subir de nivel en la jerarquía, es lo contrario al drilling-down.
+c) Drilling down: es la navegación que permite ir de los datos resumidos a los datos detallados.
+d) Drilling across: permite cambiar la vista a otra jerarquía de diferente nivel.
+ANSWER: D
+
+50. ¿Cuál es un framework Java inspirado en la tecnología Map-Reduce, que utiliza HDFS para el almacenamiento y está diseñado para escribir trabajos que procesan enormes cantidades de datos y que da muy buenos resultados en aplicaciones Big Data?
+a) MongoDB.
+b) Pig Latin.
+c) Hadoop.
+d) Apache Cassandra.
+ANSWER: C
+
+1. [RESERVA] En AJAX, el objeto usado para recibir información del servidor web es:
+a) XMLRequestObject
+b) AJAXRequest
+c) JSONRequest
+d) XMLHttpRequest
+ANSWER: D
+
+2. [RESERVA] La norma internacional cuyo objetivo es crear un estándar sobre pruebas de software que recoja y estandarice vocabulario, procesos, técnicas de documentación, etc del ciclo de vida de las pruebas es:
+a) ISO/IEC 25000
+b) ISO/IEC 829
+c) ISO/IEC/IEEE 29119
+d) ISO/IEC 9126
+ANSWER: C
+
+3. [RESERVA] La ley cuya finalidad es reducir el acoplamiento en un sistema de información es la:
+a) Ley de Amper.
+b) Ley de Demeter.
+c) Ley de Moore.
+d) Ley de Hooke.
+ANSWER: B

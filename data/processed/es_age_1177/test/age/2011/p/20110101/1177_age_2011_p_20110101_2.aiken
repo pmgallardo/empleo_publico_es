@@ -1,0 +1,441 @@
+BLOQUE III
+1. ¿Cuál de las siguientes es una metodología ágil de desarrollo?
+a) AJAX
+b) ASD
+c) SOFTAG
+d) FDR
+ANSWER: B
+
+2. ¿De qué orden de complejidad es la búsqueda dicotómica en una tabla ordenada?
+a) Logarítmica.
+b) Lineal.
+c) Exponencial.
+d) Cuadrática.
+ANSWER: A
+
+3. En un diagrama Entidad Relación existe una relación n:m entre dos entidades: Alumno y Profesor. Un profesor puede dar clases a muchos alumnos, y un alumno puede tener muchos profesores, ¿Cuántas tablas son necesarias como mínimo para implementar en el modelo físico esa relación en primera forma normal si se hace utilizando una base de datos relacional?
+a) Dos.
+b) Tres.
+c) Cuatro.
+d) Cinco.
+ANSWER: B
+
+4. ¿Cual de las siguientes técnicas NO se emplea en la planificación de un sistema de la información?
+a) Método PERT.
+b) Diagrama de Extrapolación.
+c) Método CPM.
+d) Diagrama de Gantt.
+ANSWER: B
+
+5. La metodología Métrica V3 posee una serie de interfaces. ¿Cuál de las siguientes NO es una de ellas?
+a) Aseguramiento de la Calidad.
+b) Seguridad.
+c) Gestión de la Configuración.
+d) Gestión del Mantenimiento.
+ANSWER: D
+
+6. Según Métrica Versión 3, ¿cuándo se determina el Acuerdo de Nivel de Servicio?
+a) Antes de implantar el sistema en el entorno de operación.
+b) Una vez que el sistema se encuentra en su entorno de operación y antes de aceptarlo.
+c) Una vez que el sistema se encuentra en su entorno de operación y ha sido aceptado.
+d) Ninguna de las anteriores es correcta.
+ANSWER: C
+
+7.Un sistema distribuido, en oposición a un sistema monolítico, permite mejorar:
+a) La velocidad de proceso del sistema.
+b) La escalabilidad del sistema.
+c) La portabilidad del sistema.
+d) La usabilidad del sistema.
+ANSWER: B
+
+8. ¿Qué sistema es el estándar para documentar programas escritos en lenguaje Java?
+a) Javadoc
+b) Docjava
+c) Javarem
+d) Remjava
+ANSWER: A
+
+9. En lenguaje Java, añadir metadatos al código fuente que están disponibles para la aplicación en tiempo de ejecución se consigue con una característica denominada:
+a) CDATA.
+b) Closure.
+c) Annotation.
+d) Enum.
+ANSWER: C
+
+10. El API de java utilizado para mapear XML´s desde y hacia clases JAVA es:
+a) JAXP.
+b) JAXS.
+c) JAXB.
+d) WSDL.
+ANSWER: C
+
+11. ¿Cuál de los siguientes NO es un tipo primitivo de datos definido en el Core de UML según la especificación de UML 2.3?
+a) Integer
+b) Boolean
+c) UnlimitedNatural
+d) Char
+ANSWER: D
+
+12. ¿Cuál de los siguientes participantes interviene en la tarea "Registro de la Nueva Versión de los Sistemas de Información en el Sistema de Gestión de la Configuración" del Interface Gestión de la Configuración de Métrica v3?
+a) Equipo de Soporte Técnico.
+b) Responsable de Gestión de la Configuración.
+c) Técnico de la Configuración.
+d) Técnico de Mantenimiento.
+ANSWER: D
+
+13. ¿Cuál de las siguientes afirmaciones sobre la plataforma .NET es verdadera?
+a) Es multilenguaje.
+b) Los programas desarrollados en .NET se compilan en lenguaje maquina.
+c) Mono es una implementación no oficial de .NET para el sistema operativo Mac OS X.
+d) Eclipse es uno de los IDEs más populares y utilizados en la plataforma .NET.
+ANSWER: A
+
+14. ¿Cómo se llama el conjunto de bibliotecas utilizadas en programación para hacer pruebas unitarias de aplicaciones en el entorno .NET?
+a) NetProof
+b) JUnit
+c) Nunit
+d) Jproof
+ANSWER: C
+
+15. ¿Cuál es la norma ISO (Organización Internacional de Estandarización) relativa a la documentación para usuarios de software?
+a) ISO/IEC 26514:2008
+b) ISO 9001:2000
+c) ISO 30300
+d) ISO 27002
+ANSWER: A
+
+16. En Métrica v3, la actividad del ASI "Establecimiento de Requisitos" se divide en varias tareas, en todas ellas, las técnicas y prácticas y los participantes son:
+a) Sesiones de Trabajo, Catalogación y Casos de Uso, y los participantes: Usuarios Expertos y Analistas.
+b) Puestas en Común, Catalogación y Casos de Uso, y los participantes: Usuarios Expertos y Analistas.
+c) Puestas en Común, Catalogación y Casos de Uso, y los participantes: Gestores de Proyecto, Usuarios Expertos y Analistas.
+d) Sesiones de Trabajo, Catalogación y Casos de Uso, y los participantes: Gestores de Proyecto, Usuarios Expertos y Analistas.
+ANSWER: A
+
+17. ¿Cuál de las siguientes respuestas NO es un resultado del proceso de Construcción de Sistemas de Información de Métrica Versión 3?
+a) Procedimientos de seguridad y control de acceso.
+b) Especificación de la formación a usuarios finales.
+c) Procedimientos de migración y carga inicial de datos.
+d) Sistema en producción.
+ANSWER: D
+
+18. Los usuarios de una aplicación piden modificaciones sobre ésta que afectan al módulo de pagos. Una vez realizados los cambios se realizan pruebas para comprobar que no ha afectado al módulo de RRHH que no ha sido modificado. ¿De qué tipo de pruebas estamos hablando?
+a) Unitarias.
+b) Sistemas.
+c) Aceptación.
+d) Regresión.
+ANSWER: D
+
+19. El algoritmo de minería de datos es el mecanismo que crea un modelo de minería de datos. Para crear un modelo, un algoritmo analiza primero un conjunto de datos y luego busca patrones y tendencias específico. ¿Cuál de los siguientes NO es un algoritmo de minería de datos?
+a) Algoritmos de clasificación.
+b) Algoritmos de regresión.
+c) Algoritmos de segmentación.
+d) Algoritmos de predestinación.
+ANSWER: D
+
+20. En relación con los modelos para la gestión de la calidad del software, señale la opción verdadera:
+a) El SEI publicó en el año 2010 la versión 1.3 de CMMI que contiene cambios, especialmente en lo que se refiere a alta madurez (niveles 4 y 5).
+b) Las pruebas en el modelo CMMI DEV están tratadas en las áreas de proceso "Administración Cuantitativa del Proyecto" y "Validación".
+c) El nivel de Madurez 3 de modelo CMMI es el nivel "Optimizado", se caracteriza porque las organizaciones disponen de un conjunto de métricas significativas de calidad y productividad, que se usan de modo sistemático para la toma de decisiones y la gestión de riesgos.
+d) En su cuarta edición, COBIT tiene 4 objetivos de alto nivel que cubren 21 objetivos de control (específicos o detallados) clasificados en cuatro dominios.
+ANSWER: A
+
+21. ¿Qué es REST?
+a) La denominación que recibe RPC over HTTP, publicada recientemente por Oracle como alternativa a Web Services.
+b) Una extensión del estándar WS-Security, simplificándolo siempre que se usen peticiones sin estado (stateless).
+c) Una arquitectura ligera de llamada a servicios remotos, basada típicamente en HTTP, alternativa a Web Services.
+d) Es una codificación alternativa a XML, más compacta y ligera, para su uso en SOAP en la codificación de mensajes.
+ANSWER: C
+
+22. Dentro de Hibernate, ¿cuál de los siguientes NO es un método de la clase "Session"?
+a) session.persist()
+b) session.save()
+c) session.store()
+d) session.saveOrUpdate()
+ANSWER: C
+
+23. En UML 2.0 hay 13 tipos diferentes de diagramas. Estos se pueden dividir en: Diagramas de estructura y de Comportamiento. ¿Cuál de los siguientes es un diagrama de comportamiento?
+a) Diagrama de clases.
+b) Diagrama de casos de uso.
+c) Diagrama de componentes.
+d) Diagrama de paquetes.
+ANSWER: B
+
+24. ¿Cuál de los siguientes elementos es INCORRECTO en un Diagrama de Flujo de Datos?
+a) Un proceso en el que no entra o del que no sale ningún flujo de datos.
+b) Un proceso que no explosiona en otro DFD de menor nivel.
+c) Un proceso del que salen exactamente los mismos campos de datos que han entrado, independientemente de que el valor de esos datos haya cambiado o no.
+d) Un proceso en el que sus datos de entrada provienen directamente de un almacén de datos y que van a parar a otro almacén de datos.
+ANSWER: A
+
+25. ¿Qué es MOF (Meta Object Facility)?
+a) Un framework java que facilita el desarrollo de sistemas orientados a objetos con webServices.
+b) Un sistema de captura de errores empleado en arquitecturas redundantes.
+c) Una utilidad que analiza los logs de los sistemas de información para identificar posibles ataques.
+d) Un estándar que permite la gestión de metadatos y lenguajes de definición.
+ANSWER: D
+
+26. ¿Cuál de los siguientes modelos de programación de .Net está orientado a la implementación de aplicaciones orientadas a servicios?
+a) Windows Services Foundation.
+b) Windows Communication Foundation.
+c) Windows Network Foundation.
+d) ASP.Net.
+ANSWER: B
+
+27. Una de las siguientes respuestas es FALSA en relación a un Data Warehouse:
+a) No se borran datos.
+b) Hay campos que almacenan información calculada a partir de los datos iniciales, para facilitar cálculos posteriores.
+c) Permiten analizar información en función de distintos criterios.
+d) Una vez agregados ANSWER: los datos para proporcionar la información solicitada se eliminan los datos originales.
+ANSWER: D
+
+28. ¿Cuál de las siguientes respuestas NO identifica a un servidor OLAP?
+a) icCube.
+b) Essbase.
+c) Oracle HyperCube.
+d) Mondrian OLAP server.
+ANSWER: C
+
+29. En relación a la accesibilidad a las páginas web de las administraciones públicas, la legislación actual (Real Decreto 1494/2007, por el que se aprueba el Reglamento sobre las condiciones básicas para el acceso de las personas con discapacidad a las tecnologías, productos y servicios relacionados con la sociedad de la información y medios de comunicación social) obliga a que la información disponible deberá cumplir, sin entrar en excepciones:
+a) Las prioridades 1 de la Norma UNE 139803:2004, únicamente.
+b) Las prioridades 1 y 2 Norma UNE 139803:2004, únicamente.
+c) Las prioridades 1, 2 y 3 Norma UNE 139803:2004.
+d) La ley establece recomendaciones, aunque no impone obligaciones en este sentido.
+ANSWER: B
+
+30. ¿Cuál de las siguientes herramientas de comprobación de accesibilidad de paginas Web ha sido desarrollada por el INTECO (Instituto Nacional de Tecnologías de la Comunicación, S.A)?
+a) TAW
+b) HERA
+c) INTAV
+d) WAI
+ANSWER: C
+
+31. La Especificación del W3C para optimizar la Transmisión de Mensajes para SOAP es:
+a) RRSHB
+b) CORBA
+c) MTOM
+d) SOAP HEADER
+ANSWER: C
+
+32. En el ámbito de la tecnología ADO.NET, indique qué está definiendo la siguiente sentencia: "Es una representación de datos residente en memoria que proporciona un modelo de programación relacional coherente independientemente del origen de datos que contiene":
+a) DataSet
+b) DataView
+c) ADOMapper
+d) DataModel
+ANSWER: A
+
+33. En teoría de grafos, ¿cuál de las siguientes afirmaciones NO es correcta?
+a) Un árbol de expansión de un grafo conexo es el mayor conjunto de aristas que no contiene ciclos.
+b) Un árbol de expansión es el mínimo conjunto de aristas que conecta todos los vértices.
+c) Si se añade una sola arista a un árbol de expansión, se crea un ciclo.
+d) El árbol de expansión de un grafo conexo es único.
+ANSWER: D
+
+34. Son diagramas se representan dos tipos de elementos: nodos y conexiones, así como la distribución de componentes del sistema de información con respecto a la partición física del sistema. ¿De qué tipo de diagrama estamos hablando, según Métrica V3?
+a) Diagrama de clases.
+b) Diagrama de paquetes.
+c) Diagrama de descomposición.
+d) Diagrama de despliegue.
+ANSWER: D
+
+35. Cuáles de los siguientes NO es un modelo de estimación de proyectos software:
+a) COCOMO II.
+b) Delphi.
+c) PROBE.
+d) Método Box-Cox.
+ANSWER: D
+
+36. ¿Cuál es el significado de la sigla SLA empleada en la Implantación y Aceptación del Sistema?
+a) Service Level Agreement.
+b) Service Layer Agreement.
+c) System Layer Architecture.
+d) System Low Adherence.
+ANSWER: A
+
+37. CMMI es un modelo para la mejora y evaluación de procesos para el desarrollo, mantenimiento y operación de sistemas de software.¿Cual de las siguientes NO es un área del modelo CMMI?
+a) Desarrollo
+b) Servicios
+c) Adquisición
+d) Pruebas
+ANSWER: D
+
+38. LINQ es una extensión al framework de la plataforma .NET. ¿Qué funcionalidad añade este componente?
+a) Añade una capa de seguridad al runtime, centralizadas en una clase proveedora externa al programa en ejecución.
+b) Permite la encapsulación automática de objetos COM a objetos del runtime, permitiendo su manipulación de manera natural.
+c) Hace posible la Programación Orientada a Aspectos, exponiendo los "concerns" definidos a todas las capas de la aplicación.
+d) Permite efectuar nativamente en el lenguaje de programación consultas a bases de datos relacionales y otras fuentes.
+ANSWER: D
+
+39. ¿Cuál de los siguientes NO es un método del objeto XMLHttpRequest de Javascript? Para la respuesta no tenga en cuenta los posibles parámetros que pueda contener la llamada al mismo.
+a) open
+b) stop
+c) setRequestHeader
+d) getAllResponseHeaders
+ANSWER: B
+
+40. Cocoa es el conjunto de frameworks orientados a objetos que permiten el desarrollo de aplicaciones nativas para Mac OS X. ¿Cómo se llama la versión para iOS?
+a) Cocoa Touch.
+b) MiniCocoa.
+c) Cocoa iOS.
+d) iTunes.
+ANSWER: A
+
+41. ¿Qué es SQLMetal?
+a) Es un lenguaje declarativo de acceso a bases de datos relacionales.
+b) Es una herramienta de generación de código de LINQ.
+c) Es un conjunto de extensiones a ANSI SQL.
+d) Es un estándar de acceso a bases de datos.
+ANSWER: B
+
+42. Según Métrica v3, ¿cómo se representa un parámetro de control en un diagrama de estructura de cuadros?
+a) Con una línea discontinua acabada en punta de flecha que une dos módulos.
+b) Con una línea continua acabada en punta de flecha que une dos módulos.
+c) Con una flecha contigua a una conexión que tiene en el extremo opuesto a la flecha un círculo vacío.
+d) Con una flecha contigua a una conexión que tiene en el extremo opuesto a la flecha un circulo relleno.
+ANSWER: D
+
+43. ¿Cuál de las siguientes plataformas permite la implementación de aplicaciones ricas de internet (RIA)?
+a) Java RIA
+b) Java EE
+c) Java ME
+d) Java FX
+ANSWER: D
+
+44. Existen diversos tipos de sistemas gestores de bases de datos (SGBD) en función del modelo lógico en el cual se basan. Indique a que tipo pertenece el SGBD IMS de IBM:
+a) Modelo lógico relacional.
+b) Modelo lógico jerárquico.
+c) Modelo lógico en red.
+d) Modelo lógico orientado a objetos.
+ANSWER: B
+
+45. En la técnica de obtención de requisitos denominan Brainstorming es recomendable que los participantes sean:
+a) Del mismo departamento.
+b) De diferentes departamentos.
+c) Expertos.
+d) Únicamente desarrolladores.
+ANSWER: B
+
+46.Si decimos que JEE 5 permite utilizar el concepto de sandbox (Java Sandbox), nos estamos refiriendo a que:
+a) Cada proceso se ejecuta limitado en los recursos proporcionados por la Java Virtual Machine, y no puede afectar a otros recursos del equipo.
+b) A la posibilidad de pasar parámetros por valor en cada mensaje.
+c) A la característica que le permite interactuar con elementos de la arquitectura .NET.
+d) Al entorno de pruebas integrado en la arquitectura JEE 5.
+ANSWER: A
+
+47. ¿Cómo se denomina a la conversión implícita de cualquier tipo de valor al tipo objeto en el lenguaje C#?
+a) Casting.
+b) Boxing.
+c) Unboxing.
+d) Down-casting.
+ANSWER: B
+
+48. Señale la respuesta que se corresponde con un nivel de cohesión definido en Métrica v3:
+a) Comunicación.
+b) Control.
+c) Marca.
+d) Datos.
+ANSWER:
+
+49. La Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los Servicios, ha definido un marco para impulsar la mejora continua de los servicios públicos en la Administración General del Estado constituido por seis programas. ¿Cuál de los siguientes es uno de esos programas?
+a) Programa de análisis estructural del organismo.
+b) Programa de evaluación de los costes del servicio público.
+c) Programa del EFQM.
+d) Programa de Reconocimiento (Certificación de Organizaciones y Premios).
+ANSWER: A
+
+50. ¿En cuál de los siguientes estándares NO se basa la metodología Métrica Versión 3?:
+a) ISO 12.207
+b) ISO/IEC TR 15.504/SPICE
+c) UNE-EN-ISO 9001:2000
+d) ISO 17799
+ANSWER: D
+
+51. Según Métrica v3, ¿a qué interfaz o proceso principal pertenece la actividad de Planificación?
+a) Al proceso principal de Planificación de Sistema de la Información (PSI).
+b) Al Estudio de Viabilidad del Sistema (EVS).
+c) Al Interfaz de Gestión de Proyectos.
+d) A ninguno de ellos.
+ANSWER: D
+
+52. [ANULADA] ¿Cómo se representa un proceso de último nivel en un diagrama de flujo de datos?
+a) Con una doble barra en la lateral derecho del rectángulo.
+b) Con una doble barra en el lateral izquierdo del rectángulo.
+c) No tiene una representación especial.
+d) Con un asterisco en el ángulo inferior derecho separado con una línea inclinada.
+ANSWER:
+
+53. Señale cuál de los siguientes NO se puede considerar un modelo del ciclo de vida del software:
+a) Modelo en cascada.
+b) Modelo en espiral.
+c) Modelo estructurado.
+d) Modelos basado en prototipos.
+ANSWER: C
+
+54. El modelo de ciclo de vida software orientado a objetos en el que el concepto clave consiste en reunir un conjunto de clases relacionadas entre sí con un objetivo común es:
+a) El modelo fuente.
+b) El modelo común.
+c) El modelo remolino.
+d) El modelo de agrupamiento.
+ANSWER: D
+
+55. ¿Cuál de los siguientes NO es un framework que permita el acceso y manipulación de datos en una base de datos relacional?
+a) Apache Torque.
+b) MyBatis.
+c) Sun Mapper.
+d) NHibernate.
+ANSWER: C
+
+56. Una variante del modelo de desarrollo en espiral se denomina:
+a) Modelo en espiral WIN WIN.
+b) Modelo en espiral WAN WAN.
+c) Modelo en espiral incremental.
+d) Modelo en Espiral típico de una región.
+ANSWER: A
+
+57. Señale la opción que se corresponde con una técnica de estimación usada en la gestión de proyectos según se indica en Métrica v3:
+a) Estructura de Descomposición de Trabajo (WBS).
+b) Método MARK II.
+c) PERT.
+d) JRP (Joint Requirements Planning).
+ANSWER: B
+
+58. ¿Cuáles son las dimensiones del modelo en espiral del ciclo de vida del software?
+a) Angular y radial.
+b) Radial y Lineal.
+c) Angular, lineal y radial.
+d) Lineal y Angular.
+ANSWER: A
+
+59. Métrica v3 contempla distintos tipos de mantenimiento, ¿a qué tipo de mantenimiento pertenece un cambio en el software base?
+a) Correctivo.
+b) Evolutivo.
+c) Adaptativo.
+d) Perfectivo.
+ANSWER: C
+
+60. La WAI define tres tipos de prioridades para diversos puntos de verificación ¿Qué prioridad tiene el siguiente: "Proveer un texto equivalente para cada elemento no textual"?
+a) Prioridad 1.
+b) Prioridad 2.
+c) Prioridad 3.
+d) No lo contempla.
+ANSWER: A
+
+1. [RESERVA] ¿Qué parte de un sistema experto efectúa el razonamiento a partir de los datos?
+a) Base de Conocimiento.
+b) Motor de Inferencia.
+c) Interfaz de Adquisición.
+d) Módulo de Inteligencia artificial.
+ANSWER: B
+
+2. [RESERVA] En especificaciones de requisitos, la norma IEEE 830-1998 (Recommended Practice for Software Requirements Specifications) establece las características de una buena especificación de requisitos:
+a) 3 características: Correcta, completa y consistente.
+b) 6 características: Correcta, completa, consistente, verificable, modificable y trazable.
+c) 8 características: Correcta, no ambigua, completa, consistente, clasificada en rangos de importancia y/o estabilidad, verificable, modificable y trazable.
+d) 9 características: Correcta, no ambigua, completa, consistente, clasificados en rangos de importancia y/o estabilidad, verificable, modificable, trazable y consensuada con el usuario.
+ANSWER: C
+
+3. [RESERVA] De los siguientes respuestas, indique cual NO es un tipo de Cohesión según Métrica v3:
+a) Cohesión funcional.
+b) Cohesión de comunicación.
+c) Cohesión común.
+d) Cohesión temporal.
+ANSWER: C

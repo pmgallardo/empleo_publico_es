@@ -1,0 +1,442 @@
+ BLOQUEIV
+1. Indique el fichero y ruta asociada para anadir repositorios dentro de una maquina Linux con dlstribucl6n derivada de Deblan:
+a) /root/home/sources.list
+c) /etc/aptjsources.list
+b) /etc/mount/sources.list
+d) /etc/sources/sources.list
+ANSWER: C
+
+2. Indique junto a cual de los siguientes sistemas operativos fue presentado el sistema de ficheros ReFS por primera vez:
+a) Windows 8.1
+c) Windows Server 2012
+b) Windows 10
+d) Windows Server 2016
+ANSWER: C
+
+3. De las slguientes soluciones, ¿cual permite la ejecuci6n remota, asi como la automatizacion de la configuracion en servidores Linux?
+a) Salt Open.
+b) Nougat Orchestrator.
+c) Unity.
+d) Empathy.
+ANSWER: A
+
+4. En el ambito de las Base de Datos ORACLE, tnsnames.ora es un fichero de configuracion que contiene:
+a) nombres de servicios en red mapeados, asignados a descriptores a traves de los cuales podemos acceder a !a se  de dates.
+b) informaci6n de toclos los tablespaces sobre los que esta soportada la base de datos.
+c) todos los nombres de los distintos datafiles sabre los que esta soportada la base de dates.
+d) informaci6n sabre los distintos nombres de los esquemas de usuario que tienen las distintas lnstanc1as de la base de dates.
+ANSWER: A
+
+s. l.En que consiste el mantenimiento preventivo?
+a) Aclelantarse a las nuevas fundonalidades de los usuarios.
+b) COnservar los equipos en condiciones 6ptimas de funcionamiento, previniendo las posibles averias Y fallos.
+c) Prevenir la obsolescencia de equipos e instalaciones.
+d) Mantener el nlvel de rendimiento actual.
+ANSWER: B
+
+6. Segun ASHRAE (Sociedad Americana de Ingenieros de Calefacci6n, Refrigeraci6n y Aire Acondicionado) en su publlcaci6n Standard 90.4-2016 Energy Standard for Data Centers recomlenda que la temperatura de operacion en un CPD sea de:
+a) 20-25 grados.
+b) 20-26 grades.
+c) 18-20 grados.
+d) 18-27 grados.
+ANSWER: D
+
+7. lQue slgnifican las sigas JCL?
+a) Job control Level
+b) Job Control Language
+c) Java Control Language
+d) Job Controller' Language
+ANSWER: B
+
+8. La sentencia EXEC de JCL identifica el:
+a) comienzo de un trabaJo a ejecutar.
+b) comienzo de un paso dentro de un trabajo y el programa a ejecutar.
+c) conjunto de datos de un trabajo.
+d) final de un trabajo.
+ANSWER: B
+
+9. Las librerias estaticas tienen la extension:
+a) En Linux .lib
+b) En Linux .a
+c) En Windows .dll
+d) En Windows .so
+ANSWER: B
+
+10. Si tuvlera que realizar pruebas de carga en su sistema, lque herramienta debe utilizar?
+a) Jloader
+b) JMeasurer
+c) JRaw
+d) JMeter
+ANSWER: D
+
+11. Solucion de IBM para virtualizaci6n de almacenamiento:
+a) SAC
+b) SNC
+c) SVC
+d) ninguna de las anteriores
+ANSWER: C
+
+12. En un sistema con 8 discos de 400GB, ordene los distintos tipos de RAID de mayor capacidad final disponible a menor capacidad final disponible:
+a) RAID 60 > RAID 6 > RAID 5
+b) RAID 5 > RAID 60 > RAID 6
+c) RAID 6 > RAID 60 > RAID 5
+d) RAID 5 > RAID 6 > RAID 60
+ANSWER: D
+
+13. l.Se podria conectar un sistema de almacenamiento DAS mediante Fibre Channel a un servidor?
+a) No.
+b) Si, mediante una HBA.
+c) Si, mediante una tarjeta de red.
+d) Si, mediante una tarjeta iSCSI.
+ANSWER: B
+
+14. Cuando se utiliza un cable CAT& en un enlace 10/100/1000 BASE-T, la longitud maxima, sin contar los latiguillos de la toma de pared a los dlspositivos conectados, es de:
+a) 80 metros.
+b) 90 metros.
+c) 110 metros.
+d) 115 metros.
+ANSWER: B
+
+15. Si hablamos de una fibra 6ptica de 9/125 micr6metros, estamos ante una flbra:
+a) Multimodo
+b) Monomodo
+c) OM3
+d) OMl
+ANSWER: B
+
+16. La banda que se usa princlpalmente en las comunicaciones satelitales, siendo la television uno de sus principales usos es la:
+a) Banda S.
+b) Banda X.
+c) Banda L.
+d) Banda Ku.
+ANSWER: D
+
+17. Cuando se conecta un PC a un puerto de un switch de capa 2, lhasta d6nde se extiende el domlnio de colisi6n del PC?
+a) Al puerto del switch.
+b) A todos los puertos del switch.
+c) A la VLAN a la que pertenezca el puerto del switch.
+d) A la tarjeta de red del PC.
+ANSWER: A
+
+18. Sefiale en que estandar del IEEE se define por primera vez transmislones de datos de 40 Gigabit Ethernet y 100 Gigabit Ethernet sobre fibra 6ptica:
+a) 802.3ae
+b) 802.3ba
+c) 802.at
+d) 802.3a
+ANSWER: B
+
+19. Cuando hablamos de Ethernet, lque signfficado tiene la "seflal de jammingn?
+a) Aviso de que se ha producido una colisi6n.
+b) Aviso de que se va a retrasmitir desde la ultima trama redbida correctamente (ACK x).
+c) Solicitud de repetici6n automatica.
+d) Aviso de perdida de sincronizacl6n de la comunlcaci6n entre dos nodos:
+ANSWER: A
+
+20. Cfl. Sei'iale que petici6n de SNMP v3 permite recuperar grandes cantidades de datos de fonna eficiente:
+a) GetNext
+b) GetBlock
+c) GetBulk
+d) GetTrap
+ANSWER: C
+
+21. La direcci6n de broadcast de la red a la que pertenece el host con dlrecci6n IP 83.27.139.46/27 es:
+a) 83.27.139.255
+b) 83.27.139.191
+c) 83.27.139.63
+d) 83.27.139.127
+ANSWER: C
+
+22. Una dirección IP en el protocolo IPv6 está formada por:
+a) 32 bits
+b) 64 bits
+c) 128 bits
+d) 256 bits
+ANSWER: C
+
+23. Según la RFC 4271, ¿cuál de los siguientes NO es un tipo de mensaje del protocolo BGP?
+a) OPEN
+b) UPDATE
+c) KEEPALIVE
+d) CLOSE
+ANSWER: D
+
+24. El campo "código de operación" de un datagrama ARP/RARP con el valor 4 se utiliza para una trama de:
+a) solicitud RARP.
+b) respuesta RARP.
+c) solicitud ARP.
+d) respuesta ARP
+ANSWER: B
+
+25. ¿Cuál es el nombre de la PDU de capa 2 del modelo OSI?
+a) MAC
+b) Trama
+c) Segmento
+d) Paquete
+ANSWER: B
+
+26. ¿Qué dos campos emplea 1Pv6 para proporcionar calidad de servicio?
+a) Tipo de Servicio y Clase de Trafico.
+b) Límite de Saltos y Etiqueta de Traflco.
+c) Case de Traflco y Etiqueta de Flujo.
+d) Tipo de Servicio y Prioridad.
+ANSWER: C
+
+27. El protocolo IPYS:
+a) Es un protocolo de transld6n entre 1Pv4 e IPv6 con direcdones de 64 bits.
+b) Es un protocolo experimental llamado ST (Internet Stream Protocol).
+c) Es un protocolo de traducci6n/mapeo de direcciones 1Pv4 en IPv6, y viceversa.
+d) No exlste.
+ANSWER: B
+
+28. ¿Qué Puerto utiliza LDP (Label Distribution Protocol)?
+a) TCP 746
+b) TCP 646
+c) TCP 656
+d) TCP 756
+ANSWER: B
+
+29. lCUal de las siguientes caracteristicas pertenece al algoritmo de Dijkstra?
+a) Se le conoce tambien como algoritmo de Bellman & Ford.
+b) Determlna el camino mas corto dado un vertlce origen al resto de los vertices en un grafo con pesos en cada arista.
+c) El metoclo de enrutamiento vector de dlstancias usa este algoribTio.
+d) Fundona siempre aun cuando el grafo tiene aristas de coste negativo.
+ANSWER: B
+
+30. lCual de las siguientes tecnicas permite ahorro de energia en un CPD?
+a) Utilizaci6n de sistemas UPS de carga menor.
+b) Consolidaci6n de servicios.
+c) Uso de discos en RAID 5.
+d) Instalaci6n de sistemas de clfmatizaci6n muy redundantes.
+ANSWER: B
+
+31. ¿Qué porcentaje de disponlbilidad garantizada tiene un Data Center de categoría Tier 2?
+a) 99.895
+b) 99.671
+c) 99.741
+d) 99.982
+ANSWER: C
+
+32. Segun la RFC 3032, de entre los valores reservados en la etlqueta MPLS, el valor 2 se corresponde con la etiqueta:
+a) de Alerta de Router.
+b) NULL Implfcita.
+c) NULL Explfcita 1Pv4.
+d) NULL Expliclta 1Pv6.
+ANSWER: D
+
+33. La cabecera MPLS de un paquete se encuentra (respecto a las capas OSI):
+a) Antes de la cabecera de capa 2.
+b) Entre la cabecera de la capa 2 y la cabecera de la capa 3.
+c) Entre la cabecera de la capa 3 y la cabecera de la capa 4.
+d) Despues de la cabecera de la capa 4.
+ANSWER: B
+
+34. Sefiale la afirmacion CORRECTA sobre la cabecera MPLS segun fndica la RFC 3031:
+a) Un valor de Oen ei'campo t.abel (Etfqueta) representa una etiqueta NULL implfcita.
+b) El bit "S" tendra un valor de "1" en la primera y siguientes etiquetas del "stack'' excepto en la ultrma, donde tendra el valor 11011.
+c) cada etiqueta MPLS se compone de 5 campos.
+d) El campo TTL se almacena usando 8 bits.
+ANSWER: D
+
+35. l.Cual de los siguientes ataques y vulnerabilidades NO afecta a la famllia de protocolos SSL/TIS o alguna de sus implementaciones?
+a) Heartbleecl
+b) POODLE
+c) CRIME
+d) Shellshock
+ANSWER: D
+
+36. El algoritmo Blowfish utilizado en crlptografia, es un algoritmo de cifrado por bloques de:
+a) 64 bits y clave de tamano variable.
+b) 128 bits y clave de 56 bits.
+c) tamano variable y dave de tamai'io variable.
+d) 64 bits y clave de 128 bits.
+ANSWER: A
+
+37. En el amblto de la seguridad de sistemas, un indicador de compromiso (IOC - Indicator of Compromise) sirve para:
+a) Confirmar el nivel de ataque realizado a la organizaci6n en un periodo de tiempo corto.
+b) Determinar el objetivo que se quiere alcanzar con las politicas de seguridad definidas.
+c) Identificar sl un sistema ha sido comprometido o si se esta intentando comprometer1o.
+d) Medir el compromiso de los usuarios en las polfticas aplicadas en su organizaci6n.
+ANSWER: C
+
+38. YARA es una herramienta til.iz.ada en el cimbito de:
+a) La segurfdad de sistemas';. ·
+b) Las comunicaciones inalambricas.
+c) La virtualizad6n de sistemas.
+d) Las comunicaciones m6viles.
+ANSWER: A
+
+39. c.Que mecanismo asociado a IPSec proporciona la confidencialidad de la comunicacion?
+a) Authentication Header (AH).
+b) SSL
+c) Encapsulating Security Payload (ESP).
+d) Internet key exchange (IKE).
+ANSWER: C
+
+40. c.Cu61 de entre los siguientes formatos de firma electronica NO es considerado como formato de firma longeva (dotada de validez a lo largo del tlempo)?
+a) PAdES-BES
+b) CAdES-A
+c) CAdES-LlV
+d) CAdES-XL
+ANSWER: A
+
+41. De entre los siguientes est:iindares XML del W3C, i.Cual define politicas de control de acceso de usuarios?
+a) DSML
+b) XrML
+c) XACML
+d) XKML
+ANSWER: C
+
+42. i.Qu tipo de codigo mallcfoso es un Stealer?
+a) Virus
+b) Gusano
+c) Troyano
+d) Adware
+ANSWER: C
+
+43. IPsec consta de tres protocolos, indicar el FALSO:
+a) AH (Authentication Header)
+b) ESP (Encapsulation Security Payload)
+c) ISAP (Internet Security Association Protocol)
+d) IKE (Internet Key Exchange)
+ANSWER: C
+
+44. TFTP (Trivial File Transfer Protocol), segun lo definido en la RFC 1350, soporta 5 tipos de paquetes, seiiale el INCORRECTO:
+a) Data (DATA).
+b) Acknowledgment (ACK).
+c) Read-write request (RWQ),
+d) Error (ERROR).
+ANSWER: C
+
+45. Si nos referimos a la web semcintica, podemos decir que SPARQL:
+a) Esta ligado a un formato de base de datos especifico.
+b) Esta definido en la RFC 2460.
+c) Se puede utilizar para expresar consultas que permiten interrogar diversas fuentes de datos.
+d) No contiene las capacidades para la consulta de los patrones obligatorios y opdonales de grafo.
+ANSWER: C
+
+46. Un sistema FAMM (Frequency Aglle MultiMode) permite:
+a) transformar los paquetes del Cable Modem en celdas ATM.
+b) el uso de varios PCs conectados a un (mico cable Modem.
+c) el enrutado de trafico IP de forma transparente entre usuarios y cabecera.
+d) a los cable Modem conmutar de un canal ruidoso a otro en mejores condiciones de manera automatica.
+ANSWER: D
+
+47. La antigua CMT, ahora integrada en la CNMC, permite a Telefonica el cierre de la centrales de cobre que ofrecen servlcios de xDSL sf se cumplen 3 condiciones. lCual NO es una de ellas?
+a) Solo se puede cerrar una central cuando mas del 25% de los dientes de esa central se conecten par medics alternatives a la red de cobre (por ejemplo, fibra 6ptica).
+b) Si los operadores alternatil/Os son exdusivamente "operadores virtuales", Telefonica debera avisarles con 6 meses de antelaci6n para que puedan mlgrar a sus dientes.
+c) Si no hay operadores alternatives coubicados en la central, el periodo de garantfa se reduce a 1 afio, seguido de los 6 meses de guarda.
+d) Si en esa central hay operadores alternatives desagregando bucle, Telefonica debera seguir prestando ese servicio mayorista durante s afios, mas 6 meses de guarda. Esos 5 afios seran suficientes para que los operadores alternatives puedan mlgran a sus clientes a otras redes.
+ANSWER: B
+
+48. ¿Cual de los siguientes c6dec NO es utilizado en la tecnologfa VoIP (Voice over Internet Protocol)?
+a) G.711
+b) G.729
+c) G.723
+d) G.730
+ANSWER: D
+
+49. ¿Como se llama la red de satelltes diseiiada por Motorola que permite telefonia vra satelfte?
+a) Galileo
+b) GSM
+C) Hispasat
+d) Iridium
+ANSWER: D
+
+50. En una red VoIP H.323, lqulen tiene las funciones de Reglstro, admisi6n y estado?
+a) Terminal H.323
+b) can Agent
+c) Gateway
+d) Gatekeeper
+ANSWER: D
+
+51. Las siglas DECT se corresponden con:
+a) Digital Electronic Cordless Telecommunications.
+b) Digital Energy Cordless Telecommunications.
+c) Digital Enhanced Cordless Telecommunications.
+d) Digital Edge Cordless Telecommunications.
+ANSWER: C
+
+52- l.Cu61 de las siguientes interfaces y protocolos NO se usa para conexiones de almacenamlento de conexl6n directa (DAS)?
+a) Fibre Channel.
+b) externo Serial Advanced Technology Attachment (eSATA).
+c) Serial Link (Slink).
+d) Serial attached SCSI (SAS).
+ANSWER: C
+
+53. Indlque la afirmaci6n correcta:
+a) La 18 generaci6n de telefonfa m6vil se caracteriz6 par la transmisi6n anal6gica, rmitie,ido llamadas de voz y envfo de mensajes SMS (Short Message Service).
+b) La 28 generaci6n de telefonfa m6vil se caracteriz6 por utllizar el servicio digital, permitiendo envro de mensajes MMS (Multimedia Messaging Service).
+c) EDGE (Enhanced Data Rates for GSM Evolutton) se considera una evolud6n del GPRS (General Packet Radio Service) y funciona con redes LTE (Long Tenn Evolution) y su me.Jara GSM.
+d) La 38 generaci6n de telefonfa m6vil increment6 el grado de seguridad al autenticar la red a la que se esta conectando.
+ANSWER: D
+
+54. En GSM, las bases de datos que contienen datos de los usuarios se denominan:
+a) HSC y VSC.
+b) BSC y MSC.
+c) HLR y VLR.
+d) BLR y MLR.
+ANSWER: C
+
+55. Señale qué estándares WiFi utilizan la banda de 2.4 GHz:
+a) 802.llb y 802.llac.
+b) 802.llg y 802.lla.
+c) 802.lln y 802.llh.
+d) 802.llg y 802.lln.
+ANSWER: D
+
+56. En una red wifi, c.cu61 de los sigulentes NO es un protocolo de seguridad que le sea aplicable?
+a) WPA2
+b) WPA
+c) WAP
+d) WEP
+ANSWER: C
+
+57. ¿Cuál de las siguientes características de seguridad está incluida en el estándar WPA2 pero no lo está en el estandar WPA?
+a) TKIP.
+b) Encriptaci6n AES.
+c) Autenticaci6n 802.lx.
+d) Preshared Keys {PSI<).
+ANSWER: B
+
+58. El dividendo digital es:
+a) El elemento que se divide por un numero primo coma operaci6n criptografica previa que se realiza en el dfrado AES.
+b) El conjunto de frecuencias que han quedado libres por la migraci6n de la televisi6n anal6gica a la digital.
+c) El resultado econ6mico de una inversion en Bltcoln o de otra divisa digital.
+d) Uno de las tres componentes de la unidad de calculo en las procesadores de arquitectura x86.
+ANSWER: B
+
+59. El nombre de las especlficaciones de comunicaciones por linea elktrica que facilitan la creacion de redes a ttav6s
+del cableado elec:1:1'.'ICO preexistente en el hogar cuyo estandar es el IEEE 1901-2010 se denomina:
+a) HomePlug AV
+b) PLC
+c) DomotIc-MIMO
+d) IndoorWall
+ANSWER: A
+
+60. i.A que frecuencia de canal puede llegar el est6ndar Wi-Fi AC Wave 2?
+a) 60 MHz.
+b) 90 MHz.
+c) 160 MHz.
+d) 180 MHz.
+ANSWER: C
+
+1. [RESERVA] En los slstemas operativos UNIX, indique cu61 de los siguientes NO es un comando para el tratamiento de ficheros detexto:
+a) rpm
+b) vi
+c) awk
+d) sed
+ANSWER: A
+
+2. [RESERVA] Tecnologia de virtualizaci6n que NO es open source:
+a) VMWare VSphere.
+b) Kernel-based Virtual Machine (KVM).
+c) Xen.
+d) OpenVZ.
+ANSWER: A
+
+3. [RESERVA] Respecto a los algoritmos DSA y RSA:
+a) RSA es un algoritmo mas lento que el DSA.
+b) DSA es valido tanto para cifrar como para firmar digitalmente, RSA en cambio no cifra.
+c) DSA es una variante del algoritmo de El Gama!,
+d) Tanto DSA coma DSA utilizan cifrado simetrico.
+ANSWER: C

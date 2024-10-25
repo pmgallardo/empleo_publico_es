@@ -1,0 +1,441 @@
+BLOQUE III
+1.¿Cuál de las siguientes respuestas incluye todas las actividades que se realizan en cada ciclo del modelo del ciclo de vida en espiral?
+a) Determinación de objetivos, Análisis de riesgos, Desarrollo y prueba y Planificación.
+b) Análisis, Diseño, Construcción y Validación.
+c) Estudio de viabilidad, Análisis de requisitos, Especificación de requisitos, Desarrollo y Pruebas
+d) Educción de Requisitos, Generación de Prototipos, Adaptación de Prototipos y Desarrollo final.
+ANSWER: A
+
+2. Señale la respuesta INCORRECTA en relación con el modelo de proceso unificado de desarrollo software:
+a) Modelo de proceso inspirado en los modelos de ciclo de vida iterativos para el desarrollo de sistemas software.
+b) Los proyectos se organizan en cinco fases: Inicio, Elaboración, Construcción, Transición y Entrega.
+c) Es un modelo centrado en la arquitectura.
+d) Está dirigido por casos de uso.
+ANSWER: B
+
+3.Los procesos de la estructura principal de Métrica v3 son:
+a) Planificación, Análisis, Construcción y Mantenimiento de sistemas de información.
+b) Análisis, Desarrollo y Mantenimiento de sistemas de información.
+c) Análisis, Desarrollo, Pruebas y Mantenimiento de sistemas de información.
+d) Planificación, Desarrollo y Mantenimiento de sistemas de información.
+ANSWER: D
+
+4. En el PERT, el tiempo last del último suceso:
+a) Es siempre cero.
+b) Es igual a su tiempo early.
+c) Es mayor que su tiempo early.
+d) Es menor que su tiempo early.
+ANSWER: B
+
+5. Señala la respuesta INCORRECTA en relación con el método Delphi:
+a) Barry Boehm y John A. Farquhar originaron la variante del método Delphi denominada de "banda ancha" (wideband).
+b) En el método Delphi tradicional los expertos rellenan un impreso de manera anónima, pueden hacer preguntas al coordinador pero no entre ellos.
+c) En la variación "banda ancha" no es necesario que los participantes se reúnan con el coordinador.
+d) En el método tradicional el coordinador ofrece a cada experto el valor medio de las opiniones recogidas y pide una nueva estimación anónima indicando las razones de las posibles modificaciones.
+ANSWER: C
+
+6. ¿Qué interfaces define Métrica v3?
+a) Aseguramiento de la Calidad, Seguridad, Gestión del Mantenimiento y Gestión de Proyectos.
+b) Aseguramiento de la Calidad, Gestión del Capital Humano, Seguridad y Gestión de Proyectos.
+c) Aseguramiento de la Calidad, Seguridad, Gestión de Configuración y Gestión de Proyectos.
+d) Seguridad, Mejora Continua, Gestión de Configuración y Gestión de Proyectos.
+ANSWER: C
+
+7. ¿A qué tipo de metodologías asignaría SCRUM?
+a) Metodologías de Tiempo Real.
+b) Metodologías Ágiles.
+c) Metodologías Orientadas a Objetos.
+d) Metodologías Estructuradas Orientadas a Datos Jerárquicos.
+ANSWER: B
+
+8. Cuál de los siguientes NO es un interfaz de la metodología Métrica 3:
+a) Planificación del sistema de información.
+b) Aseguramiento de la calidad.
+c) Seguridad.
+d) Gestión de la configuración.
+ANSWER: A
+
+9. En Métrica v3 las actividades de la Interfaz de Gestión de Proyectos se dividen en los siguientes grupos:
+a) Actividades de Comienzo del Proyecto, Actividades de Seguimiento y Control y Actividades de Aceptación.
+b) Actividades de Planificación del Proyecto, Actividades de Control de proyectos y Actividades de Aceptación.
+c) Actividades de Inicio del Proyecto, Actividades de Seguimiento y Control y Actividades de Finalización.
+d) Actividades de Inicio del Proyecto, Actividades de Control de Calidad y Actividades de Cierre.
+ANSWER: C
+
+10. Seleccione de los siguientes participantes de MÉTRICA v3 el que se NO se agrupa dentro del perfil de Analista:
+a) Equipo de Soporte Técnico.
+b) Grupo de Aseguramiento de la Calidad.
+c) Administrador de Bases de Datos.
+d) Técnico de Sistemas.
+ANSWER: D
+
+11. Dentro de la actividad Inicio del Plan de Sistemas de Información (PSI) de Métrica v3, indique los participantes y técnicas/prácticas correctas para la tarea Análisis de la necesidad del PSI (PSI 1.1):
+a) Comité de Dirección y Sesiones de trabajo.
+b) Jefe de Proyecto del PSI y Sesiones de trabajo.
+c) Directores de Usuarios y Catalogación.
+d) Comité de Dirección y Factores críticos de éxito.
+ANSWER: A
+
+12. Señale cuál de las siguientes NO es una técnica según Métrica v3 (si no que la define como práctica):
+a) Optimización.
+b) Cálculo de accesos.
+c) Diagrama de extrapolación.
+d) Reglas de transformación.
+ANSWER: B
+
+13. En la Interfaz de Gestión de Proyectos de MÉTRICA v3, señale entre los siguientes un producto correcto de salida que tiene la tarea "GPI 1.1, identificación de elementos a desarrollar" en el caso de desarrollo estructurado:
+a) Planificación General del Proyecto: Estrategia de desarrollo estructurado.
+b) Catálogo de productos a generar.
+c) Catálogo de clases.
+d) Catálogo de entidades.
+ANSWER: D
+
+14. En cuanto a las sesiones JAD (Joint Application Design), definidas según Métrica V3, señale la respuesta verdadera:
+a) Tienen como objetivo potenciar la participación activa de la alta dirección.
+b) Uno de los perfiles implicados es el de Consultor.
+c) La información de salida dependerá de la actividad del Plan de sistemas de Información.
+d) Se involucra a los usuarios principalmente en la especificación de requisitos del sistema y en la validación de prototipos.
+ANSWER: D
+
+15. Según se especifica en la metodología Métrica V3, ¿cuál de los siguientes participantes NO interviene en la actividad EVS 3, de Definición de Requisitos de Sistema?
+a) Comité de Dirección.
+b) Usuarios expertos.
+c) Jefe de Proyecto.
+d) Analistas.
+ANSWER: A
+
+16.Según Métrica v3, en un diagrama de flujo de datos DFD:
+a) Los almacenes de datos pueden relacionarse entre sí.
+b) Un almacén aparecerá por primera vez en aquél nivel en que dos o más procesos accedan a él.
+c) Un almacén puede crear, transformar o destruir datos.
+d) Dos procesos deben relacionarse siempre a través de una entidad externa.
+ANSWER: B
+
+17. Según Métrica v3, los flujos de datos de tipo diálogo, que comunican procesos con almacenes en un DFD (diagrama de flujo de datos) son aquellos que:
+a) Representan la utilización de los valores de uno o más campos de un almacén o la comprobación de que los valores de los campos seleccionados cumplen unos criterios determinados.
+b) Representan una consulta y una actualización entre el proceso y el almacén.
+c) Representan la alteración de los datos de un almacén como consecuencia de la creación de un nuevo elemento, por eliminación o modificación de otros ya existentes.
+d) Representan un trigger programado entre el proceso y el almacén.
+ANSWER: B
+
+18. En la técnica de DFDs, según Métrica v3, señale la respuesta INCORRECTA:
+a) El nivel 0 se llama diagrama de contexto.
+b) Los flujos de datos que comunican procesos con almacenes pueden ser de consulta, diálogo o de control.
+c) La descomposición por niveles se realiza de arriba abajo (top-down).
+d) Los diagramas deben ser consistentes.
+ANSWER: B
+
+19. En una base de datos de coches hay una tabla con marcas de coches (código_marca y nombre_marca) y otra con modelos (código_marca, código_modelo, nombre_modelo). Para que la base de datos mantenga la integridad referencial:
+a) Si borro una marca, antes tengo que borrar todas las ocurrencias de modelos de esa marca.
+b) Si borro un modelo, antes tengo que borrar la marca correspondiente.
+c) No puedo dar de alta ninguna marca si no hay antes algún modelo de la misma.
+d) Al modificar el nombre de una marca tengo que modificar antes el código_marca en los modelos correspondientes.
+ANSWER: A
+
+20. La arquitectura ANSI/SPARC, define los niveles de abstracción para un sistema de administración de bases de datos. Indicar el nivel INCORRECTO:
+a) Nivel físico: define cómo se almacenan los datos y los métodos de acceso.
+b) Nivel conceptual: define cómo se organiza la información dentro de la base de datos.
+c) Nivel contextual: define el formato de los campos.
+d) Nivel externo: define las vistas del usuario.
+ANSWER: C
+
+21. Señale en qué nivel de aislamiento definido en ANSI/ISO SQL, puede ocurrir el problema de lecturas sucias en un sistema gestor de bases de datos relacional (SGDBR):
+a) Serializable.
+b) Repeatable Read (lecturas repetibles).
+c) Read Committed (lecturas comprometidas).
+d) Read Uncommitted (lecturas no comprometidas).
+ANSWER: D
+
+22. [ANULADA] Elija la respuesta correcta con respecto a los grafos:
+a) Un árbol es un grafo dirigido y acíclico.
+b) Un grafo está completamente conectado si existe como mínimo un camino entre cualquier par de vértices distintos.
+c) En un grafo el grado interior de un vértice es el número de aristas que llegan a él.
+d) La lista de adyacencia es una lista donde las filas y las columnas hacen referencia a los vértices para almacenar en cada casilla la longitud entre cada par de vértices del grafo.
+ANSWER:
+
+23.El algoritmo de ordenación que hace uso de un elemento pivote es:
+a) Bubblesort.
+b) Heapsort.
+c) Quicksort.
+d) ShellSort.
+ANSWER: C
+
+24.En teoría de colas, el modelo de disciplina de cola denominado RSS se refiere a que:
+a) Se atiende primero al cliente que antes haya llegado.
+b) Selecciona a los clientes de manera aleatoria, de acuerdo a algún procedimiento de prioridad o a algún otro orden.
+c) Sirve a los clientes igualmente, se reparte un espacio de tiempo a cada cliente.
+d) Se atiende primero al cliente que ha llegado el último.
+ANSWER: B
+
+25.¿Cuál de los siguientes grupos de principios es propio de un buen diseño estructurado?
+a) Modularidad, dependencia funcional y principio de caja "blanca".
+b) Modularidad, independencia funcional y principio de caja "blanca".
+c) Modularidad, independencia funcional y principio de caja "negra".
+d) Modularidad, dependencia funcional y principio de caja "negra".
+ANSWER: C
+
+26. ¿Cuál de las siguientes afirmaciones sobre cohesión y acoplamiento es correcta?
+a) El acoplamiento mide la relación entre los elementos de un módulo, buscando que sea máximo.
+b) La cohesión mide el grado de interdependencia entre módulos, buscando que sea mínimo para independizarlos y garantizar su fácil mantenibilidad.
+c) La cohesión mide la relación entre los elementos de un módulo. Existen distintos tipos de cohesión: funcional, secuencial, temporal, etc.
+d) La cohesión mide la relación entre los elementos de un módulo. Existen distintos tipos de cohesión: normal, externa, común, etc.
+ANSWER: C
+
+27. Uno de los indicadores que hace patente una escasa calidad de un diseño software es el siguiente:
+a) Un alto acoplamiento entre sus módulos.
+b) Una alta cohesión entre los elementos de un módulo.
+c) No disponer de código duplicado.
+d) No seguir un diseño en cascada.
+ANSWER: A
+
+28. ¿Cuál de las siguientes es considerada una prueba de caja negra?
+a) Prueba del camino básico.
+b) Prueba de bucles.
+c) Prueba de partición equivalente.
+d) Pruebas de flujo de datos.
+ANSWER: C
+
+29. ¿Cuál de las siguientes informaciones sobre la fase de pruebas del software es correcta?
+a) Las pruebas de integración bottom-up necesitan módulos auxiliares que sustituyan a los módulos que son llamados por otros de más alto nivel.
+b) Las pruebas de integración top-down necesitan módulos conductores (drivers) que simulen las llamadas a los módulos que se están probando.
+c) Las pruebas funcionales o de caja negra permiten comprobar el correcto funcionamiento de los componentes del sistema analizando entradas y salidas y verificando exclusivamente el resultado.
+d) Las pruebas estructurales o de caja blanca permiten comprobar el correcto funcionamiento de los componentes del sistema analizando entradas y salidas y verificando exclusivamente el resultado.
+ANSWER: C
+
+30. Indique cuál de las siguientes afirmaciones sobre las actividades de prueba y su relación con la metodología Métrica v3 es correcta:
+a) La definición de los requisitos del entorno de pruebas se realiza durante la fase de Diseño del Sistema de Información (DSI).
+b) La planificación de las pruebas se realiza durante la fase de Construcción del Sistema de Información (CSI).
+c) Durante la fase Construcción del Sistema de Información (CSI) se lleva a cabo la ejecución de las pruebas del sistema.
+d) Durante la fase de Construcción del Sistema de Información (CSI) se lleva a cabo la ejecución de las pruebas de aceptación.
+ANSWER: C
+
+31. Señale qué software NO está relacionado con las pruebas del software de aplicaciones web:
+a) Badboy.
+b) Selenium.
+c) Jmeter.
+d) Cherokee.
+ANSWER: D
+
+32. En relación a pruebas de integridad de software, si hablamos de integración tipo sandwich nos referimos a que:
+a) Los módulos se integran en grupos que constituyen una funcionalidad identificada.
+b) Se identifica el nivel de riesgo asociado a cada módulo, los de riesgo alto se integran primero y los de menor riesgo se integran más tarde.
+c) A medida que se integran los módulos, se realizan pruebas para capturar y corregir nuevos errores, es decir, empezando por los componentes que llaman a otros componentes.
+d) Primero se integran los módulos de alto nivel y de control. Después, los módulos de bajo nivel. La integración de los módulos de nivel intermedio se hace al final.
+ANSWER: D
+
+33. El tipo de prueba BigBang es de tipo:
+a) Prueba de sistema.
+b) Prueba de aceptación.
+c) Prueba de rendimiento.
+d) Prueba de integración.
+ANSWER: D
+
+34. Respecto a las pruebas de integración:
+a) Pueden ser de caja blanca o de caja negra.
+b) Uno de sus objetivos es comprobar que los cambios introducidos sobre un componente no introducen un comportamiento no deseado o errores adicionales en otros componentes no modificados.
+c) Dan una visión muy similar a su comportamiento en el entorno de producción.
+d) Sus tipos fundamentales son incremental y no incremental.
+ANSWER: D
+
+35. En un diagrama de clases UML, si un método va precedido del símbolo '-' (menos) quiere decir que sólo es accesible:
+a) desde dentro de la clase.
+b) desde cualquier clase de cualquier paquete de clases.
+c) desde clases del mismo paquete.
+d) desde dentro de la clase o desde clases que hereden de ella.
+ANSWER: A
+
+36. ¿Cuál de los siguientes diagramas NO pertenece a los diagramas de estructura UML 2?
+a) Diagrama de paquetes.
+b) Diagrama de clases.
+c) Diagrama de actividades.
+d) Diagrama de despliegue.
+ANSWER: C
+
+37. Señale la respuesta correcta en relación a la tecnología JPA (Java Persistence API).
+a) El fichero "persistence.xml" permite la configuración de JPA.
+b) Existen dos métodos para gestionar las transacciones denominados "RESOURCE_LOCAL" y "JTA".
+c) JPQL es un lenguaje de consulta orientado a objetos, independiente de la plataforma y definido como parte de la especificación JPA.
+d) Todas son correctas.
+ANSWER: D
+
+38. Indique cuál de las siguientes NO está relacionada con la persistencia para Java EE:
+a) JPA.
+b) Hibernate.
+c) JSON.
+d) iBATIS.
+ANSWER: C
+
+39. El paquete Java SE 8 al que pertenece el interfaz List es:
+a) java.lang
+b) java.util
+c) java.collection
+d) List no es un interfaz Java, está definido como clase abstracta.
+ANSWER: B
+
+40. Al conjunto de documentos que definen patrones de diseño y prácticas recomendadas en la creación de aplicaciones utilizando Java Enterprise Edition se denomina:
+a) Java BluePrints.
+b) Java Specification Request.
+c) Java Community Process.
+d) Java Pattern Spec.
+ANSWER: A
+
+41. En la plataforma Microsoft .NET, el encargado de transformar el código intermedio a código máquina se denomina:
+a) ByteCode.
+b) Empaquetador COM.
+c) CIL.
+d) CLR.
+ANSWER: D
+
+42. ¿Qué función tiene la tecnología Entity Framework de .Net?
+a) Realiza mapeos entre clases y bases de datos relacionales (ORM, Object-Relational Mapping).
+b) Permite realizar mapeos entre XML y clases (XSDS, XML Serializer-DeSerializer).
+c) Permite exponer objetos para que sean accedidos remotamente, como CORBA o DCOM.
+d) Realiza una adaptación entre clases de .Net y otros lenguajes, permitiendo acceso transparente.
+ANSWER: A
+
+43. La plataforma informática y de servicios en Internet hospedada en centros de datos administrados o respaldados por Microsoft se llama:
+a) Bajoo.
+b) Azure.
+c) Heroku.
+d) Adrive.
+ANSWER: B
+
+44. En .NET, ¿qué es el Managed Extensibility Framework (MEF)?
+a) Es una arquitectura que proporciona primitivos asíncronos de paso de aprobación de mensajes sin tipo.
+b) Es un modelo extensible de programación, motor y herramientas para generar con rapidez aplicaciones de flujo de trabajo en Windows.
+c) Es una biblioteca de clases portable que permite escribir y compilar ensamblados administrados capaces de funcionar en múltiples plataformas de .NET.
+d) Es una biblioteca para crear aplicaciones ligeras y extensibles.
+ANSWER: D
+
+45. Los proveedores de datos .NET Framework incluyen un objeto DbConnection para conectarse al origen de datos. Señale, entre las siguientes clases, cuál NO pertenece a un proveedor de datos incluido en el .NET Framework 4.5:
+a) EntityConnection.
+b) SqlConnection.
+c) SqlCeConnection.
+d) OleOdbcConnection.
+ANSWER: D
+
+46. En un Servicio Web, qué lenguaje de los siguientes especifica la sintaxis y los mecanismos de intercambio de mensajes:
+a) WSDL.
+b) SOAP.
+c) UDDI.
+d) WS-Security.
+ANSWER: A
+
+47. En una aplicación web que tiene un formulario en el que se solicita al usuario el NIF y se desea controlar que la letra del NIF introducida por el usuario sea la correcta, ¿se podría usar JavaScript para hacer ese control?
+a) No, se necesita acceso a la base de datos de NIFs del servidor.
+b) Si, es un control que se puede hacer de forma local sin acceder al servidor.
+c) No, se necesita un applet de Java para realizar esa operación.
+d) Si, JavaScript permite hacer el cálculo en el servidor mediante una petición HTTP, aunque no hacer el cálculo localmente.
+ANSWER: B
+
+48. Señale la manera de proceder en el lenguaje PHP, para poder utilizar dentro de una función una variable que se define globalmente en una página:
+a) No se debe declarar explícitamente, puesto que las variables globales son accesibles directamente desde cualquier función definida en la misma página.
+b) Se puede usar el array $GLOBALVars para acceder al contenido de la variable.
+c) Se podría declarar la variable como global al principio de la función mediante el uso de la palabra reservada “global” seguido del nombre de la variable a utilizar.
+d) Se debe declarar la variable como "static".
+ANSWER: C
+
+49. ¿Qué tienen en común los lenguajes ASP, JSP y PHP?
+a) Los tres son lenguajes interpretados.
+b) Los tres son lenguajes que se ejecutan en el lado cliente.
+c) Los tres son lenguajes que se ejecutan en el lado servidor.
+d) ASP Y JSP son ejecutados en el lado servidor, mientras que PHP sólo es ejecutado en el lado cliente.
+ANSWER: C
+
+50. Señale qué tecnología de servicios web se podría usar para enviar ficheros de gran tamaño en un servicio Web, con tecnología SOAP que optimiza en formato binario:
+a) REST-WS
+b) ATOM
+c) MTOM
+d) WSS
+ANSWER: C
+
+51. ¿Cuál de las siguientes tecnologías NO se usa en el desarrollo de servicios web?
+a) AXIS
+b) JAX-WS
+c) CXE
+d) AXIS 2
+ANSWER: C
+
+52. WebDAV (RFC 4918) son un conjunto de extensiones para el protocolo HTTP, entre ellos, el método PROPPATCH que sirve para:
+a) Crear colecciones.
+b) Recuperar propiedades, almacenadas como XML, desde un recurso.
+c) Cambiar y borrar múltiples propiedades de un recurso en una simple operación atómica.
+d) Desbloquear un recurso.
+ANSWER: C
+
+53. El lenguaje de consulta que nos proporciona los medios para extraer y manipular información en documentos o, de cualquier fuente de datos XML, y que utiliza expresiones XPath para acceder a determinadas partes del documento XML se denomina:
+a) X-Ask
+b) XInclude
+c) XLink
+d) XQuery
+ANSWER: D
+
+54. El nivel máximo de madurez en CMMI es el nivel 5, o nivel:
+a) Optimizado.
+b) Administrado cuantitativamente.
+c) Definido.
+d) Productivo.
+ANSWER: A
+
+55. El ciclo de Deming es una estrategia de mejora continua de la calidad en la administración de una organización, los 4 pasos de la estrategia son:
+a) Plan, Do, Construct, Approval (Planificar, Hacer, Construir, Aprobar).
+b) Plan, Do, Check, Act (Planificar, Hacer, Verificar, Actuar).
+c) Plan, Develop, Control, Anticipate (Planificar, Desarrollar, Controlar, Tener previsto).
+d) Plan, Deduct, Control, Approval (Planificar, Deducir, Controlar, Aprobar).
+ANSWER: B
+
+56. Señale la familia de normas que tiene por objetivo la creación de un marco de trabajo común para evaluar la calidad del producto software:
+a) ISO 25000
+b) ISO/IEC 20000-1
+c) ISO/IEC 27001
+d) IEC 15504 e ISO/IEC 12207
+ANSWER: A
+
+57.Las normas ISO/IEC 2501n pertenecientes a la familia de normas ISO/IEC 25000:
+a) Incluyen un modelo de referencia de la medición de la calidad del producto, definiciones de medidas de calidad y guías para su aplicación.
+b) Presentan modelos de calidad detallados incluyendo características para calidad interna, externa y en uso del producto software.
+c) Definen todos los modelos, términos y definiciones comunes referenciados por todas las otras normas de la familia 25000.
+d) Ayudan a especificar requisitos de calidad que pueden ser utilizados en el proceso de elicitación.
+ANSWER: B
+
+58. Según WCAG 2.0, ¿cuáles son los 4 principios que forman los cimientos de la accesibilidad web?
+a) Percibible (perceivable), operable, comprensible (understandable) y robusto (robust).
+b) Percibible (perceivable), sencillo (straightforward), comprensible (understandable) y robusto (robust).
+c) Distinguible (distinguishable), sencillo (straightforward), comprensible (understandable) y robusto (robust).
+d) Distinguible (distinguishable), sencillo (straightforward), memorizable (memorable) y robusto (robust).
+ANSWER: A
+
+59. Las normas WAI del W3C se utilizan para medir el grado de cumplimiento de determinadas pautas de:
+a) Accesibilidad.
+b) Usabilidad.
+c) Calidad.
+d) Seguridad.
+ANSWER: A
+
+60. Indique el principio de la WCAG 2.0 asociado a la pauta "maximizar la compatibilidad":
+a) Operable.
+b) Perceptible.
+c) Robustez.
+d) Comprensible.
+ANSWER: C
+
+1. [RESERVA] Señale qué JSR de Java define la especificación de Portlets versión 2.0:
+a) JSR 268.
+b) JSR 186.
+c) JSR 286.
+d) JSR 127.
+ANSWER: C
+
+2. [RESERVA] La notación UML (Lenguaje Modelado Unificado), se deriva de y unifica tres metodologías de análisis y diseño Orientada a Objetos, indicar la respuesta INCORRECTA:
+a) Metodología de Grady Booch para la descripción de conjuntos de objetos y sus relaciones.
+b) Metodología de Boyce-Codd (FNBC) para la descripción de campos y objetos.
+c) Técnica de modelado orientada a objetos de James Rumbaugh (OMT: Object-Modeling Technique).
+d) Aproximación de Ivar Jacobson (OOSE: Object- Oriented Software Engineering) mediante la metodología de casos de uso.
+ANSWER: B
+
+3. [RESERVA] Señale cuál de las siguientes NO es una base de datos NoSQL basada en un modelo de almacenamiento de «clave-valor»:
+a) Cassandra.
+b) Dynamo.
+c) Radiant.
+d) Oracle NoSQL.
+ANSWER: C

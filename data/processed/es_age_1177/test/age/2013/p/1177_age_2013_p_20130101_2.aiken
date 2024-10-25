@@ -48,14 +48,14 @@ c) Analista.
 d) Programador.
 ANSWER: A
 
-8.En Métrica v3, para la tarea "GPI 1.1, identificación de elementos a desarrollar", el producto de salida específico en orientación a objeto es:
+8. En Métrica v3, para la tarea "GPI 1.1, identificación de elementos a desarrollar", el producto de salida específico en orientación a objeto es:
 a) Catálogo de clases.
 b) Catálogo de entidades.
 c) Catálogo de miembros.
 d) Catálogo de interfaces.
 ANSWER: A
 
-9.Cuál de las siguientes palabras y acrónimos NO está relacionado con Metodologías Ágiles para el desarrollo de software:
+9. Cuál de las siguientes palabras y acrónimos NO está relacionado con Metodologías Ágiles para el desarrollo de software:
 a) SCRUM
 b) XP
 c) DSDM
@@ -69,35 +69,35 @@ c) Valoración de Alternativas.
 d) Definición del sistema.
 ANSWER: A
 
-11.¿Qué practicas, según Métrica v3, tienen como objetivo potenciar la participación activa de ANSWER:la alta dirección como medio para obtener los mejores resultados en el menor tiempo posible y con una mayor calidad de los productos?
+11. ¿Qué practicas, según Métrica v3, tienen como objetivo potenciar la participación activa de ANSWER:la alta dirección como medio para obtener los mejores resultados en el menor tiempo posible y con una mayor calidad de los productos?
 a) Sesiones JAD.
 b) Sesiones JRP.
 c) Entrevistas.
 d) Reuniones.
 ANSWER: B
 
-12.Señale de entre las siguientes, la norma que establece los requisitos para el diseño y desarrollo de la documentación del software de usuario como parte de los procesos del ciclo de vida:
+12. Señale de entre las siguientes, la norma que establece los requisitos para el diseño y desarrollo de la documentación del software de usuario como parte de los procesos del ciclo de vida:
 a) ISO/IEC 26514.
 b) ISO 7816.
 c) ISO/IEC 12207.
 d) ISO 8859.
 ANSWER: A
 
-13.¿Cuál de los siguientes estándares regula los procesos de ciclo de vida del software?
+13. ¿Cuál de los siguientes estándares regula los procesos de ciclo de vida del software?
 a) ISO/IEC 12207:2008
 b) ISO 9001:2008
 c) ISO 29393:2009
 d) ISO 31000:2009
 ANSWER: A
 
-14.Señale cuál de las siguientes es una técnica de desarrollo según Métrica v3:
+14. Señale cuál de las siguientes es una técnica de desarrollo según Métrica v3:
 a) Técnicas Matriciales.
 b) Método Albrecht.
 c) Análisis de Impacto.
 d) Caminos de Acceso.
 ANSWER: A
 
-15.Dentro del perfil analista de Métrica v3 se agrupa uno de los siguientes participantes:
+15. Dentro del perfil analista de Métrica v3 se agrupa uno de los siguientes participantes:
 a) Especialista en Comunicaciones.
 b) Usuarios expertos.
 c) Técnicos de Comunicaciones.
@@ -111,28 +111,28 @@ c) El software, en su fase de diseño, es la medida principal de progreso.
 d) La simplicidad, o el arte de maximizar la cantidad de trabajo no realizado, es esencial.
 ANSWER: C
 
-17.La actividad EVS-GC 1 de la interface de Gestión de la Configuración (GC) de Métrica v3 recibe entre sus entradas un producto resultante de la actividad:
+17. La actividad EVS-GC 1 de la interface de Gestión de la Configuración (GC) de Métrica v3 recibe entre sus entradas un producto resultante de la actividad:
 a) EVS 4 - Estudio de Alternativas de Solución.
 b) EVS 5 - Valoración de las Alternativas.
 c) EVS 3 - Definición de Requisitos del Sistema.
 d) EVS 1 - Establecimiento del Alcance del Sistema.
 ANSWER: C
 
-18.En un proyecto de desarrollo que utiliza la metodología SCRUM, aquel rol que tiene la responsabilidad de eliminar los obstáculos que impidan el progreso del equipo se denomina:
+18. En un proyecto de desarrollo que utiliza la metodología SCRUM, aquel rol que tiene la responsabilidad de eliminar los obstáculos que impidan el progreso del equipo se denomina:
 a) Product owner.
 b) Retail Cashier.
 c) ScrumMaster.
 d) Development team member.
 ANSWER: C
 
-19.¿Cuál de las siguientes es una herramienta que ayuda a realizar seguimiento a los requisitos a lo largo del ciclo de vida del proyecto para asegurar que se están cumpliendo de manera eficaz?
+19. ¿Cuál de las siguientes es una herramienta que ayuda a realizar seguimiento a los requisitos a lo largo del ciclo de vida del proyecto para asegurar que se están cumpliendo de manera eficaz?
 a) Cuestionarios.
 b) Casos de uso.
 c) Matriz de trazabilidad de requisitos.
 d) Prototipos.
 ANSWER: C
 
-20.Escoja la ordenación correcta de las siguientes técnicas para la realización de prototipos de menor a mayor grado de fidelidad con el sistema final:
+20. Escoja la ordenación correcta de las siguientes técnicas para la realización de prototipos de menor a mayor grado de fidelidad con el sistema final:
 a) Mockup, Sketch y WireFrame.
 b) Sketch, Mockup y WireFrame.
 c) Sketch, WireFrame y Mockup.
@@ -146,21 +146,21 @@ c) Almacén de datos-Almacén de datos.
 d) Entidad Externa-Proceso.
 ANSWER: C
 
-22.Señale cuál de las siguientes NO es un tipo de conexión válida entre un proceso y un almacén de datos de un DFD (diagrama de flujo de datos), según Métrica v3:
+22. Señale cuál de las siguientes NO es un tipo de conexión válida entre un proceso y un almacén de datos de un DFD (diagrama de flujo de datos), según Métrica v3:
 a) Flujo de consulta.
 b) Flujo de actualización.
 c) Flujo de diálogo.
 d) Flujo de sincronización.
 ANSWER: D
 
-23.¿Cuál de los siguientes conceptos NO se puede representar a través de un diagrama de flujo de datos?
+23. ¿Cuál de los siguientes conceptos NO se puede representar a través de un diagrama de flujo de datos?
 a) La persistencia.
 b) Los procesos de transformación.
 c) El flujo de la información.
 d) La herencia.
 ANSWER: D
 
-24.Según Métrica v3 ¿es posible definir un evento (o interrupción) en un diagrama de flujo de datos?
+24. Según Métrica v3 ¿es posible definir un evento (o interrupción) en un diagrama de flujo de datos?
 a) Sí, mediante un flujo de datos.
 b) Sí, mediante un flujo de control.
 c) Si, mediante un proceso iterativo.
@@ -202,20 +202,18 @@ c) Escrituras no confirmadas (write uncommited), escrituras confirmadas (write c
 d) Lecturas no confirmadas (read uncommited), lecturas confirmadas (read commited), escrituras repetibles (repeatable write), transacciones secuenciables (serializable).
 ANSWER: A
 
-30.El término anglosajón "ACID" relacionado con una transacción de base de datos se corresponde con las propiedades:
+30. El término anglosajón "ACID" relacionado con una transacción de base de datos se corresponde con las propiedades:
 a) Autentication, Consistency, Integrity, Durability.
 b) Atomicity, Confidentiality, Identification, Durability.
 c) Atomicity, Consistency, Isolation, Durability.
 d) Availability, Consistency, Isolation, Durability.
 ANSWER: C
 
-31.En relación con la concurrencia en bases de datos, el tamaño del elemento de datos adecuado para el bloqueo (granularidad) afecta al grado de concurrencia de forma que, a menor tamaño del elemento que es bloqueado:
+31. En relación con la concurrencia en bases de datos, el tamaño del elemento de datos adecuado para el bloqueo (granularidad) afecta al grado de concurrencia de forma que, a menor tamaño del elemento que es bloqueado:
 a) Aumenta el grado de concurrencia, aumenta la carga de trabajo para la gestión de bloqueos y el espacio ocupado por la información de bloqueos.
 b) Disminuye el grado de concurrencia, aumenta la carga de trabajo para la gestión de bloqueos y el espacio ocupado por la información de bloqueos.
-c) Disminuye el grado de concurrencia, disminuyendo la carga de trabajo para la gestión de bloqueos y el espacio ocupado
-por la información de bloqueos.
-d) Aumenta el grado de concurrencia, disminuyendo la carga de trabajo para la gestión de bloqueos y el espacio ocupado por
-la información de bloqueos.
+c) Disminuye el grado de concurrencia, disminuyendo la carga de trabajo para la gestión de bloqueos y el espacio ocupado por la información de bloqueos.
+d) Aumenta el grado de concurrencia, disminuyendo la carga de trabajo para la gestión de bloqueos y el espacio ocupado por la información de bloqueos.
 ANSWER: A
 
 32.La instrucción que aborta la transacción en un SGBD y la hace terminar en forma no exitosa se denomina:
@@ -281,56 +279,56 @@ c) Equipo de calidad.
 d) Equipo de implantación.
 ANSWER: A
 
-41.Señale la respuesta INCORRECTA respecto a las características de la metodología de desarrollo software conocida como Proceso Unificado de Desarrollo Software:
+41. Señale la respuesta INCORRECTA respecto a las características de la metodología de desarrollo software conocida como Proceso Unificado de Desarrollo Software:
 a) Es Iterativo e Incremental.
 b) Está dirigido por los casos de uso.
 c) Está enfocado en los riesgos.
 d) Fue creado por Dennis Ritchie y Ken Thompson.
 ANSWER: D
 
-42.Existen dos especificaciones complementarias que constituyen la especificación completa del lenguaje de modelado UML 2.4.1. Estas especificaciones se denominan:
+42. Existen dos especificaciones complementarias que constituyen la especificación completa del lenguaje de modelado UML 2.4.1. Estas especificaciones se denominan:
 a) Intrastructure e Hiperstructure.
 b) Basic y Complex.
 c) Infrastructure y Superstructure.
 d) Infrastructure y Substructure.
 ANSWER: C
 
-43.Indique cuál de los siguientes diagramas de descomposición NO se contempla como técnica en Métrica v3:
+43. Indique cuál de los siguientes diagramas de descomposición NO se contempla como técnica en Métrica v3:
 a) Funcional.
 b) Organizativo.
 c) Lógico.
 d) En Diálogos.
 ANSWER: C
 
-44.Throwable es la superclase de todos los errores y excepciones de Java SE 7. ¿A qué paquete de Java pertenece Throwable?
+44. Throwable es la superclase de todos los errores y excepciones de Java SE 7. ¿A qué paquete de Java pertenece Throwable?
 a) java.lang
 b) java.error
 c) java.util
 d) Throwable no es una clase, es un interface, y éste pertenece al paquete java.io.
 ANSWER: A
 
-45.Señale la afirmación CORRECTA con respecto a un bean de sesión en JavaEE 7:
+45. Señale la afirmación CORRECTA con respecto a un bean de sesión en JavaEE 7:
 a) Una aplicación requerirá normalmente menos beans de sesión stateless que stateful para respaldar al mismo número de clientes.
 b) Los stateful permiten compartir estado entre varios clientes.
 c) Un bean de sesión singleton es instanciado varias veces, según necesidad, pero va a existir una copia (el singleton) todo el ciclo de vida de la aplicación.
 d) Los stateful están respaldados por una base de datos y pueden implementar un servicio web.
 ANSWER: A
 
-46.Señale cuál de las siguientes opciones se ajusta a la siguiente definición: plataforma basada en Java que permite crear rich internet applications (RIA) que se comportan de la misma forma en distintas plataformas:
+46. Señale cuál de las siguientes opciones se ajusta a la siguiente definición: plataforma basada en Java que permite crear rich internet applications (RIA) que se comportan de la misma forma en distintas plataformas:
 a) Flex
 b) JavaFX
 c) AJAX
 d) Silverlight
 ANSWER: A
 
-47.¿Cuál de los siguientes productos Java dispone de un motor de workflow?
+47. ¿Cuál de los siguientes productos Java dispone de un motor de workflow?
 a) Hibernate.
 b) Easy BPM.
 c) Spring.
 d) jBPM.
 ANSWER: D
 
-48.¿Qué significa CDI en el contexto de Java EE 7?
+48. ¿Qué significa CDI en el contexto de Java EE 7?
 a) Contexts and Dependency Injection.
 b) Common Display Interface.
 c) Context-Dependent Interface.
@@ -372,7 +370,7 @@ c) Permite representar a través de objetos la información que contiene una bas
 d) Es un modelo matemático que permite calcular las futuras desviaciones en un proyecto software.
 ANSWER: B
 
-54.¿Cuál de las siguientes pautas está asociada al principio "comprensible" de la WCAG 2.0?
+54. ¿Cuál de las siguientes pautas está asociada al principio "comprensible" de la WCAG 2.0?
 a) Alternativas textuales.
 b) Distinguible.
 c) Predecible.

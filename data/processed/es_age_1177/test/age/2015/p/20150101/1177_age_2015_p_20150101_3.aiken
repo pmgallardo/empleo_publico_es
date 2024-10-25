@@ -1,0 +1,441 @@
+BLOQUE IV
+1. ¿Qué modelo de seguridad utiliza por defecto SNMPv3?
+a) LTPA (Lightweight Third-Party Authentication).
+b) CredSSP (Credential Security Support Provider).
+c) USM (User-based Security Model).
+d) CMS (Credential Manager Service).
+ANSWER: C
+
+2. La tecnología correspondiente a la tercera generación (3G) de telefonía móvil es:
+a) GPRS
+b) CDMA
+c) UMTS
+d) GSM
+ANSWER: C
+
+3. Señale el producto de Microsoft que permite supervisar servicios, dispositivos y operaciones de varios equipos desde una sola consola:
+a) System Center Operations Manager.
+b) System Center Configuration Manager.
+c) System Center Service Manager.
+d) System Center Virtual Machine Manager.
+ANSWER: A
+
+4. El comando, de sistemas operativos tipo Unix, denominado sudo permite:
+a) Mostrar las tareas en un modo jerárquico.
+b) Ejecutar sentencias con los privilegios de cualquier usuario.
+c) Ejecutar un apagado/reinicio remoto de la máquina.
+d) Mostrar la lista de las particiones montadas en el sistema.
+ANSWER: B
+
+5. El algoritmo que se utiliza en programación para compartir un recurso sin conflictos es el:
+a) Algoritmo de Dekker.
+b) Algoritmo de Dijkstra.
+c) Algoritmo del reloj.
+d) Algoritmo de Bellman-Ford.
+ANSWER: A
+
+6. Tanto Windows como Linux disponen de variables de entorno para almacenar información del sistema o del usuario. Existe una variable que permite ejecutar programas directamente, sin necesidad de especificar la ubicación de dichos programas. ¿Qué variable permite esto?
+a) HOME
+b) COMSPEC
+c) PROMPT
+d) PATH
+ANSWER: D
+
+7. Indique cuál de los siguientes NO es un comando Unix para el control de procesos:
+a) ps
+b) nice
+c) kill
+d) mv
+ANSWER: D
+
+8. En Unix el comando pwd es usado para:
+a) Introducir la contraseña al sistema.
+b) Saber cuál es el directorio donde se está situado.
+c) Cambiar nuestra contraseña.
+d) Saber cuál es nuestra impresora asignada.
+ANSWER: B
+
+9. El lenguaje SQL, que permite el acceso a Sistemas Gestores de Base de Datos, se encuentra definido en el estándar ISO/IEC:
+a) 7095
+b) 9075
+c) 7590
+d) 9057
+ANSWER: B
+
+10. En el ámbito de las bases de datos Oracle, ANALYZE:
+a) Recopila estadísticas acerca de los objetos del esquema usados por el optimizador.
+b) Es una herramienta de la base de datos con la que se realiza el análisis del modelo de datos.
+c) Es una herramienta de la base de datos con la que se realiza el diseño del modelo de datos.
+d) Es una vista ordinaria.
+ANSWER: A
+
+11. Según el estándar IEEE 1219 para el mantenimiento del software, un cambio de tecnología pertenecería a un tipo de mantenimiento:
+a) Preventivo.
+b) Correctivo.
+c) Perfectivo.
+d) Adaptativo.
+ANSWER: D
+
+12. ¿Cuál de los siguientes procesos asegura que los componentes (de un servicio, sistema o producto) que constituyen su configuración se identifican, se mantienen, tienen una línea base y sus cambios están controlados?
+a) Gestión del Conocimiento.
+b) Gestión de Incidentes.
+c) Gestión del Cambio.
+d) Gestión de Activos y Configuración del Servicio.
+ANSWER: D
+
+13. Adecuar un sistema desarrollado en Python 2.x a Python 3.x, o un complemento de Firefox 6.x a Firefox 10 sería un mantenimiento:
+a) Preventivo.
+b) Adaptativo.
+c) Preventivo.
+d) Evolutivo.
+ANSWER: B
+
+14. La utilidad desarrollada inicialmente para escribir datos a dispositivos de entrada/salida secuenciales, presente en los sistemas operativos UNIX es:
+a) tar
+b) gzip
+c) rsync
+d) stdio
+ANSWER: A
+
+15. Señale la manera correcta de comentar una línea de código en un job JCL:
+a) /*
+b) //*
+c) #
+d) //
+ANSWER: B
+
+16. En UNIX, por debajo del directorio raíz se encuentran otros directorios importantes tales como:
+a) /etc: contiene la mayoría de los programas ejecutables esenciales del sistema.
+b) /bin: contiene diferentes ficheros de configuración del sistema.
+c) /home: aloja en diferentes subdirectorios los ficheros de dispositivos que permiten a los procesos comunicarse con los dispositivos periféricos.
+d) /usr: aloja en una serie de subdirectorios diferentes programas de usuario y ficheros de configuración del sistema.
+ANSWER: D
+
+17. ¿En qué consiste la técnica de benchmarking?
+a) Medida de aislamiento de un sistema.
+b) Comparación del rendimiento de sistemas.
+c) Reproducción del comportamiento del sistema mediante métodos analíticos.
+d) Aproximación teórica al throughput de un sistema.
+ANSWER: B
+
+18. Hadoop es un proyecto de:
+a) IBM.
+b) Microsoft.
+c) Apache.
+d) Facebook.
+ANSWER: C
+
+19. Existen diversas alternativas para almacenar información, ¿cuál de las siguientes emplea el protocolo iSCSI?
+a) Archivo.
+b) SAN.
+c) DAS.
+d) RAID 1.
+ANSWER: B
+
+20. Si hablamos de restringir qué hosts pueden acceder a una determinada LUN en una cabina de almacenamiento, ¿de qué estamos hablando?
+a) LUNing.
+b) LUN zoning.
+c) LUN masking.
+d) LUN netting.
+ANSWER: C
+
+21. Un cable de conexión directa (DAC) de tipo twinax permite las siguientes velocidades:
+a) 1Gbps a 10Gbps.
+b) 1Gbps.
+c) 100Gbps.
+d) 10Gbps a 100Gbps.
+ANSWER: D
+
+22. ¿Cuál de los siguientes términos NO forma parte de la clasificación de los satélites según su órbita?
+a) GEO
+b) LEO
+c) HEO
+d) TEO
+ANSWER: D
+
+23. ¿Qué grupo de trabajo dentro del IEEE se encarga del estándar WPAN (Wireless Personal Area Network)?
+a) IEEE 802.15
+b) IEEE 802.2
+c) IEEE 802.3
+d) IEEE 802.19
+ANSWER: A
+
+24. Señale la especificación del IEEE para Ethernet 10GBASE-T:
+a) IEEE 802.3am
+b) IEEE 802.3an
+c) IEEE 802.3ap
+d) IEEE 802.3aq
+ANSWER: B
+
+25. Bluetooth LE son las siglas de:
+a) Bluetooth Low Energy.
+b) Bluetooth Large Enhanced.
+c) Bluetooth Long Evolution.
+d) Bluetooth Less Effort.
+ANSWER: A
+
+26. Queremos segmentar la red a la que pertenece la dirección 192.168.18.2/24 creando al menos 5 subredes que puedan albergar unos 20-25 hosts cada una. ¿Cuál sería la máscara de subred necesaria?
+a) 255.255.255.192
+b) 255.255.255.224
+c) 255.255.255.240
+d) 255.255.255.248
+ANSWER: B
+
+27. ¿Cuál de los siguientes elementos NO forma parte de una PDU de un Trap SNMP, según la RFC 1157?
+a) Time-stamp
+b) Generic-Trap
+c) Vendor-Trap
+d) Specific-Trap
+ANSWER: C
+
+28. El puerto UDP que usa en general SNMP para el gestor es el:
+a) 162
+b) 160
+c) 100
+d) 161
+ANSWER: A
+
+29. El campo de la cabecera TCP (RFC 793) que indica el tamaño de ventana (Window) tiene una longitud de:
+a) 8 bits.
+b) 16 bits.
+c) 24 bits.
+d) 32 bits.
+ANSWER: B
+
+30. El acrónimo ping significa:
+a) Packet Internet Groper.
+b) Packet Internet Group.
+c) Packet ICMP Group.
+d) Packet Internal Gate.
+ANSWER: A
+
+31. El puerto utilizado por BOOTP y DHCP para escuchar y recibir mensajes de solicitud de los clientes es el:
+a) Puerto UDP 65.
+b) Puerto UDP 67.
+c) Puerto UDP 76.
+d) Puerto UDP 56.
+ANSWER: B
+
+32. ¿Cuál de las siguientes afirmaciones sobre el protocolo de encaminamiento RIP es verdadera?
+a) El protocolo RIP es el sucesor natural de OSPF y dispone de un conjunto más rico de funciones.
+b) RIP responde a las siglas Routing Internet Protocol.
+c) RIPng se rige por la RFC 2080.
+d) RIP realiza un encaminamiento estático.
+ANSWER: C
+
+33. De los siguientes softwares de virtualización, ¿cuál NO corresponde a un Hipervisor de tipo 1 (nativo o bare metal)?
+a) ESXi
+b) XenServer
+c) VirtualBox
+d) Hyper-V
+ANSWER: C
+
+34. En un paquete MPLS, un valor "1" en el campo de la cabecera "Label" significa:
+a) Implicit NULL Label
+b) IPv4 Explicit NULL Label
+c) IPv6 Explicit NULL Label
+d) Router Alert Label
+ANSWER: D
+
+35. El campo label de la cabecera del protocolo MPLS ocupa:
+a) 20 bits.
+b) 20 bytes.
+c) 32 bits.
+d) 32 bytes.
+ANSWER: A
+
+36. ¿Cuál de los siguientes servicios o aplicaciones tiene unos requisitos de QoS mayores con respecto al retardo?
+a) Correo electrónico.
+b) Videoconferencia.
+c) Transferencia de archivos.
+d) Acceso a web.
+ANSWER: B
+
+37. ¿Cuál de las siguientes afirmaciones es INCORRECTA cuando nos referimos a la tecnología NFC?
+a) Trabaja en una banda que no requiere licencia para su uso.
+b) Es una tecnología inalámbrica.
+c) Permite alcances de hasta 10 metros.
+d) Su funcionamiento se basa en los campos electromagnéticos.
+ANSWER: C
+
+38. OAKLEY es:
+a) Un protocolo de telefonía móvil.
+b) Un algoritmo de encaminamiento.
+c) Un protocolo de establecimiento de claves propuesto para IPSec.
+d) Una aplicación para configurar dispositivos móviles.
+ANSWER: C
+
+39. En el campo de la seguridad informática, ¿cómo se conoce al equipo de personas que se encarga de defender el sistema de información frente a los atacantes?
+a) Equipo rojo.
+b) Equipo azul.
+c) Equipo blanco.
+d) Equipo amarillo.
+ANSWER: B
+
+40. Según la RFC 5246, ¿qué capas que componen el protocolo TLS 1.2?
+a) TLS Record Protocol y TLS Register Protocol.
+b) TLS Record Protocol y TLS Handshake Protocol.
+c) TLS Register Protocol y TLS Handoff Protocol.
+d) TLS Initializing Protocol y TLS Ending Protocol.
+ANSWER: B
+
+41. ¿Cuál de los siguientes es un ataque de denegación de servicio basado en la fragmentación IP?
+a) Smurf.
+b) Ransomware.
+c) Snork.
+d) TearDrop.
+ANSWER: D
+
+42. Diffie-Hellman es:
+a) Una infraestructura de clave pública (PKI).
+b) Una función resumen.
+c) Un mecanismo de intercambio de claves criptográficas.
+d) Un algoritmo de ordenación.
+ANSWER: C
+
+43. En seguridad informática, señale de los siguientes un ejemplo de ataque pasivo:
+a) Ataques mediante análisis de tráfico.
+b) Enmascaramiento.
+c) Ataque de denegación de servicio.
+d) Spoofing del correo electrónico.
+ANSWER: A
+
+44. Señale la opción INCORRECTA en relación con los sistemas federados y single sign-on:
+a) SAML solo describe dos roles de federación: el agente y el de usuario.
+b) SAML solo describe dos roles de federación: el de proveedor del servicio y el de proveedor de identidad.
+c) OpenID es una API de autorización entre aplicaciones.
+d) 'OpenID Connect' corresponde a la unión de dos tecnologías divergentes en sus inicios: OpenID y OAuth.
+ANSWER: C
+
+45. Las implementaciones SSH vienen acompañadas de una herramienta que permite la generación de claves de usuario. En el caso concreto de OpenSSH es:
+a) ssh-keygen
+b) sshkeysign
+c) ssh-pass
+d) ssh-keysign
+ANSWER: A
+
+46. El sistema distribuido de creación y control de versiones web que permite a los usuarios remotos crear, mover o eliminar archivos, propiedades de archivos, directorios y propiedades de directorios en el servidor a través de una conexión HTTP es:
+a) Web Version Control.
+b) WebSVN.
+c) Web System Controller.
+d) WebDAV.
+ANSWER: D
+
+47. Indique de los siguientes el lenguaje estandarizado para la consulta de grafos RDF en Internet:
+a) PL SQL.
+b) SQL Chart.
+c) SPARQL.
+d) RDF SQL.
+ANSWER: C
+
+48. El dominio .cat, según la IANA, es un dominio:
+a) de Internet patrocinado (sponsored TLD o Stld).
+b) de nivel superior geográfico o dominio de nivel superior de código de país (country code top-level domain o ccTLD).
+c) de nivel superior no patrocinados (Utld).
+d) de nivel superior de infraestructura.
+ANSWER: A
+
+49. OWL (Ontology Web Language) ofrece tres variantes o sublenguajes con diferente nivel de potencia expresiva, indicar el FALSO:
+a) OWL Lite
+b) OWL DL
+c) OWL Full
+d) OWL MD
+ANSWER: D
+
+50. ¿Cuál de las siguientes tecnologías xDSL puede ser asimétrica?
+a) VDSL
+b) HDSL
+c) SHDSL
+d) SDSL
+ANSWER: A
+
+51. La frecuencia a la que trabaja ADSL2+ para conseguir mayores velocidades es:
+a) 1,2 MHz
+b) 2,2 MHz
+c) 3,2 MHz
+d) 4,2 MHz
+ANSWER: B
+
+52. La recomendación G.726 versa sobre:
+a) Modulación diferencial adaptativa para impulsos codificados a 40, 32, 24, 16 kbit/s.
+b) Codificación de voz a 8 kbit/s mediante predicción lineal.
+c) Redes ópticas pasivas con capacidad de 40 Gigabits.
+d) Equipo de multiplicación de circuitos de paquetes.
+ANSWER: A
+
+53. ¿Cuáles son los requisitos de ancho de banda para una conexión de voz sobre IP que utilice un codec G.711?
+a) Menos de 1 Mbps.
+b) Entre 1 Mbps y 10 Mbps.
+c) Entre 10 Mbps y 100 Mbps.
+d) Más de 100 Mbps.
+ANSWER: A
+
+54. Las bandas de telefonía móvil utilizadas en España para GSM son:
+a) 2400 y 5000 MHz
+b) 900 y 1800 MHz
+c) 850 y 1900 MHz
+d) 900 y 2100 MHz
+ANSWER: B
+
+55. Señale la tecnología inalámbrica que funciona en la banda de los 13.56 MHz y su tasa de transferencia puede alcanzar los 424 Kbits/s:
+a) NFC
+b) Bluetooth 2.0
+c) USB 3.0
+d) Wifi n
+ANSWER: A
+
+56. El estándar General Packet Radio System, o GPRS, es también conocido como:
+a) TACS
+b) UMTS-2G
+c) GSM-IP
+d) GGSN
+ANSWER: C
+
+57. Señale qué estándar wifi del IEEE está especialmente diseñado para uso en redes que permitan la comunicación en entornos entre vehículos:
+a) 802.11 Qay
+b) 802.11 n
+c) 802.11 p
+d) 802.11 ve
+ANSWER: C
+
+58. Señale la respuesta INCORRECTA en relación a la tecnología Bluetooth:
+a) Su estándar corresponde con el IEEE 802.15.1.
+b) Su última especificación es la 3.0.
+c) Permite la conexión de dispositivos en la franja de frecuencia de 2.4 GHz.
+d) Una piconet es una red que interconecta nodos utilizando Bluetooth.
+ANSWER: B
+
+59. ¿Cuál de las siguientes especificaciones NO está asociada a la tecnología HomePlug?
+a) IEEE 1901
+b) HomePlug AV 2.0
+c) HomePlug AV 1.1
+d) IEEE 802.5
+ANSWER: D
+
+60. El estándar utilizado para la transmisión de la señal de televisión en la red de televisión digital terrestre es:
+a) PAL B/G
+b) DVB-T
+c) DVB-C
+d) DOCSIS 3.0
+ANSWER: B
+
+1. [RESERVA] Si hablamos de modulación PSK, estamos hablando de:
+a) Phase Shift Keying.
+b) Phase Soft Keying.
+c) Phormat Shift Keying.
+d) Phase Shift King.
+ANSWER: A
+
+2. [RESERVA] En el contexto del Domain Name System (DNS), ¿qué es el CNAME?
+a) Es un registro que enlaza un nombre de alias con un nombre de dominio canónico.
+b) Es un registro que proporciona información de texto a fuentes externas a tu dominio.
+c) Es un registro que dirige el correo electrónico de un dominio a los servidores que alojan las cuentas de usuario del dominio.
+d) Es un registro que enlaza un dominio con la dirección IP física.
+ANSWER: A
+
+3. [RESERVA] ¿Cuáles son las siglas (en inglés) del protocolo de separación localizador/identificador propuesto por CISCO como mecanismo de transición IPV4-IPV6:
+a) RISP
+b) OSP
+c) LISP
+d) NISP
+ANSWER: C

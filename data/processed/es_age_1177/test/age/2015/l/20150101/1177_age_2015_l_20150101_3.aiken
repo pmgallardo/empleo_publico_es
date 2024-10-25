@@ -1,0 +1,370 @@
+BLOQUE IV
+1. Indique el producto de Microsoft que permite la administración de la configuración del cumplimiento y la administración integral de activos de servidores, equipos de escritorio, portátiles y dispositivos móviles:
+a) System Center Data Protection Manager.
+b) System Center App Controller.
+c) System Center Configuration Manager.
+d) System Center Orchestrator.
+ANSWER: C
+
+2. Señale cuál de las siguientes respuestas se corresponde con el administrador de paquetes para sistemas RedHat y Fedora, entre otros:
+a) dpkg
+b) apt-get
+c) yum
+d) zypper
+ANSWER: C
+
+3. Un archivo .ocx es un:
+a) archivo de almacenamiento flash.
+b) control de ActiveX.
+c) tipo de librerías de enlace dinámico compilado exclusivo de arquitecturas de 64 bits.
+d) archivo que contiene imágenes procedentes de una digitalización.
+ANSWER: B
+
+4. ¿A qué perfil profesional relacionado con las Tecnologías de Información le corresponde la gestión de las Directivas de Grupo (GPO) en el Directorio Activo de Microsoft Windows Server?
+a) Administrador de Base de Datos.
+b) Analista Programador.
+c) Administrador de Sistema Operativo.
+d) Jefe de Proyecto.
+ANSWER: C
+
+5. En el ámbito de las bases de datos Oracle, ANALYZE:
+a) Recopila estadísticas acerca de los objetos del esquema usados por el optimizador.
+b) Es una herramienta de la base de datos con la que se realiza el análisis del modelo de datos.
+c) Es una herramienta de la base de datos con la que se realiza el diseño del modelo de datos.
+d) Es una vista ordinaria.
+ANSWER: A
+
+6. Según el estándar IEEE 1219 para el mantenimiento del software, un cambio de tecnología pertenecería a un tipo de mantenimiento:
+a) Preventivo.
+b) Correctivo.
+c) Perfectivo.
+d) Adaptativo.
+ANSWER: D
+
+7. ¿Cuál es la fuente principal para calcular los tiempos estimados de recuperación de las actividades (RTO)?
+a) Plan de Respuesta ante incidentes.
+b) Pruebas de stress.
+c) Plan de Comunicación de crisis.
+d) Análisis de impacto en el negocio.
+ANSWER: D
+
+8. ¿Cuál es el orden correcto de los niveles de prioridad del mensaje de la librería log4j de Apache Software Foundation?
+a) ERROR, FATAL, INFO, WARN, DEBUG y TRACE.
+b) ERROR, FATAL, INFO, WARN, TRACE y DEBUG.
+c) FATAL, ERROR, WARN, INFO, DEBUG y TRACE.
+d) FATAL, ERROR, WARN, INFO, TRACE y DEBUG.
+ANSWER: C
+
+9. Señale la manera correcta de comentar una línea de código en un job JCL:
+a) /*
+b) //*
+c) #
+d) //
+ANSWER: B
+
+10. Indique la afirmación correcta sobre la configuración de almacenamiento RAID 3:
+a) Consiste en hacer stripping a nivel de byte más un disco de paridad dedicado.
+b) Es la configuración más utilizada en la práctica.
+c) Distribuye los datos a nivel de bloque.
+d) Implementa el mirroring o espejo de discos.
+ANSWER: A
+
+11. ¿Cuál de las siguientes herramientas NO se emplea para realizar pruebas de carga?
+a) Loadrunner.
+b) JMeter.
+c) Webserver Stress Tool.
+d) Apache Turbine.
+ANSWER: D
+
+12. En JCL (Job Control Language), el parámetro de la sentencia EXEC que especifica la cantidad de memoria que puede utilizar el paso se llama:
+a) REGION.
+b) MEM.
+c) PERFORM.
+d) DYNAMNBR.
+ANSWER: A
+
+13. El EtherType del protocolo FCoE (Fibre Channel Over Ethernet) es:
+a) 0x8906
+b) 0x86DD
+c) 0x0806
+d) 0x809B
+ANSWER: A
+
+14. ¿Cuál es la tercera ventana de funcionamiento para la fibra óptica?
+a) 850 nm
+b) 1310 nm
+c) 1480 nm
+d) 1550 nm
+ANSWER: D
+
+15. La velocidad de transmisión del cable de pares trenzados CAT6 empleado en el cableado de redes locales es de:
+a) Hasta 56 Mbps.
+b) Hasta 100 Mbps.
+c) Hasta 1,2 Gbps.
+d) Hasta 10 Gbps.
+ANSWER: C
+
+16. El oid correspondiente a la mib-2 (o MIB-11) es:
+a) 1.3.6.1.1.1
+b) 1.3.6.1.2.1
+c) 1.3.6.1.3.1
+d) 1.3.6.1.4.1
+ANSWER: B
+
+17. ¿Cuál de las siguientes herramientas podría usarse en una red con sistemas UNIX si queremos acceder a recursos comunes, asegurando que la lista de usuarios y grupos esté disponible en todas las máquinas clientes?
+a) SRM
+b) UGMS
+c) RNUM
+d) NIS
+ANSWER: D
+
+18. TCP Wrappers es un sistema que permite controlar el acceso a:
+a) los servidores de una máquina UNIX. En concreto, permite filtrar conexiones no deseadas y permitir conexiones legítimas. Las reglas que se configuran son muy sencillas haciendo uso de un par de ficheros.
+b) los servidores de una máquina UNIX. En concreto, permite filtrar conexiones no deseadas y permitir conexiones legítimas a un nivel muy bajo de la capa OSI por lo que podemos prescindir del uso de cortafuegos.
+c) cada servicio que está corriendo en una máquina UNIX. Para ello es necesario tener instalado el GUI o entorno gráfico que nos permite configurar cada una de las reglas.
+d) cada servicio que está corriendo en una máquina UNIX de manera remota. Es utilizado por los auditores de seguridad cuando se pretende interceptar paquetes TCP en una red. Se acompaña del uso de algún lenguaje de alto nivel como JAVA para su configuración.
+ANSWER: A
+
+19. ¿Cuál de los siguientes NO es un tipo de registro DNS válido?
+a) MX
+b) SOA
+c) PTR
+d) AAA
+ANSWER: D
+
+20. ¿Cuál de las siguientes respuestas se corresponde con el número de puerto tcp "bien conocido" para poder usar servicio de correo saliente POP3 sobre SSL (pop3s)?
+a) 295
+b) 995
+c) 445
+d) 725
+ANSWER: B
+
+21. La RFC 1918 regula los rangos de direcciones reservadas para redes privadas, según dicho RFC ¿cuál de los siguientes rangos sería INCORRECTO considerarlo como red privada?
+a) 10.0.0.0 a 10.255.255.255
+b) 192.168.0.0 a 192.168.255.255
+c) 169.16.0.0 a 169.31.255.255
+d) 172.16.0.0 a 172.31.255.255
+ANSWER: C
+
+22. ¿Cuál de las siguientes NO sería una dirección válida en IPv6?
+a) FFED::BA98:3210:4562
+b) 3FFE:FFFF::8:800:20C4:0
+c) 8000::56FA::FE12
+d) 3FFE:FFFF:0:CD30::/64
+ANSWER: C
+
+23. ¿Qué protocolo utiliza traceroute para obtener la ruta que se sigue desde nuestro equipo hasta otro en Internet?
+a) Ping
+b) ICMP
+c) PPP
+d) BGP
+ANSWER: B
+
+24. En el protocolo SNMP, los valores de comunidad por defecto son:
+a) Para lectura "Rmib" y para escritura "Wmib".
+b) Para lectura "Rmib" y para escritura "Writemib".
+c) Para lectura "public" y para escritura "private".
+d) Para lectura "rmis" y para escritura "wmis".
+ANSWER: C
+
+25. El intervalo o la latencia de tiempo entre la última transacción de datos confirmada antes del error y los datos más recientes recuperados después del error se denomina:
+a) Objetivo de tiempo de recuperación (RTO).
+b) Objetivo de punto de recuperación (RPO).
+c) Objetivo de nivel de recuperación (RLO).
+d) Objetivo de datos de recuperación (RDO).
+ANSWER: B
+
+26. El concepto de Green CPD está muy avanzado y se está convirtiendo en un referente. Una de las técnicas utilizadas es el Free Cooling. ¿En qué consiste?
+a) Utilizar software libre en el control de la climatización.
+b) Utilizar temperaturas bajo cero para la climatización.
+c) Se trata del pasillo frío.
+d) Utilizar las bajas temperaturas del aire exterior para la climatización.
+ANSWER: D
+
+27. La tecnología Frame Relay implementa mecanismos de notificación de saturación. ¿A qué se corresponde la representada por las siglas FECN?
+a) Notificación de saturación fuera de banda.
+b) Notificación de la saturación explícita hacia atrás.
+c) En esta tecnología no se implementan estos mecanismos.
+d) Notificación de congestión explícita hacia delante.
+ANSWER: D
+
+28. ¿Cuál de las siguientes afirmaciones es INCORRECTA cuando nos referimos a la tecnología NFC?
+a) Trabaja en una banda que no requiere licencia para su uso.
+b) Es una tecnología inalámbrica.
+c) Permite alcances de hasta 10 metros.
+ANSWER: C
+
+29. El conjunto de protocolos estándares adoptados por el Internet Architecture Board (IAB), para proporcionar seguridad al correo electrónico sobre Internet se denomina:
+a) PEM
+b) CMS
+c) PGP
+d) S/MIME
+ANSWER: A
+
+30. Respecto al protocolo OCSP, es FALSO que:
+a) Los mensajes OCSP son codificados en ASN.1.
+b) Está definido en el RFC 2560.
+c) Tanto la petición como la respuesta deben ir firmadas.
+d) Puede usar SMTP como mecanismo de transporte.
+ANSWER: C
+
+31. ¿Cómo se podrían mitigar los ataques XSS (Cross-Site Scripting) a una aplicación web?
+a) Mediante el uso de certificados electrónicos.
+b) Mediante el filtrado de datos maliciosos en la entrada de la aplicación, en la salida o en ambas.
+c) Mediante la creación de reglas que permite un cortafuegos tradicional.
+d) Mediante la configuración de listas de control de accesos (ACL).
+ANSWER: B
+
+32. ¿Qué es la esteganografía?
+a) Es equivalente al cifrado, especialmente en imágenes digitales, audio, ficheros y video digital.
+b) Es un tipo de troyano.
+c) Actualmente no se utiliza para el envío de información.
+d) Es el envío de un mensaje oculto, especialmente en imágenes digitales, audio, ficheros y video digital.
+ANSWER: D
+
+33. ¿Cuáles de los siguientes sistemas de criptografía pueden encontrarse dentro de la criptografía simétrica?
+a) De métodos y de funciones.
+b) De bloque y de flujo.
+c) De ocultamiento y de resumen.
+d) De funciones y de flujo.
+ANSWER: B
+
+34. El software que puede ejecutarse con máximos privilegios en el sistema infectado y que modifica el funcionamiento normal del S.O o de otras aplicaciones para ocultar su actividad, es denominado:
+a) Spyware.
+b) Eavesdropping.
+c) Troyano.
+d) Rootkit.
+ANSWER: D
+
+35. ¿Cuál de los siguientes NO es una forma básica de funcionamiento o modo de operación con los bloques de mensajes en los algoritmos simétricos de cifrado:
+a) Cipher Block Chainning (CBC).
+b) Cipher FeedBack (CFB).
+c) Output FeedBack (OFB).
+d) Quadruple Block Cipher (QBC).
+ANSWER: D
+
+36. Un protocolo para la conexión entre sistemas autónomos es:
+a) ELP4 (Exterior linking protocol).
+b) SGP2 (Standalone gateway protocol).
+c) BGP4 (Border gateway protocol).
+d) SLP2 (Standalone linking protocol).
+ANSWER: C
+
+37. Señale cuál de los siguientes es un lenguaje de consulta sobre grafos RDF en la web semántica:
+a) RDFQL
+b) SWL
+c) SPARQL
+d) SQLWS
+ANSWER: C
+
+38. La web semántica utiliza mecanismos que ayudan a convertir la web en una infraestructura global en la que es posible compartir, y reutilizar datos y documentos entre diferentes tipos de usuarios. Indicar el INCORRECTO:
+a) OWL
+b) SPARQL
+c) RDF
+d) RSA
+ANSWER: D
+
+39. ¿Qué es una "zona NGA blanca"?
+a) Zona en la que existe una sola red de nueva generación (NGA).
+b) Zona en la que ya existe más de una NGA o van a desplegarse en los próximos 3 años.
+c) Zona en la que ya existe o va a desplegarse una sola NGA en los próximos 3 años.
+d) Zona en la que no existen NGA y en la que no es probable que los operadores privados las construyan en un período de 3 años.
+ANSWER: D
+
+40. El estándar del ADSL2+ (ADSL2 Plus) es:
+a) ITU G.993.3
+b) ITU G.992.4
+c) ITU G.992.5
+d) ITU G.993.6
+ANSWER: C
+
+41. ¿Cuál de los siguientes NO es un método válido de petición SIP según la especificación RFC 3261?
+a) PUSH
+b) OPTIONS
+c) INVITE
+d) REGISTER
+ANSWER: A
+
+42. Asterisk es:
+a) Una antena parabólica de tipo Cassegrain que se caracteriza por llevar un segundo reflector cerca de su foco, el cual refleja la onda radiada desde el dispositivo radiante hacia el reflector en las antenas transmisoras.
+b) La evolución del protocolo de autenticación Kerberos para sistemas en la nube.
+c) Un algoritmo de búsqueda creado y utilizado por Google.
+d) Un framework de software libre (bajo licencia GPL) para controlar y gestionar comunicaciones de cualquier tipo (analógicas, digitales o VoIP).
+ANSWER: D
+
+43. La especificación del Institute of Electrical and Electronics Engineers (IEEE) para acceso inalámbrico de banda ancha móvil o MBWA, es la:
+a) IEEE 802.19
+b) IEEE 802.20
+c) IEEE 802.21
+d) IEEE 802.22
+ANSWER: B
+
+44. ¿A partir de qué generación empieza la telefonía móvil digital?
+a) OG IMTS (Improved Mobile Telephone System).
+b) 1G TACS (Total Access Communication System).
+c) 2G GSM (Global System for Mobile Communications).
+d) 3G GPRS (General Packet Radio Service).
+ANSWER: C
+
+45. ¿Qué modulación usa el estándar HSPA+?
+a) BPSK
+b) 64-QAM
+c) ADPCM
+d) FSK
+ANSWER: B
+
+46. ¿Cuál es la velocidad nominal de transmisión para los sistemas High Speed Circuit Switched Data (HSCSD)?
+a) 157,6 Kbit/s
+b) 57,6 Kbit/s
+c) 33,4 Kbit/s
+d) 384,6 Kbit/s
+ANSWER: B
+
+47. Señale qué estándar wifi del IEEE está especialmente diseñado para uso en redes que permitan la comunicación en entornos entre vehículos:
+a) 802.11Qay
+b) 802.11n
+c) 802.11p
+d) 802.11ve
+ANSWER: C
+
+48. WPS (Wifi Protected Setup) define los mecanismos a través de los que los diferentes dispositivos de la red obtienen las credenciales (SSID y PSK), necesarias para iniciar el proceso de autenticación. ¿Cuál de las siguientes configuraciones WPS para el intercambio de credenciales es FALSA?
+a) RADIUS
+b) PBC
+c) NFC
+d) USB
+ANSWER: A
+
+49. En relación con el estándar 802.11ac señale la opción INCORRECTA:
+a) puede funcionar con 80 MHz o incluso 160 MHz.
+b) se conoce como WIFI 5G o Wifi Gigabit, y es una mejora del IEEE 802.11n.
+c) opera en el espectro de 2,4 GHz.
+d) los componentes utilizados consumen menos energía que los utilizados en el estándar 802.11n.
+ANSWER: C
+
+50. El estándar utilizado para la transmisión de la señal de televisión en la red de televisión digital terrestre es:
+a) PAL B/G
+b) DVB-T
+c) DVB-C
+d) DOCSIS 3.0
+ANSWER: B
+
+1. [RESERVA] Es una herramienta para virtualizar un equipo:
+a) Jaikoz.
+b) Websphere.
+c) Toad.
+d) VirtualBox.
+ANSWER: D
+
+2. [RESERVA] ¿Qué término NO aparece en el RFC 3775 "Mobility Support in IPv6"?
+a) Correspondent node.
+b) L3 handover.
+c) Home agent.
+d) Care-of registration.
+ANSWER: D
+
+3. [RESERVA] Señale la respuesta FALSA sobre los códigos QR:
+a) Es un tipo de código de barras bidimensional.
+b) Es de naturaleza cerrada y de pago.
+c) Fue estandarizado internacionalmente por ISO con el ISO/IEC 18004.
+d) Se identifica por su forma cuadrada y por los tres cuadros ubicados en las esquinas superiores e inferior izquierda.
+ANSWER: B

@@ -49,21 +49,21 @@ c) svn checkout
 d) svn upload
 ANSWER: A
 
-38.En el contexto de copias de seguridad o respaldo, un TMS es acrónimo de:
+38. En el contexto de copias de seguridad o respaldo, un TMS es acrónimo de:
 a) Tape Management System.
 b) Transaction Multiplexing System.
 c) Tape Mapping System.
 d) Transaction Management System.
 ANSWER: A
 
-9.¿Cuál de las siguientes respuestas NO se emplea para realizar pruebas de carga?
+9. ¿Cuál de las siguientes respuestas NO se emplea para realizar pruebas de carga?
 a) Jmeter
 b) Loadrunner
 c) Grinder
 d) Turbine
 ANSWER: D
 
-10.¿Cuál de los siguientes comandos de Solaris 11 NO devuelve información relativa a discos?
+10. ¿Cuál de los siguientes comandos de Solaris 11 NO devuelve información relativa a discos?
 a) iostat
 b) df
 c) sar
@@ -77,21 +77,21 @@ c) Zoning
 d) Port Binding
 ANSWER: B
 
-12.Una desventaja de la topología física de bus es que:
+12. Una desventaja de la topología física de bus es que:
 a) Un fallo en el concentrador provoca el aislamiento de todos los nodos a él conectados.
 b) Requiere más cable que la topología en estrella.
 c) Es vulnerable a la atenuación, ya que pierde señal a través de la distancia del cable.
 d) Es compleja y difícil de arreglar.
 ANSWER: C
 
-13.¿A qué altitud aproximada está la órbita de los satélites que forman el sistema GPS?
+13. ¿A qué altitud aproximada está la órbita de los satélites que forman el sistema GPS?
 a) 5.200 km
 b) 20.200 km
 c) 36.200 km
 d) 45.200 km
 ANSWER: B
 
-14.Uno de los siguientes términos NO se corresponde con un tipo de antena satelital:
+14. Uno de los siguientes términos NO se corresponde con un tipo de antena satelital:
 a) Cassegrain
 b) Krenwinkel
 c) Gregorian
@@ -119,49 +119,49 @@ c) ALOHA ranurado.
 d) Contención.
 ANSWER: B
 
-18.En SNMP ¿qué puerto utilizan las traps y en qué sentido se transmiten?
+18. En SNMP ¿qué puerto utilizan las traps y en qué sentido se transmiten?
 a) Puerto 162 y las envía el agente al gestor.
 b) Puerto 162 y las envía el gestor al agente.
 c) Puerto 161 y las envía el agente al gestor.
 d) Puerto 161 y las envía el gestor al agente.
 ANSWER: A
 
-19.Señale cuál de las siguientes NO es una Protocol Data Unit (PDU) del protocolo SNMP v2/v3:
+19. Señale cuál de las siguientes NO es una Protocol Data Unit (PDU) del protocolo SNMP v2/v3:
 a) GETREQUEST PDU
 b) SETRESPONSE PDU
 c) RESPONSE PDU
 d) INFORMREQUEST PDU
 ANSWER: B
 
-20.En la administración de un dispositivo switch ¿qué es un trunk?
+20. En la administración de un dispositivo switch ¿qué es un trunk?
 a) Un puerto de velocidad GigaEthernet o 10 GigaEthernet.
 b) Un enlace que agrega tráfico de varias VLANs.
 c) Un adaptador fibra - par trenzado.
 d) Una versión estable del firmware del dispositivo.
 ANSWER: B
 
-21.Indicar de las siguientes, cuál es una cabecera de extensión IPv6:
+21. Indicar de las siguientes, cuál es una cabecera de extensión IPv6:
 a) Cabecera siguiente.
 b) Enrutamiento.
 c) Longitud de la carga útil.
 d) Límite de saltos.
 ANSWER: B
 
-22.Indicar cuál de las siguientes direcciones IP puede ser asignada a un host en la siguiente subred 135.26.41.80/28
+22. Indicar cuál de las siguientes direcciones IP puede ser asignada a un host en la siguiente subred 135.26.41.80/28
 a) 135.26.41.94
 b) 135.26.41.95
 c) 135.26.41.96
 d) 135.26.41.97
 ANSWER: A
 
-23.En IPv6 (RFC 2460), ¿cuánto ocupa el campo "tipo de enrutamiento"?
+23. En IPv6 (RFC 2460), ¿cuánto ocupa el campo "tipo de enrutamiento"?
 a) 15 bits.
 b) 8 bits.
 c) 10 bits.
 d) 3 bits.
 ANSWER: B
 
-24.Internet Small Computer Systems Interface (iSCSI) según el RFC 3720 es un protocolo de:
+24. Internet Small Computer Systems Interface (iSCSI) según el RFC 3720 es un protocolo de:
 a) Enlace.
 b) Red.
 c) Transporte.
@@ -175,7 +175,7 @@ c) Modo de respuesta asíncrono (ARM, Asynchronous Response Mode).
 d) Modo balanceado síncrono (SBM, Synchronous Balanced Mode).
 ANSWER: D
 
-26.En las comunicaciones a través de sockets, ¿cuál de las siguientes NO se corresponde con una primitiva?
+26. En las comunicaciones a través de sockets, ¿cuál de las siguientes NO se corresponde con una primitiva?
 a) Bind
 b) Listen
 c) Reject
@@ -189,7 +189,7 @@ c) Multicast.
 d) Loopback.
 ANSWER: C
 
-28.Según la ANSI/TIA-942 el porcentaje de disponibilidad de 99.982% en un CPD corresponde a:
+28. Según la ANSI/TIA-942 el porcentaje de disponibilidad de 99.982% en un CPD corresponde a:
 a) TIER I
 b) TIER II
 c) TIER III
@@ -217,35 +217,35 @@ c) Control de admisión.
 d) Vector distancia.
 ANSWER: D
 
-32.¿Cuál de los siguientes canales de acceso NO se emplea en RDSI?
+32. ¿Cuál de los siguientes canales de acceso NO se emplea en RDSI?
 a) B
 b) D
 c) H
 d) I
 ANSWER: D
 
-33.El algoritmo PLC (Packet Loss Concealment):
+33. El algoritmo PLC (Packet Loss Concealment):
 a) Lo utiliza Frame Relay para el reenvío de tramas pérdidas por la congestión en el sentido de la transmisión.
 b) Algoritmo de ocultamiento de pérdida de paquetes utilizado por VoIP.
 c) Utilizado por TCP para la retransmisión de paquetes después de una trama NACK (negative acknowledgement).
 d) Algoritmo de descarte de paquetes en situación de congestión en redes Frame Relay.
 ANSWER: B
 
-34.En MPLS, la asignación de un paquete a un FEC (Forwarding Equivalence Class) tiene lugar:
+34. En MPLS, la asignación de un paquete a un FEC (Forwarding Equivalence Class) tiene lugar:
 a) Sólo una vez, cuando el paquete entra en la red MPLS.
 b) Antes de entrar en la red MPLS, en el último router convencional conectado antes del primer nodo MPLS.
 c) Al iniciar una conexión de red, negociando el host de origen con el primer nodo MPLS el FEC a usar.
 d) Cuando el primer paquete abandona la red MPLS, y se ha podido descubrir la ruta por medios convencionales.
 ANSWER: A
 
-35.Indique la respuesta FALSA, respecto al protocolo IPSEC :
+35. Indique la respuesta FALSA, respecto al protocolo IPSEC :
 a) El protocolo IPSEC AH garantiza integridad y autenticación, pero no confidencialidad.
 b) El protocolo IPSEC ESP utiliza el número de protocolo 50 en la cabecera IP.
 c) IPSEC utiliza IKE como protocolo de intercambio de claves.
 d) IPSEC ESP es incompatible con el modo transporte, sólo se puede utilizar en modo túnel.
 ANSWER: D
 
-36.Indique de entre las siguientes cuál es la definición de secráfono:
+36. Indique de entre las siguientes cuál es la definición de secráfono:
 a) Equipo de frontera que, situado fuera de la red interna, ofrece servicios al exterior.
 b) Equipo infectado por un atacante remoto no detectado.
 c) Equipo que genera y entrega claves criptográficas para su distribución.
@@ -287,8 +287,7 @@ c) Variación en el tiempo de llegada de los paquetes, causada por congestión d
 d) Cantidad de información o de datos que se puede enviar a través de una conexión de red en un período de tiempo dado.
 ANSWER: C
 
-42. Qué datos NO incorporará una descripción de sesión SDP (Session Description Protocol - RFC 4566) en una
-iniciación de sesión utilizada en SIP (Session Initiation Protocol):
+42. Qué datos NO incorporará una descripción de sesión SDP (Session Description Protocol - RFC 4566) en una iniciación de sesión utilizada en SIP (Session Initiation Protocol):
 a) Tipo de medio.
 b) Protocolo de transporte (RTP/UDP/IP, H 320, etc.).
 c) Formato del medio (video H.261, video MPEG, etc.).
