@@ -1,0 +1,961 @@
+1 De acuerdo con el modelo de arquitectura de seguridad de OSI, definido en la norma ISO/IEC 7498-2, indique cuál de las siguientes afirmaciones es correcta:
+a) Un mecanismo de seguridad puede ser suministrado por varios servicios de seguridad
+b) Cada servicio de seguridad debe ser suministrado por el mecanismo correspondiente
+c) Todos los mecanismos de seguridad que se definen en el modelo se basan en algoritmos criptográficos
+d) Un mismo servicio de seguridad puede ser suministrado por varios mecanismos de seguridad
+ANSWER: D
+
+2 Indique cuál de las siguientes NO es una característica de los Almacenes de Datos (Datawarehouses):
+a) Están orientados al análisis de información y la toma de decisiones
+b) Para facilitar el mantenimiento deben utilizar el mismo esquema que exista para la información operativa de la empresa
+c) La información varía en el tiempo
+d) Son colecciones de datos
+ANSWER: B
+
+3 ¿Cuál de las siguientes opciones se corresponde con una interfaz de Java que permite llamar a métodos nativos escritos en otros lenguajes?:
+a) RMI
+b) JAXP
+c) JNDI
+d) JNI
+ANSWER: D
+
+4 ¿Cuál de los siguientes acrónimos NO corresponde a un estándar del W3C?:
+a) WDSL
+b) SOAP
+c) UDDI
+d) XHTML
+ANSWER: C
+
+5 ¿Cuál de los siguientes NO es un servicio de Internet con arquitectura cliente/servidor?:
+a) ADSL
+b) Grupos noticias (news)
+c) FTP
+d) IRC
+ANSWER: A
+
+6 Con el estándar WLAN 802.11a, ¿qué velocidad máxima se puede alcanzar?:
+a) 11 Mbps en la banda de 2.4 GHz
+b) 108 Mbps en la banda de 5 GHz
+c) 54 Mbps en la banda de 5 GHz
+d) 58 Mbps en la banda de 2.4 GHz
+ANSWER: C
+
+7 En orientación a objetos, el término utilizado para expresar que los datos de un objeto solamente pueden ser manipulados por medio de mensajes y métodos predefinidos es:
+a) Polimorfismo
+b) Herencia
+c) Reusabilidad
+d) Encapsulapción
+ANSWER: D
+
+8 ¿A qué proceso principal de la metodología Métrica versión 3 pertenece el proceso "Implantación y aceptación de sistemas (IAS)?
+a) Desarrollo de sistemas de información
+b) Planificación de sistemas de información
+c) Análisis de sistema de información
+d) Mantenimiento de sistemas de información
+ANSWER: A
+
+9 ¿Cuál de los siguientes NO es uno de los principios incluidos en el Manifiesto de Desarrollo Ágil de Software (Manifesto for Agile Software Development)?:
+a) Aceptamos requisitos cambiantes sólo en las primeras etapas del desarrollo.
+ b) Los procesos ágiles aprovechan el cambio para proporcionar ventaja competitiva al cliente.
+c) Entregamos software frecuentemente, con una periodicidad desde un par de semanas a un par de meses, con preferencia por los periodos más cortos posibles.
+d) Los responsables de negocio y los desarrolladores deben trabajar juntos diariamente a lo largo del proyecto.
+ANSWER: A
+
+10 El Consejo Superior de Administración Electrónica es un órgano colegiado adscrito al Ministerio de:
+a) Industria, Turismo y Comercio
+b) Asuntos Exteriores
+c) Administraciones Públicas
+d) Interior
+ANSWER: C
+
+11 Indique cuál de las siguientes afirmaciones es correcta:
+a) El sistema de autenticación "Kerberos", utiliza exclusivamente mecanismos de criptografía asimétrica
+b) Para la autenticación "Kerberos" utiliza mecanismos basados en criptografía simétrica y en criptografía asimétrica
+c) Para la autenticación "Kerberos" utiliza exclusivamente mecanismos basados en critografía simétrica
+d) Para la autenticación "Kerberos" utiliza mecanismos de identificación/password y de criptografía simétrica
+ANSWER: D
+
+12 Indique cuál de las siguientes afirmaciones es incorrecta en relación con la máquina virtual de Java:
+a) La implementación de la máquina virtual de Java es independiente de la plataforma sobre la que se ejecute
+b) La principal ventaja que aporta es la portabilidad de las aplicaciones escritas en Java entre diferentes plataformas
+c) Existen versiones de máquina virtual implantadas por hardware
+d) El código que ejecuta la máquina virtual se llama "Java Bytecode"
+ANSWER: A
+
+13 El protocolo DHCP ("Dynamic Host Configuration Protocol") permite:
+a) Resolver la dirección del nombre de un host.
+b) Eliminar paquetes TCP (Transmission Control Protocol)
+c) Asignar dinámicamente direcciones IP
+d) Enrutar paquetes IP
+ANSWER: C
+
+14 El estándar WMS (Web Map Service), que permite publicar cartografía en Internet, ¿a cuál de las siguientes organizaciones pertenece?:
+a) ISO (International Standards Organization)
+b) OGC (Open Geospatial Consortium)
+c) FGDC (Federal Geographic Data Committee)
+d) Consejo Superior Geográfico
+ANSWER: C
+
+15 ¿Qué es una aplicación CRM en un sitio de e-commerce interactivo?:
+a) Es la aplicación usada para administrar la relación con los clientes, describir perfiles de compras y diseñar campañas de marketing directo on-line
+b) Es el Cargo Resource Management, o aplicación utilizada para gestionar los recursos de carga en las ventas
+c) Es el programa que se ejecuta al recibir una petición de una página web dinámica
+d) Es el Catalog Resource Management, o aplicación que genera un catalogo on-line de los productos disponibles para la venta
+ANSWER: A
+
+16 En las comunicaciones vía satélite la transmisión de datos encapsulados sobre MPEG2 está contemplada en la
+norma del ETSI:
+ET 301-192
+ET 202-125
+ET 125-100
+ET 100-200
+a)
+b)
+c)
+d)
+ANSWER: A
+
+17 En el proceso RUP ("Rational Unified Process"):
+La dimensión temporal del proceso se expresa en términos de actividades, productos intermedios, perfiles
+de trabajo o roles y flujos de trabajo
+La dimensión estática del proceso se expresa en términos de ciclos, fases, iteraciones e hitos
+La dimensión temporal del proceso se expresa en términos de ciclos, fases, iteraciones e hitos
+En la dimensión estática, cada ciclo se compone de cuatro fases secuenciales (comienzo, elaboración,
+construcción y transición)
+a)
+b)
+c)
+d)
+ANSWER: C
+
+18 ¿Cuál de estas afirmaciones sobre accesibilidad es cierta de acuerdo con las guías del W3C?
+Una página web accesible debe tener textos equivalentes para cualquier elemento no textual
+Un página web accesible debe contener solo texto
+Una página web accesible no debe utilizar colores
+Una página web accesible debe utilizar un único tipo de letra establecido en estas guías
+a)
+b)
+c)
+d)
+ANSWER: A
+
+19 Según la Ley 59/2003, de 19 de diciembre, de firma electrónica, un dispositivo seguro de creación de firma es un
+dispositivo que debe ofrecer al menos ciertas garantías. ¿Cuál de las siguientes NO es una de ellas?:
+Que los datos utilizados para la generación de firma puedan producirse sólo una vez y asegurar
+razonablemente su secreto.
+Que los datos utilizados para la generación de firma puedan ser derivados de los de verificación de firma o
+de la propia firma
+Que los datos de creación de firma puedan ser protegidos de forma fiable por el firmante contra su utilización
+por terceros.
+Que el dispositivo utilizado no alteren los datos o el documento que deba firmarse ni impidan que éste se
+muestre al firmante antes del proceso de firma.
+a)
+b)
+c)
+d)
+ANSWER: B
+
+20 Según Cobit, en un proceso de auditoría un objetivo de control en TI se define como:
+Los soportes informáticos y sus sistemas de backup
+El resultado deseado implementando procedimientos de control en una actividad de TI particular
+La compatibilidad del software
+El tiempo medio entre fallos de los sistemas de TI
+a)
+b)
+c)
+d)
+ANSWER: B
+
+21 Según la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones ¿Cada cuanto tiempo, cómo mínimo, la
+Comisión del Mercado de las Telecomunicaciones llevará a cabo el análisis de los mercados de referencia relativos
+a redes y servicios de comunicaciones electrónicas y el ámbito geográfico de los mismos?:
+Cada año
+Cada dos años
+Cada cuatro años
+Cada seis años
+a)
+b)
+c)
+d)
+ANSWER: B
+
+22 Indique cuál de las siguientes afirmaciones sobre JDBC es incorrecta:
+Es independiente del lenguaje de programación
+Es independiente del sistema operativo
+Es independiente de la base de datos
+Es un tipo de API
+a)
+b)
+c)
+d)
+ANSWER: A
+
+23 ¿Cuál es el protocolo utilizado habitualmente para la gestión de redes en la arquitectura TCP/IP (Transmission
+Control Protocol/Internet Protocol)?
+PGR
+SMTP
+ICMP
+SNMP
+a)
+b)
+c)
+d)
+ANSWER: D
+
+24
+Según la ley 59/2003, de 19 de diciembre, de firma electrónica, ¿cuál de las siguientes NO es causa de extinción de
+la vigencia de un certificado?:
+Expiración del período de validez que figura en el certificado
+Revocación formulada por el firmante, la persona física o jurídica representada por éste, un tercero
+autorizado o la persona física solicitante de un certificado electrónico de persona jurídica
+Resolución judicial o administrativa que lo ordene
+Transferencia de la gestión de los certificados electrónicos expedidos por el prestador a otro prestador de
+servicios de certificación, cuando el firmante haya dado su consentimiento expreso
+a)
+b)
+c)
+d)
+ANSWER: D
+
+25 ¿Cuál de los siguientes es un requisito de seguridad en una transacción electrónica en la que intervenga un medio de pago?:
+Simultaneidad
+Interactividad
+No repudio
+Automatización
+a)
+b)
+c)
+d)
+ANSWER: C
+
+26 ATM ("Asynchronous Transfer Mode") emplea celdas:
+De tamaño variable: entre 5 y 10 octetos de cabecera, más 46 octetos de información
+De tamaño fijo : 5 octetos de cabecera, más 48 octetos de información
+De tamaño fijo: 8 octetos de cabecera, más 58 octetos de información
+De tamaño variable : 5 octetos de cabecera y entre 48 y 56 octetos de información
+a)
+b)
+c)
+d)
+ANSWER: B
+
+27 ¿Cuál de los siguientes elementos NO interviene en el cálculo de los puntos de función?:
+Entradas
+Salidas
+Consultas
+Usuarios
+a)
+b)
+c)
+d)
+ANSWER: D
+
+28 Según el Reglamento de medidas de Seguridad de los ficheros automatizados que contengan datos de carácter
+personal aprobado por Real Decreto 994/1999, de 11 de junio:
+El documento de seguridad no es obligatorio para los ficheros de nivel básico
+El responsable del fichero se determinará en el documento de seguridad
+El responsable del fichero deberá elaborar el documento de seguridad
+El responsable de seguridad será el reponsable de la elaboración del documento de seguridad
+a)
+b)
+c)
+d)
+ANSWER: C
+
+29 En el sistema de soporte a la decisión SSD-AAPP v 3.0 el umbral de saciedad máximo para un criterio
+indica el valor máximo (en un criterio a minimizar) que debe cumplir la puntuación de una alternativa para
+ese criterio para que pueda ser considerada
+indica el valor máximo (en un criterio a maximizar) que debe cumplir la puntuación de una alternativa para
+ese criterio para que pueda ser considerada
+indica (en un criterio a maximizar) que si la puntuación de ese criterio toma un valor mayor no incidirá en la
+puntuación obtenida
+indica el valor máximo que se puede asignar al peso de ese criterio
+a)
+b)
+c)
+d)
+ANSWER: C
+
+30 La norma ISO 17799 recoge:
+Buenas práticas para la gestión de la seguridad de la información
+La reglamentación de interconexión segura de redes inalámbricas (WIFI)
+Normativa aplicable para el desarrollo de aplicaciones militares
+Estándares de desarrollo de aplicaciones de uso dual (civil y militar)
+a)
+b)
+c)
+d)
+ANSWER: A
+
+31 Indique cuál es el puerto para la conexión de datos que abrirá el cliente en el modo PASV del Protocolo de
+Transferencia de Ficheros FTP ("File Transfer Protocol"):
+El puerto 20
+El puerto 21
+Un puerto por encima de 1023 elegido al azar por el cliente
+Un puerto por encima de 1023 elegido al azar por el servidor
+a)
+b)
+c)
+d)
+ANSWER: D
+
+32 ¿Cuál es una característica de los sistemas de información geográfica basados en formato raster?:
+Utiliza puntos, líneas y polígonos para almacenar la información
+La precisión de localización es mayor que en la de otros formatos
+Se construye utilizando retículas de tamaño regular
+No es adecuado para modelos que incluyan evolución temporal
+a)
+b)
+c)
+d)
+ANSWER: C
+
+33 El grupo de trabajo IEEE 802.1ab se encarga:
+De especificar el algoritmo de intercambio de BPDUs a nivel 2 en una red Ethernet
+Del estudio de los protocolos para el descubrimiento de la topología física de una red Ethernet
+Del estudio de los protocolos PVST y PVGST (múltiples instancias de Spanning Tree)
+De la especificación 1000Base-T
+a)
+b)
+c)
+d)
+ANSWER: B
+
+34 Según el RD 209/2003, de 21 de febrero, con respecto a las notificaciones telemáticas, cuando exista constancia de
+la recepción de una notificación, se considerará que ésta ha sido rechazada cuando no se haya accedido a su
+contenido en un plazo de:
+10 días naturales
+10 días hábiles
+20 días naturales
+En ningún caso se considerará rechazada si no se ha accedido a su contenido
+a)
+b)
+c)
+d)
+ANSWER: A
+
+35
+¿Cuál de las siguientes afirmaciones define el tipo de procesamiento conocido como OLAP?:
+Procesamiento transaccional en tiempo real que consiste en realizar transacciones, es decir actualizaciones y consultas a la base de datos con un objetivo operacional
+Procesamiento analítico en tiempo real que engloba un conjunto de operaciones, exclusivamente de consulta, en las que se requiere agregar y cruzar gran cantidad de información
+Procesamiento analítico en tiempo real que engloba un conjunto de operaciones, de consulta y actualización, en las que se requiere agregar y cruzar gran cantidad de información
+Procesamiento transaccional en tiempo real que engloba un conjunto de operaciones, de consulta y actualización, con el objetivo de realizar informes y resúmenes para el apoyo en la toma de decisiones
+a)
+b)
+c)
+d)
+ANSWER: B
+
+36
+Bluetooth es un enlace radio de corto alcance sin cables con un radio de:
+Hasta 5 metros y un rango de frecuencia de 2,402 GHz a 2,480 GHz
+Hasta 10 metros y un rango de frecuencia de 2,202 GHz a 2,404 GHz
+Hasta 10 metros y un rango de frecuencia de 2,402 GHz a 2,480 GHz
+Hasta 8 metros y un rango de frecuencia de 1,404 GHz a 2,480 GHz
+a)
+b)
+c)
+d)
+ANSWER: C
+
+37
+¿Cuál de los siguientes no es un proceso de interfaz de Métrica v3?:
+Aseguramiento de la calidad
+Gestión de proyectos
+Gestión de la configuración
+Diseño de Sistemas de Información
+a)
+b)
+c)
+d)
+ANSWER: D
+
+38 ¿Cuál de las siguientes afirmaciones sobre ITIL (Information Technology Infrastructure Library) es cierta?
+ITIL es una Biblioteca de Infraestructura de Tecnologías de la Información que se ha convertido en el estándar mundial de facto en la Gestión de Servicios Informáticos.
+ITIL es una iniciativa de la Comisión Europea cuyo objetivo es la elaboración de una definición de la estructura organizacional de una organización de tecnologías de la información
+La fundación holandesa "Exameninstituut voor Informatica" (EXIN) y la inglesa "Information Systems Examination Board" (ISEB) han desarrollado juntas la última versión de ITIL
+ITIL es una metodología para la Gestión de Servicios Informáticos que no tiene aplicación en la Administración Pública
+a)
+b)
+c)
+d)
+ANSWER: A
+
+39 Cual de los siguientes no es un método de ordenación de alternativas disponible en el sistema SSD-AAPP v.3.0
+Ponderación Lineal
+Permutación
+Promethée
+Distancia al Ideal (TOPSIS)
+a)
+b)
+c)
+d)
+ANSWER: B
+
+40 El CMM-CMMI es:
+Un conjunto de normas de seguridad física (perimetral), antiintrusivas (firewall) y antiincendios de aplicación
+en centros de proceso de datos
+Un modelo de desarrollo de software jerárquico orientado a objetos
+Un modelo de calidad del software que clasifica en cinco los niveles de madurez.
+Un modelo estándar de seguridad ante ataques por Internet.
+a)
+b)
+c)
+d)
+ANSWER: C
+
+41
+En relación con las ventanas de crédito (de recepción y de envio) que utiliza el protocolo TCP para el control de flujo, indique cuál de las siguientes afirmaciones es correcta:
+Permiten que el emisor no tenga que esperar un ACK (acknowledge) para cada segmento de datos transmitido
+El tamaño del búfer de esta ventanas está limitado a 4096 bytes
+Impiden que se reenvíen paquetes pasado un time-out
+Hace que el canal de comunicación esté más tiempo ocupado para transmitir la misma información.
+a)
+b)
+c)
+d)
+ANSWER: A
+
+42 ITIL (Information Technology Infrastructure Library) es un marco de trabajo que reune mejores prácticas destinadas a facilitar la entrega de servicios de tecnologías de información. Se apoya en una biblioteca de infraestructura basadas en un conjunto de libros que cubren una serie de temas. ¿Cuál de los siguientes apartados no forma parte de los ocho libros?:
+Análisis de mercado
+Perspectiva de negocio
+Gestión de la Seguridad
+Soporte al Servicio
+ANSWER: A
+
+43 En una red donde se utilizan redes virtuales (802.1q), ¿cuál es el tamaño máximo de las tramas etiquetadas que
+circulan por la red?:
+1522 bytes
+1500 bytes
+1496 bytes
+1518 bytes
+ANSWER: A
+
+44 Elija la opción correcta con respecto al funcionamiento de los registros telemáticos en días inhábiles, según el RD 209/2003, de 21 de febrero:
+a) Los registros telemáticos no estarán en funcionamiento los días inhábiles
+b) La entrada de las solicitudes, escritos y comunicaciones recibidas en un día inhábil para el registro telemático se entenderá efectuada en la primera hora del primer día hábil siguiente
+c) La entrada de las solicitudes, escritos y comunicaciones recibidas en un día inhábil para el registro telemático se entenderá efectuada en la última hora del último día hábil anterior
+d) No se permitirá la entrada de solicitudes, escritos y comunicaciones en un día inhábil, y por consiguiente la entrada de las solicitudes, escritos y comunicaciones recibidas en un día inhábil para el registro telemático no se entenderá efectuada
+ANSWER: B
+
+45 Los sistemas de almacenes de bases de datos pueden implementarse utilizando diferentes tipos de esquemas físicos : ROLAP, MOLAP, HOLAP, etc., ¿Cuál de las siguientes afirmaciones es cierta?:
+a) En ROLAP, físicamente el almacén de datos se construye sobre estructuras basadas en matrices multidimensionales
+b) Ejemplos de sistemas MOLAP son: Informix Metacube u Oracle Discover
+c) Ejemplos de sistema ROLAP son: Oracle Express o el Hyperion Enterprise
+d) En MOLAP, físicamente el almacén de datos se construye sobre estructuras basadas en matrices multidimensionales, produciéndose correspondencia entre el nivel lógico y el nivel físico lo que en general aporta especialización que se traduce generalmente en mayor eficiencia
+ANSWER: D
+
+46 La Ley 32/2003 de 3 de noviembre, General de Telecomunicaciones, establece que:
+El Gobierno creará una entidad pública para la gestión del Fondo nacional del servicio universal
+La Comisión del Mercado de las Telecomunicaciones se encargará de la gestión del Fondo nacional del servicio universal
+El Gobierno, mediante Decreto, establecerá el procedimiento por el que las operadoras gestionarán el Fondo nacional del servicio universal
+La Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información se encargará de la gestión del Fondo nacional del servicio universal
+a)
+b)
+c)
+d)
+ANSWER: B
+
+47 Indicar cuál es la afirmación correcta respecto al modelo de datos relacional:
+Una clave candidata es el conjunto de atributos cuyos valores han de coincidir con los valores de la clave primaria de otra relación
+Una clave ajena es el conjunto de atributos que determinan unívoca y mínimamente cada tupla
+En una relación no pueden existir varias claves candidatas
+Para las claves ajenas, la regla de integridad referencial establece que los valores de la clave ajena pueden ser nulos
+a)
+b)
+c)
+d)
+ANSWER: D
+
+48 En la planificación de un proyecto representada por un diagrama de Pert, una actividad critica es una actividad:
+con un alto riesgo de incrementar su duración
+con dependencia de otra actividad y de la que depende al menos una actividad en el camino crítico
+cuya duración no puede modificarse
+a)
+b)
+c)
+d)
+ANSWER: C
+
+49 ¿Cuál de los siguientes es un componente de la versión 2 del "framework" .NET de Microsoft?
+Visual Studio
+CLR (Common Language Runtime)
+BizTalk
+SQL Server
+a)
+b)
+c)
+d)
+ANSWER: B
+
+50 Indique cuál de las siguientes recomendaciones pertenece a las realizadas por el UIT-T:
+Serie X – orientadas a la transmisión de datos en redes analógicas telefónicas.
+Serie V – orientadas a redes de datos y comunicaciones en sistemas abiertos
+Serie D – orientadas a la transmisión de documentos
+Serie I – red digital de servicios integrados
+a)
+b)
+c)
+d)
+ANSWER: D
+
+51 ¿Cuál de las siguientes afirmaciones sobre el Protocolo SSL ("Secure Socket Layer") es correcta?:
+Sólo proporciona servicios de seguridad para el protocolo HTTP ("HyperText Transfer Protocol")
+Utiliza mecanismos de criptografía asimétrica para garantizar la confidencialidad de los datos a transmitir
+El protocolo se implementa entre los niveles de Transporte y de Red
+Los servicios de seguridad que proporciona son transparentes al usuario y a la aplicación
+a)
+b)
+c)
+d)
+ANSWER: D
+
+52
+¿Cuál de las siguientes normas regula la expedición del DNI y sus certificados de firma electrónica?:
+RD 153/2005, de 14 de enero
+RD 1553/2005, de 23 de diciembre
+RD 1555/2003, de 29 de mayo
+RD 155/2003, de 15 de septiembre
+a)
+b)
+c)
+d)
+ANSWER: B
+
+53 ¿Cuál de las siguientes alternativas NO se corresponde con el diseño básico de la arquitectura de un conmutador multinivel Gigabit Ethernet?:
+Bus compartido.
+Memoria compartida.
+I/O compartida.
+Crossbar
+a)
+b)
+c)
+d)
+ANSWER: A
+
+54 Según el estándar ISO 7816-2 sobre contactos del chip en las tarjetas inteligentes, ¿cuál de los siguientes contactos se utiliza para la señal de reloj?:
+C2
+C3
+C5
+C6
+a)
+b)
+c)
+d)
+ANSWER: A
+
+55 ¿En cuál de los siguientes modelos para el desarrollo de aplicaciones distribuidas o en red según el modelo cliente-servidor, esta encuadrado COM+ (Common Object Model Plus )?:
+Modelos basados en llamadas a funciones (sockets)
+Modelos basados en llamadas a procedimientos remotos (RPC)
+Modelos basados en llamadas a objetos distribuidos
+Modelos basados en agentes móviles
+a)
+b)
+c)
+d)
+ANSWER: C
+
+56 La Ley 32/2003 de 3 de noviembre, General de Telecomunicaciones, establece como infracción leve:
+La realización de actividades sin título habilitante cuando sea legalmente necesario
+La instalación de estaciones radioeléctricas sin autorización, cuando, de acuerdo con lo dispuesto en la normativa reguladora de las telecomunicaciones, sea necesaria
+Carecer de los preceptivos cuadros de tarifas o de precios cuando su exhibición se exija por la normativa vigente
+La transmisión total o parcial de concesiones o autorizaciones para el uso privativo del dominio público radioeléctrico, sin cumplir con los requisitos establecidos a tal efecto por la normativa de desarrollo de esta ley
+a)
+b)
+c)
+d)
+ANSWER: C
+
+57 Indicar cuál es la afirmación correcta en UML:
+El diagrama de secuencia es una técnica que muestra la configuración de los elementos de procesamiento o nodos del sistema y los componentes software, procesos y objetos que se ejecutan sobre ellos
+Un diagrama de componentes muestra la interacción (conjunto de mensajes que se intercambian entre los objetos) ordenada en una secuencia de tiempos
+Un diagrama de secuencia muestra un grafo de componentes software conectados por relaciones de dependencia
+Un diagrama de colaboración muestra una interacción organizada sobre los objetos, sus enlaces y sus mensajes
+a)
+b)
+c)
+d)
+ANSWER: D
+
+58 ¿Cuál es la naturaleza júridica de la Agencia Española de Protección de Datos?
+Organismo autónomo
+Entidad Pública Empresarial
+Ente de Derecho público regulado por su legislación específica
+Agencia Estatal de las previstas en la Ley 28/2006, de 18 de julio. (Art. 35 LO 13/1999 y Disposición adicional décima de la LOFAGE)
+a)
+b)
+c)
+d)
+ANSWER: C
+
+59 ¿Cuál de las siguientes afirmaciones sobre RSS es errónea?:
+RSS es un formato para la sindicación de contenidos de páginas web.
+RSS es un agregador de contenidos de diversas páginas webs de noticias
+RSS es parte de la familia de los formatos XML
+Es un acrónimo de "Really Simple Syndication"
+a)
+b)
+c)
+d)
+ANSWER: B
+
+60 En el modelo de referencia fijado por Open System Interconection, de la International Standars Organization, el nivel que realiza la función de seleccionar la mejor ruta para la comunicación entre máquinas ubicadas en redes geográficas distintas es el:
+Nivel 2
+Nivel 3
+Nivel 4
+Nivel 5
+a)
+b)
+c)
+d)
+ANSWER: B
+
+61
+Indique cuál de los siguientes NO es un tipo de EJB ("Enterprise Java Beans"):
+Beans de entidad
+Beans de aplicación
+Beans de sesión
+Beans orientados a mensajes
+a)
+b)
+c)
+d)
+ANSWER: B
+
+62 ¿Cuál es el periodo máximo de validez de los certificados del DNIe?:
+24 meses
+5 años
+30 meses
+4 años
+a)
+b)
+c)
+d)
+ANSWER: C
+
+63 ¿Qué se utiliza para codificar la voz que se transmite por la red IP?:
+Retardo
+Encriptado
+Códecs
+Claves
+a)
+b)
+c)
+d)
+ANSWER: C
+
+64 El algoritmo de cifrado IDEA es del tipo:
+Asimétrico
+Simétrico por bloques
+Simétrico de flujo
+Simétrico de resumen (hash)
+a)
+b)
+c)
+d)
+ANSWER: B
+
+65
+¿Cuál de las siguientes es una regla de Codd?:
+Regla de la no inversión
+Regla de la no concurrencia
+Regla de la restricción
+Regla de la no replicación de información
+a)
+b)
+c)
+d)
+ANSWER: A
+
+66 ¿Cuál de los siguientes elementos no es utilizado por Java 2?:
+Enteros
+Booleanos
+Cadenas
+Tensores
+a)
+b)
+c)
+d)
+ANSWER: D
+
+67 La vinculacion dinámica en el desarrollo orientada a objetos significa que:
+La verificación de tipos y la unión entre la llamada al método y el código a ejecutar se realizan en tiempo de compilación
+La verificación de tipos se realiza en tiempo de ejecución y la unión entre la llamada al método y el código a ejecutar se tipos se puede realizar en tiempo de ejecución o en tiempo de compilación
+La verificación de tipos se puede realizar en tiempo de ejecución o en tiempo de compilación y la unión entre la llamada al método y el código a ejecutar se realizan en tiempo de ejecución
+La verificación de tipos se puede realizar en tiempo de ejecución o en tiempo de compilación y la unión entre la llamada al método y el código a ejecutar se realizan en tiempo de compilación
+a)
+b)
+c)
+d)
+ANSWER: C
+
+68 Señale de la siguiente relación el miembro que NO forma parte del Consejo Consultivo de la Agencia Española de Protección de Datos
+Un experto en la materia
+Un miembro de la Real Academia de la Historia
+Un representante de la Asociación de Ingenieros Técnicos en Informática
+Un representante de la Administración Local
+a)
+b)
+c)
+d)
+ANSWER: C
+
+69 RDF (Resource Description Framework) es un:
+Lenguaje del W3C para representar información sobre recursos en la Web
+Estándar del W3C para la definición de datos
+Estándar para la creación de páginas web accesibles
+Estándar para la descripción de los recursos informáticos de una organización
+a)
+b)
+c)
+d)
+ANSWER: A
+
+70 Según la legislación vigente sobre la Propiedad Intelectual, ¿cuál de las siguientes afirmaciones en relación con la duración de la protección en la explotación de los derechos de autor de un programa de ordenador, por la persona titular del derecho, es cierta?
+Si el autor es una persona natural, la duración de la protección son 35 años desde la publicación del programa.
+Si el autor es una persona jurídica, la duración de la protección será de 99 años computados desde el 1 de enero del año siguiente al de divulgación del programa
+La protección es indefinida en el tiempo, desde la creación del código objeto del programa
+Cuando el autor sea una persona natural, durarán toda la vida del autor y setenta años después de su muerte o declaración de fallecimiento
+a)
+b)
+c)
+d)
+ANSWER: D
+
+71 Indique qué información de las siguientes NO aporta un URL (Localizador Universal de Recurso) para identificar un recurso de la web:
+El nombre del recurso
+El tipo del recurso
+Donde se encuentra el recurso
+El protocolo que hay que usar para obtener el recurso
+a)
+b)
+c)
+d)
+ANSWER: B
+
+72 ¿Qué tipos de certificado están incluidos en el DNIe?:
+Autenticación y firma
+Cifrado y firma
+Firma
+Cifrado, firma y autenticación
+a)
+b)
+c)
+d)
+ANSWER: A
+
+73 Dadas las IPs de 2 hosts (172.16.17.30 y 172.16.28.15) y su máscara (255.255.240.0). ¿Están en la misma subred?:
+Si
+No
+Depende de la dirección de la Puerta de Enlace
+Depende de la configuración del switch
+a)
+b)
+c)
+d)
+ANSWER: A
+
+74 ¿Cuál es el mínimo número de discos necesario para un sistema RAID 0+1?:
+2
+3
+4
+5
+a)
+b)
+c)
+d)
+ANSWER: C
+
+75 ¿Cómo se denominan los servidores que se implementan en un formato de tarjeta/bandeja en la que se integran memoria, procesadores y almacenamiento interno, que pueden ser insertados en chasis/bastidores especiales sobre los que se comparten elementos comunes (habitualmente conexiones eléctricas, conexiones de red de datos fuentes de alimentación y ventiladores) y que normalmente comparten un sistema de gestión y administración común?:
+Clusters
+Servidores Grid
+Servidores Blades
+Ninguno de los anteriores
+a)
+b)
+c)
+d)
+ANSWER: C
+
+76 En Java 2 el operador >>:
+Desplaza bits del operando hacia la izquierda las posiciones indicadas
+Desplaza bits del operando hacia la derecha las posiciones indicadas (sin signo)
+Desplaza bits del operando hacia la derecha las posiciones indicadas (con signo)
+Realiza una operación lógica OR exclusiva entre los dos operandos
+a)
+b)
+c)
+d)
+ANSWER: C
+
+77 Señale cual de los siguientes NO es un modelo de ciclo de vida del software:
+Cascada
+Espiral
+Prototipado
+Escalera
+a)
+b)
+c)
+d)
+ANSWER: D
+
+78 Señale la respuesta correcta:
+a) Las resoluciones de la Agencia Española de Protección de Datos son recurribles en alzada ante el Ministro de Industria, Turismo y Comercio
+b) Las resoluciones de la Agencia Española de Protección de Datos no pueden ser objeto de recurso alguno
+c) Las resoluciones de la Agencia Española de Protección de Datos agotan la via administrativa
+d) Por vía reglamentaria se establecerá el sistema de recursos administrativos ante las resoluciones de la Agencia Española de Protección de Datos
+ANSWER: C
+
+79 ¿Cuál de las siguientes grupos de trabajo del IEEE dedica su actividad al campo de las redes de área metropolitana?:
+a)802.3
+b) 802.4
+c) 802.5
+d) 802.6
+ANSWER: D
+
+80 En relación con los ERP, ¿cuál de las siguientes afirmaciones es correcta respecto a SAP R/3?
+a) El módulo donde se gestionan las compras se denomina CO
+b) El módulo PM se encarga de gestionar la gestión de proyectos
+c) El módulo SD es parte del módulo de contabilidad financiera
+d) El módulo "Basis" se encarga de gestionar la base de datos
+ANSWER: D
+
+81 GNOME es un entorno de escritorio libre para sistemas operativos libres. Seleccione la afirmación correcta sobre él:
+a) Ha sido la base sobre la cual se ha desarrollado el código de la interfaz gráfica de Windows VISTA
+b) Desde sus orígenes ha utilizado la biblioteca de controles gráficos GTK
+c) Cada vez que se añade un icono al escritorio requiere que se recompile el Kernel
+d) Solamente admite una profundidad de color de 8 bits
+ANSWER: B
+
+82 ¿En cuál de las siguientes zonas del chip del DNIe se almacenan los datos biométricos?:
+a) Zona pública
+b) Zona privada
+c) Zona de seguridad
+d) Zona compartida
+ANSWER: C
+
+83 ¿Cuál de las siguientes afirmaciones con respecto a los XML Schemas es incorrecta?:
+a) Los XML Schemas utilizan sintaxis XML
+b) Es imposible referenciar múltiples XML Schemas desde el mismo documento XML
+c) Los XML Schemas soportan namespaces
+d) Los XML Schemas permiten definir tipos de datos
+ANSWER: B
+
+84 ¿Cuál de las siguientes aplicaciones de software libre se utiliza para la edición de imágenes?:
+a) GIMP
+b) Jetspeed
+c) Konqueror
+d) Eclipse
+ANSWER: A
+
+85 ¿Cuál de las afirmaciones siguientes es cierta con respecto a la técnica de gestión de memoria conocida como "paginación"?:
+a) Consiste en determinar que espacio vacío en la memoria principal es el mas indicado para ser asignado a un proceso
+b) El espacio de memoria se divide en secciones físicas de igual tamaño llamadas marcos de pagina, las cuales sirven como unidad de almacenamiento de información
+c) Es la memoria que queda desperdiciada al usar los métodos de gestión de memoria tales como la asignación
+d) Es un esquema de manejo de memoria mediante el cual la estructura del programa refleja su división lógica; llevándose a cabo una agrupación lógica de la información en bloques de tamaño variable denominados segmentos
+ANSWER: B
+
+86 Según Métrica V3, ¿cuál de los siguientes productos NO se obtienen del proceso de análisis de sistemas de información (ASI) orientado a objetos?:
+a) Diseño de clases
+b) Descripción de interfaces entre subsistemas
+c) Modelo de clases de análisis
+d) Análisis de la realización de los casos de uso
+ANSWER: A
+
+87 ¿Qué elemento NO forma parte de un diagrama de flujo de datos (DFD)?:
+a) Entidad externa
+b) Proceso
+c) Función
+d) Almacen de datos
+ANSWER: C
+
+88 Según el Real Decreto 589/2005, de 20 de mayo, por el que se reestructuran los órganos colegiados de la Administración Electrónica, ¿cuál de las siguientes funciones NO corresponde al Pleno del Consejo Superior de Administración Electrónica?
+a) La fijación de las líneas estratégicas, en materia de tecnologías de la información
+b) La colaboración con el Centro Criptológico Nacional del Centro Nacional de Inteligencia en la elaboración de medidas de seguridad de las tecnologías de la información y comunicaciones
+c) La elaboración de los presupuestos en materias de tecnologías de la información
+d) La organización de conferencias y otras actividades para el intercambio de experiencias y proyectos en materias de tecnologías de la información
+ANSWER: C
+
+89 ¿Cuál de las siguientes afirmaciones es falsa?:
+a) El W3C tiene una sede en España
+b) W3C es un organismo estadounidense
+c) El Ministerio de Administraciones Públicas es miembro del W3C
+d) W3C ha desarrollado mecanismos para evaluar el nivel de accesibilidad de los sitios Web
+ANSWER: B
+
+90 Los adjudicatarios de los contratos regulados por el RDL 2/2000, de 16 de junio, están obligados a constituir una garantía definitiva por un importe del:
+a) 2% del presupuesto del contrato
+b) 2% del importe de adjudicación
+c) 4% del presupuesto del contrato
+d) 4% del importe de adjudicación
+ANSWER: D
+
+91 El XML (Extensible Markup Language) ha sido desarrollado por el W3C. Indique cuál de las siguientes afirmaciones es falsa:
+a) Proviene del SGML
+b) Pretende ser un estándar para el intercambio de información entre plataformas no circunscrito exclusivamente a Internet
+c) Dada su extensibilidad no se soporta en bases de datos sino que requiere formatos de texto plano
+d) No es un lenguaje propiamente dicho sino un metalenguaje creado para definir lenguages que cubran diferentes necesidades
+ANSWER: C
+
+92 ¿Cuál de las siguientes sentencias de SQL es una sentencia DDL?:
+a) UPDATE TABLE
+b) ALTER TABLE
+c) REVOKE ALL
+d) ROLLBACK
+ANSWER: B
+
+93 ¿Cual de los siguientes es un estándar de W3C que permite referenciar partes de un documento XML?:
+a) XSL-FO
+b) XPath
+c) XSLT
+d) XForms
+ANSWER: B
+
+94 ¿Cuál de las opciones siguientes NO se corresponde con servicios ofrecidos por una PKI (Public Key Infrastructures)? :
+a) Registro de claves públicas: emisión de un nuevo certificado para una clave pública
+b) Revocación de certificados: cancelación de un certificado previamente remitido
+c) Evaluación de la confianza: determinación sobre si un certificado es válido y qué operaciones están permitidas para dicho certificado
+d) Realización de trámites de forma segura con la Administración Pública a través de Internet
+ANSWER:
+
+95 En la estructura de la trama del protocolo HDLC ("High level Data Link Control") el número de bits del delimitador del comienzo de la trama es:
+a) Variable
+b) 8
+c) 16
+d) 32
+ANSWER: D
+
+96 En el modelo COCOMO, la estimación del esfuerzo anual básico para el mantenimiento de los sistemas de información, (MM)am, conocido el esfuerzo estimado de desarrollo, (MM)d, es:
+a) (MM)am =1.8 (DSI) (MM)d
+b) (MM)am =2.0 (ADF) (MM)d
+c) (MM)am = 3.2(FSP) (MM)d
+d) (MM)am = 1.0 (ACT) (MM)d
+ANSWER: D
+
+97 ¿Qué propiedad no es inherente a la orientación a objetos?
+a) Polimorfismo
+b) Volatilidad
+c) Herencia
+d) Encapsulación
+ANSWER: B
+
+98 Según el método del cámino crítico, ¿cuál de las siguientes afirmaciones NO es cierta?:
+a) El camino crítico determina el tiempo más corto que podemos tardar en hacer el proyecto si se dispone de todos los recursos necesarios
+b) Las actividades críticas no tienen holgura.
+c) Una actividad es crítica cuando no se puede cambiar sus instantes de comienzo y finalización sin modificar la duración total del proyecto.
+d) La concatenación de las todas las actividades de un proyecto es el camino crítico.
+ANSWER: D
+
+99 En relación con las notificaciones telemáticas ¿cuál de las siguientes afirmaciones es verdadera?:
+a) Se puede solicitar para un procedimiento la notificación ordinaria y la notificación telemática
+b) Cuando existiendo constancia de la recepción de la notificación en la dirección electrónica, transcurrieran diez días naturales sin que el interesado acceda a su contenido, se entenderá que la notificación ha sido rechazada
+c) Según el RD 209/2003, de 21 de febrero, la Administración Pública puede obligar, en determinados casos, a que la práctica de la notificación a los interesados se realice por medios telemáticos
+d) Si el interesado lo solicita, se puede realizar la notificación telemática a su buzón de correo personal que utiliza habitualmente
+ANSWER: B
+
+100 De acuerdo al artículo 172 del RDL 2/2000, de 16 de junio, la adquisición de programas de ordenador a medida se considera un contrato de:
+a) Suministro
+b) Servicios
+c) Leasing
+d) Obra
+ANSWER: B

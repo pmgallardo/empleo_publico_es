@@ -1,33 +1,33 @@
 BLOQUES I y II
-1. El chip del DNI 3.0 en su zona de seguridad (accesible por el dudadano en los puntos de actualizaci6n DNie) contiene:
+1. El chip del DNI 3.0 en su zona de seguridad (accesible por el ciudadano en los puntos de actualización DNie) contiene:
 a) Certificado CA intermedia emisora.
-b) Dates de filiación del ciudadano.
-c) craves Diffie-Hellman.
+b) Datos de filiación del ciudadano.
+c) Claves Diffie-Hellman.
 d) Certificado x509 de componente.
 ANSWER: B
 
-2. ¿Cual de los siguientes comandos UNIX imprime en pantalla un resumen detallado línea a línea de las diferencias entre archivos?
+2. ¿Cuál de los siguientes comandos UNIX imprime en pantalla un resumen detallado línea a línea de las diferencias entre archivos?
 a) cmp
 b) sort
 c) wc
 d) diff
 ANSWER: D
 
-3. El lector NFC y el DNI 3.0 negocian y establecen un canal seguro de comunicacion usando el código CAN (Card Access Number), este es un código:
+3. El lector NFC y el DNI 3.0 negocian y establecen un canal seguro de comunicación usando el código CAN (Card Access Number), este es un código:
 a) numérico de 9 dígitos que debe conocer sólo el ciudadano.
 b) de 6 dígitos y de un solo uso, es decir, sólo es válido para una única sesión de trabajo, terminada esta habría que solicitar otro.
 c) de 6 dígitos que aparece en el anverso del documento físico del DNI 3.0.
 d) accesible en la zona privada del DNI 3.0 mediante la utilización de la clave personal de acceso o PIN.
 ANSWER: C
 
-4. Segun la Ley 59/2003, de firma electrónica, indique cuál es el tipo de firma electrónica que: "tendrá respecto de los datos consignados en forma electrónica el mismo valor que la firma manuscrita en relación con los consignados en papel".
+4. Según la Ley 59/2003, de firma electrónica, indique cuál es el tipo de firma electrónica que: "tendrá respecto de los datos consignados en forma electrónica el mismo valor que la firma manuscrita en relación con los consignados en papel".
 a) Firma electrónica avanzada.
 b) Firma electrónica intermedia.
-c) Rrma electrónlca reconocida.
-d) Firma electrónlca final.
+c) Firma electrónica reconocida.
+d) Firma electrónica final.
 ANSWER: C
 
-5. Según se establece en el Real Decreto 414/2015 con independencia de lo que establece el artrculo 6.1 sobre la validez del DNI, la vigencia de los certlficados electrónicos reconocidos incorporados al mismo NO podrá ser superior a:
+5. Según se establece en el Real Decreto 414/2015 con independencia de lo que establece el artículo 6.1 sobre la validez del DNI, la vigencia de los certificados electrónicos reconocidos incorporados al mismo NO podrá ser superior a:
 a) 2 años
 b) 3 años
 c) 4 años
@@ -41,57 +41,56 @@ c) XAdES
 d) XDES
 ANSWER: C
 
-7. En los entornos UNIX / Linux o MAC podemos utilizar el DNI 3.0 a traves de un módulo criptográfico denominado:
+7. En los entornos UNIX / Linux o MAC podemos utilizar el DNI 3.0 a través de un módulo criptográfico denominado:
 a) PCKS#11
-b) PKCS#lO
+b) PKCS#10
 c) PKCS#11
 d) PSCK#12
 ANSWER: C
 
-8. Segun establece la Ley Organica 15/1999, de Proteccion de Datos de Caracter Personal, las disposiciones de creaci6n ode modlficacion de ficheros de las Administraciones Publlcas que contengan datos de caracter personal deberan indicar el procedimiento de:
-a) cancelaci6n de los datos de caracter personal.
-b) recogida de los datos de caracter personal.
-c) acceso de los datos de caracter personal.
-d) rectificaci6n de los clatos de caracter personal.
+8. Según establece la Ley Orgánica 15/1999, de Protección de Datos de Carácter Personal, las disposiciones de creación o de modificación de ficheros de las Administraciones Públicas que contengan datos de carácter personal deberán indicar el procedimiento de:
+a) cancelación de los datos de carácter personal.
+b) recogida de los datos de carácter personal.
+c) acceso de los datos de carácter personal.
+d) rectificación de los datos de carácter personal.
 ANSWER: B
 
-9. Segun el Real Decreto 1720/2007, por el que se aprueba el Reglamento de desarrollo de la Ley Organlca 15/1999 LOPD, cuando deban implantarse las medidas de seguridad de nivel:
-a) alto, la transmisi6n de datos de caracter personal a traves de redes de comunicaclones electr6nicas se reallzara cifrando dichos datos.
-b) media, la transmisi6n de dates de caracter personal a traves de redes publicas o redes inalambricas de comunicaciones electr6nicas se realizara cifrando dichos dates.
-c) alto, la transmlsl6n de datos de caracter personal a traves de redes publicas o redes inalambricas de comunicaciones electr6nicas se realizara cifrando dichos datos.
-d) alto, la transmlsl6n de datos de caracter personal a traves de redes publicas o redes inalambricas de comunicaciones electr6nicas se realizara cifrando dlchos datos o bien utilizando cualquier otro mecanismo que garantice que la informaci6n no sea inteligible nl manipulada por terceros.
+9. Según el Real Decreto 1720/2007, por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica 15/1999 LOPD, cuando deban implantarse las medidas de seguridad de nivel:
+a) alto, la transmisión de datos de carácter personal a través de redes de comunicaciones electrónicas se realizará cifrando dichos datos.
+b) media, la transmisión de datos de carácter personal a través de redes públicas o redes inalámbricas de comunicaciones electrónicas se realizará cifrando dichos datos.
+c) alto, la transmisión de datos de carácter personal a través de redes públicas o redes inalámbricas de comunicaciones electrónicas se realizará cifrando dichos datos.
+d) alto, la transmisión de datos de carácter personal a través de redes públicas o redes inalámbricas de comunicaciones electrónicas se realizará cifrando dichos datos o bien utilizando cualquier otro mecanismo que garantice que la información no sea inteligible ni manipulada por terceros.
 ANSWER: D
 
-10. [ANULADA] Un Plan de Contingencias del area de la seguridad de la informad6n, contendra:
-a) de prevenci6n cuya funci6n es minlmizar la probabilidad de ocurrenda de inddentes.
-b) de correcci6n que permitan reduclr los danos una vez que un incidente se ha producido.
-c) de analisis que permlta identificar cuales son los sistemas de inforrnaci6n mas criticos.
-d) que minlmicen el impacto y maximicen el tiempo de parada del sistema afectado.
+10. [ANULADA] Un Plan de Contingencias del área de la seguridad de la información, contendrá:
+a) de prevención cuya función es minimizar la probabilidad de ocurrencia de incidentes.
+b) de corrección que permitan reducir los daños una vez que un incidente se ha producido.
+c) de análisis que permita identificar cuáles son los sistemas de información más críticos.
+d) que minimicen el impacto y maximicen el tiempo de parada del sistema afectado.
 ANSWER:
 
-11. Segun la deflrnci6n de perimetro seguro, que se encuentra en el Esquema Naclonal de Seguridad, se dispondr6 un slstema cortafuegos que separe la red lntema del exterior:
-a) Todo el trafico debera atravesar dicho cortafuegos y este dejara transitar todos las flujos en cascada.
-b} Toda el trafico clebera atravesar dicho cortafuegos que solo dejara transltar las flujos previamente autorizados, en funci6n deI nlvel de seguridad este constara de uno o mas equipos de distintos fabricantes dispuestos en cascada.
-c) Toda el trafico atravesa'ra dos o masequlpos cortafuegos de distintos fabricantes dispuestos en cascada, inclependientemente
-del nivel de seguridad.
-d) Se emplearan redes privadas virtuales cuando la comunicaci6n dlscurra entre las redes del proplo dominio de seguridad.
+11. Según la definición de perímetro seguro, que se encuentra en el Esquema Nacional de Seguridad, se dispondrá un sistema cortafuegos que separe la red interna del exterior:
+a) Todo el tráfico deberá atravesar dicho cortafuegos y este dejará transitar todos los flujos en cascada.
+b) Todo el tráfico deberá atravesar dicho cortafuegos que solo dejará transitar los flujos previamente autorizados, en función del nivel de seguridad este constará de uno o más equipos de distintos fabricantes dispuestos en cascada.
+c) Todo el tráfico atravesará dos o más equipos cortafuegos de distintos fabricantes dispuestos en cascada, independientemente del nivel de seguridad.
+d) Se emplearán redes privadas virtuales cuando la comunicación discurra entre las redes del propio dominio de seguridad.
 ANSWER: B
 
-12. La Ley 39/2015, del Procedimiento Adminlstratlvo Comun de las Administraciones Publicas, establece en el articulo 26 que para ser considerados valldos, los documentos electr6nicos admlnistratJvos deberan cumplir clertas condlciones. Entre ellas NO se menclona:
-a) COntener informaci6n de cualquier naturaleza archlvada en un soporte flSico segun un formato determlnado susceptible de identificaci6n y tratamienlD diferenciado.
-b) Disponer de las datos de identificaci6n que permltan su individualizaci6n, sin perjuicio de su posible incorporad6n a un expediente electr6nico.
-c) Incorporar una referenda temporal def momenta en que han sido emitidos.
-d) Incorporar las metadatos mfnimos exigldos.
+12. La Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, establece en el artículo 26 que para ser considerados válidos, los documentos electrónicos administrativos deberán cumplir ciertas condiciones. Entre ellas NO se menciona:
+a) Contener información de cualquier naturaleza archivada en un soporte físico según un formato determinado susceptible de identificación y tratamiento diferenciado.
+b) Disponer de los datos de identificación que permitan su individualización, sin perjuicio de su posible incorporación a un expediente electrónico.
+c) Incorporar una referencia temporal del momento en que han sido emitidos.
+d) Incorporar los metadatos mínimos exigidos.
 ANSWER: A
 
-13. La Ley 39/2015, del ProcecHmiento Administrativo Comun de las AA.PP, establece en su articulo 98 los medios en los que preferentemente se abonani a la Hacienda Publica una obllgadon de pago. Entre ellos NO menclona:
-a) Tarjeta de credito y debito.
+13. La Ley 39/2015, del Procedimiento Administrativo Común de las AA.PP, establece en su artículo 98 los medios en los que preferentemente se abonarán a la Hacienda Pública una obligación de pago. Entre ellos NO menciona:
+a) Tarjeta de crédito y débito.
 b) Transferencia bancaria.
-c) Abono en ofidna bancaria.
-d) Domiciliaci6n bancaria.
+c) Abono en oficina bancaria.
+d) Domiciliación bancaria.
 ANSWER: C
 
-14. La herramienta proporcionada por el CCN-CERT para analizar las caracteristicas de seguridad temicas deftnidas a traves del Esquema Naclonal de Seguridad en el ambito de la Administraci6n Electr6nica se denomina:
+14. La herramienta proporcionada por el CCN-CERT para analizar las características de seguridad técnicas definidas a través del Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica se denomina:
 a) INES
 b) LUCIA
 c) CARA
@@ -99,93 +98,93 @@ d) CARMEN
 ANSWER: C
 
 15. ¿Cuándo es obligatorio utilizar firma electrónica cualificada según el Esquema Nacional de Seguridad?
-a) Si las dimensiones de integridad y autenticidad del sistema de lnforrnad6n son de nivel alto.
-b) SI las dimensiones de integridad y autenticidad del sistema de rnformaci6n son de nivel media.
-c) SI las dimensiones de integridad y confldencialidad del slstema de informaci6n son de nivel alto.
-d) No depende de la categorfa del sistema de informacl6n.
+a) Si las dimensiones de integridad y autenticidad del sistema de información son de nivel alto.
+b) Si las dimensiones de integridad y autenticidad del sistema de información son de nivel medio.
+c) Si las dimensiones de integridad y confidencialidad del sistema de información son de nivel alto.
+d) No depende de la categoría del sistema de información.
 ANSWER: A
 
-16. En la Ley Organica 3/2007, para la igualdad efectiva de mujeres y hombres, en sus articulos 37 y 38 plantea una serie de objetivos respecto a Igualdad para dos empresas relac:ionadas con los medios de comunicac16n, estas son:
-a) Corporaci6n ATRESMEDIA (A3M) y la Sociedad Estatal de Partidpaciones Industriales (SEPI).
-b) MEDIASET y la Sociedad Estatal de Partidpadones Industriales (SEPI).
-c) Corporaci6n RlVE y la agencia EFE.
-d) COrporaci6n RlVE y la agencia Reuters.
+16. En la Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres, en sus artículos 37 y 38 plantea una serie de objetivos respecto a igualdad para dos empresas relacionadas con los medios de comunicación, estas son:
+a) Corporación ATRESMEDIA (A3M) y la Sociedad Estatal de Participaciones Industriales (SEPI).
+b) MEDIASET y la Sociedad Estatal de Participaciones Industriales (SEPI).
+c) Corporación RTVE y la agencia EFE.
+d) Corporación RTVE y la agencia Reuters.
 ANSWER: C
 
-17. Segun la Ley Organica 1/2004, la funcionaria victlma de violencia de genero que se vea obllgada a abandonar el puesto de trabajo en la localidad donde venia prestando sus servidos, para hacer efectiva su protecci6n, respecto a la provision de puestos de trabajo tendra derecho:
+17. Según la Ley Orgánica 1/2004, la funcionaria víctima de violencia de género que se vea obligada a abandonar el puesto de trabajo en la localidad donde venía prestando sus servicios, para hacer efectiva su protección, respecto a la provisión de puestos de trabajo tendrá derecho:
 a) Solidario.
-b) SUbsidiario.
+b) Subsidiario.
 c) Preferente.
-d) No tendran derecho diferente al resto de funcionarias.
+d) No tendrán derecho diferente al resto de funcionarias.
 ANSWER: C
 
-18. Segun la Ley 39/2006, de Promoci6n de la Autonomia Personal y Atend6n a las persorias en situac:ion de dependencla l.CU61 NO es un grado de dependenda?
-a) Grado I. Depenclencia moderada.
+18. Según la Ley 39/2006, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia ¿Cuál NO es un grado de dependencia?
+a) Grado I. Dependencia moderada.
 b) Grado II. Dependencia severa.
-c) Grado III. Gran dependencla.
-d) Grado IV. Dependenda continua.
+c) Grado III. Gran dependencia.
+d) Grado IV. Dependencia continua.
 ANSWER: D
 
-19. El Real Decreto 919/2014, por el que se aprueba el Estatuto del Consejo de Transparenda y Buen Gobierno, establece que los Vocales de la Comision de Transparenda y Buen Goblemo desempefiaran su cargo durante:
-a) 2 arias.
-b) 3 afios.
-c) 4 afios.
-d) 5 afios.
+19. El Real Decreto 919/2014, por el que se aprueba el Estatuto del Consejo de Transparencia y Buen Gobierno, establece que los Vocales de la Comisión de Transparencia y Buen Gobierno desempeñarán su cargo durante:
+a) 2 años.
+b) 3 años.
+c) 4 años.
+d) 5 años.
 ANSWER: D
 
 20. El Presidente del Consejo de Transparencia y Buen Gobierno será nombrado por un periodo:
-a) renovable de 4 afios mediante Orden Ministerial.
-b) no renovable de 5 afios mediante Real Decretn.
-c) renovable de 5 afios mediante Orclen Ministerial.
-d) no renovable de 4 afios mediante Real Decreto.
+a) renovable de 4 años mediante Orden Ministerial.
+b) no renovable de 5 años mediante Real Decreto.
+c) renovable de 5 años mediante Orden Ministerial.
+d) no renovable de 4 años mediante Real Decreto.
 ANSWER: B
 
-21. Grid Computing es un tipo de arquitectura dlstribuida y paralela, de ambito:
-a) local, en la que se premia la paralelizacl6n, ya continuad6n la distribuci6n.
-b) local, en la que se premia la distribuci6n, ya continuaci6n la paralellzaci6n.
-c) extenso geograficamente, en la que se premia la paralelizaci6n, y a continuaci6n la distribuci6n.
-d) extenso geograflc:amente, en la que se premia la distribud6n, ya continuaci6n la paralelizaci6n.
+21. Grid Computing es un tipo de arquitectura distribuida y paralela, de ámbito:
+a) local, en la que se premia la paralelización, y a continuación la distribución.
+b) local, en la que se premia la distribución, y a continuación la paralelización.
+c) extenso geográficamente, en la que se premia la paralelización, y a continuación la distribución.
+d) extenso geográficamente, en la que se premia la distribución, y a continuación la paralelización.
 ANSWER: D
 
-22. Cual es la unidad de capacidad de informac16n que se corresponde con 10 elevado a 24 Bytes?
+22. ¿Cuál es la unidad de capacidad de información que se corresponde con 10 elevado a 24 Bytes?
 a) 1 ExaByte
 b) 1 ZettaByte
 c) 1 PetaByte
 d) 1 YottaByte
 ANSWER: D
 
-23. Cu61 de los siguientes NO es un sistema operativo para dispositivos moviles?
+23. ¿Cuál de los siguientes NO es un sistema operativo para dispositivos móviles?
 a) iOS
 b) Fire OS
-c) Tlzen
+c) Tizen
 d) OS/2 Merlin
 ANSWER: D
 
-24. La taxonomfa segun la cual las arquitecturas de los computadores se clasifican en 515D, MISD, SIMD y MIMD, se debe a:
+24. La taxonomía según la cual las arquitecturas de los computadores se clasifican en SISD, MISD, SIMD y MIMD, se debe a:
 a) Tanenbaum
 b) Flynn
-c) Tuting
+c) Turing
 d) Dijkstra
 ANSWER: B
 
-25. En las tecnologias de clustering, la propiedad de un sistema que oculta la naturaleza heterogenea y distrlbuida de los recursos, y los presenta a los usuarios ya las aplicaciones como un recurso computacional unificado y sencillo se denomina:
+25. En las tecnologías de clustering, la propiedad de un sistema que oculta la naturaleza heterogénea y distribuida de los recursos, y los presenta a los usuarios y a las aplicaciones como un recurso computacional unificado y sencillo se denomina:
 a) VCS (Virtual Cluster Software).
 b) SSI (Single System Image).
 c) SA (System Availability).
 d) AVS (Automatic Virtual System).
 ANSWER: B
 
-26. Seiiale el orden correcto de menor a mayor velocidad alcanzacla de los diferentes dispositlvos SCSI:
+26. Señale el orden correcto de menor a mayor velocidad alcanzada de los diferentes dispositivos SCSI:
 a) SCSI-2, Fast SCSI-2, Fast/Wide SCSI-2 y Ultra2 SCSI LVD.
-b) Fast SCSI-2, Ultra SCSI, Uttra2 SCSI LVD y Fast/Wide SCSI-2.
-c) Ultra SCSI, Fast SCSI-2, Fast/Wide SCSl-2 y Ultra2 SCSI LVD.
+b) Fast SCSI-2, Ultra SCSI, Ultra2 SCSI LVD y Fast/Wide SCSI-2.
+c) Ultra SCSI, Fast SCSI-2, Fast/Wide SCSI-2 y Ultra2 SCSI LVD.
 d) Fast/Wide SCSI-2, Ultra SCSI, Ultra2 SCSI LVD y Fast SCSI-2.
 ANSWER: A
 
 27. El nombre de Raspberry Pi hace referencia a:
-a) Un lenguaje de programaci6n visual libre orientado a la enseiianza.
-b) Un computador de placa simple (SBC) de bajo caste.
-c) Un potente framework para el dlsefio web adaptativo.
+a) Un lenguaje de programación visual libre orientado a la enseñanza.
+b) Un computador de placa simple (SBC) de bajo coste.
+c) Un potente framework para el diseño web adaptativo.
 d) Una base de datos NoSQL orientada a documentos.
 ANSWER: B
 
@@ -196,35 +195,35 @@ c) Google Runtime
 d) ART
 ANSWER: D
 
-29. En un slstema de ficheros formateado en NTFS con una unidad de asignaci6n de 4096 bytes (tamaiio de cluster), ¿cual es el minima tamafto de fichero que se puede generar?
+29. En un sistema de ficheros formateado en NTFS con una unidad de asignación de 4096 bytes (tamaño de cluster), ¿cuál es el mínimo tamaño de fichero que se puede generar?
 a) Un fichero mayor de 4GB.
 b) Un fichero menor de 4GB.
 c) Un fichero de 4KB.
 d) Un fichero de 1KB.
 ANSWER: C
 
-30. De los siguientes, tcual NO es un entorno de escritorio en Linux?
+30. De los siguientes, ¿cuál NO es un entorno de escritorio en Linux?
 a) GNOME
 b) KSH
 c) KDE
 d) XFCE
 ANSWER: B
 
-31. Indique cual de los siguientes comandos de Unix lista los ficheros de un dlrectorio:
+31. Indique cuál de los siguientes comandos de Unix lista los ficheros de un directorio:
 a) list
-b) Is
+b) ls
 c) dir
 d) chmod
 ANSWER: B
 
-32. i.Cual es el nombre d I asistente virtual que lncluye el sistema operativo Windows 10?
+32. ¿Cuál es el nombre del asistente virtual que incluye el sistema operativo Windows 10?
 a) Aptana
-b) Siri ·
+b) Siri
 c) Cortana
 d) Windows Now
 ANSWER: C
 
-33. 5eiiale que comando se utlliza en Linux para comprobar el formato y la validez de los datos del fichero / etc/password:
+33. Señale qué comando se utiliza en Linux para comprobar el formato y la validez de los datos del fichero /etc/passwd:
 a) passwd
 b) pwd
 c) passck
@@ -235,48 +234,68 @@ ANSWER: D
 a) SJF (Shortest Job First).
 b) Round Robin.
 c) PJS (Preemptive Job Scheduling).
-d) SRTF (Short Remaining Time First).
+d) SRTF (Shortest Remaining Time First).
 ANSWER: C
 
-35. En el contexto de la gesti6n de memoria, i.que intentan minimizar los algoritmos de reemplazo?
-a) El numero de marcos de pagina.
-b) El tiempo de acceso a los marcos de paglna.
-c) La tasa de fallos de pagina.
-d) El tlempo de acceso al heap.
+35. En el contexto de la gestión de memoria, ¿qué intentan minimizar los algoritmos de reemplazo?
+a) El número de marcos de página.
+b) El tiempo de acceso a los marcos de página.
+c) La tasa de fallos de página.
+d) El tiempo de acceso al heap.
 ANSWER: C
 
-36. ¿Qué compañía está detrás del sistema de ficheros F2FS (Flash-Friendly File System), el cuál esta orientado a memorias flash?
+36. ¿Qué compañía está detrás del sistema de ficheros F2FS (Flash-Friendly File System), el cual está orientado a memorias flash?
 a) Sony
 b) Samsung
 c) Microsoft
 d) Intel
 ANSWER: B
 
-37. El lenguaje de programaci6n creado por liipple enfocado en el desarrollo de aplicaciones para iOS y Mac se llama:
+37. El lenguaje de programación creado por Apple enfocado en el desarrollo de aplicaciones para iOS y Mac se llama:
 a) Rust
 b) iRuby
 c) Swift
 d) Objective-C
 ANSWER: C
 
-38. ¿Cual de las siguientes opciones es un framework de desarrollo de aplicaciones web?
+38. ¿Cuál de las siguientes opciones es un framework de desarrollo de aplicaciones web?
 a) Python
 b) PHP
-c) Javi:i
+c) Java
 d) Ruby on Rails
 ANSWER: D
 
-39, lCual de los siguientes es un protocolo de encaminamiento vector distanda avanzado, propiedad de Cisco
-Systems?
+39. ¿Cuál de los siguientes es un protocolo de encaminamiento vector-distancia avanzado, propiedad de Cisco Systems?
 a) EIGRP
 b) RIP
 c) OSPF
-d) BGP2
+d) BGP
 ANSWER: A
 
-40. ¿Que protocolo no orientado a conexi6n se utiliza de forma extensa en el nivel de transporte del modelo TCP/IP?
+40. ¿Qué protocolo no orientado a conexión se utiliza de forma extensa en el nivel de transporte del modelo TCP/IP?
 a) IP
 b) TCP
 c) UDP
 d) RPC
 ANSWER: C
+
+1. [RESERVA] La Ley 39/2015, del Procedimiento Administrativo Común de las AA.PP., trata la obligación a dictar resolución expresa de la Administración estableciendo que el plazo máximo en el que debe notificarse dicha resolución NO podrá exceder de:
+a) 4 meses, salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.
+b) 4 meses, sin excepción.
+c) 6 meses, sin excepción.
+d) 6 meses, salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.
+ANSWER: D
+
+2. [RESERVA] La arquitectura hardware de un ordenador compuesta por: una unidad aritmético-lógica, una unidad de control, una única memoria para almacenar instrucciones y datos, dispositivos de entrada/salida y buses de datos que comunican las distintas partes, es la arquitectura:
+a) de Von Neumann.
+b) Harvard.
+c) de Moore.
+d) de Wirth.
+ANSWER: A
+
+3. [RESERVA] Señale cuál de los siguientes elementos hardware se usa exclusivamente como una unidad de procesamiento gráfico (GPU) en un dispositivo móvil:
+a) Adreno 530
+b) Intel Atom X3
+c) Kirin 955
+d) Exynos 8890
+ANSWER: A

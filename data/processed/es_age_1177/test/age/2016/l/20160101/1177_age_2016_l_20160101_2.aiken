@@ -1,392 +1,369 @@
-1. [RESERVA] En el articulo 116 de la Constituci6n espaflola se indlca que las competencias y llmltaclones correspondlentes a los estados de alarnta, d,emccepcl6n y de sitio se regular.in mediante:
-a) un Real decreto.
-b) una Ley ordinaria.
-c) una Ley Organica.
-d) una resoluci6n ministerial.
-ANSWER: C
-
-2. [RESERVA] Según la ley 19/2013 en su articulo 15, en relaci6n a la protea:ion de los datos de caracter personal, seni necesario el consentimientoexpreso y por esaito del afectado para datos relativos a:
-a) origen racial.
-b) salud.
-c) ideologfa.
-d) vlda sexual.
-ANSWER: C
-
-3. [RESERVA] El campo 0Lfmlte de Saltos0 de.la ca ra 1Pv6 disminuye en uno en Cillda salto (routers intermedios) del paquete, cuando este campo q,nti ne d valc,r cero el paquete: ·
-a) Es destruido y se envfa de regreso ai nodo fuente un mensaje ICMPv6 tipo 3.
-b) Sigue su camino pero se envfa de regreso al ,nodo fuente un mensaje ICMPv6 tipo 1.
-c) Sigue su camino y se envia de regreso al nodo fuente un mensaje ICMPv6 tipo 4.
-d) Es d ido y se envfa de regreso al nodo fuente un mensaje ICMPv6 tipo 2.
-ANSWER: C
-
-1. En lo que se refiere a estandares de referencia de Metrim v3:, se ha tenido en cuenta el modelo de cldo de vida de desarrollo propuesto en la norma:
+1. En lo que se refiere a estándares de referencia de Métrica v3, se ha tenido en cuenta el modelo de ciclo de vida de desarrollo propuesto en la norma:
 a) ISO 12.107
 b) ISO 12.207
 c) ISO 12.307
 d) ISO 12.407
 ANSWER: B
 
-2. En Metrica v3, dentro de la lnterfaz de Gestion de Proyectos, las actividades contemplad en el grupo de actlvldades de seguimiento y control (GPS) se desarrollan durante IOs procesos:
-a) EVS, ASI, D51, CSI, IAS.
-b) ASI, D51, CSI, IAS, MSL
+2. En Métrica v3, dentro de la Interfaz de Gestión de Proyectos, las actividades contempladas en el grupo de actividades de seguimiento y control (GPS) se desarrollan durante los procesos:
+a) EVS, ASI, DSI, CSI, IAS.
+b) ASI, DSI, CSI, IAS, MSI.
 c) GPI, GPF.
-d) Se realizan al principlo del proyecto, al concluir el proceso EVS y justo al finalizar, al empezar el proceso MSI.
+d) Se realizan al principio del proyecto, al concluir el proceso EVS y justo al finalizar, al empezar el proceso MSI.
 ANSWER: B
 
-3. l.Cual de los siguientes productos le permlte reallzar un segulmiento de los errores de software del proyecto7
+3. ¿Cuál de los siguientes productos le permite realizar un seguimiento de los errores de software del proyecto?
 a) Mantis
 b) CVS
 c) Nagios
 d) VisualBug
 ANSWER: A
 
-4. Sagun lo que especifica M6t:rlca v3 respecto al Plan de Slstemas de Informaci6n (PSI), lndique la respuesta correcta:
-a) No es funda.mental que la alta direcci6n de la organizaci6n tome parte activa en la decision del PSI con el fin de posibilitar su exito.
-b) Para la elaboraci6n del PSI se estudian las necesidades de informaci6n de los procesos de la organizaci6n afectados por el Plan, con el fin de deflnlr los requisites concretes ya muy bajo nivel. Conceptuales de tnformaci6n.
-c) El PSI nunca debe llevar nlng(m tlpo de propuesta de calendario para la ejecuci6n de tos proyectos que induya.
-d) La perspectiva del plan debe ser·estrategica y operativa.
+4. Según lo que especifica Métrica v3 respecto al Plan de Sistemas de Información (PSI), indique la respuesta correcta:
+a) No es fundamental que la alta dirección de la organización tome parte activa en la decisión del PSI con el fin de posibilitar su éxito.
+b) Para la elaboración del PSI se estudian las necesidades de información de los procesos de la organización afectados por el Plan, con el fin de definir los requisitos concretos ya a muy bajo nivel, conceptuales de información.
+c) El PSI nunca debe llevar ningún tipo de propuesta de calendario para la ejecución de los proyectos que incluya.
+d) La perspectiva del plan debe ser estratégica y operativa.
 ANSWER: D
 
-5. El EUROMETODO es:
-a) Estandar abierto europeo de desarrollo software.
-b) Metodologia europea de analisis y gesti6n de riesgos.
-c) Estandar europeo unificado de infraestructura de clave publica.
-d) Metodologfa europea para adquisici6n de sistemas de lnformacl6n y servicios relacionados.
+5. El EUROMÉTODO es:
+a) Estándar abierto europeo de desarrollo software.
+b) Metodología europea de análisis y gestión de riesgos.
+c) Estándar europeo unificado de infraestructura de clave pública.
+d) Metodología europea para adquisición de sistemas de información y servicios relacionados.
 ANSWER: D
 
-6. Sagun M6t:rica v3, dentro de las tecnicas de Gesti6n de Proyectos, NO se encuentra:
+6. Según Métrica v3, dentro de las técnicas de Gestión de Proyectos, NO se encuentra:
 a) JRP (Joint Requirements Planning).
-b) Metodo MARKII para el Analisis de los Puntos Funci6n.
+b) Método MARKII para el Análisis de los Puntos Función.
 c) WBS (Work Breakdown Structure).
-d) Diagrama de Extrapolaci6n.
+d) Diagrama de Extrapolación.
 ANSWER: A
 
-7. Sagun la metodologia M v3, los factores crlticos de ito ( ) aenen coma objetlvo:
-a) Ayudar a la planificaci6n de las actlvidades y recurses de cualquier organlzacl6n, facUitando la asignaci6n de prioridades dentro de ella.
-b) Identlficar los requisitos a cubrir por un sistema de infonnad6n.
-c) Detenninar que elementos estan realmente lmpllcados en las peticiones de camblo solic:itadas IX)r los usuar1os, una vez. que los slstemas de infonnaci6n se encuentran en producci6n.
-d) Verlflcar el funcionamiento correcto de las Interfaces entre los distintos subslstemas que lo componen y con el resto de slstemas de infonnaci6n con los que se comunlca.
+7. Según la metodología Métrica v3, los factores críticos de éxito ( ) tienen como objetivo:
+a) Ayudar a la planificación de las actividades y recursos de cualquier organización, facilitando la asignación de prioridades dentro de ella.
+b) Identificar los requisitos a cubrir por un sistema de información.
+c) Determinar qué elementos están realmente implicados en las peticiones de cambio solicitadas por los usuarios, una vez que los sistemas de información se encuentran en producción.
+d) Verificar el funcionamiento correcto de las interfaces entre los distintos subsistemas que lo componen y con el resto de sistemas de información con los que se comunica.
 ANSWER: A
 
-8. En relacl6n con la metodologia de desarrollo KANBAN, seftale la respuesta FALSA:
-a) Surgi6 de una rnetodologfa Hamada Lean (usando tecnicas "just-In-time") creada por Suzuki.
-b) Nose premia la rapldez, sino la calldad fmal de las tareas reallzadas.
-c) La siguiente tarea realizar del backlog se puecle decidir en funcl6n de la necesidad del momenta.
-d) En el tablero de tareas cada una de las columnas correspondera a un estado concreto del flujo de tareas.
+8. En relación con la metodología de desarrollo KANBAN, señale la respuesta FALSA:
+a) Surgió de una metodología llamada Lean (usando técnicas "just-in-time") creada por Suzuki.
+b) No se premia la rapidez, sino la calidad final de las tareas realizadas.
+c) La siguiente tarea a realizar del backlog se puede decidir en función de la necesidad del momento.
+d) En el tablero de tareas cada una de las columnas corresponderá a un estado concreto del flujo de tareas.
 ANSWER: A
 
-9. La matrlz de la asignaci6n de responsabilklades que se utiliza generalmente en la gesti6n de proyectos para reladonar actlvidades con recursos es:
+9. La matriz de la asignación de responsabilidades que se utiliza generalmente en la gestión de proyectos para relacionar actividades con recursos es:
 a) Deming
-b) Extrapolaci6n
+b) Extrapolación
 c) DAFO
-d) RAO
+d) RACI
 ANSWER: D
 
-10. De acuerdo a la metodologia Metrlca v3, tcual de las slgulentes NO es una tarea de la actividad Aná1isis del Sistema de Informac16n (ASI) 2: Establecimlento de Requlsltos?
-a) Analisis de equlsltos.
-b) Elaboraci6n de la Especificad6n de Requisitos Software.
-c) espedficaci6n de Casos de Uso. ·
-d) Validaci6n de Requisitos.
+10. De acuerdo a la metodología Métrica v3, ¿cuál de las siguientes NO es una tarea de la actividad "Análisis del Sistema de Información (ASI) 2: Establecimiento de Requisitos"?
+a) Análisis de requisitos.
+b) Elaboración de la Especificación de Requisitos Software.
+c) Especificación de Casos de Uso.
+d) Validación de Requisitos.
 ANSWER: B
 
-11. En anaHsls estructurado, segun M ca v3e, lobjet:ivo del diagrama de estructura es:
-a) Proporcionar una vision ffsica de la construcd6n del Sistema de infonnaci6n.
-b) Capturar los requlsitos fundonales del sistema y expresarlos desde el purito de vista def usuarlo.
-c) La obtenci6n de un modelo 16gico de procesos que represente el sistema, con independencla de las restricciones fisicas del entomo.
-d) Representar la estructura modular del sistema ode un componente del mismo y, definir los parametros de ehtrada y salida de cada uno de los m6dulos. ·
+11. En análisis estructurado, según Métrica v3, el objetivo del diagrama de estructura es:
+a) Proporcionar una visión física de la construcción del sistema de información.
+b) Capturar los requisitos funcionales del sistema y expresarlos desde el punto de vista del usuario.
+c) La obtención de un modelo lógico de procesos que represente el sistema, con independencia de las restricciones físicas del entorno.
+d) Representar la estructura modular del sistema o de un componente del mismo y definir los parámetros de entrada y salida de cada uno de los módulos.
 ANSWER: D
 
-12. En an6llsls estructurado, segl'ln Metrica v3, lndlque los elementos de un dlagrama de estructura:
-a) nodo, conexl6n, flujo de datos, almacen de datos, dispositlvo ffslco.
-b) modulo, componente, interfaz, paquete, relaci6n de dependencla.
-c) modulo, conexi6n, parametro, m6dulo predefinido, almacen de datos, dispositivo fisico.
-d) entidad extema, proceso, almacen de datos, flujo de datos.
+12. En análisis estructurado, según Métrica v3, indique los elementos de un diagrama de estructura:
+a) nodo, conexión, flujo de datos, almacén de datos, dispositivo físico.
+b) módulo, componente, interfaz, paquete, relación de dependencia.
+c) módulo, conexión, parámetro, módulo predefinido, almacén de datos, dispositivo físico.
+d) entidad externa, proceso, almacén de datos, flujo de datos.
 ANSWER: C
 
-13. Seffale la afinnacl6n FAlSA en relaci6n a los Dlagramas de Flujo de Datos (DFD):
-a) Los flujos de datos representan c6mo fluyen los datos dentro del sistema y se pueden realizar entre cualquler elemento del
-b) Los procesos representan las transformaciones que se realizan sabre los datos en el sistema.
-c) Los alrnacenes de datos representan la informaci6n que se almacena en el sistema. ·
-d) Las entidades extemas representan a los elementos generadores o consumidores de informaci6n del sistema.
+13. Señale la afirmación FALSA en relación a los Diagramas de Flujo de Datos (DFD):
+a) Los flujos de datos representan cómo fluyen los datos dentro del sistema y se pueden realizar entre cualquier elemento del sistema.
+b) Los procesos representan las transformaciones que se realizan sobre los datos en el sistema.
+c) Los almacenes de datos representan la información que se almacena en el sistema.
+d) Las entidades externas representan a los elementos generadores o consumidores de información del sistema.
 ANSWER: A
 
-14. lQue tecnica NO es apropiada para crear un modelo conceptual de bases de datos?
+14. ¿Qué técnica NO es apropiada para crear un modelo conceptual de bases de datos?
 a) Modelo E/R.
-b) Dlagrama de estructura.
+b) Diagrama de estructura.
 c) Diagramas IDEF1X.
 d) Diagramas ORM.
 ANSWER: B
 
-15. El nlvel de alslamlento, segun ANSI/ISO SQL, de un Sistema Gestor de Base de Datos Relacional (SGBDR) en el que se pueden produdr lecturas no repetibles pero no lecturas sucias, se denomlna:
-a) Lectura no conflrmada (read-uncommitted).
-b) Lectura conflnnada (read-committed).
-c) Lectura repetlble (repeatable-read).
-d) Serlalizable.
+15. El nivel de aislamiento, según ANSI/ISO SQL, de un Sistema Gestor de Base de Datos Relacional (SGBDR) en el que se pueden producir lecturas no repetibles pero no lecturas sucias, se denomina:
+a) Lectura no confirmada (read-uncommitted).
+b) Lectura confirmada (read-committed).
+c) Lectura repetible (repeatable-read).
+d) Serializable.
 ANSWER: B
 
-16. Los grafos se representan por medlo de dos corijuntos, G = (V,A), de tal modo que V son los rirt:lces y A I
-aristas. lndique ,, de los slgulentes conjuntos representa un grafo regular de grado 3, G = (V,A), donde:
+16. Los grafos se representan por medio de dos conjuntos, G = (V, A), de tal modo que V son los vértices y A las aristas. Indique cuál de los siguientes conjuntos representa un grafo regular de grado 3, G = (V, A), donde:
 a) V= {1,2,3} y A = {{1,2},{2,3}}
-b) V= {l,2,3} y A = {{1,2},{2,3},{3,1}}
-c) V= {1,2,"3,4} y A = {{1,i},{2,4},{3,1},{1,4},{2,3}}
-d) V:= {1,2,3,4fy A = {{1,2},{3,4},{3,1},{2,3},{1,4},{2,4}}
+b) V= {1,2,3} y A = {{1,2},{2,3},{3,1}}
+c) V= {1,2,3,4} y A = {{1,3},{2,4},{3,1},{1,4},{2,3}}
+d) V= {1,2,3,4} y A = {{1,2},{3,4},{3,1},{2,3},{1,4},{2,4}}
 ANSWER: D
 
-17. Con respecto al tipo abstracto de datos arbol podemos declr que:
-a) La profundidad de un nodo en un arbol es la longitud del camlno desde dicho nodo a la hoja mas lejana que sea alcanzable 1 desde el.
-b) la altura de un nodo en un arbol es la longitud del unico camlno existente desde el node rafz hasta dicho node.
-c) la altura de un arbol es el nivel de la hoja menos profunda.
-d) El grado de un arbol es el numero maxima de hijos que pueden tener sus subarboles.
+17. Con respecto al tipo abstracto de datos árbol podemos decir que:
+a) La profundidad de un nodo en un árbol es la longitud del camino desde dicho nodo a la hoja más lejana que sea alcanzable desde él.
+b) La altura de un nodo en un árbol es la longitud del único camino existente desde el nodo raíz hasta dicho nodo.
+c) La altura de un árbol es el nivel de la hoja menos profunda.
+d) El grado de un árbol es el número máximo de hijos que pueden tener sus subárboles.
 ANSWER: D
 
-18. Sefiale la afirmacion corrects en relaci6n al Algoritmo de Floyd-Warshall para grafos:
-a) Compara toclos los posibles caminos a traves del grafo entre cada par de vertices
-b) Es un ejemplo de programaci6n estatica.
-c) Resuelve el problema de encontrar el camrno mrnlmo en grafos no dirlgidos ponderados.
-i:I) Supone que hay ciclos negatives para que haya coherencla nurnerica.
+18. Señale la afirmación correcta en relación al Algoritmo de Floyd-Warshall para grafos:
+a) Compara todos los posibles caminos a través del grafo entre cada par de vértices.
+b) Es un ejemplo de programación estática.
+c) Resuelve el problema de encontrar el camino mínimo en grafos no dirigidos ponderados.
+d) Supone que hay ciclos negativos para que haya coherencia numérica.
 ANSWER: A
 
-19. ¿Cual es el comportamlento de una estructura de datos abstractos de tlpo PIia (stack)?
+19. ¿Cuál es el comportamiento de una estructura de datos abstractos de tipo Pila (stack)?
 a) First in first output (FIFO).
-b) Last In first output (UFO).
+b) Last in first output (LIFO).
 c) First out last output (FOLD).
-d) Last In first input (LOFI).
+d) Last in first input (LOFI).
 ANSWER: B
 
-20. Segun la metodologia Metrica v3, en el diseflo de sistemas de informad6n se espera que los m6dulos resultantes tengan:
-a) Maximo acoplamiento y maxima cohesi6n.
-b) Mrnimo acoplamiento y mrnrma cohesi6n.
-c) Minima acoplaqiiento y maxima cohesl6n.
-d) Maximo acoplamlento y minima cohesl6n.
+20. Según la metodología Métrica v3, en el diseño de sistemas de información se espera que los módulos resultantes tengan:
+a) Máximo acoplamiento y máxima cohesión.
+b) Mínimo acoplamiento y mínima cohesión.
+c) Mínimo acoplamiento y máxima cohesión.
+d) Máximo acoplamiento y mínima cohesión.
 ANSWER: C
 
-21. Seflale el estandar para documentacl6n de usuario de software:
-a) IEEE Std 1062-200i
+21. Señale el estándar para documentación de usuario de software:
+a) IEEE Std 1062-2001
 b) ISO/IEC/IEEE 26512:2011
 c) ISO/IEC/IEEE 15288:2008
 d) IEEE Std 1069-2001
 ANSWER: B
 
-22. Segun MMrica v3, en la actlvidad e1aboraci6n de los Manuales de Usuario0 del proceso de Constniccl6n del Sistema de Informaci6n (CSI) lntervienen los participantes:
+22. Según Métrica v3, en la actividad “elaboración de los Manuales de Usuario” del proceso de Construcción del Sistema de Información (CSI) intervienen los participantes:
 a) Programadores.
 b) Equipo del Proyecto.
-c) Ecjuipo de Arqultectura.
-d) Equipo de Operaci6n.
+c) Equipo de Arquitectura.
+d) Equipo de Operación.
 ANSWER: B
 
-23. Señale el estandar para pruebas sottware:
+23. Señale el estándar para pruebas software:
 a) ISO/IEC/IEEE 29117
 b) ISO/IEC/IEEE 29118
-c) 150/IEC/IEEE 29119
-d) Nlnguna de las anteriores.
+c) ISO/IEC/IEEE 29119
+d) Ninguna de las anteriores.
 ANSWER: C
 
-24. Respecto al entorno de automatizacion de pruebas Selenium, senale la aflrmacion FALSA:
-a) Es un software de c6digo abierto bajo lk:enqa-Af)aclle2.0.
-b) SeleniumWebDrlver es un piugin de Firefox que genera un entorno de desarrollo y permite crear cases de prueba para aplicaciones web.
-c) Opera en las principales navegadores como IE, Mozilla o Chrome.
-d) Induye un lenguaje espedflco de dominio para pruebas (Setanese).
+24. Respecto al entorno de automatización de pruebas Selenium, señale la afirmación FALSA:
+a) Es un software de código abierto bajo licencia Apache 2.0.
+b) Selenium WebDriver es un plugin de Firefox que genera un entorno de desarrollo y permite crear casos de prueba para aplicaciones web.
+c) Opera en los principales navegadores como IE, Mozilla o Chrome.
+d) Incluye un lenguaje específico de dominio para pruebas (Selenese).
 ANSWER: B
 
-25. ¿Cuál de las siguientes opclones es una herramlenta de lntegraci6n continua?
-a)
-b)
-c) Lucene
-d) Jenkins
+25. ¿Cuál de las siguientes opciones es una herramienta de integración continua?
+a) Lucene
+b) Jenkins
 ANSWER: D
 
-26. En relaci6n a los diagramas de perfil (profile diagram) en UML 2.0, seflale la afirmacion correcta:
-a) Esta lncluido en la categor1a de dlagramas de comportamiento.
-b) Esta basado en la definici6n de estereotipos, restricciones y valores etiquetados.
-c) Los valores etiquetados son metadases especfficas que se obbenen extendiendo una metaclase existente en el modelo de referencia.
-d) Los estereotipos son meta-atributos adicionales que se asocian a una metaclase del metamodelo extendido par un Perfil.
+26. En relación a los diagramas de perfil (profile diagram) en UML 2.0, señale la afirmación correcta:
+a) Está incluido en la categoría de diagramas de comportamiento.
+b) Está basado en la definición de estereotipos, restricciones y valores etiquetados.
+c) Los valores etiquetados son metadatos específicos que se obtienen extendiendo una metaclase existente en el modelo de referencia.
+d) Los estereotipos son meta-atributos adicionales que se asocian a una metaclase del metamodelo extendido por un Perfil.
 ANSWER: B
 
-27. Uno de los siguientes patrones de diseno responde a la siguiente definicion: "el problema a soludonar por este patron es el de crear diferentes famllias de objetos relacionados o que dependen entre si, sin especificar sus clases concretas"
+27. Uno de los siguientes patrones de diseño responde a la siguiente definición: "el problema a solucionar por este patrón es el de crear diferentes familias de objetos relacionados o que dependen entre sí, sin especificar sus clases concretas"
 a) Singleton.
 b) Prototype.
 c) Abstract Factory.
 d) Factory Method.
 ANSWER: C
 
-28. UML 2 permite la modificacl6n de todos sus componentes medlante mecanlsmos de extenslbllidad, Lcu61 es U;iu de ellos?
-a) Agregaci6n
-b) Asoclaci6n
-c) Composici6n
-d) Restricci6n
+28. UML 2 permite la modificación de todos sus componentes mediante mecanismos de extensibilidad, ¿cuál es uno de ellos?
+a) Agregación
+b) Asociación
+c) Composición
+d) Restricción
 ANSWER: D
 
-29. En Java exlsten dos APis: JAX-RS y JAX-WS, relacionadas con la implementacl6n de servicios web. Indique de las siguientes frameworks o librerias, i.cu61 de ellos lmplementa el API JAX-RS?
+29. En Java existen dos APIs: JAX-RS y JAX-WS, relacionadas con la implementación de servicios web. Indique de las siguientes frameworks o librerías, ¿cuál de ellos implementa el API JAX-RS?
 a) Axis 2
 b) Jersey
 c) Xalie
 d) WebServiceRS
 ANSWER: B
 
-30. En el ámbito de Java Community Process, c.c6mo se Haman los documentos que describen las propuestas para ser aiiadidas a la plataforma Java?
+30. En el ámbito de Java Community Process, ¿cómo se llaman los documentos que describen las propuestas para ser añadidas a la plataforma Java?
 a) Request for Specifications (RFS's).
 b) Request for Comments (RFC's).
 c) Java Community Specifications (JCSs).
 d) Java Specification Requests (JSRs).
 ANSWER: D
 
-31. La interfaz API de Java que se utillza en JPA para reallzar operaciones y servicios CRUD (Create, Read, Update y Delete) es:
+31. La interfaz API de Java que se utiliza en JPA para realizar operaciones y servicios CRUD (Create, Read, Update y Delete) es:
 a) CreateQuery
-b) EntilyManager
-c) PersltenceContext
+b) EntityManager
+c) PersistenceContext
 d) JPQL
 ANSWER: B
 
 32. El fichero que se utiliza en el interfaz de Java en JPA para definir una unidad de persistencia se llama:
-a) perslstence-container.xml
+a) persistence-container.xml
 b) mapping-jpa.xml
 c) persistence.xml
 d) web.xml
 ANSWER: C
 
-33. Componente de .NET Framework que permite crear servlcios que utllizan Open Data Protocol (OData) para exponer y utilizar datos a traves de la Web o de una intranet utllizando la semantica de REST:
-a) Transformadones XSLT
+33. Componente de .NET Framework que permite crear servicios que utilizan Open Data Protocol (OData) para exponer y utilizar datos a través de la Web o de una intranet utilizando la semántica de REST:
+a) Transformaciones XSLT
 b) WCF Data Services
-c) Clases system,xml
-d) Odata Services
+c) Clases system.xml
+d) OData Services
 ANSWER: B
 
-34. En relaci6n al ciclo de vlda de una pagina ASP.NET, seftale cu6I de los siguientes eventos de p6glna realiza los cambios finales en el contenido de la pigina:
+34. En relación al ciclo de vida de una página ASP.NET, señale cuál de los siguientes eventos de página realiza los cambios finales en el contenido de la página:
 a) Page_PreRender
 b) Page_Preinlt
 c) Page_Unload
 d) Page_Init
 ANSWER: A
 
-35. MicrosOft: .NET Framework consta de los siguientes componentes prtncipales:
-a) Common Language Runtime y la biblioteca de dases .NET framework.
-b) Common nguage Specification y la biblioteca de clases .NET framework.
+35. Microsoft .NET Framework consta de los siguientes componentes principales:
+a) Common Language Runtime y la biblioteca de clases .NET framework.
+b) Common Language Specification y la biblioteca de clases .NET framework.
 c) Common Language Runtime, la biblioteca de clases .NET framework y un compilador JIT (Just in time).
 d) Common Language Specification, la biblioteca de clases .NET framework y un compilador JIT (Just in time).
 ANSWER: A
 
-36. Seftale cu6I de las siguientes respuestas es una plataforma que permite crear aplicaciones nativas para 105, Android y Windows usando el lenguaje C#:
+36. Señale cuál de las siguientes respuestas es una plataforma que permite crear aplicaciones nativas para iOS, Android y Windows usando el lenguaje C#:
 a) Bootstrap
 b) Midlets
-c) xamarin
+c) Xamarin
 d) SonarQube
 ANSWER: C
 
-37. Estandar para especificacion de lenguaje C#:
+37. Estándar para especificación de lenguaje C#:
 a) ECMA331
 b) ECMA332
 c) ECMA333
 d) ECMA334
 ANSWER: D
 
-38. Existen multitud de frameworks JavaSaipt que fadlitan el desarrollo de aplicaclones web, c.cual de los siguientes frameworks NO tiene esa finalidad?
+38. Existen multitud de frameworks JavaScript que facilitan el desarrollo de aplicaciones web, ¿cuál de los siguientes frameworks NO tiene esa finalidad?
 a) Backbone.js
 b) Ember.js
-c) Unlt.js
+c) Unit.js
 d) Angular.js
 ANSWER: C
 
-39. Apache Axis2 incluye soporte para la especificacion WS-ReliableMessaglng vfa:
-a) Apache Rampart. · ·.
-b) Apache Kandula.
-c) Apache Sandesha2.
-d) Apache StA>C.
+39. Apache Axis2 incluye soporte para la especificación WS-ReliableMessaging vía:
+a) Apache Rampart
+b) Apache Kandula
+c) Apache Sandesha2
+d) Apache StAX
 ANSWER: C
 
-40. ¿Cuál de los sigulentes es un gestor de contenidos CMS (Content Management System)?
+40. ¿Cuál de los siguientes es un gestor de contenidos CMS (Content Management System)?
 a) cPanel
 b) Drupal
 c) PHP
 d) Ruby
 ANSWER: B
 
-41. Seftale cual de las siguientes respuestas se corresponde con la evoluci6n de la especiftcacl6n JAX-RPC de servicios web basados en XML-SOAP que est6 detallada en la JSR 224:
+41. Señale cuál de las siguientes respuestas se corresponde con la evolución de la especificación JAX-RPC de servicios web basados en XML-SOAP que está detallada en la JSR 224:
 a) CXF
 b) JAX-WS
 c) JAX-RS
 d) Bootstrap
 ANSWER: B
 
-42, 5eftale J respuesta correcta, el protocolo AJP (Apache JServ Protocol) es un protocolo:
-a) que permite ejecutar diversas instancias CGI para la gesti6n concurrente de peticiones.
-b) binario que permite una comunicaci6n entre un ser:vidor web y un contenedor de servlets o servidor de apllcaciones sobre TCP. .
-c) que gestiona dlstintas metricas del servidor web y las muestra en un cuadro de mandos para su posterior analisis.
-d) ql.ie permite servir petldones HTTP sobre FTP. ·
+42. Señale la respuesta correcta, el protocolo AJP (Apache JServ Protocol) es un protocolo:
+a) que permite ejecutar diversas instancias CGI para la gestión concurrente de peticiones.
+b) binario que permite una comunicación entre un servidor web y un contenedor de servlets o servidor de aplicaciones sobre TCP.
+c) que gestiona distintas métricas del servidor web y las muestra en un cuadro de mandos para su posterior análisis.
+d) que permite servir peticiones HTTP sobre FTP.
 ANSWER: B
 
-43. Segun el modelo de calidad del software de McCall, los factores de transicion son:
-a) F cllldad de mantenlmiento, Extensibilidad y Reusabllldad.
-b) Portabilidad, Reusabilldad e Interoperabilidad.
-c) Facllidad de mantenimlento, Extensibi1idad y Fadlidad de prueba.
-d) Portabilidad, Reusabilldad y Extensibilidad.
+43. Según el modelo de calidad del software de McCall, los factores de transición son:
+a) Facilidad de mantenimiento, Extensibilidad y Reusabilidad.
+b) Portabilidad, Reusabilidad e Interoperabilidad.
+c) Facilidad de mantenimiento, Extensibilidad y Facilidad de prueba.
+d) Portabilidad, Reusabilidad y Extensibilidad.
 ANSWER: B
 
-44. Jakob Nielsen definio 10 principios heuristlcos de la usabilldad web. Sefiale cual de los siguientes es uno de ellos:
-a) Visibilidad del estado del sistema.- .
-b) Proporcionar altemativas textuales para todo el contenido no textual.
-c) Facilltar a los usuarios ver y ofr contenido.
-d) No dlseiiar el contenido de un modo que puecla provocar ataques, espasmos o convulsiones.
+44. Jakob Nielsen definió 10 principios heurísticos de la usabilidad web. Señale cuál de los siguientes es uno de ellos:
+a) Visibilidad del estado del sistema.
+b) Proporcionar alternativas textuales para todo el contenido no textual.
+c) Facilitar a los usuarios ver y oír contenido.
+d) No diseñar el contenido de un modo que pueda provocar ataques, espasmos o convulsiones.
 ANSWER: A
 
-45. i.Cual de las slgulentes pautas de las WCAG 2.0 pertenece al principio ncomprenslble'"?
-a) Proporcionar a los usliarios el tiempo suficiente para leery usar el contenido.
+45. ¿Cuál de las siguientes pautas de las WCAG 2.0 pertenece al principio "comprensible"?
+a) Proporcionar a los usuarios el tiempo suficiente para leer y usar el contenido.
 b) Proporcionar acceso a toda la funcionalidad mediante el teclado.
 c) Ayudar a los usuarios a evitar y corregir los errores.
-d) No disei'iar contenido de un modo que se sepa podrfa provocar ataques, espasmos o convulsiones.
+d) No diseñar contenido de un modo que se sepa podría provocar ataques, espasmos o convulsiones.
 ANSWER: C
 
-46. La recome.-.daci6n ITU-T d6nde se presentan los requisitos y capacidades basados en la computacl6n en la nube (Big Data)es: 
+46. La recomendación ITU-T donde se presentan los requisitos y capacidades basados en la computación en la nube (Big Data) es:
 a) Y.3600
 b) Y.3700
 c) Y.3800
 d) Y.3900
 ANSWER: A
 
-47. tcual de los slgulentes sistemas de gestion de bases de datos es de tipo NoSQL?
+47. ¿Cuál de los siguientes sistemas de gestión de bases de datos es de tipo NoSQL?
 a) DB2
 b) Interbase
 c) MariaDB
-d) MongoOB
+d) MongoDB
 ANSWER: D
 
-48. El proyecto de la fundaci6n Apache que provee una base de datos NoSQL se denomina:
+48. El proyecto de la fundación Apache que provee una base de datos NoSQL se denomina:
 a) Hadoop
-b) CouchDB·
+b) CouchDB
 c) Ignite
 d) MetaModel
 ANSWER: B
 
-49. k le cuil de las siguientes respuestas se corTeSponde con una herramienta ETL (Extract Transfonn and Load) open source:
-a) Business Inteligence.
-b) Infotmattca Power Center. ·
-c) SAS ffi Studio.
-d) Pentatro Data Integration (Kettle ffi).
+49. ¿Cuál de las siguientes respuestas se corresponde con una herramienta ETL (Extract, Transform, and Load) open source?
+a) Business Intelligence
+b) Informatica PowerCenter
+c) SAS ETL Studio
+d) Pentaho Data Integration (Kettle)
 ANSWER: D
 
-50. tCUal de los siguientes ccnceptos NO forma parte de las conocldas V's de Big Data?
-a) Volumen.
-b) Voracidad.
-c) Velocidad.
-d) Variedad.
-ANSWER:B
+50. ¿Cuál de los siguientes conceptos NO forma parte de las conocidas V's de Big Data?
+a) Volumen
+b) Voracidad
+c) Velocidad
+d) Variedad
+ANSWER: B
 
-1. [RESERVA] Dentro de la activldad Segulmlento y evaluaci6n de los cambios hasta la aceptaci6n de Metrica v3, indique los participantes lntervlnlentes en la tarea 0Realizacl6n de las Pnlebas de Regresion° {MSI 4.2):
-a) Responsable de Mantenlmlento, Equipo de Mantenimiento y Jefe de Proyecto.
-b) Dlrectores de los Us!.iarl y R5pon e de Mantenimiento.
-c} RespOnsable de Operaddn, Responsable de Mantenimiento y Equipo de Mantenimiento.
-d) Dlrectores de los Usuarlos, Equlpo de Mantenimiento y J de Proyecto..
+1. [RESERVA] Dentro de la actividad Seguimiento y evaluación de los cambios hasta la aceptación de Métrica v3, indique los participantes intervinientes en la tarea "Realización de las Pruebas de Regresión" (MSI 4.2):
+a) Responsable de Mantenimiento, Equipo de Mantenimiento y Jefe de Proyecto.
+b) Directores de los Usuarios y Responsable de Mantenimiento.
+c) Responsable de Operación, Responsable de Mantenimiento y Equipo de Mantenimiento.
+d) Directores de los Usuarios, Equipo de Mantenimiento y Jefe de Proyecto.
 ANSWER: A
 
-2. [RESERVA] Un archivo creado eri el formato de Protocolo de Inlclo de Java Network, utilizado para lanzar y administrar programas de JavJ en una.red OJin le Web tlene la extensi6n: ··
+2. [RESERVA] Un archivo creado en el formato de Protocolo de Inicio de Java Network, utilizado para lanzar y administrar programas de Java en una red o en la Web tiene la extensión:
 a) .jre
 b) .jnlp
 c) .jmx
 d) .jstl
 ANSWER: B
 
-3. Sefiala Iii respuesta FALSA con respecto de los servicios WMS {Web Map Services):
-a) Son una implementacl6n del modelo cliente/servidor.
-b) Proporcionan informaclones geografitas en forma de archivos de imagen digital.
-c) Permiten el acceso y modificaci6n de los datos.remqto_s.
-d) Proporcionan fnrormacl6n sobre el nivel de servicio en forma de metadatos.
+3. Señale la respuesta FALSA con respecto de los servicios WMS (Web Map Services):
+a) Son una implementación del modelo cliente/servidor.
+b) Proporcionan informaciones geográficas en forma de archivos de imagen digital.
+c) Permiten el acceso y modificación de los datos remotos.
+d) Proporcionan información sobre el nivel de servicio en forma de metadatos.
 ANSWER: C
+

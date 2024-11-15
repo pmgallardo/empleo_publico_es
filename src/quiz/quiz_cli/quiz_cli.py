@@ -267,9 +267,6 @@ class QuizQuestionPool:
         cur_q_item = ""
         # Parse questions
         for i, line in enumerate(lines):
-            if i==0:
-                print(line)
-
             # Ignore empty lines between questions
             if line != "" or question is not None:
                 # If question is not started
@@ -311,7 +308,7 @@ class QuizQuestionPool:
                             # Get the answer value, removing the end of line character
                             line_wo_answer_head = re.sub(answer_pattern, '', line).strip()
                             # If there is an answer
-                            print(i)
+
                             if line_wo_answer_head != "":
                                 correct_answer_no = letter_to_number(line_wo_answer_head)
                                 question.set_correct_answer_no(correct_answer_no)

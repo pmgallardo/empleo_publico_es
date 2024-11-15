@@ -1,222 +1,202 @@
-1. [RESERVA] La Ley 39/2015, del Procedimiento Administrativo Comun de las AA.PP, trata la obligaci6n a dictar resoluci6n expresa de la Administraci6n estableciendo que el plazo maxima en el que debe notificarse dicha resoluci6n NO podra exceder de:
-a) 4 meses, salvo que una norma con range de Ley establezca uno mayor o asi venga previsto en el Derecho de la Union Europea.
-b) 4 meses, sin excepci6n.
-c) 6 meses, sin excepci6n.
-d) 6 meses, salvo que una nom,a con range de Ley establezca uno mayor o asi venga previsto en el Derecho de la Union Europea.
-ANSWER: D
+BLOQUE III
 
-2. [RESERVA] La arquitectura hardware de un ordenador compuesta por: una unidad aribnetico-I6gica, una unidad de control, una unica memoria para almacenar instrucciones y datos, dispositivos de entrada/salida y buses de datos que comunican las distintas partes, es la arquitectura:
-a) de Von Newmann.
-c) de Moore.
-b) Harvard.
-d) de Wirth.
-ANSWER: A
-
-3. [RESERVA] Seiiale cu.ii de los siguientes elementos hardware se usa exclusivamente como una unidad de procesamiento griifico (GPU) en un dispositivo m6vil:
-a) Aclreno 530
-c) Kirin 955
-b) Intel Atom X3
-d) Exynos 8890
-ANSWER: A
-
- BLOQUE III
-1. Ingenieria del software es:
-a) Es la actividad profesional que busca la economia de costes en el desarrollo de software, a la vez que se cumplen los plazos de ejecuci6n.
-b) Es la aplicaci6n de un enfoque sistematico, disciplinado y cuantificable al desarrollo, operaci6n y mantenimiento de software, y el estudio de estos enfoques, es decir, la aplicaci6n de la ingenierfa al software.
-c) Es la aplicaci6n de principios robustos y metodos orientados a objetos en el disei'io y desarrollo de programas.
-d) Es el nombre actual que se da a lo que antiguamente se llamaba modelo de ciclo de vida en espiral.
+1. Ingeniería del software es:
+a) La actividad profesional que busca la economía de costes en el desarrollo de software, a la vez que se cumplen los plazos de ejecución.
+b) La aplicación de un enfoque sistemático, disciplinado y cuantificable al desarrollo, operación y mantenimiento de software, y el estudio de estos enfoques, es decir, la aplicación de la ingeniería al software.
+c) La aplicación de principios robustos y métodos orientados a objetos en el diseño y desarrollo de programas.
+d) El nombre actual que se da a lo que antiguamente se llamaba modelo de ciclo de vida en espiral.
 ANSWER: B
 
-2. En lo que se refiere a estandares de referenda de Metrica v3, se ha tenido en cuenta el modelo de cido de vida de desarrollo propuesto en la norma:
+2. En lo que se refiere a estándares de referencia de Métrica v3, se ha tenido en cuenta el modelo de ciclo de vida de desarrollo propuesto en la norma:
 a) ISO 12.107
 b) ISO 12.207
 c) ISO 12.307
 d) ISO 12.407
 ANSWER: B
 
-3. Indique la afirmaci6n correcta en relaci6n al modelo de ciclo de vida en espiral:
+3. Indique la afirmación correcta en relación al modelo de ciclo de vida en espiral:
 a) Fue propuesto por R. Pressman para solventar los problemas de los modelos tradicionales.
-b) Se centra en la identificaci6n de los riesgos asociados a cada alternativa yen la manera de resolver dichos riesgos.
-c) Es un modelo poco versatil y flexible.
-d) La dimensi6n radial mide el grade de avance del proyecto.
+b) Se centra en la identificación de los riesgos asociados a cada alternativa y en la manera de resolver dichos riesgos.
+c) Es un modelo poco versátil y flexible.
+d) La dimensión radial mide el grado de avance del proyecto.
 ANSWER: B
 
-4. En Metrica v3, dentro del perfil Consultor se engloban, entre otros, los siguientes participantes:
-a) Aclministrador de Bases de Dates - Grupo de Aseguramiento de la calidad - Responsable de Sistemas
-b) Especialista en Comunicaciones - Tecnico de Sistemas - Tecnicos de Comunicaciones
-c) Especialista en Comunicaciones - Equipo de Arquitectura - Equipo de Formaci6n
-d) Tecnico de Sistemas - Tecnicos de Comunicaciones - Equipo de Soporte Tecnico
+4. En Métrica v3, dentro del perfil Consultor se engloban, entre otros, los siguientes participantes:
+a) Administrador de Bases de Datos - Grupo de Aseguramiento de la calidad - Responsable de Sistemas
+b) Especialista en Comunicaciones - Técnico de Sistemas - Técnicos de Comunicaciones
+c) Especialista en Comunicaciones - Equipo de Arquitectura - Equipo de Formación
+d) Técnico de Sistemas - Técnicos de Comunicaciones - Equipo de Soporte Técnico
 ANSWER: B
 
-5. En Metrica v3, dentro de la Interfaz de Gesti6n de Proyectos, las actividades contempladas en el grupo de actividades de seguimiento y control (GPS) se desarrollan durante los procesos:
-a) EVS, AS!, DSI, CSI, IAS.
+5. En Métrica v3, dentro de la Interfaz de Gestión de Proyectos, las actividades contempladas en el grupo de actividades de seguimiento y control (GPS) se desarrollan durante los procesos:
+a) EVS, ASI, DSI, CSI, IAS.
 b) ASI, DSI, CSI, IAS, MSI.
 c) GPI, GPF.
-d) Se realizan al principio del proyecto, al concluir el proceso E\/S y justo al finalizar, al empezar el proceso MS!.
+d) Se realizan al principio del proyecto, al concluir el proceso EVS y justo al finalizar, al empezar el proceso MSI.
 ANSWER: B
 
-6. En el marco de desarrollo agil SCRUM se producen reuniones diarias, denomlnadas daily scrums, durante las cuales cada miembro del equipo debe responder a 3 preguntas, entre las que NO figura:
-a) lQue trabajo tlene previsto realizar hoy?
-b) lQue impedimentos deben elfminarse para poder reallzar el trabajo?
-c) lQue trabajo se ha realizado el dfa anterior? ·
-d) lQue tec:nicas o herramlentas se usarim para realizar el trabajo?
+6. En el marco de desarrollo ágil SCRUM se producen reuniones diarias, denominadas daily scrums, durante las cuales cada miembro del equipo debe responder a 3 preguntas, entre las que NO figura:
+a) ¿Qué trabajo tiene previsto realizar hoy?
+b) ¿Qué impedimentos deben eliminarse para poder realizar el trabajo?
+c) ¿Qué trabajo se ha realizado el día anterior?
+d) ¿Qué técnicas o herramientas se usarán para realizar el trabajo?
 ANSWER: D
 
-7. Los productos finales que se obtienen en la Planificaci6n def Sistema de Informaci6n segun Metrlca v3 y que sirven de entrada a la fase de Evaluaci6n del Sistema de Informaci6n son:
-a) Especificaci6n de la interfaz de usuario.
-b) catalogo de requisites y la arquitectura de Informaci6n.
-c) Planificaci6n de la soluci6n.
-d) Valoraci6n de rlesgos de la soluci6n. Especificaci6n de la interfaz de usuario
-ANSWER:B
+7. Los productos finales que se obtienen en la Planificación del Sistema de Información según Métrica v3 y que sirven de entrada a la fase de Evaluación del Sistema de Información son:
+a) Especificación de la interfaz de usuario.
+b) Catálogo de requisitos y la arquitectura de Información.
+c) Planificación de la solución.
+d) Valoración de riesgos de la solución. Especificación de la interfaz de usuario.
+ANSWER: B
 
-8. Dentro de la actividad Deflnici6n de Requisitos del Sistema de Metrica v3, indique los participantes intervinientes en la tarea Catalogadon de Requisitos (EVS 3,3):
-a) Jefe de Proyecto y Comite de Direcci6n.
+8. Dentro de la actividad Definición de Requisitos del Sistema de Métrica v3, indique los participantes intervinientes en la tarea Catalogación de Requisitos (EVS 3.3):
+a) Jefe de Proyecto y Comité de Dirección.
 b) Jefe de Proyecto, Analistas y Usuarios Expertos.
-c) Comite de Direction y Usuarios Expertos.
-d) Consulteres, Analistas y Usuarios Expertos.
+c) Comité de Dirección y Usuarios Expertos.
+d) Consultores, Analistas y Usuarios Expertos.
 ANSWER: B
 
-9. Respecto a las tecnicas que propone la metodologia Met:rica v3, el comportamiento temporal de una clase se representa en el:
+9. Respecto a las técnicas que propone la metodología Métrica v3, el comportamiento temporal de una clase se representa en el:
 a) Diagrama de Clases.
-b) Diagrama de Transici6n de Estados.
-c) Dlagrama de Componentes.
-d) Dlagrama de Despliegue.
+b) Diagrama de Transición de Estados.
+c) Diagrama de Componentes.
+d) Diagrama de Despliegue.
 ANSWER: B
 
-10. En la metodologia 6gil SCRUM, la lista de tareas necesarias para llevar a cabo las historlas de una iteracion es el:
+10. En la metodología ágil SCRUM, la lista de tareas necesarias para llevar a cabo las historias de una iteración es el:
 a) Product Backlog.
 b) Sprint Planning.
 c) Sprint Backlog.
 d) Planning Backlog.
 ANSWER: C
 
-11. Segun la metodologia Metrica v3, una de las tecnicas que propone para la obtenci6n de requisttos en el analisis de un slstema es:
-a) Diagrama de Aujo de Dates.
-c) Modelo Entidad/Relad6n.
-b) casos de Uso.
+11. Según la metodología Métrica v3, una de las técnicas que propone para la obtención de requisitos en el análisis de un sistema es:
+a) Diagrama de Flujo de Datos.
+b) Casos de Uso.
+c) Modelo Entidad/Relación.
 d) Diagrama de Clases.
 ANSWER: B
 
-12. En analisis' estructurado, segun Metrica v3, el objetivo del diagrama de estructura es:
-a) Propordonar una visi6n fisica de la construcd6n del sistema de informaci6n.
-b) caprurar los requisites funcionales del sistema y expresartos clesde el punto de vista del usuario.
-c) La obtencl6n de un modelo I6gico de procesos que represente el sistema, con independenCla de las restricciones fisicas del entemo,
-d) Representar la estructura modular del sistema o de un componente del mismo y, definlr los parametros de entrada y salida de cada uno de los modules.
+12. En análisis estructurado, según Métrica v3, el objetivo del diagrama de estructura es:
+a) Proporcionar una visión física de la construcción del sistema de información.
+b) Capturar los requisitos funcionales del sistema y expresarlos desde el punto de vista del usuario.
+c) Obtener un modelo lógico de procesos que represente el sistema, con independencia de las restricciones físicas del entorno.
+d) Representar la estructura modular del sistema o de un componente del mismo y definir los parámetros de entrada y salida de cada uno de los módulos.
 ANSWER: D
 
-13. De acuerdo con la lnterfaz de Metrica v3 de Gestion de la Configuracion, i.cual de los siguientes elementos NO debe ser gestionado por la misma?
-a) C6digo fuente.
-b) Especificaciones de requisites.
+13. De acuerdo con la Interfaz de Métrica v3 de Gestión de la Configuración, ¿cuál de los siguientes elementos NO debe ser gestionado por la misma?
+a) Código fuente.
+b) Especificaciones de requisitos.
 c) Pruebas.
 d) Presupuesto.
 ANSWER: D
 
-14. En el 6mbito del modelo entidad-relacion extendido, un tipo de entidad, para un conjunto de entidades que poseen la misma estructura, describe el esquema o:
+14. En el ámbito del modelo entidad-relación extendido, un tipo de entidad, para un conjunto de entidades que poseen la misma estructura, describe el esquema o:
 a) Ocurrencia
-b) Intension
+b) Intensión
 c) Extensión
 d) Jerarquía
 ANSWER: B
 
-15. En relacion al modelo entidad-relad6n extendido, la construccion de un nuevo tipo de entidad como composlci6n de otros y su tipo de relaci6n para poder manejarlo en un nlvel de abstracci6n mayor, se denomina:
+15. En relación al modelo entidad-relación extendido, la construcción de un nuevo tipo de entidad como composición de otros y su tipo de relación para poder manejarlo en un nivel de abstracción mayor, se denomina:
 a) Especialización
 b) Categoría
 c) Asociación
-d) Agregación·
+d) Agregación
 ANSWER: D
 
-16. En el diseiio de bases de datos, una vista materializada presenta como ventaja, frente a una vista normal:
-a) La minimizad6n del consume de espacio.
-b) La velocidad de ejecucl6n.
-c) La reclucci6n de la redundancla de datos.
-d) la posibilidad de acceder a ella desde triggers.
+16. En el diseño de bases de datos, una vista materializada presenta como ventaja, frente a una vista normal:
+a) La minimización del consumo de espacio.
+b) La velocidad de ejecución.
+c) La reducción de la redundancia de datos.
+d) La posibilidad de acceder a ella desde triggers.
 ANSWER: B
 
-17. La optimizacion es la t:ecnica que consiste en:
-a) obtener un modelo ffsico de dates a partir del modelo 16gico de dates nonnalizado.
-b) reestructurar el modelo fisico de dates con el de asegurar que satisface los requisites de rendlmiento establecidos y conseguir una adecuada eficiencia del Sistema.
-c) obtener un modelo ffslco de dates a partir del modelo de dases.
-d) una normalizacl6n controlada del modelo fisico de datos que se aplica para reducir o simplifrcar el numero de accesos a la base de dates.
+17. La optimización es la técnica que consiste en:
+a) Obtener un modelo físico de datos a partir del modelo lógico de datos normalizado.
+b) Reestructurar el modelo físico de datos con el fin de asegurar que satisface los requisitos de rendimiento establecidos y conseguir una adecuada eficiencia del sistema.
+c) Obtener un modelo físico de datos a partir del modelo de bases.
+d) Una normalización controlada del modelo físico de datos que se aplica para reducir o simplificar el número de accesos a la base de datos.
 ANSWER: B
 
-18. ¿Cual de las siguientes palabras reservadas de SQL permite aplicar una condici6n a funciones agregadas?
+18. ¿Cuál de las siguientes palabras reservadas de SQL permite aplicar una condición a funciones agregadas?
 a) HAVE ... IN
 b) WHERE ... IN
 c) HAVING
 d) GROUP BY
 ANSWER: C
 
-19. ¿Cuál de las siguientes reglas de Codd corresponde con la siguiente definici6n: "A nivel 16gico, la descripd6n de la base de datos se representa de la misma forma que los datos nonnales y, por tanto, los usuarios autorizados podran consultar dicha descripci6n empleando el mismo lenguaje relacional que emplean para consultar las datos":
-a) Regla 5 (del sublenguaje complete de datos).
-b) Regla 9 (independencia 16gica de datos).
-c) Regla 7 (insercion, actualizaci6n y borrado de alto nlvel).
-d) Regla 4 (cat:alogo en linea dinamico basado en el modelo relacional).
+19. ¿Cuál de las siguientes reglas de Codd corresponde con la siguiente definición: "A nivel lógico, la descripción de la base de datos se representa de la misma forma que los datos normales y, por tanto, los usuarios autorizados podrán consultar dicha descripción empleando el mismo lenguaje relacional que emplean para consultar los datos":
+a) Regla 5 (del sublenguaje completo de datos).
+b) Regla 9 (independencia lógica de datos).
+c) Regla 7 (inserción, actualización y borrado de alto nivel).
+d) Regla 4 (catálogo en línea dinámico basado en el modelo relacional).
 ANSWER: D
 
-20. En relacion con los metodos de control de concurrenda en bases de datos, la regla de Thomas es una ...
-a) regla para mantener en almacenamiento multiples verslones del mismo granule.
+20. En relación con los métodos de control de concurrencia en bases de datos, la regla de Thomas es una ...
+a) regla para mantener en almacenamiento múltiples versiones del mismo granule.
 b) regla para protocolos de bloqueo optimistas.
-c) variante del protocolo de ordenacl6n par marcas de tiempo.
-d) variante para determinar confllctos en las transacciones utilizando una estructura de arbol.
+c) variante del protocolo de ordenación por marcas de tiempo.
+d) variante para determinar conflictos en las transacciones utilizando una estructura de árbol.
 ANSWER: C
 
-21. ¿Cuál es la primera fase del disefto de la base de datos en la que disefia pensando en el SGBD especifico que se va a usar?
-a) Diseii.o concepbJal.
-b) Diseiio logico.
-c) Diseiio fisico.
-d) El dlseii.o de la base de datos es independiente del SGBD que se vaya a utilizar.
+21. ¿Cuál es la primera fase del diseño de la base de datos en la que diseña pensando en el SGBD específico que se va a usar?
+a) Diseño conceptual.
+b) Diseño lógico.
+c) Diseño físico.
+d) El diseño de la base de datos es independiente del SGBD que se vaya a utilizar.
 ANSWER: B
 
-22. En la organizaci6n de los reglstros de un fichero que slgue la estructura de "fichero disperso", el Metodo de Lin:
-a) nose puecle utilizar como algoritmo de dispersion.
-b) Es un algoritmo que utiliza el desplazamiento de los digitos de tos extremes hada el centro y posteriormente los suma para calcular el valor de dispersi6n.
-c) Es un algoribno que utillza el plegado de los dfgitos de los extremos hacia el centro y se suman para calcular el valor de dispersion.
-d) Es un algoribno que utillza dos numeros primos en el calculo final del valor de dispersion.
+22. En la organización de los registros de un fichero que sigue la estructura de "fichero disperso", el Método de Lin:
+a) no se puede utilizar como algoritmo de dispersión.
+b) Es un algoritmo que utiliza el desplazamiento de los dígitos de los extremos hacia el centro y posteriormente los suma para calcular el valor de dispersión.
+c) Es un algoritmo que utiliza el plegado de los dígitos de los extremos hacia el centro y se suman para calcular el valor de dispersión.
+d) Es un algoritmo que utiliza dos números primos en el cálculo final del valor de dispersión.
 ANSWER: D
 
-23. Seleccione de entre las slgulentes, la opci6n que contiene una relacion correcta de principios del modelo de orientad6n a objetos:
-a) Reusabilidad, herencia, consistencia, polimorfismo y abstracci6n,
-b) Polimorfismo, atomiddad, reusabilidad, consistencia y encapsulaci6n.
-c) Herencia, encapsulad6n, atomiddad, reusabilidad y abstracci6n.
-d) Polimorflsmo, abstracd6n, reusabilidad, herencia y encapsulaci6n.
+23. Seleccione de entre las siguientes, la opción que contiene una relación correcta de principios del modelo de orientación a objetos:
+a) Reusabilidad, herencia, consistencia, polimorfismo y abstracción.
+b) Polimorfismo, atomicidad, reusabilidad, consistencia y encapsulación.
+c) Herencia, encapsulación, atomicidad, reusabilidad y abstracción.
+d) Polimorfismo, abstracción, reusabilidad, herencia y encapsulación.
 ANSWER: D
 
-24. Cuando un m6dulo realiza actividades paralelas usando los mismos datos de eritrada y salida, estamos ante el tlpo de cohesi6n:
+24. Cuando un módulo realiza actividades paralelas usando los mismos datos de entrada y salida, estamos ante el tipo de cohesión:
 a) Lógica
 b) Secuencial
 c) Comunicacional
 d) Procedimental
 ANSWER: C
 
-25. Segun la metodologia Metrlca v3, en el disefio de sistemas de informaci6n se espera que los m6dulos resultantes tengan:
-a) Maximo acoplamiento y maxima cohesion.
-b) Mfnimo acoplamiento y mfnima cohesion.
-c) Mfnimo acoplamiento y maxima c.ohesion.
-d) Maximo acoplamiento y minima cohesion.
+25. Según la metodología Métrica v3, en el diseño de sistemas de información se espera que los módulos resultantes tengan:
+a) Máximo acoplamiento y máxima cohesión.
+b) Mínimo acoplamiento y mínima cohesión.
+c) Mínimo acoplamiento y máxima cohesión.
+d) Máximo acoplamiento y mínima cohesión.
 ANSWER: C
 
-26. En Met:rica v3, dentro de la actividad Aprobaci6n del Sistema de Infonnaci6n, indique cual de los sigulentes productos NO es una entrada de la tarea Presentaci6n y Aprobaci6n del Sistema de Informaci6n (CSI 9.1):
-a) Resultado y evaluaci6n de las Pruebas Unitarias.
-b) Procedimientos de Mlgrad6n y carga Inicial de Dates.
-c) Evaluacion del. Resultado de las Pruebas del Sistema.
-d) Plan de Migracion y carga Inrclal de Datos.
+26. En Métrica v3, dentro de la actividad Aprobación del Sistema de Información, indique cuál de los siguientes productos NO es una entrada de la tarea Presentación y Aprobación del Sistema de Información (CSI 9.1):
+a) Resultado y evaluación de las Pruebas Unitarias.
+b) Procedimientos de Migración y carga Inicial de Datos.
+c) Evaluación del Resultado de las Pruebas del Sistema.
+d) Plan de Migración y carga Inicial de Datos.
 ANSWER: D
 
-27. Cual de los siguientes es un entomo e leaming basado en software libre?
+27. ¿Cuál de los siguientes es un entorno e-learning basado en software libre?
 a) Dokeos
 b) Blackboard
-c) Weber
+c) WebCT
 d) eCollege
 ANSWER: A
 
-28. Según Métrica v3, escoja la correcta definicion de "pruebas de entorno":
-a) Consisten en demostrar que el Sistema puede recuperarse ante fallos, tanto de equipo ffsico como 16gico, sin comprometer la integridad de los datos en el entorno.
-b) Consisten en examinar el funclonamiento del sistema cuando est.a trabajando con grandes volumenes de datos, simulando las cargas de trabajo esperadas en el entomo.
-c) Consisten en verificar los mecanismos de control de acceso a1 entomo para evitar alteraciones lndebidas en los dates.
-d) Consisten en verificar las interacciones del sistema con otros slstemas dentro del mismo entorno.
+28. Según Métrica v3, escoja la correcta definición de "pruebas de entorno":
+a) Consisten en demostrar que el Sistema puede recuperarse ante fallos, tanto de equipo físico como lógico, sin comprometer la integridad de los datos en el entorno.
+b) Consisten en examinar el funcionamiento del sistema cuando está trabajando con grandes volúmenes de datos, simulando las cargas de trabajo esperadas en el entorno.
+c) Consisten en verificar los mecanismos de control de acceso al entorno para evitar alteraciones indebidas en los datos.
+d) Consisten en verificar las interacciones del sistema con otros sistemas dentro del mismo entorno.
 ANSWER: D
 
-29. Las pruebas cuyo objetivo es ellminar el efecto onda, es decir, comprobar que los cambios sobre un componente de un sistema de informacion no introduce errores o comportamientos no deseados son:
+29. Las pruebas cuyo objetivo es eliminar el efecto onda, es decir, comprobar que los cambios sobre un componente de un sistema de información no introducen errores o comportamientos no deseados son:
 a) Pruebas unitarias.
 b) Pruebas de aceptación.
 c) Pruebas de regresión.
@@ -225,61 +205,61 @@ ANSWER: C
 
 30. Las pruebas de caja blanca sirven para:
 a) Verificar la estructura interna de un componente con independencia de la funcionalidad establecida para el mismo.
-b) Comprobar el correcto funcionamiento de los componentes del sistema de informaci6n, analizando las entradas y salidas y verificando que el resultado es el esperado.
-c) Comprobar el funcionamiento del sistema en el umbral limite de las recursos, sometiendole a cargas masivas.
-d) Demostrar que el sistema puede recuperarse ante fallos, tanto de equipo fislco coma logico, sin comprometer la integndad de los dates.
+b) Comprobar el correcto funcionamiento de los componentes del sistema de información, analizando las entradas y salidas y verificando que el resultado es el esperado.
+c) Comprobar el funcionamiento del sistema en el umbral límite de los recursos, sometiéndolo a cargas masivas.
+d) Demostrar que el sistema puede recuperarse ante fallos, tanto de equipo físico como lógico, sin comprometer la integridad de los datos.
 ANSWER: A
 
-31. ¿Cuál de los siguientes grupos NO participa en la actividad 5 (pruebas de implantación del sistema) del proceso IAS (Implantación y Aceptación del Sistema) segun Met:rica v3?
+31. ¿Cuál de los siguientes grupos NO participa en la actividad 5 (pruebas de implantación del sistema) del proceso IAS (Implantación y Aceptación del Sistema) según Métrica v3?
 a) Jefe de Proyecto.
-b) Responsable de Implantaci6n.
-c) Equipo de Implantaci6n.
+b) Responsable de Implantación.
+c) Equipo de Implantación.
 d) Usuarios Expertos.
 ANSWER: D
 
-32. iCual de las siguientes NO es una aplicaci6n de automatizaci6n de pruebas de software?
-a) Junit
+32. ¿Cuál de las siguientes NO es una aplicación de automatización de pruebas de software?
+a) JUnit
 b) Selenium
 c) Rapid Test
 d) Robotium
 ANSWER: C
 
-33. Segun Metrica v3, un mantenimiento evolutivo incluye:
+33. Según Métrica v3, un mantenimiento evolutivo incluye:
 a) Los cambios precisos para corregir errores del producto software.
-b) Las modificaciones en un producto software para cubrir el cambio en las necesidades del usuar10.
-c) Las modificaciones que afectan a las entornos en los que el sistema opera.
-d) Las acciones llevadas a.cabo para mejorar la calidad interna de los sistemas.
+b) Las modificaciones en un producto software para cubrir el cambio en las necesidades del usuario.
+c) Las modificaciones que afectan a los entornos en los que el sistema opera.
+d) Las acciones llevadas a cabo para mejorar la calidad interna de los sistemas.
 ANSWER: B
 
-34. No se encuentran dentro del ambito def MSI de Metrica v3 los tipos de mantenimientos:
+34. No se encuentran dentro del ámbito de MSI de Métrica v3 los tipos de mantenimiento:
 a) Evolutivo y adaptativo.
-b) Perfective y evolutivo.
-c) Adaptive y perfective.
+b) Perfectivo y evolutivo.
+c) Adaptativo y perfectivo.
 d) Correctivo y evolutivo.
 ANSWER: C
 
-35. Indique que patron de diseiio permite aiiadir responsabilidades a un objeto din6micamente:
+35. Indique qué patrón de diseño permite añadir responsabilidades a un objeto dinámicamente:
 a) Decorator
 b) Composite
 c) Adapter
 d) Proxy
 ANSWER: A
 
-36. l.Cual de los siguientes NO es un diagrama de comportamiento, segun la especificaci6n UML 2.0?
+36. ¿Cuál de los siguientes NO es un diagrama de comportamiento, según la especificación UML 2.0?
 a) Diagrama de caso de uso.
 b) Diagrama de despliegue.
 c) Diagrama de actividad.
 d) Diagrama de estado.
 ANSWER: B
 
-37. ¿Cual de los siguientes NO es un servidor de aplicaciones Java EE 7 certificado?
+37. ¿Cuál de los siguientes NO es un servidor de aplicaciones Java EE 7 certificado?
 a) WildFly.
 b) IBM WebSphere.
 c) GlassFish Server.
 d) Apache Tomcat.
 ANSWER: D
 
-38. El patr6n de diseiio utilizado en Java Enterprise Edition (JEE) que nos permite locallzar de forma transparente y uniforme los componentes de negocio es:
+38. El patrón de diseño utilizado en Java Enterprise Edition (JEE) que nos permite localizar de forma transparente y uniforme los componentes de negocio es:
 a) Service Locator.
 b) Transfer Object Locator.
 c) Transfer Object Assembler.
@@ -289,60 +269,60 @@ ANSWER: A
 39. El fichero que se utiliza en el interfaz de Java en JPA para definir una unidad de persistencia se llama:
 a) persistence-container.xml
 b) mapping-jpa.xml
-c) .  persistence.xml
+c) persistence.xml
 d) web.xml
 ANSWER: C
 
-40. A la unidad logica de despliegue en la plataforma .NET que induye metadatos, codigo intermedio (MSIL) y otros recursos adicionales se denomina:
+40. A la unidad lógica de despliegue en la plataforma .NET que incluye metadatos, código intermedio (MSIL) y otros recursos adicionales se denomina:
 a) Assembly
 b) .NET Class Library
 c) Mondrian
 d) CLRLib
 ANSWER: A
 
-41. La Plataforma universal de Windows o UWP es:
-a) un framework grafico de aplicaciones en 3D con lenguaje C#.
-b) entomo de desarrollo para construir aplicaciones para dispositivos m6viles utilizando CSS3, HTMLS, Y JavaScript en vez de utilizar APis espedficas de cada plataforma coma Android o iOS.
-c) un interprete de c6digo MSIL, que son instrucciones que son ejecutadas posteriormente en la maquina virtual MVM (Microsoft Virtual Machine).
-d) una plataforma comun de aplicaciones presentes en todos los dispositivos que cuentan con Windows 10 Y variantes, se present6 en Windows 8 por primera vez coma Windows Runtime.
+41. La Plataforma Universal de Windows o UWP es:
+a) un framework gráfico de aplicaciones en 3D con lenguaje C#.
+b) entorno de desarrollo para construir aplicaciones para dispositivos móviles utilizando CSS3, HTML5 y JavaScript en vez de utilizar APIs específicas de cada plataforma como Android o iOS.
+c) un intérprete de código MSIL, que son instrucciones que son ejecutadas posteriormente en la máquina virtual MVM (Microsoft Virtual Machine).
+d) una plataforma común de aplicaciones presentes en todos los dispositivos que cuentan con Windows 10 y variantes, se presentó en Windows 8 por primera vez como Windows Runtime.
 ANSWER: D
 
-42. En relaci6n al ciclo de vida de una p6gina ASP.NET, seiiale cual de los sigulentes eventos de pagina realiza los cambios finales en el contenido de la pagina:
+42. En relación al ciclo de vida de una página ASP.NET, señale cuál de los siguientes eventos de página realiza los cambios finales en el contenido de la página:
 a) Page_PreRender
+b) Page_PreInit
 c) Page_Unload
-b) Page_Prelnit
 d) Page_Init
 ANSWER: A
 
-43. En relaci6n con el objeto DataSet de ADO.NET 2.0, seiiale la opd6n INCORRECTA:
-a) En un Dataset pueden existir dos o mas tablas o relaciones con el mismo nombre, pero que difieran en mayusculas y minusculas.
-b) Si no especifica ningun nombre en la creaci6n de un Dataset mediante constructor, se establecera el nombre NewDataSet.
-c) Para copiar un DataSet que incluya el esquema y solo las filas modificadas se utiliza el metodo GetChanges del DataSet.
-d) Para crear una copia de un Dataset que solo incluya el esquema, sin copiar ninguna fila, se utiliza el metodo Copy del DataSet.
+43. En relación con el objeto DataSet de ADO.NET 2.0, señale la opción INCORRECTA:
+a) En un DataSet pueden existir dos o más tablas o relaciones con el mismo nombre, pero que difieran en mayúsculas y minúsculas.
+b) Si no especifica ningún nombre en la creación de un DataSet mediante constructor, se establecerá el nombre NewDataSet.
+c) Para copiar un DataSet que incluya el esquema y solo las filas modificadas se utiliza el método GetChanges del DataSet.
+d) Para crear una copia de un DataSet que solo incluya el esquema, sin copiar ninguna fila, se utiliza el método Copy del DataSet.
 ANSWER: D
 
-44. Seiiale cual de las siguiente, respuestas es una plataforma que permite crear aplicaciones nativas para iOS, Android y Windows usandci elfenguaje C#:
+44. Señale cuál de las siguientes respuestas es una plataforma que permite crear aplicaciones nativas para iOS, Android y Windows usando el lenguaje C#:
 a) Bootstrap
 b) Midlets
 c) Xamarin
-d) SOnarQube
+d) SonarQube
 ANSWER: C
 
-45. El prop6sito de DOM (Document Object Model) es:
+45. El propósito de DOM (Document Object Model) es:
 a) Acceder a un documento XML y poder modificarlo.
-b) Leer secuencialmente de principio a fin un doo.Jmento XML, sin cargar todo el documento en memoria.
-c) Transformar los mapas de un gestor documental para ser compartldo por dlstintas aplicaciones.
+b) Leer secuencialmente de principio a fin un documento XML, sin cargar todo el documento en memoria.
+c) Transformar los mapas de un gestor documental para ser compartido por distintas aplicaciones.
 d) Proteger un documento XML para que no pueda ser manipulado o modificado por objetos externos.
 ANSWER: A
 
-46. acuerdo con las recomendaciones W3C, en el URI (Uniform Resource Identifier) "mailto:GSl@inap.es0, lque representa "mailto"?
+46. acuerdo con las recomendaciones W3C, en el URI (Uniform Resource Identifier) "mailto:GSI@inap.es", ¿qué representa "mailto"?
 a) El programa que se debe emplear para abrirlo.
 b) El esquema URI que se debe emplear para interpretarlo.
 c) El puerto al que debe conectarse para acceder.
-d) En realidad es superfluo, y puecle eliminarse.
+d) En realidad es superfluo, y puede eliminarse.
 ANSWER: B
 
-47. Estandar para especificaci6n de lenguaje C#:
+47. Estándar para especificación de lenguaje C#:
 a) ECMA331
 b) ECMA 332
 c) ECMA 333
@@ -350,113 +330,113 @@ d) ECMA334
 ANSWER: D
 
 48. El diseño web adaptativo (responsive web design) es una técnica de diseño y desarrollo web que:
-a) Permite al usuario modificar la presentaci6n y conflguraci6n de la pagina.
-b) Busca que las paglnas se adapten automaticamente al disposftivo en el que se visualizan.
-c) Obliga a que las paginas muestre en un tamano fijo independlente del dispositivo utilizado.
-d) Posibilita al usuario elegir el idloma de! texto presentado en la pagina.
+a) Permite al usuario modificar la presentación y configuración de la página.
+b) Busca que las páginas se adapten automáticamente al dispositivo en el que se visualizan.
+c) Obliga a que las páginas muestren un tamaño fijo independientemente del dispositivo utilizado.
+d) Posibilita al usuario elegir el idioma del texto presentado en la página.
 ANSWER: B
 
-49. En relaci6n con la seguridad de los servlcios web, el perfil que aiiade sellos de tiempo a XAdES-C para evitar que pueda vene comprometida en el futuro una cadena de certificados es:
+49. En relación con la seguridad de los servicios web, el perfil que añade sellos de tiempo a XAdES-C para evitar que pueda verse comprometida en el futuro una cadena de certificados es:
 a) XAdES-BES
-b) XAc:IES-T
+b) XAdES-T
 c) XAdES-X
-d) XAc:IES-S
+d) XAdES-S
 ANSWER: C
 
-50. Sefiale el estilo de arquitectura que permite crear servicios web a traves de la emulaci6n de protocolos, como pueda ser HTIP (operaciones GET, DELETE, PUT y POST), llev6ndolo a cabo a traves de la deflnici6n de operaciones conoddas en la interfaz (read, delete, update y aeate) :
+50. Señale el estilo de arquitectura que permite crear servicios web a través de la emulación de protocolos, como pueda ser HTTP (operaciones GET, DELETE, PUT y POST), llevándolo a cabo a través de la definición de operaciones conocidas en la interfaz (read, delete, update y create):
 a) REST
 b) JAX-RPC
 c) JAX-WS
 d) UDDI
 ANSWER: A
 
-51. El modelo de McCall se basa en factores de calidad organizados en tres ejes o puntos de vista, seiiale de entre los siguientes factores el que se engloba en 'operaci6n del producto':
-a) Facllldad de prueba.
+51. El modelo de McCall se basa en factores de calidad organizados en tres ejes o puntos de vista, señale de entre los siguientes factores el que se engloba en 'operación del producto':
+a) Facilidad de prueba.
 b) Reusabilidad.
-c) Flexlbilidad.
+c) Flexibilidad.
 d) Eficiencia.
 ANSWER: D
 
-52. De las siguientes herramientas, cual permite al departamento de calldad analizar el c6digo fuente de un programa para validar la calidad de este:
-a) Viewlnside
+52. De las siguientes herramientas, ¿cuál permite al departamento de calidad analizar el código fuente de un programa para validar la calidad de este?
+a) ViewInside
 b) Quality observer
 c) PMD
 d) StyleDeep
 ANSWER: C
 
-53. La norma UNE que establece los requisitos de accesibilidad para los contenidos web con equivalencia directa a las pautas de accesibilidad WCAG2.0 del W3C, es la nonna:
+53. La norma UNE que establece los requisitos de accesibilidad para los contenidos web con equivalencia directa a las pautas de accesibilidad WCAG 2.0 del W3C, es la norma:
 a) UNE 139803:2012
 b) UNE 139803:2004
 c) UNE 139308:2012
 d) UNE 139308:2004
 ANSWER: A
 
-54. En relaci6n a la accesibilidad de contenldos, es cierto que:
-a) Los botones y textos del lnterfaz de usuario se consideran accesibles cuando todos usan la misma gama de colores.
-b) Una paglna web se consldera acces[ble cuando no contlene niveles de encabezados o titulos que estrucb.Jren dicha pagina.
-c) Una imagen se considera accesible si proporciona un texto alternative que aporte la mlsma informaci6n o fund6n que dicha imagen.
-d) Los elementos de interacci6n con el usuario se consideran accesibles cuando permiten el uso de la voz humana.
+54. En relación a la accesibilidad de contenidos, es cierto que:
+a) Los botones y textos del interfaz de usuario se consideran accesibles cuando todos usan la misma gama de colores.
+b) Una página web se considera accesible cuando no contiene niveles de encabezados o títulos que estructuren dicha página.
+c) Una imagen se considera accesible si proporciona un texto alternativo que aporte la misma información o función que dicha imagen.
+d) Los elementos de interacción con el usuario se consideran accesibles cuando permiten el uso de la voz humana.
 ANSWER: C
 
-55. Las WCAG 2,0 se estructuran en una serie de principios, pautas y criterios de conformldad. La pauta "distinguible" esd contenida dentro del principio:
+55. Las WCAG 2.0 se estructuran en una serie de principios, pautas y criterios de conformidad. La pauta "distinguible" está contenida dentro del principio:
 a) Operable
 b) Robusto
 c) Perceptible
-d) Comprensfble
+d) Comprensible
 ANSWER: C
 
-56. La recomendacion ITU-T donde se presentan los requlsitos y capacidades basados en la computacl6n en la nube (Big Data) es:
+56. La recomendación ITU-T donde se presentan los requisitos y capacidades basados en la computación en la nube (Big Data) es:
 a) Y.3600
 b) Y.3700
 c) Y.3800
 d) Y.3900
 ANSWER: A
 
-57. Señale la aflrmaci6n INCORRECTA en relacion a los diferentes tipos de implementacion de un Data Warehouse:
-a) ROLAP ofrece mucha flexibilldad, ya que los cubes son generados dinamicamente.
-b) En MOLAP, cada vez. que es necesario realizar cambios sobre algun cube, se debe recalcular el mismo totalmente.
-c) ROLAP sufre de un rendimiento menor en la ejecucion de consultas (comparado con MOLAP).
-d) Los dates de los cubes se deben calcular cada vez que se ejecuta una consulta sobre ellos en MOLAP.
+57. Señale la afirmación INCORRECTA en relación a los diferentes tipos de implementación de un Data Warehouse:
+a) ROLAP ofrece mucha flexibilidad, ya que los cubos son generados dinámicamente.
+b) En MOLAP, cada vez que es necesario realizar cambios sobre algún cubo, se debe recalcular el mismo totalmente.
+c) ROLAP sufre de un rendimiento menor en la ejecución de consultas (comparado con MOLAP).
+d) Los datos de los cubos se deben calcular cada vez que se ejecuta una consulta sobre ellos en MOLAP.
 ANSWER: D
 
-58. En reJacion con er Big Data, seftale la opcion FALSA sobre Hadoop:
-a) Apache Hive es una infrae.structura de almacenamiento de datos construida sabre Hadoop para proporcionar agrupaci6n, consulta y analisis de datos.
-b) Esta inspirado en el proyecto Google File System y el paradigma de programaci6n MapReduce.
-c) En Hadoop se denomina "rack" a la combinacl6n de nodes de dates.
-d) El sistema de archives HDFS tiene una arquitectura maestro-esclavo: un cluster HDFS consta de varies NameNode y un DataNode.
+58. En relación con el Big Data, señale la opción FALSA sobre Hadoop:
+a) Apache Hive es una infraestructura de almacenamiento de datos construida sobre Hadoop para proporcionar agrupación, consulta y análisis de datos.
+b) Está inspirado en el proyecto Google File System y el paradigma de programación MapReduce.
+c) En Hadoop se denomina "rack" a la combinación de nodos de datos.
+d) El sistema de archivos HDFS tiene una arquitectura maestro-esclavo: un clúster HDFS consta de varios NameNode y un DataNode.
 ANSWER: D
 
-59. Cual de las siguientes NO es una base de datos NoSQL?
+59. ¿Cuál de las siguientes NO es una base de datos NoSQL?
 a) MongoDB
 b) Cassandra
-c) Hbase
+c) HBase
 d) Kaltura
 ANSWER: D
 
 60. ¿Cuál de las siguientes bases de datos se puede categorizar en una base de datos NoSQL de almacenamiento en grafo?
-a) DyanamoDB
+a) DynamoDB
 b) Neo4J
 c) CouchDB
 d) Cassandra
 ANSWER: B
 
 1. [RESERVA] [ANULADA] El Manifiesto por el Desarrollo Ágil de Software valora:
-a) Indlviduos y su lnteracci6n, sobre procesos y herramientas.
-b) Software que funclona,_por encima de la documentaci6n exhaustiva.
-c) Seguimiento de un plan, par encima de respuesta al cambio.
-d) COlaboraci6n con el cliente, por encima de la negoclaci6n contractual.
+a) Individuos y su interacción, sobre procesos y herramientas.
+b) Software que funciona, por encima de la documentación exhaustiva.
+c) Seguimiento de un plan, por encima de respuesta al cambio.
+d) Colaboración con el cliente, por encima de la negociación contractual.
 ANSWER:
 
-2. [RESERVA] Estándar para fonnato de intercambio de datos JSON:
+2. [RESERVA] Estándar para formato de intercambio de datos JSON:
 a) ECMA 401
 b) ECMA 402
 c) ECMA 403
 d) ECMA 404
 ANSWER: D
 
-3. [RESERVA] El Marco Común de Evaluación (CAF 2013), como herramienta de gestión de la calidad total desarrollada por y para el sector public:o, incluye entre sus 8 princlpios basicos de la excelencla el de:
-a) Orlentad6n a los dates.
-b) Uderazgo sistemico.
+3. [RESERVA] El Marco Común de Evaluación (CAF 2013), como herramienta de gestión de la calidad total desarrollada por y para el sector público, incluye entre sus 8 principios básicos de la excelencia el de:
+a) Orientación a los datos.
+b) Liderazgo sistémico.
 c) Responsabilidad social.
-d) Desarrollo e implicaci6n de los organismos.
+d) Desarrollo e implicación de los organismos.
 ANSWER: C

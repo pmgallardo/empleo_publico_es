@@ -17,7 +17,7 @@ ANSWER: B
 a) Read Commited (lectura confirmada).
 b) Serializable.
 c) Read uncommited (lectura no confirmada).
-d) Repeatable read (lectura repetible),
+d) Repeatable read (lectura repetible).
 ANSWER: D
 
 4 ¿Cuál de los siguientes métodos usados en la planificación de la capacidad de los sistemas informáticos es de tipo analítico?

@@ -6,11 +6,36 @@ Exámenes revisados hasta convocatoria 2022.
 
 1. La Constitución Española de 1978 (I). Los principios constitucionales. Los derechos fundamentales y sus garantías. La Corona. Cortes Generales. Congreso de los Diputados y Senado. El Gobierno. Los Órganos Constitucionales de control del Gobierno: Tribunal de Cuentas, Defensor del Pueblo. La función consultiva: el Consejo de Estado.
 
+    * Constitución Española de 1978
+      * Título I: Derechos y deberes fundamentales
+      * Título II: Corona
+      * Título III: Cortes Generales
+      * Título IV: Gobierno y Administración
+      * Título V: Relaciones entre el Gobierno y las Cortes
+      * Título VI: Poder Judicial
+      * Título VII: Economía y Hacienda
+        * Artículo 135: limitación del gasto público en función de los ingresos
+      * Título VIII: Organización Territorial del Estado
+      * Título IX: Tribunal Constitucional
+      * Título X: Reforma Constitucional
+      
+
 2. La Constitución Española de 1978 (II). El Poder Judicial. La justicia en la Constitución. El Consejo General del Poder Judicial. El Ministerio Fiscal. El Tribunal Constitucional. Naturaleza, organización y atribuciones.
 
 3. La Constitución Española de 1978 (III). Las Comunidades Autónomas: organización política y administrativa. La Administración local: regulación constitucional y entidades que la integran.
 
+    * Estatutos de Autonomía
+      * Contenido
+        * Denominación
+        * Delimitación de territorio
+        * Organización y sede de las instituciones
+
 4. La Constitución Española de 1978 (IV). La Administración pública: Principios constitucionales. La Administración General del Estado. Sus órganos centrales.
+
+    * Régimen Jurídico del Sector Público (o quizás AGE)
+      * La Organización Central
+      * La Organización Territorial
+      * La Administración General del Estado en el exterior
 
 5. La Unión Europea: antecedentes, evolución y objetivos. Los tratados originarios y modificativos. El derecho de la Unión Europea. Relación entre el derecho de la Unión Europea y el ordenamiento jurídico de los Estados miembros. Las instituciones: el Consejo Europeo, el Consejo, la Comisión Europea, el Parlamento Europeo el Tribunal de Justicia de la Unión Europea, el Tribunal de Cuentas y el Banco Central Europeo.
 
@@ -28,6 +53,13 @@ Exámenes revisados hasta convocatoria 2022.
 
 11. Los contratos de las Administraciones públicas. Principios comunes. La Ley de Contratos del Sector Público. Requisitos necesarios para la celebración de los contratos. Procedimientos de contratación y formas de adjudicación. Tipos de contratos y características generales. La facturación en el sector público.
 
+    * Contratos de Administraciones Públicas
+      * Tipos de contratos del sector público
+        * Contratos de obras
+        * Concesión de obras
+        * Concesión de servicios
+        * Suministro y servicios
+
 12. Los presupuestos generales del Estado. Estructura del presupuesto: clasificación de los gastos. Las modificaciones presupuestarias. La ejecución del gasto y su control. El control interno: la Intervención General de la Administración del Estado. El control externo: el Tribunal de Cuentas y las Cortes Generales.
 
 13. Los convenios. Las encomiendas de gestión o encargos a medios propios personificados. Límites en su utilización. La colaboración público-privada en la prestación de los servicios públicos. El régimen jurídico de las subvenciones públicas. Procedimiento.
@@ -42,6 +74,12 @@ Exámenes revisados hasta convocatoria 2022.
 
 18. El impacto de las tecnologías de la información y las comunicaciones en la sociedad. La brecha digital. Nuevos hábitos de relación y de consumo de la información.
 
+    * Brecha digital
+      * Enfoques
+        * Hacia la infraestructura
+        * Hacia la capacitación
+        * Hacia el uso de los recursos
+        
 19. El impacto de las tecnologías de la información y las comunicaciones en la economía y en el mercado de trabajo. Principales magnitudes.
 
 20. La función gerencial en las Administraciones públicas. Particularidades de la gestión pública.
@@ -56,9 +94,18 @@ Exámenes revisados hasta convocatoria 2022.
           * [ISO 9000](https://es.wikipedia.org/wiki/Normas_ISO_9000)
             * Conjunto de normas ISO 9000
               * ISO 9000: vocabulario
+                * Principios %
+                  * Centrado en el cliente
+                  * Liderazgo
+                  * Compromiso de las personas
+                  * Orientado al proceso
+                  * Mejora continua
+                  * Decisiones basadas en evidencias
+                  * Gestión de la relación
               * ISO 9001: modelo para sistema de gestión
-              * ISO 9004: mejora de desempeño
-          * [EFQM (European Foundation Quality Management)](https://es.wikipedia.org/wiki/Fundaci%C3%B3n_Europea_para_la_Gesti%C3%B3n_de_la_Calidad)
+                * ISO 9001:2015 %
+              * [ISO 9004: mejora de desempeño](#iso-9004)
+          * [Modelo EFQM (European Foundation Quality Management)](#modelo-efqm) 
           * [CAF (Common Assessment Framework)](https://es.wikipedia.org/wiki/Marco_Com%C3%BAn_de_Evaluaci%C3%B3n)
           * Modelo EVAM (2009)
           * TQM (Total Quality Management)
@@ -71,9 +118,20 @@ Exámenes revisados hasta convocatoria 2022.
           * SIAM
           * VeriSM
       * Calidad de los servicios públicos en España
+        * Real Decreto 951/2005, de 29 de julio, por el que se establece el marco general para la mejora de la calidad en la Administración General del Estado %%
+          * Programas de calidad %%
+            * Cartas de servicio %
+            * Análisis de la demanda y evaluación de la satisfacción de los usuarios. %
+            * Reconocimiento (certificación de organizaciones y premios). %
+              * Premio a la excelencia en la gestión pública %
+              * Certificado a la excelencia en la gestión pública %
+              * Premios a la calidad e innovación en la gestión pública
+            * Observatorio de la calidad de los servicios públicos. %
         * Informe DESI
         * Organismos involucrados
           * DGGP (Dirección General de Gobernana Pública)
+            * Funciones
+              * Emisión de certificaciones del nivel de excelencia de un organismo público %
     * Sociedad de la información y administración electrónica
       * Sociedad de la información y administración electrónica en Europa
         * Iniciativas
@@ -123,7 +181,47 @@ Exámenes revisados hasta convocatoria 2022.
 
 25. La gobernanza pública y el gobierno abierto. Concepto y principios informadores del gobierno abierto: colaboración, participación, transparencia y rendición de cuentas. Datos abiertos y reutilización. El marco jurídico y los planes de gobierno abierto en España. La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno. El Consejo de Transparencia y Buen Gobierno: Real Decreto 919/2014, de 31 de octubre, por el que se aprueba su estatuto. Funciones. La Oficina de Transparencia y Acceso a la Información (OTAI): Funciones. El Portal de Transparencia. Las Unidades de Información y Transparencia (UITS): Funciones. La transparencia y el acceso a la información en las comunidades autónomas y entidades locales.
 
+    * Gobierno público abierto en España
+      * Principios de gobierno abierto según OCDE
+        * Transparencia y rendición de cuentas
+        * Participación
+        * Colaboración
+      * Marco jurídico en España y Europa
+        * Ley 19/2013, acceso a la información pública y buen gobierno
+        * RDL 919/2014, de 31 de octubre, por el que se aprueba el Estatuto del Consejo de Transparencia y Buen Gobierno.
+        * Directiva (UE) 2019/1024, relativa a los foros abiertos y la reutilización de datos abiertos
+        * RDL 24/2021, de 2 de noviembre, de transposición de directivas de la Unión Europea en las materias de bonos garantizados, distribución transfronteriza de organismos de inversión colectiva, datos abiertos y reutilización de la información del sector público, ejercicio de derechos de autor y derechos afines aplicables a determinadas transmisiones en línea y a las retransmisiones de programas de radio y televisión, exenciones temporales a determinadas importaciones y suministros, de personas consumidoras y para la promoción de vehículos de transporte por carretera limpios y energéticamente eficientes.
+      * Planes de gobierno abierto en la AGE español
+        * Proyecto Aporta 2009
+        * I Plan de Gobierno Abierto
+        * II Plan de Gobierno Abierto
+        * III Plan de Gobierno Abierto
+        * IV Plan de Gobierno Abierto 2020-2024
+        * V Plan de Gobierno abierto 2024-2028
+      * Organismos
+        * Alianza para el Gobierno Abierto 
+        * Consejo de Transparencia y Buen Gobierno
+        * Subdirección General de Transparencia y Atención al Ciudadano
+        * Unidades de Información
+      * Solicitud de accesos
+        * Plazos
+      * Portales
+        * Portal de Transparencia
+          * Principios Técnicos del Portal de Transparencia
+            * Accesibilidad
+            * Interoperabilidad
+            * Reutilización
+    * Reutilización de datos en la AGE español
+      * Marco jurídico
+        * Ley 37/2007, de 16 de noviembre, sobre reutilización de información en el sector público
+        * Real Decreto 1495/2011, de 24 de octubre, por el que se desarrolla la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público, para el ámbito del sector público estatal.
+        * Ley 18/2015, de 9 de julio, por la que se modifica la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público.
+      * Portales 
+        * Catálogo de Información Pública 
+
 26. La dinamización y el apoyo a la actividad económica y al emprendimiento. La garantía de la unidad de mercado.
+
+    * SIGPAC
 
 27. La política de protección de datos de carácter personal. Régimen jurídico. El Reglamento UE 2016/679, de 27 de abril, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos. Principios y derechos. Obligaciones. El Delegado de Protección de Datos en las Administraciones Públicas. La Agencia Española de Protección de Datos.
 
@@ -135,6 +233,9 @@ Exámenes revisados hasta convocatoria 2022.
     * Marco jurídico vigente
       * GDPR, RGPD o [Reglamento (UE) 2016/679](https://es.wikipedia.org/wiki/Reglamento_General_de_Protecci%C3%B3n_de_Datos)
         * Ámbito
+        * Puestos
+          * Data Controller / Responsable
+          * Data Processor / Encargado 
         * Control del interesado
           * Principios de control del interesado relativos al tratamiento
             * Licitud, lealtad y transparencia
@@ -230,17 +331,47 @@ Exámenes revisados hasta convocatoria 2022.
 
 36. Metodologías predictivas para la gestión de proyectos: GANTT, PERT.
 
+    * Diagrama de red o de grafo
+    * Tipos de dependencias entre actividades en gestión de proyectos
+      * Obligatorias, lógicas o duras
+      * Discrecionales, preferenciales o blandas
+      * Externas
+
 37. Metodologías ágiles para la gestión de proyectos. Metodologías lean.
 
 38. Auditoría informática. Concepto y contenidos. Administración, planeamiento, organización, infraestructura técnica y prácticas operativas.
 
 39. La gestión de la compra pública de tecnologías de la información.
 
+    * Plataforma Conecta-Centralización.
+    * Fondos NextGenerationUE.
+
 40. Adquisición de sistemas: estudio de alternativas, evaluación de la viabilidad y toma de decisión.
 
 41. Alternativas básicas de decisión en el campo del equipamiento hardware y software.
 
 42. La rentabilidad de las inversiones en los proyectos de tecnologías de la información.
+
+    * Métodos de análisis de rentabilidad inversiones
+      * Métodos de análisis de rentabilidad inversiones
+        * Métodos dinámicos
+          * Pay-back / Plazo de recuperación
+          * Flujo de caja total por unidad monetaria comprometida
+          * Flujo de caja medio anual por unidad monetaria comprometida
+          * Comparación de costes
+          * Tasa de rendimiento contable / Rentabilidad media
+        * Métodos estáticos
+          * Valor actual neto (VAN)
+          * Tasa interna de retorno (TIR)
+          * Plazo de recuperación de descuento
+          * Tasa de valor actual
+          * Índice de rentabilidad
+        * Métodos de diferente duración
+          * Método de la anualidad equivalente
+          * Método de la cadena de reemplazo
+        * Técnica de análisi Coste/Beneficio en Métrica v3
+    * Rentabilidad de inversiones en TIC
+    * Rentabilidad de inversiones en el sector público
 
 43. La protección jurídica de los programas de ordenador. Los medios de comprobación de la legalidad y control del software.
 
@@ -249,7 +380,9 @@ Exámenes revisados hasta convocatoria 2022.
 45. Interoperabilidad de sistemas (1). El Esquema Nacional de Interoperabilidad. Dimensiones de la interoperabilidad.
     <a id="rd-4-2010"></a>
     
-    * RD 4/2010, ENI
+    * [Esquema Nacional de Interoperabilidad](https://es.wikipedia.org/wiki/Esquema_Nacional_de_Interoperabilidad)
+      * Regulación
+        * RD 4/2010, ENI
 
 46. Interoperabilidad de sistemas (2). Las Normas Técnicas de Interoperabilidad. Interoperabilidad de los documentos y expedientes electrónicos y normas para el intercambio de datos entre Administraciones Públicas.
     <a id="scsp"></a>
@@ -481,7 +614,105 @@ Exámenes revisados hasta convocatoria 2022.
 
 75. Gestión de los datos corporativos. Almacén de datos (Data-Warehouse). Arquitectura OLAP. Minería de datos.
 
+    * DWH (Data Warehouse)
+      * Estándares
+        * UNE 66175 
+      * Arquitectura del Data Warehouse
+        * Componentes del Data Warehouse
+          * OLTP (Online Transaction Processing)
+          * Load Manager 
+            * Extraction / Extracción
+            * Transformation / Transformación
+            * Load / Carga
+          * Data Warehouse Manager
+            * Implementación
+              * ROLAP (Relational Online Analytical Processing)
+              * MOLAP (Multidimensional OLAP)
+              * HOLAP (Hybrid OLAP)
+            * Tablas
+              * Tablas de dimensiones
+                * Tablas de dimensión tiempo
+              * Tablas de hechos
+                * Tablas de hechos agregadas
+                * Tablas de hechos preagregadas
+            * Cubo multidimensional
+              * Indicadores
+              * Atributos
+              * Jerarquía
+              * Relación entre atributos
+                * Explícita
+                * Implícita
+              * Granularidad
+            * Esquemas
+              * Star / Estrella
+              * Snowflake / Copo de nieve
+              * Galaxy / Constelación
+            * Tipos de modelamiento de DWH
+              * Esquema de estrella
+              * Esquema de copo de nieve
+              * Esquema constelación
+          * Query Manager
+            * Operaciones
+              * Drill-down
+              * Drill-up
+              * Drill-accross
+              * Roll-accross
+              * Pivot
+              * Page
+              * Drill-through
+          * Herramientas de Consulta y Análisis
+            * Report and Queries
+            * [OLAP (Online Analytical Processing)](https://es.wikipedia.org/wiki/OLAP)
+            * Dashboards / Cuadros de mando
+            * Data Mining
+            * EIS (Executive Information System) / [Sistemas de información ejecutiva](https://es.wikipedia.org/wiki/Sistemas_de_informaci%C3%B3n_ejecutiva)
+            * Usuarios
+              * Staging Area 
+              * ODS (Operational Data Store)
+
 76. Big Data. Captura, análisis, transformación, almacenamiento y explotación de conjuntos masivos de datos. Entornos Hadoop o similares. Bases de datos NoSQL.
+
+    * [Big data / Macrodatos](https://es.wikipedia.org/wiki/Macrodatos)
+      * Estándares de Big Data
+        * ITU Y.3600
+      * V's de Big Data
+        * Volume / Volumen
+        * Velocity / Velocidad
+        * Variety / Variedad
+        * Veracity / Veracidad
+        * Value / Valor
+      * Tipos de datos
+        * Estructurados
+        * Semi-estructurados
+        * No estructurados
+      * Perfiles de bidg data
+        * Data Hygienists / Higienista de datos
+        * Data exploreres / Exploradores de datos
+        * Data architects / Arquitectos de datos
+        * Data Scientists / Científicos de datos
+        * Campaign Experts / Expertos de campaña
+      * Programas
+        * [MapReduce](https://es.wikipedia.org/wiki/MapReduce)
+        * [Apache Hadoop](https://es.wikipedia.org/wiki/Apache_Hadoop)
+        * [Apache Spark](https://es.wikipedia.org/wiki/Apache_Spark)
+        * Apache Mahout
+        * Apache Pig
+        * Apache Hive
+        * Apache Zookeeper
+        * Apache Storm
+        * Apache Avro
+        * Apache Oozie
+        * Apache Ambari
+        * Apache Tez
+        * Apache Giraph
+        * Apache Chukwa
+        * Apache Nifi
+        * Apache Flume
+        * Apache Sqoop
+        * Apache Kafka
+        * RabbitMQ
+
+    * Bases de datos NoSQL
 
 77. Lenguajes y herramientas para la utilización de redes globales. HTML, CSS y XML. Navegadores web y compatibilidad con estándares.
 
@@ -494,9 +725,91 @@ Exámenes revisados hasta convocatoria 2022.
 
 80. Identificación y firma electrónica (1) Marco europeo y nacional. Certificados digitales. Claves privadas, públicas y concertadas. Formatos de firma electrónica. Protocolos de directorio basados en LDAP y X.500. Otros servicios.
 
+    * Control de identidad de usuarios
+      * Fases de acceso a un sistema
+        * Identificación
+        * [Autenticación](https://es.wikipedia.org/wiki/Autenticaci%C3%B3n)
+        * Autorización
+        * Auditoría
+      * Factores de autenticación
+        * Algo que tienes
+        * Algo que sabes
+        * Algo que eres
+      * Identificación en las Administraciones Públicas
+        * Regulación de identidad en España
+          * Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
+            * Artículo 125 contra los actos firmes en vía administrativa
+          * Ley 40/2015
+            * Sobre sede electrónica 
+            * Sobre actuación administrativa automatizada
+            * Sobre identificación del personal al servicio
+          * ENS
+            * Requisitos de controles de acceso
+    * Firma electrónica
+      * Conceptos de firma electrónica
+        * Tipos de firmas por multiplicidad
+          * Simple
+          * Co-firma o en línea
+          * Contra-firma o firma en cascada
+        * Sellado de tiempo
+        * Resellado
+      * Firma electrónica en la AAPP
+        * CSV (Código Seguro de Verificación)
+      * Legislación de firma electrónica
+        * Legislación europea de firma electrónica
+          * Reglamento (UE) 910/2014 / eIDAS
+            * Trust Services / Servicios de confianza según eIDAS
+              * Firma electrónica
+              * Sello electrónico
+              * Sello de tiempo electrónico
+              * Entrega electrónica certificada
+              * Servicio cualificado de autenticación de sitio web
+            * Tipologías de certificaciones
+              * Persona física  
+              * Persona física representante
+                * Representante administrador único o solidario
+                * Representante de persona jurídica
+                * Representante de entidad sin persona jurídica
+              * Persona jurídica
+              * Entidad sin personalidad jurídica
+            * Tipos de firma y sellos por validez
+              * Simple
+              * Avanzada
+              * Cualificada 
+            * Dispositivo cualificado de creación de firmas electrónicas
+        * Legislación española de firma electrónica
+          * Ley de Firma, Ley 59/2003
+            * Plazo máximo de validez de firmas: 5 años
+          * ENI, Capítulo IX
+          * NTI de Política de firma y sello electrónicos y de certificados de Administración de 2016
+          * Política de Firma de la AGE versión 1.9
+          * Ley 6/2020, de 11 de noviembre, reguladora de determinados aspectos de los servicios electrónicos de confianza.
+          * ENS
+            * Artículo 33
+            * Control mp.info.4 firma electrónica
+      * Formatos de firma electrónica
+        * CAdES
+        * XAdES
+        * PAdES
+        * OOXML
+        * ODF
+        * Firmas longevas
+        * Firmas attached, detached, enveloped, enveloping
+      * Formatos admitidos por las AAPP
+        * eIDAS
+    * Certificados digitales
+      * Certificados de webs
+        * X.509v3
+      E*  
+    * Directorios de usuarios
+      * [X.500](https://es.wikipedia.org/wiki/X.500)
+      * [LDAP](https://es.wikipedia.org/wiki/Protocolo_ligero_de_acceso_a_directorios)
+
 81. Identificación y firma electrónica (2) Prestación de servicios públicos y privados. Infraestructura de clave pública (PKI). Mecanismos de identificación y firma: «Smart Cards», DNI electrónico, mecanismos biométricos.
     
     - [eIDAS](https://en.wikipedia.org/wiki/EIDAS)
+    * DNI 4.0
+      - Reglamento (UE) 2019/1157
 
 82. Adaptación de aplicaciones y entornos a los requisitos de la normativa de protección de datos según los niveles de seguridad. Herramientas de cifrado y auditoría.
 
@@ -673,6 +986,8 @@ Exámenes revisados hasta convocatoria 2022.
         * Nivel 0: Diagrama de contexto
         * Nivel 1: Diagrama de nivel superior
         * Nivel 2: Diagrama de detalle o expansión
+    * [XPDL (XML Process Definition Language)](https://es.wikipedia.org/wiki/XPDL)
+    * WfMC Workflow Reference Model / Modelo de Referencia del Worklow del WfMC
 
 90. Análisis de aspectos no funcionales: rendimiento, seguridad, privacidad.
 
@@ -996,10 +1311,31 @@ Exámenes revisados hasta convocatoria 2022.
 101. Gestión de cambios en proyectos de desarrollo de software. Gestión de la configuración y de versiones. Gestión de entornos.
 
 102. La calidad en los servicios de información. El Modelo EFQM y la Guía para los servicios ISO 9004.
+    <a id="modelo-efqm"></a>
+    * [Modelo EFQM (European Foundation Quality Management)](https://es.wikipedia.org/wiki/Fundaci%C3%B3n_Europea_para_la_Gesti%C3%B3n_de_la_Calidad#Modelo_de_excelencia_EFQM)
+      * EFQM 2025
+    <a id="iso-9004"></a>
+    * ISO 9004
+      * ISO 9004:2018
+        * Propósito %
+        * Recomendaciones %
+        * Cómo trabaja de cara a personas
+        * Escalas %
+          1. Sin aproximación formal
+          2. Aproximación reactiva
+          3. Aproximación del sistema formal estable.
+          4. Énfasis en la mejora continua
+          5. Desempeño de “mejor en su clase”
 
 103. Gestión documental. Gestión de contenidos. Tecnologías CMS y DMS de alta implantación.
 
 104. Sistemas de recuperación de la información. Políticas, procedimientos y métodos para la conservación de la información.
+
+    * Plan de contingencia
+      * Planes
+        * Plan de emergencia
+        * Plan de recuperación
+        * Plan de respaldo
 
 105. Planificación y control de las TIC: gestión de servicios e infraestructuras TIC, gestión del valor de las TIC. Acuerdos de nivel de servicio. Gestión de incidencias. Bases conceptuales de ITIL (IT Infrastructure Library), y CoBIT (Control Objetives for Information and Related Technology), objetivos de control y métricas.
 
@@ -1007,15 +1343,127 @@ Exámenes revisados hasta convocatoria 2022.
 
 107. Redes de telecomunicaciones. Conceptos. Medios de transmisión. Conmutación de circuitos y paquetes. Protocolos de encaminamiento. Infraestructuras de acceso. Interconexión de redes. Calidad de servicio.
 
+    * Protocolos de encaminamiento
+      * Internos
+        * Protocolo de distancia-vector
+          * [IGRP (Interior Gateway Routing Protocol)](https://es.wikipedia.org/wiki/Interior_Gateway_Routing_Protocol)
+          * [EGIRP (Enhanced IGRP)](https://es.wikipedia.org/wiki/Enhanced_Interior_Gateway_Routing_Protocol)
+          * [RIP (Routing Information Protocol)](https://es.wikipedia.org/wiki/Routing_Information_Protocol)
+        * Protocolo de enlace directo 
+          * [OSPF (Open Shortest Path First)](https://es.wikipedia.org/wiki/Open_Shortest_Path_First)
+          * [IS-IS (Intermediate system to intermediate system)](https://es.wikipedia.org/wiki/IS-IS)
+      * Externos
+        * [BPG (Border Gateway Protocol)](https://es.wikipedia.org/wiki/Border_Gateway_Protocol)
+    * Fibra óptica
+      
+    * Interconexión de redes
+      <a id="equipos-interconexion-red"></a>
+      * Equipos de interconexión de red
+        * [Repeater / Repetidor](https://es.wikipedia.org/wiki/Repetidor)
+        * [Hub / Concentrador](https://es.wikipedia.org/wiki/Concentrador)
+        * [Bridge / Puente de red](https://es.wikipedia.org/wiki/Puente_de_red)
+        * [Switch / Conmutador](https://es.wikipedia.org/wiki/Conmutador_(dispositivo_de_red))
+        * [Router / Enrutador](https://es.wikipedia.org/wiki/R%C3%BAter)
+        * [Network gateway / Puerta de enlace de red](https://es.wikipedia.org/wiki/Puerta_de_enlace)
+
 108. La red Internet y los servicios básicos.
 
 109. Sistemas de cableado y equipos de interconexión de redes.
+
+    * Sistemas de cableado
+      * Estándares
+        * [ANSI/TIA/EIA 568-C](https://es.wikipedia.org/wiki/TIA-568B)
+        * [ISO/IEC 11801](https://es.wikipedia.org/wiki/ISO/IEC_11801)
+          * Clases
+            * A
+            * B
+            * C
+            * D
+            * E
+            * Ea
+            * F
+            * Fa
+      * Tipos de cables
+        * Cable coaxial
+        * Cable de pares trenzados
+          * Tipos de cable trenzado según aislamiento
+            * UTP (Unshielded Twisted Pair)
+            * STP (Shielded Twisted Pair)
+            * FTP (Foiled Twisted Pair)
+            * S/FTP (Screened Fully Shielded Twisted Pair)
+          * Clases de cable trenzado
+            * 1
+            * 2
+            * 3
+            * 4
+            * 5
+            * 5e
+            * 6
+            * 6a
+            * 7
+            * 7a
+        * Fibra óptica
+          * Tipos de fibra óptica
+            * Fibra monomodo
+            * Fibra multimodo de índice escalonado
+            * Fibra multimodo de índice gradual
+          * Ventanas de transmisión
+            * Primera ventana: 850 nm
+            * Segunda ventana: 1310 nm
+            * Tercera ventana: 1550 nm
+              * Banda S: 1510-1535 nm
+              * Banda C: 1535-1570 nm
+              * Banda L: 1570-1610 nm
+          * Tipos de fibra óptica de acuerdo a ISO 11801
+            * OS1
+            * OS2
+            * OM1
+            * OM2
+            * OM3
+            * OM4
+          * Multiplexación de fibra óptica
+            * WDM (Wavelength Division Multiplexing)
+              * DWDM (Dense WDM)
+              * CWDM (Coarse WDM)
+          * Estándares de fibra óptica
+            * IEEE 801.17 / [Resilient Packet Ring](https://en.wikipedia.org/wiki/Resilient_Packet_Ring)
+      * SCE (Sistema de cableado estructurado)
+        * Estándares
+          * EN50173, basado en ISO 11801
+        * Elementos funcionales básicos según SCE
+          * CD (Campus Distributor) / DC (Distribuidor de Campus)
+          * Cableado de Campus
+          * BD (Building Distributor) / DE (Distribuidor de edficio)
+          * Cableado vertical
+            * Arquitecturas
+              * Arquitectura en estrella 
+              * Collapsed Backbone / Arquitectura distribuida
+          * FD (Floor distributor) / DP (Distribuidor de planta)
+          * Cableado horizontal
+          * TP (Transition Point) / PT (Punto de transición)
+          * TO (Telecommunications Outlet) / TU (Toma de usuario)
+          * Patch Panels / Repartidores o paneles de conexión
+        * ICT (Infraestructuras comunes de telecomunicaciones)
+          * Recintos
+            * RITI
+            * RITS
+    * [Equipos de interconexión de redes](#equipos-interconexion-red)
+    * TEMPEST
+      * Certificación TEMPEST del CNI (CCN-STIC-210)
+        * Zonas de certificación ZONING del CCN-STIC-152.
+      * Prevención de TEMPEST
 
 110. El modelo de referencia de interconexión de sistemas abiertos (OSI) de ISO: arquitectura, capas, interfaces, protocolos, direccionamiento y encaminamiento.
 
 111. Tecnologías de acceso: fibra (GPON, FTTH), móviles (LTE), inalámbrica.
 
 112. Redes de transporte: JDSxWDM, MPLS. Redes de agregación: ATM, Carrier Ethernet - VPLS (H-VPLS).
+
+    * MPLS (Multiprotocol Label Switch)
+      * Nodos MPLS
+        * LSR (Labelswitch Router)
+        * LER (Label Edge Router)
+        * Provider Node
 
 113. Redes inalámbricas: el estándar IEEE 802.11.Características funcionales y técnicas. Sistemas de expansión del espectro. Sistemas de acceso. Autenticación. Modos de operación. Bluetooth. Seguridad, normativa reguladora.
 
@@ -1026,6 +1474,13 @@ Exámenes revisados hasta convocatoria 2022.
 116. La transformación digital e industria 4.0: ciudades inteligentes. Internet de las Cosas (IoT).
 
 117. Redes de área local. Arquitectura. Tipología. Medios de transmisión. Métodos de acceso. Dispositivos de interconexión. Gestión de dispositivos. Administración de redes LAN. Gestión de usuarios en redes locales. Monitorización y control de tráfico. Gestión SNMP. Configuración y gestión de redes virtuales (VLAN). Redes de área extensa.
+
+  <a id="tecnicas-acceso-multiple"></a>
+  * Métodos de canalización / Técnicas de acceso múltiple
+    * FDMA (Frequency Division Multiple Access)
+    * OFDMA (Orthogonal Frequency Division Multiple Access)
+    * TDMA (Time Division Multiple Access)
+    * CDMA (Code Division Multiple Access)
 
 118. Arquitectura de las redes Intranet y Extranet. Concepto, estructura y características. Su implantación en las organizaciones. Modelo de capas: servidores de aplicaciones, servidores de datos, granjas de servidores.
 
@@ -1040,6 +1495,72 @@ Exámenes revisados hasta convocatoria 2022.
 
 122. Las comunicaciones móviles. Generaciones de tecnologías de telefonía móvil.
 
+  * [Técnicas de acceso múltiple](#tecnicas-acceso-multiple)
+  * Tipos de comunicaciones móviles
+    * Telefonía inalámbrica
+      * Estándares de telefonía inalámbrica
+        * CT0
+        * CT1
+        * CT2
+        * [DECT (Digital Enhanced Cordless Telecommunications)](https://es.wikipedia.org/wiki/Digital_Enhanced_Cordless_Telecommunications)
+    * TMA (Telefonía Móvil Automática)
+      * Conceptos
+        * Hand-over
+          * Soft hand-over
+          * Hard hand-over
+        * Roaming
+        * Tecnología móvil analógica vs. digital
+      * Generaciones
+        * [1G](https://es.wikipedia.org/wiki/1G)
+          * AMPS
+          * [TACS](#tacs)
+          * NMT-450
+          * NMT-900
+        * [2G](https://es.wikipedia.org/wiki/Telefon%C3%ADa_m%C3%B3vil_2G)
+          * [GSM](#gsm) 
+          * [DCS-1800](#dcs1800)
+          * PCS-1900
+          * WAP
+        * 2.5G
+          * [HSCSD](#hscsd)
+          * [GPRS](#gprs)
+          * [EDGE](#edge)
+        * [3G](https://es.wikipedia.org/wiki/Telefon%C3%ADa_m%C3%B3vil_3G)
+          * IMT-2000 (International Mobile Telecommunications in the year 2000)
+          * [UMTS](#umts)
+        * 3.5G
+          * [HSDPA](#hsdpa)
+        * 3.75G
+          * HSUPA
+          * [HSOPA / LTE (Long Term Evolution)](#lte)
+        * 3.9G
+          * UTRAN LTE / Super 3G
+          * WiMax
+        * [4G](https://es.wikipedia.org/wiki/4G)
+          * LTE Advanced
+          * WiMax2
+          * SAE (Service Architecture Evolution)
+        * [5G](https://es.wikipedia.org/wiki/5G)
+      * Tecnologías
+        <a id="tacs"></a>
+        * TACS (Total Access Communications Systems)
+        <a id="gsm"></a>
+        * [GSM (Global System for Mobile Communications)](https://es.wikipedia.org/wiki/Sistema_global_para_las_comunicaciones_m%C3%B3viles)
+        <a id="dcs1800"></a>
+        * [DCS-1800](https://es.wikipedia.org/wiki/DCS1800)
+        <a id="hscsd"></a>
+        * [HSCSD (High Speed Circuit Switched Data)](https://es.wikipedia.org/wiki/High-Speed_Circuit-Switched_Data)
+        <a id="gprs"></a>
+        * [GPRS (General Packet Radio Services)](https://es.wikipedia.org/wiki/Servicio_general_de_paquetes_v%C3%ADa_radio)
+        <a id="edge"></a>
+        * [EDGE (Enhanced Data Rates for GSM Evolution)](https://es.wikipedia.org/wiki/Enhanced_Data_Rates_for_GSM_Evolution)
+        <a id="umts"></a>
+        * [UMTS (Universal Mobile Telecommunications System)](https://es.wikipedia.org/wiki/Sistema_Universal_de_Telecomunicaciones_M%C3%B3viles)
+        <a id="hsdpa"></a>
+        * [HSDPA (High Speed Downlink Packet Access)](https://es.wikipedia.org/wiki/High-Speed_Downlink_Packet_Access)
+        <a id="lte"></a>
+        * [LTE](https://es.wikipedia.org/wiki/LTE_(telecomunicaciones))
+
 123. Aplicaciones móviles. Características, tecnologías, distribución y tendencias.
 
 124. La seguridad en redes. Tipos de ataques y herramientas para su prevención: cortafuegos, control de accesos e intrusiones, técnicas criptográficas, etc. Medidas específicas para las comunicaciones móviles.
@@ -1047,6 +1568,7 @@ Exámenes revisados hasta convocatoria 2022.
      - [XAdES (XML Advanced Electronic Signnatures)](https://es.wikipedia.org/wiki/Xades)
      - [CAdES (CMS Advanced Electronic Signatures)](https://es.wikipedia.org/wiki/CAdES_(inform%C3%A1tica))
      - [PAdES (PDF Advanced Electronic Signatures)](https://es.wikipedia.org/wiki/PAdES)
+     * [WS-Security](https://es.wikipedia.org/wiki/WS-Security)
 
 125. La seguridad en el nivel de aplicación. Tipos de ataques y protección de servicios web, bases de datos e interfaces de usuario.
 
@@ -1058,10 +1580,16 @@ Exámenes revisados hasta convocatoria 2022.
 
 129. Sistemas de videoconferencia. Herramientas de trabajo en grupo. Dimensionamiento y calidad de servicio en las comunicaciones y acondicionamiento de salas y equipos. Streaming de video.
 
+    * Protocolos de seguridad en videoconferencia
+      * [SIP (Session Initiation Protocol) / Protocolo de iniciación de sesión](https://es.wikipedia.org/wiki/Protocolo_de_iniciaci%C3%B3n_de_sesi%C3%B3n)
+      * SRTP
+      * H.235
+
 130. Acceso remoto a sistemas corporativos: gestión de identidades, single sign-on y teletrabajo.
      <a id="stork"></a>
      
      - [STORK (Security idenTity acrOss boRders linKed)](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Identidad_y_firmaelectronica/Stork_Stork2.html) %% T
+     
 
 131. Virtualización de sistemas y de centros de datos. Virtualización de puestos de trabajo. Maquetas de terminales Windows y de servidores Linux.
 
