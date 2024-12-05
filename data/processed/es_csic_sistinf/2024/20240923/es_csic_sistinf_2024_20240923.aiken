@@ -1,0 +1,568 @@
+1. Indicar de las siguientes características cuál NO se corresponde con el modelo de computación en la nube:
+A) Acceso bajo demanda.
+B) Flexibilidad en la configuración de los recursos.
+C) Elasticidad y rapidez en el aprovisionamiento de recursos.
+D) Dependencia de recursos físicos locales.
+ANSWER: D
+
+2. La virtualización de recursos consiste en:
+A) El conjunto de técnicas software que permiten abstraer las características físicas de un computador, de forma que se puedan ejecutar diferentes máquinas virtuales.
+B) La utilización de máquinas virtuales hardware para proporcionar acceso al software existente en un sistema para un grupo virtual de usuarios.
+C) La explotación de organizaciones virtuales para el aprovisionamiento de recursos de computación a gran escala, especialmente en colaboraciones científicas.
+D) La sustitución de los recursos humanos de una organización por asistentes basados en inteligencia artificial.
+ANSWER: A
+
+3. Indicar cuál de los siguientes conceptos NO es una propiedad de seguridad de un activo de información en una organización.
+A) Confidencialidad.
+B) Integridad.
+C) Migralidad.
+D) Autenticidad.
+ANSWER: C
+
+4. Indicar cuál de los siguientes es un motor de bases de datos relacional:
+A) MariaDB.
+B) MongoDB.
+C) Apache Cassandra.
+D) Amazon DynamoDB.
+ANSWER: A
+
+5. ¿Cuál de las siguientes características es fundamental en el desarrollo de software abierto?
+A) Código cerrado y restrictivo.
+B) Licencias propietarias.
+C) Colaboración y transparencia.
+D) Propiedad exclusiva del autor.
+ANSWER: C
+
+6. ¿Cuál de las siguientes afirmaciones es correcta acerca del aprendizaje automático (machine learning)?
+A) El aprendizaje automático se refiere únicamente a la capacidad de las máquinas para procesar grandes volúmenes de datos.
+B) El aprendizaje automático es un enfoque que permite a las máquinas aprender y mejorar automáticamente a través de la experiencia sin ser programadas explícitamente.
+C) El aprendizaje automático solo se aplica en la investigación científica y no tiene aplicaciones en otros campos.
+D) El aprendizaje automático es una técnica exclusiva de la programación orientada a objetos.
+ANSWER: B
+
+7. ¿Qué es un Data Management Plan (Plan de Gestión de Datos)?
+A) Un plan para la eliminación de datos obsoletos y sin valor.
+B) Un plan para asegurar que los datos sean inaccesibles y no puedan ser utilizados.
+C) Un plan que establece cómo se gestionarán, organizarán, almacenarán y compartirán los datos durante un proyecto de investigación.
+D) Un plan que prioriza la recopilación de datos sin tener en cuenta su calidad o relevancia.
+ANSWER: C
+
+8. ¿Cuál de los siguientes métodos es un ejemplo de accounting en los Sistemas de Autorización, Autenticación y Accounting?
+A) Control de acceso físico.
+B) Registro de tiempos de sesión.
+C) Cifrado de datos.
+D) Detección de intrusiones.
+ANSWER: B
+
+9. ¿Qué es GitHub?
+A) Una plataforma de desarrollo colaborativo.
+B) Un sistema operativo.
+C) Un lenguaje de programación.
+D) Un motor de búsqueda.
+ANSWER: A
+
+10. En un CPD de un centro de investigación se va a adquirir un Sistema de Alimentación Ininterrumpida (SAI) y tenemos las siguientes especificaciones: 500 VA (Voltiamperios) y 300 W (watios), que indican:
+A) La potencial real y la potencia aparente respectivamente del SAI.
+B) La energía eléctrica y la potencia que puede suministrar el SAI.
+C) La potencia aparente y la potencia real del SAI.
+D) La potencia del SAI solo que dados en dos unidades diferentes de potencia.
+ANSWER: C
+
+11. En el contexto de seguridad de sistemas informáticos, la autenticación:
+A) Otorga certificados digitales a los recursos que están disponibles.
+B) Confirma la disponibilidad de los recursos.
+C) Confirma que los usuarios son quienes dicen ser validando su identidad.
+D) Proporciona permisos de acceso a los datos almacenados en los recursos.
+ANSWER: C
+
+12. ¿Cuál de estos lenguajes proporciona una plataforma unificada y un modelo de programación que permite la programación paralela de GPUs, CPUs, DSPs y FPGAs?
+A) OpenCL.
+B) OpenMP.
+C) CUDA.
+D) SYSCL.
+ANSWER: A
+
+13. ¿Cuál de las siguientes afirmaciones sobre XML es correcta?
+A) XML es un modelo de metadatos utilizado para describir la presentación de una página web
+B) XML es un lenguaje de programación utilizado para crear páginas web interactivas.
+C) XML es un lenguaje de marcado que permite definir etiquetas personalizadas para estructurar y almacenar datos.
+D) XML es un formato de imagen utilizado para gráficos y multimedia en la web
+ANSWER: C
+
+14. Indica cuál de estos sistemas operativos es de tiempo real
+A) QNX
+B) Fedora Linux
+C) Windows RT
+D) Minix
+ANSWER: A
+
+15. ¿Cuál de las siguientes afirmaciones describe mejor el concepto de escalabilidad en la computación científica en la nube?
+A) Se refiere a la capacidad de almacenar grandes cantidades de datos científicos en la nube, en escalas mayores del Petabyte.
+B) Implica la posibilidad de acceder a recursos de cómputo adicionales según las necesidades del usuario.
+C) Significa utilizar software especializado en la nube para realizar cálculos científicos complejos.
+D) Se refiere a la colaboración y el intercambio de datos científicos entre diferentes investigadores en las diferentes escalas o etapas de la investigación.
+ANSWER: B
+
+16. De entre las siguientes funcionalidades, indica cuál NO está relacionada con la gestión ágil de proyectos:
+A) Diagramas de Gantt interactivos.
+B) Tableros Kanban.
+C) Hojas de ruta de commits automatizados.
+D) Planificación de minitrabajos Sprints.
+ANSWER: C
+
+17. ¿Qué función principal tiene un sistema de control de versiones en un repositorio digital de software?
+A) Almacenar y organizar los archivos de código fuente.
+B) Permitir a los desarrolladores colaborar y trabajar en equipo en el mismo proyecto.
+C) Gestionar y rastrear los cambios realizados en los archivos a lo largo del tiempo.
+D) Compilar y ejecutar el software en diferentes entornos de desarrollo.
+ANSWER: C
+
+18. En la programación orientada a objetos, una clase es:
+A) Una plantilla en la que se definen los los atributos y métodos predeterminados de un tipo de objeto.
+B) Una propiedad que permite subdividir una aplicación en partes más pequeñas e independientes de la aplicación en sí.
+C) Una técnica por la cual el entorno de objetos se encarga de destruir automáticamente los objetos no referenciados.
+D) Una ubicación de almacenamiento abstracta asociada a un nombre simbólico, que contiene una cantidad de información conocida.
+ANSWER: A
+
+19. ¿En qué consiste el aprendizaje no supervisado?
+A) Un tipo de aprendizaje en el que no se utilizan etiquetas para entrenar el modelo.
+B) Un tipo de aprendizaje que solo se aplica a problemas de regresión.
+C) Un tipo de aprendizaje que utiliza redes neuronales recurrentes (RNN).
+D) Un tipo de aprendizaje que utiliza regresión logística.
+ANSWER: A
+
+20. ¿Cuál de las siguientes opciones describe qué es Big Data?
+A) Una cantidad de datos que es demasiado grande para ser procesada por sistemas tradicionales.
+B) Un conjunto de herramientas utilizadas para el procesamiento de datos en tiempo real.
+C) Una base de datos de gran tamaño.
+D) Una técnica para el análisis de datos utilizando algoritmos de inteligencia artificial.
+ANSWER: D
+
+21. ¿Qué es una TPU?
+A) Es una unidad de procesamiento gráfico.
+B) Es una unidad de procesamiento central.
+C) Es una unidad de procesamiento tensorial.
+D) Es una unidad de procesamiento vectorial.
+ANSWER: C
+
+22. El aprendizaje automático se ha visto revolucionado en los últimos años por la evolución dE distintas formas de computación basada en redes neuronales. El factor clave para el uso extendido de estos nuevos algoritmos ha sido
+A) El rápido acceso a disco.
+B) La eficiente implementación en Unidades Centrales de Procesamiento.
+C) La eficiente implementación en Unidades Graficas de Procesamiento.
+D) La reducción de la latencia en la transmisión de información.
+ANSWER: C
+
+23. La principal característica de un sistema de tiempo real es:
+A) Disponer de un planificador basado en prioridades.
+B) Respuesta a interrupciones con niveles de prioridad.
+C) Respuesta a los eventos dentro de un plazo determinado.
+D) Ausencia de gestor de memoria virtual.
+ANSWER: C
+
+24. El soporte y coordinación para el tratamiento de vulnerabilidades y la resolución de incidentes de seguridad que tengan las Administraciones de las Comunidades Autónomas corresponde a:
+A) INCIBE-CERT.
+B) CCN-CERT.
+C) Al CERT correspondiente de la Comunidad Autónoma.
+D) Al CERT del Ministerio de Defensa.
+ANSWER: B
+
+25. ¿Cuál es el protocolo más común para iniciar una sesión remota segura mediante línea de comandos a una máquina Linux?
+A) SSH.
+B) Telnet.
+C) RDP.
+D) VPN.
+ANSWER: A
+
+26. ¿Cuál de las siguientes técnicas se utiliza para reducir la dimensionalidad de los datos en aprendizaje profundo?
+A) Data augmentation (aumento de datos).
+B) Reducción de ruido.
+C) Redes neuronales convolucionales (CNN).
+D) Análisis de componentes principales (PCA).
+ANSWER: D
+
+27. ¿Cuál de las siguientes bibliotecas NO es ampliamente utilizada para implementar deep learning en Python?
+A) TensorFlow.
+B) Scikit-learn.
+C) PyTorch.
+D) Wamba.
+ANSWER: D
+
+28. El valor equivalente de la asociación en serie de dos resistencias R1 y R2 es:
+A) R1*R2
+B) R1*R2/(R1+R2)
+C) R1+R2
+D) (R1+R2)/(R1*R2)
+ANSWER: C
+
+29. ¿Cuál es la función principal de un decodificador digital en un circuito electrónico?
+A) Convertir señales analógicas en digitales.
+B) Seleccionar una línea de salida basada en una combinación de entradas binarias.
+C) Almacenar datos temporales en un circuito digital.
+D) Generar señales de reloj para sincronizar el sistema.
+ANSWER: B
+
+30. Qué operación lógica representa la siguiente tabla de verdad
+
+|---|---|--------|
+| A | B | Output |
+|---|---|--------|
+| 0 | 0 |   1    |
+| 1 | 0 |   1    |
+| 0 | 1 |   1    |
+| 1 | 1 |   0    |
+|---|---|--------|
+A) NOR
+B) NAND
+C) OR
+D) AND
+ANSWER: B
+
+31. Los pasos que transforman un programa en un lenguaje ensamblador, en una representación que es directamente ejecutada por un procesador :
+A) El código fuente en ensamblador se interpreta línea por línea en tiempo de ejecución por un intérprete y luego se ejecuta en la CPU.
+B) El programa es ensamblado a instrucciones del lenguaje máquina virtual objetivo.
+C) El programa es enlazado con librerías del sistema operativo para poder ejecutarse.
+D) No hay que hacer ningún paso ni transformación.
+ANSWER: B
+
+32. Señale la respuesta FALSA respecto a la segmentación:
+A) Es una técnica de solapamiento de instrucciones mediante la división de su ejecución en etapas o segmentos
+B) Incrementa la productividad de la CPU
+C) Disminuye el tiempo de ejecución de cada instrucción
+D) Los procesadores segmentados requieren redundancia de muchos de sus componentes.
+ANSWER: C
+
+33. El conjunto de instrucciones (ISA) de la arquitectura x86-64 es equivalente a la arquitectura:
+A) x86
+B) IA-32
+C) IA-64
+D) AMD64
+ANSWER: D
+
+34. Cuando en un procesador hablamos de un ciclo de máquina de tipo "fetch" nos estamos refiriendo a:
+A) Lectura de instrucción de la memoria.
+B) Decodificación de la instrucción
+C) Lectura de dato de la memoria.
+D) Escritura de dato en un dispositivo.
+ANSWER: A
+
+35. ¿Cuál de las siguientes afirmaciones describe correctamente una diferencia clave entre los procesadores ARM y los procesadores basados en la arquitectura x86?
+A) Los procesadores ARM utilizan una arquitectura CISC (Complex Instruction Set Computing) que permite ejecutar instrucciones más complejas, mientras que los procesadores x86 utilizan una arquitectura RISC (Reduced Instruction Set Computing) para mejorar la eficiencia energética.
+B) Los procesadores ARM están diseñados con un enfoque en la eficiencia energética y suelen tener un conjunto de instrucciones más reducido (RISC), lo que los hace ideales para dispositivos móviles, mientras que los procesadores x86 están diseñados para alto rendimiento y suelen ser utilizados en PCs y servidores.
+C) Los procesadores ARM permiten un mayor número de núcleos y una mayor capacidad de procesamiento paralelo que los procesadores x86, lo que los hace ideales para aplicaciones de supercomputación.
+D) Los procesadores ARM tienen una velocidad de reloj significativamente mayor que los procesadores x86, lo que los hace más adecuados para tareas que requieren alto rendimiento gráfico.
+ANSWER: B
+
+36. En un computador, ¿qué combinación de componentes se encarga principalmente del procesamiento de datos y la ejecución de instrucciones?
+A) Unidad Central de Procesamiento (CPU), Memoria RAM, y Unidad Aritmético-Lógica (ALU)
+B) Unidad Central de Procesamiento (CPU), Unidad de Control, y Unidad Aritmético-Lógica (ALU)
+C) Memoria RAM, Disco Duro, y Tarjeta Gráfica
+D) Unidad de Fuente de Alimentación, Unidad de Control, y Unidad de Entrada/Salida (E/S)
+ANSWER: B
+
+37. ¿Cuál de las siguientes características es típica de las tarjetas de red de última generación diseñadas para centros de datos y entornos de alta velocidad?
+A) Soporte para velocidades de hasta 1 Gbps y capacidades de red en modo half-duplex.
+B) Integración de tecnología de 10/25/40/100 Gbps, soporte para protocolos de virtualización de red y capacidades avanzadas de gestión de tráfico.
+C) Compatibilidad exclusiva con redes Wi-Fi y capacidades de conexión limitada a dispositivos de consumo.
+D) Utilización de interfaces de red antiguas con soporte limitado para la transmisión de datos en modo full-duplex.
+ANSWER: B
+
+38. ¿Cuál de las siguientes no es una herramienta para monitorización de una infraestructura de computación?
+A) Icinga
+B) Nagios
+C) Ganglia
+D) Spack
+ANSWER: D
+
+39. ¿Qué herramienta puede utilizar un usuario para usar paquetes binarios sin tener permisos de administración de sistema?
+A) RPM
+B) APT
+C) CONDA / MAMBA
+D) YUM / DNF
+ANSWER: C
+
+40. ¿Cuál de las siguientes afirmaciones describe mejor el concepto de almacenamiento jerárquico?
+A) Un método para almacenar datos en la memoria caché de manera temporal.
+B) Un sistema en el que los datos se organizan y almacenan en diferentes niveles según la frecuencia de acceso y la velocidad de almacenamiento.
+C) Un tipo de almacenamiento que solo utiliza unidades de disco duro para guardar datos.
+D) Un enfoque que permite acceder a los datos directamente sin necesidad de indexación.
+ANSWER: B
+
+41. ¿Cuál es la principal diferencia entre tiering y caching en almacenamiento jerárquico?
+A) El tiering almacena datos frecuentemente accedidos en memoria rápida; el caching migra datos entre niveles.
+B) El tiering duplica datos en varios niveles; el caching almacena en un solo nivel.
+C) El tiering organiza datos en niveles según uso; el caching guarda copias temporales en memoria rápida.
+D) El tiering comprime datos; el caching duplica datos para acceso rápido.
+ANSWER: C
+
+42. Relacionado con el protocolo TCP/IP, el comando arp -a:
+A) Muestra la tabla RARP con la relación entre direcciones MAC e IP.
+B) Muestra la tabla ARP con la relación entre direcciones IP y MAC.
+C) Muestra la tabla ARP con la relación entre direcciones IP y puertos UDP.
+D) Muestra la tabla de direcciones IP con la relación entre direcciones IP y puertos TCP.
+ANSWER: B
+
+43. En qué capa se encontraría el protocolo TCP dentro del modelo de referencia de interconexión de sistemas abiertos (OSI) de ISO:
+A) Física
+B) Red
+C) Transporte
+D) Aplicación
+ANSWER: C
+
+44. Qué realiza el siguiente comando en Linux: cat fichero1 >> fichero2
+A) Añade a fichero2 la palabra “fichero1”
+B) Sobrescribe fichero2 con la palabra “fichero1”
+C) Sobrescribe fichero2 con el contenido de fichero1
+D) Añade a fichero2 el contenido de fichero1
+ANSWER: D
+
+45. Qué realiza el siguiente comando en Linux: ps -p $(pidof bash)
+A) Muestra los threads de los programas corriendo pidof y bash
+B) Muestra los procesos de los programas corriendo pidof y bash
+C) Muestra los procesos de los programas corriendo bash
+D) Muestra los threads de los programas corriendo pidof
+ANSWER: C
+
+46. ¿Cuál de las siguientes herramientas es más adecuada para gestionar la configuración automatizada y el despliegue de software en un entorno HPC compuesto por miles de nodos?
+A) Ansible
+B) Spack
+C) Nagios
+D) OpenMPI
+ANSWER: A
+
+47. En SLURM, ¿qué comando se utiliza para ver el estado de los trabajos en cola, junto con detalles como el ID del trabajo, el usuario, y el estado actual del trabajo?
+A) sbatch
+B) srun
+C) squeue
+D) scancel
+ANSWER: C
+
+48. ¿Cuál de los siguientes comandos de MPI se utiliza para esperar a que todos los procesos en un comunicador alcancen un punto de sincronización antes de continuar?
+A) MPI_Bcast
+B) MPI_Gather
+C) MPI_Barrier
+D) MPI_Scatter
+ANSWER: C
+
+49. ¿Cuál de los siguientes algoritmos es un ejemplo de paralelización de tareas?
+A) Dijkstra
+B) Quicksort
+C) Floyd-Warshall
+D) MapReduce
+ANSWER: D
+
+50. ¿Cuál de las siguientes características es esencial para un sistema de High-Throughput Computing (HTC)?
+A) Alta latencia en la comunicación entre nodos
+B) Alta capacidad de procesamiento paralelo en un solo nodo
+C) Ejecución de grandes volúmenes de trabajos independientes durante un largo período de tiempo
+D) Uso exclusivo de GPUs para acelerar el cómputo
+ANSWER: C
+
+51. ¿Cuál de las siguientes herramientas es comúnmente utilizada para gestionar la ejecución de trabajos distribuidos en un entorno High Throughput Computing (HTC) ?
+A) Condor (HTCondor)
+B) Torque
+C) CUDA
+D) OpenMPI
+ANSWER: A
+
+52. ¿Cuál de los siguientes sistemas de archivos distribuidos es ampliamente utilizado en entornos HPC y HTC para gestionar el almacenamiento masivo de datos y proporcionar acceso rápido y concurrente a grandes volúmenes de información?
+A) NTFS
+B) Lustre
+C) EXT4
+D) HFS+
+ANSWER: B
+
+53. Cuántos discos de paridad se necesitarán en una configuración RAID 6 con un grupo de 10 discos.
+A) 0
+B) 1
+C) 2
+D) 5
+ANSWER: C
+
+54. Qué es SSH
+A) Un protocolo para sincronizar relojes de sistemas sobre internet.
+B) Un protocolo de nivel de aplicación de transporte de información en tiempo real.
+C) Un protocolo para login remoto y otros servicios de red seguros sobre una red insegura.
+D) Un sistema de nombres de dominio.
+ANSWER: C
+
+55. ¿Cuál de los siguientes servicios es comúnmente utilizado en clústers de computación para la autenticación centralizada y gestión de cuentas de usuarios ?
+A) NFS
+B) LDAP + NSS
+C) HTTP
+D) DNS
+ANSWER: B
+
+56. ¿Cuál de las siguientes herramientas es un sistema de control de versiones distribuido?
+A) Subversion (SVN)
+B) Mercurial
+C) Jenkins
+D) Docker
+ANSWER: B
+
+57. ¿Cuál es el comando de Git que se utiliza para crear una nueva rama y cambiar a ella en una sola operación?
+A) git branch
+B) git checkout -b
+C) git merge
+D) git rebase
+ANSWER: B
+
+58. ¿Cuál es el comando estándar en los sistemas GNU para compilar e instalar software desde el código fuente, después de haber descomprimido los archivos y ejecutado ./configure?
+A) make install
+B) apt-get install
+C) yum install
+D) dpkg -i
+ANSWER: A
+
+59. ¿Qué herramientas son más convenientes para gestionar en un cluster varias versiones de ejecutables, librerías y compiladores, y permitir a los usuarios personalizar su entorno automáticamente para usar cada una de ellas a su elección ?
+A) Spack, modules
+B) GNU autotools
+C) Env2
+D) Helm
+ANSWER: A
+
+60. Qué técnica se emplearía para conseguir que un servidor tenga alta disponibilidad (HA o High Availability)
+A) Sustituirlo por un servidor nuevo más potente.
+B) Mover el servidor a una infraestructura Cloud (IaaS).
+C) Replicación del servicio y distribución de la carga.
+D) Recuperación frente a desastres con backups.
+ANSWER: C
+
+61. Qué herramienta de las siguientes se puede utilizar para el balanceo de carga:
+A) OpenSSH
+B) NGINX
+C) NTP
+D) OpenLDAP
+ANSWER: B
+
+62. ¿Cuál de las siguientes tecnologías de red es comúnmente utilizada en entornos de computación de alto rendimiento, para proporcionar baja latencia y alta velocidad de transferencia de datos entre nodos?
+A) Ethernet
+B) InfiniBand
+C) Wi-Fi
+D) Bluetooth
+ANSWER: B
+
+63. En redes de altas prestaciones, ¿qué tipo de transductores ópticos se utilizaría para conexiones de 40 Gbps?
+A) SFP+
+B) RJ45
+C) QSFP+
+D) Adaptadores Bluetooth
+ANSWER: C
+
+64. ¿Cuál es la principal diferencia entre un sistema distribuido y un sistema paralelo?
+A) Los sistemas distribuidos operan en múltiples máquinas conectadas en red, mientras que los sistemas paralelos operan en múltiples núcleos o procesadores dentro de una sola máquina.
+B) Los sistemas paralelos se utilizan únicamente para tareas gráficas, mientras que los sistemas distribuidos se utilizan para cálculos científicos.
+C) Los sistemas distribuidos requieren más memoria que los sistemas paralelos.
+D) Los sistemas paralelos no pueden escalar más allá de un solo nodo.
+ANSWER: A
+
+65. ¿Cuál de las siguientes herramientas es específicamente conocida por ser un sistema de procesamiento distribuido de grandes volúmenes de datos en paralelo?
+A) Docker
+B) Apache Hadoop
+C) Git
+D) Jenkins
+ANSWER: B
+
+66. Qué entidad dentro de un sistema de virtualización proporciona la tecnología de Kubernetes
+A) Contenedor
+B) Emulador
+C) Orquestador
+D) Hypervisor
+ANSWER: C
+
+67. Qué tipo de virtualización estamos empleando si usamos contenedores:
+A) Virtualización de Plataforma Hardware
+B) Virtualización de Aplicaciones
+C) Virtualización de Sistema Operativo
+D) Virtualización de Escritorio
+ANSWER: C
+
+68. ¿Qué herramienta utilizarías para sincronizar y transferir grandes volúmenes de datos entre sistemas de manera eficiente utilizando un algoritmo de diferencia?
+A) Apache Kafka
+B) Rsync
+C) Apache Spark
+D) Kubernetes
+ANSWER: B
+
+69. ¿Cuál de las siguientes afirmaciones es correcta respecto a las implicaciones de red en la transmisión masiva de datos?
+A) La compresión de datos durante la transferencia no afecta el uso de recursos de CPU y no tiene impacto en el tiempo de transferencia.
+B) La congestión de red puede reducir el rendimiento de la transferencia de datos y es importante implementar técnicas de control de congestión para mitigar este problema.
+C) El cifrado de datos no tiene ningún impacto en la velocidad de transferencia y siempre se realiza sin sobrecarga adicional.
+D) Una alta latencia en la red generalmente no afecta el tiempo total de transferencia de datos.
+ANSWER: B
+
+70. ¿Cuál de las siguientes bibliotecas de programación está diseñada específicamente para facilitar la programación en GPUs para cómputo general y es desarrollada por NVIDIA?
+A) OpenCL
+B) CUDA
+C) TensorFlow
+D) OpenMP
+ANSWER: B
+
+71. ¿Cuál de los siguientes modelos de programación es aplicado en GPGPU para explotar el paralelismo a nivel datos en cada instrucción?
+A) Modelo MIMD (Multiple Instruction, Multiple Data)
+B) Modelo SIMD (Single Instruction, Multiple Data)
+C) Modelo SPMD (Single Program, Multiple Data)
+D) Modelo MapReduce
+ANSWER: B
+
+72. ¿Cuál de las siguientes afirmaciones describe mejor un Acuerdo de Nivel de Servicio (SLA) en el contexto de servicios de IT (Tecnologías Información)?
+A) Un SLA es un contrato legal que define los términos de propiedad intelectual entre dos empresas.
+B) Un SLA es un acuerdo que especifica los niveles esperados de rendimiento y disponibilidad de un servicio, así como las responsabilidades del proveedor y las penalizaciones en caso de incumplimiento.
+C) Un SLA es un documento que describe los procedimientos de recuperación ante desastres y las políticas de respaldo de datos en un entorno de TI.
+D) Un SLA es una política interna de una empresa que regula el uso de recursos de TI por parte de los empleados.
+ANSWER: B
+
+73. ¿Cuál de las siguientes herramientas se puede utilizar para ayudar a las organizaciones a definir, monitorizar y gestionar Acuerdos de Nivel de Servicio (SLA) en entornos IT?
+A) Jenkins
+B) Ansible
+C) Docker
+D) Nagios
+ANSWER: D
+
+74. ¿Cuál de las siguientes afirmaciones describe correctamente una diferencia clave entre un sistema de Gestión de Relaciones con Clientes (CRM) y un sistema de tickets?
+A) Un CRM se utiliza exclusivamente para la resolución de problemas técnicos y no para la gestión de relaciones con clientes.
+B) Un sistema de tickets se enfoca en la gestión de solicitudes de soporte y problemas específicos, mientras que un CRM se centra en la gestión de relaciones a largo plazo con los clientes y la organización de la información de contacto y oportunidades de ventas.
+C) Un CRM y un sistema de tickets son herramientas intercambiables que sirven exactamente para los mismos propósitos en la gestión de la comunicación con clientes.
+D) Un sistema de tickets se utiliza para la automatización de procesos de ventas y marketing, mientras que un CRM se utiliza para la gestión de incidencias y soporte técnico.
+ANSWER: B
+
+75. En una VPN (Virtual Private Network) de acceso remoto:
+A) Al tratarse de una red privada, no es necesario ningún tipo de encapsulamiento de los paquetes de datos para protegerlos de posibles ataques.
+B) No es necesario verificar la identidad de los usuarios.
+C) No permite cifrado de datos.
+D) Los paquetes de datos viajan por un túnel definido en la red pública.
+ANSWER: D
+
+76. ¿Cuál es una de las principales ventajas de utilizar la computación en el borde (Edge Computing) en comparación con el procesamiento centralizado en la nube?
+A) Reduce la necesidad de mantenimiento físico de los servidores en el lugar de trabajo.
+B) Aumenta la latencia de los datos al procesar la información más cerca del origen.
+C) Minimiza el tiempo de respuesta y la latencia al procesar datos localmente en lugar de enviarlos a un centro de datos remoto.
+D) Requiere menos recursos de hardware para el procesamiento de datos en comparación con los centros de datos en la nube.
+ANSWER: C
+
+77. En un entorno de computación en el borde, ¿qué tipo de dispositivos típicamente se utilizan para realizar el procesamiento local de datos?
+A) Servidores principales en centros de datos
+B) Dispositivos IoT (Internet de las Cosas), como sensores y cámaras, y gateways locales
+C) Estaciones de trabajo de alta gama en oficinas corporativas
+D) Nubes privadas con almacenamiento distribuido
+ANSWER: B
+
+78. ¿Cuál de las siguientes tecnologías o protocolos es comúnmente utilizado para la comunicación entre dispositivos IoT y aplicaciones móviles?
+A) Hypertext Transfer Protocol (HTTP)
+B) File Transfer Protocol (FTP)
+C) Simple Mail Transfer Protocol (SMTP)
+D) Bluetooth Low Energy (BLE)
+ANSWER: D
+
+79. ¿Qué protocolo de comunicación es comúnmente utilizado en entornos de IoT para transmitir datos de manera eficiente en redes con restricciones de ancho de banda y recursos limitados?
+A) MQTT (Message Queuing Telemetry Transport)
+B) Secure Hypertext Transfer Protocol (HTTPS)
+C) Grid File Transfer Protocol (GFTP)
+D) Post Office Protocol (POP3)
+ANSWER: A
+
+80. Señala la respuesta falsa respecto a los sistemas de fibra óptica
+A) La fibra multimodo es perfecta para un ancho de banda de menor capacidad y aplicaciones de distancias más cortas.
+B) Los sistemas de fibra multimodo son mucho más caros que los sistemas de fibra monomodo
+C) El cable multimodo dispone de un núcleo de mayor diámetro que permite el paso de múltiples modos de luz.
+D) El cable monomodo solo dispone de un modo de propagación: una sola longitud de onda de luz en el núcleo de fibra
+ANSWER: B

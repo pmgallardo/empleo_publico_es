@@ -1,0 +1,580 @@
+26. En el ámbito de los proyectos de Tecnologías de la Información y las Comunicaciones, indique cuál de las siguientes respuestas es un método dinámico para la evaluación de la rentabilidad de la inversión:
+a) Plazo de recuperación o “Pay-back”.
+b) Retorno de Inversión o ROI.
+c) Tasa Interna de Retorno.
+d) Flujo de caja total.
+ANSWER: C
+
+27. Con relación al quorum y al “split brain” en clústers de alta disponibilidad, señale la respuesta correcta:
+a) El quorum se configura para que cada nodo del clúster tenga el mismo peso, y cualquier nodo puede continuar operando si detecta una partición en la red.
+b) El “split brain” es una situación donde múltiples nodos de un clúster operan independientemente sin necesidad de un quorum, ya que cada nodo puede tomar decisiones sin consultar a los demás.
+c) El quorum se define como la mitad más uno de los nodos. Si una partición de la red no alcanza ese número, no puede continuar operando para evitar el “split brain”.
+d) En caso de “split brain”, el quorum se distribuye equitativamente entre los nodos del clúster, lo que permite que las particiones pequeñas continúen funcionando sin problemas.
+ANSWER: C
+
+28. En el contexto de la arquitectura de procesadores, ¿cuál de las siguientes respuestas describe mejor la función de pipelining y su impacto en el rendimiento del procesador?
+a) Permite la ejecución simultánea de múltiples instrucciones en diferentes etapas del ciclo de instrucción, aumentando la velocidad de procesamiento al reducir el tiempo de ejecución total de un programa.
+b) Mejora el rendimiento del procesador al ejecutar una única instrucción a la vez, asegurando que cada instrucción se complete antes de comenzar la siguiente.
+c) Reduce el número de ciclos de reloj necesarios para ejecutar una instrucción al dividir cada instrucción en varias etapas y ejecutarlas de forma secuencial.
+d) Incrementa el tamaño del registro de instrucciones del procesador, permitiendo que más instrucciones se almacenen y se procesen simultáneamente.
+ANSWER: A
+
+29. Según la clasificación de los centros de proceso de datos por niveles Tier del Uptime Institute, ¿qué nivel o niveles garantizarían un tiempo máximo de indisponibilidad anual inferior a 2 horas?
+a) Los niveles Tier I y Tier II.
+b) Únicamente el nivel Tier IV.
+c) Los niveles Tier III y Tier IV.
+d) Únicamente el nivel Tier I.
+ANSWER: C
+
+30. En el contexto de estrategias de almacenamiento, señale la respuesta correcta:
+a) Thick Provisioning asigna espacio de almacenamiento anticipadamente y sin sobreasignación.
+b) Thin Provisioning asigna espacio bajo demanda y de forma predecible.
+c) Storage Tiering clasifica el almacenamiento en distintos niveles que no pueden solaparse.
+d) Deduplicación elimina datos duplicados, liberando espacio.
+ANSWER: D
+
+31. En el contexto de los Sistemas Operativos, ¿cuál de los siguientes algoritmos de planificación se caracteriza porque un proceso en ejecución no puede ser interrumpido hasta que termine o solicite una operación de E/S y garantiza que los procesos son atendidos en el orden en que llegan, gestionados en una cola?
+a) Algoritmo Round-Robin (RR).
+b) Algoritmo Shortest Job First (SJF).
+c) Algoritmo First Come First Served (FCFS).
+d) Algoritmo basado en Prioridades.
+ANSWER: C
+
+32. En Windows Server, ¿cuál es la funcionalidad principal del servicio de Active Directory Federation Services (AD FS)?
+a) Proporcionar resolución de nombres de dominio en la red.
+b) Gestiona y distribuye actualizaciones y parches a los servidores y estaciones de trabajo, asegurando que todos los sistemas estén al día.
+c) Permitir la autenticación de usuarios entre diferentes sistemas de identidad, sin la necesidad de múltiples inicios de sesión.
+d) Supervisar y registrar eventos y actividades del sistema para auditoría y solución de incidencias.
+ANSWER: C
+
+33. En los sistemas UNIX, los niveles de funcionamiento (Runlevels) definen diferentes estados operativos del sistema. ¿Cuál de las siguientes respuestas describe el nivel de funcionamiento 0 (nivel 0)?
+a) Es un nivel de funcionamiento que apaga el sistema por completo, deteniendo todos los servicios y desmontando todos los sistemas de archivos.
+b) Es un nivel de funcionamiento en el que el sistema se inicia en modo de usuario único para realizar tareas de mantenimiento básico.
+c) Es un nivel de funcionamiento multiusuario que inicia todos los servicios y demonios necesarios para la operación completa del sistema.
+d) Es un nivel de funcionamiento que proporciona una interfaz gráfica de usuario completa para el acceso y la gestión del sistema.
+ANSWER: A
+
+34. En un archivo crontab, ¿cuál de las siguientes entradas del archivo ejecutaría el script /ruta/al/script.sh todos los lunes a las 3:15 AM?
+a) 15 3 * * 1 /ruta/al/script.sh
+b) 15 3 1 * 1 /ruta/al/script.sh
+c) 15 3 1 1 1 /ruta/al/script.sh
+d) 15 3 * * 7 /ruta/al/script.sh
+ANSWER: A
+
+35. En la virtualización de sistemas, ¿cuál de las siguientes respuestas describe el papel de un hipervisor de tipo 1?
+a) Un hipervisor de tipo 1 se instala sobre un sistema operativo anfitrión existente y proporciona una capa de virtualización para crear y gestionar máquinas virtuales.
+b) Un hipervisor de tipo 1 se instala directamente en el hardware y proporciona una capa de virtualización sin necesidad de un sistema operativo anfitrión.
+c) Un hipervisor de tipo 1 se ejecuta como una aplicación dentro de un sistema operativo, gestionando las máquinas virtuales desde ese entorno.
+d) Un hipervisor de tipo 1 permite a múltiples sistemas operativos anfitriones ejecutar aplicaciones de virtualización en sus entornos separados.
+ANSWER: B
+
+36. Tanto los contenedores como las máquinas virtuales pueden utilizarse para aislar y gestionar aplicaciones. Señale la respuesta correcta:
+a) Los contenedores incluyen un sistema operativo completo y gestionan aplicaciones de forma independiente, mientras que las máquinas virtuales comparten el núcleo del sistema operativo host.
+b) Las máquinas virtuales son más ligeras que los contenedores y requieren menos recursos del sistema, ya que solo ejecutan una aplicación específica.
+c) Los contenedores comparten el núcleo del sistema operativo host y son más eficientes en términos de recursos, mientras que las máquinas virtuales incluyen un sistema operativo completo para cada instancia, lo que aumenta el uso de recursos.
+d) Los contenedores y las máquinas virtuales son idénticos.
+ANSWER: C
+
+37. Atendiendo a una aplicación diseñada e implementada con una arquitectura limpia (Clean Architecture) o con una arquitectura hexagonal, ¿en qué capa se encuentran las clases de acceso a la base de datos?
+a) Dominio
+b) Casos de uso.
+c) Aplicación.
+d) Infraestructura.
+ANSWER: D
+
+38. En el contexto de servidores de aplicaciones, ¿cuál de las siguientes respuestas describe la diferencia entre escalabilidad vertical y escalabilidad horizontal?
+a) La escalabilidad vertical implica agregar más instancias de servidores para distribuir la carga, mientras que la escalabilidad horizontal implica aumentar la capacidad del hardware en un solo servidor.
+b) La escalabilidad vertical se refiere a aumentar la capacidad de un servidor añadiendo más recursos (CPU, RAM), mientras que la escalabilidad horizontal se refiere a añadir más servidores para distribuir la carga.
+c) La escalabilidad vertical y horizontal son términos intercambiables que se refieren a aumentar la capacidad de un servidor.
+d) La escalabilidad horizontal es más eficiente que la escalabilidad vertical, ya que no requiere más servidores.
+ANSWER: B
+
+39. En el correo electrónico, señale el propósito principal de DKIM (DomainKeys Identified Mail):
+a) Asegurar la confidencialidad del contenido del mensaje.
+b) Verificar la autenticidad del remitente y la integridad del mensaje.
+c) Limitar el tamaño de los mensajes.
+d) Auditar los mensajes para detectar spam.
+ANSWER: B
+
+40. ¿Cuál de las siguientes respuestas describe una característica del Directorio Activo de Microsoft?
+a) Es un servicio de base de datos que se utiliza exclusivamente para almacenar configuraciones de red y no admite la gestión de usuarios ni dispositivos.
+b) Utiliza un modelo jerárquico similar a X.500, permitiendo la organización de recursos como usuarios, grupos y computadoras en dominios y unidades organizativas.
+c) Es un estándar abierto desarrollado por Microsoft y es compatible con cualquier sistema operativo sin la necesidad de componentes adicionales.
+d) No admite la replicación de datos entre diferentes controladores de dominio, lo que limita su uso en redes distribuidas.
+ANSWER: B
+
+41. ¿Cuál de las siguientes respuestas NO es una solución Single Sign-On (SSO) de software libre?
+a) Keycloak
+b) CAS (Central Authentication Service)
+c) Gluu Server
+d) Auth0
+ANSWER: D
+
+42. En relación al software libre, señale la respuesta INCORRECTA:
+a) El software libre permite modificar el programa y liberar estas modificaciones.
+b) El software libre permite redistribuir copias del programa.
+c) El software libre implica la libertad de ejecutar el software para cualquier propósito.
+d) El software libre es gratuito.
+ANSWER: D
+
+43. ¿Cuál de los siguientes principios de PMBOK 7 hace referencia a la personalización del proyecto?
+a) Pensamiento holístico.
+b) Tailoring.
+c) Adaptabilidad y resiliencia.
+d) Entrega de valor.
+ANSWER: B
+
+44. ITIL v4 describe la cadena de valor del servicio como una combinación de seis actividades clave. Señale las actividades clave:
+a) Organizar, Planificar, Diseño, Análisis, Operación y Mejora Continua.
+b) Planificar, Mejorar, Interactuar, Diseño y Transición, Obtener/Crear, Entregar y Brindar Soporte.
+c) Planificar, Diseñar, Transición, Desarrollo, Implantar y Brindar Soporte.
+d) Planificar, Definir, Diseñar, Implementar, Mejora Continua y Brindar Soporte.
+ANSWER: B
+
+45. ¿Cómo se llama la técnica de formación en los equipos de desarrollo software que consiste en resolver problemas conocidos con el objetivo de aprender a refactorizar o practicar metodologías como TDD (Test-Driven Development)?
+a) Code Craftmanship.
+b) Code Challenge.
+c) Kata.
+d) Mastery Quest.
+ANSWER: C
+
+46. ¿Cómo se llama la documentación que tiene como objetivo registrar y analizar las incidencias críticas ocurridas en el entorno de producción?
+a) Post-mortem.
+b) Crisis Report.
+c) Bug Retrospective.
+d) Error Analysis.
+ANSWER: A
+
+47. Dada una aplicación modular que se distribuye en varios contenedores Docker relacionados entre sí, ¿qué herramienta, por su simplicidad, se utiliza en el entorno local de desarrollo para la ejecución de todos los contenedores?
+a) Docker Swarm.
+b) Docker Hub.
+c) Docker Scout.
+d) Docker Compose.
+ANSWER: D
+
+48. ¿Cuál de los siguientes tipos de cohesión es mejor (mayor nivel de cohesión) conforme a la metodología Métrica v3?
+a) Casual.
+b) Procedimental.
+c) Funcional.
+d) Lógica.
+ANSWER: C
+
+49. ¿Qué respuesta NO es una práctica definida en XP (Extreme Programming)?
+a) Programación en parejas.
+b) Diseño simple.
+c) Propiedad colectiva del código.
+d) Pruebas del equipo de calidad.
+ANSWER: D
+
+50. En metodologías ágiles como SCRUM, ¿cómo se denominan las tareas que tienen como objetivo realizar una investigación previa a la resolución de un problema?
+a) Spike.
+b) Groundwork.
+c) Research.
+d) Investigation.
+ANSWER: A
+
+51. El acrónimo INVEST permite describir las características de calidad que deben cumplir las historias de usuario. Señale la respuesta que relaciona una letra del acrónimo INVEST con su significado.
+a) I – Isolated (Aislado).
+b) V – Valuable (Valioso).
+c) E – Effortless (Sin esfuerzo).
+d) T – Timely (Oportuno / A tiempo).
+ANSWER: B
+
+52. Respecto al modelo Entidad Relación Extendido, señale la respuesta correcta:
+a) La especialización es una abstracción a partir de varias entidades similares (subtipo) que genera una entidad común (supertipo).
+b) La generalización es un refinamiento a partir de una entidad (supertipo) que genera nuevas entidades (subtipo).
+c) La agregación permite almacenar varios valores en un mismo atributo de la entidad.
+d) Una Entidad débil es una entidad que no puede existir sin participar en una relación con una entidad fuerte.
+ANSWER: D
+
+53. En orientación a objetos, ¿qué característica se debilita cuando todas las propiedades de una clase son públicas?
+a) Encapsulamiento.
+b) Abstracción.
+c) Herencia.
+d) Polimorfismo.
+ANSWER: A
+
+54. Respecto a los patrones de diseño, señale la respuesta correcta:
+a) El patrón Iterator permite alterar el comportamiento de un objeto cuando su estado interno cambia.
+b) El patrón Mediator permite separar algoritmos de los objetos que operan.
+c) El patrón State permite guardar y restaurar el estado previo de un objeto sin revelar los detalles de su implementación.
+d) El patrón Observer permite definir un mecanismo de suscripción y notificación cuando ocurren ciertos eventos sobre el objeto observado.
+ANSWER: D
+
+55. En referencia a los principios SOLID de desarrollo de software, señale la respuesta correcta:
+a) Disponer de una clase que realiza varias funcionalidades no relacionadas entre sí cumple el principio S de SOLID.
+b) Disponer una clase que hereda de otra clase genérica y en la clase hija se sobreescribe un método de la clase padre sólo para lanzar una excepción de operación no soportada, cumple el principio L de SOLID.
+c) Disponer una interfaz con muchos métodos, de los cuales algún método no es necesario para las clases que implementan dicha interfaz, cumple el principio I de SOLID.
+d) Disponer una interfaz para el acceso a la base de datos, y utilizar esa interfaz en vez de la implementación concreta de acceso a base de datos, cumple el principio D de SOLID.
+ANSWER: D
+
+56. En relación a las técnicas utilizadas en las aplicaciones Javascript, señale la respuesta INCORRECTA:
+a) Tree shaking realiza la eliminación de código muerto, es decir, código Javascript que no se utiliza en la aplicación.
+b) Lazy Load retrasa la descarga de elementos, como por ejemplo las imágenes, hasta que sean necesarios.
+c) Minification consiste en la eliminación de datos innecesarios o redundantes, como por ejemplo comentarios o espacios en blanco.
+d) Debounce consiste en dividir el código de la aplicación en archivos más pequeños, para que el navegador descargue sólo los módulos necesarios en cada momento.
+ANSWER: D
+
+57. Señale la pila tecnológica en la que se utiliza Javascript o Typescript en todos sus elementos:
+a) Vue.js, Node.js, Django y SQLAlchemy.
+b) Angular, Oak, Deno, Doctrine.
+c) React, Node.js, Express.js, Mongoose.
+d) Rust, Rocket, Deno, Sequelize.
+ANSWER: C
+
+58. ¿Cuál es la última versión de Java con LTS (Long Time Support)?
+a) Java SE 17.
+b) Java SE 19.
+c) Java SE 21.
+d) Java SE 23.
+ANSWER: C
+
+59. En una aplicación Java, cuando se crea una instancia de una clase utilizando la palabra reservada “new”, ¿en qué parte de la JVM se almacena el objeto?
+a) Method Area.
+b) Heap.
+c) Stack.
+d) JNI.
+ANSWER: B
+
+60. ¿Cuál de las siguientes respuestas es un framework de .NET para frontend basado en HTML, CSS y C#?
+a) Kestrel.
+b) Xamarin.
+c) Blazor.
+d) Flask.
+ANSWER: C
+
+61. En relación con el desarrollo de aplicaciones móviles, señale la respuesta correcta:
+a) Una aplicación híbrida está enfocada a distribuirse de manera fácil y no requiere ser instalada en los dispositivos.
+b) Una aplicación nativa responde a la necesidad de ejecutarse en varias plataformas, acceder a las APIs (Application Programming Interfaces) nativas del dispositivo y es adecuada para funcionalidades simples.
+c) Una aplicación nativa permite alto rendimiento a nivel gráfico y acceder a características avanzadas del hardware.
+d) Una aplicación PWA (Progressive web app) se distribuye e instala en los dispositivos a través de las App Stores.
+ANSWER: C
+
+62. Señale la combinación de lenguajes y tecnologías que NO resultaría adecuada para desarrollar una aplicación iOS:
+a) Dart con Flutter.
+b) Kotlin con Kotlin Multiplatform.
+c) C# con .NET MAUI.
+d) Go con AppleGo.
+ANSWER: D
+
+63. En OAuth 2.0, ¿qué rol es el encargado de emitir los tokens de acceso?
+a) Resource Server (Servidor de recursos).
+b) Authorization Server (Servidor de autorización).
+c) Credential Server (Servidor de credenciales).
+d) Session Manager (Gestor de sesiones).
+ANSWER: B
+
+64. Atendiendo al desarrollo e implantación de una aplicación web segura, señale la respuesta INCORRECTA entre las combinaciones de tipos de pruebas y herramientas utilizadas.
+a) Pruebas de pentesting con Metasploit Framework.
+b) Pruebas de escaneo de vulnerabilidades con ZAP (Zed Attack Proxy).
+c) Pruebas de seguridad de las APIs con Appium.
+d) SAST Static Application Security Testing con SonarQube.
+ANSWER: C
+
+65. ¿Cuál de las siguientes estrategias de creación de ramas con Git incluye ramas específicas para funcionalidades (feature/*), versiones (release/*) y correcciones de errores (hotfix/*)?
+a) Git Flow
+b) GitHub Flow
+c) GitLab Flow
+d) Trunk-Based Development
+ANSWER: A
+
+66. Conforme a la estructura del Modelo de Excelencia Europeo EFQM 2020, señale la respuesta correcta:
+a) Contiene 9 criterios que se agrupan en dos bloques: Agentes facilitadores del éxito y Factores Críticos del Éxito.
+b) Contiene 9 criterios que se agrupan en dos bloques: Agentes facilitadores del éxito y Resultados.
+c) Contiene 7 criterios que se agrupan en tres bloques: Enfoque, Despliegue, Evaluación y Perfeccionamiento.
+d) Contiene 7 criterios que se agrupan en tres bloques: Dirección, Ejecución y Resultados.
+ANSWER: D
+
+67. En el contexto de las bases de datos, ¿qué principio ACID asegura que una transacción no afecta a otra, incluso si ambas operan sobre los mismos datos?
+a) Atomicity.
+b) Consistency.
+c) Isolation.
+d) Durability.
+ANSWER: C
+
+68. ¿Qué tipo de Base de Datos NoSQL está especialmente diseñada para realizar consultas con Xpath o XQuery?
+a) Documental.
+b) Nativa XML.
+c) De grafos.
+d) Orientada a Objetos.
+ANSWER: B
+
+69. En el lenguaje SQL, ¿qué se obtiene al combinar dos tablas con LEFT JOIN?
+a) Las columnas de la tabla de la izquierda y aquellas de la derecha que no coinciden. El número de filas es el mismo que se obtendría combinando con un join natural.
+b) Las columnas de la tabla de la izquierda y de la tabla de la derecha. El número de filas es el mismo que se obtendría combinando con un join natural.
+c) Las columnas de la tabla de la izquierda y aquellas de la derecha que no coinciden. El número de filas es el mismo número de filas que tiene la tabla izquierda.
+d) Las columnas de la tabla de la izquierda y de la tabla de la derecha. El número de filas es igual o superior al número de filas que tiene la tabla izquierda.
+ANSWER: D
+
+70. ¿Cuál de las siguientes respuestas es un pool opcional de la SGA (System Global Area) de una instancia de Oracle?
+a) RedoLog.
+b) Java.
+c) Control.
+d) System.
+ANSWER: B
+
+71. En una estructura de datos multidimensional propia de DataWareHouse, ¿qué hace la operación "Drill down"?
+a) Agregar.
+b) Desagregar.
+c) Reduce la dimensionalidad mediante la selección de un valor de una dimensión.
+d) Reduce la dimensionalidad mediante la selección de valores de una o varias dimensiones.
+ANSWER: B
+
+72. Con relación a la técnica MapReduce para procesar grandes volúmenes de datos, ¿cuál es la secuencia correcta de sus fases?
+a) Map, Split, "Shuffle and Sort" y Reduce.
+b) Split, Map, Reduce y "Shuffle and Sort".
+c) Map, Split, Reduce y "Shuffle and Sort".
+d) Split, Map, "Shuffle and Sort" y Reduce.
+ANSWER: B
+
+73. En el ámbito de la Inteligencia Artificial, ¿cómo se denomina la información proporcionada por el sistema que, pareciendo coherente, presenta datos incorrectos, sesgados o plenamente erróneos?
+a) Bug learning.
+b) Alucinación.
+c) Fallo contextual.
+d) Pragma error.
+ANSWER: B
+
+74. En relación a los sistemas RAID (Redundant array of independent disks), ¿qué ocurre con el MTBF (Mean Time Bewteen Failures)?
+a) Aumenta en proporción al número de discos en RAID 0.
+b) Disminuye en RAID 1.
+c) Aumenta en RAID 1.
+d) Aumenta al añadir más discos en RAID 5 y RAID 6.
+ANSWER: C
+
+75. En el contexto de Sistemas de Información Geográfica, ¿qué es EPSG:25830?
+a) El sistema de referencia cartesiano estándar EPSG en la zona UTM 30N.
+b) Un sistema de referencia propietario de ESRI.
+c) El sistema de referencia cartesiano ETRS89 en la zona UTM 30N (Universal Transverse Mercator 30 Norte).
+d) El sistema de referencia geodésico ETRS89 en la zona UTM 30N (Universal Transverse Mercator 30 Norte).
+ANSWER: D
+
+76. En relación a la Automatización Robótica de Procesos (RPA), señale la respuesta INCORRECTA:
+a) Pueden ejecutarse de forma automática y totalmente desatendida, pero también supervisada.
+b) Los usuarios finales pueden preparar e implementar bots de RPA sin tener habilidades de desarrollo.
+c) Pueden realizar trabajos simples como completar formularios, pero también complejos como atender a clientes.
+d) Pueden ejecutarse de forma automática y desatendida, pero durante su operación requieren soporte del Departamento de Informática de la Organización.
+ANSWER: D
+
+77. Conforme al Anexo I del Esquema Nacional de Seguridad (regulado por el Real Decreto 311/2022), ¿cuáles son dos dimensiones de seguridad?
+a) Confiabilidad y Trazabilidad.
+b) Confidencialidad y Disponibilidad.
+c) Accesibilidad e Integridad.
+d) Autenticidad y Conformidad.
+ANSWER: B
+
+78. Según el Esquema Nacional de Seguridad (regulado por el Real Decreto 311/2022), ¿cómo se denomina el soporte que recoge la relación de medidas de seguridad seleccionadas para la protección del Sistema de Información y sus activos, y quién es el responsable que firma dicho soporte?
+a) Desglose de Seguridad, firmado por el Responsable de la Información.
+b) Compromiso de Conformidad, firmado por el Responsable de Seguridad.
+c) Declaración de Aplicabilidad, firmada por el Responsable de Seguridad.
+d) Política de Seguridad, firmada por el Responsable de la Información.
+ANSWER: C
+
+79. Según el Decreto 22/2021, de 30 de septiembre, por el que se aprueba la política de seguridad de la información y protección de datos de la Administración de la Comunidad de Castilla y León, ¿cómo se denomina al órgano colegiado de impulso, seguimiento y coordinación interna?
+a) El Comité de Seguridad de la Información.
+b) La Asamblea Coordinadora de Seguridad de la Información.
+c) La Comisión de Seguridad de la Información.
+d) El Consejo de Seguridad de la Información.
+ANSWER: A
+
+80. ¿Cuál de las siguientes herramientas está diseñada específicamente para apoyar auditorías de seguridad y cumplimiento normativo en Sistemas de Información?
+a) CLARA.
+b) PILAR.
+c) ROCIO.
+d) INES.
+ANSWER: A
+
+81. Según la metodología MAGERIT v3, ¿en qué consiste el impacto acumulado de una amenaza sobre un activo?
+a) Es la medida que establece la probabilidad de que ocurra un daño sobre el activo y todos aquellos de los que él depende.
+b) Se trata de la estimación del conjunto de riesgos que afectan a un activo, de forma acumulada en el tiempo, dado un horizonte temporal predefinido.
+c) Es el inverso del valor estimado de la degradación sufrida por un activo, tanto en caso de que llegue a producirse una amenaza como si ésta aún no ha tenido lugar.
+d) Es la medida de la pérdida de valor acumulado, es decir, la degradación del valor del propio activo y todos aquellos que dependen de él.
+ANSWER: D
+
+82. De acuerdo con el Reglamento General de Protección de Datos (RGPD), ¿cuál es la función principal del Delegado de Protección de Datos (DPD)?
+a) El DPD solo se encarga de la implementación de medidas técnicas para proteger los datos personales.
+b) El DPD es responsable de sancionar a la organización en caso de infracciones del RGPD.
+c) El DPD es responsable de supervisar el cumplimiento de las normativas de protección de datos y actuar como intermediario entre la organización y las autoridades de control.
+d) El DPD tiene la responsabilidad exclusiva de aprobar todas las políticas internas de la empresa.
+ANSWER: C
+
+83. Según el Reglamento General de Protección de Datos (RGPD), ¿qué debe hacer una Organización si se produce una violación de datos personales que implique un alto riesgo para los derechos y libertades de las personas afectadas?
+a) Notificar inmediatamente a los interesados y a la autoridad de control competente, dentro de un plazo máximo de 72 horas.
+b) Notificar a la autoridad de control competente en un plazo de 24 horas, sin ser necesario informar a los interesados.
+c) Notificar solo a los interesados si consideran que el riesgo es crítico, pero no a la autoridad de control.
+d) Notificar únicamente a la autoridad de control si los datos violados son confidenciales en un plazo de 96 horas, sin necesidad de informar a los interesados.
+ANSWER: A
+
+84. Atendiendo a un cifrado híbrido que combina cifrado simétrico y asimétrico, señale la respuesta correcta:
+a) Utiliza cifrado simétrico para el intercambio de claves debido a su mayor eficiencia en términos de tiempo, mientras que el cifrado asimétrico asegura la distribución segura de claves privadas, eliminando la necesidad de gestión de claves.
+b) Utiliza cifrado simétrico para la transmisión de datos debido a su velocidad, y el cifrado asimétrico para el intercambio de claves simétricas, lo que mejora el rendimiento general.
+c) El cifrado simétrico asegura la autenticidad de los datos mientras que el cifrado asimétrico proporciona confidencialidad durante la transmisión, y se evita la necesidad de gestionar claves secretas.
+d) El cifrado asimétrico proporciona la velocidad necesaria para la transmisión de datos, mientras que el cifrado simétrico garantiza que las claves se distribuyan de forma segura.
+ANSWER: B
+
+85. En relación con las diferentes generaciones de redes WiFi (IEEE 802.11), señale la versión que NO puede configurarse para operar en distintas bandas de frecuencia:
+a) Wi-Fi 4.
+b) Wi-Fi 5.
+c) Wi-Fi 6.
+d) Wi-Fi 6E.
+ANSWER: B
+
+86. [ANULADA] Según el artículo 32 del Reglamento (UE) 910/2014 del Parlamento Europeo y del Consejo, de 23 de julio de 2014, señale cuál NO es un requisito imprescindible para que una firma electrónica sea considerada avanzada:
+a) Permitir la identificación del firmante de manera única.
+b) Haber sido creada utilizando datos de creación de la firma electrónica que el firmante puede utilizar, con un alto de nivel de confianza, bajo su control exclusivo o el de su representante.
+c) Estar vinculada con los datos firmados por la firma electrónica de modo tal que cualquier modificación ulterior de los mismos sea detectable.
+d) La integridad de los datos firmados no se haya visto comprometida.
+ANSWER:
+
+87. Según el Reglamento (UE) 910/2014, indique en cuáles de los siguientes estados se puede encontrar un certificado cualificado de firma electrónica durante su periodo de validez:
+a) Activo, Revocado y Suspendido.
+b) Válido, Anulado y Extinto.
+c) Activo, Revocado y Cancelado.
+d) Activo, Revocado y Anulado.
+ANSWER: A
+
+88. Según el artículo 15 del Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público, la Declaración de Accesibilidad:
+a) Será actualizada periódicamente, como mínimo una vez cada dos años, independientemente de lo especificado en el artículo 17.
+b) Será actualizada periódicamente, como mínimo una vez cada dos años, o cada vez que se realice una revisión de accesibilidad, conforme a lo especificado en el artículo 17.
+c) Será actualizada periódicamente, como mínimo una vez al año, o cada vez que se realice una revisión de accesibilidad, conforme a lo especificado en el artículo 17.
+d) Será obligatoria implementarla antes de un año desde la entrada en vigor del Real Decreto y solamente será obligatorio actualizarla conforme a lo especificado en el artículo 17.
+ANSWER: C
+
+89. Atendiendo a las Pautas de Accesibilidad para el Contenido Web (WCAG v2.2), señale cuál de las siguientes respuestas es uno de sus principios:
+a) Perceptible
+b) Contrastable
+c) Intuitivo
+d) Interactivo
+ANSWER: A
+
+90. En relación con los protocolos de encaminamiento, señale la respuesta correcta:
+a) Los protocolos de vector distancia, como por ejemplo OSPF, emplean el algoritmo de Bellman-Ford para crear una tabla de rutas con la distancia o coste de la ruta a cada destino, que compartirán periódicamente por cada nodo de la red a sus vecinos.
+b) Border Gateway Protocol versión 4 (BGPv4) se trata de un protocolo de estado del enlace que permite intercambiar información de enrutamiento entre sistemas autónomos (AS).
+c) Los protocolos de vector distancia comparten con sus vecinos la información sobre las rutas calculadas a los destinos de la red, mientras que los protocolos de estado del enlace comparten información sobre el estado de los enlaces a toda la red.
+d) RIPng es la versión de RIP para IPv6 y se trata del protocolo de estado del enlace utilizado para la determinación y el intercambio de rutas en redes de nueva generación IPv6.
+ANSWER: C
+
+91. ¿Cuál es un protocolo de red inalámbrica orientada al uso por dispositivos IoT?
+a) IEEE 802.11ad (WiGig).
+b) IEEE 802.11s (WiFi Mesh).
+c) IEEE 802.11e (WiLO – WiFi Light Objects).
+d) IEEE 802.11ah (WiFi HaLow).
+ANSWER: D
+
+92. En lo que respecta a las comunicaciones móviles, ¿cuál es el mecanismo que permite localizar y notificar a un dispositivo móvil en una red celular, de forma que se pueda conocer el estado del terminal para futuras conexiones, especialmente cuando el dispositivo móvil está en movimiento?
+a) Handover.
+b) Paging.
+c) Roaming.
+d) Trunking.
+ANSWER: B
+
+93. ¿Cuál de las siguientes direcciones IPv6 hace referencia a un túnel IPv6 sobre IPv4  utilizando el mecanismo de 6to4?
+a) 2001:db8::/32
+b) fc00::/7
+c) ::ffff:192.168.1.1
+d) 2002:C6A8:0101::/48
+ANSWER: D
+
+94. ¿Cuál es la dirección de la red en la que se ubica el host con IP 192.168.85.120 y máscara de red 255.255.255.192, y cuántos nodos pueden existir en dicha red?
+a) La dirección de red es 192.168.85.1 y el número de nodos posibles es 64.
+b) La dirección de red es 192.168.85.255 y el número de nodos posibles es 64.
+c) La dirección de red es 192.168.85.192 y el número de nodos posibles es 62.
+d) La dirección de red es 192.168.85.64 y el número de nodos posibles es 62.
+ANSWER: D
+
+95. ¿Cuál de las siguientes tecnologías o protocolos NO es adecuado para implementar una solución de teletrabajo segura?
+a) IPsec en la comunicación entre el cliente remoto y la red corporativa.
+b) FTP con contraseña segura de 128 caracteres, incluyendo números y símbolos, para transferir ficheros entre el cliente remoto y la red corporativa.
+c) SSH para acceso remoto a servidores dentro de la red corporativa.
+d) SSL/TLS para asegurar las conexiones de aplicaciones web internas accesibles desde fuera de la red.
+ANSWER: B
+
+96. ¿Cuál de los siguientes tipos de cortafuegos opera principalmente en la Capa 4 del modelo OSI y es capaz de filtrar tráfico basado en puertos y protocolos específicos?
+a) Cortafuegos de inspección de estado.
+b) Cortafuegos de filtro de tramas.
+c) Cortafuegos de nivel de aplicación.
+d) Cortafuegos de proxy.
+ANSWER: A
+
+97. Con relación a los tipos de proxy y su funcionamiento, señale la respuesta INCORRECTA:
+a) Un proxy inverso se encuentra en el lado del servidor para manejar las solicitudes de los clientes, pudiendo distribuir la carga y pudiendo proporcionar caché.
+b) Un proxy transparente intercepta y redirige el tráfico, pudiendo monitorear y filtrar contenido, pero sin modificar las solicitudes ni las respuestas.
+c) Un proxy HTTP opera en el nivel inmediatamente inferior a la capa de aplicación del modelo OSI y sirve para gestionar el tráfico de datos de manera eficiente.
+d) Un proxy SOCKS actúa en el nivel de sesión (Capa 5 del modelo OSI) y proporciona un túnel para el tráfico de diferentes tipos de protocolos, independientemente del contenido.
+ANSWER: C
+
+98. ¿Cuál de las siguientes características es típica de una solución PaaS (Platform as a Service)?
+a) Provisión de acceso directo al hardware físico del servidor.
+b) Acceso directo y control total sobre las configuraciones de red.
+c) Gestión automática del sistema operativo y middleware por parte del proveedor.
+d) Gestión manual de la infraestructura subyacente por parte del usuario.
+ANSWER: C
+
+99. De acuerdo con la Directiva 2014/55/UE sobre la facturación electrónica en la contratación pública y en el contexto de la interoperabilidad, señale la respuesta que describe un requisito para la validez de una factura electrónica:
+a) Las facturas electrónicas deben ser emitidas en un formato XML específico que cumpla con los esquemas de datos establecidos por los estados miembros.
+b) Las facturas electrónicas deben contener una firma digital emitida únicamente por un proveedor de servicios de confianza nacional.
+c) Las facturas deben ser transmitidas a través de una plataforma de intercambio de datos que garantice la confidencialidad y autenticidad de los documentos.
+d) La validación de la factura electrónica puede realizarse mediante el uso de un código QR, sin necesidad de firmarla electrónicamente.
+ANSWER: A
+
+100. ¿Qué nombre recibe el servicio común que consiste en una solución integral de firma electrónica ofrecida como producto instalable que cuenta, tanto con librerías que se integran en las aplicaciones que necesitan servicios de realización de firmas, como con un componente central con la lógica necesaria para la realización de las firmas, bien con certificados en local como con certificados en la nube?
+a) Autofirma.
+b) FIRe.
+c) Port@firma.
+d) Cliente @firma.
+ANSWER: B
+
+101. [RESERVA] El chip de la tarjeta del DNI electrónico cuenta con diversas zonas de almacenamiento de información. En relación con dichas zonas y el tipo de información almacenada, señale la respuesta correcta:
+a) La Zona Privada almacena la clave privada del certificado de firma y las claves Diffie-Hellman.
+b) Los datos de filiación del ciudadano y la imagen de su firma manuscrita se almacenan en la Zona de Seguridad.
+c) En la Zona Pública se encuentra el certificado de la CA emisora y la imagen del escaneo de la fotografía del ciudadano.
+d) En la zona Privada está el certificado x509 de componente y la clave privada del certificado de Autenticación.
+ANSWER: B
+
+102. [RESERVA] En una arquitectura de microservicios, ¿cuál de las siguientes respuestas NO es una funcionalidad común ofrecida por el API Gateway?
+a) Transacciones distribuidas. Puede gestionar las transacciones distribuidas y asegurar la consistencia en base de datos de las operaciones realizadas por los servicios invocados.
+b) Caché. Puede almacenar en caché las respuestas a peticiones de tipo GET y devolverlas directamente en peticiones repetidas.
+c) Traducción de protocolos. Puede recibir peticiones en un protocolo, por ejemplo HTTPs y traducirlo a gRPC para enviar las peticiones a los servicios.
+d) Autenticación. Puede realizar la autenticación del cliente antes de enviar las peticiones a los servicios.
+ANSWER: A
+
+104. [RESERVA] En relación al conjunto de estándares X.500, señale la respuesta correcta:
+a) X.500 fue desarrollado por ISO exclusivamente, sin participación de la UIT, y opera en la capa de transporte.
+b) LDAP es una versión más ligera de X.500, desarrollada con TCP/IP, mientras que X.500 utiliza el modelo OSI completo en la capa de aplicación.
+c) X.509 es independiente de X.500 y se utiliza para la gestión del enrutamiento en redes TCP/IP.
+d) X.500 fue desarrollado por la UIT, conjuntamente con ISO, que incluye X.509, un estándar utilizado para la gestión de certificados de clave pública (PK) en protocolos como TLS (Transport Layer Security).
+ANSWER: D
+
+105. [RESERVA] En lo referente a los protocolos empleados en una red SAN (Storage Area Network), señale la respuesta correcta:
+a) AoE permite hacer disponibles discos SATA a través de una red Ethernet.
+b) iSCSI son las siglas de Individual Small Computer System Interface.
+c) FCoE mapea el protocolo SCSI sobre Fibre Channel o Ethernet.
+d) AoE es incompatible con fibra óptica.
+ANSWER: A
+
+106. [RESERVA] En el desarrollo de software, ¿qué mide la métrica Lead Time?
+a) Tiempo que transcurre entre la recepción de un requisito funcional y el comienzo del desarrollo de la funcionalidad.
+b) Tiempo que transcurre entre el comienzo del desarrollo de la funcionalidad y la puesta a disposición del equipo de calidad (QA) para su validación.
+c) Tiempo que transcurre entre el comienzo del desarrollo de la funcionalidad y la puesta a disposición de la funcionalidad desarrollada para el uso de los usuarios reales de la aplicación.
+d) Tiempo que transcurre entre la recepción de un requisito funcional y la puesta a disposición de la funcionalidad pedida para el uso de los usuarios reales de la aplicación.
+ANSWER: D
+
+107. [RESERVA] Según la metodología MAGERIT v3, ¿cuál de las siguientes opciones NO es un tipo  de salvaguarda con efecto preventivo o reductor de la probabilidad de ocurrencia de una amenaza?
+a) Disuasoria.
+b) Minimizadora.
+c) Eliminatoria.
+d) Preventiva.
+ANSWER: B
+
+109. [RESERVA] ¿Cuál de las siguientes respuestas NO es una herramienta de IaC (Infraestructure as Code)?
+a) Terraform.
+b) Puppet.
+c) Pulumi.
+d) Pulsonic.
+ANSWER: D
+
+110. [RESERVA] Conforme a la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿en cuál de los siguientes conceptos se incluye el Impuesto sobre el Valor Añadido?
+a) En el presupuesto base de licitación, salvo disposición en contrario, y en el precio.
+b) En el valor estimado.
+c) En ningún concepto se incluye el Impuesto sobre el Valor Añadido.
+d) En el presupuesto base de licitación, en el valor estimado y en el precio.
+ANSWER: A

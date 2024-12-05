@@ -1,0 +1,423 @@
+1. Según PMBOK, si en la dirección y gestión de un proyecto TI, se le informa al director del proyecto que ciertas actividades de un bloque de trabajo son incorrectas, podríamos decir que el director del proyecto se encuentra en un proceso de…
+a) Acción correctiva.
+b) Cierre del proyecto.
+c) Control de cambios.
+d) Seguimiento y control.
+ANSWER: D
+
+2. En la planificación estratégica es frecuente la utilización del Análisis D.A.F.O. En relación con el mismo, se denominan “Debilidades” a:
+a) Todo aspecto del entorno externo que puede impedir la implantación de una estrategia.
+b) Todo aspecto interno que limita o reduce la capacidad de desarrollo efectivo de la estrategia de una organización.
+c) Toda amenaza externa sobre la organización.
+d) Todo factor del mercado nacional e internacional que impide la expansión de la organización.
+ANSWER: B
+
+3. ¿Cuál de las siguientes funciones NO es propia del director de un proyecto de tecnologías de la información?:
+a) Ejercer el control de tiempos, costes, recursos y calidad del producto, así como tomar las decisiones oportunas.
+b) Establecer la organización del proyecto.
+c) Coordinar los diferentes recursos con que cuenta la Organización para que estén disponibles para la ejecución del proyecto concreto.
+d) Fijar los estándares de control del proyecto.
+ANSWER: C
+
+4. Dentro del Diseño Centrado en el Usuario (DCU), se pueden distinguir las etapas:
+a) Planificación del proceso centrado en el usuario; Análisis estilos; Creación de las soluciones de diseño; Evaluación de la usabilidad.
+b) Planificación del proceso centrado en el usuario; Análisis de usuario y requisitos de la organización; Creación de las soluciones de diseño; Evaluaciónde la usabilidad; Pruebas de caja negra.
+c) Análisis del contexto de uso; Análisis de usuario y requisitos de la organización; Creación de las soluciones de diseño; Evaluación de la usabilidad.
+d) Planificación del proceso centrado en el usuario; Análisis del contexto de uso; Análisis de usuario y requisitos de la organización; Creación de las soluciones de diseño; Evaluación de la usabilidad.
+ANSWER: D
+
+5. En la norma WCAG 2.0 del W3C. ¿Qué se considera un texto de gran tamaño en caracteres occidentales?
+a) Un texto de al menos 10 puntos.
+b) Un texto de al menos 14 puntos.
+c) Un texto de al menos 18 puntos.
+d) Un texto de al menos 20 puntos.
+ANSWER: C
+
+6. El Esquema Nacional de Interoperabilidad introduce elementos cuya concurrencia es necesaria para la consecución de las finalidades de la administración digital, encontrándose entre ellos:
+a) La interoperabilidad organizativa.
+b) La interoperabilidad semántica.
+c) La interoperabilidad técnica.
+d) Todos los anteriores.
+ANSWER: D
+
+7. Indique cuál de las siguientes afirmaciones puede derivarse de la interoperabilidad de sistemas:
+a) Limita el uso de estándares abiertos para promover soluciones propietarias.
+b) Mejora los tiempos de proceso en la toma de decisiones.
+c) Evita la reutilización de datos y funcionalidades.
+d) Ninguna de las anteriores.
+ANSWER: B
+
+8. En el lenguaje SQL se pueden utilizar las cláusulas HAVING y WHERE. Indique la respuesta correcta:
+a) Se puede llegar a tener el mismo resultado con ambas cláusulas en una consulta aunque con un comportamiento interno distinto.
+b) En la cláusula HAVING se pueden incluir funciones de agregado.
+c) La cláusula HAVING solo puede ir asociada a la sentencia GROUP BY.
+d) Todas las repuestas son correctas.
+ANSWER: D
+
+9. ¿Cuál es el objetivo de garantizar la integridad de una base de datos?
+a) Mantener la coherencia de los datos frente a operaciones de inserción, borrado o modificación.
+b) Mantener la disponibilidad de los datos de forma permanente.
+c) Mantener la coherencia de los datos frente a las aplicaciones que las acceden.
+d) Mantener la coherencia de los datos frente a operaciones no autorizadas.
+ANSWER:
+
+10. Señale cuál de los siguientes términos no constituye una solución de interface de acceso a bases de datos:
+a) ODBC (Open Database Connectivity).
+b) RDO (Remote Data Objects).
+c) OLE DB (Object Linking and Embedding for Databases).
+d) RDMBS (Remote DataBase Management System).
+ANSWER: A
+
+11. Una de las arquitecturas más populares en el desarrollo web se engloba bajo el patrón…
+a) WMV
+b) MBC.
+c) MBC.
+d) MVC.
+ANSWER: D
+
+12. En relación con la tecnología JSF es falso afirmar que:
+a) Conceptualmente se apoya en un framework de páginas dinámicas y de interfaz de usuario.
+b) Utiliza la tecnología AJAX.
+c) Los componentes de la interfaz de usuario utilizan el ligado dinámico de datos.
+d) Cuando se procesa la página se genera un servlet.
+ANSWER: D
+
+13. Para programar en el lenguaje de programación Java existen distintos entornos de programación como son Eclipse o Netbeans denominados IDE. Indique la respuesta correcta:
+a) Los IDE incorporan su propio compilador de Java.
+b) El IDE Eclipse es uno de los más utilizados porque al enfocarse solo en el lenguaje Java ha conseguido sacarle el máximo rendimiento.
+c) En la actualidad se están utilizando un abanico amplio de IDEs en el desarrollo de software. Uno de ellos es Visual Studio Code.
+d) Hay que elegir bien el IDE a utilizar cuando se inicia un proyecto ya que no existe compatibilidad entre ellos.
+ANSWER: C
+
+14. Indique la respuesta correcta:
+a) En la actualidad el lenguaje Java está dejando de ser un lenguaje moderno porque no soporta la funcionalidad de lambdas, como por ejemplo Python.
+b) Java tiene un gran inconveniente respecto a otros lenguajes de programación interpretados porque no soporta la ejecución de código mediante una shell o ejecución de código en un intérprete de línea de comandos.
+c) Java en las últimas versiones soporta programación funcional.
+d) Todas las respuestas anteriores son falsas.
+ANSWER: C
+
+15. ¿Cuál de los siguientes tipos de Enterprise JavaBeans (EJB) tiene un funcionamiento asíncrono?
+a) EJB de entidad con persistencia gestionada por el contenedor.
+b) EJB de sesión sin estado.
+c) EJB dirigido por mensajes.
+d) Todos los tipos de EJBs.
+ANSWER: C
+
+16. ¿Cuál de las siguientes afirmaciones define de manera más precisa el concepto de CRM?
+a) Es el proceso estratégico de seleccionar a los clientes a los que una empresa puede servir de forma más rentable.
+b) Es el proceso que trata de optimizar el valor actual y futuro de una empresa.
+c) Es el proceso de monitorización de los procesos de una empresa.
+d) Es el proceso táctico de planificación, monitorización y optimización de los procesos de negocio de una empresa.
+ANSWER: A
+
+17. El tipo de CRM encargado de trabaja de forma continua para afinar las decisiones de negocio explotando el conocimiento de los clientes es el:
+a) CRM Operacional.
+b) CRM Estratégico.
+c) CRM Analítico.
+d) CRM Colaborativo.
+ANSWER: C
+
+18. Los Datamarts son…
+a) Instrumentos básicos de la Inteligencia Empresarial que definen patrones de comportamiento identificados en los datos.
+b) Elementos de representación de información específica que forman parte de un almacén de datos.
+c) Informes específicos que se obtienen a partir de herramientas OLAP.
+d) Estructuras de datos en forma de estrella capaces de representar las necesidades futuras de una empresa.
+ANSWER: B
+
+19. El objetivo del aprendizaje no supervisado en minería de datos basado en modelado consiste en:
+a) asignar nuevas situaciones a clases a partir de ejemplos existentes
+b) determinar el comportamiento futuro a partir de datos históricos
+c) establecer grupos de parecidos
+d) descubren patrones y tendencias en los datos
+ANSWER: C
+
+20. Cuando se quiere simular una base de datos multidimensional con una base de datos relacional y hay jerarquías en las dimensiones, lo más adecuado es el:
+a) Esquema en estrella
+b) Esquema en tornillo
+c) Esquema de hechos
+d) Esquema en copo de nieve
+ANSWER: D
+
+21. El Sistema de ficheros Hadoop Distributed File System (HDFS):
+a) Carga los datos replicados en todos los nodos.
+b) No provee almacenamiento redundante.
+c) Está diseñado para ser leído y escrito múltiples veces (“write-many, read-many”).
+d) Cuando se añade un archivo grande al HDFS, este se divide en bloques, por defecto de 128 MB.
+ANSWER: D
+
+22. ¿Una ‘collection’ y un ‘document’ en MongoDB serían equivalentes a qué conceptos de SQL respectivamente?
+a) Tabla y Fila
+b) Tabla y Columna
+c) Columna y Fila
+d) Base de Datos y Tabla
+ANSWER: A
+
+23. ¿Cuál de las siguientes herramientas no es adecuada para la Ingesta de Datos en Tiempo Real en Bigdata?
+a) Hadoop
+b) Flume
+c) Kafka
+d) Spark
+ANSWER: A
+
+24. En relación con el lenguaje XML, cuál de las siguientes afirmaciones es correcta:
+a) Permite definir documentos con varios elementos raíz (padre) de los que descienden todos los demás.
+b) Es necesario asignar algún valor a los elementos incluidos.
+c) Los atributos permiten proporcionar información adicional sobre el elemento que lo contiene.
+d) Un documento XML es válido (valid) cuando, aunque incumpla alguna norma de las establecidas en su estructura, no presenta errores de sintaxis.
+ANSWER: C
+
+25. En XML, la sintaxis <? denota el comienzo de:
+a) Una instrucción de procesamiento siempre
+b) Una instrucción de procesamiento, salvo que se utilice la expresión <?xml, que marca el comienzo de la declaración de la muestra XML
+c) La declaración XML
+d) Ninguna de las anteriores es correcta.
+ANSWER: B
+
+26. La seguridad y buen funcionamiento de una PKI depende de…
+a) Almacenar la clave privada raíz de manera segura.
+b) Utilizar únicamente algoritmos simétricos seguros, como AES.
+c) Publicar en un servidor reconocido, todas las claves públicas y privadas de los usuarios.
+d) Almacenar las listas de revocación de manera segura, para que no sean accesibles a los usuarios.
+ANSWER: A
+
+27. En una operación de resumen o hash, con h = H(M), siendo M el mensaje y H la función Hash:
+a) M debe ser de longitud fija
+b) No tiene por qué conocerse H
+c) h debe ser de longitud fija
+d) Dado M, no siempre se va a poder calcular H(M)
+ANSWER: C
+
+28. En relación con el ciclo de vida en espiral, indique la afirmación correcta.
+a) Es una versión del ciclo de vida en cascada
+b) Incorpora una fase de análisis de riesgos
+c) No incorpora al cliente en ninguna fase del ciclo
+d) Es el más antiguo de los modelos de ciclo de vida
+ANSWER: B
+
+29. ¿Quién describió por primera vez el modelo de ciclo de vida en espiral?
+a)
+b)
+c)
+d)
+Roger S. Pressman
+Ian Sommerville
+Barry Boehm
+James Rumbaugh
+ANSWER: C
+
+30. ¿Cuál de las siguientes se puede considerar una causa de fracaso habitual en proyectos basados en un modelo DRA (Desarrollo Rápido de Aplicaciones)?
+a) Cuando el rendimiento del sistema no es crítico
+b) Cuando los riesgos técnicos son altos
+c) Cuando tanto clientes como desarrolladores están comprometidos en resolver de forma rápida todas las actividades necesarias
+d) Cuando existe un número suficiente de personas para dividir las tareas en equipos distintos
+ANSWER: B
+
+31. Indique la respuesta correcta.
+a) La metodología de desarrollo Scrum sigue un ciclo de vida en espiral.
+b) La metodología de desarrollo Scrum sigue un ciclo de vida iterativo - incremental.
+c) Scrum define ciclos de pequeños proyectos de un máximo de cuatro semanas denominados Scrum Backlogs.
+d) Todas las anteriores son incorrectas.
+ANSWER: B
+
+32. En la reunión Daily Scrum, señale la opción verdadera:
+a) Todos los participantes en el desarrollo pueden hablar.
+b) La reunión tiene una duración variable, dependiente del tamaño del equipo.
+c) La reunión debe ocurrir en la misma ubicación y a la misma hora todos los días.
+d) Todas las anteriores son características del Daily Scrum
+ANSWER: C
+
+33. Según la guía Scrum 2017, señale la afirmación correcta
+a) Scrum es Liviano, Fácil de entender, Difícil de llegar a dominar
+b) Scrum es Liviano, Difícil de entender, Difícil de llegar a dominar
+c) Scrum es Liviano, Fácil de entender, Fácil de llegar a dominar
+d) Ninguna de las anteriores es correcta
+ANSWER: A
+
+34. Según el modelo entidad relación, para el concepto de cardinalidad se puede decir que:
+a) Es el número de ocurrencias de una entidad asociadas a una ocurrencia de otra entidad.
+b) Es el número máximo y mínimo de relaciones para una entidad.
+c) Define las posibles relaciones entre entidades como: de “uno a uno”, de “uno a muchos” y de “muchos a muchos”.
+d) Todas las anteriores son correctas.
+ANSWER: D
+
+35. Dentro del modelo entidad relación, el atributo o atributos que identifican y definen las relaciones entre entidades se denomina…
+a) Clave primaria.
+b) Clave candidata.
+c) Clave extranjera.
+d) Superclave.
+ANSWER: C
+
+36. En Orientación a Objetos se define el término “polimorfismo” como :
+a) La propiedad mediante la cual los atributos de una clase sólo son accesibles desde el exterior a través del intercambio de mensajes establecido.
+b) La solicitud que pide a un objeto que se comporte de una determinada forma.
+c) La propiedad mediante la cual un mismo mensaje puede originar conductas diferentes al ser recibido por objetos diferentes.
+d) La relación “es un” entre clases.
+ANSWER: C
+
+37. Una tarea de Coreografía en BPMN 2.0…
+a) Representa un intercambio de mensajes entre dos Participantes.
+b) Representa una secuencia entre dos tareas.
+c) Es una compuerta entre dos tareas.
+d) Es un proceso que engloba más de dos subprocesos.
+ANSWER: A
+
+38. Un proceso P1 genera una salida de información “X”. Unas horas después de que el proceso P1 ha terminado su función, el proceso P2 toma dicha información “X” como flujo de entrada de datos. La forma de representar esta situación según la técnica del Diagrama de Flujo de Datos será :
+a) Unir directamente los procesos P1 y P2 mediante el flujo de datos “X”.
+b) Llevar la salida de información “X” del proceso P1 a un almacén de datos temporal y tomar la entrada de datos “X” al proceso P2 desde dicho almacén de datos temporal.
+c) Cualquiera de las dos anteriores.
+d) Ninguna, pues en un DFD no se permite la conexión directa entre procesos, ni que aparezcan almacenes temporales de datos.
+ANSWER: B
+
+39. En relación con el prototipado, indique la respuesta correcta:
+a) Se realiza el prototipado en la etapa final del desarrollo del sistema.
+b) El prototipado sirve para crear de una manera rápida y sencilla una maqueta del sistema en desarrollo con el fin de que el sistema final se ajuste a las necesidades de los usuarios finales.
+c) El prototipado es una técnica exclusiva de los desarrollos web.
+d) Todas las respuestas anteriores son correctas.
+ANSWER: B
+
+40. En relación a la evaluación del diseño de interfaz, señale la afirmación correcta:
+a) Es una revisión técnica formal de auditoria de sistema de información.
+b) El ciclo de evaluación del diseño de la interfaz es un proceso iterativo basado en la construcción de prototipos.
+c) Se basa en el diseño de estudios formales que utilicen métodos estadísticos para la evaluación de datos cuantitativos proporcionados por los usuarios.
+d) Todas las anteriores son correctas
+ANSWER: B
+
+41. Existen pruebas estáticas y pruebas dinámicas del software. Indique la respuesta correcta:
+a) Las pruebas dinámicas se realizan durante la especificación de requisitos.
+b) Las pruebas estáticas son pruebas que se realizan ejecutando la aplicación.
+c) Las pruebas unitarias son pruebas dinámicas realizadas por el propio programador.
+d) El procedimiento de pruebas de las pruebas dinámicas de aceptación del sistema se crea al finalizar la fase de codificación.
+ANSWER: C
+
+42. ¿Cuál de los siguientes es un método válido de cálculo de la complejidad ciclomática?
+a) v(G) = número de aristas del grafo – número de nodos del grafo + número de componentes conexos de entrada-salida (generalmente 2)
+b) v(G) = número de nodos del grafo – número de aristas del grafo + número de componentes conexos de entrada-salida (generalmente 2)
+c) v(G) = número de aristas del grafo – número de nodos del grafo – número de componentes conexos de entrada-salida (generalmente 2)
+d) v(G) = número de nodos del grafo + número de aristas del grafo – número de componentes conexos de entrada-salida (generalmente 2)
+ANSWER: A
+
+43. Indique la afirmación correcta:
+a) Todas las aplicaciones desplegadas en la nube cumplen con el concepto de integración continua.
+b) El concepto de integración continua es la base de los servicios DevOps.
+c) La integración continua es el concepto que sustituye al despliegue continuo.
+d) La integración continua es el concepto utilizado en la nube para el despliegue de soluciones SaaS.
+ANSWER: B
+
+44. ¿Cuál de las siguientes es una herramienta que gestiona la integración continua?
+a) Cover.
+b) Selenium.
+c) Jenkins.
+d) Sonar.
+ANSWER: C
+
+45. Identifique la afirmación incorrecta, respecto la estimación de recursos y esfuerzo en el desarrollo de sistemas de información:
+a) Es la predicción de personal, del esfuerzo, de los costes y del tiempo asociados a un proyecto.
+b) No existe modelo universal de estimación.
+c) Se realiza sólo al comienzo de un proyecto.
+d) Se apoya en el cálculo de métricas.
+ANSWER: C
+
+46. Seleccione la afirmación correcta sobre el modelo de estimación de costes COCOMO-II:
+a) Sólo se aplica en el diseño preliminar.
+b) Es un modelo que estima el esfuerzo sólo mediante las Líneas de Código, y no Puntos de Función.
+c) COCOMO-II distingue: Diseño Preliminar, diseño Post-Arquitectura y diseño de Composición de Aplicación.
+d) No considera aspectos como la aptitud personal, o la experiencia.
+ANSWER: C
+
+47. ¿Qué método de estimación del esfuerzo para proyectos software se basa en el cálculo del número de puntos de casos de uso?:
+a) El Método MARK II.
+b) El Método de Bailey-Basili.
+c) El Modelo de Composición de la Aplicación.
+d) El Método de Karner.
+ANSWER: D
+
+48. Indique cuál de las siguientes afirmaciones NO es correcta:
+a) El documento de requisitos es un elemento de configuración.
+b) La línea base o baseline es un concepto clave en la Gestión de Configuración.
+c) Uno de los objetivos de las actividades de Gestión de configuración es asegurar la integridad y trazabilidad del producto software y de los componentes que lo forman.
+d) En la numeración más común del versionado (por ejemplo 7.3), el primer número indica la revisión (7) y el segundo número, la versión (3).
+ANSWER: D
+
+49. Las herramientas de control de versiones
+a) Permiten gestionar el ciclo de vida del código fuente.
+b) Permiten el desarrollo en paralelo desde varios equipos de desarrollo, la comparación de versiones, restaurar versiones antiguas, auditar cambios en el código, etc.
+c) Permite gestionar versiones, en general, de cualquier tipo de fichero, como por ejemplo documentos de texto.
+d) Todas las anteriores son funcionalidades de las herramientas de control de versiones
+ANSWER: D
+
+50. El objetivo de la gestión de la configuración es
+a) mantener la integridad de los productos que se obtienen a lo largo del desarrollo
+b) garantizar que no se realizan cambios incontrolados
+c) garantizar que todos los participantes disponen de la versión adecuada de los productos que manejan.
+d) Todos los anteriores son objetivos de la gestión de configuración
+ANSWER: D
+
+51. Seleccione el componente o capacidad que no se describe normalmente en un software de administración de documentos digitales (DMS).
+a) Indexación y Recuperación.
+b) Almacenamiento de metadatos.
+c) Control de versiones.
+d) Depuración de código.
+ANSWER: D
+
+52. ¿A qué se denomina dentro de los lenguajes documentales "ruidos documentales"?:
+a) A la información excedente solicitada
+b) A la información no excedente solicitada
+c) A los datos no solicitados pero obtenidos por distorsión del proceso
+d) A los datos solicitados pero no obtenidos por distorsión del proceso
+ANSWER: C
+
+53. Dentro de los diferentes procesos de la fase de Diseño de Servicios ITIL, ¿en cuál de ellos se concreta el tamaño y rendimiento de las infraestructuras TI?
+a) Gestión de la Disponibilidad.
+b) Gestión de la Capacidad.
+c) Gestión de Niveles de Servicio.
+d) Gestión de Proveedores.
+ANSWER: B
+
+54. La necesidad de definir métricas e indicadores de logros u objetivos es necesario en muchas organizaciones. ¿Cuáles son los tres tipos de métricas definidos por COBIT 5?
+a) Métricas de metas de la empresa, de metas de TI y de metas de procesos.
+b) Métricas de tecnología, de procesos y de servicios.
+c) Métricas operacionales y de servicios.
+d) Métricas de metas de la empresa, de procesos y de servicios.
+ANSWER: A
+
+55. Dentro de las certificaciones de ITIL (Information Technology Infrastructure Library), ¿Cuál es el nivel de certificación más elemental?
+a) ITIL Strategist
+b) ITIL Foundation
+c) ITIL Leader
+d) ITIL Master
+ANSWER: B
+
+56. ¿Cuál es la definición que más se ajusta a Intranet?
+a) Es una red pública que hace uso de protocolos propietarios para conectarse con uno o varios servidores locales.
+b) Es una red privada que utiliza los protocolos TCP/IP para comunicarse con cualquier ordenador de la propia organización.
+c) Es una red que permite una conexión pública de redes LAN (Local Area Network) y redes WAN (Wide Area Network).
+d) Ninguna de las anteriores.
+ANSWER: B
+
+57. En qué consiste el Diseño Responsive para las aplicaciones móviles
+a) Su tamaño se ajusta a la dimensión horizontal de la pantalla de forma automática y sin necesidad de una barra de desplazamiento horizontal. El diseño se expande al ancho disponible
+b) Se basa en una retícula que se divide en un número igual de columnas, que se consideran elásticas (un porcentaje del ancho total). CSS3 define mediante media queries en qué pantalla se va a visualizar la página.
+c) Se basa en una retícula que se divide en un número igual de filas, que se consideran elásticas (un porcentaje del alto total). CSS3 define mediante media queries en que pantalla se va a visualizar la página
+d) Su tamaño se ajusta a la dimensión vertical de la pantalla de forma automática y sin necesidad de una barra de desplazamiento vertical. El diseño se expande al alto disponible
+ANSWER: B
+
+58. Un archivo apk (indique la respuesta falsa)
+a) Es una variante del format JAR de Java
+b) Contiene un fichero AndroidManifest.xml
+c) Contiene una carpeta META-INF
+d) Contiene una carpeta lib64
+ANSWER: D
+
+59. Para protegerse de un ataque de Inyección SQL...
+a) Hay que securizar el servidor de base de datos.
+b) Hay que securizar el servidor web.
+c) La aplicación debe validar los valores de los formularios.
+d) Los formularios debe utilizar método POST en lugar de GET.
+ANSWER: C
+
+60. Existen multitud de ataques orientados a las aplicaciones web, entre ellos caben destacar los siguientes (indique la falsa)
+a) XSS Cross Site scripting
+b) Injection Flaws
+c) Insecure Direct Object Reference
+d) Ping of Death
+ANSWER: D

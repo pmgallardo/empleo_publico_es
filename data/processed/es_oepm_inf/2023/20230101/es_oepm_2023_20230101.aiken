@@ -1,0 +1,384 @@
+1. Según el artículo 100 de la Constitución Española, los Ministros del Gobierno son nombrados por:
+a) El Presidente del Gobierno.
+b) El Congreso de los Diputados.
+c) El Congreso de los Diputados y el Senado.
+d) El Rey.
+ANSWER: D
+
+2. Los organismos públicos se clasifican, de acuerdo con el artículo 84 de la Ley 40/2015, de 1 de octubre, del Régimen Jurídico del Sector Público, en:
+a) Organismos autónomos, entidades públicas empresariales y universidades públicas.
+b) Organismos autónomos, entidades públicas empresariales y Agencias estatales.
+c) Entidades públicas empresariales, agencias estatales y universidades públicas.
+d) Entidades públicas empresariales, agencias estatales y consorcios.
+ANSWER: B
+
+3. De acuerdo a la Ley 24/2015, de Patentes, los oponentes deben presentar las oposiciones dentro de un procedimiento de concesión de patente dentro del plazo de:
+a) Los 6 meses siguientes a la publicación de la solicitud de patente.
+b) Los 9 meses siguientes a la publicación de la solicitud de patente.
+c) Los 6 meses siguientes a la publicación de la concesión en el BOPI.
+d) Los 9 meses siguientes a la publicación de la concesión en el BOPI.
+ANSWER: C
+
+4. De conformidad con la Ley 20/2003, de protección jurídica del diseño industrial, para obtener una fecha de presentación de solicitud, se requiere de:
+a) Instancia en la que se solicite el registro, identificación del solicitante y pago de la tasa.
+b) Instancia en la que se solicite el registro, una representación gráfica del diseño apta para ser reproducida e indicación de los productos a los que se aplica el diseño.
+c) Instancia en la que se solicita el registro del diseño, identificación del solicitante y representación gráfica del diseño apta para ser reproducida.
+d) Identificación del solicitante, representación gráfica del diseño apta para ser reproducida y pago de la tasa.
+ANSWER: C
+
+5. De conformidad con el Convenido de Múnich sobre Concesión de patentes europeas, las lenguas oficiales de la Oficina Europea de Patentes serán:
+a) Alemán, inglés, francés, español e italiano.
+b) Alemán, inglés y francés.
+c) Inglés, francés y español.
+d) Alemán, inglés, francés, español, italiano y portugués.
+ANSWER: B
+
+6. Dentro del contexto del entorno de desarrollo Java, escoja la definición CORRECTA de Java Plug-in:
+a) Es un puente entre los navegadores instalados en el sistema y los distintos entornos de ejecución de java (JRE) que se hayan instalado en la máquina cliente.
+b) Es una biblioteca para el desarrollo de interfaces de usuario gráficas (GUI) y poder gestionar entornos de ventanas desde aplicaciones Java.
+c) Es un paquete de clases que proporciona una interfaz común para el acceso a bases de datos.
+d) Es una API de Java para acceso a servicios de directorio (LDAP, DNS etc.).
+ANSWER: A
+
+7. Respecto a la técnica del prototipado, señale la afirmación CORRECTA:
+a) Puede desecharse después de su uso y comenzar el desarrollo del sistema.
+b) Está especialmente indicado para situaciones en las que los requisitos están claros.
+c) El desarrollo resulta siempre más costoso.
+d) No se puede utilizar en el modelo de ciclo de vida en cascada.
+ANSWER: A
+
+8. ¿Cómo se llama el protocolo que usa el navegador para encontrar la dirección IP que corresponde a un nombre de dominio?
+a) URI
+b) DNS
+c) TCP/IP
+d) URL
+ANSWER: B
+
+9. En la arquitectura web de tres capas indique la afirmación CORRECTA que describa la capa de persistencia:
+a) Tiene como responsabilidad la presentación de los datos, recibiendo los eventos de los usuarios y controlando la interfaz de usuario.
+b) En esta capa se sitúan los objetos de negocio que implementan las reglas de negocio y están disponibles para la capa de presentación
+c) Es responsable del almacenamiento de los datos, recuperación y almacenamiento de la información de la aplicación web.
+d) Protege del acceso directo a los datos desde la capa de presentación.
+ANSWER: C
+
+10. La arquitectura que permite disponer de tolerancia a fallo en discos, mediante el duplicado completo del contenido de un disco en otro idéntico, se denomina:
+a) DLT.
+b) Parallel ATA.
+c) RAID 1.
+d) SSD.
+ANSWER: C
+
+11. ¿Cuál de las siguientes opciones es un tipo de dirección en IPv6?:
+a) Anycast.
+b) Broadcast.
+c) Simulcast.
+d) Telecast.
+ANSWER: A
+
+12. ¿Cuál de las siguientes opciones es un estándar XML definido por OASIS (Organization for the Advancement of Structured Information Standards) para la gestión de identidades?:
+a) CadES (CMS Advanced Electronic Signatures).
+b) SAML (Security Assertion Markup Language).
+c) XAML (Extensible Application Markup Language).
+d) XMP (Extensible Metadata Platform).
+ANSWER: B
+
+13. ¿Cuál de las siguientes figuras aparece como uno de los responsables en el artículo 11 del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad?:
+a) Responsable de las copias de seguridad.
+b) Responsable del cumplimiento normativo.
+c) Responsable del inventario.
+d) Responsable del servicio.
+ANSWER: D
+
+14. En el marco de arquitectura de redes, el sistema que se encarga de repartir las peticiones de los usuarios entre los servidores de una granja se denomina:
+a) Balanceador.
+b) Conmutador.
+c) Enrutador.
+d) Firewall.
+ANSWER: A
+
+15. De acuerdo con el artículo 32 del capítulo IV de la Ley 40/2015, de 1 de octubre, del Régimen Jurídico del Sector Público en relación con la responsabilidad de las Administraciones Públicas, los particulares tendrán derecho a ser indemnizados por las Administraciones Públicas correspondientes:
+a) En cualquier contingencia jurídica.
+b) En cualquier lesión sufrida en sus bienes.
+c) En cualquier lesión sufrida en sus derechos.
+d) En toda lesión que sufran en cualquiera de sus bienes y derechos, siempre que la lesión sea consecuencia del funcionamiento normal o anormal de los servicios públicos.
+ANSWER: D
+
+16. ¿Cómo se denomina el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento de la resolución administrativa según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común?
+a) Recurso administrativo.
+b) Procedimiento administrativo.
+c) Expediente administrativo.
+d) Documentos públicos administrativos.
+ANSWER: C
+
+17. En el contexto de tecnologías Front-end se encuentra XML (eXtensible Markup Language), indique cuál de las siguientes afirmaciones es CORRECTA:
+a) Permite el intercambio estructurado de información facilitando la interoperabilidad mediante la definición de formatos de datos.
+b) Es un lenguaje de scripting basado en objetos no tipado y ligero.
+c) Se utiliza para dar estilo a documentos, permitiendo la separación entre el contenido y la presentación.
+d) Es una aplicación de creación y manipulación de gráficos vectoriales.
+ANSWER: A
+
+18. El procesamiento de datos OLTP se refiere a un tipo de procesamiento de datos:
+a) Históricos.
+b) Multidimensionales.
+c) En lotes (batch).
+d) Transaccionales.
+ANSWER: D
+
+19. CMIS (Content Management Inteoperability Services) de OASIS (Organization for the Advancement of Structured Information Standards) es un estándar de:
+a) Gestión documental.
+b) Accesibilidad de contenidos en páginas web.
+c) Gestión de contenedores para máquinas virtuales.
+d) Servicios de gestión de elementos de red.
+ANSWER: A
+
+20. De conformidad con el artículo 137 Ley 24/2015, de Patentes, las invenciones que pueden ser protegidas como modelo de utilidad que, siendo nuevas e implicando actividad inventiva, consisten en dar a un objeto:
+a) Una configuración, estructura o composición de la que resulte alguna ventaja prácticamente apreciable para su uso o fabricación.
+b) Una nueva configuración, estructura o composición sin que sea necesario que resulte alguna ventaja prácticamente apreciable para su uso o fabricación.
+c) Cualquier configuración en cualquier campo de la tecnología.
+d) Una configuración, estructura o composición de la que resulte alguna ventaja prácticamente apreciable para su uso o fabricación incluyendo las composiciones farmacéuticas.
+ANSWER: A
+
+21. De conformidad con el artículo 2 de la Ley 11/1988 de protección de las topografías de los productos semiconductores, la topografía de un producto semiconductor será objeto de protección:
+a) Cuando sea el resultado del esfuerzo intelectual de su creador de su creador, aun cuando sea un producto corriente en la industria de los semiconductores.
+b) Solamente cuando no sea un producto corriente en la industria de los semiconductores.
+c) Solamente cuando sea el resultado del esfuerzo intelectual de su creador.
+d) Cuando sea el resultado del esfuerzo intelectual de su creador de su creador y no sea un producto corriente en la industria de los semiconductores.
+ANSWER: D
+
+22. En el contexto de mantenimiento de sistemas, elija la definición que describa el mantenimiento preventivo:
+a) Conjunto de actuaciones encaminadas a adaptar el sistema de información a nuevos entornos operativos.
+b) Actividades de desarrollo de software encaminadas a resolver defectos ya encontrados del sistema de información.
+c) Conjunto de técnicas que permiten detectar los defectos antes de que sucedan.
+d) El derivado de una nueva especificación funcional o no funcional.
+ANSWER: C
+
+23. En metodologías ágiles se encuentra la figura del “scrum master”, escoja la definición CORRECTA del papel que desempeña:
+a) Es un gestor del producto, dueño del backlog del programa definiendo y priorizando las funcionalidades.
+b) Es un facilitador que lidera al equipo en la aplicación de los valores y procesos ágiles, guiando la colaboración y resolviendo los problemas que impidan el avance del equipo.
+c) Guía y armoniza a los equipos en cuestiones de arquitectura.
+d) Es propietario de negocio, el principal interesado en el programa completo.
+ANSWER: B
+
+24. Indique cuál de las siguientes opciones recoge la tarea que se enmarca dentro de la actividad Construcción del Sistema de Información (CSI):
+a) Codificar y probar los componentes del Sistema de Información.
+b) Definir de la arquitectura a seguir.
+c) Estudiar la viabilidad del Sistema.
+d) Definir el entorno tecnológico que dará soporte al Sistema.
+ANSWER: A
+
+25. En relación con la seguridad de las redes, indique cuál de las siguientes opciones es CORRECTA:
+a) IPsec sólo modifica el contenido de las cabeceras de los paquetes IP para enmascarar los puertos e IP de origen, traduciendo las direcciones IP de la red interna hacia el exterior.
+b) TLS (Transport Layer Security) es un protocolo obsoleto, que ha sido sustituido por SSL (Secure Socket Layer).
+c) MAC (Media Access Control) es un protocolo de seguridad de filtrado de contenidos.
+d) WPA (WiFi Protected Access) permite autenticación mediante IEEE 802.1x.
+ANSWER: D
+
+26. Las sedes electrónicas de las Administraciones Públicas se encuentran definidas:
+a) En el artículo 16 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+b) En el artículo 38 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+c) En el artículo 11 del Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica.
+d) En el artículo 31 del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad.
+ANSWER: B
+
+27. En relación al Sistema Estatal de Contratación Centralizada, señale la afirmación CORRECTA:
+a) Las Comunidades Autónomas no pueden hacer uso del Sistema Estatal de Contratación Centralizada.
+b) Los Organismos Autónomos dependientes de los Departamentos Ministeriales no tienen obligación de acudir al Sistema Estatal de Contratación Centralizada.
+c) El Ministerio de Hacienda y Función Pública declara qué suministros y servicios son de contratación centralizada.
+d) Los Sistemas Dinámicos de Adquisición permiten la compra directa de suministros, en un catálogo dinámico, sin necesidad de una segunda licitación.
+ANSWER: C
+
+28. En el contexto de gestión de versiones, el lugar donde se almacenan todos los ficheros del código fuente de una aplicación se denomina:
+a) Contenedor.
+b) Inventario.
+c) Portfolio.
+d) Repositorio.
+ANSWER: D
+
+29. Conforme al Real Decreto 951/2005, de 29 de julio, por el que se establece el marco general para la mejora de la calidad en la Administración General del Estado, ¿quién aprueba las Cartas de Servicios?
+a) La Secretaria de Estado de Función Pública.
+b) La Ministra de Hacienda y Función Pública.
+c) El Subsecretario del departamento al que pertenezca el órgano o esté vinculado o adscrito el organismo proponente.
+d) El Presidente de la Agencia Estatal de Evaluación de las Políticas Públicas y la Calidad de los servicios.
+ANSWER: C
+
+30. A los efectos de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿cuál de estas entidades se considera que NO forma parte del sector público?
+a) Las Ciudades Autónomas de Ceuta y Melilla.
+b) Las Mutuas colaboradoras con la Seguridad Social.
+c) Los consorcios sin personalidad jurídica propia.
+d) Las autoridades administrativas independientes.
+ANSWER: C
+
+31. ¿Cuál es la duración de la protección de un modelo de utilidad según la Ley 24/2015, de Patentes?:
+a) Veinte años improrrogables, contados desde la fecha de presentación de la solicitud.
+b) Diez años improrrogables, contados desde la fecha de presentación de la solicitud.
+c) Diez años improrrogables, contados desde la fecha de concesión.
+d) Veinte años improrrogables, contados desde la fecha de concesión.
+ANSWER: B
+
+32. Según lo indicado en el artículo 5 de la Ley 17/2001, de Marcas, cuál de los siguientes NO es una causa de prohibición absoluta de registro:
+a) Los que carezcan de carácter distintivo.
+b) Los registrados de mala fe.
+c) Los que sean contrarios a la Ley, al orden público o a las buenas costumbres.
+d) Los que puedan inducir al público a error, por ejemplo, sobre la naturaleza, la calidad o el origen geográfico del producto o servicio.
+ANSWER: B
+
+33. Según el Tratado de Cooperación en Materia de Patentes (PCT). Cuál de los siguientes aspectos NO es un requisito para que una Oficina nacional o una organización intergubernamental pueda ser Administración encargada de la búsqueda internacional de acuerdo a la Regla 36 del Reglamento PCT.
+a) Esa Oficina u organización deberá poseer, por lo menos, la documentación mínima mencionada en la Regla 34, o tener acceso a esa documentación mínima.
+b) la Oficina nacional o la organización intergubernamental deberá tener, por lo menos, 200 empleados con plena dedicación, con calificaciones técnicas suficientes para efectuar las búsquedas.
+c) esa Oficina u organización deberá disponer de un sistema de gestión de calidad y un sistema de revisión interna, conforme a las reglas comunes de la búsqueda internacional.
+d) esa Oficina u organización deberá ser nombrada en calidad de Administración encargada del examen preliminar internacional.
+ANSWER: B
+
+34. En relación a la gestión de versiones, ¿qué se entiende por Diff (o Delta)?
+a) Consiste en descargar una copia del código fuente a un equipo local desde el servidor de versiones con el fin de modificarlo.
+b) Consiste en fusionar una rama con otra rama.
+c) Se refiere a las diferencias en el código fuente entre dos versiones (código añadido, eliminado, modificado, etc.).
+d) Consiste en crear una nueva rama que nunca volverá a ser fusionada con la principal, por ejemplo, para crear un producto con una evolución diferente.
+ANSWER: C
+
+35. En relación a UML (Unified Modeling Language), indique cuál de los siguientes diagramas es dinámico (o de comportamiento):
+a) Diagrama de objetos.
+b) Diagrama de despliegue.
+c) Diagrama de estados.
+d) Diagrama de perfiles.
+ANSWER: C
+
+36. Escoja la opción que NO se ajuste a la metodología SMART para la definición de los objetivos.
+a) Medible.
+b) Alcanzable.
+c) Relevante.
+d) Generalista.
+ANSWER: D
+
+37. Indique cuál de las siguientes características NO es propia de la arquitectura P2P (peer-to-peer):
+a) Escalabilidad.
+b) Centralización.
+c) Robustez.
+d) Distribución de costes.
+ANSWER: B
+
+38. Indique cuál de las siguientes afirmaciones es CORRECTA respecto a los estándares IEEE 802:
+a) IEEE 802.3 define el estándar de redes inalámbricas Token ring.
+b) IEEE 802.8 define el estándar de red local Bluetooth.
+c) IEEE 802.11 define los estándares de redes locales inalámbricas.
+d) IEEE 802.40 define el estándar de redes privadas virtuales (VLAN).
+ANSWER: C
+
+39. Señale cuál es la afirmación CORRECTA en referencia a máquinas virtuales y contenedores:
+a) Las máquinas virtuales gestionadas por un único hipervisor deben ejecutar el mismo sistema operativo.
+b) Cada imagen de un contenedor en un único servidor debe contener su propia instalación del sistema operativo.
+c) Un contenedor no precisa instalación del sistema operativo en el propio contenedor.
+d) Kubernetes es un hipervisor para la ejecución de máquinas virtuales.
+ANSWER: C
+
+40. El sistema unificado de identidades electrónicas para la relación de los ciudadanos con las administraciones públicas se denomina:
+a) AutenticA.
+b) Cl@ve.
+c) TS@.
+d) VALIDe.
+ANSWER: B
+
+41. Señala la afirmación CORRECTA en relación a la accesibilidad y usabilidad:
+a) La legislación española no establece requisitos de accesibilidad para las aplicaciones para dispositivos móviles del sector público.
+b) El nivel de conformidad que han de cumplir las páginas web de las administraciones públicas se define en la Norma Técnica de Interoperabilidad de Accesibilidad Web.
+c) Los sitios web de la Administración General del Estado deben cumplir la norma EN 301 549 Requisitos de accesibilidad para productos y servicios TIC.
+d) Las administraciones públicas deben garantizar la accesibilidad de sus páginas web cumpliendo los criterios de conformidad de nivel A y AA de OWASP Top 10.
+ANSWER: C
+
+42. Conforme al Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público ¿cuál de estas circunstancias NO justifica el nombramiento de funcionarios interinos?
+a) La ejecución de un nuevo programa de carácter permanente.
+b) La existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera.
+c) El exceso o acumulación de tareas en determinada unidad.
+d) La sustitución transitoria de un funcionario de carrera durante el tiempo de su baja por enfermedad.
+ANSWER: A
+
+43. De acuerdo con el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, ¿cuál de las siguientes NO es una situación administrativa del personal funcionario de carrera?
+a) Servicios especiales.
+b) Jubilación.
+c) Excedencia por razón de violencia de género o de violencia sexual.
+d) Servicio en otras Administraciones Públicas.
+ANSWER: B
+
+44. El alcance de la protección conferida por la patente o por la solicitud de patente se determina por:
+a) La descripción y los dibujos.
+b) La instancia de solicitud de la patente.
+c) Las reivindicaciones.
+d) La instancia de solicitud, la descripción y las secuencias biológicas.
+ANSWER: C
+
+45. Indique cuál de los siguientes NO es uno de los principios arquitectónicos de diseño aplicable a las arquitecturas SOA:
+a) Encapsulación.
+b) Abstracción.
+c) Fuerte acoplamiento.
+d) Autonomía.
+ANSWER: C
+
+46. Las licencias de pleno derecho son:
+a) Licencias de carácter obligatorio que se otorgan en el caso de que exista falta de explotación de la invención patentada.
+b) Licencias contractuales no exclusivas que resultan de un ofrecimiento público.
+c) Licencias contractuales exclusivas que resultan de un ofrecimiento público.
+d) Licencias otorgadas por el Gobierno para poner remedio a prácticas anticompetitivas.
+ANSWER: B
+
+47. Indique cuál es el plazo en el que puede ejercitarse la acción de nulidad contra una patente:
+a) Durante toda la vida legal de la patente y durante los 5 años siguientes a la caducidad de ésta.
+b) Durante toda la vida legal de la patente y exclusivamente durante los 2 años siguientes a la caducidad de ésta.
+c) Durante toda la vida legal de la patente y durante 10 años siguientes a la caducidad de ésta.
+d) Durante toda la vida legal de la patente y antes de que se declare su caducidad.
+ANSWER: A
+
+48. De conformidad con el artículo 4 del Convenio de la Unión de París para la protección de la propiedad industrial, cuál de las siguientes afirmaciones NO es cierta respecto de la prioridad unionista de una solicitud de patente:
+a) El plazo de prioridad es de doce meses a correr desde la fecha de depósito de la primera solicitud de patente.
+b) Se reconoce que da origen al derecho de prioridad todo depósito que tenga valor de depósito nacional regular.
+c) Se podrá exigir que la solicitud de prioridad vaya acompañada de un certificado de la fecha del depósito expedido por dicha Administración y de una traducción
+d) Quien desee prevalerse de la prioridad de un depósito anterior no estará obligado a indicar en una declaración la fecha y el país de este depósito.
+ANSWER: D
+
+49. De conformidad con el artículo 26 del Acuerdo sobre los aspectos de los Derechos de Propiedad Intelectual relacionados con el Comercio relativo a la protección de los dibujos y modelos industriales, se establece que la duración de la protección de ésta modalidad equivaldrá a:
+a) 10 años como mínimo.
+b) 25 años como mínimo.
+c) 5 años pudiendo ser prorrogado hasta un máximo de 25 años.
+d) 15 años como mínimo.
+ANSWER: A
+
+50. El artículo 39 de la Ley 24/2015, de Patentes, regula la realización del examen sustantivo en un procedimiento de concesión de patente. Indique cuál de las siguientes afirmaciones es CORRECTA:
+a) La Oficina Española de Patentes y Marcas examinará la patente previa petición del solicitante.
+b) La Oficina Española de Patentes y Marcas realizará el examen sustantivo sin necesidad de que el solicitante lo pida, inmediatamente después derealizar el informe sobre el estado de la técnica.
+c) La Oficina Española de Patentes y Marcas examinará si la solicitud cumple con los requisitos formales sin examinar la concurrencia de los requisitos técnicos.
+d) Junto con la petición de examen sustantivo no se permite la modificación de las reivindicaciones en ningún caso.
+ANSWER: A
+
+51. [RESERVA] Para la adecuación de las aplicaciones y entornos a la normativa de protección de datos se debe cumplir:
+a) El ENS, el RGPD y la LOPDGDD.
+b) Solo el ENS como norma clave para la seguridad de la información.
+c) Solo el RGPD como norma clave para la protección de datos personales.
+d) El RGPD y la LOPDGDD y, solo en caso de alto riesgo, el ENS.
+ANSWER: A
+
+52. [RESERVA] ¿Cuál de las siguientes opciones es un estándar para dispositivos de digitalización de imágenes?:
+a) NVMe.
+b) OpenGL.
+c) SPICE.
+d) TWAIN.
+ANSWER: D
+
+53. [RESERVA] De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿Cómo se deben anotar los asientos en el Registro Electrónico General de cada Administración?
+a) Por orden alfabético de los documentos para facilitar su localización y consulta.
+b) Respetando el orden temporal de recepción o salida de los documentos e indicando la fecha del día en que se produzcan.
+c) Agrupados por nivel jerárquico del órgano receptor o emisor de los documentos, indicando la fecha de entrada o salida según corresponda.
+d) Por orden alfabético del destinatario.
+ANSWER: B
+
+54. [RESERVA] Según el Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica, el conjunto de inventarios de información administrativa que ha de mantener cada Administración Pública forma parte de la:
+a) Interoperabilidad administrativa.
+b) Interoperabilidad colaborativa.
+c) Interoperabilidad organizativa.
+d) Interoperabilidad pública.
+ANSWER: C
+
+55. [RESERVA] De acuerdo al artículo 16 del Convenio de Múnich sobre la concesión de las patentes europeas, ¿qué funciones desempeña la Sección de Depósito de la Oficina Europea de Patentes?
+a) Emitir los informes de búsqueda europea.
+b) Adoptar cualquier decisión relativa, por una parte, a las anotaciones en el Registro Europeo de Patentes y, por otra, a las inscripciones o anulaciones en la lista de los agentes autorizados.
+c) Examinar las solicitudes de patente europea cuando se depositen y en lo que respecta a los requisitos de forma.
+d) Examinar las oposiciones a las patentes europeas.
+ANSWER: C

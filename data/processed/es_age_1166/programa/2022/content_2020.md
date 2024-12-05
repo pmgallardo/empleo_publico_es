@@ -19,7 +19,6 @@ Exámenes revisados hasta convocatoria 2022.
       * Título IX: Tribunal Constitucional
       * Título X: Reforma Constitucional
       
-
 2. La Constitución Española de 1978 (II). El Poder Judicial. La justicia en la Constitución. El Consejo General del Poder Judicial. El Ministerio Fiscal. El Tribunal Constitucional. Naturaleza, organización y atribuciones.
 
 3. La Constitución Española de 1978 (III). Las Comunidades Autónomas: organización política y administrativa. La Administración local: regulación constitucional y entidades que la integran.
@@ -44,8 +43,37 @@ Exámenes revisados hasta convocatoria 2022.
 7. Las fuentes del derecho administrativo. La jerarquía de las fuentes. La ley. Las Disposiciones del Gobierno con fuerza de ley: decreto-ley y decreto legislativo. El reglamento: concepto, clases y límites. Otras fuentes del derecho administrativo.
 
 8. El régimen jurídico de las Administraciones públicas. El procedimiento administrativo y la relación de los ciudadanos con las Administraciones públicas.
-    <a id="pacap"></a>
-   * PACAP
+    
+   * Régimen jurídico de las administraciones públicas 
+   * Colaboración en administraciones públicas
+     * Colaboración pública en servicios públicos 
+     * Colaboración público-privada en servicios públicos
+       * Regulación
+         * RDL 3/2011 ~ 
+         * Ley 9/2017
+       * Instrumentos de colaboración público-privada
+         * PPP (Public-Private Partnership) / Contrato de colaboración entre sector público y el sector privado ~
+         * Contrato de concesión
+         * Procedimiento de asociación para la innovación
+         * Consorcio
+         * Convenio firmado entre una administración pública u organismo o entidad de derecho internacional y un sujeto de derecho privado
+         * PERTE (Proyecto Estratégico para la Recuperación y Transformación Económica)
+           * Modos de ejecución del PERTE
+             * Agrupaciones para la presentación de solicitudes de ayudas
+             * Consorcios
+             * Sociedades de economía mixta
+   * Procedimiento administrativo común
+     * Reglamento
+       * Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del procedimiento administrativo común ~
+       * Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos ~
+       <a id="pacap"></a>
+       * PACAP (Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas)
+     * Fases
+       * Iniciación
+       * Ordenación
+       * Instrucción
+       * Resolución
+   * Relación de los ciudadanos con las administraciones públicas
 
 9. La revisión de los actos en vía administrativa. Los recursos administrativos. El recurso contencioso-administrativo.
 
@@ -53,12 +81,71 @@ Exámenes revisados hasta convocatoria 2022.
 
 11. Los contratos de las Administraciones públicas. Principios comunes. La Ley de Contratos del Sector Público. Requisitos necesarios para la celebración de los contratos. Procedimientos de contratación y formas de adjudicación. Tipos de contratos y características generales. La facturación en el sector público.
 
+    * Legislación aplicable
+      * Directiva 2014/24/UE
+      * Directiva 2014/23/UE
+      * Directiva 2014/25/UE
+      * Ley 9/2017
+      * Real Decreto-ley 3/2020
+      * Real Decreto 1098/2001
+    * Principios de contratación pública
+      * Libertad de acceso
+      * Publicidad y transparencia
+      * No discriminación e igualdad de trato
+      * Eficiencia
+      * Integridad
+    * Definiciones
+      * Sector público
+      * Administración pública
+      * Poder adjudicador
+        * PANAP (poder adjudicador no administración pública)
+      * Órgano de contratación
     * Contratos de Administraciones Públicas
       * Tipos de contratos del sector público
-        * Contratos de obras
-        * Concesión de obras
-        * Concesión de servicios
-        * Suministro y servicios
+        * Según la naturaleza jurídica 
+        * Según el objeto contractual
+          * Obras
+          * Concesión de obras
+          * Servicios
+          * Concesión de servicios
+          * Suministros
+        * Según la cuantía
+          * No regulación armonizada
+          * Regulación armonizada / SARA
+      * Instrumentos pseudocontractuales
+        * Convenios
+        * Encomiendas de gestión
+        * Encargos a MPP (medios propios personificados)
+      * Presupuesto de los contratos
+        * Presupuesto base de licitación
+        * Valor estimado
+        * Precio
+      * Requisitos para la celebración de contratos
+        * Capacidad de obrar
+        * Solvencia
+          * Solvencia económica
+          * Solvencia técnica
+          * Clasificación
+        * No tener prohibición de contratar
+      * Presupuesto de los contratos
+        * Presupuesto base de licitación
+        * Valor estimado
+      * Procedimientos de adjudicación
+        * Procedimiento abierto
+        * Procedimiento abierto simplificado
+        * Procedimiento abierto simplificado abreviado
+        * Procedimiento restringido
+        * Procedimiento de negociación
+        * Procedimiento negociado sin publicidad
+        * Contrato menor
+        * Diálogo competitivo
+        * Procedimiento de asociación para la innovación
+        * Contrato menor
+      * Contratación centralizada
+        * Acuerdos marco
+        * Sistema dinámico de adquisición (SDA)
+        * Contrato centralizado
+        * Encargos a medios propios
 
 12. Los presupuestos generales del Estado. Estructura del presupuesto: clasificación de los gastos. Las modificaciones presupuestarias. La ejecución del gasto y su control. El control interno: la Intervención General de la Administración del Estado. El control externo: el Tribunal de Cuentas y las Cortes Generales.
 
@@ -69,6 +156,9 @@ Exámenes revisados hasta convocatoria 2022.
 15. El sector primario. El sector industrial. El sector servicios. Los subsectores de comercio, transportes y comunicaciones. El turismo.
 
 16. La estructura social. Tendencias demográficas. Políticas de igualdad de género. Discapacidad y dependencia. Políticas contra la violencia de género.
+
+    * Ley de identidad de género
+    * [Ley Trans](https://es.wikipedia.org/wiki/Ley_trans_(Espa%C3%B1a))
 
 17. El mercado de trabajo: evolución y características actuales. Principales magnitudes. Políticas públicas de empleo.
 
@@ -1201,6 +1291,7 @@ Exámenes revisados hasta convocatoria 2022.
             * Diagrama de Interación
             * [Diagrama de paquetes](#diagrama-de-paquetes)
             * Diagrama de Transición de Estados %
+            * Diagrama de extrapolación
             * Modelado de Procesos de la Organización
             * [Modelo Entidad/Relación](#modelo-entidad-relacion) %
             * Normalización
@@ -1471,6 +1562,10 @@ Exámenes revisados hasta convocatoria 2022.
 
 115. Redes de nueva generación y servicios convergentes (NGN/IMS). VoIP, ToIP y comunicaciones unificadas.
 
+    * Códecs
+      * Códec G728A
+      * Códec G.728
+
 116. La transformación digital e industria 4.0: ciudades inteligentes. Internet de las Cosas (IoT).
 
 117. Redes de área local. Arquitectura. Tipología. Medios de transmisión. Métodos de acceso. Dispositivos de interconexión. Gestión de dispositivos. Administración de redes LAN. Gestión de usuarios en redes locales. Monitorización y control de tráfico. Gestión SNMP. Configuración y gestión de redes virtuales (VLAN). Redes de área extensa.
@@ -1584,6 +1679,10 @@ Exámenes revisados hasta convocatoria 2022.
       * [SIP (Session Initiation Protocol) / Protocolo de iniciación de sesión](https://es.wikipedia.org/wiki/Protocolo_de_iniciaci%C3%B3n_de_sesi%C3%B3n)
       * SRTP
       * H.235
+    * Protocolos de streaming
+      * RTP
+      * RTMP
+      * RSP
 
 130. Acceso remoto a sistemas corporativos: gestión de identidades, single sign-on y teletrabajo.
      <a id="stork"></a>

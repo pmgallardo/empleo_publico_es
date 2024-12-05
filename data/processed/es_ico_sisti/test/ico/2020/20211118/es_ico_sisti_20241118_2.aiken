@@ -1,0 +1,419 @@
+1. El enfoque estratégico de la organización considera a los sistemas de información como:
+a. Una herramienta para mejorar la estructura competitiva del negocio.
+b. Un requerimiento funcional y tecnológico derivado de los requisitos estatales.
+c. Una alternativa a la toma de decisiones tradicional.
+d. La digitalización y el avance tecnológico necesario en una sociedad digital.
+ANSWER: A
+
+2. Las metodologías ágiles:
+a. Son metodologías estructuradas basada en procesos.
+b. La capacidad de respuesta a un cambio es más importante que el seguimiento estricto de un plan.
+c. Tienen un enfoque orientado al proceso y descompone cada uno de los mismos en actividades, y éstas a su vez en tareas. Para cada tarea se describe su contenido haciendo referencia a sus principales acciones, productos, técnicas, prácticas y participantes.
+d. Son metodologías de aproximación en cascada para el desarrollo de sistemas de información.
+ANSWER: B
+
+3. El Real Decreto que regula el Esquema Nacional de Interoperabilidad, NO será de aplicación:
+a. A los ciudadanos en sus relaciones con las Administraciones Públicas.
+b. A las relaciones entre las distintas Administraciones Públicas.
+c. A las Administraciones Públicas, así como las entidades de derecho público vinculadas o dependientes de las mismas.
+d. A las Administraciones Públicas en actividades que desarrollen en régimen de derecho privado.
+ANSWER: D
+
+4. ¿Cuál de las siguientes respuestas NO corresponde con un principio básico del Esquema Nacional de Seguridad?
+a. Seguridad Integral.
+b. Gestión de riesgos.
+c. Reevaluación periódica.
+d. Líneas de Comunicaciones.
+ANSWER: D
+
+5. ¿Cuál es la principal característica de la replicación asíncrona frente a la replicación síncrona?
+a. La replicación asíncrona permite menor latencia en las operaciones de escritura del cliente.
+b. La replicación asíncrona admite un mayor número de réplicas.
+c. La replicación asíncrona genera mayor latencia en las operaciones de escritura del cliente.
+d. La replicación asíncrona garantiza una mejor consistencia de los datos replicados.
+ANSWER: A
+
+6. ¿Cómo se denomina a las redes utilizadas por pequeñas empresas para que sus trabajadores se conecten desde casa o desde pequeñas oficinas remotas?:
+a. Red SOHO.
+b. Red RAS.
+c. Red SAN.
+d. Red IrDA.
+ANSWER: A
+
+7. ¿Cuál de los siguientes NO es un método de respaldo (BACKUP)?
+a. Virtual
+b. No estructurado
+c. Incremental
+d. Diferencial
+ANSWER: A
+
+8. Indica la afirmación correcta.
+a. SOAP es una tecnología que implementa la arquitectura SOA, mientras que REST es una tecnología que se basa en microservicios, principios distintos a SOA.
+b. SOAP es el protocolo de comunicaciones basado por las implementaciones de la arquitectura SOA.
+c. Una arquitectura SOA proporciona los protocolos y lenguajes de programación para el despliegue de soluciones de procesamiento cooperativo.
+d. SOA es una arquitectura que proporciona un marco de trabajo para el despliegue de otras tecnologías como SOAP o REST.
+ANSWER: D
+
+9. ¿Cuáles son las funciones principales de un sistema operativo en un ordenador?
+a. Gestionar la memoria y el procesador.
+b. Gestionar los dispositivos de entrada/salida.
+c. Gestionar el sistema de ficheros o almacenamiento secundario.
+d. Todas las anteriores son correctas.
+ANSWER: D
+
+10. ¿Qué sentencia del lenguaje SQL no se define como una operación TCL (Transaction Control Language)?
+a. ROLLBACK.
+b. RETURN.
+c. SAVEPOINT.
+d. COMMIT.
+ANSWER: B
+
+11. Una de las ventajas de incorporar la tecnología AJAX en los desarrollos web es:
+a. Permite reducir el número de peticiones al servidor.
+b. Permite simplificar el diseño de las aplicaciones del lado del front-end.
+c. Permite reducir el tamaño de las respuestas del servidor.
+d. Todas las anteriores son correctas.
+ANSWER: C
+
+12. Java se ha consolidado como uno de los grandes lenguajes de programación por…
+a. …su alto rendimiento en el desarrollo de aplicaciones nativas.
+b. …la portabilidad de código.
+c. …la gran cantidad de librerías de análisis de datos que posee.
+d. Ninguna de las anteriores.
+ANSWER: B
+
+13. ¿Cómo se llama la capacidad que permite a Apache alojar varios sitios web en una sola instancia?
+a. Multitarea
+b. Alojamiento virtual
+c. Procesamiento paralelo
+d. Direccionamiento IP
+ANSWER: B
+
+14. ¿Cuál de las siguientes modalidades NO corresponde a un tipo de ERP?
+a. ERP datawarehouse.
+b. ERP en la Nube
+c. ERP on-premise.
+d. ERP-híbrido.
+ANSWER: A
+
+15. ¿Cuál de los siguientes NO es un proceso de Data Mining?
+a. Extracción de conocimiento.
+b. Exploración de datos.
+c. Diseño de un datamart.
+d. Análisis de clusters o grupos.
+ANSWER: C
+
+16. XML es un lenguaje de marcado que:
+a. Define un conjunto de reglas para la codificación de documentos
+b. Marca la estructura de una página web
+c. Marca el estilo y diseño de una página web
+d. Genera la salida de la página web y la marca
+ANSWER: A
+
+17. Una Infraestructura de clave pública (PKI) permite:
+a. Generar claves públicas para los usuarios cuando estos presentan su clave privada.
+b. Generar certificados para uso generalizado dentro o fuera de la organización.
+c. Es una infraestructura pública, creada por el gobierno central y disponible para todos los ciudadanos, para gestionar todas las claves criptográficas. Entre otras cosas sirve para guardar copia de seguridad de las claves.
+d. Generar certificados de uso interno para los usuarios de una organización.
+ANSWER: D
+
+18. ¿Cuál de las siguientes opciones, NO es un objetivo a cumplir por un ciclo de vida?
+a. Garantizar el mantenimiento de la aplicación.
+b. Indicar las actividades y secuencia de las mismas.
+c. Aseguramiento de la consistencia con el resto de los sistemas de información de la empresa.
+d. Gestión del tiempo y del presupuesto.
+ANSWER: A
+
+19. ¿Cuál de las siguientes opciones NO es una metodología Agile?
+a. Waterfall.
+b. Scrum.
+c. Crystal Clear.
+d. XP (Extreme Programming).
+ANSWER: A
+
+20. En el diseño de software por capas, éstas son:
+a. Capas de presentación, de negocio y de datos
+b. Capas de middleware, hardware y software
+c. Capas física, lógica y analítica
+d. Capas de presentación, lógica y analítica
+ANSWER: A
+
+21. Son muchas las técnicas de pruebas de software. Una de ellas son las pruebas unitarias que:
+a. Son las pruebas de más bajo nivel que se realizan sobre una unidad de código y se comprueba su correcto funcionamiento.
+b. Son pruebas que se realizan a nivel de sistema.
+c. Son pruebas de caja negra.
+d. Todas las respuestas anteriores son correctas.
+ANSWER: A
+
+22. El modelo COCOMO (COnstructive COst MOdel)…
+a. Pertenece a la categoría de modelos estimadores basados en estimaciones matemáticas en función de la cantidad de líneas de código, principalmente.
+b. Se miden los costes del producto, de acuerdo a su tamaño y a la productividad.
+c. Incluye además del tamaño los costes de gestión.
+d. La medición por líneas de código es adecuada para orientación a objetos ya que tiene en cuenta la "reusabilidad" y la herencia.
+ANSWER: A
+
+23. ¿Qué se entiende por Gestión de entornos TIC en una organización?
+a. Es el proceso de unificación de todos los entornos de desarrollo de software para utilizar siempre el mismo en una organización.
+b. Es la migración de todas las aplicaciones de una organización a un entorno en la nube.
+c. Es el proceso para controlar los cambios en los distintos entornos de una organización y evitar errores y discrepancias entre los mismos.
+d. Ninguna de las anteriores es correcta.
+ANSWER: C
+
+24. Se llama mantenimiento evolutivo….
+a. A aquel que intenta modificar algo que funcionaba o era correcto en el sistema
+b. A aquel que intenta modificar algo que no funcionaba
+c. A aquel que intenta actualizar el sistema
+d. A aquel que evoluciona con el tiempo
+ANSWER: A
+
+25. Las herramientas CVS, Git o Subversion son herramientas para:
+a. Estimar la complejidad del código.
+b. Gestionar las actividades de un proyecto.
+c. Identificar los puntos débiles del programa.
+d. Controlar las versiones de software.
+ANSWER: D
+
+26. En los sistemas de almacenamiento es difícil asegurar la conservación a largo plazo ya que:
+a. Los soportes son sensibles a factores internos
+b. La tecnología avanza al ritmo que las organizaciones pueden asumir
+c. La desorganización de la información dificulta las tareas de conservación
+d. Los gestores de información son bastante tradicionales y reacios a cambios de almacenamiento
+ANSWER: C
+
+27. ¿Cuál de las siguientes métricas NO es empleada para medir el rendimiento de un acuerdo de nivel de servicio ANS?
+a. ROI (Retorno de la inversión) del software.
+b. Puntos de referencia de rendimiento.
+c. Tiempo de respuesta del proveedor del servicio.
+d. Disponibilidad y porcentaje de tiempo de actividad del servicio.
+ANSWER: A
+
+28. La utilización de VLANs en una red de área local permite:
+a. Ampliar el dominio de difusión.
+b. Crear redes lógicas independientes dentro de una misma red física.
+c. Unir segmentos lógicos.
+d. Habilitar la seguridad del puerto en la capa de distribución.
+ANSWER: B
+
+29. ¿Cuál de las siguientes afirmaciones es correcta?
+a. Internet es pública y por tanto todos los usuarios tienen acceso a ella, mientras que la intranet al ser privada requiere que los usuarios utilicen un password de entrada.
+b. El protocolo de comunicaciones utilizado en Internet y en una Intranet es diferente.
+c. Internet e Intranet no es propiedad de una sola organización o de varias.
+d. A Internet se puede acceder desde cualquier dispositivo con un navegador, mientras que a una intranet sólo se puede acceder a través de un teléfono inteligente.
+ANSWER: A
+
+30. ¿Cuál de estas opciones NO es un servicio de directorio?
+a. HDFS
+b. OpenLDAP
+c. DNS
+d. Microsoft Active Directory
+ANSWER: A
+
+31. La estrategia de ciberseguridad nacional:
+a. Promueve un modelo integrado con la participación del Estado, entidades públicas y sector privado.
+b. Es competencia del ejército y de los cuerpos de seguridad del estado.
+c. Sólo afecta las Administraciones públicas y las Infraestructuras Críticas, pero no al sector privado.
+d. Se centra en la detección y mitigación de la cibercriminalidad, y especialmente el fraude.
+ANSWER: A
+
+32. ¿Cuál de los siguientes entornos no está concebido para el trabajo colaborativo (planificación, almacenamiento, comunicación...)?
+a. Dropbox
+b. Slack
+c. Trello
+d. Sharepoint
+ANSWER: A
+
+33. Referido a Single Sign-On (SSO), indique cuál de las siguientes afirmaciones es falsa:
+a. SSO acelera el acceso de los usuarios a sus aplicaciones.
+b. SSO reduce el número de contraseñas que deben memorizarse.
+c. SSO reduce la probabilidad de vulneración de contraseñas.
+d. SSO es fácil de implementar y de conectar a nuevas fuentes de datos.
+ANSWER: C
+
+34. Indicar cuál de las siguientes características NO es propia de la virtualización de servidores:
+a. Mayor disponibilidad de los servidores.
+b. Menores costes operativos.
+c. Mejora del rendimiento de las aplicaciones.
+d. Distribución más lenta de las cargas de trabajo.
+ANSWER: D
+
+35. En la tecnología de almacenamiento NO sería correcto afirmar:
+a. Los discos representan el sistema de almacenamiento más extendido en cualquier tipo de ordenador.
+b. Los discos SSD son la evolución de los discos SAS.
+c. Los sistemas PCM (Phase Change Memory) se plantean como un sustituto de los discos SSD.
+d. 3D Xpoint puede ser una alternativa a las memorias DRAM.
+ANSWER: B
+
+36. Indicar cuál de las siguientes opciones es falsa en cuanto a las ventajas de un dispositivo NAS (Network Attached Storage):
+a. Gracias a su conectividad, puedes compartir datos desde cualquier ordenador o dispositivo que esté conectado a una red.
+b. Ofrece capacidad de almacenar decenas de GB de información.
+c. Rapidez en el traspaso de archivos, gracias a protocolos como smb, ftp, NFS, CIFS.
+d. Es capaz de mapear su contenido a un servidor con el protocolo SCSI, pero no iSCSI.
+ANSWER: D
+
+37. El desarrollo de un servicio para una aplicación corporativa en el ámbito de una entidad de la función pública conforme a los principios de una arquitectura SOA, ¿a qué criterios debería atender?
+a. Este servicio podría componerse, constituyendo los denominados «building blocks», y a su vez ser reutilizado para desarrollar otras aplicaciones.
+b. El enfoque está en sus interfaces en lugar de los detalles de implementación (partes desacopladas).
+c. El servicio debe ser utilizado sin depender de su ubicación, su tecnología o su forma de invocación.
+d. Todas son ciertas.
+ANSWER: D
+
+38. ¿En qué consiste POSIX?
+a. Sirve para cambiar el modo de kernel a usuario.
+b. Se trata de un estándar que indica qué procedimientos de biblioteca debe proveer un sistema operativo portable.
+c. Al no ser estándar Windows no lo implementa.
+d. Se trata de un estándar abierto y gratuito.
+ANSWER: B
+
+39. Desde el punto de vista de la persistencia de datos mediante la tecnología Java o equivalentes, podemos utilizar el API JPA. En este contexto, ¿qué aporta la siguiente anotación: @Basic(fetch = FetchType.LAZY)?
+a. Permite leer una propiedad desde la base de datos la primera vez que un cliente intenta leer su valor (lectura perezosa).
+b. Permite leer una propiedad desde la base de datos de forma inmediata, es decir, cuando la entidad que la contiene es creada.
+c. Permite leer la propiedad desde la base de datos incluso si nunca es accedida.
+d. Todas las respuestas son falsas.
+ANSWER: A
+
+40. Indicar cuál de las siguientes opciones NO es un framework de desarrollo para PHP:
+a. Symfony.
+b. Laravel.
+c. CodeIgniter.
+d. Django.
+ANSWER: D
+
+41. En relación con el servicio JAAS definido en el entorno de desarrollo Java, ¿para qué dos propósitos puede ser utilizado?
+a. Autenticación y autorización de aplicaciones.
+b. Autenticación y autorización de usuarios.
+c. Autenticación de usuarios.
+d. Autorización de aplicaciones.
+ANSWER: B
+
+42. Desde el punto de vista contractual, ¿qué diferencia existe entre tomar la decisión de adquirir una licencia de derecho de uso de un programa informático o adquirir el programa desarrollado a medida?
+a. Ninguna, ya que en cualquier caso sería un contrato de servicios.
+b. La adquisición de una licencia sería un contrato de suministros y el desarrollo del software sería un contrato de servicios.
+c. La adquisición de una licencia sería un contrato de arrendamiento financiero y el desarrollo del software sería un contrato de servicios.
+d. Ninguna, ya que en cualquier caso sería un contrato de suministro.
+ANSWER: B
+
+43. Señalar cuál de los siguientes productos NO es una herramienta CRM (Customer Relationship Management):
+a. SAP Business One.
+b. SugarCRM.
+c. Salesforce.
+d. Apache OfBizSymfony.
+ANSWER: A
+
+44. Señale la afirmación verdadera sobre las bases de datos NoSQL en entornos bancarios:
+a. Cassandra es una bd NoSQL orientada a documentos.
+b. MongoDB es una bd NoSQL tipo clave-valor.
+c. Redis es una bd NOSQL diseñada para el SSOO CentOS.
+d. CouchDB permite creación de vistas combinadas similares a la ejecución de JOIN típicas del SQL.
+ANSWER: D
+
+45. Indicar la sentencia incorrecta sobre XML:
+a. Es un metalenguaje de marcado resultado de la simplificación de SGML por el W3C.
+b. En sus documentos siempre hay un elemento raíz que contiene a todos los demás.
+c. Es case sensitive.
+d. No pueden existir elementos vacíos en las muestras XML.
+ANSWER: D
+
+46. ¿Cuál de las siguientes NO es una característica de una función hash?
+a. Obtiene un resultado unidireccional e irreversible.
+b. No hace falta una clave pues el texto cifrado depende exclusivamente del texto claro original.
+c. Se trata de una función libre de colisiones en sentido estadístico.
+d. Todas las anteriores lo son.
+ANSWER: D
+
+47. A fin de poder determinar el impacto que tendría sobre una organización un incidente que afectara a la seguridad de la información o de los sistemas, y poder establecer la categoría del sistema, se han de tener en cuenta unas dimensiones de la seguridad. Indicar cuál de las siguientes NO es una de ellas:
+a. Disponibilidad.
+b. Autenticidad.
+c. Integridad.
+d. Usabilidad.
+ANSWER: D
+
+48. El ciclo de vida de una aplicación tiene las siguientes fases:
+a. Inicio, preparación, ejecución y actualización de la aplicación.
+b. Análisis, diseño, programación, pruebas e implementación.
+c. Inicio, análisis, programación e instalación.
+d. Análisis, preparación, estimación, subcontratación e implementación.
+ANSWER: B
+
+49. En el proceso de autenticación ante un sistema de información se pueden utilizar varios factores de autenticación, tales como «algo que se sabe», «algo que se tiene» o «algo que se es». La utilización de datos biométricos se asocia a:
+a. «Algo que se sabe».
+b. «Algo que se tiene».
+c. «Algo que se es».
+d. Los datos biométricos no se pueden utilizar en ningún factor de autenticación.
+ANSWER: C
+
+50. ¿Qué tipos de Evento están permitidos en BPMN?
+a. Eventos de inicio, intermedios, de fin y no interruptibles.
+b. Eventos de inicio, intermedios y capturadores.
+c. Eventos de inicio, intermedios y de fin.
+d. Eventos de inicio, de fin y lanzadores.
+ANSWER: C
+
+51. ¿Cuál de los siguientes patrones de diseño está clasificado como patrón de comportamiento?
+a. Prototype.
+b. Singleton.
+c. Facade.
+d. Memento.
+ANSWER: D
+
+52. En el software podemos distinguir técnicas de pruebas de caja blanca, también llamadas estructurales, y técnicas de prueba de caja negra también llamadas de comportamiento. ¿Cuál de las siguientes es una técnica de prueba de caja blanca?
+a. Pruebas de decisión.
+b. Particiones o clases de equivalencia.
+c. Análisis de valores límite.
+d. Grafos causa-efecto.
+ANSWER: A
+
+53. ¿Cuál de los siguientes objetos debe tenerse en cuenta para estimar el tamaño del software mediante la técnica de los Puntos Objeto?
+a. Número de clases clave.
+b. Los informes.
+c. Complejidad de los casos de uso.
+d. Las consultas externas.
+ANSWER: B
+
+54. ¿Qué ocurre cuando se genera una rama en un sistema de control de versiones?
+a. Se tienen dos copias que evolucionan de forma independiente.
+b. Los cambios hechos en local se integran sobre el repositorio.
+c. Se aprueba el fichero fuente a partir del cual se pueden realizar cambios subsiguientes.
+d. Une dos conjuntos de cambios sobre un fichero o conjunto de ficheros en una revisión.
+ANSWER: A
+
+55. De las siguientes métricas relacionadas con el esfuerzo gastado durante el mantenimiento, ¿cuál permite evaluar la mantenibilidad?
+a. Tiempo de reconocimiento del problema.
+b. Tiempo de análisis del problema.
+c. Tiempo de corrección o modificación.
+d. Todas las anteriores pueden ser métricas válidas para evaluar la mantenibilidad.
+ANSWER: D
+
+56. Señale cuál de las siguientes opciones es totalmente correcta en relación con GitFlow:
+a. Define una serie de «reglas» para facilitar el trabajo en equipo.
+b. El trabajo se organiza en dos ramas principales, normalmente llamadas master y develop.
+c. Cada vez que se incorpora código a la rama master, se genera una nueva versión.
+d. Todas son ciertas.
+ANSWER: D
+
+57. ¿Cuál de los siguientes NO es un método de recuperación de la información?
+a. Modelo de lógica borrosa.
+b. Modelo de lógica booleana realimentada.
+c. Modelo de truncado.
+d. Modelo de sistemas expertos mediante redes semánticas.
+ANSWER: C
+
+58. Mantener en la base de datos de incidencias información relativa al tiempo que lleva abierta la incidencia se debe a:
+a. Externalización de la resolución del problema pasado un tiempo prefijado.
+b. Verificar el cumplimiento de los acuerdos de nivel de servicio.
+c. Tener la capacidad de escalar la incidencia pasado un plazo determinado.
+d. Dar la incidencia por cerrada si no ha habido reclamaciones de su estado.
+ANSWER: B
+
+59. ¿Cuál es la definición que mejor describe Ionic Framework?
+a. Es un entorno de desarrollo de aplicaciones móviles para iOS.
+b. Es un entorno de desarrollo de aplicaciones móviles para Android.
+c. Es un conjunto de herramientas de fuentes abiertas para desarrollar interfaces de usuario para construir aplicaciones móviles y de escritorio.
+d. Es un conjunto de herramientas de fuentes abiertas para desarrollar aplicaciones móviles y de escritorio únicamente desplegables a través de Apple Store.
+ANSWER: C
+
+60. ¿A cuál de los siguientes contratos NO les es de aplicación la Ley 9/2017, de Contratos del Sector Público (LCSP)?
+a. A los contratos onerosos de obras que celebren las Administraciones de las  comunidades autónomas.
+b. A los contratos relativos a servicios financieros relacionados con la emisión, compra, venta o transferencia de valores o de otros instrumentos financieros.
+c. A los contratos subvencionados de servicios sujetos a regulación armonizada por entidades que tengan la consideración de poderes adjudicadores, que celebren otras personas físicas o jurídicas.
+d. La LCSP se aplica a todos los contratos anteriores.
+ANSWER: B

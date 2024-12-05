@@ -456,12 +456,18 @@ class QuizQuestionPool:
                             if q.topic is not None:
                                 # Convert question call topic into ref call topic
                                 tc = TopicConverter(body)
-                                q_ref_topic = tc.find_eq_topic(int(q.topic_call), int(q.topic), int(topic_call))[0]
+                                q_ref_topics = tc.find_eq_topic(int(q.topic_call), int(q.topic), int(topic_call))
 
-                                # If question topic and ref topic matches
-                                if str(topic) == str(q_ref_topic):
-                                    printt(f"El tema {str(topic)} se corresponde con el tema {str(q_ref_topic)}")
-                                    quiz_questions.append(q)
+                                if len(q_ref_topics) > 0:
+                                    # Take the first result
+                                    q_ref_topic = q_ref_topics[0]
+
+                                    # If question topic and ref topic matches
+                                    if str(topic) == str(q_ref_topic):
+                                        quiz_questions.append(q)
+
+
+
 
         part = QuizQuestionPart(quiz_questions, None)
         quiz_parts.append(part)
@@ -1100,7 +1106,7 @@ def quiz_select():
 def select_exam(body_id, def_call, mode, question_pool):
     print("")
     ref_call_input = input(
-        f"Introduzca convocatoria del temario a emplear [S/N] (defecto: {def_call}): ").upper()
+        f"Introduzca convocatoria del temario a emplear (defecto: {def_call}): ").upper()
     if ref_call_input == '':
         ref_call = def_call
     else:
@@ -1171,7 +1177,7 @@ def select_exam(body_id, def_call, mode, question_pool):
 def select_topic(body_id, def_call, mode, question_pool):
     print("")
     ref_call_input = input(
-        f"Introduzca convocatoria del temario a emplear [S/N]: (defecto: {def_call}): ").upper()
+        f"Introduzca convocatoria del temario a emplear: (defecto: {def_call}): ").upper()
     if ref_call_input == '':
         ref_call = def_call
     else:

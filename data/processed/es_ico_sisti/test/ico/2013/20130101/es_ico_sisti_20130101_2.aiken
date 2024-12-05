@@ -1,0 +1,433 @@
+1. El objetivo de la validación de requisitos es asegurarse de que:
+a) El sistema que se está desarrollando realiza lo que especifican los requisitos.
+b) Se está construyendo el sistema correctamente, ya que se sigue el modelo de desarrollo de software.
+c) Los requisitos no funcionales especificados son razonables.
+d) Los requisitos especificados se corresponden con las necesidades del cliente.
+ANSWER: D
+
+2. El lenguaje ANSI SQL…
+a) Es un lenguaje marcado de etiquetas.
+b) Es un lenguaje de consultas de Bases de Datos que incorpora la gestión avanzada de procesos.
+c) Es un lenguaje de consultas de Bases de Datos Transaccionales.
+d) Es el lenguaje de consultas de Bases de Datos más utilizado para Bases de Datos Relacionales.
+ANSWER: D
+
+3. ¿Cuál de los siguientes es el propósito de la fase de normalización en las bases de datos relacionales?
+a) Mejorar el tiempo requerido por consultas complejas.
+b) Evitar la aparición de inconsistencias y redundancias en los datos.
+c) Disminuir el espacio en disco que ocupa la base de datos.
+d) Lograr que todos los campos numéricos queden con el mismo formato: mismos dígitos en la parte entera y mismo número de decimales.
+ANSWER: B
+
+4. El diccionario de datos de una base de datos relacional:
+a) Permite la traducción de la información a distintos idiomas.
+b) Representa los objetos del esquema como metadatos, es decir como datos almacenados en tablas de la propia base de datos.
+c) Es el documento que se entrega al cliente y que explica de forma pormenorizada el significado de los distintos términos utilizados en la base de datos, así como sus relaciones.
+d) Se utiliza para comunicar distintas bases de datos entre sí.
+ANSWER: B
+
+5. La organización interna de la memoria principal de un equipo informático puede ser:
+a) Por bytes, por estructuras de datos o por impulsos eléctricos.
+b) Por palabras (2D) o por bits (3D).
+c) Por rangos (AD) o por bits (3D).
+d) Síncrona o asíncrona.
+ANSWER: B
+
+6. 1FN, 2FN, 3FN y Forma Normal de Boyce-Codd son…
+a) Distintas jerarquías de análisis sobre teorías de conjuntos de datos.
+b) Teoremas de Probabilidad de sucesos independientes.
+c) Formas Normales del estado de la información en una base de datos.
+d) Reglas que proporcionan los criterios para determinar el grado de vulnerabilidad de una tabla a inconsistencias y anomalías lógicas.
+ANSWER: D
+
+7. ¿Qué información añade la clave en la lista ordenada? :
+a) Establece el número de elementos.
+b) Indica el puntero al siguiente nodo de la lista.
+c) Indica la posición de cada nodo dentro de la lista.
+d) Tiene valor “null”.
+ANSWER: C
+
+8. Un fichero XML puede ser utilizado para...
+a) Programar las funciones de un brazo robotizado.
+b) Sustituir como almacén de datos a una Base de Datos Relacional.
+c) Mejorar el rendimiento de un escáner de retina.
+d) Indexar texto en un analizador léxico-sintáctico.
+ANSWER: B
+
+9. ¿En cuál de las siguientes topologías se cumple que todos los nodos están conectados a un nodo central?
+a) Topología en anillo.
+b) Topología punto a punto.
+c) Topología en estrella.
+d) Topología en Bus.
+ANSWER: C
+
+10. En el modelo OSI, la capa de aplicación:
+a) Es la capa que se encarga de mantener y controlar el enlace entre dos dispositivos que están transmitiendo datos. Sigue a la capa de transporte.
+b) Es la capa superior, la más alejada del nivel físico, y viene tras la capa de presentación.
+c) Se encarga del transporte de datos de paquetes, y viene tras la capa de red.
+d) Se ocupa de la topología de red.
+ANSWER: B
+
+11. Indique la opción correcta sobre el concepto general de Sistema Operativo:
+a) El sistema operativo simplifica el manejo del hardware a los programas que se ejecuten en una máquina.
+b) El sistema operativo asigna recursos a los programas que se ejecuten en una máquina.
+c) El sistema operativo coordina los componentes de la máquina optimizando su rendimiento.
+d) Todas son correctas.
+ANSWER: D
+
+12. Un sistema multitarea…
+a) permite que varios usuarios puedan ejecutar programas a la vez.
+b) permite ejecutar diversos programas al mismo tiempo.
+c) permite que un mismo ordenador pueda tener varios microprocesadores resolviendo la misma tarea.
+d) Las respuestas (b) y (c) son ciertas.
+ANSWER: B
+
+13. Es parte correspondiente a la tarjeta de red de un servidor:
+a) Adaptador.
+b) Protocolo.
+c) Servicio.
+d) Cliente para redes.
+ANSWER: A
+
+14. Las clases de redes según su topología física son:
+a) Bus, estrella, anillo, árbol, malla.
+b) PAN, LAN, MAN, WAN.
+c) Alámbrica, Inalámbrica.
+d) Todas son ciertas.
+ANSWER: A
+
+15. El sistema de archivos utilizado por Windows 7 es:
+a) FAT
+b) NTFS
+c) Ambos
+d) En árbol
+ANSWER: B
+
+16. Un árbol de dominios es:
+a) Un conjunto de dominios que mantienen un solo controlador principal.
+b) Un conjunto de ordenadores que tienen un sufijo DNS común.
+c) Un conjunto de dominios que confían entre sí y que pertenecen a un ámbito de denominación contiguo.
+d) Un conjunto de dominios que pertenecen a un espacio de nombres no contiguo.
+ANSWER: C
+
+17. ¿Qué es un GPO (Group Policy Object)?
+a) Un elemento de almacenamiento de información independiente de Active Directory.
+b) Un conjunto de valores de configuración relacionado con un contenedor de Active Directory.
+c) Una herramienta de asignación de permisos de carpeta.
+d) Un grupo de trabajo no asociado con objetos de dominio.
+ANSWER: B
+
+18. En el fichero /etc/cron.allow de una distribución de LINUX está presente el login de los usuarios user01 y user01. Esto indica que:
+a) Sólo los usuarios user01 y user02 pueden utilizar el comando crontab -e
+b) Sólo los usuarios user01, user02 y root pueden utilizar el comando crontab -e
+c) Los usuarios user01 y user02 no pueden utilizar el comando crontab -e
+d) Los usuarios user01 y user02 pueden utilizar crontab -e y crond
+ANSWER: A
+
+19. La aplicación o un conjunto de aplicaciones que almacena y organiza la información sobre los usuarios de una red de ordenadores, sobre recursos de red, y permite a los administradores gestionar el acceso de usuarios a los recursos sobre dicha red recibe el nombre de:
+a) Sistema de ficheros.
+b) Servicio de nombres.
+c) Servicio de agente remoto.
+d) Servicio de directorio.
+ANSWER: D
+
+20. Un proceso daemon se caracteriza por :
+a) Actuar de forma sospechosa o malintencionada.
+b) Ser un proceso en segundo plano adoptado por el proceso init y desvinculado del terminal.
+c) Recoger los parámetros directamente de la entrada estándar.
+d) Haber completado su ejecución pero seguir estando en la tabla de procesos a la espera del padre.
+ANSWER: B
+
+21. El administrador de un sistema operativo:
+a) Necesariamente conoce todas las palabras clave de todos los usuarios.
+b) Por seguridad no conoce la palabra clave de ningún usuario. Además no puede modificar ninguna palabra clave ni acceder a las cuentas de un usuario.
+c) Por seguridad cambia todas las palabras clave una vez por semana.
+d) No conoce necesariamente todas las palabras clave, pero puede modificarlas y acceder a la cuenta de todos los usuarios.
+ANSWER: D
+
+22. Respecto al acceso a los recursos de un sistema operativo:
+a) Es compartido siempre y por todos los usuarios.
+b) Los recursos son asignados a los usuarios por el administrador del sistema, que decide qué recursos son compartidos y por qué usuarios.
+c) Cada usuario tiene sus recursos propios, no existe la posibilidad de compartir.
+d) El recurso queda en propiedad del usuario que decida utilizarlo y hasta que acabe de hacerlo, aunque todos los sistemas disponen de un time-out, tiempo máximo de utilización de recursos.
+ANSWER: B
+
+23. En el lenguaje de programación JAVA, el método más recomendado, desde el punto de vista formal, para recorrer un conjunto de datos resultante de un acceso a datos es:
+a) Utilizar un iterador.
+b) Utilizar un bucle for
+c) Utilizar un bucle foreach
+d) Todas las anteriores son igualmente óptimas.
+ANSWER: A
+
+24. PHP es…
+a) un lenguaje de programación de bajo nivel.
+b) un lenguaje de scripting orientado al desarrollo web.
+c) un lenguaje de consultas para Sistemas Gestores de Bases de Datos.
+d) Todas las anteriores son ciertas.
+ANSWER: B
+
+25. ¿En el lenguaje de programación Java, qué código de los siguientes tiene que ver con la herencia?
+a) public class Componente extends Clase
+b) public class Componente inherit Clase
+c) public class Componente implements Clase
+d) public class Componente belong to Clase
+ANSWER: A
+
+26. En un lenguaje de programación débilmente tipado:
+a) Un valor de un tipo puede ser tratado como de otro tipo.
+b) Un valor de un tipo nunca puede ser tratado como de otro tipo.
+c) Un valor de un tipo puede ser tratado como de otro tipo siempre que se realice una conversión de forma explícita.
+d) No existen lenguajes de programación débilmente tipados.
+ANSWER: A
+
+27. De una página JSP en relación con un servlet se puede afirmar que :
+a) Son componentes plenamente independientes.
+b) La dependencia se establece del servlet hacia la JSP.
+c) La dependencia se establece de la página dinámica hacia el servlet.
+d) Ninguna de las anteriores afirmaciones es correcta.
+ANSWER: C
+
+28. Las páginas JSP:
+a) Se traducen a servlets en tiempo real.
+b) El rendimiento de una página JSP es mejor que el de su servlet equivalente.
+c) Al ejecutar un JSP se obtiene un código PHP.
+d) Es una variante del lenguaje JavaScript.
+ANSWER: A
+
+29. ¿Cuál de los siguientes tipos de Enterprise JavaBeans (EJB) tiene un funcionamiento asíncrono?
+a) EJB de entidad con persistencia gestionada por el contenedor.
+b) EJB de sesión sin estado.
+c) EJB dirigido por mensajes.
+d) Todos los tipos de EJB.
+ANSWER: C
+
+30. Se entiende por “protocolo del objeto” :
+a) El conjunto de instrucciones que gestionan los datos del objeto.
+b) El conjunto de atributos del objeto.
+c) El conjunto de mensajes al que puede responder el objeto.
+d) El conjunto de identificadores del objeto.
+ANSWER: C
+
+31. ¿Qué código asociarías a una Interfaz en Java?
+a) public class Clase interface Componente
+b) Clase cp = new Componente (interfaz)
+c) public class Clase implements Componente
+d) Componente cp = new Componente.interface
+ANSWER: C
+
+32. ¿En C++, dada una clase abstracta, se pueden construir objetos de esa clase, declarar punteros a esa clase y declarar parámetros por referencia a esa clase?
+a) No se pueden ni construir objetos, ni declarar parámetros por referencia pero sí se pueden declarar punteros a la clase.
+b) No se pueden construir objetos, sí se pueden declarar punteros y parámetros por referencia.
+c) No se pueden hacer ninguna de las 3 acciones hay que utilizar la herencia de la clase abstracta y las acciones se hacen en la clase concreta.
+d) Se pueden hacer las 3 acciones: construir objetos de la clase, declarar punteros y parámetros por referencia a esa clase.
+ANSWER: B
+
+33. ¿Cuál es el significado de un rombo en un diagrama de flujo?
+a) Una actividad.
+b) Decisión (ya sea mediante pregunta o una expresión lógica).
+c) Conector, enlace de actividades.
+d) Fin del diagrama.
+ANSWER: B
+
+34. El Diagrama de Flujo de Datos es una Técnica de Análisis orientada a :
+a) Los Estados.
+b) La Estructura de Datos.
+c) Los Objetos.
+d) Las Funciones.
+ANSWER: D
+
+35. El lenguaje Java incorpora un interface para un conocido patrón de diseño que permite acceder secuencialmente a los elementos de una colección. ¿Cómo se llama este interface?
+a) Iterator.
+b) Comparator.
+c) List.
+d) No existe en Java ningún interfaz con estas características.
+ANSWER: A
+
+36. Algunas técnicas para manejar la concurrencia y sus efectos en un sistema de gestión de bases de datos son :
+a) Bloqueos, time-stamping, predictivas.
+b) Estimativas, bloqueos, serialización.
+c) Bloqueos, marcas de tiempo, protocolos optimistas y pesimistas.
+d) Bloqueos, indeterminaciones, serialización.
+ANSWER: C
+
+37. En un SGBD jerárquico, la relación entre padre e hijos se dice que es de tipo:
+a) 1 a n
+b) n a 1
+c) n a m
+d) Ninguna de las anteriores
+ANSWER: A
+
+38. ¿Cuál de los siguientes elementos en una Base de Datos Relacinal NO se utiliza para garantizar la integridad referencial de un esquema de Base de Datos?
+a) Clave Principal
+b) Clave Foránea
+c) Índice
+d) Cursor Parametrizado
+ANSWER: D
+
+39. Teniendo en cuenta el siguiente esquema Entidad-Relación:
+
+EDIFICIO Dirección
+EDIFICIO Nombre*
+EDIFICIO 1 situación N DESPACHO
+DESPACHO Número*
+DESPACHO Superficie
+
+*Nota: Los atributos subrayados son los atributos clave.
+a) Hay dos Entidades Fuertes.
+b) Hay una Entidad Débil y otra fuerte, y el paso a tablas quedaría de la siguiente forma:
+TABLA EDIFICIO(nombre, dirección); TABLA DESPACHO(nombre, número, superficie);
+donde {nombre} referencia EDIFICIO
+c) Hay una Entidad Débil y otra fuerte, y el paso a tablas quedaría de la siguiente forma:
+TABLA EDIFICIO(nombre, dirección); TABLA DESPACHO(número, nombre, superficie);
+donde {nombre} referencia EDIFICIO
+d) Se generarían exactamente 3 tablas en la Base de Datos al hacer el paso a tablas.
+ANSWER: B
+
+40. En términos de Base de Datos, Oracle 11g es…
+a) Una Base de Datos Relacional.
+b) Un Sistema Gestor de Bases de Datos Relacionales.
+c) Un fabricante de software.
+d) Todas las anteriores son ciertas.
+ANSWER: B
+
+41. Señale cuál de los siguientes términos no constituye una solución de interface de acceso a
+bases de datos :
+a) ODBC (Open Database Connectivity).
+b) RDO (Remote Data Objects).
+c) OLE DB (Object Linking and Embedding for Databases).
+d) RDMBS (Remote DataBase Management System).
+ANSWER: D
+
+42. ¿Cuáles son las propiedades que toda transacción debe poseer? :
+a) Atomicidad, Coherencia, Aislamiento, Pervivencia.
+b) Atomicidad, Consistencia, Individualismo y Persistencia.
+c) Atomicidad, Coherencia, Aislamiento, Persistencia.
+d) Atomismo, Consistencia, Aislamiento y Persistencia.
+ANSWER: C
+
+43. En una consulta SQL que agrupa fila por el atributo “B” se quiere incluir una condición SUM(A)<0 para rechazar todos los grupos tales que la suma de sus valores “A” sea positiva o 0. La sección más lógica para incluimos la condición es:
+a) La sección SELECT
+b) La sección WHERE
+c) La sección GROUP BY
+d) La sección HAVING
+ANSWER: D
+
+44. La etiqueta MAP en HTML :
+a) Sirve para identificar mapas en una página HTML.
+b) Permite referenciar páginas con contenido GIS.
+c) Se utiliza para definir imágenes con áreas diferencias donde el navegante puede pulsar
+por separado.
+d) Se pueden definir en su interior directamente las imágenes que se van a mapear.
+ANSWER: C
+
+45. Los documentos XML son válidos y bien formados :
+a) Cuando están creados también a partir de SGML.
+b) Cuando aplican las reglas de sintaxis XML.
+c) Cuando aplican las limitaciones que impone un DTD, o esquema.
+d) Cuando aplican las reglas de sintaxis XML y al mismo tiempo aplican las limitaciones que impone un DTD o esquema.
+ANSWER: D
+
+46. En el lenguaje de marcado extensible (XML), el tipo de atributo que permite especificar un número único no repetible y que puede ser referenciado por elemento se denomina :
+a) ID.
+b) IDREF.
+c) NOTATION.
+d) PCDATA.
+ANSWER: A
+
+47. Para indicar que una conexión AJAX es síncrona o asíncrona:
+a) Incluimos un tercer parámetro en la llamada al método open () de la conexión.
+b) Añadimos un tercer parámetro al método crearConexion() de la conexión AJAX.
+c) Añadimos un tercer parámetro al método send() de la conexión AJAX.
+d) Utilizamos los métodos sendSynchronous o sendAsyncrhonous del objeto que almacena la conexión.
+ANSWER: A
+
+48. Uno de los siguientes servicios no se encuentra en la instalación de un servidor. Indicar cuál.
+a) UTC Server
+b) Web Server
+c) Mail Server
+d) DNS Server
+ANSWER: A
+
+49. El resultado de ejecutar el comando “tar czvf /dev/fd0 /etc” es:
+a) Se crea un archivo comprimido en cinta con la información del directorio /etc.
+b) Se crea un archivo comprimido en disquete con la información del directorio /etc.
+c) Se crea un archivo con el contenido del fichero de dispositivo /dev/fd0 en el directorio /etc.
+d) Ninguna respuesta anterior es correcta.
+ANSWER: B
+
+50. El tipo de cortafuegos que permite hacer filtrado a nivel IP se denomina:
+a) Firewall nivel de aplicación.
+b) Firewall nivel circuito.
+c) Firewall de filtrado de paquetes.
+d) Firewall personal.
+ANSWER: C
+
+51. En JavaScript, las cadenas literales (constantes) se escriben:
+a) Como secuencias de caracteres encerrados entre comillas simples.
+b) Como secuencias de caracteres encerrados entre comillas simples o dobles.
+c) Como secuencias de caracteres encerrados entre llaves.
+d) Como secuencias de caracteres encerrados entre corchetes.
+ANSWER: B
+
+52. Un proxy Web:
+a) Es un equipo cliente que se puede conectar a un servidor para descargar archivos independientemente del sistema operativo utilizado en cada equipo.
+b) Es un software que permite el acceso a Internet, interpretando la información de archivos y sitios web para que éstos puedan ser leídos.
+c) Hace de intermediario entre un equipo que hace una petición y el servidor destino.
+d) Controla los canales de comunicación de la red para que las peticiones conecten con la red de una posición remota, reconoce la petición de la red y realiza la autentificación necesaria para registrar a un usuario en la red.
+ANSWER: C
+
+53. ¿Qué mecanismos de autenticación de usuarios utiliza habitualmente la banca electrónica?
+a) Certificados Digitales.
+b) Mecanismos de autenticación de doble factor.
+c) Geolocalización.
+d) Todas las anteriores.
+ANSWER: D
+
+54. ¿Qué acompaña a un certificado digital X.509?
+a) La clave privada.
+b) La clave pública.
+c) Ambas.
+d) Ninguna de ellas.
+ANSWER:
+
+55. Qué diferencia existe entre un certificado auto firmado y un certificado emitido por la FNMT (Fábrica Nacional de Moneda y Timbre).
+a) Ninguna: ambos son idénticos.
+b) El coste del certificado y la autenticación en los navegadores.
+c) El coste del certificado exclusivamente.
+d) El algoritmo asimétrico de cifrado puede ser vulnerado por un ataque Kasiski en el certificado auto firmado y en el emitido por la FNMT no.
+ANSWER: B
+
+56. A cuál de los siguientes protocolos de cifrado de datos para WIFI corresponde la siguiente descripción: “presenta mejoras como generación dinámica de la clave de acceso. Las claves se insertan como dígitos alfanuméricos”
+a) WEP
+b) WPA
+c) Filtrado MAC
+d) IPSEC
+ANSWER: B
+
+57. ¿Qué procedimiento puede prevenir los ataques de intermediarios también llamados “Man-in-the-middle”?
+a) Forzar a todos los dispositivos de una WLAN para que autentiquen y monitoreen cualquier dispositivo desconocido.
+b) Habilitar puntos de acceso para enviar un SSID a cada dispositivo que quiera utilizar la red.
+c) Configurar el filtrado de MAC en todos los puntos de acceso autorizados.
+d) Deshabilitar la transmisión del SSID.
+ANSWER: A
+
+58. ¿Para qué están optimizados los servidores LDAP?
+a) Búsquedas
+b) Actualizaciones
+c) Búsquedas y actualizaciones
+d) Borrados
+ANSWER: A
+
+59. ¿Cuál es el formato de intercambio de datos en texto plano para representar contenidos LDAP?
+a) XML
+b) TIFF
+c) XBRL
+d) LDIF
+ANSWER: D
+
+60. ¿Cuál es el API Java que proporciona funcionalidades para trabajar con LDAP?
+a) JDBC
+b) JNDI
+c) JMS
+d) JAX-WS
+ANSWER: B

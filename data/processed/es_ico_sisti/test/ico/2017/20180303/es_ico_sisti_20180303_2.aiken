@@ -1,0 +1,460 @@
+1. En una nueva aplicación a desarrollar, consideras que tendrá una complejidad un 20% mayor que los otros 4 proyectos similares ya terminados y cuya duración fue de 8 meses. También comparas las características de ambos proyectos (categoría del personal, formación en herramientas, etc.) para retocar la estimación a la baja. Estás realizando una estimación…
+a) Estimación análoga o por analogía.
+b) Estimación paramétrica.
+c) Estimación descendente.
+d) Estimación ascendente.
+ANSWER: A
+
+2. Qué es un Diagrama de Contexto de Sistema en Ingeniería de software:
+a) Es un diagrama que define los límites entre el sistema, o parte del sistema, y su entorno, mostrando las entidades que interactúan con él.
+b) Es una vista de alto nivel de un sistema.
+c) Un diagrama que muestra el sistema en su entorno y las entidades externas que proporcionan y reciben información desde y hacia el sistema.
+d) Todas son correctas.
+ANSWER: D
+
+3. En relación con las pruebas de carga de un sistema cuál de las siguientes afirmaciones es correcta:
+a) Ayudan a identificar la máxima capacidad operativa de una aplicación, así como a identificar cuellos de botella y las causas de posible degradación del rendimiento.
+b) Se usan para verificar si el sistema es capaz de funcionar adecuadamente en diferentes versiones o configuraciones de entornos de hardware y software.
+c) Es necesario que las realicen usuarios experimentados para probar la efectividad de la funcionalidad completa.
+d) Implican someter a un sistema a una carga determinada durante un período de tiempo, mediante pruebas de recuperación, para determinar cómo se comporta en un uso prolongado.
+ANSWER: A
+
+4. ¿Cuándo se puede decir que un Diseño esta normalizado según la Forma Normal de Boyce Codd (FNBC)?
+a) Cuando no existen dependencias funcionales parciales o transitivas en ninguna relación.
+b) Cuando las dependencias funcionales asociadas a cada relación, tienen como antecedente la clave principal de dicha relación.
+c) Cuando no existen dependencias funcionales en las relaciones con atributos primarios en el consecuente.
+d) Todas las anteriores son correctas.
+ANSWER: D
+
+5. En cuanto a la integridad referencial, se pueden producir errores en los datos …
+a) Si modificamos el valor de la clave principal de un registro, aunque no tenga tablas relacionadas.
+b) Si borramos una fila de la tabla principal y ese registro está referenciado por alguna fila de otra tabla relacionada.
+c) Si borramos una fila de la tabla secundaria que referencia algún registro de la tabla principal.
+d) En todos los casos anteriores.
+ANSWER: B
+
+6. ¿A qué se refiere el concepto de atomicidad en una transacción?
+a) Las transacciones atómicas están formadas por una sola operación
+b) Puede tener varias operaciones, pero se deben ejecutar todas sus operaciones o ninguna
+c) Respeta la integridad referencial y la relación entre dos tablas permanece sincronizada durante las operaciones de actualización y eliminación de la transacción.
+d) La puede realizar un solo usuario, pero no se puede hacer en accesos concurrentes.
+ANSWER: B
+
+7. La diferencia entre organizar la información en un fichero binario y en una base de datos es:
+a) Ambos son iguales, pues se accede a través de registros.
+b) Generalmente el fichero binario está organizado en tablas, y cada tabla tiene una serie de registros.
+c) Generalmente la base de datos está organizada en tablas, y cada tabla tiene una serie de registros a los cuales se accede a través de una clave exclusiva para cada registro.
+d) La organización de los datos en un fichero binario es una consecución de campos independientes que no están relacionados entre sí, mientras que los campos de la base de datos se agrupan en tablas con una clave única por tabla.
+ANSWER: C
+
+8. Organización de la memoria: indica la respuesta correcta:
+a) La capacidad de memoria viene dada por el bus de direcciones que establece el máximo número de posiciones direccionables por el ordenador.
+b) La capacidad de memoria viene dada por el bus de datos que establece el máximo volumen de datos del ordenador.
+c) La capacidad de memoria viene dada por el bus de control que establece el máximo número de bits transmitidos desde la memoria a la CPU.
+d) Ninguna de las anteriores.
+ANSWER: A
+
+9. Cuál de las siguientes afirmaciones es válida para el modo de acceso aleatorio a memoria RAM (Random Access Memory):
+a) Proporciona acceso directo y tiempo constante e independiente de la posición de memoria a la que accedemos.
+b) El tiempo de acceso es dependiente de la posición de memoria que accedemos
+c) Proporciona acceso directo a un sector y acceso secuencial a la posición dentro del sector, siendo el tiempo de acceso dependiente de la posición en el sector
+d) Proporciona acceso por contenido
+ANSWER: A
+
+10. Tipos de datos en lenguaje C. Seleccionar la respuesta verdadera
+a) El tipo de datos char permite declarar variables que almacenen únicamente letras mayúsculas y minúsculas.
+b) Se puede utilizar más de un tipo para almacenar números reales.
+c) Permite definir sólo constantes simbólicas numéricas y la instrucción empieza con #define.
+d) El tipo de datos int es para almacenar sólo enteros positivos.
+ANSWER: B
+
+11. Seleccionar la sentencia verdadera para el lenguaje de programación Python
+a) Es un lenguaje compilado.
+b) Es un lenguaje muy utilizado en analítica de datos, pero no tiene soporte para el desarrollo de aplicaciones web.
+c) Las funciones se definen mediante la palabra clave def.
+d) Es un lenguaje de tipado estático.
+ANSWER: C
+
+12. A qué lenguaje corresponde el siguiente fragmento de código que calcula e imprime la suma de los números entre 1 y 50
+
+n = 100
+  h = ''
+  while n >= 20:
+    h += ' %i' % n
+    n -= 5
+  print h
+
+a) Perl
+b) Phyton
+c) C#
+d) R
+ANSWER: B
+
+13. ¿A qué se refiere el término constructor cuando hablamos del lenguaje Java?
+a) Es el nombre del compilador que permite construir la versión de la máquina virtual a partir del código fuente.
+b) Es un entorno de desarrollo de libre distribución con licencia GNU
+c) Es el tipo de objetos Java que se encargan de la capa de almacenamiento de datos.
+d) Es el método de una clase que se llama siempre que se crea un objeto de la clase.
+ANSWER: D
+
+14. El lenguaje de programación Java proporciona diferentes plataformas de desarrollo de software. Indica la respuesta correcta:
+a) La plataforma Java SE permite desarrollar aplicaciones de escritorio.
+b) La plataforma Java EE proporciona un contexto de desarrollo de aplicaciones empresariales, pero no de aplicaciones web.
+c) La plataforma Java Web es un subconjunto de la plataforma Java SE.
+d) Todas las afirmaciones anteriores son correctas.
+ANSWER: A
+
+15. Que característica de las siguientes NO corresponde al lenguaje JAVA
+a) Tipado dinámico
+b) Interfaces funcionales
+c) Expresiones lambda
+d) Recolección de basura
+ANSWER: A
+
+16. ¿Qué valor imprime al ejecutarse el siguiente fragmento de código?
+for (int i = 0; i < 7; i++){
+  if (i % 2 == 0){
+    i++;
+    system.out.print(i);
+  }
+  else{
+    system.out.print(i);
+  }
+}
+a) 123456
+b) 1246
+c) 1357
+d) 100101
+ANSWER: C
+
+17. Cuando en programación se utiliza la reutilización de componentes…
+a) Sólo se refiere a reutilizar código, no se refiere al hecho de reutilizar especificaciones de requisitos o procedimientos de pruebas.
+b) Se utiliza cuando los desarrolladores de software no están muy cualificados y aumenta el coste del software.
+c) No se considera reutilización de componentes cuando se compra el componente software a una empresa externa.
+d) Se refiere al hecho de emplear elementos de desarrollo software que ya se han utilizado en desarrollos anteriores.
+ANSWER: D
+
+18. Centrándose en la programación declarativa, indica qué afirmaciones son ciertas:
+a) En la programación declarativa se describen una secuencia de acciones que permiten llegar a la solución de un problema.
+b) En la programación declarativa se describe la solución lógica al problema, pero no se detallan las acciones para llegar a la solución.
+c) Java y C son los lenguajes de programación declarativa más conocidos.
+d) Todas las anteriores son ciertas.
+ANSWER: B
+
+19. Respecto a la Programación Orientada a Componentes (POC) cuál de las siguientes afirmaciones es falsa:
+a) Aparece como una variante natural de la programación orientada a objetos (POO) para los sistemas abiertos
+b) El uso de las componentes requiere el conocimiento detallado de su código fuente
+c) Los usuarios de la POC son los desarrolladores de aplicaciones que necesitan reutilizar componentes ya probados para construir sus aplicaciones de forma más rápida y robusta.
+d) Los componentes son diseñados sin saber quién, cómo ni cuándo los utilizará.
+ANSWER: B
+
+20. Los símbolos más utilizados en los diagramas de flujo son:
+  1 Rectángulo con los bordes redondeados
+  2 Rombo
+  3 Rectángulo con los bordes en ángulo recto
+  4 Paralelogramo
+  5 Flecha
+¿Qué representa cada uno de los símbolos?
+a) 1: Entrada/Salida de datos; 2: Condición o decisión; 3: Inicio/Fin de proceso, 4: proceso, operación; 5: Línea de Flujo.
+b) 1: Proceso, operación; 2: Condición o decisión; 3: Inicio/Fin del proceso; 4: Entrada/Salida de datos; 5: Línea de Flujo.
+c) 1: Inicio/Fin del proceso; 2: Condición o decisión; 3: Entrada/Salida de datos; 4: proceso, operación; 5: Línea de Flujo.
+d) 1: Inicio/Fin del proceso; 2: Condición o decisión; 3: proceso, operación; 4: Entrada/Salida de datos; 5: Línea de Flujo.
+ANSWER: D
+
+21. Elige la opción correcta para los tipos de relaciones válidas entre clases en un diagrama UML
+a) Herencia, composición, agregación, asociación y uso
+b) Uno o muchos, 0 o muchos, muchos a muchos o número fijO
+c) Abstractas, parametrizadas, dependientes y genéricas
+d) Todas son válidas
+ANSWER: A
+
+22. Existen tres tipos de patrones: creación, estructurales y de comportamiento. Elige la opción que contenga un patrón de cada tipo:
+a) Singleton, Compositer y Observer
+b) Command, memento y visitor
+c) Decorator, Façade y Proxy
+d) Builder, MVC, Abstract Factory
+ANSWER: A
+
+23. ¿Cuál sería la sentencia a ejecutar en un gestor relacional MySQL para otorgar todos los permisos de acceso a las tablas pertenecientes a la base de datos ‘mibase_datos’ al usuario con identificador ‘miusuario’?
+a) GRANT ALL PRIVILEGES ON 'miusuario'.* TO 'mibase_datos'@'localhost';
+b) GRANT ALL PRIVILEGES ON 'mibase_datos'.* TO 'miusuario'@'localhost';
+c) GRANT ALL PRIVILEGES ON *.'mibase_datos' TO 'miusuario'@'localhost';
+d) GRANT ALL PRIVILEGES ON 'mibase_datos'@'localhost' TO 'miusuario';
+ANSWER: B
+
+24. Cuál de las siguientes NO corresponde con una de las opciones que los gestores de BD ofrecen para las operaciones de borrado y actualización sobre las tuplas de una relación con integridad referencial:
+a) Borrado y/o modificación en cascada. (Cascade).
+b) Borrado y/o modificación con verificación (Set Check).
+c) Borrado y/o modificación restringido. (Restrict).
+d) Borrado y/o modificación con puesta o nulos (Set null).
+ANSWER: B
+
+25. Cuál de las siguientes consultas en SQL es correcta para calcular el total en euros del valor de todos los cuadros cubistas.
+a) SELECT Sum(Cuadros.Valor) AS SumaDeValor
+FROM Pintores INNER JOIN Cuadros ON Pintores.IdPintor = Cuadros.IdPintor
+WHERE Pintores.Estilo="Cubismo";
+b) SELECT Sum(Cuadros.Valor) AS SumaDeValor
+FROM Pintores INNER JOIN Cuadros ON Pintores.IdPintor = Cuadros.IdPintor
+GROUP BY Pintores.Estilo
+HAVING Pintores.Estilo="Cubismo";
+c) SELECT Sum(Cuadros.Valor) AS SumaDeValor
+FROM Pintores, Cuadros
+GROUP BY Cuadros.IdPintor, Pintores.Estilo
+HAVING Pintores.Estilo="Cubismo";
+d) SELECT Sum(Cuadros.Valor) AS SumaDeValor
+FROM Pintores INNER JOIN Cuadros ON Pintores.IdPintor = Cuadros.IdPintor
+GROUP BY Pintores.Estilo
+WHERE Pintores.Estilo="Cubismo";
+ANSWER: B
+
+26. Para desarrollar una aplicación Java, con necesidad de conectar a una base de datos mediante un controlado ODBC ya previamente instalado. ¿Qué tipo de Driver JDBC deberíamos utilizar?
+a) Driver Bridge o tipo 1.
+b) Driver Api Nativo o tipo 2.
+c) Driver protocolo de red o tipo 3.
+d) Driver protocolo nativo o tipo 4.
+ANSWER: A
+
+27. Dada la siguiente asociación entre las tablas A y B, con los atributos ‘x’ e ‘y’ respectivamente. Si existe una asociación entre dichas tablas con cardinalidad m (valores de 1 o más de 1) y n (valores de 0, 1 o más de 1).
+La transformación según el modelo relacional, dará lugar a:
+
+|------|  R  |------|
+| A(x) |<--->| B(x) |
+|------|m   n|------|
+
+a) Una relación R(x,y), con clave principal (x,y) y la eliminación de la relación B(y).
+b) Una relación R(x,y), con clave principal (x,y) y la eliminación de la relación A(x).
+c) Una relación R(x), con clave principal (x) y la eliminación de la relación A(x).
+d) Una relación R(x), con clave principal (x).
+ANSWER: B
+
+28. En el lenguaje SQL, la cláusula HAVING <condición>, aplicada a una consulta SELECT. Es utilizada para:
+a) Eliminar aquellas filas que no cumplan dicha condición en la consulta.
+b) Mostrar aquellas filas que cumplan dicha condición en la consulta.
+c) Eliminar aquellos grupos que cumplan dicha condición.
+d) Mostrar aquellos grupos que cumplan dicha condición.
+ANSWER: D
+
+29. En el desarrollo web existen muchos mecanismos que permiten dotar de estado al protocolo HTTP. Por ejemplo, el contexto de sesión es…
+a) Un espacio de memoria del servidor común a todas las requests que se reciben.
+b) La información vinculada a una cookie generada para cada cliente.
+c) La información que se envía desde el cliente a través de los parámetros vía GET o POST.
+d) Las respuestas a) y c) son correctas.
+ANSWER: B
+
+30. Seleccionar cuál sería el tipo de Cloud Computing más adecuado para un programador que va a desarrollar una aplicación Web, trabajando en varios dispositivos, y quiere un entorno listo para codificar y probar su aplicación y que la aplicación que desarrolle sea accesible a través de un servicio de red.
+a) PaaS
+b) IaaS
+c) SaaS
+d) Eso no se puede hacer
+ANSWER: A
+
+31. Respecto a las aplicaciones AJAX
+a) No funcionarán en navegadores web y dispositivos que no soporten JavaScript.
+b) Requiere que el navegador soporte el objeto XMLHttpRequest.
+c) Ambas afirmaciones (a y b) son verdaderas
+d) Ninguna de las afirmaciones (a y b) son verdaderas
+ANSWER: C
+
+32. Algoritmos criptográficos
+a) Los algoritmos de criptografía pública (criptografía asimétrica) permiten establecer una conexión segura entre dos usuarios que no se han puesto de acuerdo previamente en una clave común de cifrado.
+b) Los algoritmos de cifrado por bloques son más seguros porque utilizan certificados electrónicos.
+c) Los algoritmos de cifrado asimétrico, como RSA, DSA o curva elíptica, son más rápidos y seguros (para igual complejidad de clave) que los algoritmos simétricos como AES, DES, RC4...
+d) Es mejor utilizar un algoritmo de cifrado propio, porque los hackers son capaces de romper cualquier algoritmo criptográfico público.
+ANSWER: A
+
+33. Respecto a la aplicación de Autofirma desarrollada por el Ministerio de Hacienda y Administraciones Públicas indica cuál de las siguientes afirmaciones es correcta:
+a) Permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo
+b) Sustituye al uso de los applets de java que a menudo son bloqueados por motivos de seguridad.
+c) Hay que descargarla e instalarla antes de iniciar el trámite con certificado electrónico.
+d) Todas son correctas.
+ANSWER: D
+
+34. Cuál de las siguientes afirmaciones es verdadera:
+a) Se puede aumentar la seguridad ejecutando los certificados RSA y DSA de forma simultánea en el mismo servidor Web.
+b) Un sistema de criptografía es más seguro si se mantiene en secreto el algoritmo de cifrado
+c) SSL y TLS son algoritmos de cifrado simétrico.
+d) El algoritmo de cifrado ECC ofrece una seguridad más fuerte que TLS pero requiere más potencia informática por lo que no se puede usar en dispositivos portátiles como smartphones y tabletas.
+ANSWER: A
+
+35. El acceso no autorizado a un documento supone...
+a) Una pérdida de su integridad.
+b) Una pérdida de su confidencialidad e integridad.
+c) Una pérdida del valor probatorio.
+d) Una pérdida de su confidencialidad.
+ANSWER: D
+
+36. La herramienta Opentext…
+a) Permite una fácil integración con DB2 y MySQL.
+b) Permite una fácil integración con SAP y ORACLE.
+c) Es el mejor editor de texto del mercado.
+d) Es un gestor de bases de datos.
+ANSWER: B
+
+37. Respecto a la problemática de la gestión documental en banca selecciona el principal reto tecnológico:
+a) Gestión eficiente de un gran volumen de documentación y procesamiento de documentos a nivel de página
+b) Distinta calidad de los documentos recibidos por distintos canales
+c) Extracción de datos de los documentos digitalizados para comparar y revisar documentos de forma automática
+d) Todos los anteriores.
+ANSWER: D
+
+38. Señala qué afirmación es falsa relacionada con la Tecnología BPM:
+a) Se definen procesos, conexiones y roles.
+b) Se permite incluir cualquier sistema de información, control u otras tecnologías.
+c) La ejecución convierte de forma directa los modelos.
+d) Se requiere desarrollar código para programar cada proceso.
+ANSWER: D
+
+39. Cuál de los siguientes NO es un conector según la notación BPMN (Business Process Modeling Notation)
+a) Flujo de transición o secuencia
+b) Flujo de interacción o de mensaje
+c) Flujo de asociación
+d) Flujo de trabajo
+ANSWER: D
+
+40. ¿Qué tipos de Subprocesos están permitidos en BPMN?
+a) Colapsado y expandido
+b) Atómico y compuesto
+c) Concurrente y transaccional
+d) Dependiente e Independiente
+ANSWER: A
+
+41. En un proyecto Big Data hay que tener en cuenta muchas consideraciones. Indica la afirmación correcta:
+a) En el ecosistema Hadoop no se proporcionan herramientas que trabajan con bases de datos relacionales ya que siempre se operan con bases de datos noSQL.
+b) Spark posee un interfaz para trabajar con Java, Scala y Python, pero no permite trabajar con R.
+c) Mahout es una de las librerías de Hadoop para incorporar las técnicas de Machine Learning más utilizadas hoy en día.
+d) En todo proyecto Big Data son esenciales las técnicas de Data Wrangling o Data Munging antes de realizar las tareas de procesamiento de los datos.
+ANSWER: D
+
+42. ¿Cuál de las siguientes afirmaciones sobre el ecosistema Big data es correcta?
+a) HDFS es un sistema de almacenamiento distribuido sobre el cual se pueden utilizar otras tecnologías como Hive o Flume.
+b) Hadoop proporciona un ecosistema de almacenamiento y procesamiento masivo de datos sin necesidad de redundar la información en los nodos.
+c) Spark es la tecnología Big Data que facilita el acceso a recursos HDFS de una manera más eficiente que Map Reduce.
+d) Cloudera, Hortonworks y Exadata son distribuciones de Big Data que empaquetan herramientas open-source.
+ANSWER: A
+
+43. Cuál de las siguientes no es una medida de volumen de información asociada al término Big Data:
+a) Petabyte
+b) Exabyte
+c) Makrobyte
+d) Zettabyte
+ANSWER: C
+
+44. ICOs y criptomonedas
+a) Las criptomonedas son un método de especulación generadas en redes blockchain que no están asociadas a ningún activo.
+b) Las ICOs permiten a las empresas buscar financiación mediante la generación propia de criptomonedas.
+c) Existen dos tipos de redes, permisionadas y no permisionadas, en función del tipo del tipo de token que generen.
+d) Las respuestas b) y c) con correctas.
+ANSWER: B
+
+45. La seguridad de un sistema de contabilidad blockchain.
+a) Utiliza un sistema de clave asimétrica
+b) Utiliza un sistema de clave simétrica
+c) Utiliza una clave con doble seguridad en redes P2P
+d) Un sistema blockchain no es seguro porque el registro está distribuido entre muchos usuarios distintos.
+ANSWER: A
+
+46. Respecto a los Hash generados en la minería de bitcoins cuál de las siguientes afirmaciones es verdadera
+a) Son números muy grandes en sistema hexadecimal cuyo tamaño depende del tamaño de la entrada
+b) Para los mismos datos de entrada se obtiene siempre el mismo valor Hash porque el algoritmo se basa en funciones deterministas
+c) Dos datos de entrada diferentes nunca pueden generar un mismo valor Hash
+d) La tolerancia a fallos de transmisión hace que solo se obtenga un valor hash significativamente distinto si hay una modificación en más de 1 bit de la información de entrada
+ANSWER: B
+
+47. De acuerdo con el ENS, las Administraciones Públicas han de clasificar sus sistemas de información y servicios según las siguientes dimensiones:
+a) Básica, Media y Alta.
+b) Disponibilidad, Autenticidad, Integridad, Confidencialidad y Trazabilidad.
+c) Organizativa, Operacional y Protección.
+d) Privacidad y Confidencialidad.
+ANSWER: B
+
+48. Respecto a los trámites para adecuarse al Esquema Nacional de Seguridad a qué fase corresponde el análisis de riesgos:
+a) Plan de adecuación
+b) Plan de mejoras
+c) Plan de implantación
+d) Auditoría
+ANSWER: A
+
+49. ¿Qué debe contener, al menos, la Política de Seguridad?
+a) Los objetivos o misión de la organización, el marco legal y regulatorio en el que se desarrollarán las actividades y los roles o funciones de seguridad, definiendo para cada uno,
+los deberes y responsabilidades del cargo, así como el procedimiento para su designación y renovación.
+b) La estructura del comité o los comités para la gestión y coordinación de la seguridad, detallando su ámbito de responsabilidad, los miembros y la relación con otros elementos de la organización.
+c) Las directrices para la estructuración de la documentación de seguridad del sistema, su gestión y acceso.
+d) Todos los anteriores
+ANSWER: D
+
+50. En la categorización de un Sistema de Información (SI), cuál de las siguientes afirmaciones es correcta:
+a) Para determinar el impacto que tendría sobre la organización un incidente que afectara a la seguridad de la información o de los sistemas, se tendrá en cuenta principalmente la confidencialidad de la información que trata.
+b) Un SI se clasificará como categoría ALTA si contiene información de carácter personal.
+c) La categoría de un SI será MEDIA si alguna de sus dimensiones de seguridad alcanza el nivel MEDIO y ninguna alcanza un nivel superior.
+d) Todas las anteriores.
+ANSWER: C
+
+51. Cuál de los siguientes procedimientos no forma parte de la verificación del cumplimiento de las medidas en el ENS
+a) Procedimiento para realizar copias de seguridad de los datos y verificación de que disfruten de la misma seguridad que los datos originales.
+b) Procedimiento para la protección de la información que se distribuye por medio de correo electrónico tanto en el cuerpo de los mensajes como en los anexos.
+c) Procedimiento para borrar la información contenida en campos ocultos, metadatos, comentarios o revisiones.
+d) Procedimiento para la seguridad de aspectos organizativos y de sistemas operacionales.
+ANSWER: D
+
+52. Respecto a las herramientas que facilitan el cumplimiento del Esquema Nacional de Seguridad, las que se conocen como HIDS (Host-based Intrusion Detection System, Sistema de Detección de Intrusos basado en Host).
+a) Analizan el tráfico de red para identificar y bloquear intentos de ataque a través de la red.
+b) Identifican si un usuario autorizado está intentando aumentar su nivel de acceso, intentando realizar modificaciones no autorizadas.
+c) Se utilizan para evitar que los usuarios de Internet no autorizados tengan acceso a redes privadas conectadas a Internet, especialmente intranets.
+d) Se utilizan cuando la política de seguridad requiere que todo tráfico entrante y saliente sea enviado a través de un servidor proxy.
+ANSWER: B
+
+53. Las pruebas de penetración ...
+a) Consisten en analizar si es posible tener acceso físico a las oficinas de una empresa.
+b) Consisten en analizar si es posible tener acceso físico a los servidores o equipos críticos de seguridad de una empresa.
+c) Permiten detectar vulnerabilidades en un sistema.
+d) Son difíciles de subcontratar y, salvo excepciones, las debe realizar siempre el personal de plantilla de la empresa.
+ANSWER: C
+
+54. ¿Qué afirmación relativa a la Seguridad de las Comunicaciones es correcta?
+a) Solo se puede probar que un sistema de comunicaciones es inseguro, nunca al revés.
+b) Hay algoritmos de cifrado que permiten que un criptograma no pueda ser roto jamás, a pesar de los avances en criptoanálisis y computación.
+c) La confianza en los algoritmos propietarios debe prevalecer sobre la de los que no lo son.
+d) Ninguna es correcta.
+ANSWER: A
+
+55. ¿Cuáles de las siguientes herramientas son usadas (o pueden ser usadas) en pruebas de penetración?
+a) nmap e iptables.
+b) nessus y snort.
+c) nmap y nessus.
+d) iptables y snort.
+ANSWER: B
+
+56. Las auditorías ...
+a) Son recomendables en cualquier tipo de organización.
+b) Son obligatorias en cualquier organización salvo en PYMES.
+c) Son obligatorias al crear la empresa o al empezar a trabajar con datos personales, pero es obligatorio repetirlas cuando se cambian los procedimientos o cada 2 años.
+d) Analizan si los datos personales que maneja una organización están disponibles en Internet (tanto en la Internet pública como en la deep web/dark web).
+ANSWER: A
+
+57. Las principales obligaciones de la LOPD son:
+a) Facilitar una copia de los datos personales que maneja la empresa a la Agencia Española de Protección de Datos (AGPD).
+b) Asegurarse, siempre que se maneje cualquier tipo de dato personal, que existe control de acceso a los datos, que las comunicaciones están cifradas, y que los backups están cifrados (como medidas mínimas para evitar el robo de información).
+c) Si se almacenan datos de tipo económico en un fichero, este se considera de nivel alto a efectos de la LOPD.
+d) Declarar los ficheros que almacenan información de carácter personal y crear un Documento de Seguridad.
+ANSWER: D
+
+58. Los derechos de los ciudadanos incluyen...
+a) El derecho a que sus datos personales sean borrados completamente, en cualquier circunstancia.
+b) Indemnizaciones en caso de que la empresa sufra un ataque y los hackers consigan robar los datos.
+c) Consultar y corregir los datos.
+d) Conocer los datos personales de otras personas que se encuentran almacenados en el mismo fichero.
+ANSWER: C
+
+59. La sede electrónica de una Administración Pública, Órgano, Organismo Público o Entidad de Derecho Público dispondrá de las siguientes medidas de seguridad:
+a) El titular es responsable de la integridad, veracidad y actualización de la información y los servicios a los que pueda accederse a través de la misma el ciudadano u otra Administración Pública.
+b) Dispondrá de los sistemas que permitan el establecimiento de comunicaciones seguras, siempre que sean necesarias, por ejemplo, mediante la utilización de https.
+c) Las sedes utilizarán para identificarse y garantizar las comunicaciones seguras, certificados reconocidos o cualificados de autenticación de sitio web.
+d) Todas las anteriores son ciertas.
+ANSWER: D
+
+60. Un documento que contemple un acto administrativo tramitado electrónicamente….
+a) Se almacenará cifrado y sellado en la base de datos de la Administración Pública que lo ha emitido.
+b) Dispondrá de un sello electrónico de la Administración Pública para comprobar la identidad, así como un código de verificación para comprobar la integridad del mismo.
+c) Además de su almacenamiento electrónico, el Organismo que lo emita siempre guardará una copia en papel con el código de verificación impreso para garantizar la longevidad del documento frente a la obsolescencia de las aplicaciones que lo puedan visualizar.
+d) Se cifrará con el certificado reconocido o cualificado del funcionario público que lo tramita para que su copia electrónica almacenada disponga de la confidencialidad requerida por el ENS.
+ANSWER: B
