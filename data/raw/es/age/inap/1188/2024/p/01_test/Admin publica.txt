@@ -1,0 +1,1262 @@
+2024-10-19
+
+
+Admin pública
+
+
+Constitución 104
+
+PRINCIPIOS
+eficacia
+jerarquía
+descentralización. traspaso de competencias a otras administraticiones no jeraáruicas. (ejemplo: )
+desconcentRDL 12/2017ración. en organismos de la misma adminstraición (ejemplo: mrio. de transformación digital y función pública a Secretaria de función pública).
+coordinación
+
+
+
+40/2015 LRJSP. Incluye una categorización del sector público.
+
+Entidades de secotr público con entidad empresarial (or ejemplo red.es)
+Entidades de derecho privado (AENA, Correos)
+
+
+añáde principios:
+simplicidad
+claridad
+buena fe
+confianza legítima
+proporcionalidad
+motivar la necesidad de acciones para el interés
+adecuación para los fines que se persiguen
+trato no discriminatorio
+
+
+Ministerio de Transformación Digital y Función Pública
+
+Debajo tiene la Secretaría Función Pública
+
+
+CE 140 y 141 
+Admin Local
+
+CE 143
+CCAA
+
+
+CE 148 y 149
+competencias transfernibles y no transferibles
+
+
+Organos constitucionales, independientes a las administraciones:
+	Corona
+	Cortes Generales
+	Gobierno
+	Consejo
+	CGPJ
+	Tribunal constitucional
+	Tribunal de cuentas
+	Defensor del Pueblo
+
+
+
+Curso de función pública tras obtener título.
+
+
+Organización ministerial:
+
+* Ministro
+  * Secretaría Estado
+    * Direccones generales
+      * Subdirecciones generales
+  * Secretaría general
+    * Secretaría Estado
+      * Direccones generales
+        * Subdirecciones generales
+  * Subsecretarías
+
+
+Los que están en secretarías de estado, direcciones y subdirecciones y ministros son alto cargos.
+
+El A2 lo más alto que se puede hacer cargo es una subsecretaría.
+  
+  Subsecretarías ofrecen servicios centrales y horizontales a todo el ministorio, com RRHH, SGT (Secretaría general tétnica) TIC, 
+
+
+El sector público estatal se divide en:
+* Administración General del Estado
+* Administración Institucional del Estado
+
+Una administración institucional del Estado tiene competencias derviadas de la AGE. Están basado sen el principio de desconcentración.
+
+Ejemplo: agencia esatatl (agencia estatal de metereología)
+
+Webapp de Invespe de Hacienda, y en ella están listados todos los organismo públicos del sector público estatal.
+
+La delegación de Gobierno tiene competencia sobre aquellas materias en las que la Comunidad Autónoma no tiene competencia.
+
+
+Un Órgano Administrativo tiene:
+* presupuesto propio
+* su propio ámbito jurídico, es decir que sus decisiones influyen en terceros.
+
+La Unidad Administrativa por el contrario no tiene presupuesto propio ni sus decisiones influyen en tercero. 
+
+
+
+Todos los ministerios tiene al menos una subsecretaría. Es el órgano que coordina todo el ministerio. El subsecretario actúa cuando el ministro no está.
+
+Los órganos superiroes son:
+	MInistererios
+	Secretaría de Estado ()
+Órganos directos
+	Subsecretaría y Secretaría general
+	Secretaría general técnica y Dirección gneeral
+	Subdirección general
+
+
+Una secretaría general depende de una secretaría de estado, y en caso de que no haya secretaría d eestado (que no es obligatoria) , dependerá directamente del misnisterio.
+
+Secretario General Tećnico también solo hay uno, y dpende de esta subsecretaría.
+
+Subdirectores generales no son alto cargos. Son los únicos de los órganos superiores y directores.
+
+Tienen obligación de ser funcionario un subsecretario, un secretario general, un secrario general técnico y un subdirector general.
+
+Ha habido excepciones en director general que no era funcionario.
+
+Hay rangos que no van asociados a la estrucutra del ministerio, y van asociado normalmente más al sueldo que a la función.
+
+Delegado de gobierno son subsecretarios
+
+El presidente de AEPD es subsecretario.
+
+La Seguridad Social es una Secretaría de EStado.
+
+Hay una Secretaría General de Administración Digital.
+Agencia Tributaria. Se trabaja mucho y se cobra también.
+
+Organismos autónomos
+Ejemplos de organismos autónomos: INAP, Muface, etc. Hay más de 70.
+
+También hay entidades públicas empresariales de derecho Público/privado.
+Ejemplo: Renfe, ADIF, FNMT, ICO, ICEX, SEPI.
+
+Agencias Estatales
+Eemeplos: AEMET, AECID, AEMPS, AESIA, AEA, aBOE.
+
+Autoridades Administrativas Independientes.
+Ejemplos: AEPD, FROB, CNMV.
+
+Sociedades mercantiles son aquellas en la que el Estado tiene el 50%.
+
+
+
+
+PRELACIÓN DE LEYES ENE EL ORDENAMIENTO JURÍDICO ESPAÑOL
+
+Cualquier tratado internacional firmado en España debe cumplir la Constitución Española.
+
+LEY
+
+NIveles de administración
+1. UE
+2. AGE
+3. CCAA
+4. EELL
+
+
+Ordenamiento jurídico a nivel estatal de España:
+1. CE
+2. Fuerza de ley
+3. Reglamento
+4. Orden Ministeriales
+
+
+Leyes nacionales:
+- El Parlamento (ya sea el Congreso, el Senado o ambos) aprueba las leyes)
+- Una norma deroga a las anteriores en caso de contradicción.
+- Las leyes no derogan los tratados internacionales, pero al revés sí
+
+
+Tipos de leyes de las Cortes:
+Ordinarias
+Orgánicas
+
+Las leyes requieren mayoría simple.
+
+Las leyes orgánicas requieren mayoría absoluta. La Constitución Española define qué materias se deben aprobar como Ley Orgánica.
+
+Los estatutos de autonomía se consideran leyes orgánicas
+
+
+El Parlamento español puede pedir al Gobierno que cree real decretos legislativos nacionales.
+
+- Normas escritas que no pasan por el Parlamento.
+- Arpueba el ministro o Consejo del ministro
+
+Normas europeas:
+- Reglamento Europeo
+- Directiva Europea
+
+Ejemplos reglamentos TIC: eIDAS, RGPD/GDPR, ciberseguridad
+
+LAs directivas requieren trasposición.
+
+Los reglamentos pueden servir también para trasponer normas europeos.
+
+Los reglamentos se aprueban por real decreto o decreto.
+
+Ley Base.
+
+
+RDL solo congreso
+A partir de 30 días deben estar refrendados por el Congreso. En caso de qeu no lo sean, la ley habrá tenido vigencia 30 días.
+Solo se puede hacer real decreto de ley de leyes ordinarias.
+
+
+RDlegislativo / Real Decreto Legistalitvo: se pasa del parlamento al gobierno para que sauqe una normla
+Pueden usarse:
+* textos refundidos de diversas leyes, para fusionar leyes.
+* Textos articulados.
+
+
+Las fuentes del derecho son:
+* La Ley
+* La costumbre
+* Los Principios Generales del Derecho ("sentido común")
+
+
+Jerarquía:
+
+* Derecho comunitario
+* Constituctión
+* Tratados Internacionales
+* Leyes - Leyes Autonómicos
+* Real decreto Legislativo y Real Decreto-Ley
+* Reglamento
+* Costumbre
+* Principios Generales del Derecho
+
+Normas comunitarias:
+* Reglamento
+* Directivas
+* Decisiones
+
+
+Las leyes comienzan como:
+* Proyecto de ley se presenta por el Gobierno.
+* Proposición de ley se presenta por el Congreso, Senado o asambleas.
+
+Tienen prioridad los proyectos de leys.
+
+
+* Leyes estatales
+    * Leyes de las Cortes
+      * Leyes ordinarias
+      * Leyes orgánicas
+    * Leyes del Gobierno
+      * Real Decreto Ley
+      * Real decreto legistativo
+        * Textos refundados
+        * Textos articulados
+    
+Los rglamenots se fiman a traves de: (de mayor a menor)
+    * Realos decretos del Presidente del Gobierno, o del Consejo de Minstros
+    * Orden ministerial
+    * Circulares, Resoluciones, Instrucciones, Órdenes del servicio
+
+
+La Resolución es similar a una orden ministerial que realiza un organismo público.
+
+
+
+
+
+
+
+TEMA 39. Contratación en el Sector Público
+
+
+
+Aplica a todo el sector público.
+
+
+
+Tipos de contratos:
+Contratos de obras : la explotación se quedará en el sector público
+Contratos de concesión de cobras : la explotación está en el sector privado
+Contratos de concesión de servicios
+Contratos de suministro
+Contratos de servicios
+
+Contratos dujetos a una regulación armonizada (SARA): por sus característicias (precio) están sujetos a normativas UE
+
+Condciones:
+Importe superiro a 143.000 € (AGE, sus Organismos Autónomos, Seguridad Social) o 221.000 (restantes)
+en base al presupuesto base de licitaicón
+
+
+
+Presupeusto de base de licitación (P.B.L.): incluye son los años originales (sin tener en cuenta ampliaciones) y con IVA incluido.
+
+Valor Estimado : es incluyendo prórroga y sin IVA.
+
+Importe de adjudicación : es el importe final.
+
+
+(una diapositiva que resume los órganos).
+
+Junta de Contratación Centralizada (JCC). Central de compras. Para TIC siempre se debe usar este organismo.
+
+
+
+Los contratos se suelen dividir en lotes más pequeños.
+
+
+
+Consejos de ministro: contratos >= 12 <€
+
+Otro organismo: 900k €
+
+D. G. de Racionalización y Centralización de Contratación (DGRCC)
+
+JCC desconcentra en DGRCC.
+
+
+
+> 1 M va por DGRCC
+<= 1 M va por ministerio
+
+Si fuera TIC, iría por JCC.
+
+
+La aprobación técnica la debe Secretaría General para la Administración Digital (SGAD)
+
+
+Tipos de contratos para la adopción de tipo:
+* Acuerdos marcos (AM)
+* Sistema dinámico de adquisición (SDA)
+* Contratos centralizados (CC)
+
+SDA es más flexible de AM, que es más rígido.
+
+AM por ejemplo no permite entrar a más proveedores..
+
+Contratación centralizada
+contratacioncentralizada.gob.es
+
+https://contrataciondelestado.es/wps/portal/plataformas
+
+Contratistas
+
+Condiciones
+1. Plena caapacidad de obrar
+2. Solvencia acnómica financiera
+3. Financiera y técnica o profesional
+
+Un expediente es una petición que incluye:
+    1. MJ
+    2. PPTP
+    3. PCAP (Pliego de Condiciones Administrativas Particulares)
+
+Subcontratación
+Está permitida salvo que se diga lo contrario. El % se define en el PCAP.
+
+Registro Oficial de Licitadores y Empresas Clasificadas del Sector Públca (ROLECSP)
+
+Te renuevas cada 1 o 3 años.
+
+
+Garantías exigibles de conratos
+ * Garantía provisional
+ * Garantía definitiva
+ * Garantía complementaria de la definitiva
+ 
+ 
+ provisional: optativa
+ Garantía definitiva: Obligtaroía. 5%, IVA exluido
+ Grantía complementaria: optativa
+ 
+ 
+ Tipos de procedimiento de adjudicación o contratación:
+  * Ordinario
+    * Abierto
+      * Simplificado
+      * Supersimplificado
+    * Restringido (mínimo 5 empresas)
+  * Especial
+    * Negociación
+      * Con publicidad
+      * Sin publicidad
+    * Diálogo competatitvo
+    * Asociación para la innovación
+    * Concursos de proyectos
+  * Contratos menores
+  
+  
+Contratos menos (Servicios y suministros V.E. menos a 15.000 € sin IVA, obras < 40k €), duración inferior a un año. Adjudiccación directa con licitación de 3 empresas teniendo en cuenta solo el precio. Solo uno al año.
+
+
+PAS
+Condciones:
+< 143.000 €
+No hay criterios de adjudicación elevado, y si los hay, <25% total
+
+
+Supersimplificado
+< 40.000 €
+* SE eximirá de solvencia (concepto general, no solo económico)
+* Solo criterios cuantificables.
+* No hay acto público de apertura de ofertas.
+* No procede garantía defintiiva.
+* Formalización mediante firma de aceptación.
+
+
+
+Criterios de adjudicación
+Cuantitivos
+Cualitativos    
+    
+ Los criterios de adjudicación deben ser al >51% económico sobre técnico para cualquier expediente de contratación.
+ 
+
+Procedimientos restringidos
+
+Invitación a 5 empresarios
+
+
+Pliegos
+Tipos de pliegos
+Pliego de prescripciones técnicas
+Pliego de Cláusulas Administrativas Particulares
+
+
+Procedimientos con negociación
+Mínimo consulta con 3 empresarios
+Condiciones para que pueda usarse
+   Proyecto o solución inovadora
+   No va con referencia a una norma
+   Procedimientos anteriores (abiertos o restringidos) irregulares o inaceptables
+   
+ Ejemplos:
+ No ha habido respuestas en la licitación original
+ secreto o reservado (proyecto de seguridad)
+ Solo hay un proveedor (por ejemplo, en el soporte que da un fabricante)
+
+
+ Procediminto negociado sin publicidad
+ Condiciones
+   No había ofertas o no eran aceptadas
+   Declarado secreto o reservado
+   Solo puden ser encomendados a un empresario
+   Urgencia
+   Exclusivamente para fines de investigación
+   Entregas adicionles
+   Condciones ventajosas en proveedor que cese actividades comerciales
+   Repetición servicios similares
+ 
+ 
+ Tipos contratación:
+  * Ordinaria
+  * Urgencia
+  * Emergencia
+  
+En la de urgencia el inicio de trabajo no debe exceder un mes. 
+  
+Emergencia permite un acuerdo verbal.
+
+Existente una mesa técnica
+
+
+Anuncios
+
+Anuncios de licitación
+
+Las licitaciones deben publicarse en el Perfil del Contratante y en el BOE.
+
+Si es regulación armonizada, también dbe publicarse en el DOuE.
+
+Anuncio de información armonizada
+
+Si se avisa de la oferta un año antes del proceso, se reducen los tiempos de gestión de la oferta.
+
+
+### Presentación de ofertas
+
+Los plazos MÍNIMOS de presentación de oferta son los siguientes: 
+
+Contratos SARA
+  Procedimiento abierto
+    35 días desde envío a las publicaciones de la UE
+    Anuncio de información previa:
+    UrgenciaL 15 días
+  Procedimiento restrignido
+    solicitudes de particiupacion: 30 días
+    urgencia 15 días
+   Poredimientos  
+    presentación ofertas: 30 días desde envío invitación escrita.
+    anuncio de información previa: 10 días
+    urgenciaL 10 días
+    presentación de ofertas por medios electróncios: 5 días
+
+No SARA
+  Procedcimiento:
+    15 días
+    URgencia´: la mitad
+
+
+### Adjudicación de ofertas
+
+El plazo desde el fin de presentación la apertura de proposiciones ("de sobres") es de 20 días.
+Desde la apertura de proposiones, el pazo máximo es de 15 días si es un solo critero, y 2 meses si se basa en varios criterios.
+
+Resolucón de adjudicación se publica en perfil de contratante en 15 días.
+
+Si cabe REC, la formailización no se puede hacer antes de 15 días hábiles desde que se remite la notificación.
+Si no cabe REC, son 15 días.
+
+Los recursos especiales solo caben en contratos SARA.
+
+Casi todas las fechas son 10 o 15 días.
+
+
+### Bienes y servicios
+
+Suministros
+Servicios
+
+Si es por debajo de 862.000 €, va por la vía centralizada.
+
+Si es por encima (creo que un valor que supera un millón de €), debe ir por otro lado.
+
+### Procedimiento especial de adopción tipo
+
+Fases de procedimiento especial de adopción tipo:
+
+  * Fase 1: determinación de cada tipo de bien o servicio
+  * Fase 2: adquisición de los bienes o servicios. Contratos basados en Acuerdos Marco.
+
+La Dirección General de Racionalización y Centralización de la Contratación (DGRCC) está involucrada en ambas fases.
+
+
+Celebración de acuerdo marcos la realiza la Junta de Contratación Centralizada
+La adjudicación de contratos maros la realiza la JCC.
+Adjdicación de contratos no derivados de un contrato marco la realiza la JCC
+
+
+Ponderación lineal
+
+
+(temas 41, 42 y 43 no suelen caer preguntas de test)
+ 
+ 
+ 
+ 
+ 
+    
+Los A1 que más ganan son los de la Agencia Tributaria.
+
+Buscar multiproveedor en supuesto práctico.
+
+
+
+
+
+2024-10-26
+
+PROPIEDAD INTELECTUAL / DERECHOS DE AUTOR
+
+Dice que es el tema 41, aunque no me cuadra. 
+
+
+Leyes:
+
+RDL 1/1996
+TODA
+Directiva Europea 2001/29, traspuesta en l a ley 23/2006, de 7 de julio (es el TRLPI?)
+RDL 12/2017
+real Decreto 209/2023
+
+PAra que una obra esté rpotegida por la ley se requiere que:
+* que sea original
+* que esté plasmada
+
+Las ideas no están protegidas.
+
+
+Las obras puedes se:
+* Unitaria o en colaboración
+* Colectiva.
+
+En obra unitaria o en colaboración cada autor sabe qué parte ha realizado. Ejemplo: banda sonora de una película donde distintas canciones son de una persona distinta.
+
+En una obra colectiva se consideran autores todos los participantes. El porcentaje es el mismo en partes iguales. El autor es el editor salvo pacto en contrario.
+
+inalienable = no enajenable, no vendible
+
+Derechos de la obra colectiva:
+
+* reproducción
+* distribución
+* compuniación pública
+* colección
+* compensación equitativa por copia prviada
+
+
+Reproducción es la fijación material.
+
+La comunicación pública no tiene divulgaciń.
+
+
+
+
+En la ley 2003/2006 se daba dinero de canon a través de los presupuestos. Esto se declaró nulo, y en la RDL 12/2017 se volvió al cirterio de RDL 1/1996 que era el sistema de compensación equitativa por copia privada.
+
+sistema de compensación equitativa = canon
+
+real Decreto 209/2023, establece los precios del canon.
+
+
+Duración de derechos:
+Total la vida del autor + 70 años desde el fallecimiento.
+Obras unitarias o en colaboración: la vida de todos los autores + 70 años desde el fallecimiento del mismo.
+Obras colectivas propiedad de sociedad jurídicas: 70 años desde la divulgación de la obra.
+
+Se empieza a contar siempre desde el 1 de enero del añó siguiente, tanto para persona física como jurídica.
+
+
+No se puede patentar el software de ordenador. Solo le aplica la LPI.
+
+La combinación de software y hardware en el que el software funcione solo en ese hardware, que constituya un sistema y que cumpla ciertas condiciones podría ser patentable. Le afectaría la LPI y además de la patente.
+
+El trabajo producido por un trabajador asalariado son del contratante.
+
+
+Derechos del artículo 99
+* Reproducción
+* Transformación
+* Distribución
+
+
+Derecheos de eplotación (artículo 100)
+
+
+infractores (artículo 102)
+
+
+Registro General de Propiedad Intelectual
+
+
+
+Tema X, parte 2. DRM
+
+XMCL (... comerce language)
+
+
+
+tener claro el % de aprobaods.
+
+
+Revisar las personas que van a ir al tribunal en el supuesto práctico. El Tribunal viene en las propias bases, aunque no se sabe quién viene al final VA un presidente, un secretario y 3 vocales.
+- En los supuestos prácticos ver cuánto tardas en hacer cada una de las secciones (DAFO, mapa del sistema, etc.)
+
+los de leyes y universdidad hay que tener cuidado. 
+
+
+Conocer la administración pública
+
+
+
+
+
+GOBERNANZA PÚBLICA
+
+Ley 19/2013 (o quizás 2012)
+
+Gobernanza pública
+
+1. 
+2. Inspección de servicios
+3. Atención a la ciudadanía
+4. Calidad de las administraciones públicas (REal Decreto 951/2005 de la calidad de los servicios)
+5. Transparencia
+
+administracion.gob.es
+
+
+Gobierno abierto
+
+Principios
+* Transparencia
+* Participación
+* Colaboración
+* Rendición de cuentas
+
+OAra emdir los servicios públicos:
+RD 951/
+
+Participación es participar en las políticas,  y colaboración en su sustitución.
+
+
+España pertenece a un grupo de abierto.
+
+Es distinto el gobierno abierto al administración elecgrónico.
+
+17 Objetivos de Desarrollo Sostenible (ODS)
+
+RISP = Reutilización de la Información del Sector Público
+datos.gob.es
+
+Rendición de cuentas se publican en:
+https://rendiciondecuentas.es
+
+También se puede ver  a partir de los planes directores.
+
+Revisar el Plan de Acción de Gobierno Abierto.
+en gobierno abierto están los planes de acción.
+
+
+
+
+
+
+El profe Herrero comenta que hay subido algo que es un caso práctico (aunque no lo ha llamado así) que puede valer para la parte de redes.
+
+
+
+
+TEMA 108. Cables
+
+## Principios básicos de comunicaciones
+
+Estos temas son de introducción a las telecomunicaciones.
+
+Señal
+
+Cualquier señal es una suma infinita de senos y cosenos.
+
+Las señáles son infinitas en el tiempo.
+Se trabajan con integrales y derivadas.
+Se trabaja con voltios.
+
+Transformada de Fourier.
+Permite simplificar mucho el trabajar con señales.
+Las señales infinitas en el tiempo se vuelven finitas en la frecuencia.
+Multiplicaciones y divisiones.
+Se trabaja con potencia como decibelios (dB) en lugar de con voltios.
+
+Las frecuencias se representan de forma logarítmica.
+
+La señal delta representa la transformada de Fourier.
+
+La transformada 
+Banda Base = 0 Hz
+
+Se hace un corte en potencia para trabajar mejor.
+Se suele cortar en 3 dB, que es el lineal a la mitad.
+
+Se pone un filtro en la señal para que haga un corte.
+
+Hay dos tipos de filtro;
+* Filtro paso bajo
+* Filtro paso banda
+* Filtro paso alto
+
+El piso filtro paso alto empieza en una frecuencia hasta el infinito.
+
+La telefonía básica tiene una fecuencia a 4 KHzz.
+
+
+P(W) -> P(dBW)
+P(mW) -> P(dBm)
+1 W ->
+
+Alguna vez han preguntado en exámen la referencia entre W y dBm
+
+Se pasa a logarítimo, 10^0 a uno
+
+
+
+La ganancia es potenciar la señál, y se mide en dB.
+
+G = P out(W) / P in(W)
+
+La ganancia es adimensioanal, ya que se anula la unidad
+
+
+La atenucación. Se mide en -dB.
+Se produce entre otras cosas por el efecto JUles que es la disipación térmica.
+La atenuación tiene una relación importance con la distancia. Se suele definiar para m en km.
+
+
+Dominio de frecuencia
+
+Teorema de Nyquist
+
+Portadora / Moduladora
+
+Hay una relación entre la frecuencia de la portadora y la distancia a la que podemos llegar. Son inversamente proporcioanles.
+Frecuencias altas menos distancia (en potencia constante). Si aumento la potencia podré llegar más lejos.
+
+La portadora es una delta.
+
+
+Ancho de banda. EStá relacionado con la mitad de los 3DB. Está relacionado también con el ancho de banda que hay que transmitir.
+La relación espectral es la relación de bits por unidad de ancho de banda.
+Debido a la ecuación de Maxwell no todos los anchos de banda transmiten igual. Se debe intentar transmitir en el ancho de banda óptimo.
+
+
+Las señáles que son finitas en el tiempo son infinitas en la frecuencia, y al revés. 
+
+Se pueden dividir los canales por frecunecias.
+
+Para transmitir por un canal necesitamos una portadora. Sirven para transmitir todas las frecuencias por un mismo canal o frecuencia.
+En el receptor hay que quitar la portadora.
+La señal portadora es siempre sinosuidal. Es una delta. Tendrás que multiplicar por una delta. Al volver a multiplicar por la delta se trae de vuelta a la banda base de 0 Hz.
+En el caso de voz vamos  de la banda base (0 Hz) a los 4 kHz.
+La TV ocupa 6, 7 u 8 MHz
+
+
+La señal que se envía se hace simétrica.
+Para separar los canales hay que tomar el doble de ancho de banda que ocupa el canal. Esto se debe al teorema de Nyquist, de dos veces el ancho de bajda.
+
+Entre dos canales se suele dejar 2 BW + banda de guarda, que es un extra de un poco más.
+
+Esto que hemos visto hasta ahora es en analógico, y limita que cada canal es exclusivo de un usuairo..
+
+
+Teorema de Shannon se aplica en el mundo digital.
+Determina a cantidad de información que puedes transmitir es proporcional al ancho de banda.
+
+
+Fases de digital
+1. Muestreo
+2. Cuantificación
+3. Codificación
+
+Muestreo supone que se pueden , se puede recuperar la señal original sin pérdida siempre que se muestree al doble de la frecuencia más alta de señal, aplicando el teorema de Nyquist.
+El hecho de que la señal sea finita y la frecuencia infinita hace que en la práctica haya ciertas pérdidas.
+
+Luego se pasa a la cuantificación.
+El valor más alto y más bajo se debe escoger. Cuantos más niveles hay, más fiel será más señála.
+POr el hecho de cuantificar se produce siempre un error de cuantificación, y aquí ya se producen codificaciones.
+
+Codificar es asignar un valor binario al
+También se pueden dar errores de codifiación, que son más raros. También se dan en la transmisión.
+Para mitigarlo se emplean mecanismos de detección de errores.
+
+
+La voz se digitaliza.
+
+Hay dos modelos de digitalización, de Europea y de USA.
+Se muestrea empleando distinto número de bits:
+EU: 8 bits -> 64 kbps, llamado canal B y canal D
+USA: 7 bits => 56 kbps, que se corresponde con el canal D, y también el B
+
+Es importante saber que existen estos canales de voz.
+
+Ya que se muestrea al doble de la frecuencia necesaria (8 KHz, empleando el doble de 4 kHZ), si multiplicas los 8 KHz por el número de bits da las cantidades que hemos visto arriba.
+
+
+ISDL / RDSI se emplea para transmisión de voz
+
+
+Teorema de Shannon
+
+Ecuación de Maxwell
+
+
+
+
+Muchas requieren sincronismo.
+
+Se puede marcar 1 como que hay voltaje y 0 cuando no hay voltaje. Lo malo es que no sabremos si se envían 0 o si se ha perdido la señal.
+
+Codificación Manchester
+Una transición de valor se marca como una subida de voltaje. Requiere una subida.
+Se usa en ethernet, token ring
+
+
+Sistemas de acceso múltiple:
+* FDMA
+* TDMA
+* CDMA
+* 
+
+FDMA
+
+FDMA está relacionado con la codificación manchester.
+Llevamos en un mismo canal varias frecuencias empleando la portadora.
+
+TDMA
+
+TDMA solo es posilbe con señales digiles.
+REquiere un multiplexador que es más rápido que la señál y lee cada envío de la señal de distintos usuarios. No le hace falta leer el bit entero para saber que ese bit es constante.
+Reconstruye cada señal.
+Esto permite que en un mismo canal se envíe lo de varios usuarios.
+
+
+Digilatzador
+    1. Muestreo
+    2. Cuantificación
+    3. Codificación
+    
+CDMA
+División en el código.
+Se basa en la propiedad de los códigos ortogonales. Si se emite uno con otro se anulan.
+M * V = 0
+Hay otra propiedad que es dos señáles igaules producen 1.
+Requiere mucha sincronía.
+En telefonías no funciona bien, y en estos casos se usa OFDMA.
+
+
+OFDMA
+Los sistemas que superan velocidad inalámbrica usan OFDMA, ya que es escalable al tener un coste lineal.
+Divide el espectro en subportadoras, todas iguales. Se basa en emplear minitransmisores en lugar de uno solo.
+En este caso se solapan las bandas de frecuencia, violando el teorema de Nyquist.
+Tiene complejidad, y está basada en la transformada rápida de Fourier.
+Se usa en inalámbrica y en fibra, por ejemplo.
+
+
+# Mecanismos de modulación básicos
+
+La portadora supone sustituir la señal por alguno de los valores de la ecuación (ya sea la amplitud, o la fase phi
+
+y(t) = A sen (wt * phi )
+
+AM
+FM
+PM -> PSK
+
+64
+QAM
+QOSK
+
+256 - QPSK
+256 - QAM (8 bits)
+
+
+
+## Canales
+
+Canal. Límites
+    * Ruido
+    * Atenuación
+    * Interfases
+    * Diafonía
+    * Distorsión
+
+Los canales están limitados en el tiempo. Incluso los ideales están limitados por la velocidad de la luz.
+
+Existe el ruido.
+El ruido térmico afecta a todas las bandas de frecuencias.
+
+SNR = relación entre potencia y cantidad de ruido.
+S = sensibilidad del recpetor. Capacaidad de dsiternir la señál con el medio de transporte.
+Hay también ruido gaussiano y blanco.
+
+
+Atenuación. Es la pérdida de energía de la señál. Limita a dónde podemos llegar. Disipación térmica (efecto Joule) que afecta a los medios metálico. Se mide en dB/m. En la fibra óptica se mide como dB/km.
+
+Dispersión es que parte de los fotones se pierden.
+
+Interferencia es cuando otra señal de información se solapa con la nuestra.
+Dentro de la interferencia está la diafonía. Es una interferencia que se produce en los cables telefónicos. Entran enjuego las ecuaciones de Maxwell. La transmisión va en sentido longitudinal. Parte de la energía sale de forma axial. Teien un efecto que es que no hay un limitante en modo exial. Si hay otro par de hilos al lado le puede generar interferencia.
+Había diafonía cercana y lejana. Si la señal era cercana se llamaba NEXT. Si la señal se colaba era en el otro extremo se llamaba CEXT.
+
+Se recuerda que a mayor frecuencia con la misma potencia menor distancia. Esto pasa tanto en cable como inalámbrico.
+
+Las estaciones usan frecuencias altas ya que tienen mucha potencia, y se deja a los móviles que tienen batería limitada que usen frecuencias bajas.
+
+    
+2,4 GHz WiFi
+2,4 GHz 
+
+
+## Teorema de Shannon
+
+El teorema de Shannon establece el límite de un canal digital. Es una relación entre el ancho de banda y el ruido. Por ello si queremos transmitir más bits hay que aumentar el ancho de 
+
+
+### Ecuaciones de Maxwell
+
+Explica cómo se transmite la energía electromagnética en función del material y la geometría.
+Son complejas y tienen infinitas soluciones.
+Los medios metálicos para transmitir en banda base necestias al menos dos conductores. Medios no metálogicos como la fibra óptica no pueden transmitir en banda base.
+Indica cómo se transmite el canal de transmisión.
+Como norma general, cuanto más ancho sea mayor ancho de banda hay que transmitir.
+
+## Medios cableados
+
+Normas
+
+ISO/IEC 11801
+EN 50173-1 (Europea)
+La del ANSI de eEUU
+
+Clase es lo que te permite transmitir, el nivel de servicio. Se definen funciones.
+
+La categoría es algo téccnico.
+
+### Estándares de cablado
+
+Para contratación de sistemas abiertos de deben usar normas. En eruopa setá la decisión 87/95/CEE.
+El manuel EPHOS-2 está algo desfasado.
+
+#### Cable coaxial
+
+El coaxial tiene un dielétrico entre el núcleo y la malla metálica exterior.
+
+Va conectado a tierra y esto lo hace inmunes a ruidos e interferencias.
+Esto lo hace inmune a ruidos e interferencias.
+
+Los conectores los preguntan mucho
+Vamp Clamp
+	Se conectaba con una punta al cable interior.
+	10Base5 a 10 Mbps 500
+N-series
+	Conectroes en los extremos ocn rosca fuerte.
+Series BNC (conectores en T
+	Cheapernet
+	Coaxial fine
+	Permitía Bus eterhnet
+
+
+Cables de par trenzando.
+
+Tipos de cables según 11801 anexo E
+U/UTP (unshielded) (antiguo UTP). Treanzado sin apantallar.
+U/FTP Shielded (antiguo STP). Apantallamiento 2 a 2 y conectar a tierra.
+F/UTP (antiguo FTP) Foiled. F/UTP apantallameiento solamente exterior.únicmamente mediante laíma.
+Cables S-FTP (obsoletos)
+S-FTP (SF/UTP)
+
+S se refiere a "Brading que es la malla.
+F se refiere a apantallamiento con lámina.
+
+La nomenclatura nueva especifica de si hay aptntallamiento externo o interno. primero dicen el externo y luego le interno.
+
+
+#### Tipos de conectores de par tranzado
+
+RJ-11 (3 pines, 2 pares)
+RJ-45 (8 pines, 4 pares)
+RJ-49 (8 pines, 4 pares binldados) es como el RJ-49 está apntallado.
+GG-45 Cat 7
+
+
+Hay una categoría 8.
+
+
+
+# TEMA 110
+
+Hay algo de conmutación de paquetes.
+
+
+TEMA 111. Modelo OSI
+
+
+
+TEMA 115
+
+Ha hablado de que veremos un rango 10.
+
+
+
+TEMA 118. Redes cableadas
+
+Niveles 2 y 3, y protocolos de enrutamiento.
+
+Interconexión de redes.
+
+El profesor se lleva los temas de interconexión de redes y protocolos de encadenamiento al 118, aunque según ASTIC está en el 2022.108.
+
+Entra algo de conmutación de paquetes.
+
+
+
+
+LIR (acrónimo)
+Es como un ISP es un IPv6. En un sistema autónomo tiene su propia IP. Las ISP tienen IPv4 tienen IPs asignadas. Hay reglas de direccionamiento que van asociadas al LIR, que permite incluso evitar ciertas rutas.
+
+redIRIS es un LIR. Suele ser una de las patas e entradas a la administración. Suele haber al menos dos proveedores.
+
+
+En la AGE hay un plan de direccionamiento de IPv4, pero no de IPv6.
+
+
+
+
+TEMA. Redes inalámbricas.
+
+Frame Relay, aTM
+Jerarquía digitales
+
+
+
+TEMA. Redes móviles
+
+Tiene muchos acrónimos
+
+
+
+TEMA. Ciudaddes inteligentes
+
+No entra mucho
+
+TEMA. Blockchain
+
+/vocabulario Sabo
+
+No entra mucho.
+
+
+
+En el supuesto práctico preguntan:
+
+Alcance de proeycto
+Seguridad
+Datos personales
+
+
+
+
+
+
+ver lo de la agencia digital
+RD 1125/2024 deroga una ley que ya existía muy parecida.
+
+
+### SO
+
+Process Management
+Memory Management
+File Management
+
+## Gestión de memoria
+
+Paginación permite que no tengan que estar los programas en memoria contigua.
+
+Relacionado con paginación:
+
+JT = Job Table
+PMT = Page Map Table
+MMT = MM Table
+MM = Main Memory
+
+
+page fault. swapping
+ 
+thrashing es cuando se produce muchos swapping.
+
+anomalía de Belady
+puede ocurrir que añadiendo páginas de memoria empeora el rendimiento.
+
+Paginación bajo demanda
+
+
+
+Memoria segmentada es dividir un programa en distintas partes, de manera que algunas sean compartibles. Los .so y .dll estaban basadas en ella. Ya ningún SO emplea segmentación, y usa la paginación de la misma manera.
+
+Añade un Segment Map Table (SMT).
+
+
+LA memoria virtual permite que el programa no esté cargado por completo en memoria.
+
+
+
+## Proceso
+
+En Linux existen grupos de procesos jerárquicos.
+
+En Windows todos los procesos están al mismo nivel.
+
+
+Hay modelos de estados teóricos que no van asociados a ningún sistema operativo.
+
+Uno es el modelo de tres estados:
+Running
+Ready
+Blocked
+
+El estado de 5 de Tannenbaum añade dos estados:
+Running
+Ready
+Blocked
+New
+Exit
+
+
+
+Cada hilo tiene su propia pila (stack).
+
+No aparecen hasta los 90.
+
+Inicialmente los threads no eran tenidos en cuenta por el sistema operativo y se trtataban todos como el mismo proceso. Pero luego terminaron gestionándolos.
+
+Distinguimos el algoritmo de secheduling dependiende sistemas batch, interactivos o tiempo real.
+
+
+CTSS de IBM es un ejemplo de algoritmo de múltiples colas y que discrimina por prioridades.
+
+
+Tipos de problemas de concurrencia.
+
+
+
+### procedimiento administrativo
+
+El desestimiento permite volver a reclamar en el futuro.
+
+La renuncia implica la imposibilidad de reclamar en el futuro
+
+Métodos de ejecución forzosa
+* Apremio sobre el patrimonio
+* Ejecución subsidiaria
+* Multa coercitiva
+* Compulsión sobre las personas
+
+
+
+### Actos administrativos
+
+Un acto administrativo es una declaración de voluntad de una AAPP.
+
+Tipos de actos ddmnistrativos:
+Órdenes
+Actos traslativos
+Actos extintivos
+Actos sancionadores
+
+
+Comisión europea.
+Hay un comisario por cada estado miembro
+el presidente lo pelige el Consejo Europeo.
+La duracción del mandato es de 5 años.
+Entre sus competencias está la elección 
+
+
+Tipos de competencias de la UE:
+Exclusivas
+Compartidas
+Competencias de apoyo coordinación y complementarias
+
+
+
+35. De acuerdo con la Guía de Seguridad para la auditoría del ENS, señale cuál es uno de los requisitos mínimos para los integrantes del equipo de auditoría:
+a) En ningún caso los integrantes del equipo auditor deben haber participado o detentado responsabilidades previas a la auditoría, al menos en los tres últimos años, en el sistema de información auditado.
+b) El Auditor Jefe debe probar conocimientos de seguridad y gestion de riesgos de seguridad (certificación y experiencia probada de al menos 4 afios en estos elementos).
+c) Todos los miembros del equipo auditor deben probar acreditacién de formacion y experiencia en auditoria de sistemas de información, a través de certificaciones reconocidasa nivel nacional o internacional.
+d) Todos los miembros del equipo auditor deben probar conocimiento de los requisitos del RD 4/2010.
+
+
+
+
+
+
+
+
+
+

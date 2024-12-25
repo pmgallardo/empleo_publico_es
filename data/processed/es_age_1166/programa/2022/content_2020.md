@@ -485,6 +485,8 @@ Exámenes revisados hasta convocatoria 2022.
     <a id="rd-3-2010"></a>
     
     * RD 3/2010, ENS
+    * Guía CCN-STIC-801
+      * Administrador de Seguridad
 
 49. Infraestructuras, servicios comunes y compartidos para la interoperabilidad entre Administraciones públicas. Cl@ve, la Carpeta Ciudadana, el Sistema de Interconexión de Registros,id la Plthird-headingataforma de Intermediación de Datos, y otros servicios.
     
@@ -652,14 +654,146 @@ Exámenes revisados hasta convocatoria 2022.
         * FCFS (First comes first served) / El primero en llegar, el primero en ejecutarse
         * SJF (Shortest Job First)
         * [RR (Round Robin)](https://es.wikipedia.org/wiki/Planificaci%C3%B3n_Round-robin)
-        * SRTM (Shortest remaining time first) / El tiempo restante más corto
+        * SRTF (Shortest remaining time first) / El tiempo restante más corto
+        * LRTF (Longest remaining time first) / El tiempo restante más largo
         * HRRN (Highest Response Radio Next) / La tasa de respuesta más alta
         * Por política
       * Concepto de preemptive / non-preemptive
+    * Gestión de memoria
+      * Ajuste de memoria
+        * Algoritmos de ajuste 
+          * First fit / Primer ajuste
+          * Best fit / Mejor ajuste
+          * Worst fit / Peor ajuste
+          * Next fit / Siguiente ajuste
+          * Quick fit / Ajuste rápido
+      * Overlay
+      * Paginación
+        * Algoritmos de paginación
+          * FIFO (First In First Out)
+          * NRU (Not recently Used)
+          * LRU (Least Recently Used)
+          * NFU (Not Frequently Used)
+          * LFU (Least Frequently Used)
+          * Randomly
+      * Segmentación
+    * Administración de entrada/salida
+      * Device controller / Controlador de dispositivo / Adaptador de dispositivo
+      * Device driver / Manejador de dispositivo
+      * DMA (Direct access memory) / Acceso directo a memoria
+      * PnP (Plug and play)
+    * Sistemas de ficheros
+      * Almacenamiento físico de datos
+        * Algoritmos de petición de lectura/escritura de discos duros
+          * Primero en llegar
+          * Primero el más cercano
+          * Por exploración / Algoritmo del elevador
+          * Por exploración circular
+        * Asignación de espacios de almacenamiento
+          * Asignación contigua
+          * Asignación encadenada
+          * Asignación con índices (indexada)
+        * Métodos de acceso en los sistemas de archivos
+          * Acceso secuencial
+          * Acceso directo
+          * Acceso directo indexado
+        * Operaciones soportadas por el subsitema de ficheros
+          * Create / Crear
+          * Delete / Borrar
+          * Open / Abrir
+          * Close / Cerrar
+          * Read, write / Leer, escribir
+          * Append / Concatenar
+          * Seek / Localizar
+          * Get attributes / Leer attributes
+          * Set attributes / Poner atributos
+          * Rename / Renombrar
+    * Categorías de sistemas operativos
+      * Por número de capas 
+      * Por localización
+      * Por gestión del tiempo
+    * Generaciones de sistemas operativos
+      * 1
+      * 2
+      * 3
+      * 4
 
 60. Sistemas operativos UNIX-LINUX. Fundamentos, administración, instalación, gestión.
 
 61. Sistemas operativos Microsoft. Fundamentos, administración, instalación, gestión.
+
+    * Familias de sistemas operativos de Microsoft
+      * MS-DOS 
+      * Windows basado en MS-DOS
+      * Windows basado en NT
+      * Windows Server
+    * Arquitectura de Windows NT
+      * Modos
+        * Usuario
+        * Núcleo 
+      * Conceptos
+        * Aplicación
+        * Tarea
+        * Proceso 
+        * Hilo
+        * Fibra
+        * Registro de Windows
+      * Componentes
+        * Usuario
+          * User Mode System Processes / Procesos de sistema en modo usuario
+            * SYSTEM
+            * Session Manager / SMSS.EXE
+            * Win Logon / WINLOGON.EXE
+            * CSRSS.EXE
+          * Win32 API
+          * NTDLL.dll
+        * Núcleo
+          * Executive Services
+            * Executive System Subservices
+              * Object administrator
+              * Process administrator
+                * PEB (Process Environment Block)
+                * TEB (Thread Environment Block)
+              * Memory Administration
+                * MFT (Master File Table) 
+              * I/O Administration
+          * Device drivers / Manejadores de dispositivos
+          * Microkernel
+          * HAL (Hardware Abstraction Layer)
+        * File System
+          * FAT-16
+          * FAT-32
+          * NTFS
+        * Seguridad
+    * Versions de SOs de Microsoft
+      * MS-DOS 1.0
+      * MS-DOS 2.0
+      * MS-DOS 3.0
+      * Windows 3.0
+      * MS-DOS 5.0
+      * Windows 3.1
+      * Windows NT 3.1
+      * MS-DOS 7.0
+      * Windos 95
+      * Windows NT 4.0
+      * Windows 98
+      * MS-DOS 8.0
+      * Windows Me
+      * Windows 2000
+      * Windows XP
+      * Windows Server 2003
+      * Windows Vista
+      * Windows Server 2008
+      * Windows 7
+      * Windows Server 2008 R
+      * Windows 8
+      * Windows Server 2012
+      * Windows 8.1
+      * Windows Server 2012 R2
+      * Windows 10
+      * Windows Server 2016
+      * Windows 11
+      * Windows Server 2022
 
 62. Conceptos básicos de otros sistemas operativos: OS X, iOS, Android, z/OS. Sistemas operativos para dispositivos móviles.
 
@@ -906,8 +1040,6 @@ Exámenes revisados hasta convocatoria 2022.
 83. El tratamiento de imágenes. Tecnologías de digitalización y de impresión. Impresión 3D.
 
 84. Reconocimiento óptico de caracteres (OCR, ICR). Reconocimiento biométrico.
-    
-    
 
 85. El ciclo de vida de los sistemas de información. Modelos del ciclo de vida.
 

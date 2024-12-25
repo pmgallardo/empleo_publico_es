@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="QuizUI" version="4">
+  <OBJECT>
+    <ID name="QuizUI" mc="Standard.Package" uid="802f58ce-c2de-488c-adfb-1f3cbd3e5005"/>
+    <PID name="pyquizsuite" mc="Standard.Package" uid="bc1284b9-9c5c-411b-bab0-c877367c93bc"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[QuizUI]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="QuizFileConv" mc="Standard.Class" uid="42df98cf-8a22-48f1-894a-986dd35f3fcf"/>
+        <COMPID name="QuizCorrector" mc="Standard.Class" uid="a0ab1aaf-8e06-44cc-a5f5-57bea2d06a31"/>
+        <COMPID name="QuizCLIIO" mc="Standard.Class" uid="8057c27a-5cea-465a-84ab-535c1ac4a5ce"/>
+        <COMPID name="QuizCLIUI" mc="Standard.Class" uid="4164d786-5173-44cf-af33-6f3f5e8b4fe1"/>
+        <COMPID name="QuizManager" mc="Standard.Class" uid="85bbd314-c5b2-43d2-bc60-191229d46eeb"/>
+        <COMPID name="QuizSelector" mc="Standard.Class" uid="571e937d-97c1-43af-92e3-dc66941eb82d"/>
+        <COMPID name="QuizRunner" mc="Standard.Class" uid="30adf0e1-a776-4cf1-bba2-de4ca6b30168"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

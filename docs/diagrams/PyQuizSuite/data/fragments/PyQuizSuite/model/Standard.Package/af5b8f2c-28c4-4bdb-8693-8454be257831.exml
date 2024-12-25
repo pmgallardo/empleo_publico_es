@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="QuizCore" version="4">
+  <OBJECT>
+    <ID name="QuizCore" mc="Standard.Package" uid="af5b8f2c-28c4-4bdb-8693-8454be257831"/>
+    <PID name="pyquizsuite" mc="Standard.Package" uid="bc1284b9-9c5c-411b-bab0-c877367c93bc"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[QuizCore]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Assessment" mc="Standard.Class" uid="81c37d9b-e5d2-4db3-b19d-d9451d4853ac"/>
+        <COMPID name="QuestionPool" mc="Standard.Class" uid="4dbc04ff-e397-47a6-9122-55ffe78a22d2"/>
+        <COMPID name="Question" mc="Standard.Class" uid="625ac17f-444d-4314-a70c-994da3742a9f"/>
+        <COMPID name="Answered Assessment" mc="Standard.Class" uid="180d8b2b-caca-4eaa-a10d-2fc64cbad48f"/>
+        <COMPID name="AnsweredQuestion" mc="Standard.Class" uid="73ba5f8b-8dc6-41f5-bec9-0e2e9f5c70c3"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

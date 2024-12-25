@@ -1,0 +1,591 @@
+1- Señale la afirmación CORRECTA:
+A. La Ciencia de Datos, a pesar del término, no tiene nada que ver con el Big Data.
+B. Un analista de datos debe tener conocimientos en estadística.
+C. Las actuales aplicaciones de la Inteligencia Artificial generativa han convertido la Ciencia de Datos en un campo obsoleto.
+D. La Ciencia de Datos es un campo académico muy reciente que se originó en la segunda década de este siglo con el desarrollo del aprendizaje automático profundo.
+ANSWER: B
+
+2- ¿Cuál de las siguientes afirmaciones sobre el protocolo RADIUS es INCORRECTA?
+A. Fue desarrollado originalmente por Livingston Enterprises para la serie PortMaster de sus Servidores de Acceso a la Red (NAS)
+B. Utiliza MD5 como algoritmo criptográfico de hashing, lo que lo hace vulnerable a ataques de colisión.
+C. Utiliza TCP como protocolo de transporte para las comunicaciones entre cliente y servidor.
+D. Utiliza UDP como protocolo de transporte para las comunicaciones entre cliente y servidor.
+ANSWER: C
+
+3- ¿Cuál de las siguientes NO es una metodología ágil?
+A. WATERFALL.
+B. Extreme Programming (XP).
+C. KANBAN.
+D. SCRUM.
+ANSWER: A
+
+4- ¿Qué es un sistema de tiempo real?
+A. Un sistema operativo multitarea.
+B. Un sistema que debe responder a eventos o datos de entrada dentro de un plazo específico.
+C. Un sistema de base de datos distribuido.
+D. Un sistema especialmente rápido.
+ANSWER: B
+
+5- ¿Qué es un Keylogger?
+A. Un software que cifra archivos para proteger de accesos no autorizados.
+B. Una herramienta que bloquea el acceso a sistemas cuando se detectan intentos de entrada no autorizados.
+C. Un gestor de contraseñas.
+D. Una herramienta que registra las pulsaciones de teclas en dispositivos y que puede utilizarse para robar información confidencial.
+ANSWER: D
+
+6- ¿Qué empresa es propietaria actualmente de la base de datos Web of Science?
+A. Elsevier.
+B. Penguin Books.
+C. Clarivate.
+D. Google.
+ANSWER: C
+
+7- Marque la respuesta INCORRECTA:
+A. Las unidades de proceso gráfico (GPU) han desplazado a las CPU como procesadores más eficientes para el aprendizaje profundo.
+B. La gran ventaja de las GPU es el reducido consumo energético requerido para su funcionamiento.
+C. La estructura de las GPUs permite realizar múltiples tareas del proceso en paralelo.
+D. Las GPUs también se utilizan en el entrenamiento de modelos de lenguaje de gran tamaño (Large Language Models, LLMs).
+ANSWER: B
+
+8- ¿Qué es una VDI (Infraestructura de Escritorio Virtual)?
+A. Una conexión de red privada entre dispositivos a través de Internet.
+B. Una solución para realizar copias de seguridad de datos en la nube.
+C. Una tecnología que proporciona un entorno de escritorio virtualizado que se ejecuta en un servidor remoto, accesible a través de Internet.
+D. Un entorno de escritorio virtualizado que se ejecuta en el dispositivo local del usuario.
+ANSWER: C
+
+9- ¿Qué es Digital.CSIC?
+A. Una plataforma de cursos online ofrecida por el CSIC.
+B. Un servicio de almacenamiento en la nube para investigadores del CSIC.
+C. Un repositorio que ofrece acceso a la producción científica del CSIC mediante suscripción.
+D. Un repositorio institucional que ofrece acceso abierto a la producción científica del CSIC.
+ANSWER: D
+
+10- ¿Cuál de los siguientes es un ejemplo de aplicación de un sistema de tiempo real?
+A. Procesamiento de textos.
+B. Sistema de control de tráfico aéreo.
+C. Navegación en internet.
+D. Reproducción de música.
+ANSWER: B
+
+11- ¿Cuál de las siguientes afirmaciones es CORRECTA respecto al proceso de Autenticación en un sistema AAA?
+A. Se asignan permisos a los usuarios para acceder a recursos específicos.
+B. Se registran las operaciones de los usuarios en el sistema.
+C. Se confirma la identidad de los usuarios antes de permitir el acceso al sistema.
+D. Se verifica que los datos transferidos en el sistema estén cifrados.
+ANSWER: C
+
+12- ¿Cuáles de las siguientes afirmaciones es CORRECTA?
+A. El uso de VPN (Red Privada Virtual) proporciona una conexión segura, pero no impide el rastreo de cookies en la navegación, ni previene la descarga o ejecución de software malicioso.
+B. Utilizar la misma contraseña para varias cuentas se considera una buena práctica de seguridad.
+C. Desactivar las actualizaciones automáticas en navegadores web mejora la seguridad.
+D. La navegación en modo incógnito evita el rastreo de la actividad por parte de terceros en línea y protege frente al malware.
+ANSWER: A
+
+13- ¿Qué es GitHub?
+A. Un software de código abierto de control de versiones.
+B. Una plataforma donde se puede almacenar y compartir código.
+C. Un repositorio de software licenciado bajo suscripción.
+D. Un servicio de almacenamiento en la nube exclusivo para personal del CSIC.
+ANSWER: B
+
+14- Señale la aseveración INCORRECTA sobre las aplicaciones de la Ciencia de Datos en investigación:
+A. Además de su creciente importancia en sectores como la educación, la salud, el e-comercio, o el financiero, la Ciencia de datos también encuentra aplicación en la investigación científica, por ejemplo, en la astroinformática o en la bioinformática.
+B. Algunos de los usos destacados de la Ciencia de Datos en biología son en secuencia del ADN y en clasificación de proteínas.
+C. La astroinformática, y a su través, la Ciencia de Datos, no tiene aplicación posible en la moderna cosmología.
+D. La gran cantidad de datos suministrados por radiotelescopios, el telescopio Hubble, o el observatorio de rayos X Chandra convierten a la Ciencia de Datos en una herramienta imprescindible para la astronomía moderna.
+ANSWER: C
+
+15- ¿Qué es el smishing?
+A. Un tipo de fraude basado en la ingeniería social y en la suplantación de identidad que se realiza a través de llamadas telefónicas.
+B. Noticias falsas que circulan principalmente por Internet a través de redes sociales o apps de mensajería como WhatsApp.
+C. Un tipo de ciberataque basado en el envío de mensajes de texto (SMS).
+D. Un método de protección de contraseñas mediante autenticación de dos factores.
+ANSWER: C
+
+16- ¿Cuál de estos conceptos no está asociado a SCRUM?
+A. SCRUM Master.
+B. Product Backlog.
+C. Daily Meeting.
+D. Diagrama de Gantt.
+ANSWER: D
+
+17- ¿Qué es un actuador en el contexto de la robótica?
+A. Un dispositivo que convierte energía en movimiento.
+B. Un sensor de temperatura.
+C. Un software de control.
+D. Un tipo de batería.
+ANSWER: A
+
+18- ¿Qué es IEEE Xplore?
+A. Una base de datos de investigación académica que proporciona artículos y trabajos sobre Ciencias de la Computación, Ingeniería Eléctrica y Electrónica.
+B. Una base de datos de investigación académica que proporciona artículos y trabajos sobre Astronomía y Astrofísica.
+C. Un protocolo de metadatos.
+D. Un repositorio digital de artículos académicos desarrollado en el CSIC.
+ANSWER: A
+
+19- ¿Cuál de las siguientes afirmaciones sobre el protocolo TACACS+ es CORRECTA?
+A. Cifra todo el contenido de la comunicación entre el cliente y el servidor.
+B. Utiliza UDP para la comunicación entre cliente y servidor.
+C. Se considera una evolución del protocolo RADIUS.
+D. Utiliza el puerto TCP 1813 para las comunicaciones.
+ANSWER: A
+
+20- ¿Cuál es uno de los principios fundamentales de la metodología KANBAN?
+A. Roles claramente definidos para cada miembro del equipo.
+B. Trabajo dividido en sprints.
+C. Priorización de historias de usuario.
+D. Limitar el trabajo en proceso (WIP).
+ANSWER: D
+
+21- ¿Cuál de los siguientes repositorios ofrece TODO su contenido en acceso abierto?
+A. JSTOR.
+B. ScienceDirect.
+C. PubMed Central.
+D. Wiley Online Library.
+ANSWER: C
+
+22- Señale la respuesta CORRECTA sobre las cámaras de tiempo de vuelo:
+A. Las cámaras de tiempo de vuelo no se pueden utilizar en aplicaciones de robótica.
+B. Las cámaras de tiempo de vuelo miden el tiempo que un UAV (dron) está en el aire.
+C. La base del funcionamiento de las cámaras de tiempo de vuelo es la medida de distancias recorridas por un haz de luz infrarroja.
+D. Las cámaras de tiempo de vuelo se basan en medir el cambio de fase de una señal de ultrasonidos.
+ANSWER: C
+
+23- ¿Cuál de las siguientes herramientas de software proporciona un espacio de trabajo digital unificado, que permite a los usuarios acceder a sus aplicaciones y escritorios virtuales desde cualquier dispositivo y ubicación?
+A. Nagios.
+B. Zabbix.
+C. EndNote.
+D. Citrix Workspace.
+ANSWER: D
+
+24- ¿Cuál es una de las características de SCOPUS?
+A. Proporciona acceso a citas, resúmenes y métricas de impacto de artículos en revistas académicas mediante suscripción.
+B. Proporciona guías de publicación de revistas electrónicas.
+C. Es una base de datos temática sobre ciencias de la vida.
+D. Proporciona acceso abierto a todo su contenido.
+ANSWER: A
+
+25- Marque la respuesta CORRECTA sobre el sesgo en el aprendizaje automático:
+A. El uso de una fuente de datos tan extensa como internet garantiza la ausencia de sesgo en los datos extraídos.
+B. Si los datos utilizados en el aprendizaje son imágenes, es imposible que se produzca un aprendizaje sesgado.
+C. El proceso de anotación de imágenes es crítico y se ha de prestar especial atención durante el mismo para evitar o reducir el sesgo en el aprendizaje basado en imágenes.
+D. El sesgo que puede aparecer durante el aprendizaje automático se debe más a los algoritmos de aprendizaje que a los datos suministrados para el aprendizaje.
+ANSWER: C
+
+26- ¿Qué es la integración de instrumentación en robótica?
+A. El uso de instrumentos musicales en robots.
+B. La incorporación de sensores y actuadores en sistemas robóticos.
+C. La creación de software para robots.
+D. El diseño de hardware para robots.
+ANSWER: B
+
+27- ¿Cuál de los siguientes es un ejemplo de software de código abierto?
+A. Microsoft Office.
+B. Adobe Photoshop.
+C. Linux.
+D. AutoCad.
+ANSWER: C
+
+28- ¿Cuál de las siguientes es una fase clave en la gestión de proyectos según el
+enfoque tradicional?
+A. Creación de sprints
+B. Análisis de requisitos
+C. Implementación ágil
+D. Procesamiento de Big Data
+ANSWER: B
+
+29- ¿Cuál de los siguientes lenguajes es más comúnmente usado para computación
+científica debido a sus capacidades numéricas?
+A. HTML
+B. Postscript
+C. Python
+D. PHP
+ANSWER: C
+
+30- ¿Qué estructura de datos es la más adecuada para implementar un mecanismo
+LIFO de último en entrar, primero en salir (Last In, First Out)?
+A. Cola
+B. Pila
+C. Lista enlazada
+D. Tabla hash
+ANSWER: B
+
+31- ¿Cuál de los siguientes es un paso crucial en el diseño de casos de estudio para
+garantizar resultados válidos y fiables?
+A. Seleccionar un tamaño de muestra basándose únicamente en la conveniencia.
+B. Centrarse en un único método de recopilación de datos para simplificar el análisis.
+C. Definir claramente las preguntas y los objetivos de la investigación antes de la
+recopilación de datos.
+D. Evitar las entrevistas a los participantes para minimizar el sesgo.
+ANSWER: C
+
+32- ¿Cuál de las siguientes afirmaciones es cierta sobre las listas y vectores (array)
+con implementación clásica?
+A. Los arrays permiten insertar y eliminar elementos en posiciones arbitrarias con
+mayor rapidez que las listas.
+B. Los arrays permiten cambio de tamaño dinámico, a diferencia de las listas.
+C. Los arrays requieren una asignación de memoria contigua lo que puede generar
+problemas de asignación de memoria para conjuntos de datos grandes.
+D. Las listas hacen un uso más eficiente de memoria que los arrays.
+ANSWER: C
+
+33- ¿Cuál de las siguientes estructuras de datos es mejor para implementar una cola
+de prioridad (priority queue)?
+A. Lista enlazada doble
+B. Pila
+C. Montículo o árbol binario (Binary Heap)
+D. Cola circular
+ANSWER: C
+
+34- ¿Cuál es la complejidad de tiempo promedio para buscar un elemento en una tabla
+de hash bien implementada?
+A. O(n)
+B. O(n log n)
+C. O(log n)
+D. O(1)
+ANSWER: D
+
+35- ¿Qué algoritmo se utiliza comúnmente para encontrar el camino más corto desde
+un nodo fuente a todos los demás nodos en un grafo ponderado?
+A. Algoritmo de Dijkstra
+B. Algoritmo de Prim
+C. Búsqueda en profundidad (DFS)
+D. Algoritmo de Kruskal
+ANSWER: A
+
+36- ¿Cuál de las siguientes estructuras de datos permite la búsqueda más eficiente
+en el peor de los casos?
+A. Árbol AVL
+B. Lista doblemente enlazada
+C. Pila
+D. Árbol binario de búsqueda no balanceado
+ANSWER: A
+
+37- ¿Qué muestra un diagrama de Gantt en la gestión de proyectos?
+A. El presupuesto del proyecto
+B. La asignación de recursos financieros
+C. La duración de las tareas y su cronograma
+D. Los riesgos y problemas del proyecto
+ANSWER: C
+
+38- ¿Cómo puede Python ser útil en el análisis de datos de un caso de estudio en
+investigación científica?
+A. Generando hipótesis teóricas automáticamente.
+B. Creando gráficos y visualizaciones de datos con librerías como Matplotlib o Seaborn.
+C. Recolectando datos cualitativos de manera manual.
+D. Escribiendo informes de investigación de manera automática.
+ANSWER: B
+
+39- ¿Cuál es el principal objetivo de la fase de planificación en un proyecto?
+A. Completar todas las tareas.
+B. Definir el alcance y los objetivos.
+C. Revisar el proyecto finalizado.
+D. Monitorear los riesgos.
+ANSWER: B
+
+40- Para ordenar una lista de forma eficientemente cuál de los siguientes algoritmos
+NO debería utilizar:
+A. Merge sort (por mezcla)
+B. Quick sort (rápido)
+C. Bubble sort (método de burbuja)
+D. Heap sort (por montículos)
+ANSWER: C
+
+41- ¿Cuál es la principal diferencia entre un árbol AVL y un árbol binario de búsqueda
+no balanceado?
+A. El árbol AVL permite nodos duplicados
+B. El árbol AVL se equilibra automáticamente
+C. El árbol binario garantiza tiempos logarítmicos en el peor caso
+D. El árbol AVL solo admite enteros como nodos
+ANSWER: B
+
+42- ¿Cuál es la complejidad de la búsqueda binaria en un vector ordenado?
+A. O(n)
+B. O(n log n)
+C. O(log n)
+D. O(1)
+ANSWER: C
+
+43- En la segunda línea de un programa en Python nos encontramos la instrucción
+x[3] = 2. Indicar cuál de las afirmaciones es CORRECTA:
+A. Si en la primera línea se ha declarado x como lista: x = [ ] dará error.
+B. Si en la primera línea hemos declarado x como dictionary x = { } dará error.
+C. Tanto si hemos declarado x como x = [ ] o como x = { } dará error.
+D. En ninguno de los casos dará error.
+ANSWER: A
+
+44- Qué valor devuelve la expresión bool(0)?
+A. True
+B. False
+C. 0
+D. None
+ANSWER: B
+
+45- ¿Cuál es el peor caso para la búsqueda en un árbol binario de búsqueda
+desbalanceado?
+A. O(log n)
+B. O(n)
+C. O(n log n)
+D. O(1)
+ANSWER: B
+
+46- ¿Cuál de las siguientes instrucciones es válida para incrementar el valor de la
+variable x en Python?
+A. x += 1
+B. x++
+C. Ninguna de las dos
+D. Ambas son válidas
+ANSWER: A
+
+47- En la programación en R, ¿cuál es el propósito de la función lapply()?
+A. Visualizar datos mediante funciones de representación gráfica integradas.
+B. Aplicar una función a todos los elementos de un vector o lista.
+C. Crear y administrar marcos de datos.
+D. Gestionar datos indefinidos en un conjunto de datos.
+ANSWER: B
+
+48- ¿Cuál es la función en R que se utiliza comúnmente para crear un modelo de
+regresión lineal?
+A. lm()
+B. glm()
+C. predict()
+D. summary()
+ANSWER: A
+
+49- ¿Qué método se usa para agregar un elemento al final de una lista en Python?
+A. append()
+B. add()
+C. insert()
+D. push()
+ANSWER: A
+
+50- ¿Qué paquete de R es conocido por facilitar la creación de gráficos complejos y
+visualizaciones de datos?
+A. Dplyr
+B. ggplot2
+C. shiny
+D. readr
+ANSWER: B
+
+51- En el desarrollo ágil de software, ¿cuál es el objetivo principal del rol del
+propietario del producto (Product Owner)?
+A. Escribir y probar el código.
+B. Gestionar el equipo y asignar tareas a cada componente.
+C. Definir y priorizar la lista de trabajos a realizar (backlog) en función de los interesados
+(stakeholder).
+D. Asegurarse de que el equipo siga las prácticas ágiles y elimine los obstáculos.
+ANSWER: C
+
+52- En una base de datos relacional, tenemos dos tablas: Investigadores y Proyectos.
+La tabla Proyectos tiene un campo ResearcherID que hace referencia al
+ResearcherID en la tabla Investigadores. ¿Qué sucederá si se intenta eliminar un
+investigador que todavía está asignado a un proyecto, sin ningún cambio
+adicional?
+A. Se eliminará al investigador y el proyecto tendrá un ResearcherID nulo.
+B. La base de datos evitará la eliminación para mantener la integridad referencial.
+C. Se eliminarán el investigador y todos los proyectos relacionados.
+D. El proyecto se reasignará automáticamente a un investigador predeterminado.
+ANSWER: B
+
+53- ¿Cuál de las siguientes opciones es una forma CORRECTA de crear una lista por
+comprensión en Python?
+A. [x for x in range(10)]
+B. (x for x in range(10))
+C. y = [for x in range(10)]
+D. list(x in range(10))
+ANSWER: A
+
+54- ¿Cuál es la principal ventaja de utilizar bases de datos relacionales en
+aplicaciones científicas?
+A. Permiten almacenar datos no estructurados.
+B. Facilitan consultas complejas con SQL mediante relaciones entre tablas.
+C. No requieren esquemas definidos para los datos.
+D. Integran datos como objetos para lenguajes orientados a objetos.
+ANSWER: B
+
+55- ¿Cuál es la salida de la expresión print(3 ** 2) en Python?
+A. 5
+B. 6
+C. 8
+D. 9
+ANSWER: D
+
+56- ¿Cuál de las siguientes instrucciones utilizaría en SQL para hallar los
+empleados del departamento de ventas que cobran más de 3000€?
+A. SELECT empleado IF salario(empleado) > 3000 AND departamento(empleado)
+= ‘Ventas’;
+B. SELECT nombre, salario FROM empleados WHERE salario > 3000 AND
+departamento = 'Ventas';
+C. FROM empleados SELECT WHERE salario > 3000 AND departamento = ‘Ventas’;
+D. IF salario > 3000 AND departamento = ‘Ventas’ THEN SELECT empleado;
+ANSWER: B
+
+57- ¿Cuál de las siguientes es una palabra clave utilizada para definir una función en Python?
+A. def
+B. func
+C. lambda
+D. method
+ANSWER: A
+
+58- ¿Cuál de las siguientes bases de datos es un ejemplo de una base de datos NoSQL orientada a documentos?
+A. PostgreSQL
+B. MongoDB
+C. MySQL
+D. SQLite
+ANSWER: B
+
+59- En el marco de MapReduce, ¿cuál es la función principal de la función Reduce?
+A. Dividir grandes conjuntos de datos en fragmentos más pequeños para su procesamiento en paralelo.
+B. Filtrar datos innecesarios durante la fase de procesamiento.
+C. Agregar y combinar los resultados intermedios producidos por la función Map.
+D. Distribuir los datos de entrada entre varios nodos del clúster.
+ANSWER: C
+
+60- ¿Cuál de las siguientes librerias de Python se utiliza principalmente para cálculos numéricos y para manejar arrays multidimensionales de gran tamaño?
+A. Pandas
+B. SciPy
+C. NumPy
+D. Matplotlib
+ANSWER: C
+
+61- ¿Qué herramienta de depuración se utiliza principalmente para identificar una gestión inadecuada de la memoria en un programa?
+A. Analizador de código estático.
+B. Generador de perfiles de memoria.
+C. Sistema de control de versiones.
+D. Formateador de código.
+ANSWER: B
+
+62- ¿Cuál de las siguientes herramientas de Python se usa para la depuración paso a paso de código?
+A. Pandas
+B. pdb
+C. pip
+D. NumPy
+ANSWER: B
+
+63- ¿Qué técnica utilizaría para resolver el problema de las N reinas (colocar N reinas en un tablero de ajedrez sin que se amenacen entre ellas)?
+A. Backtracking
+B. Algoritmo de Kruskal
+C. Recursión
+D. Heapsort
+ANSWER: A
+
+64- ¿Cuál es el resultado de la siguiente expresión len([1, 2, 3, 5]) en Python?
+A. 3
+B. 4
+C. 5
+D. 10
+ANSWER: B
+
+65- ¿Cuál de los siguientes problemas es un ejemplo clásico de un problema combinatorio NP-completo?
+A. Problema del camino más corto.
+B. Problema del viajante TSP (Travelling Salesman Problem).
+C. Algoritmo de búsqueda binaria.
+D. Problema de la suma de subconjuntos.
+ANSWER: B
+
+66- ¿Cuál de las siguientes funciones se utiliza para abrir un archivo en Python?
+A. Read()
+B. open()
+C. file()
+D. write()
+ANSWER: B
+
+67- ¿Cuál de las siguientes técnicas es comúnmente utilizada en minería de datos textual para identificar la frecuencia de términos?
+A. Árboles de decisión.
+B. Clustering jerárquico.
+C. TF-IDF (Term Frequency-Inverse Document Frequency).
+D. Algoritmo de K-vecino.
+ANSWER: C
+
+68- ¿Para un problema NP-completo cual podría ser su complejidad usando un algoritmo de fuerza bruta?
+A. O(n)
+B. O(n²)
+C. O(2n)
+D. O(log n)
+ANSWER: C
+
+69- ¿Qué enfoque se usa en el algoritmo de fuerza bruta para resolver problemas combinatorios?
+A. Dividir el problema en partes más pequeñas (divide y vencerás).
+B. Probar todas las posibles combinaciones hasta encontrar una solución.
+C. Utilizar heurísticas para aproximar una solución.
+D. Eliminar ramas del espacio de búsqueda no necesarias.
+ANSWER: B
+
+70- ¿Cuál es el enfoque principal de los algoritmos de ramificación y poda (branch and bound)?
+A. Probar todas las combinaciones posibles.
+B. Generar soluciones aproximadas rápidamente.
+C. Reducir el espacio de búsqueda eliminando soluciones imposibles.
+D. Descomponer el problema en subproblemas y combinar sus soluciones.
+ANSWER: C
+
+71- ¿Cómo están implementados internamente los diccionarios de Python?
+A. Como tablas de hash.
+B. Listas enlazadas.
+C. Arboles binarios de búsqueda.
+D. Como vectores.
+ANSWER: A
+
+72- ¿Cuál de las siguientes librerías de Python proporcionan una implementación eficiente de la transformada rápida de Fourier?
+A. SciPy
+B. NumPy
+C. Ambas librerías
+D. Ninguna de las dos
+ANSWER: C
+
+73- ¿Qué técnica de procesamiento de imágenes se utiliza habitualmente para mejorar los bordes de los objetos dentro de una imagen?
+A. Gaussian Blur (Desenfoque gaussiano)
+B. Edge Detection (Detección de bordes)
+C. Histogram Equalization (Ecualización de histograma)
+D. Image Thresholding (Umbralización de imagen)
+ANSWER: B
+
+74- ¿Cuál de los siguientes algoritmos se utiliza para convertir una señal del dominio del tiempo al dominio de la frecuencia de manera eficiente?
+A. Algoritmo de Dijkstra
+B. Transformada rápida de Fourier (FFT)
+C. Algoritmo de Bellman-Ford
+D. Transformada de Laplace
+ANSWER: B
+
+75- En gnuplot, ¿cómo se puede mostrar el fichero data.txt usando la segunda
+columna para el eje de las x y la tercera para el de las y?
+A. plot 'data.txt' using 2:3
+B. plot 'data.txt' x=2 y=3
+C. plot 'data.txt' columns=2,3
+D. plot 'data.txt' axes 2:3
+ANSWER: A
+
+76- Para implementar conjuntos de pares clave – valor en Python usaré:
+A. Listas porque son las únicas estructuras de datos de Python.
+B. Simplemente conjuntos.
+C. Diccionarios porque permiten acceder al valor asociado a una clave eficientemente.
+D. Una tupla que represente el par formado por la clave y el valor.
+ANSWER: C
+
+77- ¿Cuál es la complejidad computacional de la Transformada Rápida de Fourier (FFT) en relación al tamaño de la entrada n?
+A. O(n2).
+B. O(n log n).
+C. O(en).
+D. Ninguna de las respuestas previas ya que FFT computa el valor exacto de la transformada de Fourier continua.
+ANSWER: B
+
+78- ¿Qué tipo de gráfico sería el más adecuado para comparar la relación entre dos variables numéricas?
+A. Gráfico de barras
+B. Gráfico circular
+C. Diagrama de dispersión (scatter plot)
+D. Histograma
+ANSWER: C
+
+79- ¿Qué técnica de procesamiento de imágenes reduce el ruido mientras preserva los bordes, calculando un promedio ponderado de los píxeles según su proximidad y similitud de intensidad?
+A. Median Filtering.
+B. Gaussian Smoothing.
+C. Bilateral Filtering.
+D. Sobel Filtering.
+ANSWER: C
+
+80- ¿Cuál de las siguientes operaciones es comúnmente utilizada en el procesamiento de imágenes para suavizar bordes y reducir ruido?
+A. Transformada rápida de Fourier.
+B. Filtros de convolución.
+C. Algoritmo de Dijkstra.
+D. Segmentación de imágenes.
+ANSWER: B

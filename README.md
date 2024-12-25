@@ -1,7 +1,7 @@
 # empleo_publico_es
 Aid for Spanish Public Employment candidates.
 
-Ayuda para candidatos al empleo público en las Administraciones Públicas (AAPP) de España.
+Ayuda para candidatos al empleo público en sector público de España.
 
 ## Resumen
 

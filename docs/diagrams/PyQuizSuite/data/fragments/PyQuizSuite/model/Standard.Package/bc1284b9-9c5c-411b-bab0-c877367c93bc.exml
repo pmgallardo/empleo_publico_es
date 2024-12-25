@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="pyquizsuite" version="4">
+  <OBJECT>
+    <ID name="pyquizsuite" mc="Standard.Package" uid="bc1284b9-9c5c-411b-bab0-c877367c93bc"/>
+    <PID name="PyQuizSuite" mc="Standard.Project" uid="a845628b-3724-44b8-9c66-b5a1766dab2c"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[pyquizsuite]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="QuizUI" mc="Standard.Package" uid="802f58ce-c2de-488c-adfb-1f3cbd3e5005"/>
+        <COMPID name="QuizCore" mc="Standard.Package" uid="af5b8f2c-28c4-4bdb-8693-8454be257831"/>
+        <COMPID name="QuizCreator" mc="Standard.Class" uid="fcebb909-8748-4afd-919b-4b360e9a24e4"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="pyquizsuite Class diagram" mc="Standard.ClassDiagram" uid="c5983640-c5a3-4112-85a7-d17ed51da609"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

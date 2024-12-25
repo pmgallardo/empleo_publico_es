@@ -1,0 +1,559 @@
+1- Señale la afirmación CORRECTA:
+A. La Ciencia de Datos, a pesar del término, no tiene nada que ver con el Big Data.
+B. Un analista de datos debe tener conocimientos en estadística.
+C. Las actuales aplicaciones de la Inteligencia Artificial generativa han convertido la Ciencia de Datos en un campo obsoleto.
+D. La Ciencia de Datos es un campo académico muy reciente que se originó en la segunda década de este siglo con el desarrollo del aprendizaje automático profundo.
+ANSWER: B
+
+2- ¿Cuál de las siguientes afirmaciones sobre el protocolo RADIUS es INCORRECTA?
+A. Fue desarrollado originalmente por Livingston Enterprises para la serie PortMaster de sus Servidores de Acceso a la Red (NAS)
+B. Utiliza MD5 como algoritmo criptográfico de hashing, lo que lo hace vulnerable a ataques de colisión.
+C. Utiliza TCP como protocolo de transporte para las comunicaciones entre cliente y servidor.
+D. Utiliza UDP como protocolo de transporte para las comunicaciones entre cliente y servidor.
+ANSWER: C
+
+3- ¿Cuál de las siguientes NO es una metodología ágil?
+A. WATERFALL.
+B. Extreme Programming (XP).
+C. KANBAN.
+D. SCRUM.
+ANSWER: A
+
+4- ¿Qué es un sistema de tiempo real?
+A. Un sistema operativo multitarea.
+B. Un sistema que debe responder a eventos o datos de entrada dentro de un plazo específico.
+C. Un sistema de base de datos distribuido.
+D. Un sistema especialmente rápido.
+ANSWER: B
+
+5- ¿Qué es un Keylogger?
+A. Un software que cifra archivos para proteger de accesos no autorizados.
+B. Una herramienta que bloquea el acceso a sistemas cuando se detectan intentos de entrada no autorizados.
+C. Un gestor de contraseñas.
+D. Una herramienta que registra las pulsaciones de teclas en dispositivos y que puede utilizarse para robar información confidencial.
+ANSWER: D
+
+6- ¿Qué empresa es propietaria actualmente de la base de datos Web of Science?
+A. Elsevier.
+B. Penguin Books.
+C. Clarivate.
+D. Google.
+ANSWER: C
+
+7- Marque la respuesta INCORRECTA:
+A. Las unidades de proceso gráfico (GPU) han desplazado a las CPU como procesadores más eficientes para el aprendizaje profundo.
+B. La gran ventaja de las GPU es el reducido consumo energético requerido para su funcionamiento.
+C. La estructura de las GPUs permite realizar múltiples tareas del proceso en paralelo.
+D. Las GPUs también se utilizan en el entrenamiento de modelos de lenguaje de gran tamaño (Large Language Models, LLMs).
+ANSWER: B
+
+8- ¿Qué es una VDI (Infraestructura de Escritorio Virtual)?
+A. Una conexión de red privada entre dispositivos a través de Internet.
+B. Una solución para realizar copias de seguridad de datos en la nube.
+C. Una tecnología que proporciona un entorno de escritorio virtualizado que se ejecuta en un servidor remoto, accesible a través de Internet.
+D. Un entorno de escritorio virtualizado que se ejecuta en el dispositivo local del usuario.
+ANSWER: C
+
+9- ¿Qué es Digital.CSIC?
+A. Una plataforma de cursos online ofrecida por el CSIC.
+B. Un servicio de almacenamiento en la nube para investigadores del CSIC.
+C. Un repositorio que ofrece acceso a la producción científica del CSIC mediante suscripción.
+D. Un repositorio institucional que ofrece acceso abierto a la producción científica del CSIC.
+ANSWER: D
+
+10- ¿Cuál de los siguientes es un ejemplo de aplicación de un sistema de tiempo real?
+A. Procesamiento de textos.
+B. Sistema de control de tráfico aéreo.
+C. Navegación en internet.
+D. Reproducción de música.
+ANSWER: B
+
+11- ¿Cuál de las siguientes afirmaciones es CORRECTA respecto al proceso de Autenticación en un sistema AAA?
+A. Se asignan permisos a los usuarios para acceder a recursos específicos.
+B. Se registran las operaciones de los usuarios en el sistema.
+C. Se confirma la identidad de los usuarios antes de permitir el acceso al sistema.
+D. Se verifica que los datos transferidos en el sistema estén cifrados.
+ANSWER: C
+
+12- ¿Cuáles de las siguientes afirmaciones es CORRECTA?
+A. El uso de VPN (Red Privada Virtual) proporciona una conexión segura, pero no impide el rastreo de cookies en la navegación, ni previene la descarga o ejecución de software malicioso.
+B. Utilizar la misma contraseña para varias cuentas se considera una buena práctica de seguridad.
+C. Desactivar las actualizaciones automáticas en navegadores web mejora la seguridad.
+D. La navegación en modo incógnito evita el rastreo de la actividad por parte de terceros en línea y protege frente al malware.
+ANSWER: A
+
+13- ¿Qué es GitHub?
+A. Un software de código abierto de control de versiones.
+B. Una plataforma donde se puede almacenar y compartir código.
+C. Un repositorio de software licenciado bajo suscripción.
+D. Un servicio de almacenamiento en la nube exclusivo para personal del CSIC.
+ANSWER: B
+
+14- Señale la aseveración INCORRECTA sobre las aplicaciones de la Ciencia de Datos en investigación:
+A. Además de su creciente importancia en sectores como la educación, la salud, el e-comercio, o el financiero, la Ciencia de datos también encuentra aplicación en la investigación científica, por ejemplo, en la astroinformática o en la bioinformática.
+B. Algunos de los usos destacados de la Ciencia de Datos en biología son en secuencia del ADN y en clasificación de proteínas.
+C. La astroinformática, y a su través, la Ciencia de Datos, no tiene aplicación posible en la moderna cosmología.
+D. La gran cantidad de datos suministrados por radiotelescopios, el telescopio Hubble, o el observatorio de rayos X Chandra convierten a la Ciencia de Datos en una herramienta imprescindible para la astronomía moderna.
+ANSWER: C
+
+15- ¿Qué es el smishing?
+A. Un tipo de fraude basado en la ingeniería social y en la suplantación de identidad que se realiza a través de llamadas telefónicas.
+B. Noticias falsas que circulan principalmente por Internet a través de redes sociales o apps de mensajería como WhatsApp.
+C. Un tipo de ciberataque basado en el envío de mensajes de texto (SMS).
+D. Un método de protección de contraseñas mediante autenticación de dos factores.
+ANSWER: C
+
+16- ¿Cuál de estos conceptos no está asociado a SCRUM?
+A. SCRUM Master.
+B. Product Backlog.
+C. Daily Meeting.
+D. Diagrama de Gantt.
+ANSWER: D
+
+17- ¿Qué es un actuador en el contexto de la robótica?
+A. Un dispositivo que convierte energía en movimiento.
+B. Un sensor de temperatura.
+C. Un software de control.
+D. Un tipo de batería.
+ANSWER: A
+
+18- ¿Qué es IEEE Xplore?
+A. Una base de datos de investigación académica que proporciona artículos y trabajos sobre Ciencias de la Computación, Ingeniería Eléctrica y Electrónica.
+B. Una base de datos de investigación académica que proporciona artículos y trabajos sobre Astronomía y Astrofísica.
+C. Un protocolo de metadatos.
+D. Un repositorio digital de artículos académicos desarrollado en el CSIC.
+ANSWER: A
+
+19- ¿Cuál de las siguientes afirmaciones sobre el protocolo TACACS+ es CORRECTA?
+A. Cifra todo el contenido de la comunicación entre el cliente y el servidor.
+B. Utiliza UDP para la comunicación entre cliente y servidor.
+C. Se considera una evolución del protocolo RADIUS.
+D. Utiliza el puerto TCP 1813 para las comunicaciones.
+ANSWER: A
+
+20- ¿Cuál es uno de los principios fundamentales de la metodología KANBAN?
+A. Roles claramente definidos para cada miembro del equipo.
+B. Trabajo dividido en sprints.
+C. Priorización de historias de usuario.
+D. Limitar el trabajo en proceso (WIP).
+ANSWER: D
+
+21- ¿Cuál de los siguientes repositorios ofrece TODO su contenido en acceso abierto?
+A. JSTOR.
+B. ScienceDirect.
+C. PubMed Central.
+D. Wiley Online Library.
+ANSWER: C
+
+22- Señale la respuesta CORRECTA sobre las cámaras de tiempo de vuelo:
+A. Las cámaras de tiempo de vuelo no se pueden utilizar en aplicaciones de robótica.
+B. Las cámaras de tiempo de vuelo miden el tiempo que un UAV (dron) está en el aire.
+C. La base del funcionamiento de las cámaras de tiempo de vuelo es la medida de distancias recorridas por un haz de luz infrarroja.
+D. Las cámaras de tiempo de vuelo se basan en medir el cambio de fase de una señal de ultrasonidos.
+ANSWER: C
+
+23- ¿Cuál de las siguientes herramientas de software proporciona un espacio de trabajo digital unificado, que permite a los usuarios acceder a sus aplicaciones y escritorios virtuales desde cualquier dispositivo y ubicación?
+A. Nagios.
+B. Zabbix.
+C. EndNote.
+D. Citrix Workspace.
+ANSWER: D
+
+24- ¿Cuál es una de las características de SCOPUS?
+A. Proporciona acceso a citas, resúmenes y métricas de impacto de artículos en revistas académicas mediante suscripción.
+B. Proporciona guías de publicación de revistas electrónicas.
+C. Es una base de datos temática sobre ciencias de la vida.
+D. Proporciona acceso abierto a todo su contenido.
+ANSWER: A
+
+25- Marque la respuesta CORRECTA sobre el sesgo en el aprendizaje automático:
+A. El uso de una fuente de datos tan extensa como internet garantiza la ausencia de sesgo en los datos extraídos.
+B. Si los datos utilizados en el aprendizaje son imágenes, es imposible que se produzca un aprendizaje sesgado.
+C. El proceso de anotación de imágenes es crítico y se ha de prestar especial atención durante el mismo para evitar o reducir el sesgo en el aprendizaje basado en imágenes.
+D. El sesgo que puede aparecer durante el aprendizaje automático se debe más a los algoritmos de aprendizaje que a los datos suministrados para el aprendizaje.
+ANSWER: C
+
+26- ¿Qué es la integración de instrumentación en robótica?
+A. El uso de instrumentos musicales en robots.
+B. La incorporación de sensores y actuadores en sistemas robóticos.
+C. La creación de software para robots.
+D. El diseño de hardware para robots.
+ANSWER: B
+
+27- ¿Cuál de los siguientes es un ejemplo de software de código abierto?
+A. Microsoft Office.
+B. Adobe Photoshop.
+C. Linux.
+D. AutoCad.
+ANSWER: C
+
+28- ¿Qué comando git inicia un nuevo repositorio de git?
+A. git init.
+B. git config.
+C. git add.
+D. git commit.
+ANSWER: A
+
+29- ¿Cuál de los siguientes NO es un gestor de paquetes utilizados en las distribuciones Linux?
+A. apt.
+B. dnf.
+C. yum.
+D. curl.
+ANSWER: D
+
+30- ¿Qué propiedad de la seguridad de la información garantiza que la información no se difunda a personas no autorizadas?
+A. Trazabilidad.
+B. Disponibilidad.
+C. Confidencialidad.
+D. No repudio.
+ANSWER: C
+
+31- En entornos de Alta Disponibilidad (HA), ¿cómo podemos garantizar el cumplimiento del servicio con proveedores externos?
+A. No es posible.
+B. Mediante políticas en el cortafuegos.
+C. Con la firma de acuerdos de nivel de servicio (SLA).
+D. Conectando directamente la red de los proveedores externos.
+ANSWER: C
+
+32- ¿Qué parte del procesador es la encargada de realizar las operaciones aritméticas y lógicas con los datos?
+A. Memoria Caché.
+B. Bus del sistema.
+C. ALU.
+D. Bus de control.
+ANSWER: C
+
+33- En relación al almacenamiento de datos en la nube, indica la respuesta CORRECTA:
+A. El proveedor gestiona y mantiene de manera segura los servidores de almacenamiento.
+B. Es obligatorio utilizar una red privada para conectarse.
+C. No se pueden subir ficheros de más de 10 Gigabytes.
+D. Siempre se utiliza el protocolo HTTPS.
+ANSWER: A
+
+34- ¿Cuál de las siguientes es una herramienta de monitorización de redes?
+A. Curl.
+B. Nagios.
+C. Apache Web Server.
+D. OpenSSH.
+ANSWER: B
+
+35- En una instalación típica de un CPD cuál de los siguientes aspectos aporta más carga térmica:
+A. La iluminación.
+B. Las personas.
+C. Los servidores y otros equipos IT.
+D. Los detectores de incendios.
+ANSWER: C
+
+36- En una red de área local (LAN) cuál de los siguientes estándares tiene velocidades máximas de hasta 10 Mbps:
+A. 10BaseTX.
+B. 100BaseTX.
+C. 1000BaseTX.
+D. 1000BaseLX.
+ANSWER: A
+
+37- ¿Qué es la escala de integración en un procesador?
+A. Número de procesadores por servidor físico.
+B. Tamaño de los transistores de la CPU.
+C. Tamaño físico del procesador.
+D. Generación del procesador.
+ANSWER: B
+
+38- ¿Cuál de las siguientes herramientas es un compilador de C disponible en los sistemas operativos Linux?
+A. emacs.
+B. gedit.
+C. gcc.
+D. cat.
+ANSWER: C
+
+39- Las aplicaciones CRM tienen como punto central de su arquitectura:
+A. La gestión del equipo TIC.
+B. La gestión del mantenimiento de los equipos TIC.
+C. Los clientes de la empresa.
+D. Los proveedores de la empresa.
+ANSWER: C
+
+40- ¿Cuál de las siguientes afirmaciones es FALSA respecto a la tecnología IoT?
+A. Es capaz de integrar objetos de uso diario con Internet.
+B. Tienen gran aplicación en las aplicaciones para Ciudades Inteligentes (Smart Cities).
+C. No es necesario gestionar su seguridad, ya viene integrada.
+D. Muchos disponen de sensores para captar la información.
+ANSWER: C
+
+41- ¿Cuál de los siguientes comandos utiliza el sistema operativo Linux para enviar señales a los procesos que se están ejecutando en el sistema?
+A. echo.
+B. cat.
+C. grep.
+D. kill.
+ANSWER: D
+
+42- En relación a un clúster HPC compuesto por varios nodos, ¿cuál de las siguientes afirmaciones es INCORRECTA?
+A. Los nodos pueden ser un grupo heterogéneo de sistemas, cada uno con su propio sistema operativo.
+B. Cada nodo podrá operar de forma individual o de forma colectiva con otros nodos.
+C. Todos los nodos deben de tener permisos de sudo para los usuarios.
+D. La conexión de los nodos se realiza habitualmente mediante una red de alta velocidad.
+ANSWER: C
+
+43- ¿Cuál de los siguientes NO es un sistema de almacenamiento masivo disponible en la nube?
+A. Dropbox.
+B. CloudDNS.
+C. OneDrive.
+D. GoogleDrive.
+ANSWER: B
+
+44- ¿Cuál de las siguientes preguntas es cierta en un modelo de computación distribuida?:
+A. Existe un nodo central en el que se realizan la mayoría de operaciones.
+B. Todos los nodos acceden al nodo central.
+C. Utilizan recursos compartidos en varios nodos de cálculo para lograr un objetivo compartido común.
+D. Se utilizan solo protocolos TCP/IP.
+ANSWER: C
+
+45- ¿Cuál de los siguientes es un protocolo para la monitorización de la red?
+A. SNMP.
+B. DHCP.
+C. VLAN.
+D. DNS.
+ANSWER: A
+
+46- Una de las funcionalidades básicas de una herramienta de gestión de clúster es:
+A. Asignar recursos del clúster a los usuarios durante un período de tiempo.
+B. Actualizar el sistema operativo.
+C. Conectarse con el servidor LDAP.
+D. Configurar la red de alta velocidad.
+ANSWER: A
+
+47- Los dispositivos IoT:
+A. Solamente se pueden conectar a redes no cifradas.
+B. No pueden implementar el doble factor de autenticación.
+C. Es una buena práctica cambiarles la contraseña por defecto.
+D. Se tienen que conectar a servidores LDAP.
+ANSWER: C
+
+48- ¿Cuál es el principal objetivo de las aplicaciones CRM?
+A. Maximizar beneficios.
+B. Reducir costes operacionales.
+C. Mejorar la satisfacción y las relaciones con el cliente.
+D. Aumentar la cuota de mercado.
+ANSWER: C
+
+49- ¿Cómo pueden las aplicaciones CRM mejorar la retención de clientes?
+A. Ignorando los comentarios y quejas de los clientes.
+B. Ofreciendo descuentos solamente a los nuevos clientes.
+C. Brindando experiencias y soporte personalizado.
+D. Enfocándose en obtener nuevos clientes.
+ANSWER: C
+
+50- Una aplicación que reside en un dispositivo móvil y ha sido desarrollada específicamente para este dispositivo, ¿qué tipo de aplicación es?
+A. Nativa.
+B. Híbrida.
+C. Aplicación Web.
+D. Interpretada.
+ANSWER: A
+
+51- ¿Cuál de los siguientes es el aspecto más crítico a la hora de controlar la refrigeración en un CPD?
+A. Número de puertas físicas del CPD.
+B. Temperatura y humedad.
+C. Sistemas de evacuación.
+D. Ubicación física del CPD dentro del edificio.
+ANSWER: B
+
+52- ¿Qué afirmación de las siguientes es FALSA acerca de la computación distribuida?
+A. Está compuesto por un conjunto de computadores autónomos.
+B. No pueden tener hardware heterogéneo.
+C. Un buen diseño del sistema tiene en cuenta la tolerancia a fallos.
+D. Pueden operar de manera efectiva y eficiente con diferentes necesidades de escalabilidad.
+ANSWER: B
+
+53- Si queremos utilizar el almacenamiento en la nube privada de nuestra organización:
+A. Deberemos utilizar la infraestructura subyacente que controla y mantiene la organización.
+B. Tenemos que utilizar protocolos de acceso híbridos.
+C. Los servidores de nuestra organización deben estar en un proveedor externo de nube como Google.
+D. No se puede hacer uso del almacenamiento en la nube privada de una organización.
+ANSWER: A
+
+54- ¿Cuál NO es un formato de almacenamiento en la nube?
+A. Archivo.
+B. Objeto.
+C. Bloques.
+D. Privado.
+ANSWER: D
+
+55- En informática, ¿qué es una vulnerabilidad software?
+A. El resultado de un Análisis de Riesgos.
+B. Una debilidad existente en el software que puede ser utilizada para comprometer su seguridad.
+C. Un parche de un sistema operativo.
+D. Un informe de calidad del software.
+ANSWER: B
+
+56- ¿Qué es un sistema de control de versiones?
+A. Un protocolo de red para transferir ficheros.
+B. Un software de Administración de Bases de Datos.
+C. Una herramienta para monitorizar el rendimiento de aplicaciones web.
+D. Un sistema para gestionar cambios en documentos, programas y software que se está desarrollando.
+ANSWER: D
+
+57- ¿Cuál de los siguientes NO es un sistema de control de versiones?
+A. Subversion.
+B. CVS.
+C. Apache Spark.
+D. Git.
+ANSWER: C
+
+58- ¿Cuál NO es una operación básica de la gestión de un clúster HPC?
+A. Gestión de Usuarios.
+B. Gestión de la Configuración.
+C. Gestión del Software de los nodos.
+D. Gestión del Cortafuegos Externo.
+ANSWER: D
+
+59- Un técnico hardware explica que se ha estropeado un plato en un disco de almacenamiento masivo de la organización. ¿A qué dispositivo se refiere?
+A. Disco duro magnético.
+B. SSD.
+C. Almacenamiento en la nube.
+D. Robot de cintas magnéticas.
+ANSWER: A
+
+60- ¿Cuál de los siguientes términos se utiliza para describir la capacidad de un sistema para responder a un fallo o catástrofe, como por ejemplo un corte de energía?
+A. RAID.
+B. Host Adapter.
+C. Tolerancia a fallos.
+D. Contingencia.
+ANSWER: C
+
+61- Los discos de estado sólido (SDD):
+A. Son una tecnología anterior a los discos magnéticos.
+B. No utilizan componentes mecánicos en su interior.
+C. No se pueden utilizar en dispositivos portátiles.
+D. La velocidad de acceso a la información es inferior a los discos mecánicos.
+ANSWER: B
+
+62- Los sistemas operativos pueden clasificarse, en función a la gestión de procesos que realizan, como:
+A. Monousuario y multiusuario.
+B. Monotarea y multitarea.
+C. Centralizado y Distribuido.
+D. Propietario y Libre.
+ANSWER: B
+
+63- ¿Cuál es la función principal de un Intérprete de Comandos en un Sistema Operativo?
+A. Proporcionar una interface entre la API y los programas de aplicación.
+B. Administrador y configurar los ficheros del Sistema.
+C. Obtener y ejecutar comandos del usuario que interactúen con el Sistema Operativo.
+D. Realizar copias de seguridad.
+ANSWER: C
+
+64- ¿Cuál es la herramienta principal que proporciona el Sistema Operativo para acceder a sus servicios?
+A. APIs.
+B. Librerías.
+C. System calls.
+D. Compiladores.
+ANSWER: C
+
+65- ¿Cuál es el adaptador o conector más común utilizado para conectar un ordenador a una red local cableada?
+A. RG7.
+B. RG58.
+C. RJ5.
+D. RJ45.
+ANSWER: D
+
+66- Una red TCP/IP de clase C:
+A. Usa una máscara de subred predeterminada de 255.255.255.0
+B. Usa una máscara de subred predeterminada de 255.0.0.0
+C. La dirección de red está compuesta por 16 bits.
+D. Utiliza el tercer y cuarto byte para asignaciones de direcciones IP a los equipos de la red.
+ANSWER: A
+
+67- Una dirección IP versión 4 privada:
+A. No se puede comunicar con una IP pública.
+B. Solamente se puede configurar en impresoras y equipos que no salen a Internet.
+C. No es habitual encontrarla en equipos de usuario.
+D. Necesitará un enrutador para poder navegar por Internet.
+ANSWER: D
+
+68- ¿Cómo se denomina el software distribuido que facilita las interacciones cliente-servidor?
+A. Iptables.
+B. Middleware.
+C. API.
+D. Router.
+ANSWER: B
+
+69- Un usuario nos pide configurar un sistema de alto rendimiento HPC para poder realizar ejecuciones paralelas de software en diferentes nodos físicos del sistema. Para ello, es IMPRESCINDIBLE:
+A. Dar permisos al usuario para que se conecte por SSH a todos los nodos del sistema.
+B. Crear una cola o partición en el gestor de recursos que pueda enviar trabajos a varios nodos.
+C. Que el usuario utilice una API de programación específica.
+D. No es posible realizarlo en un sistema HPC.
+ANSWER: B
+
+70- ¿Qué parte del Sistema HPC necesitaremos configurar para obtener un resumen de los recursos que ha utilizado cada usuario del sistema?
+A. Accounting.
+B. Login.
+C. Compiladores y particiones.
+D. Grupos de Usuarios.
+ANSWER: A
+
+71- ¿Cuál de las siguientes NO es una memoria caché del procesador?
+A. L0
+B. L1
+C. L2
+D. L3
+ANSWER: A
+
+72- ¿Cuál de las siguientes herramientas se suele utilizar en los servidores Linux para realizar una gestión remota?
+A. Google Drive.
+B. SSH.
+C. VLAN.
+D. DNS.
+ANSWER: B
+
+73- En referencia a la seguridad informática, ¿qué es el ransomware?
+A. Un tipo de antivirus.
+B. Una herramienta que bloquea los ataques de red.
+C. Una forma de malware que bloquea y cifra los ficheros del usuario y reclama un pago anónimo por recuperarlos.
+D. Un malware que inutiliza la BIOS del equipo.
+ANSWER: C
+
+74- ¿Cuál de las siguientes es una afirmación VERDADERA en relación al phishing?
+A. La autenticación de dos factores no permite reducir este tipo de ataques en los servicios online.
+B. Descargar ficheros adjuntos que pueda contener un mensaje no presenta ningún riesgo, ya que los ha analizado el servidor de correo.
+C. Debemos proporcionar nuestras claves de acceso si nos la piden desde el departamento IT.
+D. No debemos abrir correos no solicitados o de usuarios desconocidos.
+ANSWER: D
+
+75- En relación a la instalación de aplicaciones en los sistemas operativos Linux es VERDADERO:
+A. El usuario nunca debería poder instalar aplicaciones en Linux.
+B. La instalación de aplicaciones privilegiadas tiene que realizarse en el directorio /tmp para evitar ataques.
+C. La instalación de aplicaciones privilegiadas debe realizarla un usuario administrador.
+D. Las aplicaciones deben compilarse y no instalarse desde repositorios externos.
+ANSWER: C
+
+76- ¿Cuál NO es una característica de un gestor de paquetes en una distribución Linux?
+A. Mantener un registro del software instalado en el ordenador.
+B. Instalar o eliminar software del ordenador.
+C. Verificar las dependencias de instalación entre las aplicaciones.
+D. Permitir al administrador asignar permisos por grupo de usuarios para el uso de las aplicaciones.
+ANSWER: D
+
+77- Una configuración de discos que podemos utilizar para conseguir redundancia de datos es:
+A. RAID 0.
+B. RAID 1.
+C. No es posible conseguir este tipo de redundancia.
+D. RAID 1000.
+ANSWER: B
+
+78- En relación a los recursos de cálculo y almacenamiento en un clúster, es una buena práctica:
+A. Configurar las cuotas de disco siempre por usuario y no por grupo de usuarios.
+B. Establecer límites en los recursos que se pueden utilizar.
+C. Dimensionar los recursos un 30% por debajo de los disponibles.
+D. Utilizar autenticación con contraseña y con clave pública.
+ANSWER: B
+
+79- Un sistema de alimentación ininterrumpida (SAIs) si está conectado a un servidor, permiten mantener la disponibilidad:
+A. Siempre.
+B. Solo en el CPD.
+C. Durante el tiempo de carga de la batería.
+D. Si son compatibles con el sistema operativo del servidor.
+ANSWER: C
+
+80- Si queremos gestionar los permisos de los usuarios sobre los ficheros de un clúster HPC con sistema operativo Linux, podemos utilizar el comando:
+A. chmod.
+B. git.
+C. pwd.
+D. ls.
+ANSWER: A

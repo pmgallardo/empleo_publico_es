@@ -258,6 +258,8 @@ class QuizQuestionPool:
 
                 # Add question groups to quiz pool
                 self.question_groups.append(question_group)
+            else:
+                printt(f"Error: file not found in folder {exam_folder_path}")
 
     def parse_aiken_exam(self, lines):
         # Initialize question parsing
@@ -578,8 +580,15 @@ class AGEQuiz:
         # init counters
         num_cancelled_qs = []
         num_reserve_qs = []
+        # this means the count of correct answers to questions not cancelled or useless reserved
         num_correct_answers = []
+        # this means the count of incorrect answers to questions not cancelled or useless reserved
         num_incorrect_answers = []
+        # this means the count of correct answers to questions not cancelled, and includes useless reserved
+        num_not_cancelled_correct_answers = []
+        # this means the count of incorrect answers to questions not cancelled, and includes useless reserved
+        num_not_cancelled_incorrect_answers = []
+
 
         if self.q_group.parts is not None:
             for i, part in enumerate(self.q_group.parts):
@@ -588,6 +597,8 @@ class AGEQuiz:
                 num_reserve_qs.append(0)
                 num_correct_answers.append(0)
                 num_incorrect_answers.append(0)
+                num_not_cancelled_correct_answers.append(0)
+                num_not_cancelled_incorrect_answers.append(0)
 
                 if len(self.q_group.parts) > 1:
                     printt("\n\nPARTE " + str(i + 1))
@@ -627,6 +638,10 @@ class AGEQuiz:
                                     if not (is_useless_reserve or question.is_cancelled):
                                         # Add correct answer
                                         num_correct_answers[i] += 1
+                                    if not question.is_cancelled:
+                                        # Add correct answer
+                                        num_not_cancelled_correct_answers[i] += 1
+
                                     printt("¡Correcto!")
                                 else:
                                     is_useless_reserve = question.is_reserve and (num_cancelled_qs[i] < num_reserve_qs[i])
@@ -634,6 +649,8 @@ class AGEQuiz:
                                     if not (is_useless_reserve or question.is_cancelled):
                                         # Add incorrect answer
                                         num_incorrect_answers[i] += 1
+                                    if not question.is_cancelled:
+                                        num_not_cancelled_incorrect_answers[i] += 1
 
                                     correct_option_letter = number_to_letter(correct_option_no).upper()
                                     printt("Incorrecto. La respuesta correcta era " + correct_option_letter + ".")
@@ -659,7 +676,7 @@ class AGEQuiz:
         printt("\nRESULTADOS")
 
         # Display total result
-        passed_parts = []
+        passed_parts = [False]*len(self.q_group.parts)
         for i, part in enumerate(self.q_group.parts):
             if len(self.q_group.parts) > 1:
                 printt("\nRESULTADOS PARTE " + str(i + 1) + "\n")
@@ -669,7 +686,10 @@ class AGEQuiz:
                 # maximum direct score should remove cancelled answers
                 num_total_qs = len(questions)
                 num_used_reserved_qs = self.calc_num_used_reserve_qs(num_reserve_qs[i], num_cancelled_qs[i])
+                # count of total questions that are not cancelled or uselessly reserved
                 num_valid_qs = self.calc_num_valid_qs(num_total_qs, num_reserve_qs[i], num_cancelled_qs[i])
+                # count of total questions that are not cancelled or uselessly reserved
+                num_not_cancelled_qs = num_total_qs - num_cancelled_qs[i]
                 max_direct_score = num_valid_qs
 
                 #prop_min_direct_score = min_direct_score / max_direct_score
@@ -679,6 +699,7 @@ class AGEQuiz:
                 num_total_qs = 0
                 num_used_reserved_qs = 0
                 num_valid_qs = 0
+                num_not_cancelled_qs = 0
                 max_direct_score = 0
                 prop_min_direct_score = 0
                 min_direct_score = 0
@@ -697,16 +718,24 @@ class AGEQuiz:
             per_min_direct_score_2dec = "{:.2f}".format(round(prop_min_direct_score * 100, 2))
 
             unanswered_questions = num_valid_qs - num_correct_answers[i] - num_incorrect_answers[i]
+            not_cancelled_unanswered_questions = num_not_cancelled_qs - num_not_cancelled_correct_answers[i] - num_not_cancelled_incorrect_answers[i]
 
             # Displaying results
             printt(f"Preguntas totales: {num_total_qs}")
             printt(f"Preguntas anuladas: {num_cancelled_qs[i]}")
             printt(f"Preguntas de reserva (usadas y sin usar): {num_reserve_qs[i]}")
             printt(f"Preguntas de reserva usadas: {num_used_reserved_qs}")
-            printt(f"Preguntas totales válidas: {num_valid_qs}")
-            printt(f"Preguntas acertadas: {num_correct_answers[i]}")
-            printt(f"Preguntas erradas: {num_incorrect_answers[i]}")
-            printt(f"Preguntas sin contestar: {unanswered_questions}\n")
+            printt("")
+            printt(f"Preguntas computables totales: {num_valid_qs}")
+            printt(f"Preguntas computables acertadas: {num_correct_answers[i]}")
+            printt(f"Preguntas computables erradas: {num_incorrect_answers[i]}")
+            printt(f"Preguntas sin contestar: {unanswered_questions}")
+            printt("")
+            printt(f"Preguntas no anuladas totales: {num_not_cancelled_qs}")
+            printt(f"Preguntas no anuladas acertadas: {num_not_cancelled_correct_answers[i]}")
+            printt(f"Preguntas no anuladas erradas: {num_not_cancelled_incorrect_answers[i]}")
+            printt(f"Preguntas no anuladas sin contestar: {not_cancelled_unanswered_questions}")
+            printt("")
 
             printt(f"Tu puntuación directa: {direct_score_2dec}")
             printt(f"Has obtenido un {per_direct_score_2dec} % de la máxima puntuación posible.")
@@ -730,6 +759,7 @@ class AGEQuiz:
             else:
                 printt(f"El valor medio para aprobar fue 34.40% entre 2019 y 2022 .")
 
+        # Assess whether all parts within the exam are passed, and therefore exam is passed
         if passed_parts:
             passed = True
             for passed_part in passed_parts:

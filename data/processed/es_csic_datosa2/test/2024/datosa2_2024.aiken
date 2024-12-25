@@ -1,0 +1,627 @@
+1- Señale la afirmación CORRECTA:
+A. La Ciencia de Datos, a pesar del término, no tiene nada que ver con el Big Data.
+B. Un analista de datos debe tener conocimientos en estadística.
+C. Las actuales aplicaciones de la Inteligencia Artificial generativa han convertido la Ciencia de Datos en un campo obsoleto.
+D. La Ciencia de Datos es un campo académico muy reciente que se originó en la segunda década de este siglo con el desarrollo del aprendizaje automático profundo.
+ANSWER: B
+
+2- ¿Cuál de las siguientes afirmaciones sobre el protocolo RADIUS es INCORRECTA?
+A. Fue desarrollado originalmente por Livingston Enterprises para la serie PortMaster de sus Servidores de Acceso a la Red (NAS)
+B. Utiliza MD5 como algoritmo criptográfico de hashing, lo que lo hace vulnerable a ataques de colisión.
+C. Utiliza TCP como protocolo de transporte para las comunicaciones entre cliente y servidor.
+D. Utiliza UDP como protocolo de transporte para las comunicaciones entre cliente y servidor.
+ANSWER: C
+
+3- ¿Cuál de las siguientes NO es una metodología ágil?
+A. WATERFALL.
+B. Extreme Programming (XP).
+C. KANBAN.
+D. SCRUM.
+ANSWER: A
+
+4- ¿Qué es un sistema de tiempo real?
+A. Un sistema operativo multitarea.
+B. Un sistema que debe responder a eventos o datos de entrada dentro de un plazo específico.
+C. Un sistema de base de datos distribuido.
+D. Un sistema especialmente rápido.
+ANSWER: B
+
+5- ¿Qué es un Keylogger?
+A. Un software que cifra archivos para proteger de accesos no autorizados.
+B. Una herramienta que bloquea el acceso a sistemas cuando se detectan intentos de entrada no autorizados.
+C. Un gestor de contraseñas.
+D. Una herramienta que registra las pulsaciones de teclas en dispositivos y que puede utilizarse para robar información confidencial.
+ANSWER: D
+
+6- ¿Qué empresa es propietaria actualmente de la base de datos Web of Science?
+A. Elsevier.
+B. Penguin Books.
+C. Clarivate.
+D. Google.
+ANSWER: C
+
+7- Marque la respuesta INCORRECTA:
+A. Las unidades de proceso gráfico (GPU) han desplazado a las CPU como procesadores más eficientes para el aprendizaje profundo.
+B. La gran ventaja de las GPU es el reducido consumo energético requerido para su funcionamiento.
+C. La estructura de las GPUs permite realizar múltiples tareas del proceso en paralelo.
+D. Las GPUs también se utilizan en el entrenamiento de modelos de lenguaje de gran tamaño (Large Language Models, LLMs).
+ANSWER: B
+
+8- ¿Qué es una VDI (Infraestructura de Escritorio Virtual)?
+A. Una conexión de red privada entre dispositivos a través de Internet.
+B. Una solución para realizar copias de seguridad de datos en la nube.
+C. Una tecnología que proporciona un entorno de escritorio virtualizado que se ejecuta en un servidor remoto, accesible a través de Internet.
+D. Un entorno de escritorio virtualizado que se ejecuta en el dispositivo local del usuario.
+ANSWER: C
+
+9- ¿Qué es Digital.CSIC?
+A. Una plataforma de cursos online ofrecida por el CSIC.
+B. Un servicio de almacenamiento en la nube para investigadores del CSIC.
+C. Un repositorio que ofrece acceso a la producción científica del CSIC mediante suscripción.
+D. Un repositorio institucional que ofrece acceso abierto a la producción científica del CSIC.
+ANSWER: D
+
+10- ¿Cuál de los siguientes es un ejemplo de aplicación de un sistema de tiempo real?
+A. Procesamiento de textos.
+B. Sistema de control de tráfico aéreo.
+C. Navegación en internet.
+D. Reproducción de música.
+ANSWER: B
+
+11- ¿Cuál de las siguientes afirmaciones es CORRECTA respecto al proceso de Autenticación en un sistema AAA?
+A. Se asignan permisos a los usuarios para acceder a recursos específicos.
+B. Se registran las operaciones de los usuarios en el sistema.
+C. Se confirma la identidad de los usuarios antes de permitir el acceso al sistema.
+D. Se verifica que los datos transferidos en el sistema estén cifrados.
+ANSWER: C
+
+12- ¿Cuáles de las siguientes afirmaciones es CORRECTA?
+A. El uso de VPN (Red Privada Virtual) proporciona una conexión segura, pero no impide el rastreo de cookies en la navegación, ni previene la descarga o ejecución de software malicioso.
+B. Utilizar la misma contraseña para varias cuentas se considera una buena práctica de seguridad.
+C. Desactivar las actualizaciones automáticas en navegadores web mejora la seguridad.
+D. La navegación en modo incógnito evita el rastreo de la actividad por parte de terceros en línea y protege frente al malware.
+ANSWER: A
+
+13- ¿Qué es GitHub?
+A. Un software de código abierto de control de versiones.
+B. Una plataforma donde se puede almacenar y compartir código.
+C. Un repositorio de software licenciado bajo suscripción.
+D. Un servicio de almacenamiento en la nube exclusivo para personal del CSIC.
+ANSWER: B
+
+14- Señale la aseveración INCORRECTA sobre las aplicaciones de la Ciencia de Datos en investigación:
+A. Además de su creciente importancia en sectores como la educación, la salud, el e-comercio, o el financiero, la Ciencia de datos también encuentra aplicación en la investigación científica, por ejemplo, en la astroinformática o en la bioinformática.
+B. Algunos de los usos destacados de la Ciencia de Datos en biología son en secuencia del ADN y en clasificación de proteínas.
+C. La astroinformática, y a su través, la Ciencia de Datos, no tiene aplicación posible en la moderna cosmología.
+D. La gran cantidad de datos suministrados por radiotelescopios, el telescopio Hubble, o el observatorio de rayos X Chandra convierten a la Ciencia de Datos en una herramienta imprescindible para la astronomía moderna.
+ANSWER: C
+
+15- ¿Qué es el smishing?
+A. Un tipo de fraude basado en la ingeniería social y en la suplantación de identidad que se realiza a través de llamadas telefónicas.
+B. Noticias falsas que circulan principalmente por Internet a través de redes sociales o apps de mensajería como WhatsApp.
+C. Un tipo de ciberataque basado en el envío de mensajes de texto (SMS).
+D. Un método de protección de contraseñas mediante autenticación de dos factores.
+ANSWER: C
+
+16- ¿Cuál de estos conceptos no está asociado a SCRUM?
+A. SCRUM Master.
+B. Product Backlog.
+C. Daily Meeting.
+D. Diagrama de Gantt.
+ANSWER: D
+
+17- ¿Qué es un actuador en el contexto de la robótica?
+A. Un dispositivo que convierte energía en movimiento.
+B. Un sensor de temperatura.
+C. Un software de control.
+D. Un tipo de batería.
+ANSWER: A
+
+18- ¿Qué es IEEE Xplore?
+A. Una base de datos de investigación académica que proporciona artículos y trabajos sobre Ciencias de la Computación, Ingeniería Eléctrica y Electrónica.
+B. Una base de datos de investigación académica que proporciona artículos y trabajos sobre Astronomía y Astrofísica.
+C. Un protocolo de metadatos.
+D. Un repositorio digital de artículos académicos desarrollado en el CSIC.
+ANSWER: A
+
+19- ¿Cuál de las siguientes afirmaciones sobre el protocolo TACACS+ es CORRECTA?
+A. Cifra todo el contenido de la comunicación entre el cliente y el servidor.
+B. Utiliza UDP para la comunicación entre cliente y servidor.
+C. Se considera una evolución del protocolo RADIUS.
+D. Utiliza el puerto TCP 1813 para las comunicaciones.
+ANSWER: A
+
+20- ¿Cuál es uno de los principios fundamentales de la metodología KANBAN?
+A. Roles claramente definidos para cada miembro del equipo.
+B. Trabajo dividido en sprints.
+C. Priorización de historias de usuario.
+D. Limitar el trabajo en proceso (WIP).
+ANSWER: D
+
+21- ¿Cuál de los siguientes repositorios ofrece TODO su contenido en acceso abierto?
+A. JSTOR.
+B. ScienceDirect.
+C. PubMed Central.
+D. Wiley Online Library.
+ANSWER: C
+
+22- Señale la respuesta CORRECTA sobre las cámaras de tiempo de vuelo:
+A. Las cámaras de tiempo de vuelo no se pueden utilizar en aplicaciones de robótica.
+B. Las cámaras de tiempo de vuelo miden el tiempo que un UAV (dron) está en el aire.
+C. La base del funcionamiento de las cámaras de tiempo de vuelo es la medida de distancias recorridas por un haz de luz infrarroja.
+D. Las cámaras de tiempo de vuelo se basan en medir el cambio de fase de una señal de ultrasonidos.
+ANSWER: C
+
+23- ¿Cuál de las siguientes herramientas de software proporciona un espacio de trabajo digital unificado, que permite a los usuarios acceder a sus aplicaciones y escritorios virtuales desde cualquier dispositivo y ubicación?
+A. Nagios.
+B. Zabbix.
+C. EndNote.
+D. Citrix Workspace.
+ANSWER: D
+
+24- ¿Cuál es una de las características de SCOPUS?
+A. Proporciona acceso a citas, resúmenes y métricas de impacto de artículos en revistas académicas mediante suscripción.
+B. Proporciona guías de publicación de revistas electrónicas.
+C. Es una base de datos temática sobre ciencias de la vida.
+D. Proporciona acceso abierto a todo su contenido.
+ANSWER: A
+
+25- Marque la respuesta CORRECTA sobre el sesgo en el aprendizaje automático:
+A. El uso de una fuente de datos tan extensa como internet garantiza la ausencia de sesgo en los datos extraídos.
+B. Si los datos utilizados en el aprendizaje son imágenes, es imposible que se produzca un aprendizaje sesgado.
+C. El proceso de anotación de imágenes es crítico y se ha de prestar especial atención durante el mismo para evitar o reducir el sesgo en el aprendizaje basado en imágenes.
+D. El sesgo que puede aparecer durante el aprendizaje automático se debe más a los algoritmos de aprendizaje que a los datos suministrados para el aprendizaje.
+ANSWER: C
+
+26- ¿Qué es la integración de instrumentación en robótica?
+A. El uso de instrumentos musicales en robots.
+B. La incorporación de sensores y actuadores en sistemas robóticos.
+C. La creación de software para robots.
+D. El diseño de hardware para robots.
+ANSWER: B
+
+27- ¿Cuál de los siguientes es un ejemplo de software de código abierto?
+A. Microsoft Office.
+B. Adobe Photoshop.
+C. Linux.
+D. AutoCad.
+ANSWER: C
+
+28- Marque la frase INCORRECTA sobre los métodos de aprendizaje automático:
+A. El aprendizaje automático permite proporcionar a un sistema artificial la
+capacidad de clasificación, o la de reconocer objetos, entre otras.
+B. Los sistemas de aprendizaje automático pueden clasificarse grosso modo en
+supervisados y no supervisados.
+C. En aprendizaje por refuerzo (reinforcement learning) es fundamental definir una
+correcta función de recompensa.
+D. Los métodos de aprendizaje por demostración o imitación (learning from
+demonstration) son generalmente no supervisados.
+ANSWER: D
+
+29- Dentro de las medidas de forma, señale los tres tipos de asimetría:
+A. Asimetría positiva, simetría y asimetría negative.
+B. Asimetría de Fisher, asimetría de Pearson y asimetría de Bowley.
+C. Asimetría robusta, Asimetría neutra, Asimetría débil.
+D. Asimetría de tipo I, Asimetría de tipo II, asimería de tipo III.
+ANSWER: A
+
+30- ¿Qué es Apache Flume?
+A. Una herramienta de software propiedad de IBM utilizada en la ingestión de datos.
+B. Una herramienta de software distribuida y open source para recopilar, agregar y
+mover grandes cantidades de datos.
+C. Un base datos relacional.
+D. Un gestor de contenidos web.
+ANSWER: B
+
+31- Sea Z una v.a que sigue una distribución Normal (0,1) ¿Cuál es el valor de la
+variable tal que el 95% de la población se sitúa por debajo de él?
+A. 1,42.
+B. 0,95.
+C. 1,96.
+D. 0,05.
+ANSWER: C
+
+32- ¿De los siguientes algoritmos, cuál no está basado en todas las
+permutaciones posibles de N objetos?
+A. Algoritmo de Heap.
+B. Algoritmo de Steinhaus–Johnson–Trotter.
+C. Algoritmo Fisher-Yates.
+D. Algoritmo voraz.
+ANSWER: D
+
+33- El ORCID es un identificador permanente para…
+A. Publicaciones científicas.
+B. Material cartográfico.
+C. Revistas electrónicas.
+D. Investigadores.
+ANSWER: D
+
+34- ¿Cuál de los siguientes temas NO sería propio de un típico curso de
+aprendizaje automáticos?
+A. Regresión en procesos gaussianos.
+B. Redes neuronales.
+C. Geometría diferencial.
+D. Árboles de decisión.
+ANSWER: C
+
+35- ¿Cuál de las siguientes distribuciones teóricas está definida para valores
+negativos?
+A. Distribución F de Fisher.
+B. Distribución K de Kaplan.
+C. Distribución de Ji-cuadrado.
+D. Distribución t de Student.
+ANSWER: D
+
+36- ¿Cuál es el significado de ARIMA?
+A. Modelo Analítico Independiente de Riemann-Andropov.
+B. Aproximación Resuelta con Independencia de la Medida Absoluta.
+C. Modelo Autorregresivo Integrado de Media Móvil.
+D. Aproximación Recurrente de Integración de Medias Autónomas.
+ANSWER: C
+
+37- Dentro de las diferencias entre un gráfico de barras y un histograma, señale
+la afirmación CORRECTA:
+A. El histograma puede determinar la relación entre categorías y el gráfico de barras
+no.
+B. El gráfico de barras puede determinar la relación entre categorías y el histograma
+no.
+C. El histograma compara variables discretas y el gráfico de barras no.
+D. El gráfico de barras determina la distribución de una variable y el histograma no.
+ANSWER: B
+
+38- Dentro de las medidas de forma, la Curtosis indica si una distribución es
+escarpada o achatada, señale la afirmación CORRECTA:
+A. La forma Mesocúrtica indica que la distribución es muy apuntada.
+B. La forma Mesocúrtica indica que la distribución es muy achatada.
+C. La forma Leptocúrtica indica que la distribución tiene forma de la campana de
+gauss.
+D. La forma Platicúrtica indica que la distribución es muy achatada.
+ANSWER: D
+
+39- ¿En qué casos es recomendable utilizar un método numérico de
+integración?
+A. Cuando no se conoce la forma de resolver la integración analíticamente.
+B. Cuando se quiere conocer la expresión completa de la función primitive.
+C. Cuando no se puede utilizar un ordenador.
+D. Cuando se quiere integrar un polinomio.
+ANSWER: A
+
+40- ¿De qué partes se compone el error total en una estimación por muestreo?
+A. Intra-muestral y extra-muestral.
+B. Sesgo y varianza.
+C. Error tipo I y Error tipo II.
+D. Directo e indirecto.
+ANSWER: B
+
+41- En los modelos estocásticos, ¿qué se conoce con certeza?
+A. La variable tiempo.
+B. Las relaciones entre elementos.
+C. Los datos del problema.
+D. Los resultados posibles, pero no las probabilidades de ocurrencia.
+ANSWER: D
+
+42- ¿El Método de Simpson es un método de Newton-Cotes?
+A. Sí.
+B. No.
+C. Solo los que son de grado 2.
+D. Solo los que son divisibles.
+ANSWER: A
+
+43- Señale la respuesta INCORRECTA sobre aprendizaje por demostración en
+robótica:
+A. No tiene sentido combinar aprendizaje por demostración con aprendizaje por
+refuerzo.
+B. El aprendizaje por demostración no es meramente grabar y reproducir, se trata
+de generalizar a través de diversas demostraciones que permitan inferir los
+aspectos más relevantes de la tarea.
+C. El problema de la correspondencia en el aprendizaje por demostración está
+relacionado con las diferencias físicas (geometría, dimensiones…) entre el
+demostrador (generalmente un humano) y el robot.
+D. Uno de los métodos de aprendizaje por demostración consiste en guiar
+físicamente el robot a través de las diferentes demostraciones.
+ANSWER: A
+
+44- ¿Cuál de las siguientes afirmaciones es FALSA?
+A. El algoritmo Fisher-Yates un método para reordenar de manera aleatoria los
+elementos de una lista.
+B. El algoritmo Fisher-Yates es un algoritmo de permutaciones.
+C. El algoritmo Fisher-Yates es un algoritmo de combinaciones.
+D. El algoritmo Fisher-Yates es algoritmo de ordenamiento.
+ANSWER: C
+
+45- ¿Cuál de los siguientes paquetes de software que incluyen paquetes de
+aprendizaje automático es comercial (los otros son de código abierto)?
+A. Apache Mahout.
+B. MATLAB.
+C. OpenCV.
+D. TensorFlow.
+ANSWER: B
+
+46- ¿Qué es un método numérico de integración?
+A. Es una herramienta de las matemáticas que proporciona técnicas para calcular
+aproximaciones de integrales.
+B. Es una fórmula para evitar la exclusión de valores extremos de las poblaciones.
+C. Es una herramienta de la informática que integra distintas técnicas para obtener
+números.
+D. Es una fórmula de utiliza grandes volúmenes de datos integrándolos para
+encontrar estimaciones.
+ANSWER: A
+
+47- En una serie temporal, la tendencia
+A. Es un movimiento oscilante con periodicidad superior al año.
+B. Es el movimiento suave y continuo de la serie a largo plazo.
+C. Es un movimiento sistemático que se repite año a año.
+D. Es un movimiento cuya predicción es imposible.
+ANSWER: B
+
+48- Como medida de relación lineal entre dos variables continuas se pueden
+utilizar tanto la covarianza como el coeficiente de correlación (r de Pearson).
+El utilizar preferentemente el coeficiente de correlación se debe
+principalmente a que:
+A. La covarianza es una medida que siempre tiene un valor excesivo.
+B. El coeficiente de correlación puede ser calculado para muestras de tamaño
+menor de 30 elementos.
+C. Las variables son comparables entre sí cualquiera que sea la magnitud original
+de las puntuaciones directas.
+D. La covarianza, al contrario de la correlación, sólo puede ser calculada en caso
+de homogeneidad de varianzas de las variables independientes.
+ANSWER: C
+
+49- ¿Cuál de las siguientes es una característica de los modelos deterministas?
+A. Incluyen probabilidades de ocurrencia.
+B. Todos los datos son conocidos con certeza.
+C. Los datos del problema son inciertos.
+D. Siempre presentan dificultades para su resolución.
+ANSWER: B
+
+50- Si se dispone de dos variables aleatorias X e Y independientes, expresadas
+en unidades diferentes, ¿qué estadístico es más recomendable para una
+comparación directa de la dispersión de ambas?
+A. El coeficiente de variación.
+B. La desviación típica.
+C. La media geométrica.
+D. La mediana.
+ANSWER: A
+
+51- Señale la respuesta correcta sobre aprendizaje profundo:
+A. La mayoría de los métodos de aprendizaje profundo se basan en versiones
+modernas de redes neuronales artificiales.
+B. Las redes neuronales de convolución (CNN) no se pueden utilizar para el
+aprendizaje profundo.
+C. La característica más destacada del aprendizaje profundo basado en redes
+neuronales es la transparencia del proceso.
+D. La gran ventaja del aprendizaje profundo es el reducido volumen de datos de
+entrada necesarios.
+ANSWER: A
+
+52- ¿Qué técnica utilizaría para resolver el problema de las N reinas (colocar N
+reinas en un tablero de ajedrez sin que se amenacen entre ellas)?
+A. Backtracking.
+B. Algoritmo de Kruskal.
+C. Recursión.
+D. Heapsort.
+ANSWER: A
+
+53- ¿Cuál de las siguientes NO es una herramienta para realizar operaciones
+lógicas de combinación?
+A. Combinatoria And.
+B. Combinatoria Or.
+C. Combinatoria Not.
+D. Combinatoria XOr.
+ANSWER: C
+
+54- ¿Para un problema NP-completo cual podría ser su complejidad usando un
+algoritmo de fuerza bruta?
+A. O(n)
+B. O(n^2)
+C. O(2^n)
+D. O(log n)
+ANSWER: C
+
+55- ¿Cuál de estos factores influye en el error aleatorio en una muestra?
+A. El tamaño de la muestra.
+B. La falta de respuesta.
+C. La ausencia de unidades.
+D. El sexo del entrevistador.
+ANSWER: A
+
+56- ¿Qué enfoque se usa en el algoritmo de fuerza bruta para resolver problemas
+combinatorios?
+A. Dividir el problema en partes más pequeñas (divide y vencerás).
+B. Probar todas las posibles combinaciones hasta encontrar una solución.
+C. Utilizar heurísticas para aproximar una solución.
+D. Eliminar ramas del espacio de búsqueda no necesarias.
+ANSWER: B
+
+57- ¿Cuál es el enfoque principal de los algoritmos de ramificación y poda
+(branch and bound)?
+A. Probar todas las combinaciones posibles.
+B. Generar soluciones aproximadas rápidamente.
+C. Reducir el espacio de búsqueda eliminando soluciones imposibles.
+D. Descomponer el problema en subproblemas y combinar sus soluciones.
+ANSWER: C
+
+58- ¿Cuál de los siguientes es un método numérico de integración?
+A. Regla del cuadrado.
+B. Integración por partes.
+C. Regla de trapecio.
+D. Regla de la mano derecha.
+ANSWER: C
+
+59- ¿Cuál de los siguientes algoritmos se utiliza para convertir una señal del
+dominio del tiempo al dominio de la frecuencia de manera eficiente?
+A. Algoritmo de Dijkstra.
+B. Transformada rápida de Fourier (FFT).
+C. Algoritmo de Bellman-Ford.
+D. Transformada de Laplace.
+ANSWER: B
+
+60- ¿Cuál de los siguientes problemas es un ejemplo clásico de un problema
+combinatorio NP-completo?
+A. Problema del camino más corto.
+B. Problema del viajante TSP (Travelling Salesman Problem).
+C. Algoritmo de búsqueda binaria.
+D. Problema de la suma de subconjuntos.
+ANSWER: B
+
+61- Zenodo es…
+A. Un software para gestionar referencias bibliográficas.
+B. Un repositorio de acceso restringido de cualquier especialidad o campo de
+investigación.
+C. Un repositorio abierto centrado exclusivamente en el campo de las
+humanidades.
+D. Un repositorio de acceso abierto que abarca diferentes especialidades o campos
+de investigación.
+ANSWER: D
+
+62- ¿Cuál es una manera de estimar la incertidumbre aleatoria en una medida?
+A. Efectuar una medida una sola vez y sumarle un valor llamado coeficiente de
+incertidumbre.
+B. Efectuar la misma medida varias veces con distintas condiciones.
+C. Efectuar una medida una sola vez y multiplicarla por un valor llamado coeficiente
+de incertidumbre.
+D. Efectuar la misma medida varias veces y con las mismas condiciones.
+ANSWER: D
+
+63- En un workflow científico, ¿qué etapa corresponde a la validación de los
+resultados obtenidos?
+A. Recolección de datos.
+B. Preprocesamiento de datos.
+C. Análisis estadístico.
+D. Revisión y replicación.
+ANSWER: D
+
+64- Dublin Core es:
+A. Un repositorio de software licenciado.
+B. Un esquema de metadatos.
+C. Un formato de compresión de archivos de imagen y texto.
+D. Un lenguaje de visualización en la web de documentos electrónicos.
+ANSWER: B
+
+65- ¿Cuál de las siguientes afirmaciones sobre OAI-PMH es INCORRECTA?
+A. Es un protocolo que permite la recolección de metadatos de repositorios
+digitales.
+B. Su funcionamiento está basado en una arquitectura cliente-servidor.
+C. Es un conjunto formado por 15 elementos de metadatos de carácter genérico.
+D. Las respuestas están codificadas en XML.
+ANSWER: C
+
+66- PREMIS hace referencia a metadatos…
+A. De preservación.
+B. De desarrollo.
+C. Estructurales.
+D. Descriptivos.
+ANSWER: A
+
+67- ¿Qué caracteriza la ingestión de datos por lotes?
+A. Los datos se recopilan y mueven en intervalos programados recurrentemente.
+B. Los datos se ingieren, procesan y almacenan tan pronto como se generan para
+la toma de decisiones en tiempo real.
+C. No es adecuada para grandes cantidades de datos.
+D. Los datos se recopilan en tiempo real y se procesan por lotes.
+ANSWER: A
+
+68- ¿Cuál de las siguientes afirmaciones sobre la Red SciELO es CORRECTA?
+A. Provee Acceso Abierto (AA) a los contenidos de revistas científicas.
+B. Provee acceso a los contenidos de revistas científicas mediante pago por
+suscripción.
+C. Provee Acceso Abierto (AA) exclusivamente a los contenidos de revistas
+científicas escritas en lengua alemana.
+D. Es un portal web de imágenes de astronomía.
+ANSWER: A
+
+69- ¿Cuál de las siguientes herramientas está especialmente diseñada para la
+creación y ejecución de workflows científicos?
+A. Excel.
+B. Nextflow.
+C. Google Docs.
+D. PowerPoint.
+ANSWER: B
+
+70- ¿Cuál de los siguientes es un protocolo de comunicación basado en XML
+utilizado en servicios Web?
+A. JSON
+B. HTML
+C. SOAP
+D. ISSN
+ANSWER: C
+
+71- ¿Cuál de las siguientes afirmaciones sobre Hispana es INCORRECTA?
+A. Es un portal de acceso al patrimonio digital español.
+B. No ofrece acceso a manuscritos ni a mapas del patrimonio bibliográfico español.
+C. Reúne las colecciones digitales de archivos, bibliotecas y museos españoles.
+D. Agrega contenidos a Europeana.
+ANSWER: B
+
+72- ¿Qué es DSpace?
+A. Una base de datos no sql.
+B. Un software de código abierto diseñado para la creación y gestión de repositorios
+digitales.
+C. Un repositorio digital de ciencias del espacio.
+D. Un software de edición de ficheros pdf.
+ANSWER: B
+
+73- ¿Qué lenguaje de programación se utiliza para escribir los workflows en
+Snakemake?
+A. C++
+B. JavaScript
+C. Python
+D. Ruby
+ANSWER: C
+
+74- ¿Qué es ASP.NET?
+A. Un marco de trabajo desarrollado por Microsoft, para crear servicios y
+aplicaciones web.
+B. Un sistema operativo para servidores de Microsoft.
+C. Una base de datos relacional.
+D. Un servidor web de código abierto.
+ANSWER: A
+
+75- ¿Qué es Europeana?
+A. Una biblioteca digital europea que actúa como punto de acceso único a millones
+de recursos digitales de archivos, museos, bibliotecas y colecciones.
+B. Un programa de la Unión Europea para financiación de proyectos de
+digitalización.
+C. Un programa de gestión bibliotecaria.
+D. Un programa de la Unión Europea de apoyo a la investigación local.
+ANSWER: A
+
+76- ¿Qué es la ingestión de datos?
+A. Una herramienta para crear informes de bases de datos.
+B. Un proceso de eliminación de datos duplicados en una base de datos no sql.
+C. El proceso de obtener e importar grandes archivos de datos de múltiples fuentes
+a un único sistema de almacenamiento.
+D. Una técnica de cifrado de datos.
+ANSWER: C
+
+77- ¿Cuál de los siguientes es un estándar de acceso a bases de datos que puede
+ser utilizado en servicios web?
+A. FTP
+B. SNMP
+C. ODBC
+D. HTML
+ANSWER: C
+
+78- ¿Cuál de las siguientes siglas se corresponde con un identificador para
+organizaciones?
+A. ISBN
+B. ISMN
+C. ROR
+D. DOI
+ANSWER: C
+
+79- El Modelo de Referencia OAIS (Open Archival Information System) es…
+A. Un sistema de Información que define los procesos necesarios para preservar y
+acceder a los objetos de información de forma efectiva y a largo plazo.
+B. Un protocolo de intercambio de datos en la nube.
+C. Una colección de formatos digitales de imágenes.
+D. Un modelo de metadatos descriptivos.
+ANSWER: A
+
+80- ¿Qué es RECOLECTA (Recolector de Ciencia Abierta)?
+A. Una plataforma de acceso abierto online a revistas científicas internacionales.
+B. Un agregador de repositorios españoles de acceso abierto.
+C. Un programa de la Unión Europea para financiar investigaciones de Ciencia
+Abierta.
+D. Un esquema de metadatos de Ciencia Abierta.
+ANSWER: B
