@@ -405,38 +405,28 @@ C) Es un estándar de comunicación utilizado para el intercambio de datos entre
 D) Es un modelo de acceso que define los roles y permisos de los usuarios en un sistema informático.
 ANSWER: A
 
-59) ¿Cuál de las siguientes opciones describe mejor qué es el consentimiento en el
-contexto de la protección de datos personales?
-A) Es el proceso de solicitar u otorgar permiso a una persona para recopilar,
-utilizar o divulgar sus datos personales.
-B) Es el uso de medidas técnicas y organizativas para proteger los datos
-personales contra accesos no autorizados.
-C) Es el derecho de una persona a solicitar la eliminación de sus datos
-personales de una base de datos.
-D) Es la obligación de notificar a las autoridades de protección de datos en caso
-de una violación de seguridad que afecte a los datos personales.
+59) ¿Cuál de las siguientes opciones describe mejor qué es el consentimiento en el contexto de la protección de datos personales?
+A) Es el proceso de solicitar u otorgar permiso a una persona para recopilar, utilizar o divulgar sus datos personales.
+B) Es el uso de medidas técnicas y organizativas para proteger los datos personales contra accesos no autorizados.
+C) Es el derecho de una persona a solicitar la eliminación de sus datos personales de una base de datos.
+D) Es la obligación de notificar a las autoridades de protección de datos en caso de una violación de seguridad que afecte a los datos personales.
 ANSWER: A
 
 60) ¿Cuál de estas afirmaciones es cierta para una red VPN (Virtual Private Network)?
-A) Permite transmitir datos de forma segura y anónima a través de redes públicas
-inseguras.
+A) Permite transmitir datos de forma segura y anónima a través de redes públicas inseguras.
 B) Permite virtualizar los recursos de computación de un servidor privado.
-C) Permite crear varias redes lógicas independientes dentro una misma red física
-local.
-D) Siempre es necesaria el uso de una red VPN para permitir el acceso a un
-escritorio remoto.
+C) Permite crear varias redes lógicas independientes dentro una misma red física local.
+D) Siempre es necesaria el uso de una red VPN para permitir el acceso a un escritorio remoto.
 ANSWER: A
 
-61) ¿Cómo se llama el algoritmo que permite el intercambio de una clave secreta por un
-canal inseguro?
+61) ¿Cómo se llama el algoritmo que permite el intercambio de una clave secreta por un canal inseguro?
 A) RSA
 B) Diffie-Hellman
 C) DSA
 D) SHA
 ANSWER: B
 
-62) ¿Qué tipo de ataque informático tiene como objetivo la denegación de servicio en
-un servidor y es ejecutado desde múltiples localizaciones?
+62) ¿Qué tipo de ataque informático tiene como objetivo la denegación de servicio en un servidor y es ejecutado desde múltiples localizaciones?
 A) MAC Flooding
 B) DoS
 C) MAC Spoofing
@@ -446,16 +436,13 @@ ANSWER: D
 63) ¿A quién van dirigidas las guías CCN-STIC sobre ciberseguridad?
 A) Al personal del Centro Criptográfico Nacional.
 B) Al personal de las administraciones públicas.
-C) Al personal de las administraciones públicas, empresas y organizaciones de
-interés estratégico.
+C) Al personal de las administraciones públicas, empresas y organizaciones de interés estratégico.
 D) A toda la población.
 ANSWER: C
 
 64) Los sistemas criptográficos de clave asimétrica o pública…
-A) necesitan menos tiempo de procesado que los simétricos, para una misma
-longitud de clave.
-B) las claves han de ser de mayor tamaño que en el cifrado simétrico para ofrecer
-un nivel de seguridad equivalente.
+A) necesitan menos tiempo de procesado que los simétricos, para una misma longitud de clave.
+B) las claves han de ser de mayor tamaño que en el cifrado simétrico para ofrecer un nivel de seguridad equivalente.
 C) apenas se usan en la actualidad.
 D) el algoritmo AES la usa.
 ANSWER: B
@@ -482,24 +469,20 @@ D) RSA es simétrico
 ANSWER: B
 
 68) ¿Cómo funciona una VPN?
-A) aislando una red privada del resto de Internet usando números IP en el rango
-10.*.*.*
+A) aislando una red privada del resto de Internet usando números IP en el rango 10.*.*.*
 B) encriptando las comunicaciones entre ordenadores.
-C) usando un servidor web accesible a los empleados sólo desde dentro de la
-red corporativa.
+C) usando un servidor web accesible a los empleados sólo desde dentro de la red corporativa.
 D) monitorizando el tráfico HTTP/HTTPS.
 ANSWER: B
 
-69) ¿Cómo validaría un documento firmado con un certificado emitido por las
-Administraciones Públicas?
+69) ¿Cómo validaría un documento firmado con un certificado emitido por las Administraciones Públicas?
 A) en valide.redsara.es
 B) con CLAVE@PIN
 C) empleando PGP o GPG
 D) usando MySQL
 ANSWER: A
 
-70) ¿Cómo accedería de forma segura a un servidor remoto en modo línea de
-comandos?
+70) ¿Cómo accedería de forma segura a un servidor remoto en modo línea de comandos?
 A) usando HTTP
 B) usando SSH
 C) usando VNC
@@ -555,8 +538,7 @@ C) claves elegidas al azar.
 D) cAPTCHA.
 ANSWER: B
 
-78) ¿Qué implica la licencia Creative Commons CC-BY-SA para los productos
-derivados?
+78) ¿Qué implica la licencia Creative Commons CC-BY-SA para los productos derivados?
 A) Que no pueden derivarse productos comerciales.
 B) Que no deben licenciarse de la misma forma.
 C) Que deben reconocer al autor original.
@@ -564,18 +546,13 @@ D) Todas las anteriores son correctas.
 ANSWER: C
 
 79) Las guías CCN-STIC de seguridad son…
-A) recomendaciones propuestas por las principales compañías de software a
-nivel nacional.
+A) recomendaciones propuestas por las principales compañías de software a nivel nacional.
 B) el conjunto de políticas de ciberseguridad a nivel europeo.
-C) normas, instrucciones, guías y recomendaciones desarrolladas por el Centro
-Criptológico Nacional con el fin de mejorar el grado de ciberseguridad de las
-organizaciones.
-D) una serie de normas y políticas de ciberseguridad en el entorno de
-investigación académica.
+C) normas, instrucciones, guías y recomendaciones desarrolladas por el Centro Criptológico Nacional con el fin de mejorar el grado de ciberseguridad de las organizaciones.
+D) una serie de normas y políticas de ciberseguridad en el entorno de investigación académica.
 ANSWER: C
 
-80) A efectos de aplicación de la Política de Seguridad de las TIC, ¿cuál de los
-siguientes niveles de información clasificada es el menos importante?
+80) A efectos de aplicación de la Política de Seguridad de las TIC, ¿cuál de los siguientes niveles de información clasificada es el menos importante?
 A) Secreto
 B) Confidencial
 C) Difusión limitada
@@ -596,8 +573,7 @@ C) Utilización de GUI en lugar de comandos.
 D) Incorrecta asignación de permisos a usuarios.
 ANSWER: C
 
-83) ¿Cuál de estos comandos en un sistema Linux permitiría comprobar si los puertos
-25 y 80 están abiertos en el servidor servertst.uv.es?
+83) ¿Cuál de estos comandos en un sistema Linux permitiría comprobar si los puertos 25 y 80 están abiertos en el servidor servertst.uv.es?
 A) nmap -Pn servertst.uv.es
 B) netstat -nap servertst.uv.es
 C) nc -zv servertst.uv.es 27-1024
@@ -611,18 +587,15 @@ C) TwoFish
 D) Triple AES
 ANSWER: D
 
-85) El cifrado AES se basa en la sustitución y permutación de bloques de longitud
-mínima…
+85) El cifrado AES se basa en la sustitución y permutación de bloques de longitud mínima…
 A) 512 bits
 B) 256 bits
 C) 192 bits
 D) 128 bits
 ANSWER: D
 
-86) Un comando válido para comprobar la fecha de caducidad de un certificado
-electrónico es:
-A) openssl x509 -enddate -noout -in
-server_ymzVvNd9yWUprRtp.crt
+86) Un comando válido para comprobar la fecha de caducidad de un certificado electrónico es:
+A) openssl x509 -enddate -noout -in server_ymzVvNd9yWUprRtp.crt
 B) openssl rsa -enddate -in server_ymzVvNd9yWUprRtp.crt
 C) certssl -expirationdate -in server_ymzVvNd9yWUprRtp.crt
 D) certssl -validate -in server_ymzVvNd9yWUprRtp.crt
@@ -631,45 +604,32 @@ ANSWER: A
 87) ¿Qué afirmación es INCORRECTA respecto al Cifrado de Curva Elíptica (ECC)?
 A) Es más inseguro que el RSA.
 B) Es un cifrado asimétrico.
-C) La longitud de clave ECC es más pequeña respecto al equivalente en un
-cifrado RSA.
+C) La longitud de clave ECC es más pequeña respecto al equivalente en un cifrado RSA.
 D) ECC es un algoritmo más complejo que RSA.
 ANSWER: A
 
-88) ¿Cuál de los siguientes NO es un objetivo del Esquema Nacional de Seguridad
-(ENS)?
+88) ¿Cuál de los siguientes NO es un objetivo del Esquema Nacional de Seguridad (ENS)?
 A) Promover la gestión continuada de la seguridad.
-B) Promover la prevención, detección y corrección, para una mejor resiliencia en
-el escenario de ciberamenazas y ciberataques.
-C) Promover un tratamiento homogéneo de la seguridad que facilite la
-cooperación en la prestación de servicios públicos digitales y por extensión entre
-entidades del ámbito privado.
+B) Promover la prevención, detección y corrección, para una mejor resiliencia en el escenario de ciberamenazas y ciberataques.
+C) Promover un tratamiento homogéneo de la seguridad que facilite la cooperación en la prestación de servicios públicos digitales y por extensión entre entidades del ámbito privado.
 D) Servir de modelo de buenas prácticas.
 ANSWER: C
 
 89) ¿Cuál de las siguientes afirmaciones es INCORRECTA?
-A) El análisis de caja negra se centra en estudiar las vulnerabilidades de
-seguridad de la aplicación Web desde el punto de vista de un atacante externo.
-B) En el análisis de caja negra, el analista actuando como atacante, no dispone
-de ningún tipo de información previa relativa a la aplicación y mucho menos del
-código de la misma.
-C) El análisis de caja blanca se centra en estudiar las vulnerabilidades de
-seguridad de la aplicación Web desde el punto de vista del atacante externo.
-D) En el análisis de caja blanca, el analista actuando como desarrollador,
-dispone de acceso completo al código fuente de la aplicación para su revisión.
+A) El análisis de caja negra se centra en estudiar las vulnerabilidades de seguridad de la aplicación Web desde el punto de vista de un atacante externo.
+B) En el análisis de caja negra, el analista actuando como atacante, no dispone de ningún tipo de información previa relativa a la aplicación y mucho menos del código de la misma.
+C) El análisis de caja blanca se centra en estudiar las vulnerabilidades de seguridad de la aplicación Web desde el punto de vista del atacante externo.
+D) En el análisis de caja blanca, el analista actuando como desarrollador, dispone de acceso completo al código fuente de la aplicación para su revisión.
 ANSWER: C
 
 90) El protocolo S/MIME sirve para…
-A) Enviar imágenes incrustadas en mensajes de correo electrónico codificadas
-en formato Base64.
+A) Enviar imágenes incrustadas en mensajes de correo electrónico codificadas en formato Base64.
 B) Cifrar y firmar correos electrónicos para acreditar su procedencia.
-C) Es el protocolo usado para hacer transferencia de ficheros de un modo
-seguro.
+C) Es el protocolo usado para hacer transferencia de ficheros de un modo seguro.
 D) Cifrar transmisiones de correo electrónico, pero únicamente entre servidores.
 ANSWER: B
 
-91) Utilizando las Access Control List (ACL) en Linux ¿cómo podríamos permitir al
-usuario user1 accesos de lectura y escritura al archivo “archivo.txt”?
+91) Utilizando las Access Control List (ACL) en Linux ¿cómo podríamos permitir al usuario user1 accesos de lectura y escritura al archivo “archivo.txt”?
 A) setfacl -m u:user1:rw- archivo.txt
 B) chown user1. archivo.txt
 C) chmod 766 archivo.txt
@@ -677,43 +637,31 @@ D) setfacl -a u:user1:rw- archivo.txt
 ANSWER: A
 
 92) Un virus informático de acción directa…
-A) Permanece inactivo en un ordenador hasta que el archivo que contiene el
-virus se ejecuta. Su objetivo es un tipo de archivo específico.
-B) Cuando se ejecuta escanea el disco para conseguir targets y los infecta,
-después se va.
+A) Permanece inactivo en un ordenador hasta que el archivo que contiene el virus se ejecuta. Su objetivo es un tipo de archivo específico.
+B) Cuando se ejecuta escanea el disco para conseguir targets y los infecta, después se va.
 C) Se esparcen a través de emails y borran todos los archivos que infectan.
-D) Se esconden en archivos en memorias USB, en adjuntos de correos, CDs o
-DVDs. Reciben su nombre porque se activan cuando el ordenador lee uno de
-estos dispositivos y así infectan todo el disco duro.
+D) Se esconden en archivos en memorias USB, en adjuntos de correos, CDs o DVDs. Reciben su nombre porque se activan cuando el ordenador lee uno de estos dispositivos y así infectan todo el disco duro.
 ANSWER: A
 
-93) ¿Cuál de las siguientes opciones describe mejor el principio de “mínimo privilegio”
-en el control de acceso?
+93) ¿Cuál de las siguientes opciones describe mejor el principio de “mínimo privilegio” en el control de acceso?
 A) Permitir acceso completo a todos los usuarios sin restricciones.
-B) Otorgar a los usuarios los privilegios más altos disponibles para simplificar la
-gestión.
-C) Conceder permisos y privilegios sólo en función de las necesidades y
-responsabilidades del usuario.
+B) Otorgar a los usuarios los privilegios más altos disponibles para simplificar la gestión.
+C) Conceder permisos y privilegios sólo en función de las necesidades y responsabilidades del usuario.
 D) Limitar el acceso solo a los administradores y personal de TI.
 ANSWER: C
 
-94) ¿Qué se recomienda hacer para prevenir debilidades de autenticación en una
-aplicación?
+94) ¿Qué se recomienda hacer para prevenir debilidades de autenticación en una aplicación?
 A) Implementar la autenticación multi-factor siempre.
 B) Aumentar la frecuencia de cambio de contraseña.
 C) Verificar contraseñas débiles utilizando listas blancas de contraseñas.
 D) Ninguna de las anteriores es correcta.
 ANSWER: D
 
-95) ¿Qué opción es la más recomendable para prevenir las vulnerabilidades de
-inyección?
-A) Utilizar una API segura que evite el uso de intérpretes y proporcione una
-interfaz parametrizada.
+95) ¿Qué opción es la más recomendable para prevenir las vulnerabilidades de inyección?
+A) Utilizar una API segura que evite el uso de intérpretes y proporcione una interfaz parametrizada.
 B) Validar las entradas de datos en el servidor utilizando "listas blancas".
-C) Escapar los caracteres especiales en consultas dinámicas utilizando la
-sintaxis específica para el intérprete.
-D) Utilizar LIMIT y otros controles SQL para evitar la fuga masiva de registros en
-caso de inyección SQL.
+C) Escapar los caracteres especiales en consultas dinámicas utilizando la sintaxis específica para el intérprete.
+D) Utilizar LIMIT y otros controles SQL para evitar la fuga masiva de registros en caso de inyección SQL.
 ANSWER: A
 
 96) ¿Qué conclusión se puede sacar si se pasa una prueba de penetración?
@@ -725,10 +673,8 @@ ANSWER: C
 
 97) ¿Qué se entiende por infraestructura de clave pública (PKI)?
 A) Un certificado emitido por una autoridad raíz de un dominio de CA.
-B) Un método de encriptación utilizado para proteger los certificados digitales
-x509.
-C) Una estructura jerárquica de confianza necesaria para la implementación de
-la criptografía de clave pública.
+B) Un método de encriptación utilizado para proteger los certificados digitales x509.
+C) Una estructura jerárquica de confianza necesaria para la implementación de la criptografía de clave pública.
 D) Un acuerdo de certificaciones cruzadas entre pares.
 ANSWER: C
 
@@ -739,8 +685,7 @@ C) Una firma digital generada por una CA independiente.
 D) Un medio electrónico para verificar la identidad a través de una CA.
 ANSWER: D
 
-99) ¿Cuál de los siguientes datos NO se considera “dato personal” y por tanto NO se
-inscribe en el ámbito de aplicación del RGPD para su protección?
+99) ¿Cuál de los siguientes datos NO se considera “dato personal” y por tanto NO se inscribe en el ámbito de aplicación del RGPD para su protección?
 A) Número del registro mercantil.
 B) Dirección de protocolo de internet (IP).
 C) Dirección de correo electrónico con identificación de nombre y/o apellido.
@@ -748,12 +693,8 @@ D) Domicilio.
 ANSWER: A
 
 100) Un virus informático de tipología polimórfica…
-A) Infectan el sector del disco de arranque de un ordenador, que se lee primero,
-por lo que se ejecuta antes que cualquier otra cosa y es difícil de eliminar.
-B) Se ejecutan en JavaScript en el navegador e intentan infectar el ordenador de
-esa manera.
-C) Cambia ligeramente su propio código fuente cada vez que se copia a sí mismo
-para evitar la detección del software antivirus.
-D) Infecta todo tipo de dispositivos informáticos utilizando el mismo código
-fuente.
+A) Infectan el sector del disco de arranque de un ordenador, que se lee primero, por lo que se ejecuta antes que cualquier otra cosa y es difícil de eliminar.
+B) Se ejecutan en JavaScript en el navegador e intentan infectar el ordenador de esa manera.
+C) Cambia ligeramente su propio código fuente cada vez que se copia a sí mismo para evitar la detección del software antivirus.
+D) Infecta todo tipo de dispositivos informáticos utilizando el mismo código fuente.
 ANSWER: C

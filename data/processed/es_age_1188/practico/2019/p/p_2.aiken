@@ -1,0 +1,113 @@
+Debido a la pandemia ocasionada por el SARS-CoV-2, más conocido como Coronavirus, las Administraciones Publicas se han visto obligadas a impulsar el teletrabajo y a cambiar su estrategia en el ámbito de las TIC.
+En este sentido ha sido asignado en la integración de dos organismos en su departamento, los cuales no tienen capacidad para asumir las nuevas demandas de servicios y conexiones.
+Uno de los centros es la Demarcación de Carreteras de Madrid (DCM) y el otro es la Confederación Hidrográfica del Tajo (CHT).
+La DCM tiene máquinas físicas RedHat Enterprise Linux (RHEL). Su estructura consiste en tres áreas y en cada una de ellas trabajan 20 personas.
+La CHT tiene máquinas físicas Solaris. Su estructura consiste en 5 áreas y en cada una de ellas trabajan 50 personas.
+Ambos organismos tienen bastantes máquinas Windows 10, además de equipamiento específico, para el desarrollo de sus actividades, que tendrá que ser trasladado a su CPD.
+Es crucial la salvaguarda de los datos, la pérdida o inconsistencia de los mismos durante el proceso es algo inasumible.
+Salvo que el enunciado de la propia pregunta diga lo contrario, debe suponer que dispone de los permisos adecuados, tanto a nivel de sistema operativo como de conexión de red.
+
+1. El equipo de comunicaciones le asigna la red 10.0.4.0 con la máscara 255.255.255.128 para el direccionamiento de la DCM. ¿Cuantos bits tiene la máscara de red?
+a) 24
+b) 26
+c) 25
+d) 23
+ANSWER: C
+
+2. También le preguntan a qué Clase pertenece la red asignada (10.0.4.0).
+a) Clase A.
+b) Clase B.
+c) Clase C.
+d) Clase D.
+ANSWER: A
+
+3. Para la CHT los compañeros de redes le asignan el direccionamiento 10.0.0.0/21. ¿Cuál es el número máximo de hosts disponible?
+a) 1024
+b) 2046
+c) 32
+d) 256
+ANSWER: B
+
+4. La DCM no es capaz de especificarle la versión de RHEL que tienen sus máquinas, por lo que debe decirles el comando a ejecutar. ¿Cuál de los siguientes sería?
+a) rm -f /etc/redhat-release
+b) cat /etc/redhat-version
+c) cat /etc/redhat-release
+d) mv /etc/redhat-release
+ANSWER: C
+
+5. Una pieza crucial en cualquier sistema informático son las BBDD. Le han informado que tanto la DCM como la CHT utilizan Oracle, pero no le han dicho la versión. ¿Qué consulta podría hacer en la base de datos para conocer esta información?
+a) SELECT * FROM V$VERSION
+b) SELECT * FROM V$VERSIONADO
+c) SELECT * FROM V$VERSIONDB
+d) SELECT * FROM V$VERSIONTABLE
+ANSWER: A
+
+6. Relacionado con los sistemas de backup, le preguntan por una técnica que mejore la eficiencia del almacenamiento y reduzca su coste medio. ¿Cuál propondría?
+a) RTO
+b) Deduplicación
+c) RPO
+d) Vaulting
+ANSWER: B
+
+7. Desde su unidad también se está valorando el uso de RAID 10, ¿cuántos discos duros son necesarios para crearlo?
+a) 2 discos duros.
+b) 3 discos duros.
+c) Al menos 4 discos duros.
+d) Es indiferente.
+ANSWER: C
+
+8. Se está hablando sobre el uso de máquinas virtuales, y le piden indicar cuál de los siguientes NO es un software de virtualización.
+a) Vmware
+b) VirtualBox
+c) Hyper-V
+d) LVM
+ANSWER: D
+
+9. En su unidad se ha decidido utilizar Docker. ¿Cuál de los siguientes comandos deberá utilizar para mostrar la información que tiene todo el sistema sobre la instalación de Docker (nº de contenedores, las imágenes…)?
+a) docker ps
+b) docker info
+c) docker inspect
+d) docker systeminfo
+ANSWER: B
+
+10. En una reunión se habla del Directorio Activo. Defina en qué consiste este concepto.
+a) Es el usuario que está logado actualmente en el sistema.
+b) Es el conjunto de políticas de grupo que se aplican a los usuarios de una red Novell.
+c) Es un almacén de datos estructurado que permite almacenar información sobre los objetos o recursos de una red para facilitar su localización y administración.
+d) Es un almacén de datos que contiene información de los programas software instalados en la red por la organización.
+ANSWER: C
+
+11. Le preguntan sobre las cuentas de usuario que pertenecen al grupo Administradores locales de una máquina, ¿qué comando de Windows debería utilizar?
+a) net local administradores
+b) net localgroup admin
+c) net local admin
+d) net localgroup administradores
+ANSWER: D
+
+12. Debido al elevado volumen de peticiones e incidencias que se esperan durante la integración, se está valorando implantar un sistema de gestión específico.El único requerimiento que tienen es que sea Open Source. ¿Cuál propondría?
+a) Remedy
+b) Ticket2.0
+c) Nagios
+d) osTicket
+ANSWER: D
+
+1. [RESERVA] Con el objetivo de recabar información sobre los equipos Windows, disponen de un software de inventariado que necesita acceso por el puerto 4433 (TCP) en los equipos destino. ¿Qué comando utilizaría en estos últimos para añadir la regla al firewall?
+a) netsh advfirewall firewall create rule name= "Inventariado" dir=in action=allow protocol=TCP localport=4433
+b) netsh advfirewall firewall add rule name= "Inventariado" dir=in action=permit protocol=TCP localport=4433
+c) netsh advfirewall firewall add rule name= "Inventariado" dir=in action=allow protocol=TCP localport=4433
+d) netsh advfirewall firewall new rule name= "Inventariado" dir=in action=allow protocol=TCP localport=4433
+ANSWER: C
+
+2. [RESERVA] Durante el proceso de traslado, uno de los equipos Windows más importantes de la DCM da problemas de corrupción de datos y han decidido restaurar la copia de seguridad. Le indican que el dispositivo está cifrado. ¿Qué necesita que le proporcionen para poder restaurar la copia?
+a) El certificado digital.
+b) La clave de BitLocker.
+c) La clave privada.
+d) La clave de sesión.
+ANSWER: B
+
+3. [RESERVA] Muchas de las comunicaciones se van a realizar mediante conexiones ssh y tiene que solicitar las reglas de firewall al equipo de comunicaciones. ¿Cuál es el puerto que debe solicitar?
+a) 21
+b) 63
+c) 69
+d) 22
+ANSWER: D

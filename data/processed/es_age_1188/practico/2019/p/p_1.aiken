@@ -1,0 +1,155 @@
+En el departamento TIC, al que usted se acaba de incorporar, quiere desarrollar para la Subdirección de Selección un sistema integral de información para la gestión de los procesos selectivos y convocatorias de oposiciones de la Administración General del Estado. El sistema incluirá, entre otras, las siguientes funcionalidades:
+- Gestión de solicitudes de inscripción de aspirantes al proceso selectivo.
+- Gestión de colaboradores.
+- Generación de listados, estadísticas y cuadros de mando.
+- Generación de certificados para aspirantes y colaboradores.
+Dada la envergadura del proyecto, y para aprovechar las aplicaciones ya implantadas en la Subdirección y la experiencia profesional del personal, van a convivir diferentes lenguajes de programación, entre otros, Java, C# o Python, así como distintos gestores de Bases de Datos. Como repositorio de código se utiliza Git.
+A continuación se muestra un diagrama simplificado de clases que describe parte del sistema:
+
+|--------------|                  |-------------|
+|  Solicitud   |                  |  Opositor   |
+|--------------|  Presentada por  |-------------|
+| +IdSolicitud |------------------| +IdOpositor |
+| +IdOpositor  | 1..N           1 | +NIF        |
+| +IdProceso   |                  |             |
+|--------------|                  |-------------|
+|--------------|                  |-------------|
+  1..N |
+       | Pertenece a
+       |
+|----------------|               |--------------|
+|    Proceso     |               |  Ejercicio   |
+|----------------|    Consta     |--------------|
+| +IdProceso     |---------------| +IdEjercicio |
+| +IdFormaAcceso | 1        1..N | +IdProceso   |
+|                |               | +Duracion    |
+|----------------|               |--------------|
+|----------------|               |--------------|
+
+Salvo que el enunciado diga lo contrario, se asume que aquellas preguntas que contengan un fragmento de código tendrán declaradas
+correctamente todas las clases, librerías y variables que no aparezcan explícitamente. Del mismo modo sí se trata de lenguaje HTML, se
+da por supuesto que éste será HTML5 y será ejecutado en navegadores que soporten dicha versión. Las sentencias SQL que aparecen
+se encuentran dentro del estándar ANSI SQL.Como metodología de base el organismo aplica Métrica v3.
+
+1. Se necesita presentar una estadística utilizando HTML5 mediante una tabla en la que una de sus columnas contendrá la descripción de cada Proceso Selectivo. Suponiendo que a dicha columna la denominamos "Proceso", ¿qué etiqueta deberá utilizar para definir la celda de encabezado de la tabla para dicha columna, con un formato de letra diferenciado?
+a) <th>Proceso</th>
+b) <tableheader>Proceso</tableheader>
+c) <theader>Proceso</theader>
+d) <tableh>Proceso</tableh>
+ANSWER: A
+
+2. También se requiere definir en el informe un hipervínculo en HTML5. ¿Qué etiqueta debería utilizar?
+a) <link>
+b) <a>
+c) <goto>
+d) <hlink>
+ANSWER: B
+
+3. En su Subdirección van a usar JSON para realizar intercambio de datos, y le preguntan, de entre los siguientes, cuál sería un fichero JSON válido.
+a) {"nombre": "Juana", "apellido": "Ruiz"}
+b) {'nombre': 'Juana', 'apellido': 'Ruiz'}
+c) {nombre: "Juana", apellido: "Ruiz"}
+d) {nombre: "Juana"; apellido: "Ruiz"}
+ANSWER: A
+
+4. ¿Cómo debe definir el equipo de desarrollo en Java una clase llamada Ejercicio si quiere impedir que se pueda heredar de la misma?
+a) closed class Ejercicio
+b) final class Ejercicio
+c) private class Ejercicio
+d) immutable class Ejercicio
+ANSWER: B
+
+5. Su responsable le pregunta qué concepto hace referencia a la posibilidad de utilizar el mismo nombre de método con distintos parámetros en la programación orientada a objetos. ¿Qué debería responder?
+a) Herencia.
+b) Ligadura dinámica.
+c) Polimorfismo.
+d) Abstracción.
+ANSWER: C
+
+6. Revisando un programa escrito en lenguaje Python, se encuentra con el siguiente fragmento de código.
+[a*a for a in [3, 2, 1] if a > 1]
+¿Qué se muestra?
+a) [3, 2, 1, 3, 2, 1]
+b) [9 ,4]
+c) [9, 4, 1]
+d) [2, 1]
+ANSWER: B
+
+7. Le han pedido que compruebe si en el esquema de la base de datos hay tablas que no se están utilizando, y verifica que existe una con esas características llamada PruebaOLD. ¿Cuál sería la instrucción SQL para eliminarla?
+a) TRUNCATE TABLE PruebaOLD
+b) DROP TABLE PruebaOLD
+c) DELETE TABLE PruebaOLD
+d) ERASE TABLE PruebaOLD
+ANSWER: B
+
+8. También le consultan sobre la sentencia SQL a utilizar para obtener el listado del identificador de los opositores (IdOpositor) que tienen más de una entrada en la tabla Solicitud.
+a) SELECT IdOpositor, COUNT(IdSolicitud) AS NumeroSolicitudes FROM Solicitud GROUP BY IdOpositor WHERE NumeroSolicitudes > 1
+b) SELECT IdOpositor, IdSolicitud FROM Solicitud WHERE COUNT(IdSolicitud) > 1
+c) SELECT IdOpositor, COUNT(IdSolicitud) FROM Solicitud WHERE COUNT(IdSolicitud) > 1 GROUP BY IdOpositor
+d) SELECT IdOpositor, COUNT(IdSolicitud) FROM Solicitud GROUP BY IdOpositor HAVING COUNT(IdSolicitud) > 1
+ANSWER: D
+
+9. Dentro de las tecnologías para el desarrollo web utilizadas en su unidad, se contempla utilizar javascript. ¿Qué valor devuelve la siguiente función javascript?
+Function prueba() {
+var i = 1;
+var j = 0;
+while (i < 7) {
+j += i;
+i += 2; }
+return j; }
+a) 2
+b) 9
+c) 6
+d) 0
+ANSWER: B
+
+10. Su equipo está estudiando la información existente dispersa en distintas fuentes de datos con el fin de consolidarla. En una base de datos antigua, hay una tabla que contiene el siguiente registro:
+NIF: 12345678Z
+Nombre: Emilia
+PrimerApellido: Pardo
+SegundoApellido: Bazán
+Direccion: Atocha 106
+Telefonos: 916666666;917777777
+¿En qué forma normal está la tabla?
+a) En primera forma normal.
+b) En segunda forma normal.
+c) En tercera forma normal.
+d) No está en ninguna forma normal.
+ANSWER: D
+
+11. En una reunión departamental se está hablando de Servicios Web, y le preguntan cuál de los siguientes estándares no se usa en Servicios Web. ¿Qué debería responder?
+a) SOAP
+b) UDDI
+c) HEVC
+d) WSDL
+ANSWER: C
+
+12. El sistema de información deberá ser accesible a través de dispositivos móviles. ¿Cómo se denomina el tipo de diseño que permite la adaptación del contenido a los distintos dispositivos?
+a) Diseño incremental (Gradual Design).
+b) Diseño responsivo (Responsive Design).
+c) Diseño variable (Variable Design).
+d) Diseño escalable (Scalable Design).
+ANSWER: B
+
+1. [RESERVA] Dentro del código de la página web a la que acceden los opositores, se encuentra el siguiente código HTML:
+<html><body><h1 id="titulo">Primer ejercicio TAI</h1></body></html>
+¿Cuál es el código javascript para obtener la cadena "Primer ejercicio TAI"?
+a) var titulo = document.getElementById("titulo").firstChild.nodeValue;
+b) var titulo = document.titulo.InnerHTML;
+c) var titulo = document.getElement("h1").InnerText;
+d) var titulo = document.children[0].getValue();
+ANSWER: A
+
+2. [RESERVA] El equipo de proyecto está estudiando varios framework para valorar su utilización. ¿Cuál es el propósito principal del framework de javascript Jest?
+a) Testeado de código.
+b) Machine learning.
+c) Animacion y efectos gráficos.
+d) Funciones matemáticas y tratamiento de cadenas.
+ANSWER: A
+
+3. [RESERVA] Para el desarrollo de sus funciones, tiene que usar un gestor de paquetes de código desarrollado por Microsoft para .NET. ¿Cuál utilizaría?
+a) Pip
+b) Maven
+c) Npm
+d) NuGet
+ANSWER: D

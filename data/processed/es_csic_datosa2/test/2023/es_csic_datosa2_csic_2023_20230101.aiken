@@ -391,26 +391,22 @@ D) Entradas, función de activación, salidas.
 ANSWER: C
 
 57) ¿Cuándo decimos que hay overfitting en el contexto de modelado?
-A) Cuando el modelo se ajusta muy bien a los datos de entrenamiento y no
-generaliza bien a otros.
+A) Cuando el modelo se ajusta muy bien a los datos de entrenamiento y no generaliza bien a otros.
 B) Cuando el modelo no logra reproducir los datos de entrenamiento.
-C) Cuando el modelo se ajusta muy bien a los datos de entrenamiento y
-generaliza bien.
+C) Cuando el modelo se ajusta muy bien a los datos de entrenamiento y generaliza bien.
 D) Ninguna de las opciones anteriores.
 ANSWER: A
 
 58) ¿Qué es el método Runge-Kutta clásico?
 A) Es un método numérico para calcular puntos críticos de una curva.
-B) Es un método para resolver ecuaciones diferenciales ordinarias implícito de
-paso adaptativo.
+B) Es un método para resolver ecuaciones diferenciales ordinarias implícito de paso adaptativo.
 C) Es un método para resolver ecuaciones diferenciales ordinarias explícito.
 D) Es un método para resolver ecuaciones diferenciales implícito de paso fijo.
 ANSWER: C
 
 59) ¿Para qué se utiliza el método de elementos finitos?
 A) Para resolver sistemas de ecuaciones algebraicas.
-B) Para resolver ecuaciones en derivadas parciales unidimensionales
-exclusivamente.
+B) Para resolver ecuaciones en derivadas parciales unidimensionales exclusivamente.
 C) Para resolver ecuaciones en derivadas parciales.
 D) Es un método de cálculo de series finitas.
 ANSWER: C
@@ -436,8 +432,7 @@ C) sólo la moda y la media coinciden.
 D) la media, la moda y la mediana son distintas.
 ANSWER: A
 
-63) ¿Cuál de las siguientes herramientas NO se usa normalmente para el análisis de
-series temporales?
+63) ¿Cuál de las siguientes herramientas NO se usa normalmente para el análisis de series temporales?
 A) Autocorrelación
 B) Transformada de Fourier
 C) Análisis espectral
@@ -458,19 +453,15 @@ C) ANOVA
 D) Chi-cuadrado
 ANSWER: B
 
-66) ¿Cuál de las siguientes es una ventaja de las redes neuronales respecto a los
-árboles de decisión?
+66) ¿Cuál de las siguientes es una ventaja de las redes neuronales respecto a los árboles de decisión?
 A) Capacidad de manejo conjunto de datos numéricos y categorizados.
-B) Se pueden extraer las reglas generadas para clasificar/predecir (“caja
-blanca”).
+B) Se pueden extraer las reglas generadas para clasificar/predecir (“caja blanca”).
 C) Puede trabajar con valores que faltan (valores “en blanco”, “missing values”).
-D) Mayor capacidad de generalización para casos distintos a los del conjunto de
-entrenamiento.
+D) Mayor capacidad de generalización para casos distintos a los del conjunto de entrenamiento.
 ANSWER: D
 
 67) ¿Para qué puede usar un modelo ARIMA?
-A) para separar la tendencia, periodicidades y residuos de una serie temporal de
-datos.
+A) para separar la tendencia, periodicidades y residuos de una serie temporal de datos.
 B) para identificar las variables más importantes en un modelo lineal.
 C) para realizar comparaciones múltiples después de un ANOVA positivo.
 D) para corregir los valores de q en comparaciones múltiples.
@@ -497,17 +488,14 @@ C) La Transformada de Fourier es una generalización de la Transformada Z.
 D) La Transformada Z es una generalización de la Transformada de Fourier.
 ANSWER: D
 
-71) ¿Cuál de las siguientes afirmaciones sobre el algoritmo de Metrópolis-Hastings es
-FALSA?
+71) ¿Cuál de las siguientes afirmaciones sobre el algoritmo de Metrópolis-Hastings es FALSA?
 A) Es un método de Montecarlo basado en cadenas de Markov.
 B) Sirve para calcular integrales.
-C) Obtiene una secuencia de muestras aleatoria de una distribución de
-probabilidad.
+C) Obtiene una secuencia de muestras aleatoria de una distribución de probabilidad.
 D) No usa ningún criterio de aceptación del valor propuesto.
 ANSWER: D
 
-72) ¿Cuál de las siguientes afirmaciones sobre la matriz de covarianza de una señal
-física es cierta?
+72) ¿Cuál de las siguientes afirmaciones sobre la matriz de covarianza de una señal física es cierta?
 A) Nunca tiene inversa.
 B) No es cuadrada.
 C) Es simétrica.
@@ -516,23 +504,16 @@ ANSWER: C
 
 73) ¿Cuál de las siguientes afirmaciones es cierta?
 A) La Transformada de Wavelet conserva información temporal y frecuencial.
-B) La Transformada de Wavelet conserva información temporal pero no
-frecuencial.
-C) La Transformada de Wavelet conserva información frecuencial pero no
-temporal.
-D) La Transformada de Wavelet no conserva información ni temporal, ni
-frecuencial.
+B) La Transformada de Wavelet conserva información temporal pero no frecuencial.
+C) La Transformada de Wavelet conserva información frecuencial pero no temporal.
+D) La Transformada de Wavelet no conserva información ni temporal, ni frecuencial.
 ANSWER: A
 
 74) ¿Qué es el método Montecarlo?
-A) Un método no determinista o estadístico numérico, usado para aproximar
-expresiones matemáticas complejas y costosas de evaluar con exactitud.
-B) Una herramienta financiera para la predicción de la evolución de la deuda
-pública.
-C) Una ecuación determinista para evaluar el área bajo la curva de ecuaciones
-de segundo grado.
-D) Un método de desarrollo de software para el análisis de datos de física de
-Altas Energías.
+A) Un método no determinista o estadístico numérico, usado para aproximar expresiones matemáticas complejas y costosas de evaluar con exactitud.
+B) Una herramienta financiera para la predicción de la evolución de la deuda pública.
+C) Una ecuación determinista para evaluar el área bajo la curva de ecuaciones de segundo grado.
+D) Un método de desarrollo de software para el análisis de datos de física de Altas Energías.
 ANSWER: A
 
 75) ¿Cuál de los siguientes NO es un conocido algoritmo probabilístico?
@@ -543,14 +524,10 @@ D) AKS
 ANSWER: D
 
 76) El método de jackknife…
-A) se basa en repetir el análisis muchas veces tomando cada vez una
-submuestra de la muestra original.
-B) se basa en repetir el análisis tantas veces como el tamaño de la muestra
-eliminando cada vez una observación de la muestra original.
-C) se basa en repetir el análisis muchas veces cambiando cada vez el orden en
-que se evalúan las muestras.
-D) se basa en repetir el análisis extrapolando valores no disponibles a partir de
-otros valores de la muestra.
+A) se basa en repetir el análisis muchas veces tomando cada vez una submuestra de la muestra original.
+B) se basa en repetir el análisis tantas veces como el tamaño de la muestra eliminando cada vez una observación de la muestra original.
+C) se basa en repetir el análisis muchas veces cambiando cada vez el orden en que se evalúan las muestras.
+D) se basa en repetir el análisis extrapolando valores no disponibles a partir de otros valores de la muestra.
 ANSWER: B
 
 77) Una red neuronal debe de tener…
@@ -588,36 +565,28 @@ C) estructura de moléculas pequeñas resueltas por cristalografía.
 D) características moleculares calculadas por mecánica cuántica.
 ANSWER: B
 
-82) ¿Dónde buscaría información sobre demografía y población de la sociedad
-española?
+82) ¿Dónde buscaría información sobre demografía y población de la sociedad española?
 A) En el Centro de Investigaciones Sociológicas del CSIC.
 B) en ISOC.
 C) En MARCATHLON.
 D) en el Instituto Nacional de Estadística.
 ANSWER: D
 
-83) En el contexto de la estimación de parámetros, ¿cuál de las siguientes afirmaciones
-describe mejor el método de los mínimos cuadrados?
-A) Es un método que utiliza la estadística Bayesiana en su formulación para
-encontrar los valores óptimos de los parámetros.
-B) Es un método que minimiza la suma de los residuos al cuadrado entre los
-valores observados y los predichos por el modelo.
-C) Es un método que busca maximizar la función de verosimilitud de los
-parámetros.
-D) Es un método que utiliza la regresión lineal para estimar los parámetros del
-modelo.
+83) En el contexto de la estimación de parámetros, ¿cuál de las siguientes afirmaciones describe mejor el método de los mínimos cuadrados?
+A) Es un método que utiliza la estadística Bayesiana en su formulación para encontrar los valores óptimos de los parámetros.
+B) Es un método que minimiza la suma de los residuos al cuadrado entre los valores observados y los predichos por el modelo.
+C) Es un método que busca maximizar la función de verosimilitud de los parámetros.
+D) Es un método que utiliza la regresión lineal para estimar los parámetros del modelo.
 ANSWER: B
 
-84) ¿Cuál de los siguientes métodos numéricos utiliza una fórmula de interpolación para
-aproximar la integral de una función?
+84) ¿Cuál de los siguientes métodos numéricos utiliza una fórmula de interpolación para aproximar la integral de una función?
 A) Regla de Simpson.
 B) Método de la cuadratura gaussiana.
 C) Método de Romberg.
 D) Regla del punto medio.
 ANSWER: A
 
-85) ¿Cuál de los siguientes métodos se utiliza para la ingestión de datos en tiempo real
-en un sistema de procesamiento de streaming?
+85) ¿Cuál de los siguientes métodos se utiliza para la ingestión de datos en tiempo real en un sistema de procesamiento de streaming?
 A) Kafka
 B) ETL tradicional
 C) Almacenamiento en disco duro
@@ -631,8 +600,7 @@ C) El orden de adición/eliminación de variables.
 D) Su adecuación a la realidad.
 ANSWER: D
 
-87) ¿Qué tipo de datos NO son relevantes para el modelado y análisis de datos en
-química?
+87) ¿Qué tipo de datos NO son relevantes para el modelado y análisis de datos en química?
 A) Coordenadas geográficas.
 B) Coordenadas atómicas.
 C) Parámetros físicos.
@@ -655,59 +623,44 @@ ANSWER: B
 
 90) El análisis de agrupamiento o clustering se refiere a…
 A) las técnicas más usadas actualmente en el tratamiento de imágenes digitales.
-B) un conjunto de técnicas estadísticas para clasificar datos individuales en
-grupos homogéneos.
+B) un conjunto de técnicas estadísticas para clasificar datos individuales en grupos homogéneos.
 C) un método determinista basado en cálculo numérico.
 D) la aplicación de ecuaciones diferenciales a modelos científicos.
 ANSWER: B
 
-91) De los siguientes identificadores de contenidos digitales, indicar cuál el que tiene
-menor nivel de persistencia:
+91) De los siguientes identificadores de contenidos digitales, indicar cuál el que tiene menor nivel de persistencia:
 A) URL
 B) PURL
 C) DOI
 D) Handle
 ANSWER: A
 
-92) La iniciativa de carácter internacional surgida hacia el año 2000 cuyo principal
-objetivo es garantizar la rapidez y eficiencia, tanto en el acceso a la información
-existente en archivos y servicios astronómicos, como en el análisis de dicha información
-es:
+92) La iniciativa de carácter internacional surgida hacia el año 2000 cuyo principal objetivo es garantizar la rapidez y eficiencia, tanto en el acceso a la información existente en archivos y servicios astronómicos, como en el análisis de dicha información es:
 A) Observatorio Virtual (VO)
 B) Astronomía Global (GA)
 C) Archivo Astronómico (AA)
 D) Astrofísica Internacional (IA)
 ANSWER: A
 
-93) Indicar cuál de las siguientes opciones NO se corresponde con alguno de los
-experimentos coordinados de proyección climática global y regional más recientes
-integrados en el Interactive Atlas del sexto informe del IPCC WGI:
+93) Indicar cuál de las siguientes opciones NO se corresponde con alguno de los experimentos coordinados de proyección climática global y regional más recientes integrados en el Interactive Atlas del sexto informe del IPCC WGI:
 A) CMIP5
 B) CORDEX
 C) CMIP6
 D) MPI
 ANSWER: D
 
-94) ¿Cuál de las siguientes afirmaciones describe correctamente la secuenciación de
-alto rendimiento o secuenciación masiva?
+94) ¿Cuál de las siguientes afirmaciones describe correctamente la secuenciación de alto rendimiento o secuenciación masiva?
 A) Es una técnica que permite la lectura de un único fragmento de ADN a la vez.
-B) Es una técnica que se utiliza para estudiar la estructura tridimensional de las
-proteínas.
-C) Es una técnica que permite la lectura simultánea de millones de fragmentos
-de ADN.
-D) Es una técnica que analiza la expresión de genes en muestras de tejido para
-identificar alteraciones genéticas.
+B) Es una técnica que se utiliza para estudiar la estructura tridimensional de las proteínas.
+C) Es una técnica que permite la lectura simultánea de millones de fragmentos de ADN.
+D) Es una técnica que analiza la expresión de genes en muestras de tejido para identificar alteraciones genéticas.
 ANSWER: C
 
 95) ¿Cúal de las siguientes opciones describe correctamente la metagenómica?
-A) La metagenómica es el estudio de la función de los genes en un solo
-organismo.
-B) La metagenómica es una técnica que permite la clonación de genes
-específicos en bacterias.
+A) La metagenómica es el estudio de la función de los genes en un solo organismo.
+B) La metagenómica es una técnica que permite la clonación de genes específicos en bacterias.
 C) La metagenómica es el estudio de la expresión génica.
-D) La metagenómica es el estudio del material genético de una muestra
-ambiental compleja, sin necesidad de cultivar los microorganismos individuales
-presentes.
+D) La metagenómica es el estudio del material genético de una muestra ambiental compleja, sin necesidad de cultivar los microorganismos individuales presentes.
 ANSWER: D
 
 96) Los modelos de redes neuronales LSTM…

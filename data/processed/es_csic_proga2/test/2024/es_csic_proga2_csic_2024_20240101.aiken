@@ -187,75 +187,63 @@ C. Linux.
 D. AutoCad.
 ANSWER: C
 
-28- ¿Cuál de las siguientes es una fase clave en la gestión de proyectos según el
-enfoque tradicional?
+28- ¿Cuál de las siguientes es una fase clave en la gestión de proyectos según el enfoque tradicional?
 A. Creación de sprints
 B. Análisis de requisitos
 C. Implementación ágil
 D. Procesamiento de Big Data
 ANSWER: B
 
-29- ¿Cuál de los siguientes lenguajes es más comúnmente usado para computación
-científica debido a sus capacidades numéricas?
+29- ¿Cuál de los siguientes lenguajes es más comúnmente usado para computación científica debido a sus capacidades numéricas?
 A. HTML
 B. Postscript
 C. Python
 D. PHP
 ANSWER: C
 
-30- ¿Qué estructura de datos es la más adecuada para implementar un mecanismo
-LIFO de último en entrar, primero en salir (Last In, First Out)?
+30- ¿Qué estructura de datos es la más adecuada para implementar un mecanismo LIFO de último en entrar, primero en salir (Last In, First Out)?
 A. Cola
 B. Pila
 C. Lista enlazada
 D. Tabla hash
 ANSWER: B
 
-31- ¿Cuál de los siguientes es un paso crucial en el diseño de casos de estudio para
-garantizar resultados válidos y fiables?
+31- ¿Cuál de los siguientes es un paso crucial en el diseño de casos de estudio para garantizar resultados válidos y fiables?
 A. Seleccionar un tamaño de muestra basándose únicamente en la conveniencia.
 B. Centrarse en un único método de recopilación de datos para simplificar el análisis.
-C. Definir claramente las preguntas y los objetivos de la investigación antes de la
-recopilación de datos.
+C. Definir claramente las preguntas y los objetivos de la investigación antes de la recopilación de datos.
 D. Evitar las entrevistas a los participantes para minimizar el sesgo.
 ANSWER: C
 
-32- ¿Cuál de las siguientes afirmaciones es cierta sobre las listas y vectores (array)
-con implementación clásica?
-A. Los arrays permiten insertar y eliminar elementos en posiciones arbitrarias con
-mayor rapidez que las listas.
+32- ¿Cuál de las siguientes afirmaciones es cierta sobre las listas y vectores (array) con implementación clásica?
+A. Los arrays permiten insertar y eliminar elementos en posiciones arbitrarias con mayor rapidez que las listas.
 B. Los arrays permiten cambio de tamaño dinámico, a diferencia de las listas.
-C. Los arrays requieren una asignación de memoria contigua lo que puede generar
-problemas de asignación de memoria para conjuntos de datos grandes.
+C. Los arrays requieren una asignación de memoria contigua lo que puede generar problemas de asignación de memoria para conjuntos de datos grandes.
 D. Las listas hacen un uso más eficiente de memoria que los arrays.
 ANSWER: C
 
-33- ¿Cuál de las siguientes estructuras de datos es mejor para implementar una cola
-de prioridad (priority queue)?
+33- ¿Cuál de las siguientes estructuras de datos es mejor para implementar una cola de prioridad (priority queue)?
 A. Lista enlazada doble
 B. Pila
 C. Montículo o árbol binario (Binary Heap)
 D. Cola circular
 ANSWER: C
 
-34- ¿Cuál es la complejidad de tiempo promedio para buscar un elemento en una tabla
-de hash bien implementada?
+34- ¿Cuál es la complejidad de tiempo promedio para buscar un elemento en una tabla de hash bien implementada?
 A. O(n)
 B. O(n log n)
 C. O(log n)
 D. O(1)
 ANSWER: D
 
-35- ¿Qué algoritmo se utiliza comúnmente para encontrar el camino más corto desde
-un nodo fuente a todos los demás nodos en un grafo ponderado?
+35- ¿Qué algoritmo se utiliza comúnmente para encontrar el camino más corto desde un nodo fuente a todos los demás nodos en un grafo ponderado?
 A. Algoritmo de Dijkstra
 B. Algoritmo de Prim
 C. Búsqueda en profundidad (DFS)
 D. Algoritmo de Kruskal
 ANSWER: A
 
-36- ¿Cuál de las siguientes estructuras de datos permite la búsqueda más eficiente
-en el peor de los casos?
+36- ¿Cuál de las siguientes estructuras de datos permite la búsqueda más eficiente en el peor de los casos?
 A. Árbol AVL
 B. Lista doblemente enlazada
 C. Pila
@@ -269,8 +257,7 @@ C. La duración de las tareas y su cronograma
 D. Los riesgos y problemas del proyecto
 ANSWER: C
 
-38- ¿Cómo puede Python ser útil en el análisis de datos de un caso de estudio en
-investigación científica?
+38- ¿Cómo puede Python ser útil en el análisis de datos de un caso de estudio en investigación científica?
 A. Generando hipótesis teóricas automáticamente.
 B. Creando gráficos y visualizaciones de datos con librerías como Matplotlib o Seaborn.
 C. Recolectando datos cualitativos de manera manual.
@@ -284,16 +271,14 @@ C. Revisar el proyecto finalizado.
 D. Monitorear los riesgos.
 ANSWER: B
 
-40- Para ordenar una lista de forma eficientemente cuál de los siguientes algoritmos
-NO debería utilizar:
+40- Para ordenar una lista de forma eficientemente cuál de los siguientes algoritmos NO debería utilizar:
 A. Merge sort (por mezcla)
 B. Quick sort (rápido)
 C. Bubble sort (método de burbuja)
 D. Heap sort (por montículos)
 ANSWER: C
 
-41- ¿Cuál es la principal diferencia entre un árbol AVL y un árbol binario de búsqueda
-no balanceado?
+41- ¿Cuál es la principal diferencia entre un árbol AVL y un árbol binario de búsqueda no balanceado?
 A. El árbol AVL permite nodos duplicados
 B. El árbol AVL se equilibra automáticamente
 C. El árbol binario garantiza tiempos logarítmicos en el peor caso
@@ -322,16 +307,14 @@ C. 0
 D. None
 ANSWER: B
 
-45- ¿Cuál es el peor caso para la búsqueda en un árbol binario de búsqueda
-desbalanceado?
+45- ¿Cuál es el peor caso para la búsqueda en un árbol binario de búsqueda desbalanceado?
 A. O(log n)
 B. O(n)
 C. O(n log n)
 D. O(1)
 ANSWER: B
 
-46- ¿Cuál de las siguientes instrucciones es válida para incrementar el valor de la
-variable x en Python?
+46- ¿Cuál de las siguientes instrucciones es válida para incrementar el valor de la variable x en Python?
 A. x += 1
 B. x++
 C. Ninguna de las dos
@@ -345,8 +328,7 @@ C. Crear y administrar marcos de datos.
 D. Gestionar datos indefinidos en un conjunto de datos.
 ANSWER: B
 
-48- ¿Cuál es la función en R que se utiliza comúnmente para crear un modelo de
-regresión lineal?
+48- ¿Cuál es la función en R que se utiliza comúnmente para crear un modelo de regresión lineal?
 A. lm()
 B. glm()
 C. predict()
@@ -360,44 +342,36 @@ C. insert()
 D. push()
 ANSWER: A
 
-50- ¿Qué paquete de R es conocido por facilitar la creación de gráficos complejos y
-visualizaciones de datos?
+50- ¿Qué paquete de R es conocido por facilitar la creación de gráficos complejos y visualizaciones de datos?
 A. Dplyr
 B. ggplot2
 C. shiny
 D. readr
 ANSWER: B
 
-51- En el desarrollo ágil de software, ¿cuál es el objetivo principal del rol del
-propietario del producto (Product Owner)?
+51- En el desarrollo ágil de software, ¿cuál es el objetivo principal del rol del propietario del producto (Product Owner)?
 A. Escribir y probar el código.
 B. Gestionar el equipo y asignar tareas a cada componente.
-C. Definir y priorizar la lista de trabajos a realizar (backlog) en función de los interesados
-(stakeholder).
+C. Definir y priorizar la lista de trabajos a realizar (backlog) en función de los interesados (stakeholder).
 D. Asegurarse de que el equipo siga las prácticas ágiles y elimine los obstáculos.
 ANSWER: C
 
 52- En una base de datos relacional, tenemos dos tablas: Investigadores y Proyectos.
-La tabla Proyectos tiene un campo ResearcherID que hace referencia al
-ResearcherID en la tabla Investigadores. ¿Qué sucederá si se intenta eliminar un
-investigador que todavía está asignado a un proyecto, sin ningún cambio
-adicional?
+La tabla Proyectos tiene un campo ResearcherID que hace referencia al ResearcherID en la tabla Investigadores. ¿Qué sucederá si se intenta eliminar un investigador que todavía está asignado a un proyecto, sin ningún cambio adicional?
 A. Se eliminará al investigador y el proyecto tendrá un ResearcherID nulo.
 B. La base de datos evitará la eliminación para mantener la integridad referencial.
 C. Se eliminarán el investigador y todos los proyectos relacionados.
 D. El proyecto se reasignará automáticamente a un investigador predeterminado.
 ANSWER: B
 
-53- ¿Cuál de las siguientes opciones es una forma CORRECTA de crear una lista por
-comprensión en Python?
+53- ¿Cuál de las siguientes opciones es una forma CORRECTA de crear una lista por comprensión en Python?
 A. [x for x in range(10)]
 B. (x for x in range(10))
 C. y = [for x in range(10)]
 D. list(x in range(10))
 ANSWER: A
 
-54- ¿Cuál es la principal ventaja de utilizar bases de datos relacionales en
-aplicaciones científicas?
+54- ¿Cuál es la principal ventaja de utilizar bases de datos relacionales en aplicaciones científicas?
 A. Permiten almacenar datos no estructurados.
 B. Facilitan consultas complejas con SQL mediante relaciones entre tablas.
 C. No requieren esquemas definidos para los datos.
@@ -411,12 +385,9 @@ C. 8
 D. 9
 ANSWER: D
 
-56- ¿Cuál de las siguientes instrucciones utilizaría en SQL para hallar los
-empleados del departamento de ventas que cobran más de 3000€?
-A. SELECT empleado IF salario(empleado) > 3000 AND departamento(empleado)
-= ‘Ventas’;
-B. SELECT nombre, salario FROM empleados WHERE salario > 3000 AND
-departamento = 'Ventas';
+56- ¿Cuál de las siguientes instrucciones utilizaría en SQL para hallar los empleados del departamento de ventas que cobran más de 3000€?
+A. SELECT empleado IF salario(empleado) > 3000 AND departamento(empleado) = ‘Ventas’;
+B. SELECT nombre, salario FROM empleados WHERE salario > 3000 AND departamento = 'Ventas';
 C. FROM empleados SELECT WHERE salario > 3000 AND departamento = ‘Ventas’;
 D. IF salario > 3000 AND departamento = ‘Ventas’ THEN SELECT empleado;
 ANSWER: B
@@ -547,8 +518,7 @@ C. Algoritmo de Bellman-Ford
 D. Transformada de Laplace
 ANSWER: B
 
-75- En gnuplot, ¿cómo se puede mostrar el fichero data.txt usando la segunda
-columna para el eje de las x y la tercera para el de las y?
+75- En gnuplot, ¿cómo se puede mostrar el fichero data.txt usando la segunda columna para el eje de las x y la tercera para el de las y?
 A. plot 'data.txt' using 2:3
 B. plot 'data.txt' x=2 y=3
 C. plot 'data.txt' columns=2,3

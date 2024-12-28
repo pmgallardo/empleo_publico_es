@@ -26,56 +26,56 @@ c) La clave pública del emisor
 d) La clave pública del receptor
 ANSWER: D
 
-5.¿Qué comunidad internacional es la responsable de la especificación del lenguaje XML (Extensible Markup Language)?
+5. ¿Qué comunidad internacional es la responsable de la especificación del lenguaje XML (Extensible Markup Language)?
 a) The World Wide Web Consortium (W3C)
 b) European Telecommunications Satandards Insititute (ETSI)
 c) European Committee for Standardization (GEN)
 d) Massachusetts Institute of Technology (MIT)
 ANSWER: A
 
-6.Respecto a la seguridad en redes, indique qué es un “Exploit”:
+6. Respecto a la seguridad en redes, indique qué es un “Exploit”:
 a) Es un malware diseñado para aprovechar la vulnerabilidad de un software
 b) Persona que accede a datos no autorizados
 c) Adware que modifica la página de inicio de los navegadores de Internet sin el consentimiento del usuario
 d) Software utilizado para la suplantación de la identidad de un usuario de la red
 ANSWER: A
 
-7.Con respecto a las tecnologías web:
+7. Con respecto a las tecnologías web:
 a) IIS actúa como servidor web de Microsoft
 b) No se puede acceder a una base de datos Oracle desde un entorno Microsoft
 c) Las páginas ASP solo pueden funcionar sobre servidores Apache
 d) SQL Server solo puede estar asociado a la tecnología PHP
 ANSWER: A
 
-8.¿Qué es un “honeypot”?
+8. ¿Qué es un “honeypot”?
 a) Un ataque de phishing
 b) Una técnica de encriptación
 c) Un sistema para atraer a los atacantes
 d) Una técnica de ocultación de archivos
 ANSWER: C
 
-9.Las siglas SSL y TLS se refieren a:
+9. Las siglas SSL y TLS se refieren a:
 a) Diferentes estados lógicos del microprocesador
 b) Protocolos criptográficos para establecer conexiones seguras a través de una red
 c) Sistemas de localización geodésica para GPS
 d) Diferentes tipos de memoria física
 ANSWER: B
 
-10.Un programa que se aloja en el ordenador y permite el acceso a usuarios externos, con el fin de obtener información o controlar la máquina de forma remota, se denomina:
+10. Un programa que se aloja en el ordenador y permite el acceso a usuarios externos, con el fin de obtener información o controlar la máquina de forma remota, se denomina:
 a) Troyano
 b) Gusano
 c) Bot
 d) chatBox
 ANSWER: A
 
-11.La guía de normas, instrucciones y recomendaciones desarrolladas por el Centro Criptológico Nacional con el fin de mejorar el grado de ciberseguridad de las organizaciones, se denomina:
+11. La guía de normas, instrucciones y recomendaciones desarrolladas por el Centro Criptológico Nacional con el fin de mejorar el grado de ciberseguridad de las organizaciones, se denomina:
 a) CCN-STIC
 b) CCN-SIEM
 c) CCN-ENS
 d) CCN-SOC
 ANSWER: A
 
-12.¿Cómo se denomina el protocolo encargado de intercambiar correos electrónicos entre dos servidores de correo?
+12. ¿Cómo se denomina el protocolo encargado de intercambiar correos electrónicos entre dos servidores de correo?
 a) SPF
 b) TCP
 c) SMTP
@@ -208,42 +208,42 @@ c) Toda la funcionalidad que está disponible con ratón también está disponib
 d) Contiene breves descripciones del contenido no textual, como archivos de audio y video
 ANSWER: A
 
-31.De entre los siguientes, el sistema de almacenamiento que realiza el acceso a nivel de bloque es:
+31. De entre los siguientes, el sistema de almacenamiento que realiza el acceso a nivel de bloque es:
 a) CRS (Cloud Remote Storage)
 b) SAS (Storage Attached Service)
 c) SAN (Storage Area Network)
 d) MSN (Massive Storage Network)
 ANSWER: C
 
-32.Una página o sitio web diseñado y construido para que sus contenidos y servicios estén disponibles para cualquier persona, con independencia de sus capacidades visuales, auditivas, cognitivas o motrices e independientemente de la tecnología que utilizan, es una página o sitio web
+32. Una página o sitio web diseñado y construido para que sus contenidos y servicios estén disponibles para cualquier persona, con independencia de sus capacidades visuales, auditivas, cognitivas o motrices e independientemente de la tecnología que utilizan, es una página o sitio web
 a) SPA (Single Page Application)
 b) HTML5
 c) Accesible
 d) Corporativa
 ANSWER: C
 
-33.¿Qué Norma Técnica de Interoperabilidad tiene por objeto establecer las condiciones en las que cualquier órgano de una Administración, o Entidad de Derecho Público, accederá a la Red SARA?
+33. ¿Qué Norma Técnica de Interoperabilidad tiene por objeto establecer las condiciones en las que cualquier órgano de una Administración, o Entidad de Derecho Público, accederá a la Red SARA?
 a) La Norma Técnica de Interoperabilidad de Política Firma y Sello Electrónicos y de Certificados de la Administración
 b) La Norma Técnica de Interoperabilidad de Digitalización de Documentos
 c) La Norma Técnica de Interoperabilidad de Requisitos de conexión a la red de comunicaciones de las Administraciones Públicas españolas
 d) La Norma Técnica de Interoperabilidad de Relación de modelos de datos
 ANSWER: C
 
-34.¿Cuál de los siguientes es un ejemplo adecuado de proceso de respuesta a un incidente de seguridad?
+34. ¿Cuál de los siguientes es un ejemplo adecuado de proceso de respuesta a un incidente de seguridad?
 a) Detección, análisis, contención, erradicación y recuperación
 b) Autenticación, autorización y contabilidad de usuarios
 c) Clasificación, etiquetado y manejo de datos
 d) Inventario de activos, gestión de configuración y control de cambios
 ANSWER: A
 
-35.El Esquema Nacional de Seguridad que se rige por el RD. 311/2022 establece en el art. 31 que los sistemas han de ser objeto de una auditoría regular ordinaria al menos:
+35. El Esquema Nacional de Seguridad que se rige por el RD. 311/2022 establece en el art. 31 que los sistemas han de ser objeto de una auditoría regular ordinaria al menos:
 a) Cada 6 meses
 b) Cada año
 c) Cada 2 años
 d) El Esquema Nacional de Seguridad no especifica nada respecto a auditorías
 ANSWER: C
 
-36.¿Qué nombre recibe el sistema de información que implementa la Dirección Electrónica Habilitada única?
+36. ¿Qué nombre recibe el sistema de información que implementa la Dirección Electrónica Habilitada única?
 a) CL@Ve
 b) NOTIFIC@
 c) DEHú
@@ -271,21 +271,21 @@ c) Switch
 d) Repetidor
 ANSWER: A
 
-40.¿A qué hace referencia el concepto VDI?
+40. ¿A qué hace referencia el concepto VDI?
 a) Virtualización dinámica integral
 b) Desarrollo de integraciones virtuales
 c) Voz descomprimida en Internet
 d) Infraestructura de escritorios virtuales
 ANSWER: D
 
-41.¿Respecto a la Seguridad Informática, qué es un “Plan de Continuidad de Negocio”?
+41. ¿Respecto a la Seguridad Informática, qué es un “Plan de Continuidad de Negocio”?
 a) Un plan para gestionar las copias de seguridad de una organización
 b) Un plan para proteger la información confidencial
 c) Un plan para mantener la operación de la organización en caso de un desastre o ciberataque
 d) Un plan para actualizar el software de seguridad en una red o sistema
 ANSWER: C
 
-42.El método de infiltración que se vale de una vulnerabilidad informática a la hora de validar las entradas del usuario para realizar operaciones sobre una base de datos, se denomina:
+42. El método de infiltración que se vale de una vulnerabilidad informática a la hora de validar las entradas del usuario para realizar operaciones sobre una base de datos, se denomina:
 a) Inyección de código SQL
 b) Troyano
 c) Phishing
@@ -320,63 +320,63 @@ c) Un tipo de ataque de fuerza bruta
 d) Ninguna de las respuestas anteriores es correcta
 ANSWER: B
 
-47.¿Cuál de los siguientes protocolos es el más seguro para transferir archivos?
+47. ¿Cuál de los siguientes protocolos es el más seguro para transferir archivos?
 a) SCP
 b) TELNET
 c) HTTP
 d) FTP
 ANSWER: A
 
-48.¿Qué es un “sniffer”?
+48. ¿Qué es un “sniffer”?
 a) Un programa que registra las pulsaciones del teclado
 b) Un programa que escanea los puertos de un sistema para identificar servicios y aplicaciones en ejecución
 c) Un programa que intercepta y registra el tráfico de red
 d) Un programa que analiza vulnerabilidades del SW que circula por la red
 ANSWER: C
 
-49.La herramienta desarrollada por el Centro Criptológico Nacional que permite a las Administraciones Públicas realizar el análisis y la gestión de riesgos, así como el análisis del impacto y la continuidad de operaciones para las Administraciones Públicas se denomina:
+49. La herramienta desarrollada por el Centro Criptológico Nacional que permite a las Administraciones Públicas realizar el análisis y la gestión de riesgos, así como el análisis del impacto y la continuidad de operaciones para las Administraciones Públicas se denomina:
 a) PILAR
 b) LUCIA
 c) FERNANDA
 d) EMILIA
 ANSWER: A
 
-50.Una red local ubicada entre la red interna de la organización y la red externa (generalmente internet), donde se ubican exclusivamente los recursos de la empresa que deben ser accesibles desde internet recibe el nombre de:
+50. Una red local ubicada entre la red interna de la organización y la red externa (generalmente internet), donde se ubican exclusivamente los recursos de la empresa que deben ser accesibles desde internet recibe el nombre de:
 a) SAT INET
 b) DMZ
 c) Intranet
 d) Extranet
 ANSWER: B
 
-51.¿Cuál de las siguientes opciones es una medida de control de acceso físico?
+51. ¿Cuál de las siguientes opciones es una medida de control de acceso físico?
 a) Tarjetas inteligentes
 b) Contraseñas fuertes
 c) Auditoria de seguridad
 d) Antivirus
 ANSWER: A
 
-52.La inundación de un buzón de correo electrónico con un gran número de mensajes (e-mail spamming) afecta a:
+52. La inundación de un buzón de correo electrónico con un gran número de mensajes (e-mail spamming) afecta a:
 a) La dimensión de confidencialidad de la información
 b) La dimensión de la disponibilidad de la información
 c) La dimensión de integridad de la información
 d) Ninguna de las respuestas anteriores es correcta
 ANSWER: B
 
-53.¿Cuál de las siguientes respuestas NO es una estrategia para gestionar los riesgos?:
+53. ¿Cuál de las siguientes respuestas NO es una estrategia para gestionar los riesgos?:
 a) Evitar el riesgo
 b) Mitigar el riesgo
 c) Subestimar el riesgo
 d) Transferir el riesgo
 ANSWER: C
 
-54.Las dimensiones de seguridad que contempla el Esquema Nacional de Seguridad son Disponibilidad, Autenticidad, Integridad, Confidencialidad y:
+54. Las dimensiones de seguridad que contempla el Esquema Nacional de Seguridad son Disponibilidad, Autenticidad, Integridad, Confidencialidad y:
 a) Interoperabilidad
 b) Transparencia
 c) Trazabilidad
 d) Legitimidad
 ANSWER: C
 
-55.¿Qué es un ataque de ingeniería social?
+55. ¿Qué es un ataque de ingeniería social?
 a) Es un ataque que explota una vulnerabilidad del software
 b) Un ataque de fuerza bruta
 c) Un ataque que utiliza técnicas psicológicas para obtener información o acceso no autorizado
@@ -411,7 +411,7 @@ c) EMM
 d) GUDM
 ANSWER: B
 
-60.En relación al borrado seguro de dispositivos
+60. En relación al borrado seguro de dispositivos
 a) Puede realizarse la destrucción física del dispositivo
 b) Pueden sobrescribirse los sectores del disco duro con datos aleatorios
 c) Puede usarse un software especializado para realizar un borrado seguro
@@ -453,7 +453,7 @@ c) Exactitud
 d) Minimización
 ANSWER: A
 
-66.¿Para qué sirven los IDS?
+66. ¿Para qué sirven los IDS?
 a) Para impedir y denegar accesos no autorizados a una red
 b) Supervisar el tráfico de red en busca de actividades sospechosas
 c) Cifrar los datos en tránsito entre interfaces de servidores

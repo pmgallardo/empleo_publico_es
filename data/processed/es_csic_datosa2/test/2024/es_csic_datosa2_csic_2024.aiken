@@ -188,14 +188,10 @@ D. AutoCad.
 ANSWER: C
 
 28- Marque la frase INCORRECTA sobre los métodos de aprendizaje automático:
-A. El aprendizaje automático permite proporcionar a un sistema artificial la
-capacidad de clasificación, o la de reconocer objetos, entre otras.
-B. Los sistemas de aprendizaje automático pueden clasificarse grosso modo en
-supervisados y no supervisados.
-C. En aprendizaje por refuerzo (reinforcement learning) es fundamental definir una
-correcta función de recompensa.
-D. Los métodos de aprendizaje por demostración o imitación (learning from
-demonstration) son generalmente no supervisados.
+A. El aprendizaje automático permite proporcionar a un sistema artificial la capacidad de clasificación, o la de reconocer objetos, entre otras.
+B. Los sistemas de aprendizaje automático pueden clasificarse grosso modo en supervisados y no supervisados.
+C. En aprendizaje por refuerzo (reinforcement learning) es fundamental definir una correcta función de recompensa.
+D. Los métodos de aprendizaje por demostración o imitación (learning from demonstration) son generalmente no supervisados.
 ANSWER: D
 
 29- Dentro de las medidas de forma, señale los tres tipos de asimetría:
@@ -207,22 +203,19 @@ ANSWER: A
 
 30- ¿Qué es Apache Flume?
 A. Una herramienta de software propiedad de IBM utilizada en la ingestión de datos.
-B. Una herramienta de software distribuida y open source para recopilar, agregar y
-mover grandes cantidades de datos.
+B. Una herramienta de software distribuida y open source para recopilar, agregar y mover grandes cantidades de datos.
 C. Un base datos relacional.
 D. Un gestor de contenidos web.
 ANSWER: B
 
-31- Sea Z una v.a que sigue una distribución Normal (0,1) ¿Cuál es el valor de la
-variable tal que el 95% de la población se sitúa por debajo de él?
+31- Sea Z una v.a que sigue una distribución Normal (0,1) ¿Cuál es el valor de la variable tal que el 95% de la población se sitúa por debajo de él?
 A. 1,42.
 B. 0,95.
 C. 1,96.
 D. 0,05.
 ANSWER: C
 
-32- ¿De los siguientes algoritmos, cuál no está basado en todas las
-permutaciones posibles de N objetos?
+32- ¿De los siguientes algoritmos, cuál no está basado en todas las permutaciones posibles de N objetos?
 A. Algoritmo de Heap.
 B. Algoritmo de Steinhaus–Johnson–Trotter.
 C. Algoritmo Fisher-Yates.
@@ -236,16 +229,14 @@ C. Revistas electrónicas.
 D. Investigadores.
 ANSWER: D
 
-34- ¿Cuál de los siguientes temas NO sería propio de un típico curso de
-aprendizaje automáticos?
+34- ¿Cuál de los siguientes temas NO sería propio de un típico curso de aprendizaje automáticos?
 A. Regresión en procesos gaussianos.
 B. Redes neuronales.
 C. Geometría diferencial.
 D. Árboles de decisión.
 ANSWER: C
 
-35- ¿Cuál de las siguientes distribuciones teóricas está definida para valores
-negativos?
+35- ¿Cuál de las siguientes distribuciones teóricas está definida para valores negativos?
 A. Distribución F de Fisher.
 B. Distribución K de Kaplan.
 C. Distribución de Ji-cuadrado.
@@ -259,27 +250,21 @@ C. Modelo Autorregresivo Integrado de Media Móvil.
 D. Aproximación Recurrente de Integración de Medias Autónomas.
 ANSWER: C
 
-37- Dentro de las diferencias entre un gráfico de barras y un histograma, señale
-la afirmación CORRECTA:
-A. El histograma puede determinar la relación entre categorías y el gráfico de barras
-no.
-B. El gráfico de barras puede determinar la relación entre categorías y el histograma
-no.
+37- Dentro de las diferencias entre un gráfico de barras y un histograma, señale la afirmación CORRECTA:
+A. El histograma puede determinar la relación entre categorías y el gráfico de barras no.
+B. El gráfico de barras puede determinar la relación entre categorías y el histograma no.
 C. El histograma compara variables discretas y el gráfico de barras no.
 D. El gráfico de barras determina la distribución de una variable y el histograma no.
 ANSWER: B
 
-38- Dentro de las medidas de forma, la Curtosis indica si una distribución es
-escarpada o achatada, señale la afirmación CORRECTA:
+38- Dentro de las medidas de forma, la Curtosis indica si una distribución es escarpada o achatada, señale la afirmación CORRECTA:
 A. La forma Mesocúrtica indica que la distribución es muy apuntada.
 B. La forma Mesocúrtica indica que la distribución es muy achatada.
-C. La forma Leptocúrtica indica que la distribución tiene forma de la campana de
-gauss.
+C. La forma Leptocúrtica indica que la distribución tiene forma de la campana de gauss.
 D. La forma Platicúrtica indica que la distribución es muy achatada.
 ANSWER: D
 
-39- ¿En qué casos es recomendable utilizar un método numérico de
-integración?
+39- ¿En qué casos es recomendable utilizar un método numérico de integración?
 A. Cuando no se conoce la forma de resolver la integración analíticamente.
 B. Cuando se quiere conocer la expresión completa de la función primitive.
 C. Cuando no se puede utilizar un ordenador.
@@ -307,30 +292,21 @@ C. Solo los que son de grado 2.
 D. Solo los que son divisibles.
 ANSWER: A
 
-43- Señale la respuesta INCORRECTA sobre aprendizaje por demostración en
-robótica:
-A. No tiene sentido combinar aprendizaje por demostración con aprendizaje por
-refuerzo.
-B. El aprendizaje por demostración no es meramente grabar y reproducir, se trata
-de generalizar a través de diversas demostraciones que permitan inferir los
-aspectos más relevantes de la tarea.
-C. El problema de la correspondencia en el aprendizaje por demostración está
-relacionado con las diferencias físicas (geometría, dimensiones…) entre el
-demostrador (generalmente un humano) y el robot.
-D. Uno de los métodos de aprendizaje por demostración consiste en guiar
-físicamente el robot a través de las diferentes demostraciones.
+43- Señale la respuesta INCORRECTA sobre aprendizaje por demostración en robótica:
+A. No tiene sentido combinar aprendizaje por demostración con aprendizaje por refuerzo.
+B. El aprendizaje por demostración no es meramente grabar y reproducir, se trata de generalizar a través de diversas demostraciones que permitan inferir los aspectos más relevantes de la tarea.
+C. El problema de la correspondencia en el aprendizaje por demostración está relacionado con las diferencias físicas (geometría, dimensiones…) entre el demostrador (generalmente un humano) y el robot.
+D. Uno de los métodos de aprendizaje por demostración consiste en guiar físicamente el robot a través de las diferentes demostraciones.
 ANSWER: A
 
 44- ¿Cuál de las siguientes afirmaciones es FALSA?
-A. El algoritmo Fisher-Yates un método para reordenar de manera aleatoria los
-elementos de una lista.
+A. El algoritmo Fisher-Yates un método para reordenar de manera aleatoria los elementos de una lista.
 B. El algoritmo Fisher-Yates es un algoritmo de permutaciones.
 C. El algoritmo Fisher-Yates es un algoritmo de combinaciones.
 D. El algoritmo Fisher-Yates es algoritmo de ordenamiento.
 ANSWER: C
 
-45- ¿Cuál de los siguientes paquetes de software que incluyen paquetes de
-aprendizaje automático es comercial (los otros son de código abierto)?
+45- ¿Cuál de los siguientes paquetes de software que incluyen paquetes de aprendizaje automático es comercial (los otros son de código abierto)?
 A. Apache Mahout.
 B. MATLAB.
 C. OpenCV.
@@ -338,13 +314,10 @@ D. TensorFlow.
 ANSWER: B
 
 46- ¿Qué es un método numérico de integración?
-A. Es una herramienta de las matemáticas que proporciona técnicas para calcular
-aproximaciones de integrales.
+A. Es una herramienta de las matemáticas que proporciona técnicas para calcular aproximaciones de integrales.
 B. Es una fórmula para evitar la exclusión de valores extremos de las poblaciones.
-C. Es una herramienta de la informática que integra distintas técnicas para obtener
-números.
-D. Es una fórmula de utiliza grandes volúmenes de datos integrándolos para
-encontrar estimaciones.
+C. Es una herramienta de la informática que integra distintas técnicas para obtener números.
+D. Es una fórmula de utiliza grandes volúmenes de datos integrándolos para encontrar estimaciones.
 ANSWER: A
 
 47- En una serie temporal, la tendencia
@@ -354,17 +327,11 @@ C. Es un movimiento sistemático que se repite año a año.
 D. Es un movimiento cuya predicción es imposible.
 ANSWER: B
 
-48- Como medida de relación lineal entre dos variables continuas se pueden
-utilizar tanto la covarianza como el coeficiente de correlación (r de Pearson).
-El utilizar preferentemente el coeficiente de correlación se debe
-principalmente a que:
+48- Como medida de relación lineal entre dos variables continuas se pueden utilizar tanto la covarianza como el coeficiente de correlación (r de Pearson). El utilizar preferentemente el coeficiente de correlación se debe principalmente a que:
 A. La covarianza es una medida que siempre tiene un valor excesivo.
-B. El coeficiente de correlación puede ser calculado para muestras de tamaño
-menor de 30 elementos.
-C. Las variables son comparables entre sí cualquiera que sea la magnitud original
-de las puntuaciones directas.
-D. La covarianza, al contrario de la correlación, sólo puede ser calculada en caso
-de homogeneidad de varianzas de las variables independientes.
+B. El coeficiente de correlación puede ser calculado para muestras de tamaño menor de 30 elementos.
+C. Las variables son comparables entre sí cualquiera que sea la magnitud original de las puntuaciones directas.
+D. La covarianza, al contrario de la correlación, sólo puede ser calculada en caso de homogeneidad de varianzas de las variables independientes.
 ANSWER: C
 
 49- ¿Cuál de las siguientes es una característica de los modelos deterministas?
@@ -374,9 +341,7 @@ C. Los datos del problema son inciertos.
 D. Siempre presentan dificultades para su resolución.
 ANSWER: B
 
-50- Si se dispone de dos variables aleatorias X e Y independientes, expresadas
-en unidades diferentes, ¿qué estadístico es más recomendable para una
-comparación directa de la dispersión de ambas?
+50- Si se dispone de dos variables aleatorias X e Y independientes, expresadas en unidades diferentes, ¿qué estadístico es más recomendable para una comparación directa de la dispersión de ambas?
 A. El coeficiente de variación.
 B. La desviación típica.
 C. La media geométrica.
@@ -384,34 +349,27 @@ D. La mediana.
 ANSWER: A
 
 51- Señale la respuesta correcta sobre aprendizaje profundo:
-A. La mayoría de los métodos de aprendizaje profundo se basan en versiones
-modernas de redes neuronales artificiales.
-B. Las redes neuronales de convolución (CNN) no se pueden utilizar para el
-aprendizaje profundo.
-C. La característica más destacada del aprendizaje profundo basado en redes
-neuronales es la transparencia del proceso.
-D. La gran ventaja del aprendizaje profundo es el reducido volumen de datos de
-entrada necesarios.
+A. La mayoría de los métodos de aprendizaje profundo se basan en versiones modernas de redes neuronales artificiales.
+B. Las redes neuronales de convolución (CNN) no se pueden utilizar para el aprendizaje profundo.
+C. La característica más destacada del aprendizaje profundo basado en redes neuronales es la transparencia del proceso.
+D. La gran ventaja del aprendizaje profundo es el reducido volumen de datos de entrada necesarios.
 ANSWER: A
 
-52- ¿Qué técnica utilizaría para resolver el problema de las N reinas (colocar N
-reinas en un tablero de ajedrez sin que se amenacen entre ellas)?
+52- ¿Qué técnica utilizaría para resolver el problema de las N reinas (colocar N reinas en un tablero de ajedrez sin que se amenacen entre ellas)?
 A. Backtracking.
 B. Algoritmo de Kruskal.
 C. Recursión.
 D. Heapsort.
 ANSWER: A
 
-53- ¿Cuál de las siguientes NO es una herramienta para realizar operaciones
-lógicas de combinación?
+53- ¿Cuál de las siguientes NO es una herramienta para realizar operaciones lógicas de combinación?
 A. Combinatoria And.
 B. Combinatoria Or.
 C. Combinatoria Not.
 D. Combinatoria XOr.
 ANSWER: C
 
-54- ¿Para un problema NP-completo cual podría ser su complejidad usando un
-algoritmo de fuerza bruta?
+54- ¿Para un problema NP-completo cual podría ser su complejidad usando un algoritmo de fuerza bruta?
 A. O(n)
 B. O(n^2)
 C. O(2^n)
@@ -425,16 +383,14 @@ C. La ausencia de unidades.
 D. El sexo del entrevistador.
 ANSWER: A
 
-56- ¿Qué enfoque se usa en el algoritmo de fuerza bruta para resolver problemas
-combinatorios?
+56- ¿Qué enfoque se usa en el algoritmo de fuerza bruta para resolver problemas combinatorios?
 A. Dividir el problema en partes más pequeñas (divide y vencerás).
 B. Probar todas las posibles combinaciones hasta encontrar una solución.
 C. Utilizar heurísticas para aproximar una solución.
 D. Eliminar ramas del espacio de búsqueda no necesarias.
 ANSWER: B
 
-57- ¿Cuál es el enfoque principal de los algoritmos de ramificación y poda
-(branch and bound)?
+57- ¿Cuál es el enfoque principal de los algoritmos de ramificación y poda (branch and bound)?
 A. Probar todas las combinaciones posibles.
 B. Generar soluciones aproximadas rápidamente.
 C. Reducir el espacio de búsqueda eliminando soluciones imposibles.
@@ -448,16 +404,14 @@ C. Regla de trapecio.
 D. Regla de la mano derecha.
 ANSWER: C
 
-59- ¿Cuál de los siguientes algoritmos se utiliza para convertir una señal del
-dominio del tiempo al dominio de la frecuencia de manera eficiente?
+59- ¿Cuál de los siguientes algoritmos se utiliza para convertir una señal del dominio del tiempo al dominio de la frecuencia de manera eficiente?
 A. Algoritmo de Dijkstra.
 B. Transformada rápida de Fourier (FFT).
 C. Algoritmo de Bellman-Ford.
 D. Transformada de Laplace.
 ANSWER: B
 
-60- ¿Cuál de los siguientes problemas es un ejemplo clásico de un problema
-combinatorio NP-completo?
+60- ¿Cuál de los siguientes problemas es un ejemplo clásico de un problema combinatorio NP-completo?
 A. Problema del camino más corto.
 B. Problema del viajante TSP (Travelling Salesman Problem).
 C. Algoritmo de búsqueda binaria.
@@ -466,25 +420,19 @@ ANSWER: B
 
 61- Zenodo es…
 A. Un software para gestionar referencias bibliográficas.
-B. Un repositorio de acceso restringido de cualquier especialidad o campo de
-investigación.
-C. Un repositorio abierto centrado exclusivamente en el campo de las
-humanidades.
-D. Un repositorio de acceso abierto que abarca diferentes especialidades o campos
-de investigación.
+B. Un repositorio de acceso restringido de cualquier especialidad o campo de investigación.
+C. Un repositorio abierto centrado exclusivamente en el campo de las humanidades.
+D. Un repositorio de acceso abierto que abarca diferentes especialidades o campos de investigación.
 ANSWER: D
 
 62- ¿Cuál es una manera de estimar la incertidumbre aleatoria en una medida?
-A. Efectuar una medida una sola vez y sumarle un valor llamado coeficiente de
-incertidumbre.
+A. Efectuar una medida una sola vez y sumarle un valor llamado coeficiente de incertidumbre.
 B. Efectuar la misma medida varias veces con distintas condiciones.
-C. Efectuar una medida una sola vez y multiplicarla por un valor llamado coeficiente
-de incertidumbre.
+C. Efectuar una medida una sola vez y multiplicarla por un valor llamado coeficiente de incertidumbre.
 D. Efectuar la misma medida varias veces y con las mismas condiciones.
 ANSWER: D
 
-63- En un workflow científico, ¿qué etapa corresponde a la validación de los
-resultados obtenidos?
+63- En un workflow científico, ¿qué etapa corresponde a la validación de los resultados obtenidos?
 A. Recolección de datos.
 B. Preprocesamiento de datos.
 C. Análisis estadístico.
@@ -499,8 +447,7 @@ D. Un lenguaje de visualización en la web de documentos electrónicos.
 ANSWER: B
 
 65- ¿Cuál de las siguientes afirmaciones sobre OAI-PMH es INCORRECTA?
-A. Es un protocolo que permite la recolección de metadatos de repositorios
-digitales.
+A. Es un protocolo que permite la recolección de metadatos de repositorios digitales.
 B. Su funcionamiento está basado en una arquitectura cliente-servidor.
 C. Es un conjunto formado por 15 elementos de metadatos de carácter genérico.
 D. Las respuestas están codificadas en XML.
@@ -515,31 +462,26 @@ ANSWER: A
 
 67- ¿Qué caracteriza la ingestión de datos por lotes?
 A. Los datos se recopilan y mueven en intervalos programados recurrentemente.
-B. Los datos se ingieren, procesan y almacenan tan pronto como se generan para
-la toma de decisiones en tiempo real.
+B. Los datos se ingieren, procesan y almacenan tan pronto como se generan para la toma de decisiones en tiempo real.
 C. No es adecuada para grandes cantidades de datos.
 D. Los datos se recopilan en tiempo real y se procesan por lotes.
 ANSWER: A
 
 68- ¿Cuál de las siguientes afirmaciones sobre la Red SciELO es CORRECTA?
 A. Provee Acceso Abierto (AA) a los contenidos de revistas científicas.
-B. Provee acceso a los contenidos de revistas científicas mediante pago por
-suscripción.
-C. Provee Acceso Abierto (AA) exclusivamente a los contenidos de revistas
-científicas escritas en lengua alemana.
+B. Provee acceso a los contenidos de revistas científicas mediante pago por suscripción.
+C. Provee Acceso Abierto (AA) exclusivamente a los contenidos de revistas científicas escritas en lengua alemana.
 D. Es un portal web de imágenes de astronomía.
 ANSWER: A
 
-69- ¿Cuál de las siguientes herramientas está especialmente diseñada para la
-creación y ejecución de workflows científicos?
+69- ¿Cuál de las siguientes herramientas está especialmente diseñada para la creación y ejecución de workflows científicos?
 A. Excel.
 B. Nextflow.
 C. Google Docs.
 D. PowerPoint.
 ANSWER: B
 
-70- ¿Cuál de los siguientes es un protocolo de comunicación basado en XML
-utilizado en servicios Web?
+70- ¿Cuál de los siguientes es un protocolo de comunicación basado en XML utilizado en servicios Web?
 A. JSON
 B. HTML
 C. SOAP
@@ -555,14 +497,12 @@ ANSWER: B
 
 72- ¿Qué es DSpace?
 A. Una base de datos no sql.
-B. Un software de código abierto diseñado para la creación y gestión de repositorios
-digitales.
+B. Un software de código abierto diseñado para la creación y gestión de repositorios digitales.
 C. Un repositorio digital de ciencias del espacio.
 D. Un software de edición de ficheros pdf.
 ANSWER: B
 
-73- ¿Qué lenguaje de programación se utiliza para escribir los workflows en
-Snakemake?
+73- ¿Qué lenguaje de programación se utiliza para escribir los workflows en Snakemake?
 A. C++
 B. JavaScript
 C. Python
@@ -570,18 +510,15 @@ D. Ruby
 ANSWER: C
 
 74- ¿Qué es ASP.NET?
-A. Un marco de trabajo desarrollado por Microsoft, para crear servicios y
-aplicaciones web.
+A. Un marco de trabajo desarrollado por Microsoft, para crear servicios y aplicaciones web.
 B. Un sistema operativo para servidores de Microsoft.
 C. Una base de datos relacional.
 D. Un servidor web de código abierto.
 ANSWER: A
 
 75- ¿Qué es Europeana?
-A. Una biblioteca digital europea que actúa como punto de acceso único a millones
-de recursos digitales de archivos, museos, bibliotecas y colecciones.
-B. Un programa de la Unión Europea para financiación de proyectos de
-digitalización.
+A. Una biblioteca digital europea que actúa como punto de acceso único a millones de recursos digitales de archivos, museos, bibliotecas y colecciones.
+B. Un programa de la Unión Europea para financiación de proyectos de digitalización.
 C. Un programa de gestión bibliotecaria.
 D. Un programa de la Unión Europea de apoyo a la investigación local.
 ANSWER: A
@@ -589,21 +526,18 @@ ANSWER: A
 76- ¿Qué es la ingestión de datos?
 A. Una herramienta para crear informes de bases de datos.
 B. Un proceso de eliminación de datos duplicados en una base de datos no sql.
-C. El proceso de obtener e importar grandes archivos de datos de múltiples fuentes
-a un único sistema de almacenamiento.
+C. El proceso de obtener e importar grandes archivos de datos de múltiples fuentes a un único sistema de almacenamiento.
 D. Una técnica de cifrado de datos.
 ANSWER: C
 
-77- ¿Cuál de los siguientes es un estándar de acceso a bases de datos que puede
-ser utilizado en servicios web?
+77- ¿Cuál de los siguientes es un estándar de acceso a bases de datos que puede ser utilizado en servicios web?
 A. FTP
 B. SNMP
 C. ODBC
 D. HTML
 ANSWER: C
 
-78- ¿Cuál de las siguientes siglas se corresponde con un identificador para
-organizaciones?
+78- ¿Cuál de las siguientes siglas se corresponde con un identificador para organizaciones?
 A. ISBN
 B. ISMN
 C. ROR
@@ -611,8 +545,7 @@ D. DOI
 ANSWER: C
 
 79- El Modelo de Referencia OAIS (Open Archival Information System) es…
-A. Un sistema de Información que define los procesos necesarios para preservar y
-acceder a los objetos de información de forma efectiva y a largo plazo.
+A. Un sistema de Información que define los procesos necesarios para preservar y acceder a los objetos de información de forma efectiva y a largo plazo.
 B. Un protocolo de intercambio de datos en la nube.
 C. Una colección de formatos digitales de imágenes.
 D. Un modelo de metadatos descriptivos.
@@ -621,7 +554,6 @@ ANSWER: A
 80- ¿Qué es RECOLECTA (Recolector de Ciencia Abierta)?
 A. Una plataforma de acceso abierto online a revistas científicas internacionales.
 B. Un agregador de repositorios españoles de acceso abierto.
-C. Un programa de la Unión Europea para financiar investigaciones de Ciencia
-Abierta.
+C. Un programa de la Unión Europea para financiar investigaciones de Ciencia Abierta.
 D. Un esquema de metadatos de Ciencia Abierta.
 ANSWER: B

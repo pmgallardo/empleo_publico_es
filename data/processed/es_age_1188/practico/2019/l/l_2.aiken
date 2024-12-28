@@ -1,0 +1,184 @@
+Debido a la pandemia ocasionada por el SARS-CoV-2, más conocido como Coronavirus, las Administraciones Publicas se han visto obligadas a impulsar el teletrabajo y a cambiar su estrategia en el ámbito de las TIC.
+En este sentido ha sido asignado en la integración de dos organismos en su departamento, los cuales no tienen capacidad para asumir las nuevas demandas de servicios y conexiones.
+Uno de los centros es la Demarcación de Carreteras de Madrid (DCM) y el otro es la Confederación Hidrográfica del Tajo (CHT).
+La DCM tiene máquinas físicas RedHat Enterprise Linux (RHEL). Su estructura consiste en tres áreas y en cada una de ellas trabajan 20 personas.
+La CHT tiene máquinas físicas Solaris. Su estructura consiste en 5 áreas y en cada una de ellas trabajan 50 personas.
+Ambos organismos tienen bastantes máquinas Windows 10, además de equipamiento específico, para el desarrollo de sus actividades, que tendrá que ser trasladado a su CPD.
+Es crucial la salvaguarda de los datos, la pérdida o inconsistencia de los mismos durante el proceso es algo inasumible.
+Salvo que el enunciado de la propia pregunta diga lo contrario, debe suponer que dispone de los permisos adecuados, tanto a nivel de sistema operativo como de conexión de red.
+
+1. El equipo de comunicaciones le asigna la red 10.0.4.0 con la máscara 255.255.255.128 para el direccionamiento de la DCM. ¿Cuantos bits tiene la máscara de red?
+a) 24
+b) 26
+c) 25
+d) 23
+ANSWER: C
+
+2. También le preguntan a qué Clase pertenece la red asignada (10.0.4.0).
+a) Clase A.
+b) Clase B.
+c) Clase C.
+d) Clase D.
+ANSWER: A
+
+3. Para la CHT los compañeros de redes le asignan el direccionamiento 10.0.0.0/21. ¿Cuál es el número máximo de hosts disponible?
+a) 1024
+b) 2046
+c) 32
+d) 256
+ANSWER: B
+
+4. Dado el direccionamiento anterior (10.0.0.0/21) su responsable le pregunta cuál es el rango de hosts, para poder calcular si el direccionamiento es el adecuado.
+a) 10.0.3.1 - 10.0.3.254
+b) 10.0.0.1 - 10.0.0.254
+c) 10.0.3.0 - 10.0.3.255
+d) 10.0.0.1 - 10.0.7.254
+ANSWER: D
+
+5. La DCM no es capaz de especificarle la versión de RHEL que tienen sus máquinas, por lo que debe decirles el comando a ejecutar. ¿Cuál de los siguientes sería?
+a) rm -f /etc/redhat-release
+b) cat /etc/redhat-version
+c) cat /etc/redhat-release
+d) mv /etc/redhat-release
+ANSWER: C
+
+6. Para poder tener conectividad, la CHT necesita poner una ruta persistente en una de sus máquinas Solaris a la red 10.0.5.0/24 con una máscara de red 255.255.255.0 y usando como puerta de enlace la dirección IP 10.0.5.150 ¿Cuál sería el comando correcto?
+a) route -p add -net 10.0.5.0/24 -gateway 10.0.5.150
+b) route new -p -net 10.0.5.0/24 -gateway 10.0.5.150
+c) route -static add -net 10.0.5.0/24 -gateway 10.0.5.150
+d) route add -static -net 10.0.5.0/24 -gateway 10.0.5.150
+ANSWER: A
+
+7. Se está realizando una auditoría de seguridad en uno de los servidores Linux y le preguntan dónde se están guardando las contraseñas encriptadas de los usuarios:
+a) /etc/passwd
+b) /etc/users
+c) /etc/shadow
+d) /etc/groups
+ANSWER: C
+
+8. Una pieza crucial en cualquier sistema informático son las BBDD. Le han informado que tanto la DCM como la CHT utilizan Oracle, pero no le han dicho la versión. ¿Qué consulta podría hacer en la base de datos para conocer esta información?
+a) SELECT * FROM V$VERSION
+b) SELECT * FROM V$VERSIONADO
+c) SELECT * FROM V$VERSIONDB
+d) SELECT * FROM V$VERSIONTABLE
+ANSWER: A
+
+9. Se le solicita crear un backup del directorio /home/opositor/temas/ comprimido con gzip en RHEL. Indique el comando correcto para realizarlo.
+a) tar -czf TEMAS.tar.gz /home/opositor/temas/
+b) tar -xzf TEMAS.tar.gz /home/opositor/temas/
+c) tar -xzf /home/opositor/temas/ TEMAS.tar.gz
+d) tar -cjf /home/opositor/temas/ TEMAS.tar.gz
+ANSWER: A
+
+10. Le preguntan sobre las cuentas de usuario que pertenecen al grupo Administradores locales de una máquina, ¿qué comando de Windows debería utilizar?
+a) net local administradores
+b) net localgroup admin
+c) net local admin
+d) net localgroup administradores
+ANSWER: D
+
+11. También se le consulta sobre la configuración actual de las políticas de cuentas y contraseñas de una máquina local.
+¿Qué comando de Windows muestra esa información?
+a) net computer
+b) net localgroup
+c) net config
+d) net accounts
+ANSWER: D
+
+12. Se están realizando en su unidad informes de las capacidades de los discos y requieren de su ayuda. Si se dispone de 5 discos duros de 6 TB, y se decide configurarlos en RAID 6, ¿qué capacidad neta de almacenamiento se obtendrá?
+a) 12 TB
+b) 18 TB
+c) 24 TB
+d) 30 TB
+ANSWER: B
+
+13. En sus instalaciones no disponen de un Windows Server 2008, pero como tienen instalado Docker han decidido crear uno y arrancarlo a partir de una imagen llamada SW2008. ¿Con qué sentencia debería realizar esta petición?
+a) docker run SW2008
+b) docker start SW2008
+c) start docker SW2008
+d) docker start run SW2008
+ANSWER: A
+
+14. No está seguro de que el contenedor se haya arrancado correctamente. ¿Qué comando utilizaría para listar todos los contenedores, estén o no en marcha?
+a) docker ps
+b) docker ps -a
+c) docker list
+d) docker list-container -all
+ANSWER: B
+
+15. Están estudiando el traslado de algunos equipos de la CHT a su CPD y le informan de que tienen una sonda de alrededor de 70 watios que utilizan 1 hora a la semana y que debe permanecer apagada el resto del tiempo. Le indican que sería necesario poder encenderla remotamente por red. ¿Sería posible hacerlo?
+a) No, no sería posible.
+b) Si, mediante PoE IEEE 802.3ct
+c) Si, mediante PoE IEEE 802.3bt
+d) Si, mediante PoE IEEE 802.3dt
+ANSWER: C
+
+16. La DCM le informa que tienen un acuerdo con la Dirección General de Tráfico y alojan en sus instalaciones un medidor de tráfico que requiere una conexión Ethernet de unos 30 Gbps. Según el estándar ANSI/TIA-568, ¿qué categoría de cableado sería necesitaría?
+a) Categoría 6.
+b) Categoría 7.
+c) Categoría 7A.
+d) Categoría 8.
+ANSWER: D
+
+17. Durante el proceso de creación de reglas, se da cuenta de un grave problema de seguridad. Algunos de los equipos Windows no tienen habilitado el firewall. ¿Qué comando utilizaría para habilitarlo?
+a) netsh advfirewall set allprofiles enable
+b) netsh advfirewall set allprofiles state on
+c) netsh advfirewall set allprofiles state online
+d) netsh advfirewall set allprofiles on
+ANSWER: B
+
+18. Debido al creciente número de ataques, se decide implantar en su CPD un IPS que analice el comportamiento de la red y que examine el tráfico inusual para detectar posibles ataques DoS y malwares. ¿Qué tipo de IPS necesita?
+a) DIPS
+b) WIPS
+c) NBA
+d) HIPS
+ANSWER: C
+
+19. Un aspecto importante es el protocolo de correo que se va a utilizar para las comunicaciones vía email. En la DCM están preocupados y no les parece seguro usar SMTP por lo que usted rápidamente sugiere usar SMTPS. ¿Qué puerto por defecto tendrá que solicitar a los compañero de seguridad para este protocolo SMTPS?
+a) 25
+b) 465
+c) 443
+d) 425
+ANSWER: B
+
+20. Para evitar problemas de resolución de nombres en estos equipos Windows donde se está configurando el cliente de correo, han decidido limpiar la caché DNS. ¿Cuál sería el comando adecuado?
+a) ifconfig /flushdns
+b) ipconfig /flushdns
+c) ipconfig /cleardns
+d) ifconfig /cleardns
+ANSWER: B
+
+1. [RESERVA] Con el objetivo de recabar información sobre los equipos Windows, disponen de un software de inventariado que necesita acceso por el puerto 4433 (TCP) en los equipos destino. ¿Qué comando utilizaría en estos últimos para añadir la regla al firewall?
+a) netsh advfirewall firewall create rule name= "Inventariado" dir=in action=allow protocol=TCP localport=4433
+b) netsh advfirewall firewall add rule name= "Inventariado" dir=in action=permit protocol=TCP localport=4433
+c) netsh advfirewall firewall add rule name= "Inventariado" dir=in action=allow protocol=TCP localport=4433
+d) netsh advfirewall firewall new rule name= "Inventariado" dir=in action=allow protocol=TCP localport=4433
+ANSWER: C
+
+2. [RESERVA] Desde la unidad responsable de la red, le indican que por motivos de seguridad van a realizar la conexión por el puerto 42. ¿Qué comando debería utilizar en sus equipos RHEL para comprobar que la comunicación ya está abierta, si la IP destino es la 10.0.4.22 ?
+a) nc -v - ip 10.0.4.22 -port 422
+b) nc -v 10.0.4.22 422
+c) nc -v 422 10.0.4.22
+d) nc -v 10.0.4.22:422
+ANSWER: B
+
+3. [RESERVA] Durante el proceso de traslado, uno de los equipos Windows más importantes de la DCM da problemas de corrupción de datos y han decidido restaurar la copia de seguridad. Le indican que el dispositivo está cifrado. ¿Qué necesita que le proporcionen para poder restaurar la copia?
+a) El certificado digital.
+b) La clave de BitLocker.
+c) La clave privada.
+d) La clave de sesión.
+ANSWER: B
+
+4. [RESERVA] Desde su unidad también se está valorando el uso de RAID 10, ¿cuántos discos duros son necesarios para crearlo?
+a) 2 discos duros.
+b) 3 discos duros.
+c) Al menos 4 discos duros.
+d) Es indiferente.
+ANSWER: C
+
+5. [RESERVA] Muchas de las comunicaciones se van a realizar mediante conexiones ssh y tiene que solicitar las reglas de firewall al equipo de comunicaciones. ¿Cuál es el puerto que debe solicitar?
+a) 21
+b) 63
+c) 69
+d) 22
+ANSWER: D

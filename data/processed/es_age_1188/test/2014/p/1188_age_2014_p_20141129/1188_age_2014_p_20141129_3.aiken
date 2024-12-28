@@ -1,5 +1,4 @@
-BLOQUE IV
-1.En un sistema operativo UNIX, ¿qué hace la siguiente cadena de comandos?
+1. En un sistema operativo UNIX, ¿qué hace la siguiente cadena de comandos?
 $ scp paco@almendro.admin.org:/etc/hosts paco@abedul.admin.org:/etc/hosts
 a) El usuario paco está realizando una copia del fichero host del servidor abedul en el servidor almendro.
 b) El usuario paco está realizando una copia del fichero host del servidor almendro en el servidor abedul.
@@ -14,22 +13,21 @@ c) iostat
 d) netstat
 ANSWER: C
 
-3.De los siguientes comandos/<combinación de teclas>, indique cuál permite salir del editor Vi salvando los
-cambios del fichero que se está editando:
+3. De los siguientes comandos/<combinación de teclas>, indique cuál permite salir del editor Vi salvando los cambios del fichero que se está editando:
 a) <Esc> ZZ
 b) q!
 c) <Ctrl + x>
 d) <Supr + x>
 ANSWER: A
 
-4.Cuando una transacción devuelve un conjunto de filas que satisfacen una condición de búsqueda pero alguna de esas filas no existía cuando se inició la transacción, estamos hablando de:
+4. Cuando una transacción devuelve un conjunto de filas que satisfacen una condición de búsqueda pero alguna de esas filas no existía cuando se inició la transacción, estamos hablando de:
 a) Lectura no repetible.
 b) Lectura fantasma.
 c) Lectura sucia.
 d) Lectura arbitraria.
 ANSWER: B
 
-5.En el sistema de gestión de base de datos Oracle, indique cuál de las siguientes afirmaciones es FALSA en relación al comando EXPLAIN PLAN:
+5. En el sistema de gestión de base de datos Oracle, indique cuál de las siguientes afirmaciones es FALSA en relación al comando EXPLAIN PLAN:
 a) Permite determinar si en la ejecución de una consulta SELECT se utiliza un índice.
 b) Permite determinar el rendimiento del comando INSERT.
 c) Permite determinar el rendimiento del comando DROP TABLE.
@@ -64,22 +62,21 @@ c) OpenVZ.
 d) VirtualBox.
 ANSWER: B
 
-10.El protocolo de gestión de red SNMP:
+10. El protocolo de gestión de red SNMP:
 a) Sólo permite monitorizar dispositivos (leer estado), pero no gestionarlos (modificar su estado).
 b) Un TRAP SNMP es una comunicación asíncrona por la que un agente SNMP notifica a la estación de gestión de un evento significativo.
 c) Incorpora en su versión 1 el encriptado de la información, para proteger la información de gestión que es crítica.
 d) Utiliza únicamente como protocolo de transporte TCP.
 ANSWER: B
 
-11.Señale en qué versión del protocolo de gestión de redes SNMP se añade por primera vez la instrucción GetBulk:
+11. Señale en qué versión del protocolo de gestión de redes SNMP se añade por primera vez la instrucción GetBulk:
 a) SNMP v0.
 b) SNMP v1.
 c) SNMP v2.
 d) SNMP v3.
 ANSWER: C
 
-12.Queremos utilizar RSA para asegurar la confidencialidad entre 4 personas. ¿Cuántas claves necesita conocer
-cada usuario?
+12. Queremos utilizar RSA para asegurar la confidencialidad entre 4 personas. ¿Cuántas claves necesita conocer cada usuario?
 a) 2.
 b) 4.
 c) 6.
@@ -93,21 +90,21 @@ c) Blowfish.
 d) IDEA (International Data Encryption Algorithm) .
 ANSWER: B
 
-14.¿Cuál de los siguientes problemas afecta a los medios de transmisión de señales?
+14. ¿Cuál de los siguientes problemas afecta a los medios de transmisión de señales?
 a) Reverberación.
 b) Ruido blanco.
 c) Afonía.
 d) Ninguno de los anteriores es un problema para los medios de transmisión.
 ANSWER: B
 
-15.Señale cuál de las siguientes NO es una codificación en banda base:
+15. Señale cuál de las siguientes NO es una codificación en banda base:
 a) Manchester.
 b) NRZ.
 c) Nyquist.
 d) AMI bipolar.
 ANSWER: C
 
-16.De los siguientes modos de comunicación ¿cuál se corresponde con la comunicación Anycast?
+16. De los siguientes modos de comunicación ¿cuál se corresponde con la comunicación Anycast?
 a) Un emisor y un receptor.
 b) Un emisor y N receptores.
 c) Un emisor y todos receptores.
@@ -121,21 +118,21 @@ c) Permite utilizar múltiples antenas para transmitir y recibir simultáneament
 d) Las redes con estándar 802.11n son susceptibles de ser interferidas por redes 802.11a/b/g.
 ANSWER: B
 
-18.Señalar la afirmación cierta sobre la cabecera de un paquete IPv6:
+18. Señalar la afirmación cierta sobre la cabecera de un paquete IPv6:
 a) Es igual que la cabecera de IPv4 por motivos de compatibilidad.
 b) La cabecera tiene un tamaño fijo, no admite extensiones.
 c) Las direcciones IPv6 tienen 128 bits.
 d) El campo Hop Limit indica el número de segundos que transcurrirán antes de descartar el paquete.
 ANSWER: C
 
-19.Señale a qué se corresponde la siguiente definición "técnica de desarrollo web para crear aplicaciones que se ejecutan en el cliente, mientras se mantiene la comunicación asíncrona con el servidor en segundo plano":
+19. Señale a qué se corresponde la siguiente definición "técnica de desarrollo web para crear aplicaciones que se ejecutan en el cliente, mientras se mantiene la comunicación asíncrona con el servidor en segundo plano":
 a) AJAX.
 b) HTML.
 c) XHTML.
 d) Servlets.
 ANSWER: A
 
-20.En relación con el protocolo HTTP, ¿cuál es el código STATUS asociado al Error: "Service unavailable"?
+20. En relación con el protocolo HTTP, ¿cuál es el código STATUS asociado al Error: "Service unavailable"?
 a) 501
 b) 502
 c) 503
@@ -156,21 +153,21 @@ c) Los ataques mediante sniffing se basan en la suplantación de identidad.
 d) Ninguna de las anteriores es cierta.
 ANSWER: D
 
-23.Cuál de los siguientes algoritmos de cifrado NO es un algoritmo de cifrado simétrico:
+23. Cuál de los siguientes algoritmos de cifrado NO es un algoritmo de cifrado simétrico:
 a) RSA
 b) DES
 c) TDES
 d) IDEA
 ANSWER: A
 
-24.Un ataque de "phishing" consiste en un ataque:
+24. Un ataque de "phishing" consiste en un ataque:
 a) De fuerza bruta para adivinar la contraseña de acceso a un sistema.
 b) En el que se suplanta la identidad de una entidad de confianza para solicitar a la víctima datos personales que le permitan realizar un fraude.
 c) De acoso a una persona realizada en redes sociales o Internet utilizando información personal.
 d) De denegación de servicio realizado desde una botnet (red de ordenadores zombies).
 ANSWER: B
 
-25.Según el RFC 4026, una VPN (Virtual Private Network), ¿en qué capas del modelo de referencia OSI se puede establecer?
+25. Según el RFC 4026, una VPN (Virtual Private Network), ¿en qué capas del modelo de referencia OSI se puede establecer?
 a) Capa 1 y capa 2.
 b) Capa 2 y capa 3.
 c) Capa 3 y capa 4.
@@ -184,14 +181,14 @@ c) SIGILL
 d) SIGTTOU
 ANSWER: A
 
-2.La capacidad nativa de la tecnología LTO (Linear Tape-Open) Ultrium es, por cada generación:
+2. La capacidad nativa de la tecnología LTO (Linear Tape-Open) Ultrium es, por cada generación:
 a) LTO-3: 200 GB, LTO-4: 400 GB, LTO-5: 800 GB, LTO-6: 1,5 TB.
 b) LTO-3: 400 GB, LTO-4: 800 GB, LTO-5: 1,5 TB, LTO-6: 2,5 TB.
 c) LTO-3: 100 GB, LTO-4: 200 GB, LTO-5: 400 GB, LTO-6: 800 GB.
 d) LTO-3: 1600 GB, LTO-4: 3200 GB, LTO-5: 6400 GB, LTO-6: 12800 GB.
 ANSWER: B
 
-3.Las unidades de información que maneja el nivel de presentación del modelo OSI se denominan:
+3. Las unidades de información que maneja el nivel de presentación del modelo OSI se denominan:
 a) Celdas.
 b) Tramas.
 c) Paquetes.

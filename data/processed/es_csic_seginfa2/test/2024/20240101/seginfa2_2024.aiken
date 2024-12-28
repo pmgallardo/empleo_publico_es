@@ -198,37 +198,32 @@ ANSWER: C
 29- La Cualificación del Delegado de Protección de Datos:
 A. Es requisito disponer de titulación universitaria.
 B. Es requisito disponer de titulación universitaria en derecho.
-C. Es requisito disponer de titulación universitaria con conocimientos en derecho y
-la práctica en materia de protección de datos.
+C. Es requisito disponer de titulación universitaria con conocimientos en derecho y la práctica en materia de protección de datos.
 D. Ninguna de las anteriores es cierta.
 ANSWER: D
 
-30- ¿Se puede filtrar el tráfico, mediante un firewall de nivel 3, entre dos máquinas
-situadas en la misma LAN?
+30- ¿Se puede filtrar el tráfico, mediante un firewall de nivel 3, entre dos máquinas situadas en la misma LAN?
 A. Si.
 B. No.
 C. Depende de la configuración del FW.
 D. Depende de la configuración de la LAN.
 ANSWER: B
 
-31- ¿Cuál de los siguientes protocolos de comunicación envía la información
-cifrada?
+31- ¿Cuál de los siguientes protocolos de comunicación envía la información cifrada?
 A. HTTPS.
 B. ICMP.
 C. SNMP.
 D. SMTP.
 ANSWER: A
 
-32- En una organización quieren otorgar a los usuarios permiso de acceso a un
-recurso en función de su rol ¿qué tipo de control de acceso deben aplicar?
+32- En una organización quieren otorgar a los usuarios permiso de acceso a un recurso en función de su rol ¿qué tipo de control de acceso deben aplicar?
 A. Control de acceso MAC.
 B. Control de acceso RBAC.
 C. Control de acceso ABAC.
 D. Control de acceso DAC.
 ANSWER: B
 
-33- Una organización quiere evitar ataques por fuerza bruta a sus servidores linux
-por ssh, ¿qué medida le recomendarías?
+33- Una organización quiere evitar ataques por fuerza bruta a sus servidores linux por ssh, ¿qué medida le recomendarías?
 A. Impedir los accesos fuera del horario laboral.
 B. Configurar una regla en iptables.
 C. Utilizar fail2ban.
@@ -236,19 +231,13 @@ D. Segmentar la red.
 ANSWER: C
 
 34- ¿Cuál es la sanción por una falta grave según el RGPD?
-A. Multa administrativa de hasta 10.000.000€ o, en el caso de empresas, de cuantía
-equivalente al 2% como máximo del volumen de negocio total anual, lo que
-resulte mayor en cuantía.
-B. Multa administrativa de hasta 20.000.000€ o, en el caso de empresas, de cuantía
-equivalente al 4% como máximo del volumen de negocio total anual, lo que
-resulte mayor en cuantía.
-C. Dependiendo de factores, como la reincidencia en la infracción podrá ser entre
-40.001€ y 300.000€.
+A. Multa administrativa de hasta 10.000.000€ o, en el caso de empresas, de cuantía equivalente al 2% como máximo del volumen de negocio total anual, lo que resulte mayor en cuantía.
+B. Multa administrativa de hasta 20.000.000€ o, en el caso de empresas, de cuantía equivalente al 4% como máximo del volumen de negocio total anual, lo que resulte mayor en cuantía.
+C. Dependiendo de factores, como la reincidencia en la infracción podrá ser entre 40.001€ y 300.000€.
 D. El RGPD no especifica cuantía para las sanciones.
 ANSWER: A
 
-35- ¿Qué técnica se utiliza para permitir que múltiples VLANs compartan una
-única conexión física entre switches?
+35- ¿Qué técnica se utiliza para permitir que múltiples VLANs compartan una única conexión física entre switches?
 A. Trunking.
 B. Mirroring.
 C. Spanning Tree.
@@ -262,23 +251,14 @@ C. ROT13.
 D. Sistema Enigma.
 ANSWER: B
 
-37- En referencia a Bluetooth Secure Simple Pairing (SSP), ¿cuál es la función del
-método "Numeric Comparison" y cómo contribuye a la mitigación de ataques
-"man-in-the-middle"?
-A. Proporciona una clave pública estática que los dispositivos comparten,
-eliminando la necesidad de una verificación manual del usuario.
-B. Genera y muestra un código numérico en ambos dispositivos, que el usuario
-debe confirmar si coinciden, lo que dificulta la intercepción de la conexión por un
-atacante.
-C. Utiliza un canal secundario de comunicación cifrada para autenticar la conexión
-sin intervención del usuario, lo que previene ataques pasivos.
-D. Establece una clave secreta compartida entre los dispositivos mediante el
-intercambio de un código QR, asegurando la autenticidad de los dispositivos
-emparejados.
+37- En referencia a Bluetooth Secure Simple Pairing (SSP), ¿cuál es la función del método "Numeric Comparison" y cómo contribuye a la mitigación de ataques "man-in-the-middle"?
+A. Proporciona una clave pública estática que los dispositivos comparten, eliminando la necesidad de una verificación manual del usuario.
+B. Genera y muestra un código numérico en ambos dispositivos, que el usuario debe confirmar si coinciden, lo que dificulta la intercepción de la conexión por un atacante.
+C. Utiliza un canal secundario de comunicación cifrada para autenticar la conexión sin intervención del usuario, lo que previene ataques pasivos.
+D. Establece una clave secreta compartida entre los dispositivos mediante el intercambio de un código QR, asegurando la autenticidad de los dispositivos emparejados.
 ANSWER: B
 
-38- Quieres restringir el acceso a un servidor web seguro de tu institución en
-función del origen del cliente, ¿qué utilizarías?
+38- Quieres restringir el acceso a un servidor web seguro de tu institución en función del origen del cliente, ¿qué utilizarías?
 A. Un antivirus.
 B. Un IDS.
 C. Un cortafuegos.
@@ -292,16 +272,14 @@ C. Ataque KRACK.
 D. Ataque de denegación de servicio (DoS)
 ANSWER: C
 
-40- Según la Política de Seguridad de las TIC (Política STIC) y la normativa
-derivada, ¿qué información clasificada es considerada de mayor importancia?
+40- Según la Política de Seguridad de las TIC (Política STIC) y la normativa derivada, ¿qué información clasificada es considerada de mayor importancia?
 A. Confidencial.
 B. Difusión limitada.
 C. Secreto.
 D. Reservado.
 ANSWER: C
 
-41- ¿Qué tipo de ataque puede ser mitigado mediante el uso de un firewall en una
-red LAN?
+41- ¿Qué tipo de ataque puede ser mitigado mediante el uso de un firewall en una red LAN?
 A. Ataques de fuerza bruta.
 B. Ataques de denegación de servicio (DoS).
 C. Ataques de phishing.
@@ -315,8 +293,7 @@ C. Clave privada.
 D. Clave pública.
 ANSWER: D
 
-43- Señale cuál de las siguientes características de seguridad está incluida tanto
-en el estándar WPA2 como en el estándar WEP:
+43- Señale cuál de las siguientes características de seguridad está incluida tanto en el estándar WPA2 como en el estándar WEP:
 A. Intercambio dinámico de claves.
 B. Autenticación 802.1x.
 C. Preshared Keys (PSK).
@@ -340,22 +317,18 @@ ANSWER: C
 46- ¿Cuál de las siguientes afirmaciones es la CORRECTA?
 A. Para acceder a un recurso solo es necesario un proceso de autenticación.
 B. Para acceder a un recurso solo es necesario un proceso de autorización.
-C. Para acceder a un recurso es necesario un proceso de autenticación y uno de
-autorización.
-D. Para acceder a un recurso es necesario un proceso de autenticación y uno de
-accounting.
+C. Para acceder a un recurso es necesario un proceso de autenticación y uno de autorización.
+D. Para acceder a un recurso es necesario un proceso de autenticación y uno de accounting.
 ANSWER: C
 
-47- ¿Cuál de las siguientes medidas NO es deseable por seguridad en los
-sistemas personales de los usuarios?
+47- ¿Cuál de las siguientes medidas NO es deseable por seguridad en los sistemas personales de los usuarios?
 A. Configurar actualizaciones de software.
 B. Trabajar desde una cuenta con mínimos privilegios.
 C. Instalar un antimalware.
 D. Activar la opción de recuerdo de contraseña en las aplicaciones.
 ANSWER: D
 
-48- Los proveedores de plataforma como servicio (SaaS) se encargan de la
-seguridad de:
+48- Los proveedores de plataforma como servicio (SaaS) se encargan de la seguridad de:
 A. la capa de infraestructura.
 B. la capa de software.
 C. La capa de plataforma.
@@ -365,10 +338,8 @@ ANSWER: B
 49- Una autoridad de certificación (CA) realiza las siguientes funciones.
 A. Se limita a verificar la identidad del solicitante.
 B. Verifica la identidad del solicitante y emite certificados digitales.
-C. Emite certificados digitales y mantiene la lista de revocación de certificados, así
-como demuestra la validez de los certificados.
-D. Verifica la identidad del solicitante, emite certificados digitales y mantiene la lista
-de revocación de certificados, así como demuestra la validez de los certificados.
+C. Emite certificados digitales y mantiene la lista de revocación de certificados, así como demuestra la validez de los certificados.
+D. Verifica la identidad del solicitante, emite certificados digitales y mantiene la lista de revocación de certificados, así como demuestra la validez de los certificados.
 ANSWER: D
 
 50- ¿Qué tipo de sistema es un IDS?
@@ -385,8 +356,7 @@ C. MicroClaudia.
 D. EMMA.
 ANSWER: A
 
-52- Se quiere evitar el envío de correo electrónico sin encriptar desde dentro de
-la red local de una empresa hacia Internet, ¿que se debería hacer?
+52- Se quiere evitar el envío de correo electrónico sin encriptar desde dentro de la red local de una empresa hacia Internet, ¿que se debería hacer?
 A. Cerrar el puerto 587 en el cortafuegos en salida.
 B. Cerrar el puerto 25 en el cortafuegos en entrada.
 C. Cerrar el puerto 465 en el cortafuegos.
@@ -395,10 +365,8 @@ ANSWER: D
 
 53- ¿Qué es IAM en Cloud?
 A. Vigila que se cumplan las políticas de seguridad.
-B. Gestiona identidades y accesos para controlar la autenticación y las
-credenciales de los usuarios.
-C. Detecta amenazas mediante la recolección y análisis de incidentes de seguridad
-históricos y en tiempo real.
+B. Gestiona identidades y accesos para controlar la autenticación y las credenciales de los usuarios.
+C. Detecta amenazas mediante la recolección y análisis de incidentes de seguridad históricos y en tiempo real.
 D. Identifica y subsana posibles riesgos en la configuración de la nube.
 ANSWER: B
 
@@ -409,15 +377,10 @@ C. Respaldo y recuperación.
 D. Certificado digital.
 ANSWER: D
 
-55- Si accedemos a un sitio HTTPS y recibimos un aviso de que la autoridad de
-certificación que ha emitido el certificado de servidor no es reconocida por
-nosotros, y aun así aceptamos establecer comunicació n con ese servidor, ¿la
-comunicació n entre cliente y servidor será cifrada?
+55- Si accedemos a un sitio HTTPS y recibimos un aviso de que la autoridad de certificación que ha emitido el certificado de servidor no es reconocida por nosotros, y aun así aceptamos establecer comunicación con ese servidor, ¿la comunicación entre cliente y servidor será cifrada?
 A. No, puesto que el certificado no es válido.
-B. Sí, puesto que el certificado permite cifrar esa comunicación aunque haya sido
-emitido por una autoridad en la que no confiamos.
-C. No, puesto que aunque hayamos aceptado ese certificado no podemos utilizarlo
-para hacer el cifrado de información.
+B. Sí, puesto que el certificado permite cifrar esa comunicación aunque haya sido emitido por una autoridad en la que no confiamos.
+C. No, puesto que aunque hayamos aceptado ese certificado no podemos utilizarlo para hacer el cifrado de información.
 D. Sí, porque al aceptar el cifrado se va a realizar con un certificado de cliente.
 ANSWER: B
 
@@ -428,37 +391,29 @@ C. Kerberos.
 D. PAP.
 ANSWER: B
 
-57- Un emisor A mandó un mensaje cifrado a receptor B usando criptografía de
-clave pública. ¿Qué clave debe usar el receptor B para descifrar el mensaje?
+57- Un emisor A mandó un mensaje cifrado a receptor B usando criptografía de clave pública. ¿Qué clave debe usar el receptor B para descifrar el mensaje?
 A. Su clave pública.
 B. La clave pública del emisor A.
 C. Su clave privada.
 D. La clave privada del emisor A.
 ANSWER: C
 
-58- Según la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos y
-garantía de derechos digitales, la edad mínima a efectos del consentimiento
-necesario para el tratamiento de datos en relación con la oferta directa de
-servicios de la sociedad de la información es de:
+58- Según la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos y garantía de derechos digitales, la edad mínima a efectos del consentimiento necesario para el tratamiento de datos en relación con la oferta directa de servicios de la sociedad de la información es de:
 A. 18 años.
 B. 16 años.
 C. 13 años.
 D. 14 años.
 ANSWER: D
 
-59- ¿Qué medida de seguridad recomendarías a los usuarios para evitar ser
-víctima de phishing?
-A. No pulsar en los enlaces incluidos en correos electrónicos sin verificar antes a
-qué sitio web te dirigen.
+59- ¿Qué medida de seguridad recomendarías a los usuarios para evitar ser víctima de phishing?
+A. No pulsar en los enlaces incluidos en correos electrónicos sin verificar antes a qué sitio web te dirigen.
 B. Abrir todos los correos electrónicos que reciban sin importar su procedencia.
 C. Contestar con información personal cuando te lo soliciten por correo electrónico.
-D. Descargar todos los ficheros adjuntos recibidos por correo electrónico para su
-posterior uso.
+D. Descargar todos los ficheros adjuntos recibidos por correo electrónico para su posterior uso.
 ANSWER: A
 
 60- ¿Para qué suele utilizarse una llave pública?
-A. Es un algoritmo matemático que transforma una clave en una nueva serie de
-caracteres ilegibles.
+A. Es un algoritmo matemático que transforma una clave en una nueva serie de caracteres ilegibles.
 B. Es un método criptográfico que asocia la identidad de una persona a un mensaje.
 C. Es la clave que se utiliza para descifrar la información enviada.
 D. Es la clave que se utiliza para cifrar la información enviada.
@@ -471,8 +426,7 @@ C. Algoritmos de cifrado y descifrado.
 D. Algoritmos de clave simétrica.
 ANSWER: A
 
-62- ¿Qué tipo de software utilizarías para ver el tráfico de entrada a una red local
-proveniente de Internet?
+62- ¿Qué tipo de software utilizarías para ver el tráfico de entrada a una red local proveniente de Internet?
 A. TCPView.
 B. Telnet.
 C. Sniffer.
@@ -480,17 +434,13 @@ D. Rdp.
 ANSWER: C
 
 63- En los modos de cifrado de bloque:
-A. En todos los modos de cifrado de bloque cada bloque se cifra separadamente
-de los demás sin dependencia de otros bloques.
+A. En todos los modos de cifrado de bloque cada bloque se cifra separadamente de los demás sin dependencia de otros bloques.
 B. En el modo ECB cada bloque cifrado depende del bloque cifrado anteriormente.
-C. En el modo CBC tanto el cifrado como el descifrado dependen del bloque cifrado
-anteriormente.
-D. En el modo CFB un error en un bit del criptograma afectará sólo a un bloque del
-texto en claro recuperado.
+C. En el modo CBC tanto el cifrado como el descifrado dependen del bloque cifrado anteriormente.
+D. En el modo CFB un error en un bit del criptograma afectará sólo a un bloque del texto en claro recuperado.
 ANSWER: C
 
-64- Al crear un certificado digital, ¿qué clave se utiliza para crear la firma digital
-del certificado?
+64- Al crear un certificado digital, ¿qué clave se utiliza para crear la firma digital del certificado?
 A. La clave pública de la autoridad de certificación (CA).
 B. La clave privada del sujeto.
 C. La clave pública del sujeto.
@@ -511,25 +461,15 @@ C. Monitoreo de la actividad de la red en tiempo real.
 D. Análisis heurístico.
 ANSWER: B
 
-67- ¿Cuáles son los contenidos mínimos de la política de seguridad, de acuerdo
-con el Esquema Nacional de Seguridad?
-A. Los objetivos o misión de la organización y el marco legal y regulatorio en el que
-se desarrollarán las actividades.
-B. Los objetivos o misión de la organización, el marco legal y regulatorio en el que
-se desarrollarán las actividades y los roles o funciones de seguridad.
-C. Los objetivos o misión de la organización, el marco legal y regulatorio en el que
-se desarrollarán las actividades, los roles o funciones de seguridad, la estructura
-del comité o comités para la gestión y coordinación de la seguridad y las
-directrices para la estructuración de la documentación de seguridad del sistema,
-su gestión y acceso.
-D. Los objetivos o misión de la organización, el marco legal y regulatorio en el que
-se desarrollarán las actividades, los roles o funciones de seguridad y la
-estructura del comité o comités para la gestión y coordinación de la seguridad.
+67- ¿Cuáles son los contenidos mínimos de la política de seguridad, de acuerdo con el Esquema Nacional de Seguridad?
+A. Los objetivos o misión de la organización y el marco legal y regulatorio en el que se desarrollarán las actividades.
+B. Los objetivos o misión de la organización, el marco legal y regulatorio en el que se desarrollarán las actividades y los roles o funciones de seguridad.
+C. Los objetivos o misión de la organización, el marco legal y regulatorio en el que se desarrollarán las actividades, los roles o funciones de seguridad, la estructura
+del comité o comités para la gestión y coordinación de la seguridad y las directrices para la estructuración de la documentación de seguridad del sistema, su gestión y acceso.
+D. Los objetivos o misión de la organización, el marco legal y regulatorio en el que se desarrollarán las actividades, los roles o funciones de seguridad y la estructura del comité o comités para la gestión y coordinación de la seguridad.
 ANSWER: C
 
-68- ¿Cuál de los siguientes NO se considera un tipo de seguridad en función de
-la naturaleza de los activos según la Política de Seguridad de las TIC (CCN-
-STIC-001)?
+68- ¿Cuál de los siguientes NO se considera un tipo de seguridad en función de la naturaleza de los activos según la Política de Seguridad de las TIC (CCN- STIC-001)?
 A. Seguridad de las actividades.
 B. Seguridad de las transacciones.
 C. Seguridad de la información.
@@ -537,40 +477,27 @@ D. Seguridad de las personas.
 ANSWER: B
 
 69- ¿Qué se entiende por IP Spoofing?
-A. Es un ataque que se basa en la ejecución de código "Script" arbitrario en un
-navegador.
-B. Es un ataque que pretende provocar un direccionamiento erróneo en los equipos
-afectados, mediante la traducción errónea de los nombres de dominio a
-direcciones IP.
-C. Es un ataque que consiste en modificar la cabecera de los paquetes enviados a
-un determinado sistema informático para simular que proceden de un equipo
-distinto al que verdaderamente los originó.
-D. Es un ataque que se compone de un conjunto de actuaciones que persiguen
-colapsar determinados equipos o redes informáticas, para impedir que puedan
-ofrecer sus servicios a sus clientes y usuarios.
+A. Es un ataque que se basa en la ejecución de código "Script" arbitrario en un navegador.
+B. Es un ataque que pretende provocar un direccionamiento erróneo en los equipos afectados, mediante la traducción errónea de los nombres de dominio a direcciones IP.
+C. Es un ataque que consiste en modificar la cabecera de los paquetes enviados a un determinado sistema informático para simular que proceden de un equipo distinto al que verdaderamente los originó.
+D. Es un ataque que se compone de un conjunto de actuaciones que persiguen colapsar determinados equipos o redes informáticas, para impedir que puedan ofrecer sus servicios a sus clientes y usuarios.
 ANSWER: C
 
 70- ¿Qué se entiende por autenticación?
 A. Proceso para verificar la identidad de alguien o algo.
-B. Procedimiento que utilizan las empresas de software para verificar el uso legal
-de sus productos.
-C. Método que se usa para comprobar que la información de una organización es
-auténtica y no ha sido modificada.
-D. Procedimiento empleado para verificar que un mensaje de correo electrónico no
-fue modificado durante su envío.
+B. Procedimiento que utilizan las empresas de software para verificar el uso legal de sus productos.
+C. Método que se usa para comprobar que la información de una organización es auténtica y no ha sido modificada.
+D. Procedimiento empleado para verificar que un mensaje de correo electrónico no fue modificado durante su envío.
 ANSWER: A
 
-71- Los cifrados de bloque pueden utilizarse en una variedad de modos de
-operación. ¿Cuál de los siguientes no es uno de ellos?
+71- Los cifrados de bloque pueden utilizarse en una variedad de modos de operación. ¿Cuál de los siguientes no es uno de ellos?
 A. ECB.
 B. OFB.
 C. CFB.
 D. CTE.
 ANSWER: D
 
-72- Un grupo de investigadores quiere acceder desde casa a los equipos
-ubicados en su centro de trabajo de la forma más segura posible, ¿qué
-solución le darías?
+72- Un grupo de investigadores quiere acceder desde casa a los equipos ubicados en su centro de trabajo de la forma más segura posible, ¿qué solución le darías?
 A. Conectarse mediante VPN a la red del centro usando 2FA.
 B. Utilizar soluciones tipo TeamViewer o AnyDesk.
 C. Abrir los puertos necesarios en el cortafuegos del centro hacia sus equipos.

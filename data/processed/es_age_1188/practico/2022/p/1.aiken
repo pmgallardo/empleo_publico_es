@@ -1,0 +1,134 @@
+Se va a desarrollar un sistema que permitirá a una persona (interesado) otorgar permiso a otra (representante) para que actúe en su nombre ante la Administración en un determinado trámite. El sistema contará con los siguientes módulos:
+•Un frontal web (Punto de Acceso General) que recoge todos los trámites de la Administración y donde el interesado puede otorgar la representación.
+•Un proceso que tramita las peticiones de representación, envía notificaciones PUSH a los representantes y recaba los consentimientos producidos.
+•Un módulo de gestión para el personal funcionario de atención al público.
+Cuando el interesado pulse el botón Otorgar representación en un trámite, el sistema generará un enlace único con caducidad, que será enviado por notificación PUSH al representante.
+En el momento en que el representante acceda al enlace tendrá disponible la acción Obtener PIN y deberá usar la aplicación móvil Cl@ve PIN para obtener un PIN válido.
+El funcionario, en el módulo de gestión, podrá comparar el PIN generado para la operación con el que le ofrece el representante, permitiendo el trámite si estos coinciden.
+Un interesado podrá solicitar representación para tantos trámites como considere y cada trámite podrá ser solicitado por un número cualquiera de interesados, pero una representación solo es válida para un trámite a la vez. Asimismo, cada representante podrá obtener permisos en cualquier número de trámites.
+
+|-------------------------------------|             |----------------------|
+|      Solicitud Representación       ||----| |----|| Trámite              |
+|-------------------------------------||SR>T| |T>SR||----------------------|
+| + idSolicitud : string              ||    | |    || + idTramite : string |
+| + idRepresentante : string          ||----| |----|| + nombre : string    |
+| + idInteresado : string             |-------------|                      |
+| + PIN : string = null               |             |                      |
+| + fechaCaducidad : datetime = null  |             |                      |
+| + fechaAceptacion : datetime = null |             |                      |
+| + idTramite : string                |             |                      |
+|-------------------------------------|             |----------------------|
+              | 1
+              |
+              | 0..1
+|----------------------------|
+|        Notificación        |
+|----------------------------|
+| + idSolicitud : string     |
+| + fechaEnvio : string      |
+|----------------------------|
+
+1. En el diagrama de clases la relación existente entre “Solicitud Representación” y “Trámite”, ¿qué multiplicidades serían compatibles con los requisitos planteados en el enunciado?
+a) ‘1’ en el recuadro “SR>T” y ‘1’ en el recuadro “T>SR”.
+b) ‘1’ en el recuadro “SR>T” y ‘0..N’ en el recuadro “T>SR”.
+c) ‘0..N’ en el recuadro “SR>T” y ‘1’ en el recuadro “T>SR”.
+d) ‘1..N’ en el recuadro “SR>T” y ‘0..N’ en el recuadro “T>SR”.
+ANSWER: C
+
+2. Dentro del sistema de Información que conforma nuestro servicio, ¿qué producto habitual de ORACLE utilizaría?
+a) Servidor web.
+b) Servicio de directorio corporativo.
+c) Sistema Gestor de Bases de Datos (SGBD).
+d) Navegador web.
+ANSWER: C
+
+3. En Java SE 17, ¿cuál de los siguientes tipos de colección no admite duplicados?
+a) List
+b) Stack
+c) Collection
+d) Set
+ANSWER: D
+
+4. Si fuese el motor de Base de Datos ORACLE, indique cuál de los siguientes es un lenguaje de procedimiento cuya sintaxis permite insertar sentencias SQL y se almacena compilado dentro de la base de datos:
+a) TRANSACT SQL
+b) PL/SQL
+c) FORTRAN
+d) COBOL
+ANSWER: B
+
+5. Si se solicitara un diagrama “centrándose en un objeto de la clase Notificación, analizando sus estados, transiciones entre estados y los eventos que los provocan”, ¿qué tipo de diagrama UML debería elaborar según METRICA v3?
+a) Diagrama de clases.
+b) Diagrama de estados, o de máquina de estados.
+c) Diagrama de despliegue.
+d) Diagrama de objetos.
+ANSWER: B
+
+6. Indique cuál es la última versión del estándar de UML:
+a) 2.5
+b) 2.4.1
+c) 2.4
+d) 3.0
+ANSWER: A
+
+7. ¿A qué definición, de entre las siguientes, se ajusta el término "Jakarta EE"?
+a) Un conjunto de especificaciones para el desarrollo de software tiempo real en sistemas embebidos.
+b) Un congreso de desarrolladores Java que tiene lugar en Indonesia.
+c) Un conjunto de especificaciones para aplicaciones Java de entorno empresarial (enterprise).
+d) Un entorno de programación (IDE) para Java.
+ANSWER: C
+
+8. Seleccione la opción correcta aplicable a .NET:
+a) No se puede ejecutar en entornos Linux.
+b) Es una plataforma para desarrolladores creada por Microsoft para generar distintos tipos de aplicaciones.
+c) Se puede usar PHP para programar en el marco de trabajo .NET
+d) No es compatible con microservicios en contenedores Docker.
+ANSWER: B
+
+9. ¿Cuál es una herramienta de análisis de seguridad y calidad de código?
+a) SonarQube
+b) SonarCode
+c) SonarCuality
+d) SonarSrc
+ANSWER: A
+
+10. Para conectar con los servicios de validación de Cl@ve PIN nos ofrecen una interfaz SOAP, ¿qué tipo de mensajes estaríamos intercambiando con el sistema Cl@ve PIN?
+a) Mensajes JSON
+b) Mensajes YAML
+c) Mensajes XML
+d) Mensajes RDF
+ANSWER: C
+
+11. ¿Qué característica o atributo de seguridad de las cookies, permite que JavaScript NO tenga acceso a la cookie?
+a) Domain
+b) SameSite
+c) Secure
+d) HttpOnly
+ANSWER: D
+
+12. Dos programadores están trabajando en funcionalidades y ramas distintas. ¿Qué operación del sistema de control de versiones Git permitirá mezclar ambas funcionalidades?
+a) git reset
+b) git checkout
+c) git merge
+d) git stash
+ANSWER: C
+
+1. [RESERVA] ¿Cuál es la normativa que define los requisitos de accesibilidad de los sitios web y aplicaciones móviles de los organismos del sector público?
+a) Orden Ministerial 1112/2018, de 7 de septiembre.
+b) Ley Orgánica 1112/2018, de 7 de septiembre.
+c) Ley 1112/2018, de 7 de septiembre.
+d) Real Decreto 1112/2018, de 7 de septiembre.
+ANSWER: D
+
+2. [RESERVA] En PHP, señale que variable de entorno se puede usar para almacenar datos del inicio de sesión de un usuario:
+a) $_SESSION
+b) $SESSION
+c) $_GLOBAL
+d) $GLOBAL
+ANSWER: A
+
+3. [RESERVA] ¿Qué tienen en común las siguientes tecnologías y/o programas: GIT, SVN, Mercurial, CVS?
+a) Todos son sistemas de gestión de publicación web (Gestores de contenidos).
+b) Todos son software de control de versiones.
+c) Todas son tecnologías desarrolladas en la Administración Pública española.
+d) Todos son sistemas de gestión de bases de datos.
+ANSWER: B

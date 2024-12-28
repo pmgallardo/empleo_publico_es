@@ -1,220 +1,174 @@
-1.La ley 34/2002, de servicios de la sociedad de la información y comercio electrónico, en su artículo 45 trata la
-prescripción. Señale la respuesta correcta respecto a las infracciones:
+1. La ley 34/2002, de servicios de la sociedad de la información y comercio electrónico, en su artículo 45 trata la prescripción. Señale la respuesta correcta respecto a las infracciones:
 a) Las muy graves prescribirán a los tres años, las graves a los dos años y las leves al año.
 b) Las muy graves prescribirán a los cinco años, las graves a los dos años y las leves a los seis meses.
 c) Las muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses.
 d) Las muy graves prescribirán a los cinco años, las graves a los tres años y las leves al año.
 ANSWER: C
 
-2.En lo referente a los certificados de identidad pública contenidos en el Documento Nacional de Identidad
-(DNIe), señale la sentencia FALSA:
+2. En lo referente a los certificados de identidad pública contenidos en el Documento Nacional de Identidad (DNIe), señale la sentencia FALSA:
 a) Son emitidos como certificados reconocidos.
 b) Vinculan una serie de datos personales del ciudadano a unas determinadas claves.
-c)
-Garantizan la autenticidad, integridad y no repudio.
+c) Garantizan la autenticidad, integridad y no repudio.
 d) Pueden ser renovados por declaración de que el ciudadano no tiene capacidad de firma (pródigo).
 ANSWER: D
 
-3.Según el Real Decreto 869/2013, que modifica el RD 1553/2005, ¿cuál de los siguientes periodos de validez del
-DNI electrónico es correcto?
+3. Según el Real Decreto 869/2013, que modifica el RD 1553/2005, ¿cuál de los siguientes periodos de validez del DNI electrónico es correcto?
 a) Diez años, cuando el titular haya cumplido los treinta y no haya alcanzado los sesenta.
 b) Permanente cuando el titular haya cumplido los sesenta años.
-c)
-Dos años cuando el solicitante no haya cumplido los cinco años de edad.
+c) Dos años cuando el solicitante no haya cumplido los cinco años de edad.
 d) Diez años, cuando el titular no haya cumplido los treinta al momento de la expedición o renovación.
 ANSWER: C
 
-4.¿Cuál de las siguientes claves NO está contemplada entre los datos criptográficos que almacena el DNI
-electrónico?
+4. ¿Cuál de las siguientes claves NO está contemplada entre los datos criptográficos que almacena el DNI electrónico?
 a) Clave RSA privada de autenticación (Digital Signature).
 b) Clave RSA pública de autenticación (Digital Signature).
-c)
-Clave RSA privada de no repudio (ContentCommitment).
+c) Clave RSA privada de no repudio (ContentCommitment).
 d) Clave RSA privada de firma (ContentCommitment).
 ANSWER: C
 
-5.Según el Real Decreto 1720/2007 en su artículo 24, para el ejercicio de los derechos de acceso, rectificación,
-cancelación y oposición, deberá concederse al interesado un medio:
+5. Según el Real Decreto 1720/2007 en su artículo 24, para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición, deberá concederse al interesado un medio:
 a) sencillo y motivado.
 b) sencillo y gratuito.
-c)
-motivado y previo pago.
+c) motivado y previo pago.
 d) informado y exclusivo.
 ANSWER: B
 
-6.Según la Ley Orgánica 15/1999, ¿pueden las Fuerzas y Cuerpos de seguridad recoger y tratar datos de carácter
-personal sin consentimiento de los afectados?
+6. Según la Ley Orgánica 15/1999, ¿pueden las Fuerzas y Cuerpos de seguridad recoger y tratar datos de carácter personal sin consentimiento de los afectados?
 a) No, porque así lo prohíbe expresamente la Ley Orgánica de Protección de Datos de Carácter Personal.
 b) Sí, siempre que sea para fines exclusivamente judiciales.
-c)
-Sí, siempre que resulte necesario para la prevención de un peligro real para la seguridad pública o para la represión de
-infracciones penales.
+c) Sí, siempre que resulte necesario para la prevención de un peligro real para la seguridad pública o para la represión de infracciones penales.
 d) No, deben contar en cualquier caso con el consentimiento de los afectados.
 ANSWER: C
 
-7.La Ley Orgánica 15/1999 NO atribuye como una de las funciones de la Agencia Española de Protección de Datos:
+7. La Ley Orgánica 15/1999 NO atribuye como una de las funciones de la Agencia Española de Protección de Datos:
 a) Informar, con carácter preceptivo, los proyectos de disposiciones generales que desarrollen esta Ley.
-b) Recabar de los encargados del tratamiento cuanta ayuda e información estime necesaria para el desempeño de sus
-funciones.
-c)
-Atender las peticiones y reclamaciones formuladas por las personas afectadas.
-d) Velar por la publicidad de la existencia de los ficheros de datos con carácter personal, a cuyo efecto publicará
-periódicamente una relación de dichos ficheros con la información adicional que el Director de la Agencia determine.
+b) Recabar de los encargados del tratamiento cuanta ayuda e información estime necesaria para el desempeño de sus funciones.
+c) Atender las peticiones y reclamaciones formuladas por las personas afectadas.
+d) Velar por la publicidad de la existencia de los ficheros de datos con carácter personal, a cuyo efecto publicará periódicamente una relación de dichos ficheros con la información adicional que el Director de la Agencia determine.
 ANSWER: B
 
-8.Las medidas de seguridad según indica el Esquema Nacional de Seguridad, se dividen en tres grupos, señale la
-opción correcta:
+8. Las medidas de seguridad según indica el Esquema Nacional de Seguridad, se dividen en tres grupos, señale la opción correcta:
 a) Marco organizacional [org], marco operativo [op] y medidas de protección [mp].
 b) Marco organizativo [org], marco operacional [op] y medidas de protección [mp].
-c)
-Marco orgánico [org], marco operacional [op] y marco de protección [mp].
+c) Marco orgánico [org], marco operacional [op] y marco de protección [mp].
 d) Marco orgánico [org], marco operativo [op] y medidas de protección [mp].
 ANSWER: B
 
-9.Según el Real Decreto 4/2010, Esquema Nacional de Interoperabilidad, se define nodo de interoperabilidad
-como un organismo que presta servicios de interconexión…
-a) técnica, organizativa y semántica entre sistemas de información para un conjunto de Administraciones Públicas bajo las
-condiciones que éstas fijen.
-b) técnica, organizativa y jurídica entre sistemas de información para un conjunto de Administraciones Públicas bajo las
-condiciones que éstas fijen.
-c)
-técnica, organizativa y semántica entre sistemas de información de organizaciones tanto públicas como privadas.
+9. Según el Real Decreto 4/2010, Esquema Nacional de Interoperabilidad, se define nodo de interoperabilidad como un organismo que presta servicios de interconexión…
+a) técnica, organizativa y semántica entre sistemas de información para un conjunto de Administraciones Públicas bajo las condiciones que éstas fijen.
+b) técnica, organizativa y jurídica entre sistemas de información para un conjunto de Administraciones Públicas bajo las condiciones que éstas fijen.
+c) técnica, organizativa y semántica entre sistemas de información de organizaciones tanto públicas como privadas.
 d) técnica, organizativa y jurídica entre sistemas de información para un conjunto de usuarios u organizaciones privadas.
 ANSWER: B
 
-10.Según el artículo 3 del Real Decreto 1671/2009, las sedes electrónicas se crearán mediante Orden del Ministro
-correspondiente o resolución del titular del Organismo Público, que deberá publicarse en el BOE. Entre el
-contenido mínimo que debe tener, NO incluye:
+10. Según el artículo 3 del Real Decreto 1671/2009, las sedes electrónicas se crearán mediante Orden del Ministro correspondiente o resolución del titular del Organismo Público, que deberá publicarse en el BOE. Entre el contenido mínimo que debe tener, NO incluye:
 a) Identificación de la dirección electrónica de referencia de la sede.
-b) Identificación del máximo responsable, así como del órgano u órganos encargados del tratamiento de los datos de
-carácter personal gestionados por dicha sede y de los servicios puestos a disposición de los ciudadanos en la misma.
+b) Identificación del máximo responsable, así como del órgano u órganos encargados del tratamiento de los datos de carácter personal gestionados por dicha sede y de los servicios puestos a disposición de los ciudadanos en la misma.
 c) Identificación de los canales de acceso a los servicios disponibles en la sede, con expresión, en su caso, de los teléfonos y oficinas a través de los cuales también puede accederse a los mismos.
 d) Medios disponibles para la formulación de sugerencias y quejas.
 ANSWER: B
 
-11.La forma de acceso a la memoria principal de un ordenador es:
+11. La forma de acceso a la memoria principal de un ordenador es:
 a) Acceso secuencial.
 b) Acceso aleatorio.
 c) Acceso predefinido.
 d) Acceso programado.
 ANSWER: B
 
-12.El tipo de escáner que se utiliza para hacer copias digitales de libros o documentos que, por ser antiguos o muy
-valiosos, no se les quiere deteriorar durante el proceso, se le conoce con el nombre de:
+12. El tipo de escáner que se utiliza para hacer copias digitales de libros o documentos que, por ser antiguos o muy valiosos, no se les quiere deteriorar durante el proceso, se le conoce con el nombre de:
 a) plano.
 b) tambor.
 c) rodillo.
 d) cenital.
 ANSWER: D
 
-13.¿Qué número en sistema octal corresponde al decimal 53?
+13. ¿Qué número en sistema octal corresponde al decimal 53?
 a) 65
-b)
-c)
-55
-d)
+b) 54
+c) 55
+d) 64
 ANSWER: A
 
-14.En relación a la estructura física de un disco duro, ¿qué es un sector?
+14. En relación a la estructura física de un disco duro, ¿qué es un sector?
 a) Conjunto de varias pistas.
 b) Cada una de las divisiones de una pista.
-c)
-Cada uno de los círculos concéntricos del disco.
+c) Cada uno de los círculos concéntricos del disco.
 d) Cada una de las caras del disco.
 ANSWER: B
 
-15.Respecto a la estructura lógica de un disco duro y sus características, ¿qué se entiende por latencia media?
+15. Respecto a la estructura lógica de un disco duro y sus características, ¿qué se entiende por latencia media?
 a) Revoluciones por minuto de los platos.
 b) Tiempo medio que tarda la aguja en situarse en la pista y el sector deseado.
-c)
-Velocidad a la que puede transferir la información a la computadora una vez la aguja está situada en la pista y sector
-correctos.
+c) Velocidad a la que puede transferir la información a la computadora una vez la aguja está situada en la pista y sector correctos.
 d) Tiempo medio que tarda la aguja en situarse en el sector deseado.
 ANSWER: D
 
-16.¿Cuál de las siguientes capacidades puede contener una mayor cantidad de información?
+16. ¿Cuál de las siguientes capacidades puede contener una mayor cantidad de información?
 a) 100.000.000 bits.
 b) 1 Gigabyte.
-c)
-1042 Megabytes.
+c) 1042 Megabytes.
 d) 200.000 Kbytes.
 ANSWER: C
 
-17.Indicar qué característica se puede asociar al algoritmo de la burbuja:
+17. Indicar qué característica se puede asociar al algoritmo de la burbuja:
 a) Algoritmo de búsqueda de complejidad cuadrática.
 b) Algoritmo de ordenación de complejidad lineal.
-c)
-Algoritmo de ordenación de complejidad cuadrática.
+c) Algoritmo de ordenación de complejidad cuadrática.
 d) Algoritmo de búsqueda de complejidad logarítmica.
 ANSWER: C
 
-18.De los siguientes sistemas RAID, ¿cuál NO se considera redundante?
+18. De los siguientes sistemas RAID, ¿cuál NO se considera redundante?
 a) RAID 0.
 b) RAID 1.
-c)
-RAID 2.
+c) RAID 2.
 d) RAID 1+0.
 ANSWER: A
 
-19.Señale la técnica de compresión con pérdida:
+19. Señale la técnica de compresión con pérdida:
 a) Portable Network Graphics (PNG).
 b) Lempel-Ziv-Welch (LZW).
-c)
-Joint Photographic Experts Group (JPEG).
+c) Joint Photographic Experts Group (JPEG).
 d) Free Lossless Audio Codec (FLAC).
 ANSWER: C
 
-20.El formato de archivo electrónico para Sistemas de Información Geográfica denominado Shapefile (SHP) es un:
+20. El formato de archivo electrónico para Sistemas de Información Geográfica denominado Shapefile (SHP) es un:
 a) Fichero que contiene formas geométricas (puntos, líneas o polígonos).
 b) Fichero que contiene una base de datos referenciados espacialmente.
-c)
-Conjunto de ficheros que contienen formas geométricas junto con una base de datos (dBASE) referenciados
-espacialmente.
-d) Conjunto de ficheros utilizado para representar datos referenciados espacialmente. Está desaconsejado ya que ha
-quedado obsoleto debido al uso de bases de datos dBASE.
+c) Conjunto de ficheros que contienen formas geométricas junto con una base de datos (dBASE) referenciados espacialmente.
+d) Conjunto de ficheros utilizado para representar datos referenciados espacialmente. Está desaconsejado ya que ha quedado obsoleto debido al uso de bases de datos dBASE.
 ANSWER: C
 
-21.Señale qué orden se debe usar para cambiar las propiedades de un fichero y conseguir que éste tenga los
-siguientes permisos en UNIX: para el propietario lectura, ejecución y escritura; para el grupo lectura y
-ejecución; para el resto de usuarios lectura.
+21. Señale qué orden se debe usar para cambiar las propiedades de un fichero y conseguir que éste tenga los siguientes permisos en UNIX: para el propietario lectura, ejecución y escritura; para el grupo lectura y ejecución; para el resto de usuarios lectura.
 a) chmod 745
 b) chmod 742
-c)
-chmod 753
+c) chmod 753
 d) chmod 754
 ANSWER: D
 
-22.Señale la sentencia correcta referida a la clave del registro de Windows 7 "HKEY_LOCAL_MACHINE":
+22. Señale la sentencia correcta referida a la clave del registro de Windows 7 "HKEY_LOCAL_MACHINE":
 a) Contiene una lista de extensiones de distintos tipos de archivos y programa para abrirlos por defecto en una máquina.
 b) Engloba las configuraciones de software, hardware, etc. de todas las cuentas de usuario en una máquina.
-c)
-Alberga los datos sobre perfiles de usuario distintos que haya en local en una máquina con Windows.
+c) Alberga los datos sobre perfiles de usuario distintos que haya en local en una máquina con Windows.
 d) Incluye todas las configuraciones del usuario activo de Windows en ese momento.
 ANSWER: B
 
-23.¿Cuál de las siguientes NO es una versión del sistema operativo Android?
+23. ¿Cuál de las siguientes NO es una versión del sistema operativo Android?
 a) Cupcake.
 b) Ice cream Sandwich.
-c)
-Donut.
+c) Donut.
 d) Sinclair.
 ANSWER: D
 
-24.¿Cuál es el comando utilizado en sistemas Microsoft que permite conectarse a una carpeta compartida de red y
-asignar una letra de unidad a la propia conexión?
+24. ¿Cuál es el comando utilizado en sistemas Microsoft que permite conectarse a una carpeta compartida de red y asignar una letra de unidad a la propia conexión?
 a) use net
 b) net use
-c)
-net
+c) net
 d) net map
 ANSWER: B
 
-25.¿Cómo se denomina la interfaz de usuario en Windows 8?
+25. ¿Cómo se denomina la interfaz de usuario en Windows 8?
 a) Aero UI.
-b)
-c)
-Metro UI.
-d)
-Tren UI.
-Evo UI.
+b) Tren UI.
+c) Metro UI.
+d) Evo UI.
 ANSWER: C

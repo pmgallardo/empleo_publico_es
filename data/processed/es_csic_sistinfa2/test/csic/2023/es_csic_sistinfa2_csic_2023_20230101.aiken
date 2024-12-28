@@ -415,8 +415,7 @@ C) Proxmox VE
 D) XenApp
 ANSWER: C
 
-60) ¿Cuál de las siguientes opciones NO se corresponde con un proveedor de servicios
-en la nube para computación?
+60) ¿Cuál de las siguientes opciones NO se corresponde con un proveedor de servicios en la nube para computación?
 A) Amazon Web Services
 B) Microsoft Azure
 C) Google Cloud
@@ -424,49 +423,34 @@ D) Ansible Cloud
 ANSWER: D
 
 61) ¿Qué es la virtualización de escritorios?
-A) Un mecanismo para poder disponer de múltiples ventanas dentro de un mismo
-escritorio, sin necesidad de acceso a la red.
-B) Un método para que un usuario pueda acceder a una estación de trabajo
-mediante un dispositivo de forma remota.
-C) Un mecanismo de seguridad que impide que otros usuarios tengan acceso
-simultáneo al escritorio de usuarios privilegiados.
-D) Un método para permitir el acceso remoto via SSH a diferentes sistemas
-operativos de forma simultánea.
+A) Un mecanismo para poder disponer de múltiples ventanas dentro de un mismo escritorio, sin necesidad de acceso a la red.
+B) Un método para que un usuario pueda acceder a una estación de trabajo mediante un dispositivo de forma remota.
+C) Un mecanismo de seguridad que impide que otros usuarios tengan acceso simultáneo al escritorio de usuarios privilegiados.
+D) Un método para permitir el acceso remoto via SSH a diferentes sistemas operativos de forma simultánea.
 ANSWER: B
 
-62) ¿Cuál de las siguientes opciones se considera una buena práctica de seguridad en
-aplicaciones en la nube?
+62) ¿Cuál de las siguientes opciones se considera una buena práctica de seguridad en aplicaciones en la nube?
 A) Utilizar autenticación de un solo factor para el acceso a los recursos.
-B) Almacenar contraseñas en texto plano para facilitar su recuperación en caso
-de pérdida.
-C) Aplicar cifrado de extremo a extremo para proteger la confidencialidad de los
-datos.
-D) Permitir el acceso de todos los usuarios a todos los recursos para una mayor
-visibilidad.
+B) Almacenar contraseñas en texto plano para facilitar su recuperación en caso de pérdida.
+C) Aplicar cifrado de extremo a extremo para proteger la confidencialidad de los datos.
+D) Permitir el acceso de todos los usuarios a todos los recursos para una mayor visibilidad.
 ANSWER: C
 
-63) ¿Cuál de las siguientes tecnologías se utiliza comúnmente para el despliegue de
-software en la nube y en entornos distribuidos?
+63) ¿Cuál de las siguientes tecnologías se utiliza comúnmente para el despliegue de software en la nube y en entornos distribuidos?
 A) Contenedores (e.g. Docker)
 B) Apache Kafka
 C) AngularJS
 D) Ethereum
 ANSWER: A
 
-64) ¿Cuál de las siguientes afirmaciones describe mejor los workflows científicos en
-entornos en la nube?
-A) Son secuencias de comandos simples que automatizan tareas administrativas
-básicas.
-B) Utilizan algoritmos de aprendizaje automático para analizar grandes conjuntos
-de datos.
-C) Representan flujos de trabajo estructurados que incluyen tareas y
-dependencias entre ellas.
-D) Son sistemas de almacenamiento distribuido diseñados para manejar
-grandes volúmenes de datos científicos.
+64) ¿Cuál de las siguientes afirmaciones describe mejor los workflows científicos en entornos en la nube?
+A) Son secuencias de comandos simples que automatizan tareas administrativas básicas.
+B) Utilizan algoritmos de aprendizaje automático para analizar grandes conjuntos de datos.
+C) Representan flujos de trabajo estructurados que incluyen tareas y dependencias entre ellas.
+D) Son sistemas de almacenamiento distribuido diseñados para manejar grandes volúmenes de datos científicos.
 ANSWER: C
 
-65) ¿Cuál de las siguientes tecnologías NO es apropiada para almacenar grandes
-ficheros de datos?
+65) ¿Cuál de las siguientes tecnologías NO es apropiada para almacenar grandes ficheros de datos?
 A) Ceph
 B) MinIO
 C) GlusterFS
@@ -480,8 +464,7 @@ C) Pthreads y virtual locks
 D) Virt-mem y garbage collector
 ANSWER: A
 
-67) ¿Cuál de las siguientes herramientas NO está diseñada para el despliegue y/o
-configuración automatizada de aplicaciones en la nube?
+67) ¿Cuál de las siguientes herramientas NO está diseñada para el despliegue y/o configuración automatizada de aplicaciones en la nube?
 A) Ansible
 B) Puppet
 C) Terraform
@@ -495,8 +478,7 @@ C) Es el rol asignado al operador de seguridad del centro de datos
 D) Es una técnica de mitigación de riesgos de seguridad del centro de datos
 ANSWER: A
 
-69) ¿Qué es el modelo de interconexión de sistemas abiertos (ISO/IEC 7498-1),
-conocido como “modelo OSI”?
+69) ¿Qué es el modelo de interconexión de sistemas abiertos (ISO/IEC 7498-1), conocido como “modelo OSI”?
 A) Una teoría que describe la estructura de una red
 B) Un conjunto de protocolos para la transmisión de datos
 C) Un método para la resolución de problemas en redes
@@ -524,16 +506,14 @@ C) NOT
 D) NAND
 ANSWER: A
 
-73) En arquitectura de ordenadores, el elemento encargado de transferir datos entre los
-distintos componentes del sistema se conoce como…
+73) En arquitectura de ordenadores, el elemento encargado de transferir datos entre los distintos componentes del sistema se conoce como…
 A) RAM
 B) CPU
 C) Bus
 D) Dtrans
 ANSWER: C
 
-74) En un procesador actual, como los Intel i5 o i7, ¿de qué orden es el número de
-transistores que contiene?
+74) En un procesador actual, como los Intel i5 o i7, ¿de qué orden es el número de transistores que contiene?
 A) cientos
 B) miles
 C) millones
@@ -555,11 +535,9 @@ D) Para tener dos conexiones a la red y suministrar el doble de datos al sistema
 ANSWER: B
 
 77) ¿Qué es un grid computacional?
-A) Un conjunto de ordenadores compartidos con un sistema de colas en una red
-de área local aislada.
+A) Un conjunto de ordenadores compartidos con un sistema de colas en una red de área local aislada.
 B) Un conjunto de ordenadores compartidos con MOSIX.
-C) Un conjunto de recursos computacionales y almacenamiento federados,
-típicamente accedidos por medio de planificadores de recursos globales.
+C) Un conjunto de recursos computacionales y almacenamiento federados, típicamente accedidos por medio de planificadores de recursos globales.
 D) Ninguna de las anteriores es correctca.
 ANSWER: C
 
@@ -571,29 +549,22 @@ D) Ninguno de los anteriores
 ANSWER: D
 
 79) ¿Qué es un contenedor de software?
-A) Un sistema de virtualización que genera múltiples espacios de usuario
-basados en el sistema operativo de base.
-B) Un sistema de virtualización que emula el hardware de un computador y sobre
-el que se puede instalar otro sistema operativo.
-C) Un sistema de empaquetado y distribución de los componentes específicos
-de una aplicación para su instalación.
+A) Un sistema de virtualización que genera múltiples espacios de usuario basados en el sistema operativo de base.
+B) Un sistema de virtualización que emula el hardware de un computador y sobre el que se puede instalar otro sistema operativo.
+C) Un sistema de empaquetado y distribución de los componentes específicos de una aplicación para su instalación.
 D) Todas las anteriores son ciertas.
 ANSWER: A
 
 80) Los sistemas de computación de alto rendimiento (HPC)…
 A) permiten un acceso más rápido a servidores web.
 B) están configurado con un mínimo de 100 procesadores trabajando en serie.
-C) usan procesadores trabajando en paralelo para resolver problemas complejos
-a velocidades extremadamente altas.
-D) están configurados para ejecutar principalmente algoritmos de inteligencia
-artificial (IA).
+C) usan procesadores trabajando en paralelo para resolver problemas complejos a velocidades extremadamente altas.
+D) están configurados para ejecutar principalmente algoritmos de inteligencia artificial (IA).
 ANSWER: C
 
 81) La refrigeración en los centros de proceso de datos…
-A) es necesaria para el confort del personal trabajando cerca de los equipos
-computacionales.
-B) es necesaria para que los procesadores trabajen a temperaturas inferiores a
-6 grados C.
+A) es necesaria para el confort del personal trabajando cerca de los equipos computacionales.
+B) es necesaria para que los procesadores trabajen a temperaturas inferiores a 6 grados C.
 C) solo es necesaria en países de clima sub-tropical o tropical.
 D) se consigue mediante flujos de aire o sistemas de agua fría, entre otros.
 ANSWER: D
@@ -602,12 +573,10 @@ ANSWER: D
 A) es prácticamente despreciable
 B) se debe en una gran parte a los sistemas de refrigeración
 C) se debe en su totalidad a las comunicaciones eléctricas entre procesadores
-D) es un problema que se resolverá con los sistemas de almacenamiento en la
-nube
+D) es un problema que se resolverá con los sistemas de almacenamiento en la nube
 ANSWER: B
 
-83) Una serie de computadores independientes, con memoria privada, que se
-comunican a través de una red, se conoce como…
+83) Una serie de computadores independientes, con memoria privada, que se comunican a través de una red, se conoce como…
 A) computación en paralelo
 B) computación distribuida
 C) computación en nube
@@ -621,45 +590,32 @@ C) intranet
 D) ultra-net
 ANSWER: A
 
-85) Servicios y aplicaciones que se ejecutan en una red computacional distribuida
-usando recursos virtualizados se conocen como…
+85) Servicios y aplicaciones que se ejecutan en una red computacional distribuida usando recursos virtualizados se conocen como…
 A) computación en paralelo
 B) computación en la nube
 C) computación distribuida
 D) computación blanda
 ANSWER: B
 
-86) En un CPD de un centro de investigación se va a adquirir un Sistema de
-Alimentación Ininterrumpida (SAI) y tenemos las siguiente especificaciones: 500 VA
-(Voltiamperios) y 300 W (watios). ¿Qué indican?
+86) En un CPD de un centro de investigación se va a adquirir un Sistema de Alimentación Ininterrumpida (SAI) y tenemos las siguiente especificaciones: 500 VA (Voltiamperios) y 300 W (watios). ¿Qué indican?
 A) La potencial real y la potencia aparente respectivamente del SAI.
 B) La energía eléctrica y la potencia que puede suministrar el SAI.
 C) La potencia aparente y la potencia real del SAI.
-D) La potencia aparente del SAI solo que dada en dos unidades diferentes de
-potencia.
+D) La potencia aparente del SAI solo que dada en dos unidades diferentes de potencia.
 ANSWER: C
 
 87) En el contexto de sistemas de almacenamiento, ¿en qué consiste un área de stage?
-A) Es un área de almacenamiento de ficheros de salida que producen los
-trabajos que se ejecutan en un determinado sistema computacional.
-B) Es un área de trabajo local donde se vuelcan todos los ficheros de los usuarios
-de un determinado grupo de investigación.
-C) Es un área intermedia de almacenamiento de datos utilizada para el
-procesamiento de los mismos durante procesos de extracción, transformación y
-carga.
+A) Es un área de almacenamiento de ficheros de salida que producen los trabajos que se ejecutan en un determinado sistema computacional.
+B) Es un área de trabajo local donde se vuelcan todos los ficheros de los usuarios de un determinado grupo de investigación.
+C) Es un área intermedia de almacenamiento de datos utilizada para el procesamiento de los mismos durante procesos de extracción, transformación y carga.
 D) Es equivalente a la memoria caché de un ordenador.
 ANSWER: C
 
-88) ¿Cuál de las siguientes afirmaciones describe mejor el concepto de “Alta
-Disponibilidad” en Informática?
-A) La capacidad de un sistema para recuperarse automáticamente ante un fallo
-sin interrupciones en el servicio
-B) La existencia de múltiples copias idénticas de un sistema o componente, que
-se activan en caso de fallo
-C) La capacidad de un sistema para resistir y recuperarse de ataques de
-seguridad sin interrupciones en el servicio
-D) La distribución geográfica de los servidores para garantizar el acceso continuo
-a los datos y aplicaciones.
+88) ¿Cuál de las siguientes afirmaciones describe mejor el concepto de “Alta Disponibilidad” en Informática?
+A) La capacidad de un sistema para recuperarse automáticamente ante un fallo sin interrupciones en el servicio
+B) La existencia de múltiples copias idénticas de un sistema o componente, que se activan en caso de fallo
+C) La capacidad de un sistema para resistir y recuperarse de ataques de seguridad sin interrupciones en el servicio
+D) La distribución geográfica de los servidores para garantizar el acceso continuo a los datos y aplicaciones.
 ANSWER: B
 
 89) Google Workspace y Adobe Creative Cloud son dos ejemplos emblemáticos de:
@@ -669,38 +625,25 @@ C) NaaS (Network as a Service)
 D) IaaS (Infrastructure as a Service)
 ANSWER: B
 
-90) En la arquitectura de Von Neumann, ¿cómo se llama el registro que contiene la
-dirección de la instrucción que va a ser ejecutada?
+90) En la arquitectura de Von Neumann, ¿cómo se llama el registro que contiene la dirección de la instrucción que va a ser ejecutada?
 A) Contador de programa
 B) Puntero a pila
 C) Enlazador
 D) Ensamblador
 ANSWER: A
 
-91) ¿Cuál de las siguientes afirmaciones describe correctamente una diferencia entre la
-arquitectura RISC y la arquitectura CISC?
-A) La arquitectura RISC utiliza una organización jerárquica de memoria, mientras
-que la arquitectura CISC utiliza una memoria plana.
-B) La arquitectura RISC se basa en microprocesadores de 32 bits, mientras que
-la arquitectura CISC se basa en microprocesadores de 64 bits.
-C) La arquitectura RISC utiliza un conjunto reducido de instrucciones, mientras
-que la arquitectura CISC utiliza un conjunto más amplio y complejo.
-D) La arquitectura RISC se utiliza principalmente en dispositivos móviles,
-mientras que la arquitectura CISC se utiliza en servidores de alto rendimiento.
+91) ¿Cuál de las siguientes afirmaciones describe correctamente una diferencia entre la arquitectura RISC y la arquitectura CISC?
+A) La arquitectura RISC utiliza una organización jerárquica de memoria, mientras que la arquitectura CISC utiliza una memoria plana.
+B) La arquitectura RISC se basa en microprocesadores de 32 bits, mientras que la arquitectura CISC se basa en microprocesadores de 64 bits.
+C) La arquitectura RISC utiliza un conjunto reducido de instrucciones, mientras que la arquitectura CISC utiliza un conjunto más amplio y complejo.
+D) La arquitectura RISC se utiliza principalmente en dispositivos móviles, mientras que la arquitectura CISC se utiliza en servidores de alto rendimiento.
 ANSWER: C
 
-92) ¿Cuál es la principal diferencia entre un procesador monociclo y un procesador
-segmentado?
-A) Un procesador monociclo utiliza múltiples unidades de ejecución, mientras
-que un procesador segmentado utiliza una sola unidad de ejecución.
-B) Un procesador monociclo utiliza una memoria de acceso aleatorio (RAM) para
-almacenar datos, mientras que un procesador segmentado utiliza una memoria
-de solo lectura (ROM).
-C) Un procesador monociclo es más rápido y eficiente que un procesador
-segmentado en la ejecución de instrucciones complejas.
-D) Un procesador monociclo ejecuta una instrucción completa en un solo ciclo
-de reloj, mientras que un procesador segmentado divide la ejecución de una
-instrucción en múltiples etapas.
+92) ¿Cuál es la principal diferencia entre un procesador monociclo y un procesador segmentado?
+A) Un procesador monociclo utiliza múltiples unidades de ejecución, mientras que un procesador segmentado utiliza una sola unidad de ejecución.
+B) Un procesador monociclo utiliza una memoria de acceso aleatorio (RAM) para almacenar datos, mientras que un procesador segmentado utiliza una memoria de solo lectura (ROM).
+C) Un procesador monociclo es más rápido y eficiente que un procesador segmentado en la ejecución de instrucciones complejas.
+D) Un procesador monociclo ejecuta una instrucción completa en un solo ciclo de reloj, mientras que un procesador segmentado divide la ejecución de una instrucción en múltiples etapas.
 ANSWER: D
 
 93) ¿Qué función cumple el banco de registros en un procesador?
@@ -711,39 +654,34 @@ D) Controlar la frecuencia de reloj del procesador.
 ANSWER: B
 
 94) Señale la respuesta FALSA respecto a la segmentación.
-A) Es una técnica de solapamiento de instrucciones mediante la división de su
-ejecución en etapas o segmentos.
+A) Es una técnica de solapamiento de instrucciones mediante la división de su ejecución en etapas o segmentos.
 B) Incrementa la productividad de la CPU.
 C) Disminuye el tiempo de ejecución de cada instrucción.
 D) Ninguna de las respuestas anteriores es correcta.
 ANSWER: C
 
-95) ¿Cuál de los siguientes NO es un término común en la terminología de los
-repositorios y sistemas de control de versiones?
+95) ¿Cuál de los siguientes NO es un término común en la terminología de los repositorios y sistemas de control de versiones?
 A) branch
 B) conflict
 C) merge
 D) fight
 ANSWER: D
 
-96) En un entorno Linux, para compilar un programa que utilice una librería, además de
-tener instalada la propia librería, es necesario instalar:
+96) En un entorno Linux, para compilar un programa que utilice una librería, además de tener instalada la propia librería, es necesario instalar:
 A) El paquete “source” con los “linkers”
 B) El paquete “dev” con los “headers”
 C) El paquete “cmp” con los “complements”
 D) El paquete “boost” con los “makers”
 ANSWER: B
 
-97) Indicar cuál de las siguientes opciones NO se corresponde con una tecnología o
-protocolo usada en la monitorización de redes:
+97) Indicar cuál de las siguientes opciones NO se corresponde con una tecnología o protocolo usada en la monitorización de redes:
 A) FRP (Fail Reduction Protocol)
 B) WMI (Windows Management Instrumentation)
 C) HTTP/S (Hypertext Transfer Protocol)
 D) SSH (Secure Shell)
 ANSWER: A
 
-98) La parte más importante de un sistema operativo, que se encarga de facilitar a las
-distintas aplicaciones acceso seguro al hardware del sistema informático se denomina:
+98) La parte más importante de un sistema operativo, que se encarga de facilitar a las distintas aplicaciones acceso seguro al hardware del sistema informático se denomina:
 A) core
 B) kernel
 C) baseline

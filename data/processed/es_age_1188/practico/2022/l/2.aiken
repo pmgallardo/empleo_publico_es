@@ -1,0 +1,217 @@
+La Subdirección General de Informática del Organismo en el que recientemente Vd. ha tomado posesión y a través de su departamento de Sistemas, Comunicaciones y Seguridad, ha decidido acometer un cambio de diseño en la infraestructura de la red informática del departamento y Vd. debe colaborar en su implantación.
+
+Se parte de la situación inicial donde hay una única red con el siguiente direccionamiento IP 10.20.30.0/24 donde residen:
+    * Los equipos informáticos de los usuarios
+    * Las aplicaciones informáticas
+    * Las Bases de Datos Oracle y MySql
+    * La conexión a Internet del departamento
+
+Todo reside en la misma red según el modelo que llamaremos Modelo A:
+
+INTERNET
+ |
+Router           PCs Usuarios
+ |                 | | |
+|---------------------------------|
+|          10.20.30.0/24          |
+|---------------------------------|
+ | | |                      | | |
+Aplicaciones         Bases de Datos
+
+Después de varios estudios se concluye que se debe realizar una segmentación de la red actual en cuatro subredes:
+    * Primera Subred para los PCs de usuario
+    * Segunda Subred para las Bases de Datos
+    * Tercera Subred para las Aplicaciones
+    * Cuarta Subred para utilizarla como DMZ
+
+Se instalará una pareja de Firewalls o Cortafuegos formando un clúster donde se implementarán las reglas necesarias para las conectividades y encaminamientos entre Subredes.
+
+El modelo al que llamaremos Modelo B pasa a ser el siguiente:
+
+INTERNET
+ |
+Router
+ |
+Subred de DMZ---Clúster de firewalls---Subred de PCs de Usuario
+DMZ                    |  |                     PCs de usuarios
+                       |  |
+Subred de aplicaciones-|  |----Subred de Base de Datos
+Aplicaciones                             Base de Datos
+
+Nota aclaratoria: los PCs de Usuario tienen sistema operativo Windows 10 y tanto los servidores para Aplicaciones, Base de Datos y
+DMZ tienen sistema operativo Linux RedHat RHEL7.4
+
+1. En los PCs de los usuarios hay que purgar la memoria caché de la resolución DNS. ¿Cuál de los siguientes comandos habría que lanzar desde la consola de PowerShell?
+a) ipconfig /dnsflush
+b) ipconfig /flushdns
+c) ifconifg --erase dnscache
+d) ifconifg --clean dnscache
+ANSWER: B
+
+2. En todos los PCs de usuario existe un usuario local llamado Infocentro utilizado para labores de mantenimiento. ¿Qué comando utilizaríamos desde la línea de comandos de Windows PowerShell para ver más información sobre este usuario?
+a) net user Infocentro
+b) netuser Infocentro
+c) info user Infocentro
+d) infouser Infocentro
+ANSWER: A
+
+3. En el contexto de la administración del almacenamiento, ¿qué es el “Thin Provisioning”?
+a) Es un mecanismo de despliegue de discos en red para clientes ligeros.
+b) Es una tecnología que permite agregar discos físicos en caliente a las cabinas de la SAN.
+c) Es un método de virtualización de almacenamiento que permite asignar el espacio de almacenamiento de una manera flexible bajo demanda.
+d) Es un método por el que se asigna todo el espacio virtualizado disponible y se va a reduciendo (shrinking) a medida que el cliente lo descarta.
+ANSWER: C
+
+4. En uno de los servidores de la Subred de Aplicaciones del Modelo B se va a instalar un software de monitorización para Linux. Indique de entre los siguientes, cuál cumpliría esa función:
+a) Check_MK
+b) Reddis
+c) Jenkins
+d) Nagstamon
+ANSWER: A
+
+5. ¿Qué máscara deberá tener la red 10.20.30.0 del modelo A para que haya cuatro subredes como en el Modelo B?
+a) 255.255.255.194
+b) 255.255.255.192
+c) 255.255.255.196
+d) 255.255.255.190
+ANSWER: B
+
+6. Necesitamos borrar la caché de las direcciones físicas (Mac Address) en uno de los servidores que ofrece la aplicación de Intranet de la Subred de Aplicaciones del Modelo B. ¿Cuál de los siguientes comandos utilizaría?
+a) ip delete cache
+b) arp -d
+c) iptables -d mac
+d) ip flush
+ANSWER: B
+
+7. Si tenemos en cuenta que la primera subred para PCs de Usuario del Modelo B es la 10.20.30.0/26, ¿cuáles son las direcciones de Red y Broadcast?
+a) 10.20.30.0 y 10.20.30.255
+b) 10.20.30.1 y 10.20.30.62
+c) 10.20.30.0 y 10.20.30.63
+d) 10.20.30.64 y 10.20.30.127
+ANSWER: C
+
+8. Para optimizar el acceso a Internet, se opta por instalar un servidor proxy-caché que soporte los protocolos HTTP, HTTP/2, HTTPS. ¿Cuál de las siguientes soluciones puede realizar dicha función?
+a) INFLUXDB
+b) GRAFANA
+c) CHECK_MK
+d) SQUID
+ANSWER: D
+
+9. Una vez implementado "teletrabajo" mediante VPN, se quiere dotar de mayor seguridad mediante el envío de un código por SMS al teléfono móvil del trabajador. ¿Cómo se denomina a este tipo de validación?
+a) Factor electrónico de autenticación.
+b) Autenticación electrónica de usuarios.
+c) Doble factor de autenticación.
+d) Factor único de autenticación.
+ANSWER: C
+
+10. En la subred de DMZ del Modelo B se quiere implementar un servicio de correo seguro. Cuáles, de entre los siguientes, son los puertos seguros para los protocolos POP, SMTP e IMAP:
+a) POP:993 / SMTP:465 / IMAP:995
+b) POP:995 / SMTP:495 / IMAP:963
+c) POP:995 / SMTP:465 / IMAP:993
+d) POP:965 / SMTP:495 / IMAP:993
+ANSWER: C
+
+11. Para la aplicacion AutoFirma 1.8.2 de las estaciones de trabajo de la organizacion, ¿qué algoritmo de huella para la firma se permite de los siguientes?
+a) ECDSA
+b) MD5
+c) SHA384
+d) DSA
+ANSWER: C
+
+12. En la organización se están planteando instalar puntos de acceso WiFi. ¿Cuál de estos estándares puede funcionar a 2,4 GHz, 5 GHz y 6 GHz?
+a) No existe la banda de los 6 GHz
+b) 802.11ax
+c) 802.11ac
+d) 802.11be
+ANSWER: D
+
+13. Desde su equipo en la subred de PCs de Usuarios del Modelo B y como administrador de los equipos del resto de subredes, necesita conectarse mediante SSH y SCP. ¿Qué puerto o puertos estándares deberían tener abiertos en el firewall para realizar esta labor?
+a) Puerto 21 para SSH y 22 para SCP.
+b) Puerto 22 para SSH y 21 para SCP.
+c) Puerto 21 tanto para SSH como SCP.
+d) Puerto 22 tanto para SSH como SCP.
+ANSWER: D
+
+14. Si hubiese instalado un IIS, ¿qué comando utilizaría para reiniciarlo?
+a) IIS RESET
+b) IISRESET
+c) RESET IIS
+d) RESETIIS
+ANSWER: B
+
+15. En uno de los servidores de la Subred de Aplicaciones del Modelo B se necesita realizar una captura del tráfico que pasa por la interfaz de red eth1 y guardarlo en fichero.out para su posterior análisis, ¿cuál de las siguientes sentencias es la correcta?
+a) snoop -d eth1 -w fichero.out
+b) tcpdump -i any -o fichero.out
+c) tcpdump -i eth1 -w fichero.out
+d) snoop -d any -o fichero.out
+ANSWER: C
+
+16. En el servidor de la Subred de Aplicaciones que sirve las páginas de la intranet en el dominio intranet.sgi.es y que utiliza Apache 2.4, quieren servir páginas de otros dominios. ¿Cuál de las siguientes directivas debe utilizar?
+a) VirtualMachine
+b) VirtualDomain
+c) VirtualHost
+d) VirtualIp
+ANSWER: C
+
+17. Se quiere crear una nueva vLAN en el organismo. ¿Qué opción de las vLAN hace que las tramas Ethernet incorporen la etiqueta "vLAN ID"?
+a) untagged
+b) tagged
+c) id
+d) trunk
+ANSWER: B
+
+18. Indique qué herramienta desarrollada por el CCN-CERT, es una plataforma de análisis avanzado de malware:
+a) NADA
+b) CADA
+c) ADA
+d) SADA
+ANSWER: C
+
+19. En el clúster de Firewalls del modelo B se quiere implementar un módulo de seguridad para filtrar y monitorear el tráfico HTTP desde Internet a nuestros servidores WEB. ¿Cuál de los siguientes módulos debe implementarse para cumplir esta función?
+a) WAT - Web Administration Tool
+b) WAF - Web Application Firewall
+c) VFN - Virtual Firewall Network
+d) WFL7 - Web Firewall Layer 7
+ANSWER: B
+
+20. En la Subred de PCs de Usuario del Modelo B, los PCs tienen el sistema operativo Windows 10. Necesitamos saber la tabla de enrutamiento de los equipos. ¿Cuál de los siguientes comandos permite ver esa información?
+a) route show
+b) ip route ls
+c) route print
+d) ip route print
+ANSWER: C
+
+1. [RESERVA] ¿Qué comando muestra información del conjunto resultante de directivas (RSoP) para un usuario y equipo de destino en los equipos Windows 10 de la Subred de PCs de Usuario del Modelo B?
+a) gpshow
+b) gpprint
+c) gpresult
+d) gplist
+ANSWER: C
+
+2. [RESERVA] Una vez implementado el acceso telemático a la oficina o "teletrabajo" mediante VPN, en relación con esta tecnología, indique en qué RFC está definido el protocolo PPTP:
+a) RFC 2661
+b) RFC 2637
+c) RFC 1661
+d) RFC 2472
+ANSWER: B
+
+3. [RESERVA] Los dispositivos de interconexión de redes de nuestro sistema, son compatibles con POE++. Señale la afirmación correcta con respecto a este término:
+a) Las siglas corresponden a Power-of-Ethernet.
+b) Como estándar, recibe la denominación IEEE 802.3at.
+c) La alimentación real recibida es de 25,50 Watts.
+d) Se subdivide en dos tipos: Tipo 3 y Tipo 4.
+ANSWER: D
+
+4. [RESERVA] Si fuese el motor de Base de Datos ORACLE, indique cuál de los siguientes comandos utilizaria para crear una copia de seguridad de la base de datos origen:
+a) RMAN
+b) DUMPALL
+c) ORACLE_BCK
+d) COPYDB
+ANSWER: A
+
+5. [RESERVA] Se ha decidido que la última IP válida de host para la Subred de Aplicaciones del Modelo B sea considerada como Puerta de Enlace o Default Gateway. Según este criterio, señale la opción correcta teniendo en cuenta que esta subred tiene el direccionamiento
+a) 10.20.30.191
+b) 10.20.30.190
+c) 10.20.30.193
+d) 10.20.30.192
+ANSWER: B

@@ -1,0 +1,196 @@
+1 ¿Cuál de los slguientes es un protocolo de intercamblo de mensajes de correo?
+a) SMTP.
+b) SNMB.
+c) Samba.
+d) IP.
+ANSWER: A
+
+2 ¿Cuál de las siguientes es una herramienta de control remoto de puestos de trabajo?
+a) Discoverer.
+b) Analysis services.
+c) Carbon Copy.
+d) Brocade.
+ANSWER: C
+
+3 Si utilizo webmail para acceder a mi correo desde fuera de la oficina, ¿Qué puerto debe estar abierto en el firewall para permitir la comunicación de forma correcta?
+a) 25.
+b) 110.
+c) 80.
+d) 23.
+ANSWER: C
+
+4 ¿Cuál de los siguientes productos NO es un cliente de correo?
+a) Mozllla Thunderbird.
+b) Microsoft Share Point.
+c) Lotus Notes.
+d) Apple Mail.
+ANSWER: B
+
+5 Si un usuario de Outlook borra de su ordenador el fichero .pst, ¿qué ocurre?
+a) No se abre Outlook.
+b) Se pierde la agenda.
+c) Se pierden las Carpetas Personales.
+d) Se pierden los conlados,
+ANSWER: C
+
+6 De los siguientes protocolos, ¿cuál permlte descargar las cabeceras del correo al ordenador y que el mensaje siga albelgándose en el servidor de correo, independientemente del cliente de correo utilizado?
+a) POP3.
+b) IMAP.
+c) MAPI.
+d) SMTP.
+ANSWER: B
+
+7 Un sistema anti spam p ra detectar el correo basura, utiliza un metodo heuristico para distinguir los correos basura de los correocon contenido util:
+a) Siempre es capaz dedistlnguli unos deotros correctamente.
+b) Utlliza un sistema de puntuacl6n en funci6n de algunos parametros, como listas de palabras, de dlrecciones de correo, etc., y Ein fl,Jncion·de la puntuaci6n asignada a un correo se clasifica como spamo no.
+c) El usuario tiene que "entrena,. al sisterria para decirle qllecorreos son spam y OJales no, por lo queno son fiables hasta
+quellevan un tiempo E!J1 funcionamiento.
+d) El administrador deseguridad dela organization es el que decide que correos son spam y cuales n1;1.
+ANSWER: B
+
+8 Si utilizo un firewall personal para restringir el acceso mi PC, desde el que estoy sirviendo páginas HTTP y HTTPS por los protocolos estándar, ¿Qué puerto tengo que abrir para facllitar ese tipo de tráfico?
+a) Ninguno, puesto que al ser un servidor web los puertos se abren por defecto.
+b) 80 si utilizo Windows como sistema operativo, y 443 en el caso de Linux.
+c) 80 y 443.
+d) 25 y 110.
+ANSWER: C
+
+9 ¿Por qué debe existir un antivirus en el PC y otro en la pasarela de acceso a Internet?
+a) No es necesario, bastaría con uno de los dos.
+b) Porque hay programas que puede contener virus que lleguen al PC par una vía distinta de Internet.
+c) Porque al tener el antivirus en la pasarela de acceso a Internet aseguramos que el antivirus está actualizado.
+d) Porque los antivlrus necesitan tener instalada una parte en local y otra en remoto.
+ANSWER: B
+
+10 ¿Cuál de los siguientes sistemas de archivos facilita la encriptación de ficheros?
+a) EXT3.
+b) NTFS.
+c) FAT32.
+d) EFS.
+ANSWER: D
+
+11 Al diseñar una página web se puede incluir en ella widgets. ¿En qué consiste este elemento?
+a) Es un icono que lleva a una página web relacionada,
+b) Es una conexi6n con redes sociales en la qu_e se actualiza el oontenido en todos nuestros perfiles al hacerlo solo en uno deellos, sin tener querepetir la opeiad6n.
+c) Es un applet que seejeaita en otro servid9r y quese muestra en eJ navegador.
+d)  Es una secci6n de codigo lmportada desde otra PQina web que permite, slmplemente insertando ese c.6digo, que se ejecute.la misma fundoilalidad que en la pagina de la que se ha importado,
+ANSWER: D
+
+12 ¿Cuál de los siguientes lenguajes NO se utiliza para la creación de páginas web?
+a) Javascript.
+b) PHP.
+c) Java
+d) Joomla.
+ANSWER: D
+
+13 ¿Cuál de los siguientes NO es un navegador web?
+a) Opera.
+b) Safari.
+c) Mozilla ThunderBird.
+d) Konqueror.
+ANSWER: C
+
+14 De las siguientes utilidades, una es un firewall para sistemas Linux, seleccionar cuál es:
+a) IP-Tables.
+b) Squid.
+c) Quizz.
+d) Snort.
+ANSWER: A
+
+15 La posiblilidad de incluir código en javascript que nos permite modlficar el uso original de los botones de facebook en las redes sociales es lo que se conoce como:
+a) Clickjacking.
+b) Phishing.
+c) Tabnabbing.
+d) Sniffer.
+ANSWER: A
+
+16 Cuando utilizamos nuestra firma digital mediante una tarjeta criptográfica:
+a) El certificado se instala en el navegador y se desinstala al extraer la tarjeta del lector,
+b) La tarjeta criptográfica realiza parte de las operaciones de cifrado y descifrado, las claves nunca salen de la tarjeta.
+c) El certificado digital está almaceoado en el sitio web de la Autoridad de Certificación, y la tarjeta sólo realiza las operaciones de cifrado y descifrado.
+d) La operativa es similar a cuando se utiliza un pendrive o un disco USB, con la seguridad añadida que ofrece el tener que teclear el PIN de la tarjeta.
+ANSWER: B
+
+17 Los códigos de barras bidimensional basados en una matriz de propósito general diseñada para un escaneo rápido de información y que tienen una representación de forma cuadrada y puede ser fácilmente identificado por su patrón de cuadros oscuros y claros en tres de las esquinas del símbolo se conoce como:
+a) PDF417.
+b) Código QR (Quick Response).
+c) EAN.
+d) Code 128.
+ANSWER: B
+
+18 ¿Cuál de los siguientes procesadores de texto es de código libre, NO es comercial?
+a) KWord.
+b) Microsoft Word.
+c) PolyEdit
+d) Lotus Word Pro.
+ANSWER: A
+
+19 Google Docs & Spreadsheets es un programa gratuito basado en Web para crear documentos en línea con la posibilidad de colaborar en grupo. ¿Cuál de las siguientes afirmaciones sobre dicho programa es correcta?
+a) Los documentos de texto pueden tener como mucho hasta 100 KB mas 1 MB para imágenes incrustadas.
+b) Pueden abrirse hasta 3 documentos al mismo tiempo como mucho.
+c) Existe una versión de Google Docs para el iPhone que incluye la funcionalidad para la visualización y edición de presentaciones, junto con una interfaz diseñada específicamente para este dispositivo.
+d) Google Docs es actualmente soportado por Google Chrome, Mozilla Firefox e Internet Explorer pero no por Opera ni Safari.
+ANSWER: C
+
+20 ¿Qué resultado obtengo al aplicar la siguiente función en una tabla Excel? =CONTAR.SI(A2:B4;">15")
+a) Cuenta las veces que aparece un número mayor que 15 en la celdas A2, A3, A4, B2, B3, B4.
+b) Pone a True las celdas cuyo valor es mayor que 15 y a False el resto.
+c) Cuenta las veces que los números de la columna A superan en 15 unidades a los de la columna B.
+d) Cuenta las veces que aparece un número mayor que 15 en las celdas A1 y B4.
+ANSWER: A
+
+21 En Microsoft Excel para analizar, explorar y presentar un resumen de los datos de la hoja de cálculo o un origen de datos se utilizan:
+a) Las opciones de filtros.
+b) Los informes de tabla dinámica.
+c) Los libros contenidos en Excel.
+d) Las macros.
+ANSWER: B
+
+22 El contenido de la celda D1 de una tabla Excel es =SUMA($A$1:$C$1). Si hago la operación de Copiar y Pegar dicho contenido en la celda D2, ¿cuál será el contenido final de esa celda D2?
+a) =SUMA(A1:C1)
+b) =SUMA(A2:C2)
+c) =SUMA($A$1:$C$1)
+d) =SUMA($A$2:$C$2)
+ANSWER: C
+
+23 ¿Puedo controlar en Microsoft Access si se cumple la integridad referencial en una relación entre tablas?
+a) No, la integridad referencial sólo es una condición para bases de datos complejas.
+b) Sí, mediante el comando Integrity Ref.
+c) No, ya que es un concepto para relaciones en tercera forma normal.
+d) Sí, ya que se exige de forma predeterminada al crear una relación en el diagrama de base de datos.
+ANSWER: D
+
+24 Si quiero que en la celda c1 aparezca el número más alto de los contenidos en las celdas a1 y b1, el contenido de c1 sería:
+a) if al>bl then a1 eise b1
+b) =(a1>b1)
+c) c1=max (a1;b1)
+d) =SI(A1>B1;A1;B1)
+ANSWER: D
+
+25 ITIL define un incidente como:
+a) Cualquier evento que no forma parte del desarrollo habitual del servicio y que causa, o puede causar una interrupción del mismo o una reducción de la calidad de dicho servicio.
+b) Fallo sin un origen conocido que puede causar una interrupción del servicio o una reducción de la calidad de dicho servicio.
+c) Fallo con un origen conocido que puede causar una interrupción del servicio o una reducción de la calidad de d1cho servicio.
+d) Petición de cambio que puede ser realizda para solventar el error.
+ANSWER: A
+
+1 [RESERVA] SPF (Sender Policy Framework) es:
+a) Una protección contra los ataques de phising en la organización.
+b) Una protección contra ataquespor ingeniería social.
+c) Una protección contra los virus y bombas lógicas.
+d) Una protección contra la falsificación de direcciones en el envío de correo electrónico.
+ANSWER: D
+
+2 [RESERVA] Existe una relación n:m entre dos entidades en el Modelo Conceptual de Datos de una aplicación. Si se va a implementar como una relación normalizada en una base de datos relacional como Access o MySql, ¿cuántas tablas necesitaré como mínimo para poder incluir la relación entera en la base de datos?
+a) 1.
+b) 2.
+c) 3.
+d) 4.
+ANSWER: C
+
+3 [RESERVA] ¿Cuál de los siguientes NO es un cortafuegos (firewall)?
+a) hoax.
+b) Firestarter.
+q) ZoneAlarm.
+d) ipfw.
+ANSWER: A
