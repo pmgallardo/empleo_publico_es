@@ -1,0 +1,113 @@
+SUPUESTO BLOQUE IV
+
+Trabaja para una importante empresa en el sector de las TIC como asesor tecnolégico y le acaban de asignar a un nuevo cliente. Se trata
+de una empresa en la que se ha realizado una reestructuracién y se han unido los dos Departamentos de Sistemas existentes, uno de ellos
+utiliza software libre y el otro software propietario.
+
+Su tarea consiste en asesorar en todo el proceso de consolidacion, el cual incluye sistemas operativos, infraestructuras, bases de datos, etc.
+
+
+
+
+1. Se necesita listar todos los servicios que estan en ejecucién en las maquinas con Windows 7, équé ejecutable
+usaria?
+a) services.msc b)  service.msc
+c}  regedit.msc d) — servicesreg.msc
+ANSWER: A
+
+2. Existen unas maquinas con un Red Hat Enterprise Linux antiguo (RHEL versién Tikanga 5.5) y de cara a migrar a
+una versién mas actual se necesitan listar los paquetes instalados. 2Cémo lo haria?
+a) rpm -qi b) rpm-qa
+c) rpm-a d) srpm-al
+ANSWER: B
+
+3. Se desean actualizar todos los paquetes de las citadas RHEL (versién 5.5) a fa ditima versién, écémo lo haria?
+a} apt-get update b) apt-get update all
+c) yum update d) yum latest
+ANSWER: C
+
+4. Se estan produciendo errores de conexién que se centran en uno de los servidores cuya IP en la interfaz 2 es
+10.253.1.112 y como experto sabe que la herramienta TCPDUMP puede ayudarle. éCual seria el comando correcto
+si ademas se quieren guardar los resultados en un fichero?
+a) tcpdump -ni eth2 host 10.253.1.112 -dump fichero.log
+b) tcpdump -host 10,253.1.112 ni eth2 -w fichero.log
+c) tcpdump -ni eth2 host 10.253.1.112 fichero.log
+d) tcpdump -ni eth2 host 10.253.1.112 -w fichero.log
+ANSWER: D
+
+5. Dada la direccién IP anterior (10.253.1,112), le indican que la mascara de red es una 255,.255.192.0, entonces la
+direccién de broadcast seria:
+a) 10.253.63.255 b) 10.253.0.0
+c) = 10,253.0.255 d) = 10.253.63.0
+ANSWER: A
+
+6. Le comentan que tienen un proyecto de investigacién en una oficina a las afueras y que debido a una gran
+atenuacién en el enlace de fibra éptica la conexién puede considerarse inexistente. £Cudl puede ser la causa?
+a) Pérdidas por absorcién por las radiaciones exteriores.
+b) Pérdidas por absorcién por las capacidades pardsitas.
+¢)  Pérdidas por absorcién por las resistencias pardsitas,
+d) Pérdidas por absorcién por ios metales de transici6n.
+ANSWER: D
+
+7. Parece que el cambio en Ja red ha generado problemas en Ia interfaz 0 del servidor RHEL 7 de base de datos y el
+bonding no ha conmutado de manera automatica. éCémo bajaria la interfaz de red 0 en dicho servidor?
+a) down etho b)  ifdown ethd
+c) — ifoff etho d) eth0 down
+ANSWER: B
+
+8. Se necesitan resolver de manera inversa unas direcciones, écual seria el Protocolo adecuado?
+a) ARP b) ~ IARP
+c) RARP d) ARPR
+ANSWER: C
+
+9. Se precisa programar una sencilla aplicacién que compruebe que las comunicaciones se han restablecido
+correctamente, ésta no debe cargar mucho Ia red, no importa si se pierden paquetes y ha de ser rapida en el
+envio/recepcién. éQué protocolo de nivel de transporte OSI utilizaria para ello?
+a) TCP b) UDP
+c) HTTP d) IP
+ANSWER: B
+
+10. La seguridad en la empresa es un activo fundamental por lo que tienen una buena red perimetral y filtran todas
+las conexiones entrantes. Debido a esta red perimetral no esta seguro de si podré conectarse al puerto 1452 de su
+empresa (IP 10.25.44.195), en la cual escucha una aplicacién a la que necesita conectarse. éCémo podria
+comprobar usando el comando telnet si el puerto esté abierto?
+a) telnet 1452 10.25.44.195
+b) telnet 10.25.44,195:1452
+c) telnet 10.25.44.195 port 1452
+d) telnet 10.25.44.195 1452
+ANSWER: D
+
+11. Le piden que ayude con la configuracién de seguridad de sus sistemas Windows 7 y, lo primero que detecta es que ho tienen activo el firewall. £Cual es el comando correcto para hacerlo?
+a) netsh advfirewall set firewall state on
+b) netsh advfirewall set profile on
+c) netsh advfirewall set on
+d) netsh advfirewall set currentprofile state on
+ANSWER: D
+
+12. Una vez iniciado el firewall, se detecta la necesidad de aceptar conexiones entrantes por el puerto 80 usando el protocolo TCP, 2Cudl es el comando correcto?
+a) netsh advfirewall firewall add rule name="Open 80" dir=in action=allow protecol=TCP localport=80
+b) netsh advfirewall firewall add rule name="Open 80" dir=input action=allow protecol=TCP localport=80
+¢) netsh advfirewall firewall add rule name="Open 80" dir=input action=allow protocol=TCP port=80
+d) netsh advfirewall firewall add rule name="Open 80" dir=incoming action=allow protocol=TCP portlocal=80
+ANSWER: A
+
+1. [RESERVA] Detecta que fos sistemas Windows NO estén correctamente securizados, usted les propone el modelo de
+seguridad propuesto por ia ISO/IEC 27001. éCual es?
+a) PADC (Plan - Analysis - Design - Construction).
+b) ~—PDCA (Plan - Do - Check - Act).
+c) PCDA (Process - Control - Do - Act).
+d} PDAC (Plan - Design - Audit - Control).
+ANSWER: B
+
+2. [RESERVA] Debido a la importancia de la SAN en la empresa, desea comprobar que ios caminos no se han visto afectados por
+el corte de red en el servidor de base de datos. 2Cémo lo haria mediante comandos?
+a) multipath -a b) multipath -s
+c) multipath - r d) = multipath -l!
+ANSWER: D
+
+3. [RESERVA] Usted necesita conectarse a su empresa mediante el protocolo FTP para descargar unos ficheros, debido a la red perimetral y el filtrado de todas las conexiones entrantes, équé tipo de conexién FTP tendria que utilizar?
+a) Activa
+b) Mixta
+c) Pasiva
+d) Desatendida
+ANSWER: C

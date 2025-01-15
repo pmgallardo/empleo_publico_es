@@ -1,0 +1,197 @@
+BLOQUE IV
+
+1. Indique cual de ias siguientes funciones NO propia de un administrador del sistema:
+a) Realizacién de las copias de seguridad de los sistemas.
+b) Instalacién del software de base.
+c) Test de integracién de las aplicaciones.
+d) Creacién de cuentas de usuario.
+ANSWER: C
+
+2. ¿Cuál de las siguientes herramientas esta disefiada para administrar la configuracién de sistemas similares a Unix y a Microsoft Windows de forma declarativa y dispone de una interfaz grafica para la gestién?
+a) Puppet
+b) Maven
+c) Python
+d) CheSalt
+ANSWER: A
+
+3. Indique cual es el resultado de fa ejecucién del comando “cat fichero | we -I” en Unix:
+a) Muestra el contenido de fichero.
+b) El nimera de lineas que tiene fichero.
+¢) Muestra el directorio en que se encuentra fichero.
+d) Et numero de palabras que tiene fichero.
+ANSWER: B
+
+4. En Linux, écual es la finalidad del comando modprobe?
+a) Realiza test unitarios sobre cédigo C.
+b) Afiade o elimina médulos del kernet de Linux.
+¢) Afilade médulos del kernel de Linux, pero no permite eliminarlos.
+d) Es equivalente en funcionalidad a la que ofrece pvcreate.
+ANSWER: B
+
+5. El protocolo que protege contra Ia falsificacién de direcciones en el envio de correo electrénico identificando a los servidores de correo SMTP autorizados para el transporte de los mensajes a través de los registros de nombres de dominio (DNS) es:
+a) POP
+b) SPF
+c) OSPF
+d) IMAP
+ANSWER: B
+
+6. La RFC 2142 recopila las llamadas Well Known Mailboxes, sefiale de entre las siguientes, cud! NO es una direccién recogida en dicho documento:
+a) Host: para notificaciones sobre DNS.
+b) WWW: para notificaciones sobre HTTP.
+c) Postmaster: para notificaciones sobre SMTP.
+d) Webmaster: para notificaciones sobre HTTP.
+ANSWER: A
+
+7. En Tecnologias de la Informacién, se habla del modo promiscuo en ef contexto:
+a) Ejecucién de operaciones sobre bases de datos desde Java,
+b) Servidores all-purpose o multipropdsito.
+¢) Comunicaciones con certificado electrénico.
+d) Entomos de redes compartidas.
+ANSWER: D
+
+8. ¿Cuál de las siguientes direcciones IPv4 permite direccionar un host?
+a) 0.0.0.0
+b) 255.255.255.255
+c) 10.12.256.33
+d) 192.168.255.25
+ANSWER: D
+
+9. En relaci6n al protocolo Simple Network Management Protocol (SNMP), sefiale la afirmacién VERDADERA:
+a) La ultima versién del protocolo definida en un RFC (Request for Comments) es la versién 5.
+b) Fue estandarizado por la ITU-T (ITU Telecommunication Standardization Sector).
+c) La versi6n 3 del protocolo permite el uso de AES (Advanced Encryption Standard).
+d) Los puertos TCP/UDP cominmente utilizados para el paso de mensajes son el 20 y el 21.
+ANSWER: C
+
+10. En un sistema UNIX el comando "iw dev <interface name>" (<interface name> es uno de los posibles dispositivos existentes en la maquina), muestra al administrador de redes la informacién de la configuracién de:
+a) la interfaz Ethernet en la maquina.
+b) todas las interfaces Ethernet de la maquina.
+c) todas las interfaces inalambricas de la maquina.
+d) la interfaz inalambrica en la maquina.
+ANSWER: D
+
+11. En el Ambito de fa seguridad, équé se conoce como IP Splicing-Hijacking?
+a) Secuestro de sesién: Ef atacante espera a que la victima se identifique ante el sistema y tras ello le suplanta como usuario autorizado.
+b) Secuestro de navegacién: El atacante por medio de un troyano suplanta el navegador por otro ejecutable que redirecciona los contenidos.
+c) Secuestro de sistema: Es una variante de Spoofing que suplanta a un usuario para realizar saltos de sistemas en sistemas y realizar ataques de forma anénima o haciéndose pasar por otro.
+d) Secuestro de IP: El atacante genera paquetes de Internet con una direccién de red secuestrada en el campo From, pero que es aceptada por ej destinatario del paquete,
+ANSWER: A
+
+12. Los conectores ST y SC se utilizan para conexiones de:
+a) Fibra óptica.
+b) Cable coaxial.
+c) Par trenzado.
+d) Un PC a otro PC.
+ANSWER: A
+
+13. Indique la respuesta correctz, en un sistema de comunicaciones basado en conmutacién de:
+a) circuitos: no existe establecimiento de llamada (reserva de señal).
+b) paquetes: el establecimiento de llamada (reserva de señal) es requeride.
+¢) circuitos: los paquetes llegan en orden.
+d) paquetes: los paquetes llegan en orden.
+ANSWER: C
+
+14. De las siguientes opciones, ¿cuál es una técnica de transmisión de señales a través de fibra óptica?
+a) DWDM
+b) SCCM
+c) BGPM
+d) IBSM
+ANSWER: A
+
+15. El estándar que define las comunicaciones VLC (Visible Light Communication) es:
+a) IEEE 802.16.7
+b) IEEE 802.3
+c) IEEE 802.15.7
+d) IEEE 802.5
+ANSWER: C
+
+16. Eduroam es:
+a) Es un consorcio de roaming WIFI de las administraciones pUiblicas espafiolas.
+b) Es la red de datos paneuropea para fa comunidad educativa y de investigacién, que ofrece a los miembros acceso a Internet seguro utilizando las credenciales de la administracién publica paneuropea a la que estén adscritos.
+c) Es la red española para la interconexién de recursos informaticos de las universidades y centros de investigacion.
+d) Es un consorcio de roaming WIFI global, que ofrece a los miembros de la comunidad educativa y de investigacién acceso a Internet gratis utilizando fas credenciales de su institucién origen.
+ANSWER: D
+
+17. Versién del estandar IEEE 802.11 que se ha disefiado para permitir ef intercambio de datos entre vehiculos y entre automdviles e infraestructuras en carretera:
+a) IEEE 802.11k
+b) IEEE 802.11in
+c) IEEE 802.11p
+d) IEEE 802.11r
+ANSWER: C
+
+18. En una maquina conectada a la red ejecutamos el comando ipconfig o ifconfig y nos encontramos con la siguiente direccién IP: fe80::9d03:62a4:a670:911e%3 éCual es el significado de los caracteres "%3" en dicha direccion IP?
+a) Hacen referencia al indice de zona, tanto en sistemas Windows como en Linux, e! identificador que sigue al signo de porcentaje es un numero, que indica el interface al que corresponde Ia direccién IP.
+b) Hacen referencia al indice de zona, esta direccién se ha obtenido de un sistema Linux ya que el identificador que sigue al signo de porcentaje es un niimero, que indica el interface al que corresponde la direccidn IP,
+c) Hacen referencia al indice de zona, esta direcci6n se ha obtenido de un sistema Windows ya que el identificador que sigue al signo de porcentaje es un numero, que indica el interface al que corresponde la direccion IP.
+d) La salida de un comando ipconfig 0 ifconfig no puede dar como respuesta una direccién con esa estructura.
+ANSWER: C
+
+19. La direccién de red asociada a la IP 100.100,.14.35 con mascara de red 255.240.0.0 es:
+a) 100.100.0.0
+b) 100.0.0.0
+c) 100.96.0.0
+d) 100.64.0.0
+ANSWER: C
+
+20. En IPv6, las direcciones FFO0::/8 son:
+a) Anycast
+b) Multicast
+c) Unicast
+d) Loopback
+ANSWER: B
+
+21. Tras una solicitud HTTP, el cédigo de respuesta 503 indica:
+a) Pasarela incorrecta.
+b) Error interno.
+C) Servicio no disponible.
+d)  Versién de HTTP ne soportada.
+ANSWER: C
+
+22. éCual de los siguientes es un servidor de correo en distribuciones Linux?
+a) aptana
+b) squid
+c) postfix
+d) ansible
+ANSWER: C
+
+23. Una de las posibles difusiones de la hora legal espafiola se realiza mediante el uso del protocolo NTP. De entre las siguientes opciones, <cual es el servidor oficial a través del que se debe realizar dicha peticién?
+a) ntp.redris.es
+b) hora.cora.es
+c) roa.hora.es
+d) hora.roa.es
+ANSWER: D
+
+24. Lasolucién VPN, que es open source y hace uso del estandar SSL/TLS se denomina:
+a) PPTP
+b) L2TP
+c) OpenVPN
+d) FreeVPN
+ANSWER: C
+
+25. Señale la afirmacién verdadera:
+a) Los XML-Firewall analizan mensajes XML, por lo que son especialmente indicados para arquitecturas basadas en servicios web.
+b) Los SQL-Firewall protegen de ataques transmitidos a través de cddigo SQL como el "SQL injection".
+c) Los Java-Firewall permiten incluir reglas especificas para la ejecucién segura de applets externamente a la "sandbox" del navegador.
+d) Los SIG-Firewall permiten el intercambio seguro de datos georreferenciados enviados desde dispositivos méviles.
+ANSWER: A
+
+1. [RESERVA] ¿Cuál es el tamaño en bits del campo Next Header en una cabecera del protocolo AH de IPSEC?
+a) 8
+b) 16
+c) 24
+d) 32
+ANSWER: A
+
+2. [RESERVA] La Guia CCN-STIC-461 sobre seguridad en Drupal, recomienda una vez instalado cambiar el usuario administrador de la base de datos MySQL, écuail seria ese comando para una versién de MySQL superior a la 5.0.27
+a) CHANGE USER roct TO nuevo_user
+b) REVOKE USER root TO nuevo_user
+c) RENAME USER root TO nuevo_user
+d) No existe la opcién de renombrar un usuario.
+ANSWER: C
+
+3. [RESERVA] En el ambito de la seguridad de los sistemas informaticos, los sistemas “honeypots” son sistemas:
+a) aparentemente vulnerables (reales o simulados) cuya intencién es atraer a los atacantes.
+b) que analizan los eventos que se producen en un equipo (host) concrete para determinar si esta sufriendo un ataque de los denominados "honey malware".
+c) que monitorizan todo el trafico de una porcién de la red.
+d) que realizan principalmente las mismas funciones que un proxy pero con posibilidad de analizar los ataques denominados “honey malware",
+ANSWER: A

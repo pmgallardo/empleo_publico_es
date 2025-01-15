@@ -1,0 +1,23 @@
+# Sistemas operativos: UNIX, Linux y Windows.
+# Lenguajes de programación C, C++, Shell-Script,.Net.
+# Modelo de bases de datos relacionales.
+# Herramientas de desarrollo de aplicaciones de ORACLE.
+# Bases de datos documentales.
+# Arquitecturas y protocolos de comunicaciones. TCP/IP.
+# Redes de área local y redes inalámbricas.
+# Sistemas de ficheros de red.
+# Configuración y administración del correo electrónico.
+# Servicios de Internet.
+# Distribución de servicios multimedia a través de Internet. Streaming.
+# Programación en entorno Windows.
+# Sistemas de almacenamiento de datos.
+# Seguridad y protección de sistemas, redes y comunicaciones.
+# Entorno de desarrollo JAVA. Servlets, JSP.
+# Aplicaciones web. HTML, JavaScript.
+# Intercambio de datos entre aplicaciones. Servicios Web. XML.
+# Arquitectura de aplicaciones. Modelo de 3 capas.
+# Certificación y firma electrónica.
+# Identificación y autenticación de usuarios. Directorios LDAP.
+# Ofimática: Paquetes y Herramientas.
+# Documentación de aplicaciones.
+# Conocimientos de inglés técnico.

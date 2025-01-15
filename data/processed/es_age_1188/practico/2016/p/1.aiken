@@ -1,0 +1,174 @@
+
+SUPUESTO BLOQUE III
+
+Le encomiendan hacer un sistema de informacién que se encargue de la gestién interna de las incidencias que recibe su Subdirecci6n. El desarrallo se haré mediante MVC y HTMLS con tecnologia .NET (Visual Studio, C#}, JavaScript y SQL Server. El sistema tiene que ser capaz de dar de aita incidencias de los distintos sistemas actuales indicando una informacién bésica como:
+
+- La pricridad que tiene cada incidencia (baja, alta, critica...).
+
+~ El responsabie de la misma (un empleado con dni, nombre, apellidos...),
+
+- El area al que pertenecen tanto la incidencia como los responsables (desarrollo, sistemas...) .
+
+- La aplicacion o el sistema afectado.
+
+A continuacién se muestra un subconjunto del diagrama entidad relacién del proyecto:
+
+Ss
+
+Prioridcad
+
+ATP a
+. 1
+=. a i ; “
+Descripcion Descorapeién
+N /
+Tiempo estameda |
+N N j ; Apellidos
+7 3 in
+. Resuelta? bdireccion
+4/7
+:
+. Apli Re 7 )
+phi caci ts Responsable .
+
+Consexspesena >
+
+1. Tras pasar el modelo conceptua! a un modelo relacional tenemos la siguiente relacién: Responsable (NiF (k),
+Nombre, Apellidos, Subdireccion, Subdirector). 2En qué forma normal FN esta?
+a} 18 Forma Normal (FN).
+b) 2FN
+c) 3FN .
+d) FNBC (Forma normal de Boyce-Codd).
+ANSWER: B
+
+2. Queremos crear la tabla correspondiente a la tabla Incidencia_aplicacion que relaciona ambas tablas 2Cual seria
+la sentencia SQL a ejecutar?
+a) CREATE TABLE Incidencia_aplicacion (ID_INCIDENCIA int NOT NULL, ID_APLICACION int NOT NULL, PRIMARY KEY
+(ID_INCIDENCIA, ID_APLICACION)); ,
+b) CREATE TABLE Incidencia_aplicacion (ID_INCIDENCIA int NOT NULL, ID_APLICACION int NOT NULL, CONSTRAINT
+PRIMARY KEY (ID_INCIDENCIA), CONSTRAINT PRIMARY KEY (ID_APLICACION));
+¢) CREATE TABLE Incidencia_aplicacion (ID_INCIDENCIA int NOT NULL, ID_APLICACION int NOT NULL, foreign KEY
+{(ID_INCIDENCIA), foreign KEY (ID_APLICACION));
+d) CREATE TABLE Incidencia_aplicacion (ID_INCIDENCIA int NOT NULL, ID_APLICACION int NOT NULL, foreign KEY
+(ID_INCIDENCIA, ID_APLICACION));
+ANSWER: A
+
+3. Una vez creada [a tabla Incidencia_Aplicacion queremos afiadirle una referencia externa a la tabla Incidencia de tal manera que cuando se borre un registro en Incidencia se borren todos los de Incidencia_Aplicacion relacionados, que sentencia deberia ejecutar?
+a) ALTER TABLE Incidencia_Aplicacion ADD DELETE CASCADE CONSTRAINT FK_Incidencia_Aplicacion FOREIGN KEY (ID_INCIDENCIA) REFERENCES Incidencia (ID);
+b) ALTER TABLE Incidencia_Aplicacion ADD CONSTRAINT FK_incidencia_aplicacion FOREIGN KEY (ID_INCIDENCIA) REFERENCES Incidencia (ID) ON DELETE CASCADE; .
+c) ALTER TABLE Incidencia_Aplicacion ADD FOREIGN KEY FK_Incidencia_Aplicacion (ID_INCIDENCIA) REFERENCES Incidencia (ID) ON DELETE CASCADE;
+d) ALTER TABLE Incidencia_Aplicacion ADD DELETE CASCADE FOREIGN KEY F_Incidencia_Aplicacion (ID_INCIDENCIA) REFERENCES Incidencia (ID);
+ANSWER: B
+
+4. Para un informe necesitamos contar el numero de incidencias por area, écuadl cree que deberia ser la consulta SQL?
+a) select count(*), Area.Descripcion from Incidencia, Area where Incidencia.IDArea=Area.ID;
+b) select count(*}, Area.Descripcion from Incidencia, Area where Incidencia.IDArea=Area.ID group by Area.Descripcion;
+c) select count(Incidencia.ID), Area.descripcion from Incidencia, Area having Area.ID;
+d) select count(Incidencia.ID), Area.Descripcion from Incidencia, Area where Incidencia.IDArea=Area.ID group by Area.ID having Area.1D;
+ANSWER: B
+
+5. En el proyecto necesitamos varios paquetes come JQuery, el] propio Entity Framework, etc. éQué gestor de paquetes integrado en el-Visual Studio podemos usar para descargarlos?
+a) Microsoft Download Center.
+b) NuGet.
+c) Team Foundation Server.
+d) No existe ninguno, habria que afiadirlos como referencias en el proyecto.
+ANSWER: B
+
+6. Este es el cédigo inicial de la clase Incidencia que usaremos en la ldgica de negocio, suponiendo que existe ya una clase llamada Prioridad, écompilaria correctamente?
+Public class Incidencia{
+private int id;
+public int ID {
+get { return this.id; }
+set { this.id = value; }
+
+}
+public Prioridad prioridad { get; set; }
+a) _No, la propiedad prioridad de 1a clase Incidencia esta vacia.
+b) No, una propiedad de una clase no puede devolver un objeto.
+c) No, la clase no tiene constructor.
+d) Si.
+ANSWER: D
+
+7. Si en C# quisiéramos dividir la clase Incidencia en subclases, una de ellas famada IncidenciaInterna, écOmo
+podriamos codificarla?
+a) public class IncidenciaInterna extends Incidencia { }
+b) public class Incidencia extends IncidenciaInterna { }
+c) public class IncidenciaInterna : Incidencia { }
+d) public class Incidencia : IncidenciaInterna { }
+ANSWER: C
+
+8. En el siguiente fragmento de cédigo de C#, Equé cédigo tendria que poner en lugar del simbolo "*" para recuperar
+las incidencias con prioridad alta?
+List<Incidencia> ListadeIncidencias=getIncidencias_de_BBDD();
+List<Incidencia> ListadeIncidenciasConPrioridadAlta=*
+a) — ListadeIncidencias.Where(c => c.prioridad.descripcion == "Alta"), ToList();
+b) __ListadeIncidencias. Where(Prioridad.descripcion == "Alta").ToList();
+¢) from incidencia in ListadeIncidencias Where incidencia.prioridad,descripcion == "Alta";
+d) from incidencia in ListadeIncidencias Where prioridad.descripcion == "Alta";
+ANSWER: A
+
+9. Queremos modificar con jQuery una pagina una vez cargada junto a su contenido adicional (imagenes, hojas de
+estilo), den qué método tendriamos que poner ef cédigo?
+a) .on_load()} b) —.on_init()
+c)  .page_load() d)  .ready()
+ANSWER: D
+
+10. Todavia no todos los usuarios tienen un navegador con soporte completo de HTMLS5, éQué libreria JavaScript esta
+especificamente dedicada a detectar que caracteristicas de HTML5 podemos usar y cuales no?
+a) Angular b) jQuery
+c) Moment d) = Modernizr
+ANSWER: D
+
+11. Queremos deshabilitar el control txtDescripcion de tal manera que no se pueda cambiar el valor cuando estemos
+en modo lectura pero que si que se pueda copiar ef valor al portapapeles para pasarlo por ejemplo al Notepad
+<input type="text" name="txtDescripcion" value="">. 2Qué atributo de HTMLS podriamos poner?
+a) disabled b) enabled="false”
+c) readonly d) Noes posible sdlo con HTML.
+ANSWER: C
+
+12. Se quiere dar acceso a dispositivos méviles, smartphones y tablets ademas de los ordenadores de sobremesa.
+€Qué disefio tendriamos que utilizar para adaptar nuestras paginas en funcién del dispositivo utilizado?
+a) Chameleon b) Responsive
+c) Mobile d) Changelling
+ANSWER: B
+
+1. [RESERVA] Queremos declarar un array en C# para almacenar los 10 cédigos de incidencia que mostraremos en pantalla en un momento dado, écual de [as siguientes opciones es la correcta?
+a) fint codIncidencia[10];
+b) int[10} codIncidencia;
+c) int[] codIncidencia = new int[{10];
+d) int codincidencia[] = new int{10];
+ANSWER: C
+
+2. [RESERVA] Queremos recuperar todas las incidencias con prioridad critica. Sabiendo que puede haber registros en la tabla de
+Prioridades que no estén en la de Incidencias Zcudl cree que deberia ser la consulta SQL sobre la base de datos?
+a) select Incidencia.ID from Incidencia, Prioridad where Prioridad.Descripcion="critica';
+b) select Incidencia.ID from Incidencia inner join Prioridad on Incidencia.IDPrioridad=Prioridad.ID where Prioridad.Descripcion='critica’s
+c) select Incidencia.ID from Incidencia left outer join Prioridad where Prioridad.Descripcion='critica' and Prioridad.1D is not null;
+d) select Incidencia.ID from Incidencia right outer join Prioridad where Pricridad.Descripcion="critica’ and Prioridad.ID is not null;
+ANSWER: B
+
+
+3. [RESERVA] Partiendo de una tabla Prioridad vacia, Ecudntos registros habria en dicha tabla tras ejecutar fas siguientes
+
+sentencias?
+
+Insert into Prioridad values (1,'critica');
+
+begin tran;
+
+insert into Prioridad values (2,’alta‘);
+
+commit;
+
+truncate tabfe Prioridad;
+
+begin tran;
+
+insert into Pricridad values (3,'baja');
+
+rollback;
+a) 0 b) 1
+c) 2 d) 3
+ANSWER: A
+
+

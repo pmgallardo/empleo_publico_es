@@ -1,0 +1,706 @@
+1) ¿Cuántos números distintos pueden representarse con un byte de información?:
+a) 1
+b) 2
+c) 256
+d) 1024
+ANSWER: C
+
+2) Indique cuál de los siguientes NO es un sistema de codificación de caracteres:
+a) Windows CP-1252
+b) UUIC-8254
+c) ISO-8859-1
+d) UTF-8
+ANSWER:  B
+
+3) ¿Qué es un nibble?:
+a) Una agrupación de 2 bits
+b) Una agrupación de 4 bits
+c) Una agrupación de 2 bytes
+d) Una agrupación de 4 bytes
+ANSWER:  B
+
+4) ¿Cuál de los siguientes algoritmos de ordenación tiene una complejidad temporal media de orden O(n log(n))?:
+a) Bubble Sort
+b) Selection Sort
+c) Heap Sort
+d) Insertion Sort
+ANSWER: C
+
+5) En arquitectura de computadores, ¿qué es el tamaño o longitud de palabra de una máquina?:
+a) El máximo número de letras que puede contener una palabra
+b) El máximo número de dispositivos que se pueden conectar a la máquina
+c) El máximo número de hilos de ejecución que puede ser gestionado simultáneamente por la máquina
+d) El número de bits que son manejados como un conjunto por la máquina
+ANSWER: D
+
+6) Una puerta lógica de tipo XOR con dos entradas devuelve un valor de 1:
+a) Cuando sus dos entradas tienen valor 1
+b) Cuando alguna de sus entradas vale 1
+c) Cuando ninguna de sus entradas vale 1
+d) Cuando solo una de sus entradas vale 1
+ANSWER: D
+
+7) Indique cuál de los siguientes componentes de un equipo informático NO es un componente hardware:
+a) La CPU
+b) La memoria RAM
+c) El sistema operativo
+d) El teclado
+ANSWER: C
+
+8) [ANULADA] Indique cuál de los siguientes dispositivos incorpora un teclado físico en su configuración básica:
+a) Apple iPad Pro
+b) Microsoft Surface Pro
+c) Samsung Galaxy Tab S3
+d) Amazon Kindle Paperwhite
+ANSWER:
+
+9) Indique cuál de las siguientes siglas NO corresponde a un tipo de monitor, según la tecnología empleada para formas las imágenes:
+a) CRT
+b) LCD
+c) ARP
+d) TFT
+ANSWER: C
+
+10) Indique cuál de los siguientes términos se refiere a una tecnología de Apple que permite la impresión de documentos a través de una red WIFI:
+a) AirPrint
+b) iPrint
+c) WIFIPrint
+d) ePrint
+ANSWER: A
+
+11) Indique cuál de los siguientes términos NO corresponde a un estándar o protocolo relacionado con el escaneo de documentos:
+a) Twain
+b) WIA
+c) Sane
+d) Wane
+ANSWER: D
+
+12) En el contexto de sistemas de almacenamiento, ¿qué significan las siglas NAS?:
+a) Not Asynchronous Storage
+b) Network Asynchronous Storage
+c) Network Available Storage
+d) Network Attached Storage
+ANSWER: D
+
+13) Indique cuál de los siguientes términos NO corresponde a una tecnología utilizada en los discos de estado sólido (SSD):
+a) Single-level cell (SLC)
+b) Binary-level cell (BLC)
+c) Triple-level cell (TLC)
+d) Multi-level cell (MLC)
+ANSWER: B
+
+14) Indique cuál de las siguientes utilidades de la línea de comandos de Linux se utiliza para realizar un clonado de un disco duro a otro:
+a) dd
+b) fd
+c) dc
+d) fc
+ANSWER: A
+
+15) Indique cuál de los siguientes términos corresponde al nombre de una herramienta de clonado de discos duros de código abierto (open source):
+a) Clonezilla
+b) Ghost
+c) Partition Magic
+d) TOCP (The Open Clon Project)
+ANSWER: A
+
+16) ¿Qué versión de Internet Explorer se distribuye con Microsoft Windows 10?:
+a) 9
+b) 10
+c) 11
+d) No se incluye Internet Explorer, solo Microsoft Edge
+ANSWER: C
+
+17) Señale el comando Linux correcto a ejecutar si queremos cambiar el nombre del directorio “documentos” por el nombre “archivos”:
+a) mv documentos archivos
+b) rm documentos archivos
+c) cp documentos archivos
+d) rd documentos archivos
+ANSWER: A
+
+18) Indique cuál de las siguientes NO se corresponde con una distribución del sistema operativo Linux:
+a) Ubuntu
+b) RedHat
+c) CentOS
+d) Delorean
+ANSWER: D
+
+19) Señale el comando Linux que se puede utilizar para asegurarse de que el fichero "prueba" existe:
+a) cp prueba /dev/null
+b) touch prueba
+c) create prueba
+d) mkfile prueba
+ANSWER: B
+
+20) Indique cuál de los siguientes sistemas de archivo NO es soportado de forma nativa por el sistema operativo Microsoft Windows 10:
+a) ExFAT
+b) FAT32
+c) Ext4
+d) NTFS
+ANSWER: C
+
+21) En el sistema operativo Microsoft Windows 7, ¿cómo se llama la herramienta que permite ver los logs del sistema?:
+a) Event viewer
+b) Log viewer
+c) Control panel
+d) Crash report viewer
+ANSWER: A
+
+22) En los sistemas operativos Microsoft Windows, ¿cuál de las siguientes extensiones está asociada a un archivo que contiene un instalador de una aplicación?:
+a) “.ins”
+b) “.min”
+c) “.xls”
+d) “.msi”
+ANSWER: D
+
+23) En el sistema operativo Microsoft Windows 10, ¿cuál de las siguientes extensiones de fichero NO está asociada habitualmente a un contenido ejecutable?:
+a) “.bat”
+b) “.cmd”
+c) “.exe”
+d) “.run”
+ANSWER: D
+
+24) Indique qué utilidad del sistema operativo Microsoft Windows 7 sirve para registrar
+una librería “.dll”:
+a) regsvr32
+b) reglib
+c) regedit
+d) regdll
+ANSWER: A
+
+25) Los comandos que se ejecutan en Windows PowerShell se denominan:
+a) cmdlets
+b) scriptlets
+c) javascript
+d) shellscripts
+ANSWER: A
+
+26) ¿Cuál de las siguientes extensiones de fichero está asociada a una plantilla de Microsoft Word 2010?:
+a) .doc
+b) .pla
+c) .dot
+d) .mkr
+ANSWER: C
+
+27) En Word 2010 para Windows, indique cuál de las siguientes combinaciones de teclas (método abreviado) permite cambiar una palabra seleccionada a mayúsculas o a minúsculas:
+a) CTRL + M
+b) CTRL + C
+c) MAYÚS + F5
+d) MAYÚS + F3
+ANSWER: D
+
+28) En Excel 2010, ¿con qué símbolo deben comenzar las fórmulas?:
+a) ?
+b) %
+c) #
+d) =
+ANSWER: D
+
+29) En Excel 2010, ¿cuál de las siguientes opciones es una referencia absoluta?:
+a) B3
+b) $B3
+c) $B$3
+d) B$3
+ANSWER: C
+
+30) En Excel 2010, ¿cuál de las siguientes es una función de tipo “Texto”?:
+a) IZQUIERDA
+b) CORRESPONDE
+c) PENDIENTE
+d) ALEATORIO
+ANSWER: A
+
+31) En Excel 2010, ¿cuál es la sintaxis correcta de la función SI?:
+a) SI(Verdadero;Falso)
+b) SI(Condición(Verdadero;Falso))
+c) SI(Condicion;Verdadero;Falso)
+d) SI(Condicion.Verdadero.Falso)
+ANSWER: C
+
+32) Indique cuál de los siguientes productos NO forma parte de la suite Office 365:
+a) Excel
+b) OneNote
+c) OneProject
+d) OneDrive
+ANSWER: C
+
+33) Indique cuál de los siguientes números de puerto TCP es utilizado habitualmente por el protocolo SMTP:
+a) 25
+b) 26
+c) 27
+d) 28
+ANSWER: A
+
+34) ¿Cuáles son las siglas que se utilizan habitualmente para denominar al cliente de correo web de Microsoft Outlook?:
+a) OWM (Outlook Web Mail)
+b) OWA (Outlook Web Access)
+c) MOW (Microsoft Outlook Web)
+d) EWM (Exchange Web Mail)
+ANSWER: B
+
+35) ¿Cuál de los siguientes términos NO es un protocolo asociado al envío o recepción de correo electrónico?:
+a) IMAP
+b) WMAI
+c) POP3
+d) SMTP
+ANSWER: B
+
+36) En Linux, ¿cuál es el nombre de un popular agente de transporte de correo electrónico que permite encaminar los mensajes de correo a su destino?:
+a) sendmail
+b) mailroute
+c) mymail
+d) mailsrch
+ANSWER: A
+
+37) Indique cuál de los siguientes NO es un rol de servidor en la arquitectura estándar de Exchange 2013 Server:
+a) Client Access Server
+b) Mailbox Server
+c) Foundation Server
+d) Edge Transport Server
+ANSWER: C
+
+38) ¿Cuál de los siguientes requisitos debe cumplir un fichero PDF para ser accesible (su contenido es accesible para todos los usuarios independientemente de su discapacidad o contexto de uso)?:
+a) Todo el contenido del PDF debe estar correctamente etiquetado
+b) Se especifica el idioma del documento
+c) Se proporciona un texto alternativo a los objetos no textuales como las imágenes
+d) Todas las anteriores
+ANSWER: D
+
+39) Indique cuál de las siguientes funcionalidades NO puede realizarse en el programa Adobe Acrobat Reader de forma gratuita:
+a) Resaltar un texto de un archivo PDF
+b) Rellenar un formulario electrónico en formato PDF
+c) Exportar un archivo PDF a formato Word
+d) Incluir comentarios en un archivo PDF
+ANSWER: C
+
+40) ¿Qué es PDF/A?:
+a) Un tipo especial de fichero PDF que garantiza la accesibilidad a personas con diversidad funcional
+b) Un estándar de Adobe para firma digital de ficheros PDF
+c) Una versión del formato PDF pensada para el archivado y conservación a largo plazo de los documentos
+d) Una extensión del formato PDF para su uso en el sistema operativo MacOS
+ANSWER: C
+
+41) En la consola de comandos de Windows 10, ¿qué utilidad usaría para obtener la dirección IP de un servidor a partir de su nombre de dominio?:
+a) nslookup
+b) ipsolve
+c) netstat
+d) ipconfig
+ANSWER: A
+
+42) El comando tracert en la consola de comandos de Windows:
+a) Se utiliza para conocer el interfaz de acceso a internet
+b) Se utiliza para mostrar los cortafuegos que tiene activados la red
+c) Muestra los saltos entre los distintos dispositivos de red hasta llegar a su destino
+d) Es similar al comando netstat
+ANSWER: C
+
+43) ¿Qué tipos de cable de fibra óptica existen, atendiendo a las diferentes
+trayectorias que puede seguir un haz de luz en su interior?:
+a) unidireccional y bidireccional
+b) trayectoria única o trayectoria conmutada
+c) categoría 1, categoría 2 y categoría 3
+d) monomodo y multimodo
+ANSWER: D
+
+44) ¿De cuántas capas consta el protocolo TCP/IP?:
+a) 2
+b) 4
+c) 6
+d) 7
+ANSWER:B
+
+45) ¿A qué nivel de OSI es equivalente el protocolo IP (Internet Protocol)?:
+a) Physical
+b) Data
+c) Network
+d) Transport
+ANSWER: C
+
+46) ¿Qué significan las siglas del mecanismo NAT utilizado en los routers IP?:
+a) Not Asynchronous Transport
+b) Network Asynchronous Transport
+c) Network Address Translation
+d) Novell Address Transport
+ANSWER: C
+
+47) Indique cuál de los siguientes números de puerto TCP es utilizado habitualmente por el protocolo FTP:
+a) 21
+b) 22
+c) 23
+d) 24
+ANSWER: A
+
+48) ¿Cuál de los siguientes términos NO está relacionado con el cifrado de las comunicaciones en una red WIFI?:
+a) AFP
+b) WPA2
+c) TKIP
+d) AES
+ANSWER: A
+
+49) ¿Cuál de las siguientes bandas de comunicaciones puede ser utilizada por dos dispositivos que se comunican vía WIFI?:
+a) Banda de los 5GHz
+b) Banda de los 33 GHz
+c) Banda de los 10 MHz
+d) Banda de los 50 MHz
+ANSWER: A
+
+50) ¿Cuál es la velocidad máxima de transmisión de datos de un puerto USB 3.0?:
+a) 500 Mbps
+b) 1 Gbps
+c) 5 Gbps
+d) 10 Gbps
+ANSWER: C
+
+51) Si tiene una cuenta de correo electrónico en Gmail, ¿puede leer el correo de esta cuenta en su dispositivo móvil?:
+a) No
+b) Solo si el sistema operativo del dispositivo es Android
+c) Solo si el sistema operativo del dispositivo es iOS
+d) Si, tanto si el sistema operativo del dispositivo es Android como iOS
+ANSWER: D
+
+52) ¿Cuál de los siguientes nombres corresponde al de un conocido software de gestión de dispositivos móviles (MDM)?:
+a) AirBomb
+b) MobileIron
+c) MDManager
+d) Cyriux
+ANSWER: B
+
+53) Indique cuál de las siguientes características NO corresponde al chip Apple A11 Bionic, que incorpora el modelo iPhone 8:
+a) 16 cores
+b) Tecnología ARM
+c) Tecnología de 64 bits
+d) GPU integrada
+ANSWER: A
+
+54) Indique cuál de los siguientes nombres se corresponde con una versión del sistema operativo Android:
+a) Starcraft
+b) Lollipop
+c) OpenBean
+d) Croissant
+ANSWER: B
+
+55) ¿Qué significan las siglas NFC?:
+a) Narrow File Connection
+b) Near Field Communication
+c) Nec Field Connection
+d) Not Frontal Communication
+ANSWER: B
+
+56) ¿Qué significan las siglas HTTP?:
+a) HyperText Transfer Protocol
+b) HyperLink Transfer Protocol
+c) HyperText Technology Protocol
+d) HyperLink Technology Protocol
+ANSWER: A
+
+57) ¿Cuáles son las siglas asociadas al servicio de Internet que permite, dado un nombre de dominio, obtener su dirección IP?:
+a) HTTP
+b) DNS
+c) IPService
+d) RAP
+ANSWER: B
+
+58) ¿Cuál de los siguientes NO es un servicio que permite la centralización de la autenticación de los usuarios?:
+a) NIS
+b) LDAP
+c) Active Directory
+d) OIDAP
+ANSWER: D
+
+59) En el protocolo HTTPS, ¿cómo se denomina comúnmente al proceso inicial de intercambio de información entre el cliente y el servidor para el establecimiento de las claves de comunicación para la conexión segura?:
+a) Handshake
+b) SKS (Secure Key Sharing)
+c) KeySharing
+d) SSL-Startup
+ANSWER: A
+
+60) ¿Qué significan las siglas del protocolo TLS?:
+a) Telnet Level Synchronization
+b) Telnet Level Security
+c) Transport Layer Server
+d) Transport Layer Security
+ANSWER: D
+
+61) Indique cuál de los siguientes NO se corresponde con un método de petición HTTP:
+a) GET
+b) POST
+c) PUT
+d) PUSH
+ANSWER: D
+
+62) ¿Cuál es la forma de incluir un comentario dentro de una página HTML?:
+a) Con 3 asteriscos al principio y final del comentario.
+Ejemplo: ***comentario***
+b) Con 3 barras al principio y final del comentario.
+Ejemplo: ///comentario///
+c) Con 2 barras al principio y al final del comentario.
+Ejemplo: //comentario//
+d) Con la etiqueta <!-- antes del comentario y --> después del comentario.
+Ejemplo: <!--comentario-->
+ANSWER: D
+
+63) ¿Cuál es la sintaxis correcta para la declaración de un fichero XML?:
+a) <xml version="1.0" >
+b) <xml version="1.0" />
+c) <?xml version="1.0" />
+d) <?xml version="1.0"?>
+ANSWER: D
+
+64) En el contexto de XML, ¿qué significa DTD?:
+a) Document Type Definition
+b) Dynamic Type Definition
+c) Direct Type Definition
+d) Diverse Type Definition
+ANSWER: A
+
+65) ¿Cómo se denominan las pautas de accesibilidad para el contenido de una página web definidas por el W3C?:
+a) WPAP
+b) WCAP
+c) WCAG
+d) WPAG
+ANSWER: C
+
+66) Seleccione la opción SQL correcta para devolver todas las filas de una tabla llamada “enmiendas” ordenadas descendentemente por la columna “titulo”:
+a) SELECT * FROM enmiendas SORT BY titulo DESC
+b) SELECT * FROM enmiendas ORDER BY titulo DESC
+c) SELECT * FROM enmiendas ORDER titulo DESC
+d) SELECT * FROM enmiendas SORT titulo DESC
+ANSWER: B
+
+67) ¿Qué sentencia SQL de las siguientes pertenece a la categoría de DDL?:
+a) SELECT
+b) DELETE
+c) DROP
+d) UPDATE
+ANSWER: C
+
+68) ¿Cuál es la sintaxis correcta en SQL para borrar los registros cuyo campo "nombre" sea "Leo" de la tabla “trabajadores”?:
+a) DELETE ROW nombre='Leo' FROM trabajadores
+b) DELETE FROM trabajadores WHERE nombre = 'Leo'
+c) DELETE ROWS trabajadores WHERE nombre='Leo'
+d) DELETE trabajadores HAVING nombre = 'Leo'
+ANSWER: B
+
+69) En una Base de Datos relacional, desea añadir una nueva columna a una tabla existente. ¿Qué sentencia SQL debería utilizar?:
+a) ALTER TABLE
+b) MODIFY TABLE
+c) NEW COLUMN
+d) MODIFY COLUMN
+ANSWER: A
+
+70) Señale cuál de los siguientes términos NO corresponde con el nombre de un sistema de gestión de bases de datos:
+a) PostgreSQL
+b) MySQL
+c) SofiaDB
+d) MariaDB
+ANSWER: C
+
+71) En la línea de comandos de Linux, ¿qué comando podría utilizar para comprobar si existe conectividad con una máquina desde su equipo local?:
+a) cat
+b) more
+c) hosts
+d) ping
+ANSWER: D
+
+72) En mayo de 2017 el virus conocido como "WannaCry" encriptó los datos de miles de ordenadores de todo el mundo. Para poder recuperar dichos datos, se pedía el pago de una cantidad como rescate. ¿A qué categoría de software malicioso corresponde este tipo de virus?:
+a) Ransomware
+b) AdWare
+c) Malware
+d) Zero-day
+ANSWER: A
+
+73) ¿Cuál de los siguientes términos corresponde a un protocolo de Microsoft que permite la compartición remota del escritorio?:
+a) RDP
+b) MDP
+c) DSP
+d) AMP
+ANSWER: A
+
+74) ¿Cuál de los siguientes términos NO se corresponde con el nombre de un conocido software antivirus?:
+a) Panda Antivirus
+b) AVG Antivirus
+c) ESET Nod32 Antivirus
+d) Iridium Antivirus
+ANSWER: D
+
+75) ¿En qué consiste un ataque DDoS?:
+a) Se infiltra código SQL en el formulario de una página web para conseguir que se ejecute en el servidor
+b) Se realiza un escaneo de los puertos TCP del servidor para encontrar vulnerabilidades
+c) Se intercepta una comunicación entre dos sistemas, colocándose entre medias de emisor y receptor
+d) Se ataca a un servidor desde muchos ordenadores inundándolo de peticiones para que deje de funcionar
+ANSWER: D
+
+76) Un ataque ARP Spoofing habitualmente se utiliza para:
+a) Hacer que un equipo crea que la MAC de una IP local es la de otro equipo de la misma red
+b) Hacer creer a una persona que un email procede de una fuente confiable de correo electrónico
+c) Hacer creer que una web es segura accediendo por HTTPS, cuando en realidad el certificado está revocado
+d) Saturar un servidor de internet enviándole millones de peticiones TCP/IP desde diversos equipos
+ANSWER: A
+
+77) ¿Qué es Microsoft SCCM?:
+a) Una solución de software de administración para grandes grupos de ordenadores en red basados en Windows
+b) Una solución antivirus de Microsoft, que funciona en sistemas operativos Windows
+c) Una solución de Microsoft que se integra en Visual Studio para facilitar el desarrollo de drivers
+d) Una aplicación que permite acceder a Office 365 desde dispositivos móviles iOS y Android
+ANSWER: A
+
+78) En el contexto de los cortafuegos, señale la respuesta correcta en relación con la comparación entre un IPS y un lDS:
+a) El IPS surgió antes que el IDS
+b) El IDS puede reaccionar proactivamente a las intrusiones detectadas y bloquear el ataque
+c) El IPS puede reaccionar proactivamente a las intrusiones detectadas y bloquear el ataque
+d) Ni el IDS ni el IPS reaccionan proactivamente a las intrusiones detectadas
+ANSWER: C
+
+79) Los sistemas de cifrado simétrico se basan en:
+a) Cifrar y descifrar con la misma clave
+b) Cifrar con la clave privada y descifrar con la clave pública, para garantizar la autenticidad del emisor
+c) Delegar el cifrado y descifrado en una autoridad de certificación
+d) Cifrar con una sola clave, y no descifrar en el destino, para salvaguardar la integridad
+ANSWER: A
+
+80) ¿Cuál de los siguientes es un algoritmo de cifrado simétrico?:
+a) RSA
+b) DSA
+c) AES
+d) Diffie-Hellman
+ANSWER: C
+
+81) Indique cuál de los siguientes términos se corresponde con un algoritmo criptográfico de cálculo de una función hash comúnmente utilizado para saber si un archivo ha sido modificado:
+a) MD5
+b) AK4
+c) SRS
+d) HAS3
+ANSWER: A
+
+82) ¿Cómo se llama la solución tecnológica de la Administración General del Estado que ofrece, entre otros, servicios de firma criptográfica y validación de certificados a las instituciones a través de la red Sara?:
+a) FirmaFacil
+b) TmstService
+c) UtilFirma
+d) @firma
+ANSWER: D
+
+83) ¿Cuál es el nombre de una conocida aplicación de firma electrónica desarrollada por la Administración General del Estado que puede descargar e instalar en su equipo para firmar ficheros en local?:
+a) MiFirma
+b) AutoFirma
+c) ProFirma
+d) AGEFirma
+ANSWER: B
+
+84) ¿Qué es un certificado de Sello de Órgano?:
+a) Un certificado electrónico comúnmente utilizado para la firma de documentos durante la actuación automatizada de las Administraciones Públicas
+b) Un certificado electrónico que permite o no su revocación en función del órgano solicitante
+c) Un certificado electrónico que solo puede utilizarse para realizar firma en cliente
+d) Un certificado electrónico que incluye solo la clave privada, no la clave pública
+ANSWER: A
+
+85) ¿Qué se entiende por autoridades de certificación?:
+a) Son órganos administrativos dependientes del Consejo Superior de Informática que dictan las normas de certificación digital, de acuerdo con las Directivas de la Unión Europea
+b) Son entidades que expiden certificados digitales de manera que garantizan la correspondencia entre la identidad de un usuario y su par de claves
+c) Son jueces habilitados para certificar digitalmente
+d) Son compañías que certifican la seguridad de los sistemas informáticos. En la actualidad solo existen dos en España
+ANSWER: B
+
+86) ¿Cómo se denomina al software encargado de comunicar las aplicaciones informáticas, entre ellas el sistema operativo, con los dispositivos?:
+a) Codecs
+b) Plugins
+c) Drivers
+d) Routers
+ANSWER: C
+
+87) ¿Cuál de las siguientes extensiones NO está asociada habitualmente a un archivo que contiene una imagen?:
+a) .gif
+b) .jpg
+c) .prj
+d) .png
+ANSWER: C
+
+88) ¿Cuál de las siguientes siglas NO representan un sistema clásico de televisión analógica?:
+a) PAL
+b) SECAM
+c) CLER
+d) NTSC
+ANSWER: C
+
+89) ¿Cuál de los siguientes formatos de audio se utiliza habitualmente sin compresión de información?:
+a) wav
+b) pp3
+c) rm
+d) wma
+ANSWER: A
+
+90) Una resolución 1080p, representa:
+a) 1080 líneas de resolución horizontal progressive scan y entrelazada
+b) 1080 líneas de resolución vertical progressive scan y no entrelazada
+c) 1080 líneas de resolución vertical progressive scan y entrelazada
+d) 1080 líneas de resolución horizontal progressive scan y no entrelazada
+ANSWER: B
+
+91) ¿Cuál es la relación de aspecto más utilizada en los televisores modernos?:
+a) 1:1
+b) 16:9
+c) 4:3
+d) 7:5
+ANSWER: B
+
+92) El estándar de compresión de vídeo H-264 es también conocido como:
+a) MPEG-4 AVC
+b) MPEG-2
+c) DIVX
+d) SRT
+ANSWER: A
+
+93) Si desea crear un fichero de audio con buena calidad (128 kbps), cuál de estos formatos debería usar:
+a) DIVX
+b) MP3
+c) MPEG-4
+d) NTSC
+ANSWER: B
+
+94) ¿Qué es el bitrate?:
+a) La pérdida de calidad que sufre un vídeo en el proceso de codificación
+b) El factor de bloqueo del entrelazado del vídeo
+c) El número de fotogramas que se almacena en un segundo de vídeo
+d) La cantidad de bits de datos que ocupa un vídeo en un segundo de duración
+ANSWER: D
+
+95) ¿Cuál de los formatos de vídeo cuyas extensiones aparecen a continuación fue desarrollado por Microsoft y se soporta de forma nativa en Windows 7?:
+a) .wmv
+b) .rm
+c) .mov
+d) .aac
+ANSWER: A
+
+96) Tiene que grabar en una memoria externa un fichero de vídeo de una hora con una calidad de 1,2 Mbits/seg. Le piden hacerlo en el dispositivo más barato con capacidad para almacenarlo. ¿Cuál de los siguientes elegiría?:
+a) Memoria USB. 64 MBytes. 1 euro
+b) Memoria USB. 128 MBytes. 3 euros
+c) CD. 650 MBytes. 5 euros
+d) DVD. 4,7 GBytes. 10 euros
+ANSWER: C
+
+97) ¿Cuál de los siguientes programas de tratamiento de vídeo, ha sido desarrollado
+por Adobe?:
+a) Final Cut Pro
+b) Media Composer
+c) Movie Maker
+d) Premier Pro
+ANSWER: D
+
+98) Quicktime es una arquitectura multimedia desarrollada por:
+a) Sony
+b) Apple
+c) Panasonic
+d) Microsoft
+ANSWER: B
+
+99) Indique cuál de los siguientes NO es un programa que permita la edición de audio para la creación de Podcasts:
+a) Audacity
+b) PodCastzilla
+c) Garageband
+d) Adobe Audition
+ANSWER: B
+
+100) ¿Cuál de las siguientes redes sociales no está orientada al tratamiento de imágenes?:
+a) Flickr
+b) Pinterest
+c) Linkedin
+d) Instagram
+ANSWER: C

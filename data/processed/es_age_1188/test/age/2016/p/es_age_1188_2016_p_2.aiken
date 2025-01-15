@@ -1,0 +1,198 @@
+BLOQUE III
+
+1. Indique cual de las siguientes afirmaciones sobre los distintos niveles de Diagramas de Flujos de Datos (DFD) es cierta, el DFD de mas alto nivel! (Nivel 0):
+a) es conocido como diagrama 0.
+b) solo puede incluir una entidad externa.
+¢) solo puede incluir un flujo de datos que representa procedencia y destino de la informacién.
+d) solo incluye un proceso que corresponde al sistema en estudio,
+ANSWER: D
+
+2. Seguin el estandar UML disefiado por Booch, Jacobson y Rumbaugh, jos cases de uso bien estructurados:
+a) no deben ser excesivamente genéricos ni demasiado especfficos.
+b} no deben ser excesivamente genéricos pero si deben ser suficlentemente especificos.
+c) deben ser genéricos y suficientemente especificos.
+d) pueden ser genéricos pero siempre deben ser suficientemente especificos,
+ANSWER: A
+
+3. Nos han encargado la elaboraci6n de una aplicacion de caiculo de tasas por expediente tramitado que, recibiendo una relacién de expedientes genere un listado con los cargos a emitir. En la elaboracién del DFD de contexto correspondiente, éla aplicacién que genera la relacién de expedientes para dicho calculo seria?
+a) Un proceso.
+b) Una entidad externa.
+c) Un flujo de datos.
+d) Un almacén de dates.
+ANSWER: B
+
+4. Sefiale la afirmacién que NO es correcta respecto de la teoria de la normalizacién de bases de datos:
+a) Tiene por objetivo la eliminacién de dependencias entre atributos que originen anomalias en fa actualizacién de los datos.
+b) Tiene por objetivo proporcionar una estructura mas regular para la representacién de las tablas.
+c) Constituye el soporte para el disefio de bases de datos relacionales,
+d) Como resultado de su aplicacién se obtiene un modelo fisico de datos normalizado.
+ANSWER: D
+
+5. éCual de las siguientes es una regla de Codd?
+a) Dependencia fisica de los datos.
+b) Dependencia ldgica de los datos.
+c) Regla de la inversién.
+d) Actualizacién de vistas.
+ANSWER: D
+
+6. ¿Cuál de las siguientes afirmaciones sobre la Tercera Forma Normal (3FN) es correcta?
+a) Una entidad esta en 3FW.si'ésta en 2FN y todos sus atributos no principales dependen directamente de la clave Primaria, es decir, no hay dependencias funcionales transitivas de atributos no principales respecto de las claves.
+b) Una entidad esta en 3FN si esta en 2FN y todos los atributos que no forman parte de las claves candidatas (atributos no principales) tienen dependencia funcional completa respecto de éstas.
+c) La 3FN es el nivel mas elevado de normalizacién de una tabla.
+d) Una tabla esta en 3FN cuando estd en 2FN y ademas todos los atributos, tanto principales como no principales, son atémicos,
+ANSWER: A
+
+7. Siendo el valor de a=0 y el valor de b=0, indique cuál de las siguientes operaciones es igual a 1:
+a) NOT (a AND b)
+b) a OR b
+c) a AND b
+d) a XOR b
+ANSWER: A
+
+8. El número 100 en el sistema decimal, es equivalente a:
+a) 64 en el sistema hexadecimal.
+b) 88 en el sistema octal.
+c) 111 en el sistema octal.
+d) 11001000 en el sistema binario.
+ANSWER: A
+
+9. Con respecto al paradigma de programaci6n declarativa podemos decir que:
+a) Las principales variantes son los paradigmas funcional, Idgico y la programacién modular.
+b) Las variables son nombres asociados a definiciones, que una vez instanciadas pueden ser modificadas.
+c) No existe un orden de evaluacién prefijado.
+d) Describe como debe realizarse el cdlculo, no el porqué.
+ANSWER: C
+
+10. En la expresién: not{(a>b) and (a<b)) and ((c>a) and (not (c>b))), siendo a=3 y b=4, équé valor tendria que tener c para que el resultado de estas operaciones légicas fuera TRUE?
+a) 1
+b) 2
+c) 3
+d) 4
+ANSWER: D
+
+11. Son lenguajes de programacién orientados a objetos:
+a) Basic, C, C#, C++, J#, Java, Pascal, Lisp, Simula.
+b) C#, C++, Eiffel, Vala, Lisp, Pascal, Smalltalk, Visual Basic 6.0.
+c) Ada 95, C#, C++, Pascal, Java, PHP 4.0, Python, Simula, Smalitalk.
+d) Ada 95, C#, C++, Eiffel, Vala, Python, Simula, Smalltalk, Visual Basic 6.0.
+ANSWER: D
+
+12. En relaci6n con el estandar ANSI SQL, sefiale la respuesta correcta:
+a) El operador EXISTS evaldia verdadero si el conjunto resultante es vacio, mientras que NOT EXISTS evaliia verdadero si el conjunto resultante es no vacio.
+b) La clausula ORDER BY permite presentar las filas resultado de una consulta de forma ordenada, pero no se ordenan en disco.
+c) La cldusula HAVING indica qué filas deben agruparse sobre un valor comun de las columnas especificadas, mientras que GROUP BY impone condiciones a los grupos.
+d) La palabra clave NOT DISTINCT es usada para que el sistema cuente el mismo registro mas de una vez en los resultados si sale repetido.
+ANSWER: B
+
+13. Indique con qué nivel de aislamiento del estandar ANSI/ISO SQL-92 se evita el fenémeno de lectura fantasma:
+a) Lectura repetible.
+b) Serializable.
+c) Lecturas comprometidas.
+d) Lecturas no comprometidas.
+ANSWER: B
+
+14. Según UML 2.0, ¿cuál NO es un diagrama de estructura?
+a) Diagrama de Comunicación.
+b) Diagrama de Objetos.
+c) Diagrama de Componentes.
+d) Diagrama de Paquetes.
+ANSWER: A
+
+15. Señale la respuesta correcta, el patrón de diseño:
+a) Singleton se basa en la clonación de ejemplares copiándolos de un prototipo.
+b) MVC (Model View Controler) desacopla una abstracción de su implementación, permitiendo modificarlas independientemente.
+c) Mediator coordina las relaciones entre sus asociados, permite la interacción de varios objetos, sin generar acoples fuertes en esas relaciones.
+d) Memento notifica los cambios de estado de un objeto.
+ANSWER: C
+
+16. ¿Cual de las siguientes opciones sobre la interfaz java.util.Map es FALSA?
+a) HashMap y TreeMap son dos implementaciones de la interfaz Map.
+b) clear) permite vaciar los elementos (clave, valor) almacenados en el objeto que sigue la interfaz Map sobre el que se invoca.
+c) length() devuelve el ndimero de elementos (clave, valor) almacenados en el objeto que sigue la interfaz Map sobre el que se invoca.
+d) entrySet() devuelve un objeto de tipo Set que contiene las entradas almacenadas en el objeto que sigue la interfaz Map sobre el que sé invoca.
+ANSWER: C
+
+17. Son palabras reservadas del lenguaje de programacién Java:
+a) assert, boolean, explicit, public, this,
+b) abstract, float, include, private, goto.
+c) assert, boolean, return, public, this,
+d) abstract, float, out, private, goto.
+ANSWER: C
+
+18. Indique qué se imprime por pantalla con el siguiente cédigo Java: for(int i = 0, j = 1; i <10; i=f+j)
+{System.out.print(i}; j++;}
+a) 1387
+b) 0259
+c) 0101
+d) Da un error de compilacion.
+ANSWER: B
+
+19. ¿Cuál de las siguientes clausulas se utiliza en JAVA para describir una clase que hereda de otra?
+a) belongs
+b) implements
+c) extends
+d) inherits
+ANSWER: C
+
+20. Es un framework de mensajeria ESB (Enterprise Service Bus) de código abierto:
+a) Mule ESB.
+b) Oracle Service Bus.
+c) IBM ESB.
+d) OpenUp ESB.
+ANSWER: A
+
+21. Es una libreria para la implementacién de servicios web de la APT Java JAX-WS:
+a) Apache Axe.
+b) Jersey.
+c) Apache CXF.
+d) WS4aAll.
+ANSWER: C
+
+22. Sefiale la respuesta INCORRECTA con respecto al lenguaje KML (Keyhole Markup Language):
+a) Es un lenquaje basado en HTML. enfocado a Ja visualizacién de datos geograficos.
+b) Ha sido adeptado como estaéndar por el OGC (Open Geospatial Consortium).
+¢) _Utiliza una estructura basada en etiquetas con elementos anidados.
+d) La versién comprimida de un archivo KML tendré un formato KMZ.
+ANSWER: A
+
+23. éCual de los siguientes lenguajes es el utilizado por defecto por la Plataforma Angular 2.0 para generar cédigo JavaScript?
+a) GorillaSeript
+b) TypeScript
+c) CoffeeScript
+d) Dart
+ANSWER: B
+
+24. En refacion con la accesibilidad, cual de las siguientes es una herramienta para comprebar la accesibilidad?
+a) ab
+b) puppet
+c) Examinator
+d) Instant Run
+ANSWER: C
+
+25. Qué afirmacién es cierta acerca del estandar ISO/IEC 40500:2012?
+a) Es equivalente a la norma norteamericana ANSI/TIA-942-A,
+b) Establece guias y pautas relativas a calidad de software.
+c)  Establece guias relativas a la seguridad del software.
+d) Recoge las pautas de accesibilidad web WCAG 2.0.
+ANSWER: D
+
+1. [RESERVA] La restriccién del modelo ldgico relacional por la que si en una relacién hay alguna clave ajena, sus valores deben coincidir con los valores de fa clave primaria a la que hace referencia, o bien, deben ser completamente nulos, se denomina:
+a) Asercidn (ASSERTION).
+b) Restriccién de clave primaria.
+c) Integridad referencial.
+d) Verificacién (CHECK).
+ANSWER: C
+
+2. [RESERVA] ¿Cuál de las siguientes opciones representa al elemento raiz que debe aparecer en todo mensaje SOAP?
+a) soap:Envelope
+b) soap:Message
+c) soap:Service
+d) soap:Body
+ANSWER: A
+
+3. [RESERVA] En cual de los lenguajes de programacién que se incluyen a continuacién fa indentacién (sangrias) del cédigo es decisiva para la correcta ejecucién del programa desarrollado?
+a) Python
+b) C#
+c) Lisp
+d) Ruby
+ANSWER: A

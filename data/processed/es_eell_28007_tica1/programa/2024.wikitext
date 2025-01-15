@@ -1,0 +1,92 @@
+# Parte General
+## Tema 1. La Constitución Española de 1978 (I). Principios generales. Estructura y contenido. Derechos y Deberes fundamentales. Su garantía y suspensión.
+## Tema 2. La Constitución Española de 1978 (II). Las Cortes Generales. Atribuciones del Congreso de los Diputados y del Senado. El Tribunal Constitucional. Composición y atribuciones. El Defensor del Pueblo.
+## Tema 3. La Constitución Española de 1978 (III). El Gobierno. Su composición. Nombramiento y cese. Las funciones del Gobierno. Relaciones entre el Gobierno y las Cortes Generales.
+## Tema 4. La Constitución Española de 1978 (IV). Las Comunidades Autónomas: organización política y administrativa. La Administración local: regulación constitucional y entidades que la integran.
+## Tema 5. Las fuentes del derecho administrativo. La jerarquía de las fuentes. La ley. Las Disposiciones del Gobierno con fuerza de ley: decreto-ley y decreto legislativo El reglamento: concepto, clases y límites. Otras fuentes del derecho administrativo.
+## Tema 6. El Régimen Jurídico de las Administraciones públicas. El procedimiento administrativo y la relación de los ciudadanos con las Administraciones Públicas.
+## Tema 7. La revisión de los actos en vía administrativa. Los recursos administrativos. El recurso contencioso-administrativo.
+## Tema 8. Los contratos de las Administraciones públicas. Principios comunes. La Ley de contratos del Sector Público. Requisitos necesarios para la celebración de los contratos. Procedimientos de contratación y formas se adjudicación. Tipos de contratos y características generales. La facturación en el sector público. Ley 9 72017, de 8 de noviembre de contratos del Sector Público.
+## Tema 9. Texto Refundido de la Ley del Estatuto Básico del Empleado Público: Clases de personal al servicio de las administraciones públicas. Situaciones Administrativas. Derechos y Deberes. Perdida de la relación de servicio. Régimen Disciplinario.
+## Tema 10. La organización municipal. Órganos necesarios: alcalde, tenientes de alcalde, Pleno y Junta de Gobierno Local. Régimen de delegaciones entre los órganos de Gobierno. Órganos reglamentarios: Comisiones informativas y otros órganos. Potestad de auto organización de las entidades Locales. Potestad reglamentaria de las entidades Locales: Reglamentos y Ordenanzas. Ley 7/1985 RBRL.
+## Tema 11. El Reglamento Orgánico Municipal del Ayuntamiento de Alcorcón.
+## Tema 12. El gobierno abierto. Concepto y principios informadores. La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno. Publicidad activa. Derecho de acceso a la información pública.
+## Tema 13. La política de protección de datos de carácter personal. Régimen Jurídico. El Reglamento General UE 2016/679, de 27 de abril, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos. Principios y Derechos. Obligaciones. El delegado de protección de Datos en las Administraciones Públicas. La Agencia de Protección de Datos. Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos y Garantía de Derechos digitales.
+## Tema 14. La Ley 39/2015 y 40/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y Régimen Jurídico del Sector Público. Consecuencias en materia de Tecnologías de la Información y de las comunicaciones de las leyes 39/2015 y 40 /2015.
+## Tema 15. Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos.
+## Tema 16. Acceso electrónico de los ciudadanos a los servicios públicos y normativa de desarrollo. La gestión electrónica de los procedimientos administrativos: registros, notificaciones y uso de medios electrónicos.
+# Parte Específica
+## Tema 17. Reutilización de la información en el sector público. Papel de las TIC en la implantación de políticas de datos abiertos y transparencia
+## Tema 18. Definición, estructura y dimensionamiento eficiente de los sistemas de información. Herramientas de planificación y control de gestión de sistemas y tecnologías de la información en la Administración. El cuadro de mando.
+## Tema 19. Organización y funcionamiento de un centro de sistemas de información. Funciones de desarrollo, mantenimiento, sistemas, bases de datos, comunicaciones, seguridad, calidad, microinformática y atención a usuarios.
+## Tema 20. Dirección y gestión de proyectos de tecnologías de la información. Planificación estratégica, gestión de recursos, seguimiento de proyectos, toma de decisiones. Metodologías de gestión de proyectos. Metodologías ágiles para la gestión de proyectos.
+## Tema 21. Auditoria informática. Concepto y contenidos. Administración, planeamiento, organización, infraestructura técnica y prácticas operativas.
+## Tema 22. Gestión de la compra pública de tecnologías de la información. La contratación electrónica desde el punto de vista tecnológico. Elaboración de Pliegos Técnicos. Criterios de valoración. Contratos de servicios y suministros TIC.
+## Tema 23. La protección jurídica de los programas de ordenador. Los medios de comprobación de la legalidad y control de software.
+## Tema 24. Accesibilidad y usabilidad. W3C. Diseño universal. Diseño Web adaptativo. Pautas de accesibilidad WCAG, UAAG, ATAG.
+## Tema 25. Interoperabilidad de sistemas (1). El Esquema Nacional de Interoperabilidad. Dimensiones de interoperabilidad.
+## Tema 26. Interoperabilidad de sistemas (2). Las Normas Técnicas de Interoperabilidad. Interoperabilidad de los documentos y expedientes electrónicos, el documento electrónico y el expediente electrónico. Gestión del ciclo de vida del expediente y del documento. Normas para el intercambio de datos entre Administraciones Públicas.
+## Tema 27. Seguridad de Sistemas (1). Análisis y gestión de riesgos. Evaluación del impacto. Metodología MAGERIT. Herramienta PILAR y sus diferentes versiones.
+## Tema 28. Seguridad de Sistemas (2). El Esquema Nacional de Seguridad. CCN-STIC.
+## Tema 29. Seguridad de Sistemas (3). Estrategia Nacional de Seguridad. Procedimientos y Normas. Guías Serie 800. Herramientas y soluciones CCN-CERT.
+## Tema 30. Seguridad de Sistemas (4) Certificación de una Entidad local. Instrucciones Técnicas de Seguridad (ITS): Notificación de incidentes de seguridad, de conformidad con el ENS. Ciberseguridad. La estrategia nacional de ciberseguridad. Concienciación y cultura en seguridad de la información y ciberseguridad
+## Tema 31. Infraestructuras, servicios comunes y compartidos para la interoperabilidad entre Administraciones Públicas. Cl@ve, la Carpeta Ciudadana, el Sistema de Interconexión de Registros, la Plataforma de Intermediación de Datos, y otros servicios. Integración con los sistemas de la Administración Local.
+## Tema 32. Sede Electrónica. Servicios y trámites, seguridad y legislación.
+## Tema 33. Sistemas de altas Prestaciones. Grid Computing. Mainframe.
+## Tema 34. Equipos departamentales y estaciones gráficas de trabajo. Servidores. Medidas de seguridad para equipos departamentales y servidores.
+## Tema 35. Centro de Proceso de Datos: diseño, implantación y gestión. Características físicas y adecuación a la legislación vigente. Seguridad física y lógica de un CPD. Control de acceso físico al CPD y a dispositivos. Niveles de Seguridad y acceso.
+## Tema 36. Dispositivos personales de PC y dispositivos móviles. La conectividad de los dispositivos personales. Medidas de seguridad y gestión para equipos personales y dispositivos móviles.
+## Tema 37. Cloud Computing. IaaS, PaaS, SaaS. Nubes privadas, públicas e hibridas.
+## Tema 38. Sistemas de almacenamiento para sistemas grandes y departamentales. NAS, SAN, Tecnologías de discos SATA, NL-SAS, SAS y SSD. Tiering. Tipologías de almacenamiento de alta disponibilidad. Dispositivos de tratamiento de información multimedia. Virtualización del almacenamiento. Copias de Seguridad.
+## Tema 39. Sistema de Backup. Políticas de gestión de copias de seguridad. Backup en cloud. Recuperación de información ante desastres. Seguridad en los sistemas de Backup, procedimientos y métodos para la conservación de la información.
+## Tema 40. Tipos de sistemas de información multiusuario. Sistemas grandes, medios y pequeños. Servidores de datos y de aplicaciones. Virtualización de aplicaciones.
+## Tema 41. El procesamiento cooperativo y la arquitectura cliente-servidor. Arquitectura SOA.Clústeres y Sistemas de altas prestaciones.
+## Tema 42. Arquitectura de Sistemas de Información. Servidores de datos y aplicaciones. Granjas de servidores.
+## Tema 43. Virtualización de servidores y Sistemas Operativos. Tecnologías de contenedores, microservicios y serverless. Sistemas hiperconvergentes.
+## Tema 44. Conceptos y fundamentos de sistemas operativos. Evolución y tendencias.
+## Tema 45. Sistemas operativos UNIX-LINUX. Fundamentos, administración, instalación, gestión.
+## Tema 46. Sistemas operativos Microsoft. Fundamentos, administración, instalación, gestión.
+## Tema 47. Conceptos básicos de otros sistemas operativos: OS X, iOS, Android, z/OS. Sistemas operativos para dispositivos móviles.
+## Tema 48. Los sistemas de gestión de base de datos SGBD. Administración de Base de datos. El modelo de referencia de ANSI. Bases de Datos relacionales (ORACLE, MySQL, SQL SERVER…etc.).
+## Tema 49. El modelo relacional. El lenguaje SQL. Normas y estándares para la interoperabilidad entre gestores de bases de datos relacionales.
+## Tema 50. Arquitectura de desarrollo en la web. Desarrollo web front-end. Scripts de cliente. Frameworks. UX. Desarrollo web en servidor, conexión a bases de datos e interconexión con sistema y servicios.
+## Tema 51. Entorno de desarrollo Microsoft. NET
+## Tema 52. Entorno de desarrollo JAVA.
+## Tema 53. Entorno de desarrollo PHP.
+## Tema 54. Software de código abierto. Software libre. Conceptos base. Aplicaciones en entorno ofimático y servidores web.
+## Tema 55. Inteligencia artificial: Finalidad y clasificación: machine learning, deep learning, NLP, BigData, visión artificial, sistemas expertos, robótica y agentes inteligentes. Aspectos éticos.
+## Tema 56. Ciencia de datos. Ciclo de vida de los procesos de modelado de datos (ETL, preprocesado, modelado, validación, MLops) Fundamentos estadísticos. Herramientas y lenguajes. Visualización de datos.
+## Tema 57. Sistemas CRM (Customer Relationship Management) y ERP (Enterprise Resource Planning). Generación de informes a la dirección.
+## Tema 58. E-learning: conceptos, herramientas, sistemas de implantación y normalización.
+## Tema 59. Los sistemas de información geográfica. Conceptos y funcionalidad básicos.
+## Tema 60. Tecnologías y sistemas de explotación de datos: data lake, data warehouse, lakehouse, data fabric, data mesh, tecnologías para la protección de la confidencialidad (PET). Entonos de compartición de datos: espacios de datos, aspectos tecnológicos y organizativos.
+## Tema 61. Estrategia del dato. Gobierno del dato, gestión del dato y gestión de la calidad del dato. Tecnologías y estándares para descripción de catálogos y conjuntos de datos: semánticas y ontologías.
+## Tema 62. Lenguajes y herramientas para la utilización de redes globales. Aplicaciones web. HTML, CSS. Lenguajes de script. Tecnologías de programación web: CGI, JavaScript, applets, servlets, ASP, PHP, JSP. Servidores web. Navegadores web.
+## Tema 63. Web Services: estándares, protocolos asociados. Esquemas, conceptos, fundamentos y tipos de datos. Internacionalización y localización. UTF8. Unicode. y localización. UTF8. Unicode. Formatos de intercambio de datos (XML, JSON, etc.). Características.
+## Tema 64. Comercio electrónico. Mecanismos de pago. Gestión del negocio. Factura electrónica. Pasarelas de pago.
+## Tema 65. El cifrado y la criptografía. Algoritmos de cifrado simétricos y asimétricos. La función hash. Principales suites y algoritmos de cifrados. Principales estándares de cifrado. El notariado.
+## Tema 66. Identificación y firma electrónica (1). Marco normativo europeo y nacional. Certificados digitales. Claves privadas, públicas y concertadas. Formatos de firma electrónica. Protocolos de directorio basados en LDAP y X.500. Otros servicios.
+## Tema 67. Identificación y firma electrónica (2). Prestación de servicios públicos y privados. Infraestructura de clave pública (PKI). Mecanismos de identificación y firma: “Smart Cards”, DNI electrónico, mecanismos biométricos. Gestión de identidades.
+## Tema 68. Adaptación de aplicaciones y entornos a los requisitos de la normativa de protección de datos según los niveles de seguridad. Herramientas de cifrado y auditoría.
+## Tema 69. El tratamiento de imágenes. Tecnologías de digitalización y de impresión. Impresión 3D.
+## Tema 70. Reconocimiento óptico de caracteres (OCR, ICR). Reconocimiento biométrico.
+## Tema 71. Tecnologías de cadenas de bloques (blockchain).
+## Tema 72. La calidad en los servicios de información. El Modelo EFQM y la Guía para los servicios ISO 9004.
+## Tema 73. Gestión documental. Gestión de contenidos. Tecnologías CMS y DMS de alta implantación.
+## Tema 74. Sistemas de recuperación de la información. Políticas, procedimientos y métodos para la conservación de la información. Página 5 de 10
+## Tema 75. Planificación y control de las TIC: gestión de servicios e infraestructuras TIC, gestión del valor de las TIC. Acuerdos de nivel de servicio. Gestión de incidencias. Bases conceptuales de ITIL y CoBIT.
+## Tema 76. Redes de telecomunicaciones. Conceptos. Medios de transmisión. Conmutación de circuitos y paquetes. Protocolos de encaminamiento. Infraestructuras de acceso. Interconexión de redes. Calidad de servicio.
+## Tema 77. La red Internet y los servicios básicos.
+## Tema 78. El modelo de referencia de interconexión de sistemas abiertos (OSI) de ISO: arquitectura, capas, interfaces, protocolos, direccionamiento y encaminamiento.
+## Tema 79. Redes IP: arquitectura de redes, encaminamiento y calidad de servicio. Transición y convivencia IPv4 - IPv6. Funcionalidades específicas de IPv6.
+## Tema 80. Redes de nueva generación y servicios convergentes (NGN/IMS). VoIP, ToIP y comunicaciones unificadas.
+## Tema 81. Redes de área local. Arquitectura. Tipología. Medios de Transmisión. Métodos de acceso. Dispositivos de interconexión. Gestión de dispositivos. Administración de redes LAN. Gestión de usuarios en redes locales. Monitorización y control de tráfico. Gestión SNMP. Configuración y gestión de redes virtuales (VLAN). Redes de área extensa.
+## Tema 82. Arquitectura de las redes Intranet y Extranet. Concepto, estructura y características. Su implantación en las organizaciones. Modelo de capas: servidores de aplicaciones, servidores de datos, granjas de servidores.
+## Tema 83. Las redes públicas de transmisión de datos. La red SARA. La red sTESTA. Planificación y gestión de redes.
+## Tema 84. El correo electrónico. Servicios de mensajería. Servicios de directorio.
+## Tema 85. La seguridad en redes. Tipos de ataques y herramientas para su prevención: cortafuegos, control de accesos e intrusiones, técnicas criptográficas, etc. Medidas específicas para las comunicaciones móviles.
+## Tema 86. La seguridad en el nivel de aplicación. Tipos de ataques y protección de servicios web, bases de datos e interfaces de usuario.
+## Tema 87. La gestión de la continuidad del negocio. Planes de continuidad y contingencia del Negocio.
+## Tema 88. Sistemas de videoconferencia. Herramientas de trabajo en grupo. Dimensionamiento y calidad de servicio en las comunicaciones y acondicionamiento de salas y equipos. Streaming de vídeo.
+## Tema 89. Acceso remoto a sistemas corporativos: gestión de identidades, single sign-on y teletrabajo. Sistemas y tecnologías de Teletrabajo. Aplicaciones prácticas en la administración. Securización en entornos de teletrabajo. La problemática del Shadow IT.
+## Tema 90. Virtualización de sistemas y de centros de datos. Virtualización de puestos de trabajo. Movilidad del puesto de trabajo. Sistemas VDI. Maquetas de terminales Windows y de servidores Linux. Virtualización de aplicaciones.

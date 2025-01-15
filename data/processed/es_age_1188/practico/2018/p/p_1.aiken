@@ -1,0 +1,153 @@
+SUPUESTO BLOQUE Ill
+Con la finalidad de informar a los ciudadanos acerca de la zona de estacionamiento regulado en todos los municipios de Espafa, se propone la creacién de un registro, donde los ayuntamientos deberan publicar su normativa al respecto reflejando para cada tramo de calle cual es la tipologia de zona que le corresponde (verde/azul/..).
+Por otro lado también se debera tener en cuenta las franjas horarias y la tarifa asociada a cada zona.
+A efectos de este supuesto se consideran las siguientes premisas:
+* Todos los dias, incluyendo los festivos, el estacionamiento es regulado.
+* Cada tramo de calle esta definido por la numeracién que la delimita.
++
+EI SGBD utilizado sera SQL Server.
+*
+El lenguaje de programacién empleado en el desarrollo del sistema de informacién sera orientado a objetos (JAVA).
+A continuacién, se presenta un modelo Entidad Relacién extendido inacabado, en lo sucesivo E/R, que representa parte del dominio de la informacién.
+idMunicipio
+©nombre
+>horainicio
+>tiempoMac
+a?
+TramoCalle
+idTramoCalle
+desde
+hasta
+parimpar
+
+
+1. Indique el tipo de correspondencia necesaria para representar en el diagrama EIR la relacién que falta entre los tipos de zona y los tramos de las calles.
+a) A través de una relaci6én 0:1 entre TipoZona y TramoCalle.
+b) A través de una relacion N:M entre TipoZona y TramoCalle.
+c) A través de una relacion 1:1 entre TipoZona y TramoCalle.
+d) A través de una relacién 1:N entre TipoZona y TramoCalle.
+ANSWER: D
+
+Si para un municipio, tenemos la zona Azul, definida por las franjas horarias de 9:00 a 15:00 y de 17:00 a 20:00, ¿qué tipo de correspondencia se deberia emplear en la relacién?
+a)
+Seria una relacién 1:N entre TipoZona y FranjaHoraria.
+b)
+c)
+d)
+Seria una relacién 1:N entre FranjaHoraria y TipoZona.
+Seria una relacién 1:1 entre TipoZona y FranjaHoraria.
+Seria una relacién 1:0 entre TipoZona y FranjaHoraria.
+ANSWER: A
+
+3. ¿Cuál de las siguientes tablas se obtiene de transformar la entidad Calle del modelo E/R al modelo fisico, teniendo en
+cuenta las asociaciones que tiene? (PK es Primary Key y FK es Foreign Key)
+a)
+calle(idCalle (PK), nombre)
+b)
+c)
+d)
+calle(idCalle (PK), idTramoCalle (FK), nombre)
+calle(idCalle (PK), idMunicipio (FK), nombre)
+calle(idCalle (PK), idMunicipio (FK), idTramoCalle(FK), nombre)
+ANSWER: C
+
+4. Se ha podido cometer un error en el traspaso del diagrama E/R al modelo fisico en relacién a la cardinalidad de las entidades de las calles y sus tramos. Para ello se quiere realizar una comprobacién basica entre ambas tablas. ~Qué resultado obtendremos de la siguiente sentencia ejecutada en SQL Server?
+SELECT Calle.nombre, count(TramoCalle.idTramoCalle) FROM TramoCalle RIGHT JOIN Calle ON Calle.idCalle =TramoCalle.idCalle GROUP BY Calle.idCalle, Calle:nombre
+a) Una fila por cada tramo que tenga al menos una calle asignada. Y se mostrara el nombre de Ia calle y el numero de ramos de dicho calle.
+b) Una fila por cada tramo que tenga o no tenga calles asignadas. Y se mostrara el nombre de la calle y el numero de tramos de dicho calle.
+c) Una fila por cada calle, tenga o no tenga tramos asignados. Y se mostrara el nombre de la calle y el nimero de tramos de dicho calle.
+d) Una fila por cada calle que tenga al menos un tramo asignado. Y se mostrara el nombre de la calle y el numero de tramos de dicho calle.
+ANSWER: C
+
+5. En el SGBD tiene que crear un procedimiento almacenado “calcularTarifa" cuyos parametros de entrada sean tipo de zona (idZona) y el numero de minutos (Minutos), ambos tipo entero. ,Cual de las siguientes declaraciones de cabecera seria correcta?
+a) CREATE PROCEDURE calcularTarifa @idZona int, @Minutos int
+b) CREATE PROCEDURE calcularTarifa @idZona, @Minutos
+c) CREATE PROCED calcularTarifa (@idZona int, @Minutos int)
+d) CREATE PROCED calcularTarifa @TipoZona int, @Minutos int
+ANSWER: A
+
+6. Le piden que ejecute el anterior procedimiento que ha creado. ¢Cuai de las siguientes sentencias es INCORRECTA?
+a) EXECUTE calcularTarifa @idZona = 1, @Minutos = 50;
+b) EXECUTE calcularTarifa @Minutos =50, @idZona = 1;
+c) EXECUTE calcularTarifa 1, 50;
+d) EXECUTE calcularTarifa @Minutos =50, 1;
+ANSWER: D
+
+7. Teniendo en cuenta que el SGBD es SQL Server sobre JAVA, debe realizar una conexién JDBC. zCual seria la URL correcta para establecer la conexién con la base de datos si el servidor se encuentra en la IP 10.10.1.124 y el puerto 3306?
+a) jdbc:sql://10.10.1.124:3306;user=MyUserName;password=*****;
+b) — sqlserver:jdbc://10.10.1.124:3306;user=MyUserName;password=*****;
+c) sqlserver:ansi:10.10.124:3306;user=MyUserName;password=*****;
+d) jdbe:sqlserver://10.10.1.124:3306;user=MyUserName;password=*****;
+ANSWER: D
+
+8. Le han pedido que elabore los esquemas de mensajes de respuesta de un servicio web. Qué deben contener las
+etiquetas Z1 y Z2 en el siguiente parrafo del esquema para que los elementos Nombre de Calle (nc) y Numero de Calle
+(numc) aparezcan en el XML en el mismo orden en el que han sido declarados?
+<xs:complexType>
+<Z1>
+<xsd:element name="nc" type="nc">
+<xsd:annotation>
+<xsd:documentation>Nombre de Calle</xsd:documentation>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="numc" type="numc">
+<xsd:annotation>
+<xsd:documentation>Numero de Calle</xsd:documentation>
+</xsd:annotation>
+</xsd:element>
+<Z2>
+</xs:complexType>
+a) Z1=xsd:grouptype ; Z2=/xsd:grouptype
+b) Z1=xsd:sequence ; Z2=/xsd:sequence
+c) Z1=xsd:elementLocation ; Z2=/xsd:elementLocation
+d) Z1=xsd:elementOrder ; Z2=/xsd:elementOrder
+ANSWER: B
+
+9. Se quieren realizar modificaciones en el sistema para posibilitar la aplicacién de bonificaciones a los vehiculos menos contaminantes. Para ello se debe ampliar la funcionalidad, incorporando la matricula como nuevo parametro a un método ya existente. ~Cémo afiadiriamos este parametro?
+a) Sobrecargando el método incorporando un parametro mas con la matricula del vehiculo.
+b) Sobreescribiendo el método incorporando un parametro mas con la matricula del vehiculo.
+c) Definiendo una nueva clase abstracta como publica donde se definira un nuevo evento que envie la matricula al método que ya existe.
+d) Remitiendo la matricula en alguno de los parametros ya definidos, e incorporando la ldgica pertinente en el método para que si el formato de la cadena de texto encaja con el de una matricula se tenga en cuenta dicha informaci6n.
+ANSWER: A
+
+10. La herramienta empleada para realizar el control de versiones del proyecto sera Apache Subversion. Si vamosa realizar un evolutivo con nuevas funcionalidades, sin haber finalizado el desarrollo del sistema actual, ~qué elemento SVN utilizarflamos para aislar el nuevo evolutivo del desarrollo principal?
+a) Aislariamos los desarrollos a través de transacciones del SVN.
+b) Se crearia un paquete con aquellos componentes a modificar y se marcarian a través de etiquetas “modified”.
+c) Seemplearia el concepto “dependency” que permite conocer las dependencias en el cédigo fuente.
+d) Secrearia una rama “Branch” paralela al “Trunk” que posteriormente seria mezclada.
+ANSWER: D
+
+11. [ANULADA] ¿Cuál de las siguientes sentencias deberd afiadir en la cabecera HTMLS5 para ajustar el contenido de la pagina web al tamafio de la pantalla de los diferentes dispositivos?
+a) <meta name="viewport" content="width=device-width, initial-scale=1.0">
+b) <Link rel=StyleSheet HREF="estiloapps.css" TYPE="text/css" MEDIA=screen>
+c) <meta http-equiv="Content-Style-Type" CONTENT="text/css">
+d) <link rel="responsive icon" href="/estiloapps.ico" content="width=device-width, initial-scale=1.0">
+ANSWER:
+
+12. Nuestra aplicacién debera interactuar con otros sistemas de informacién, para ello hara uso de servicios web bajo el estandar Web Services Security. ~Cual de los siguientes mecanismos del estandar WS-Security podriamos utilizar para garantizar la identidad del actor?
+a) BinarySecurityToken, que describe como codificar certificados X.509 y tickets de Kerberos asi como la inclusién de claves cifradas opacas.
+b) — CriptToken, que permite intercambiar tokens de identificacion basados en usuario y contrasefia.
+c) El establecimiento de conexiones VPN que garantizan la identidad y autenticidad de los actores.
+d) Gracias a que disponemos de la clave privada del actor, tenemos la certeza de la identidad de este.
+ANSWER: A
+
+1. [RESERVA] Para garantizar la persistencia, debera utilizar alguna implementacién de la especificacién de JPA. gCual de los siguientes frameworks nos ofrecen una implementacién de dicha especificacién?
+a) DataSource.
+b) Top ORM.
+c) Java persistence implementation.
+d) EclipseLink.
+ANSWER: D
+
+2. [RESERVA] Nuestro sistema de informacion estara formado por diversas capas, independizando la capa de presentacién, de la Idgica de negocio y de acceso a datos. Qué elemento emplearemos para transferir los datos de una capa a otra?
+a) POJOO (Plain Old Java Object Oriented).
+b) DTO (Data Transfer Object).
+c) DAO (Data Access Object).
+d) DCA (Data Connected Architecture).
+ANSWER: B
+
+3. [RESERVA] Atendiendo al enunciado propuesto, en el diagrama de casos de uso del sistema, gcuales serian los actores?
+a) Ayuntamiento, ciudadano, base de datos y sistemas moéviles
+b) Terminal movil, antenas de telefonia mévil y parquimetro.
+c) Ayuntamiento, ciudadano y administrador del sistema.
+d) Sistema de geolocalizacién, base de datos del INEy librerias de componentes internas.
+ANSWER: C

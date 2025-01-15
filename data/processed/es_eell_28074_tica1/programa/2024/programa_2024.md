@@ -47,7 +47,7 @@ I. DESARROLLO DE SISTEMAS
 20. Instalación y cambio. Estrategias de sustitución. Recepción e instalación. Evaluación post-implementación. Mantenimiento.
 21. La calidad del software y su medida. Modelos, métricas, normas y estándares.
 22. Accesibilidad, diseño universal y usabilidad. Accesibilidad y usabilidad de las tecnologías, productos y servicios relacionados con la sociedad de la información.
-PARTE III: SISTEMAS Y COMUNICACIONES
+II: SISTEMAS Y COMUNICACIONES
 23. Administración del Sistema operativo y software de base.
 24. Real Decreto 1112/2018, de 7 de septiembre: La accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público.
 25. Mantenimiento de equipos e instalaciones. Tipos de mantenimiento. Gestión de incidencias. Procedimientos de backup y recuperación.
@@ -61,7 +61,7 @@ PARTE III: SISTEMAS Y COMUNICACIONES
 33. Computación en la nube. IaaS, PaaS, SaaS. Nubes privadas, públicas e híbridas.
 34. Redes locales. Tipología, protocolos y técnicas de transmisión y métodos de acceso.
 35. La seguridad en redes. Seguridad perimetral. Control de accesos. Técnicas criptográficas y protocolos seguros.
-PARTE Iv: ÁMBITO ORGANIZATIVO.
+III: ÁMBITO ORGANIZATIVO.
 36. La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno. La Agenda 2030 y los Objetivos de Desarrollo Sostenible.
 37. Políticas de igualdad y contra la violencia de género. Discapacidad y dependencia: régimen jurídico.
 38. Real Decreto 203/2021: Portales de internet de las Administraciones Públicas. Creación y supresión de portales de internet en el ámbito estatal.

@@ -1,0 +1,735 @@
+1) Según el Artículo 66.1 de la Constitución Española:
+a) El Congreso de los Diputados representa al pueblo español
+b) El Congreso de los Diputados representa al pueblo español y el Senado es la Cámara de representación territorial
+c) Las Cortes Generales representan al pueblo español y eligen al defensor del pueblo
+d) Las Cortes Generales representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado
+ANSWER: D
+
+2) Indique cuántos títulos numerados tiene la Constitución Española:
+a) 8
+b) 10
+c) 12
+d) 14
+ANSWER: B
+
+3) El Título III de la Constitución Española regula:
+a) Las Cortes Generales
+b) El Gobierno y la Administración
+c) El Poder Judicial
+d) Economía y Hacienda
+ANSWER: A
+
+4) El Título VI de la Constitución Española regula:
+a) Las Cortes Generales
+b) El Gobierno y la Administración
+c) El Poder Judicial
+d) Economía y Hacienda
+ANSWER: C
+
+5) La Mesa del Senado se compone de:
+a) Presidente, dos Vicepresidentes y dos Secretarios
+b) Presidente, dos Vicepresidentes y cuatro Secretarios
+c) Presidente, cuatro Vicepresidentes y dos Secretarios
+d) Presidente, cuatro Vicepresidentes y cuatro Secretarios
+ANSWER: B
+
+6) Las Comisiones del Senado están integradas por:
+a) 31 Senadores
+b) 33 Senadores
+c) Senadores en número proporcional a la fuerza que cada grupo parlamentario tiene en la Cámara
+d) Senadores en número proporcional a la fuerza que cada partido político tiene en la Cámara
+ANSWER: C
+
+7) La tramitación parlamentaria de los textos legislativos se inicia habitualmente:
+a) En el Congreso de los Diputados
+b) En el Senado
+c) En las Asambleas legislativas de las Provincias
+d) En el Defensor del Pueblo
+ANSWER: A
+
+8) La presentación de la Ley de Presupuestos Generales del Estado es realizada:
+a) Por el Congreso de los Diputados
+b) Por el Senado
+c) Por el Gobierno
+d) Por la Administración Tributaria
+ANSWER: C
+
+9) Según la Plantilla Orgánica de la Secretaría General del Senado, indique cuántas Secretarías Generales Adjuntas existen:
+a) Ninguna
+b) Una
+c) Dos
+d) Tres
+ANSWER: C
+
+10) Según la Plantilla Orgánica de la Secretaría General del Senado, indique a qué unidad o unidades pueden están adscritos los Técnicos Auxiliares de Informática:
+a) Solo Unidad de Atención Informática
+b) Solo Unidad de Sala de Ordenadores
+c) Unidad de Atención Informática y Unidad de Sala de Ordenadores
+d) Unidad de Atención Informática, Unidad de Sala de Ordenadores y Unidad de Audiovisuales
+ANSWER: C
+
+11) En el Senado, el Delegado de Protección de Datos es:
+a) El Letrado que designe la Mesa, a propuesta del Secretario General
+b) El Letrado Jefe de la Asesoría Jurídica
+c) El Jefe de Gabinete del Secretario General
+d) El Interventor
+ANSWER: B
+
+12) Seleccione en qué año se aprobó el Primer Plan de Igualdad de las Cortes Generales:
+a) 2020
+b) 2021
+c) 2022
+d) Todavía no se ha aprobado, está en proceso de elaboración
+ANSWER: A
+
+13) Indique a cuál de estos números en base hexadecimal corresponde el número binario 010111001010:
+a) 5CA
+b) 7CA
+c) 5BA
+d) 7BA
+ANSWER: A
+
+14) Indique cuál es el resultado en base hexadecimal de sumar A+A:
+a) AA
+b) 14
+c) 15
+d) 16
+ANSWER: B
+
+15) Indique cuál de las siguientes imágenes corresponde a una puerta lógica de tipo NAND:
+a) =☽○-
+b) =☽-
+c) -▷○-
+d) =D○-
+ANSWER: D
+
+16) Una puerta lógica de tipo XOR con dos entradas devuelve un valor de 1:
+a) Cuando ninguna de sus entradas vale 1
+b) Cuando alguna de sus entradas vale 1
+c) Cuando solo una de sus entradas vale 1
+d) Cuando sus dos entradas tienen valor 1
+ANSWER: C
+
+17) Indique qué unidad de medida se utiliza habitualmente para expresar la tecnología de fabricación de los chips de las CPUs:
+a) Milímetros
+b) Micras
+c) Micrómetros
+d) Nanómetros
+ANSWER: D
+
+18) Indique cuál de los siguientes nombres corresponden a la arquitectura de procesadores de Intel utilizada en algunos de sus procesadores:
+a) Ryzen
+b) Kaby Lake
+c) Coffee Boost
+d) Sky Lane
+ANSWER: B
+
+19) Indique qué nombre recibe la microarquitectura de procesadores de AMD utilizada en diversas familias de procesadores como EPYC o Threadripper:
+a) Zen
+b) PCIe
+c) Ryzen
+d) UltraBoost
+ANSWER: A
+
+20) Indique cuál de las siguientes extensiones corresponde a un archivo de ejecución por lotes en los sistemas operativos Windows:
+a) .bat
+b) .batch
+c) .lot
+d) .exe
+ANSWER: A
+
+21) Indique cuál es el nombre del fichero que corresponde a la aplicación “Símbolo del Sistema” en el sistema operativo Windows 10:
+a) autoexec.bat
+b) winexec.exe
+c) command.exe
+d) cmd.exe
+ANSWER: D
+
+22) Indique cuál es el nombre del fichero que corresponde a la aplicación “Editor del Registro” en el sistema operativo Windows 10 de 64 bits:
+a) regedit.exe
+b) regedit64.exe
+c) editreg.exe
+d) editreg32.exe
+ANSWER: A
+
+23) Indique cuál de las siguientes extensiones corresponde a un archivo que contiene entradas para ser introducidas en el registro de Windows 10:
+a) .ent
+b) .rg
+c) .rgd
+d) .reg
+ANSWER: D
+
+24) Indique cómo se denomina la herramienta de Microsoft que permite la administración centralizada de la configuración de parques de dispositivos:
+a) Microsoft Azymut
+b) Microsoft MDM
+c) Microsoft System Center
+d) Microsoft Configuration Manager
+ANSWER: C
+
+25) Indique qué utilidad del sistema operativo Microsoft Windows 10 sirve para registrar una librería “.dll”:
+a) reglib
+b) regsvr32
+c) regedit
+d) regdll
+ANSWER: B
+
+26) Indique cuál de los siguientes nombres NO se corresponde con el de una distribución de Linux:
+a) Gentoo
+b) kLix
+c) OpenSUSE
+d) Fedora
+ANSWER: B
+
+27) Indique cuál de los siguientes nombres NO se corresponde con el de un intérprete de comandos de sistemas operativos de la familia Unix:
+a) edsh
+b) ksh
+c) zsh
+d) bash
+ANSWER: A
+
+28) Indique cuál de las siguientes extensiones NO corresponde a un archivo relacionado con las librerías en Linux:
+a) .lib
+b) .so
+c) .la
+d) .a
+ANSWER: A
+
+29) Señale cuál de los siguientes términos NO corresponde con el nombre de una base de datos NoSQL:
+a) Redis
+b) MongoDB
+c) CouchDB
+d) Microsoft SQL Server
+ANSWER: D
+
+30) Indique con qué siglas se conocen los sistemas orientados a habilitar el acceso a varios sistemas de información, solicitando una única vez al usuario sus credenciales de acceso:
+a) SSL
+b) SSO
+c) ASO
+d) ASIL
+ANSWER: B
+
+31) Indique cuál de los siguientes términos se refiere a una herramienta que permite la monitorización o gestión de servicios e infraestructuras TIC:
+a) Nagion
+b) Zabbix
+c) Collateral
+d) Collision
+ANSWER: B
+
+32) Indique a qué categoría pertenece un virus informático de tipo CryptoLocker:
+a) Ransomware
+b) Keylogger
+c) Spyware
+d) Backdoor
+ANSWER: A
+
+33) Indique cómo se denomina la herramienta de Windows 10 que permite tomar el control de un equipo para dar soporte técnico remoto a un usuario sin desplazarse:
+a) Asistencia remota de Windows
+b) Soporte remoto
+c) X-Windows
+d) Terminal Client
+ANSWER: A
+
+34) Indique cuál de los siguientes términos corresponde con el nombre de una conocida herramienta de ticketing para la gestión de solicitudes e incidencias de tecnología:
+a) CambridgeIT
+b) Casuality
+c) Tickety
+d) Remedy
+ANSWER: D
+
+35) Indique cuál de las siguientes afirmaciones acerca de los conceptos de Help Desk y Service Desk es correcta:
+a) Son conceptos independientes, uno no contiene al otro
+b) El Service Desk es un concepto más genérico que puede contener al Help Desk
+c) El Help Desk es un concepto más genérico que puede contener al Service Desk
+d) El Service Desk gestiona solo incidencias, el Service Desk gestiona solo Peticiones de Servicio
+ANSWER: D
+
+36) Indique cuál de los siguientes términos corresponde al nombre de una metodología que incluye un conjunto de conceptos y buenas prácticas usadas para la gestión de servicios de tecnologías de la información, el desarrollo de tecnologías de la información y las operaciones relacionadas con la misma en general:
+a) CMMA
+b) ITIL
+c) ITOP
+d) ITLab
+ANSWER: B
+
+37) Indique cuál de las siguientes afirmaciones es cierta acerca de la tecnología “AirPlay” que permite enviar contenido entre dispositivos de forma inalámbrica:
+a) Solo está disponible de forma nativa para enviar información desde dispositivos móviles con sistema operativo iOS
+b) Solo está disponible de forma nativa para enviar información desde dispositivos móviles con sistema operativo Android
+c) Está disponible de forma nativa para enviar información tanto desde dispositivos móviles con sistema operativo iOS como con sistema operativo Android
+d) Solo está disponible de forma nativa para enviar información desde dispositivos móviles con sistema operativo Windows 10 Mobile
+ANSWER: A
+
+38) Indique cuál de las siguientes afirmaciones es cierta, si desea hacer streaming de una película desde un dispositivo iPhone a un dispositivo Chromecast:
+a) No es posible hacer streaming por una limitación del protocolo Miracast
+b) No es posible hacer streaming, ya que el iPhone utiliza tecnología de Apple y el Chromecast tecnología de Google
+c) Si que es posible hacer streaming, pero solo desde la aplicación “Apple TV”
+d) Si que es posible hacer streaming desde diversas aplicaciones como Netflix o Youtube
+ANSWER: D
+
+39) Indique cuál de las siguientes afirmaciones es cierta, en relación al puerto de conexión y carga utilizado por los distintos modelos de dispositivos iPad:
+a) Todos los dispositivos iPad disponen de puerto Lightning
+b) Todos los dispositivos iPad disponen de puerto USB-C
+c) Todos los dispositivos iPad disponen tanto de puerto Lightning como de puerto USB-C
+d) Algunos dispositivos iPad disponen de puerto Lightning y otros de puerto USB-C
+ANSWER: D
+
+40) Indique cómo se denomina la tecnología que incorporan los últimos modelos de iPhone y que mediante un sistema de imanes permite el fácil acoplamiento del cargador con el dispositivo en su posición óptima para una carga inalámbrica más rápida:
+a) Qi
+b) iAlign
+c) FastCharge
+d) MagSafe
+ANSWER: D
+
+41) Seleccione cuál de las siguientes afirmaciones es cierta en relación con el navegador utilizado por defecto en un dispositivo iPhone:
+a) En iPhone no se puede seleccionar cuál es el navegador por defecto, siempre es Chrome
+b) En iPhone no se puede seleccionar cuál es el navegador por defecto, siempre es Safari
+c) En iPhone si se puede seleccionar cuál es el navegador por defecto, desde la primera versión de iOS
+d) En iPhone si se puede seleccionar cuál es el navegador por defecto, pero solo a partir de la versión de iOS 14
+ANSWER: D
+
+42) Seleccione cuál es la empresa responsable del desarrollo inicial del sistema operativo Android:
+a) Google
+b) Apple
+c) IBM
+d) Microsoft
+ANSWER: A
+
+43) Seleccione cuál es el año de lanzamiento de la primera versión oficial del sistema operativo Android:
+a) 2006
+b) 2008
+c) 2010
+d) 2013
+ANSWER: B
+
+44) Indique cómo se denomina la tienda de aplicaciones en dispositivos móviles con sistema operativo Android:
+a) Play Store
+b) App Store
+c) MS Store
+d) Apps & More
+ANSWER: A
+
+45) Indique a qué corresponden en inglés las siglas BYOD:
+a) Beside Years Old Device
+b) Bring Your Own Device
+c) Before Your Own Device
+d) Build Your Own Device
+ANSWER: B
+
+46) Indique qué significa DDR en el contexto de la memoria RAM:
+a) Double Data Rate
+b) Double Data Remote
+c) Designed Data Remote
+d) Dettached Data Range
+ANSWER: A
+
+47) Indique a qué se refiere el término “Dual channel mode”, en el contexto de la configuración de un ordenador de sobremesa:
+a) Un modo en el que dos módulos de memoria RAM funcionan juntos en un mismo canal
+b) Un modo en el que dos discos SATA comparten el mismo cable
+c) Un modo de funcionamiento de la CPU para hiperthreading
+d) Una técnica de overcloking que duplica la frecuencia de la CPU
+ANSWER: A
+
+48) Indique cuál de los siguientes términos NO corresponde a un conocido fabricante de placas base para ordenadores de sobremesa:
+a) Asus
+b) MSI
+c) Gigabyte
+d) Microsoft
+ANSWER: D
+
+49) Indique cuál de los siguientes términos NO corresponde al nombre de un BUS de comunicación de datos entre los diferentes componentes de un ordenador de sobremesa:
+a) USB
+b) PCIe
+c) SATA
+d) IOB
+ANSWER: D
+
+50) Indique cuál es la velocidad máxima de transmisión de datos de un puerto USB 3.0:
+a) 100 Mbps
+b) 1 Gbps
+c) 5 Gbps
+d) 50 Gbps
+ANSWER: C
+
+51) Indique cómo se denomina a la memoria intermedia muy rápida integrada dentro del procesador que permite reducir el tiempo de acceso a la memoria principal:
+a) Caché
+b) RAM
+c) ROM
+d) EPROM
+ANSWER: A
+
+52) Indique a qué nos referimos al hablar de SATA:
+a) Un tipo de teclado ergonómico
+b) Un estándar de calidad para monitores
+c) Una interfaz de bus de transferencia de datos en serie
+d) Un tipo de caja para ordenadores de sobremesa
+ANSWER: C
+
+53) Indique cuál de los siguientes términos NO corresponde a un estándar de conexión de Monitores:
+a) VGA
+b) DisplayPort
+c) OVPort
+d) HDMI
+ANSWER: C
+
+54) Indique cómo se denomina a la distribución de las teclas en el teclado más comúnmente utilizada:
+a) ZOUY
+b) POUY
+c) QWERTY
+d) MNBVC
+ANSWER: C
+
+55) Indique cuál de los siguientes tipos de impresora utiliza cartuchos de tóner:
+a) Impacto
+b) Térmica
+c) Láser
+d) Inyección de tinta
+ANSWER: C
+
+56) Indique cuál de las siguientes características NO es proporcionada habitualmente por un equipo multifunción de escritorio:
+a) Impresión
+b) Encuadernación
+c) Escaneo
+d) Fotocopias
+ANSWER: B
+
+57) Indique cuál de las siguientes afirmaciones es cierta:
+a) Windows 10 no trae incorporada una herramienta de copia de seguridad
+b) Windows 10 trae incorporada una herramienta de copia de seguridad a la que se accede en el menú inicio pulsando en “Configuración” y seleccionando la opción lateral “Copia de Seguridad”
+c) Windows 10 trae incorporada una herramienta de copia de seguridad a la que se accede en el menú inicio pulsando en “Configuración”, luego en
+“Actualización y seguridad” y seleccionando la opción lateral “Copia de Seguridad”
+d) Windows 10 trae incorporada una herramienta de copia de seguridad a la que se accede directamente pulsando en “Copias de seguridad” desde el Panel de Control
+ANSWER: C
+
+58) Indique cuál de los siguientes términos corresponde a una tecnología de memoria flash utilizada actualmente en algunos discos de estado sólido:
+a) NAND
+b) WAND
+c) XAND
+d) ZAND
+ANSWER: A
+
+59) Indique cuál de los siguientes términos corresponde al nombre de un conocido producto para realizar copias de los datos de una organización para proteger contra la pérdida de datos:
+a) Coriolis Storage Manager
+b) Cannabis Storage Manager
+c) Tivoli Storage Manager
+d) ITC Storage Manager
+ANSWER: C
+
+60) Indique cuál de los siguientes términos se utiliza para denominar a cada una de las unidades de disco lógicas en una red SAN:
+a) UDL
+b) LUN
+c) LDU
+d) LSU
+ANSWER: B
+
+61) Indique cuál de las siguientes tecnologías de almacenamiento utiliza una red de alta velocidad de tipo Canal de Fibra o iSCSI para garantizar el acceso al volumen compartido como si fuera un almacenamiento local:
+a) NAS
+b) SAN
+c) DAS
+d) FAS
+ANSWER: B
+
+62) Indique cuál de las siguientes es la forma más habitual de sofocar automáticamente un incendio producido en un CPD:
+a) Aumentando la humedad relativa del ambiente con un humidificador para que el fuego no pueda propagarse
+b) Inundando la sala con agua a una presión determinada
+c) Inundando la sala con un gas que elimina el oxígeno
+d) Enviando un mensaje urgente al administrador del CPD y a los bomberos
+ANSWER: C
+
+63) Indique cuál de los siguientes términos corresponde a un proveedor de soluciones de virtualización de escritorio:
+a) Citrix
+b) Matrix
+c) vDesktop
+d) RedSquirrel
+ANSWER: A
+
+64) Indique cómo se llama el archivo ejecutable del cliente de conexión a escritorio remoto disponible en Windows 10:
+a) mstsc.exe
+b) msconfig.exe
+c) msra.exe
+d) msrdc.exe
+ANSWER: A
+
+65) Indique cuál de los siguientes términos corresponde a uno de los protocolos utilizados por el Directorio Activo de Microsoft:
+a) MPAP
+b) MSDA
+c) LDAP
+d) ACAP
+ANSWER: C
+
+66) Indique cuál de los siguientes términos corresponde a un estándar abierto para la autorización en sitios web o aplicaciones informáticas:
+a) OAuth
+b) StdAuth
+c) Authority
+d) Authacity
+ANSWER: A
+
+67) Indique cómo se denomina a la tecnología de seguridad que requiere múltiples métodos de autenticación de categorías independientes para verificar la identidad de un usuario para un inicio de sesión u otra transacción:
+a) Autenticación Multifactor
+b) Autenticación Multicapa
+c) Autenticación Multidispositivo
+d) Autenticación Multipropósito
+ANSWER: A
+
+68) Indique cuál de los siguientes términos NO corresponde a un protocolo asociado al correo electrónico:
+a) POP3
+b) SMTP
+c) OMAIL
+d) IMAP4
+ANSWER: C
+
+69) Indique cuál de las siguientes afirmaciones acerca de la funcionalidad de respuestas automáticas en Microsoft Outlook 2016 es correcta:
+a) No se pueden configurar mensajes de respuesta automática
+b) Solo se puede configurar un mensaje de respuesta automática
+c) Se pueden configurar dos mensajes diferentes para respuestas automáticas, uno para dentro de mi organización y otro para fuera de mi organización
+d) Se pueden configurar tres mensajes diferentes para respuestas automáticas, uno para mi lista de contactos, otro para dentro de mi organización y otro para fuera de mi organización
+ANSWER: C
+
+70) Indique cuál de las siguientes extensiones corresponde a un archivo de datos de Microsoft Outlook 2016:
+a) .prt
+b) .pst
+c) .pqt
+d) .pnt
+ANSWER: B
+
+71) Indique cómo se denomina en Microsoft Outlook 2016 en Español el proceso de organizar, almacenar y salvar documentos antiguos:
+a) Almacenado
+b) Archivado
+c) Conservado
+d) Encarpetado
+ANSWER: B
+
+72) Indique con qué nombre se conoce a las soluciones que permiten a las organizaciones protegerse de las amenazas en sus dispositivos móviles:
+a) Mobile Antivirus (MA)
+b) Mobile AntiMalware (MAM)
+c) Mobile Threat Scanner (MTS)
+d) Mobile Threat Defense (MTD)
+ANSWER: D
+
+73) Indique cuál es el nombre en Windows 10 del ejecutable de la aplicación que permite comprobar si hay errores lógicos y físicos en los metadatos del sistema de archivos y del sistema de archivos de un volumen:
+a) ddisk.exe
+b) sandsk.exe
+c) chkdsk.exe
+d) testdisk.exe
+ANSWER: C
+
+74) Indique cuál de los siguientes términos corresponde al nombre de una conocida herramienta para el análisis del tráfico de red, identificación de paquetes de comunicaciones y protocolos:
+a) NetAnt
+b) NetPacket
+c) WireCow
+d) WireShark
+ANSWER: D
+
+75) Indique cómo se denomina dentro de la suite Office 365 a la herramienta especializada en la toma de notas:
+a) OneNote
+b) Notepad 365
+c) WordNotes
+d) NoteDrive
+ANSWER: A
+
+76) Indique cómo se denomina dentro de la suite Office 365 a la herramienta de colaboración y trabajo en equipo:
+a) Collaby
+b) Teams
+c) Slack
+d) Groups
+ANSWER: B
+
+77) Indique cómo se delimitan las cadenas de texto en Microsof Excel 2016 en Español:
+a) Entre comillas simples, por ejemplo ‘hola’
+b) Entre comillas dobles, por ejemplo “hola”
+c) Entre corchetes, por ejemplo [hola]
+d) Entre paréntesis, por ejemplo (hola)
+ANSWER: B
+
+78) Indique cuál de las siguientes opciones es una referencia absoluta en Microsoft Excel 2016 en Español:
+a) C1
+b) $C1
+c) C$1
+d) $C$1
+ANSWER: D
+
+79) Indique cómo se pueden concatenar cadenas de texto en Microsoft Excel 2016 en Español:
+a) Usando el operador +
+b) Usando el operador |
+c) Usando el operador ||
+d) Usando el operador &
+ANSWER: D
+
+80) Indique a qué tipo de funciones corresponde la función “COINCIDIR” en Microsoft Excel 2016 en Español:
+a) Texto
+b) Lógica
+c) Matemáticas y trigonométricas
+d) Búsqueda y referencia
+ANSWER: D
+
+81) Indique a qué corresponde el término “WordArt” en Microsoft Word 2016 en Español:
+a) A una imagen que se inserta en el documento
+b) A un texto de una galería de estilos de texto que se inserta en el documento
+c) A un objeto dll que se inserta en el documento
+d) El término “WordArt” no existe
+ANSWER: B
+
+82) Indique cuál de los siguientes términos NO corresponde a un tipo de vista estándar disponible en Microsoft Word 2016 en Español:
+a) Modo de lectura
+b) Diseño de impresión
+c) Modo libro electrónico
+d) Esquema
+ANSWER: C
+
+83) Indique cómo se denomina a cada una de las partes que contiene una presentación de Microsoft PowerPoint 2016 en Español:
+a) Páginas
+b) Hojas
+c) Diapositivas
+d) Transparencias
+ANSWER: C
+
+84) Indique cuál de las siguientes afirmaciones es cierta sobre la disponibilidad de las aplicaciones de Microsoft Office para dispositivos iPhone:
+a) Las aplicaciones de Microsoft Office no están disponibles para iPhone, al tratarse de un sistema operativo de Apple
+b) Las aplicaciones de Microsoft Office no están disponibles para iPhone, pero se pueden abrir los documentos de Word y Excel desde las aplicaciones Pages y Numbers de Apple
+c) Las aplicaciones de Microsoft Office están disponibles para iPhone, pero no se pueden descargar de forma independiente, se utilizan todas desde una única aplicación “Microsoft Office” disponible en el App Store
+d) Las aplicaciones de Microsoft Office están disponibles para iPhone como aplicaciones independientes en el App Store
+ANSWER: D
+
+85) Seleccione cuál es el principal formato de ficheros usado por Adobe Acrobat:
+a) docx
+b) eps
+c) pdf
+d) epub
+ANSWER: C
+
+86) Indique qué es PDF/X o PDFx:
+a) Un formato de fichero PDF accesible
+b) Un formato de fichero PDF pensado para el archivado y conservación a largo plazo de los documentos
+c) Un formato de fichero PDF comprimido sin pérdida de calidad
+d) Un formato de fichero PDF pensado para imprimir en papel
+ANSWER: D
+
+87) Indique cuál de los siguientes nombres corresponde a una herramienta para crear archivos PDF a partir de cualquier aplicación y convertir archivos al formato PDF:
+a) PDF24 Creator
+b) PDF24 Manager
+c) PDF24 Printer
+d) PDF24 Connector
+ANSWER: C
+
+88) Indique cómo se denomina comúnmente a un switch de red que permite su configuración y ofrece herramientas y medios para monitorización de la red, control del tráfico, etc.:
+a) Switch Plug & Play
+b) Switch estructurado
+c) Switch configurable
+d) Switch gestionable
+ANSWER: D
+
+89) Indique cómo se denomina el protocolo que permite imprimir una foto desde un dispositivo iPhone en una impresora de forma inalámbrica si se encuentran conectados a la misma red WiFi:
+a) AirPrint
+b) iPrint
+c) Print Direct
+d) Apple Wireless Print Protocol
+ANSWER: A
+
+90) Indique cómo se denomina el protocolo o norma que permite la conexión inalámbrica de varios dispositivos entre sí sin necesidad de un punto de acceso intermedio:
+a) WiFi Direct
+b) P2P WiFi
+c) Smart Connect
+d) Smart Link
+ANSWER: A
+
+91) Indique cuál de los siguientes números de puerto TCP es utilizado habitualmente por el protocolo Telnet:
+a) 23
+b) 24
+c) 25
+d) 26
+ANSWER: A
+
+92) Indique cuál de los siguientes términos corresponde al nombre de una conocida herramienta que permite la conexión remota a otros sistemas utilizando el protocolo SSH y Telnet:
+a) Jetty
+b) Cotty
+c) Putty
+d) Fatty
+ANSWER: C
+
+93) Indique a cuál de las siete capas del modelo OSI corresponde la capa de Aplicación:
+a) Capa 4
+b) Capa 5
+c) Capa 6
+d) Capa 7
+ANSWER: D
+
+94) Indique a qué corresponden las siglas VPN:
+a) Very Private Network
+b) Virtual Private Network
+c) Verified Private Network
+d) Virtual Protected Network
+ANSWER: B
+
+95) Indique cuál de los siguientes términos NO está relacionado con los algoritmos criptográficos:
+a) AES
+b) RSA
+c) HWA
+d) DES
+ANSWER: C
+
+96) Indique a qué corresponde la última letra S cuando hablamos de HTTPS:
+a) Secure
+b) Shield
+c) System
+d) Safety
+ANSWER: A
+
+97) Indique de cuántos dígitos se compone el código de respuesta en HTTP:
+a) Uno
+b) Dos
+c) Tres
+d) Cuatro
+ANSWER: C
+
+98) Indique para qué se utiliza el producto Wowza:
+a) Para servir contenido web estático
+b) Para servir vídeo en directo
+c) Para servir vídeo bajo demanda
+d) Para servir vídeo en directo y vídeo bajo demanda
+ANSWER: D
+
+99) Indique a partir de qué tasa aproximada de imágenes o fotogramas por segundo el ojo humano aprecia una imagen en movimiento:
+a) 6
+b) 12
+c) 30
+d) 50
+ANSWER: B
+
+100) Indique cuál de los siguientes productos permite realizar tratamiento profesional de vídeo:
+a) Adobe Photoshop
+b) Adobe Dreamweaver
+c) Adobe Premier
+d) Adobe Acrobat
+ANSWER: C
+
+101) [RESERVA] Indique cuál de los siguientes términos NO corresponde a un formato de caja para ordenadores de sobremesa:
+a) ATX
+b) PST
+c) SFF
+d) HTPC
+ANSWER: B
+
+102) [RESERVA] Según la Plantilla Orgánica de la Secretaría General del Senado, indique cómo se denomina el área en el que están adscritos los Técnicos Auxiliares de Informática:
+a) Área de Atención Informática y Audiovisuales
+b) Área de Atención Informática y Explotación
+c) Área de Soporte Técnico y Explotación
+d) Área de CAU y Audiovisuales
+ANSWER: B
+
+103) [RESERVA] Indique cómo se denomina la solución para el almacenamiento y acceso compartido a documentos que forma parte de Office 365:
+a) iCloud
+b) DropBox
+c) OneDrive
+d) SafeSync
+ANSWER: C
+
+104) [RESERVA] Indique cuál de las siguientes extensiones corresponde a un formato de archivos de audio desarrollado por Microsoft a finales de la década de 1990:
+a) .wma
+b) .mp3
+c) .aac
+d) .aiff
+ANSWER: A
+
+105) [RESERVA] En el equipamiento de un CPD, indique cómo se conoce a una práctica habitual de distribución de los equipos para reducir la energía consumida en su refrigeración:
+a) Pasillos de aire caliente y frío
+b) Techos fríos
+c) Orientaciones contrapuestas
+d) Calor localizado
+ANSWER: A

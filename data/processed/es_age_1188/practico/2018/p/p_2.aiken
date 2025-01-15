@@ -1,0 +1,155 @@
+SUPUESTO BLOQUE IV
+Trabaja en la unidad de informatica de una empresa publica que presta servicios para la administracion electronica y para ello
+cuenta con dos CPDs, uno principal dentro de las instalaciones de la empresay otro de respaldo situado en un Ministerio cercano.
+El edificio en el que se encuentra la empresa se ha quedado pequefio debido al crecimiento de la misma y se le ha comunicado
+que se va a proceder al traslado del personal y del CPD a otro edificio situado a una calle de distancia.
+Aprovechando el traslado se quieren modernizar las infraestructuras y ampliar la capacidad de algunos de los sistemas.
+Como personal informatico se le nombra parte del comité de traslado para la resolucién de las cuestiones técnicas.
+
+
+1. En el nuevo CPD tenemos un servidor con Linux llamado "servidor_del_traslado" y se ha decidido crear un usuario
+especifico que se llamara "traslado" con contrasefia "zzzz", que pertenezca al grupo ya existente “migracion” y cuyo
+directorio principal (HOME_DIR) sea /traslado/respaldo gCémo lo haria?
+a) useradd traslado -d /traslado/respaldo -p migracion -g zzzz
+b) useradd -d /traslado/respaldo -g migracion -p zzzz traslado
+c)
+_useradd -g /traslado/respaldo -d migracion -p zzzz traslado
+d) useradd -p /traslado/respaldo -g migracion -d zzzz traslado
+ANSWER: B
+
+2. Para ver que todo es correcto, compruebe remotamente el uid y el gid del usuario "“traslado" en el “servidor_del_traslado", que se ha creado anteriormente.
+a) ssh servidor_del_traslado -I traslado id uid gid
+b) ssh -host servidor_del_traslado -| traslado id
+c)
+ssh servidor_del_traslado traslado id
+d) ssh servidor_del_traslado -! traslado id
+ANSWER: D
+
+3. Le piden que en el servidor Linux afiada una ruta que permita ir al destino 10.254.252.4 a través del gateway 10.253.1.254
+que esta conectado a un firewall. ~Cémo lo haria?
+a)
+route new-net 10.254.252.4 netmask 255.255.255.0 gw 10.253.1.254
+b)
+c)
+d)
+route add -net 10.254.252.4 netmask 255.255.255.0 gwvia 10.253.1.254
+route add -net 10.254.252.4 netmask 255.255.255.0 gwadd 10.253.1.254
+route add -net 10.254.252.4 netmask 255.255.255.0 gw 10.253.1.254
+ANSWER: D
+
+4. ¿Cómo podria listar las rutas existentes y asi cerciorarse de que la ruta anterior esta bien afiadida?
+a)
+ip route path
+c)
+ip show route
+b)
+d)
+ip route list
+ip view route
+ANSWER: B
+
+5. Se va a dar un nuevo direccionamiento temporal para la migracién. Se trata de la red 10.1.248.0 / 21. gCual es la direccion de broadcast?
+a)
+10.255.255.255
+c)
+10.1.254.255
+b)
+d)
+10.1.255.255
+10.1.248.255
+ANSWER: B
+
+6. Parece que hay problemas a nivel 2 debido a unas MAC antiguas. ¢Qué parametro del comando ARP hay que usar para mostrar la tabla ARP?
+a) arp -all
+b)
+c) arp-a
+d)
+arp -i
+arp-g
+ANSWER: C
+
+7. Se va a instalar el protocolo SMTP en un servidor y debe indicar qué puerto por defecto deberia abrirse en el firewall.
+a) 53
+b) 110
+c) 25
+d) 138
+ANSWER: C
+
+8. En el nuevo CPD se esta valorando la instalacién de un Cloud Computing de software libre. gCual podria utilizarse?
+a) Openstack
+b) Azure
+c)
+Salesforce
+d) AWS
+ANSWER: A
+
+9. Le han solicitado informacién sobre virtualizaci6n, ¢a qué se refieren las siglas VDI7
+a)
+Virtual Disk Infrastructure.
+b) Virtual Definition Infraestructure.
+c)
+Virtual Desktop Infrastructure.
+d)
+Virtual Desktop Interface.
+ANSWER: C
+
+10.
+Para evitar problemas debido a las latencias, se ha decidido aumentar en el Apache a 500 el niimero de segundos antes
+de que la sesi6n SSL expire en la Cache de Sesién. gQué variable habria que modificar?
+a) SSLSessionCacheTimeout
+b) SSLOCSessionCacheTimeout
+c) SSLSessionTimeoutCache
+d) SSLStaplingErrorCacheTimeout
+ANSWER: A
+
+11.
+Le informan de que se esta obteniendo un cédigo 405 al intentar conectarse a ciertos servicios migrados. ~Qué
+significa ese cédigo de estado de respuesta http?
+a)
+El servidor no pudo interpretar la solicitud dada una sintaxis invalida.
+b)
+c)
+d)
+El cliente no posee los permisos necesarios para cierto contenido, por lo que el servidor esta rechazando otorgar una
+respuesta apropiada.
+El método solicitado es conocido por el servidor pero ha sido deshabilitado y no puede ser utilizado.
+El cliente ha indicado pre-condiciones en sus encabezados la cual el servidor no cumple.
+ANSWER: C
+
+12. Le han enviado una alerta de seguridad sobre un posible ataque de Fraggle. gEn qué consiste?
+a)
+El atacante bloquea la pila TCP con peticiones de Ips.
+b)
+c)
+d)
+El atacante envia peticiones RCKyel sistema operativo se desborda.
+El atacante envia una gran cantidad de trafico de solicitudes "echo UDP" a una direccion IP de Difusion.
+El atacante bloquea el reloj de la placa base mediante peticiones de numeros aleatorios.
+ANSWER: C
+
+1. [RESERVA] Antes de comenzar a apagar servidores se quiere hacer, a modo de backup local, un tar.gz de las configuraciones de los
+servidores ubicadas en la carpeta /backup/tomcat ¢Cémo lo haria?
+a)_ tar.gz -czvf configuraciones.tar.gz /backup/tomcat/
+b)_ tar -czvf /backup/tomcat/ configuraciones.tar.gz
+c) _ tar -czvf configuraciones.tar.gz /backup/tomcat/
+d) _ tar -xvf configuraciones.tar.gz /backup/tomcat/
+ANSWER: C
+
+2. [RESERVA] Le indican que no se llega al servidor por el puerto 777 y las comunicaciones ya estan comprobadas. gCémo podria
+saber si el servidor esta escuchando por el puerto 777?
+a)
+netstat -i:777
+c) sof -i:777
+b)
+d)
+ip port :777
+listen -i:777
+ANSWER: C
+
+3. [RESERVA] La seguridad es clave y por ello le han dicho que hay que securizar las redes filtrando las conexiones por IP y puerto. ¿Qué hardware necesita?
+a)
+Host IDS.
+b) Cortafuegos de capa de red.
+c) Network PIDS.
+d) Honeypot.
+ANSWER: B

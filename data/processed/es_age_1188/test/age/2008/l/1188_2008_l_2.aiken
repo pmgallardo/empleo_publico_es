@@ -1,0 +1,377 @@
+1. Una tabla se dice que esta en 3ª Forma Normal si se encuentra en 2ª Forma Normal y:
+a) Las únicas dependencias funcionales elementales son aquellas en las que la clave principal (y claves secundarias) determinan un atributo.
+b) Todo atributo secundario depende totalmente de la clave completa.
+c) Los valores que componen los atributos son elementales y únicos.
+d) No existen atributos no primarios que son transitivamente dependientes de cada posible clave de la tabla.
+ANSWER: D
+
+2. En una tabla de una base de datos relacional, si no existen grupos repetitivos, y todos los elementos son independientes entre sí y dependen solamente de la clave primaria de forma plena, ¿ante qué forma normal nos encontramos?
+a) 1FN.
+b) 2FN.
+c) 3FN.
+d) No se encuentra en ninguna forma normal.
+ANSWER: C
+[ANULADA]
+3. En el modelo relacional, una relación R, decimos que está en segunda forma normal (2FN) si:
+a) Está en primera forma normal (1FN) y todos los atributos que no forman parte de las claves candidatas tienen dependencia funcional completa respecto de éstas.
+b) Todos los atributos que no forman parte de las claves candidatas tienen dependencia funcional completa respecto de éstas.
+c) Todos sus atributos no principales dependen directamente de la clave primaria.
+d) No tiene grupos repetitivos, es decir, un atributo sólo puede tomar un único valor de un dominio simple.
+ANSWER: A
+
+4. La tabla siguiente EMPLEADOS (COD_EMPLEADO, COD_DEPARTAMENTO, TIPO, EDAD,PLANTA_DEPARTAMENTO) donde la clave principal es COD_EMPLEADO y COD_DEPARTAMENTO.
+a) Cumple la segunda forma normal.
+b) No cumple la tercera forma normal, pero cumple la segunda.
+c) No cumple la segunda forma normal.
+d) No cumple la cuarta forma normal, pero cumple la tercera.
+ANSWER: C
+
+5. ¿Cómo se llama el operador del álgebra relacional que aplicado sobre una relación permite obtener un subconjunto de sus atributos manteniendo el mismo número de tuplas?
+a) Unión de conjuntos.
+b) Producto cartesiano.
+c) Selección.
+d) Proyección.
+ANSWER: D
+
+6.¿Cuál de las siguientes afirmaciones NO es correcta?
+a) Las bases de datos relacionales se normalizan para evitar la redundancia de datos.
+b) Ningún atributo que compone una clave primaria puede ser nulo.
+c) Un atributo nulo representa el valor cero o una cadena vacía.
+d) Uno de los objetivos de la normalización es facilitar el mantenimiento de datos y programas.
+ANSWER: C
+
+7.En un programa Java se tiene que:
+String a=new String();
+for (int i=100; i>=27; i--){
+for (int j=2; j<5; j++){
+a=a+"aa";
+}
+}
+¿Cuántos caracteres tendrá la cadena a cuando termine la ejecución del programa?
+a) 444.
+b) 438.
+c) 296.
+d) 450.
+ANSWER: A
+
+8.La primera instrucción contenida en un bucle while,
+a) Se ejecuta al menos una vez.
+b) No puede ejecutarse indefinidamente.
+c) Puede no ejecutarse nunca.
+d) No puede ser un bucle.
+ANSWER: C
+
+9.En los lenguajes de programación, ¿cuál de las siguientes afirmaciones es correcta?
+a) La modificación de un programa fuente es más sencilla en el compilado que en el intérprete.
+b) El programa objeto que produce un programa interpretado es más pequeño que el que produce un programa compilado.
+c) Las ejecuciones sucesivas de un programa compilado no necesitan traducciones del programa fuente.
+d) Un programa interpretado es más rápido que uno compilado.
+ANSWER: C
+
+10. ¿Cuál es el significado el término acoplamiento cuando se habla de los módulos de un determinado programa? ¿Cuál es el valor deseado de dicho acoplamiento?
+a) Grado de interdependencia entre los distintos módulos de un programa. Debe ser alto.
+b) Grado de interdependencia entre los distintos módulos de un programa. Debe ser bajo.
+c) Relación funcional entre las distintas sentencias que componen un módulo. Debe ser alto.
+d) Relación funcional entre las distintas sentencias que componen un módulo. Debe ser bajo.
+ANSWER: B
+
+11. La instrucción de bucle que al menos se ejecuta siempre una vez es:
+a) REPEAT/UNTIL.
+b) WHILE.
+c) FOR.
+d) IF.
+ANSWER: A
+
+12. En relación con las plataformas .Net framework, el CLR (Common Lenguaje Runtine) es el motor de ejecución de las aplicaciones .NET. ¿Cuál de las siguientes no es una función del CLR?
+a) Es el encargado de generar el lenguaje máquina.
+b) Elimina de la memoria objetos no utilizados.
+c) Se encarga de la seguridad del código que se ejecuta.
+d) Todas las anteriores son funciones del CLR.
+ANSWER: D
+
+13. En una aplicación de gestión de compras de coches se tienen 3 tablas. La tabla PERSONA (IDPERSONA, APELLIDO1, APELLIDO2, NOMBRE, MUNICIPIO), la tabla COCHE (IDCOCHE, MARCA) y la tabla COMPRAS (IDPERSONA, IDCOCHE). Una persona puede comprar varios coches pero un coche sólo puede ser comprado por una única persona. Seleccione la consulta que nos devuelve el número de coches comprado de cada marca en cada municipio (registros de la forma 3, HONDA, MADRID):
+a) Select count(1), C.MARCA, B.MUNICIPIO from COMPRAS A, PERSONA B, COCHE C where B.IDPERSONA=A.IDPERSONA AND C.IDCOCHE=A.IDCOCHE GROUP BY C.MARCA, B.MUNICIPIO
+b) Select count(*), C.MARCA, B.MUNICIPIO from COMPRAS A, PERSONA B, COCHE C where B.IDPERSONA=A.IDPERSONA AND C.IDCOCHE=A.IDCOCHE GROUP BY C.MARCA
+c) Select count(1), C.MARCA, B.MUNICIPIO from COMPRAS A, PERSONA B, COCHE C where B.IDPERSONA=A.IDPERSONA AND C.IDCOCHE=A.IDCOCHE
+d) Select SUM(1), C.MARCA, B.MUNICIPIO from COMPRAS A, PERSONA B, COCHE C where B.IDPERSONA=A.IDPERSONA AND C.IDCOCHE=A.IDCOCHE GROUP BY C.MARCA AND GROUP BY B.MUNICIPIO
+ANSWER: A
+
+14. Entre las operaciones básicas del Lenguaje de Manipulación de Datos de SQL, se encuentran:
+a) Drop y Delete.
+b) Insert y Delete.
+c) Create y Drop.
+d) Create y Revoke.
+ANSWER: B
+
+15. ¿Cuál es la función de la operación ALTER en SQL?
+a) Cambiar la estructura de un objeto.
+b) Cambiar los datos de un objeto.
+c) Elimina un objeto de la base de datos.
+d) Elimina todos los objetos de la base de datos.
+ANSWER: A
+
+16. La cláusula HAVING de SQL, se utiliza para:
+a) Devolver los registros ordenados de una tabla.
+b) Especificar una condición de búsqueda para un grupo o agregado.
+c) Agrupar varios atributos para formar una clave.
+d) Obtener en una sentencia SELECT grupos de tuplas en lugar de tuplas individuales.
+ANSWER: B
+
+17. Partiendo de la siguiente consulta en Oracle: "SELECT nombre_empresa, SUM (cantidad) FROM cuentas WHERE nombre_empresa!=’empresa1’ GROUP BY nombre_empresa HAVING SUM(cantidad)>100 ORDER BY nombre_empresa ASC" ¿Cuál de las siguientes cláusulas se ejecutaría primero?
+a) GROUP BY.
+b) WHERE.
+c) ORDER BY.
+d) HAVING.
+ANSWER: B
+
+18. [ANULADA] ¿Cuál de las siguientes sentencias no es una sentencia DDL?
+a) CREATE TABLE.
+b) DELETE TABLE.
+c) ALTER TABLE.
+d) RENAME TABLE.
+ANSWER:
+
+19. En el Lenguaje de Modelado Unificado (UML), según Métrica 3, en los diagramas de clase:
+a) Las relaciones de composición se representan mediante un rombo hueco.
+b) Las relaciones de herencia se representan mediante un rombo hueco.
+c) Las relaciones de dependencia se representan mediante un rombo hueco.
+d) Las relaciones de agregación se representan mediante un rombo hueco.
+ANSWER: D
+
+20. En Programación Orientada a Objetos, se define clase como:
+a) Entidad provista de un conjunto de propiedades o atributos.
+b) Algoritmo asociado a un objeto.
+c) El medio a través del cual los objetos interactúan.
+d) Conjunto de objetos con propiedades comunes.
+ANSWER: D
+
+21. En el diseño y programación Orientada a Objetos, ¿qué afirmación es correcta?
+a) Cuando una clase hereda de otra, todos los elementos privados de la clase base no son accesibles a la clase derivada.
+b) Cuando una clase hereda de otra, todos los elementos privados de la clase base sí son accesibles a la clase derivada.
+c) Si la clase base hace sus elementos protegidos, estos no serán heredados por las clases hijas.
+d) Si la clase base hace sus elementos protegidos, no se restringe el acceso a funciones miembro de la clase.
+ANSWER: A
+
+22. ¿En qué consiste la herencia en programación orientada a objetos?
+a) En que diferentes objetos responden de distinta manera al mismo mensaje.
+b) En el mecanismo por el cual una clase adquiere las propiedades de una clase superior.
+c) El tiempo en que un objeto permanece activo en memoria.
+d) En que la comunicación entre objetos se realiza por medio de mensajes explícitos predefinidos.
+ANSWER: B
+
+23. Se denomina polimorfismo a:
+a) Dividir una aplicación en módulos.
+b) Presentar información oculta.
+c) Relaciones entre objetos.
+d) Que un objeto presente diferentes comportamientos.
+ANSWER: D
+
+24. El Proceso Unificado de Desarrollo del software:
+a) Es iterativo e incremental.
+b) No necesita casos de uso si los requisitos son volátiles.
+c) Es incompatible con UML.
+d) No tiene en cuenta los riesgos.
+ANSWER: A
+
+25. Respecto de la herencia en la programación orientada a objetos, ¿cuál de las siguientes afirmaciones es incorrecta?
+a) Por medio de la herencia unos objetos obtienen las características de otros ya existentes.
+b) Con la herencia se consigue una mayor reutilización del código.
+c) Tanto C++ como Java permiten la herencia múltiple.
+d) La herencia permite que existan clases que nunca sean instanciadas directamente.
+ANSWER: C
+
+26. En el lenguaje Java, se define applet como:
+a) Componente de la parte del servidor.
+b) Programa incrustado en otras aplicaciones.
+c) Biblioteca gráfica que forma parte de las Java Foundation Classes.
+d) Interfaz de programación de aplicaciones.
+ANSWER: B
+
+27. En C++, si en una clase declaramos una función, que no es miembro de ella, como friend (amiga), ¿qué conseguimos?
+a) Es una manera de conseguir el polimorfismo de funciones.
+b) La sobrecarga de esa función.
+c) Que esa función acceda a la parte privada de la clase donde se declara.
+d) Que esa función acceda a la parte pública de la clase donde se declara.
+ANSWER: C
+
+28. ¿Cuál de entre las siguientes no es una característica de Java?
+a) Independencia de la plataforma.
+b) Orientación a objetos.
+c) Existencia del Recolector de basura.
+d) Destinado a ejecutarse únicamente en servidores.
+ANSWER: D
+
+29. En java, si queremos que el valor de una variable no pueda cambiar en tiempo de ejecución, utilizaremos la palabra reservada.
+a) static.
+b) final.
+c) reserved.
+d) protected.
+ANSWER: B
+
+30. En un entorno .NET, ¿qué función realiza la instrucción i += 1?
+a) Inicializa la variable i con el valor 1.
+b) Suma 1 al contenido de la variable i.
+c) Incrementa en 1 la variable i, solo cuando el valor de i es 1.
+d) No es correcta la instrucción.
+ANSWER: B
+
+31. ¿Qué es BPEL?
+a) Lenguaje basado en XML diseñado para el control centralizado de la invocación de diferentes servicios Web.
+b) Una implementación libre de SOAP.
+c) Arquitectura de software que define la utilización de servicios para dar soporte a los requerimientos de software del usuario.
+d) Formato XML usado para describir la interfaz pública a los servicios Web.
+ANSWER: A
+
+32. En la configuración para los componentes de software cliente/servidor denominada "presentación remota",
+a) Los datos de que consta la base de datos se distribuyen entre múltiples clientes y servidores.
+b) La lógica primaria de la base de datos y de la aplicación permanecen en el servidor.
+c) Se asignan al cliente los procesos asociados a la introducción de datos.
+d) Se ubica el Sistema Gestor de Base de Datos (SGBD) en el cliente y la base de datos física en el servidor.
+ANSWER: B
+
+33. ¿Qué afirmación es correcta en relación con el protocolo SOAP?
+a) Es un protocolo de comunicación basado en HTML.
+b) Especifica el formato del mensaje de la comunicación entre ordenadores.
+c) Se utiliza para intercambio de información ente ordenadores con el mismo sistema operativo.
+d) Define los protocolos de transporte utilizados en el envío del mensaje.
+ANSWER: B
+
+34.En la arquitectura cliente/servidor en 2 capas, habitualmente inicia la comunicación:
+a) El Cliente.
+b) El Servidor.
+c) Ambos.
+d) El Servidor, a petición del Cliente.
+ANSWER: A
+
+35. En un documento WSDL, el elemento ‘wsdl:binding’ se utiliza
+a) Para la definición de los datos del mensaje que se van a comunicar.
+b) Como elemento contenedor para definiciones de tipos de datos.
+c) No es un elemento válido.
+d) Para especificar el protocolo concreto y especificación del formato de datos para un tipo de puerto determinado.
+ANSWER: D
+
+36. Respecto de la arquitectura de aplicaciones con tres capas, ¿cuál de las siguientes afirmaciones es correcta?
+a) Las funciones de la aplicación se dividen en lógica de presentación y en lógica de negocio.
+b) Este modelo implica que cada capa vaya alojada en un servidor diferente.
+c) Cuando se actualiza una capa siempre es necesario recompilar el resto de capas.
+d) La capa de la lógica de negocio es la responsable de tratar los datos.
+ANSWER: D
+
+37. ¿Cuál de las siguientes afirmaciones sobre etiquetas de HTML es falsa?
+a) La etiqueta <td> identifica una fila en una tabla.
+b) La etiqueta <br> indica un salto de línea forzado.
+c) La etiqueta <div> identifica un área especial en una página.
+d) La etiqueta <li> es utilizada para el manejo de listas.
+ANSWER: A
+
+38. En el ámbito de las tecnologías XML, se define XLS como:
+a) Un lenguaje para acceder a partes de un documento XML.
+b) Un lenguaje que facilita la extracción de datos desde documentos XML.
+c) Un lenguaje extensible de hojas de estilo.
+d) Un lenguaje que permite insertar elementos en documentos XML para crear enlaces entre recursos XML.
+ANSWER: C
+
+39. Indique la afirmación correcta sobre la directiva <META> en HTML
+a) Se emplea para especificar un directorio base para las referencias (direcciones URL) relativas al documento.
+b) Tiene dos usos: contenedor de metainformación sobre el documento, o contenedor de información adicional, incluidos comandos.
+c) Hace que el navegador visualice como un elemento más un texto y una entrada de datos.
+d) Hace que el navegador visualice como un apartado especial en la ventana de visualización un texto y una entrada de datos.
+ANSWER: B
+
+40. ¿Cuál de entre los siguientes aplicativos se puede ejecutar en un servidor y no en el cliente?
+a) Applets de Java.
+b) Controles Active X.
+c) Servlet de Java.
+d) Javascript.
+ANSWER: C
+
+41. El código JavaScript se ejecuta en:
+a) El Navegador Web del Cliente.
+b) En el Navegador Web del Servidor.
+c) En un Applet de Cliente.
+d) En un Programa en el Cliente.
+ANSWER: A
+
+42. En el estándar "Web Service Description Language" (WSDL), ¿con qué elemento se describen las acciones soportadas por el servicio?
+a) Funciones.
+b) Acciones.
+c) Operaciones.
+d) Primitivas.
+ANSWER: C
+
+43. ¿Qué define la etiqueta <u> en html?
+a) Texto uniforme.
+b) Encabezado de un documento.
+c) Indica el comienzo de un título.
+d) Texto subrayado.
+ANSWER: D
+
+44.¿Cuál es la etiqueta HTML para insertar una imagen?
+a) <td>
+b) <body>
+c) <img>
+d) <H1>
+ANSWER: C
+
+45. Según las Técnicas Esenciales para las Directrices de Accesibilidad para el Contenido Web 1.0, organizar el documento de forma que pueda ser leído sin hojas de estilo es de:
+a) Prioridad 1.
+b) Prioridad 2.
+c) Prioridad 3.
+d) Prioridad 4.
+ANSWER: A
+
+46. ¿Cuál es una pauta de la Iniciativa de accesibilidad a la Web del World Wide Web Consortium (W3C/WAI)?
+a) En los enlaces de hipertexto usar texto sencillo y fácil de comprender cuando se lea fuera de contexto, como por ejemplo "pincha aquí".
+b) Utilizar marcos (frames) que simplifiquen la página.
+c) Provea alternativas equivalentes para contenido visual y auditivo.
+d) Evitar en imágenes y animaciones atributos como "alt" que puede confundir con su texto alternativo.
+ANSWER: C
+
+47. La Web Accesibility Initiative indica una serie de componentes esenciales en la accesibilidad web, y define una serie de guías, ¿cuál de entre las siguientes corresponde a la generación de contenidos accesibles?
+a) ATAG (Authoring Tool Accesibility Guideline).
+b) WCAG (Web Content Accesibility Guideline).
+c) WMAG (Web Management Acesibility Guideline).
+d) UAAG (User Agent Accesibility Guideline).
+ANSWER: B
+
+48. En relación con las normas WAI (Web Accessibility Initiative), Existen tres niveles de conformidad o adecuación con las directrices, hablamos de nivel ""Doble-A"" cuando:
+a) Se satisfacen todos los controles de Prioridad 1.
+b) Se satisfacen todos los controles de Prioridad 2.
+c) Se satisfacen todos los controles de Prioridad 1 y 2.
+d) Se satisfacen todos los controles de Prioridad 1, 2 y 3.
+ANSWER: C
+
+49. ¿Cuál de las siguientes pautas de accesibilidad web es obligatorio respetar para que un sistema cumpla el nivel A de la especificación WCAG ("Web Content Accesibility Guidelines")?:
+a) Asegúrese de que toda la información transmitida a través de los colores también esté disponible sin color.
+b) Utilice hojas de estilo para controlar la maquetación y la presentación.
+c) Proporcione metadatos para añadir información semántica a las páginas y sitios.
+d) Identifique claramente el objetivo de cada vínculo.
+ANSWER: A
+
+50. ¿Cuál es el organismo en Internet que ha realizado las Guías para la Accesibilidad de Contenidos Web, WCAG, dentro de la iniciativa para la Accesibilidad de las webs WAI?
+a) IETF.
+b) IANA.
+c) W3C.
+d) RIPE.
+ANSWER: C
+
+1. [RESERVA] Las herramientas Middle CASE se usan para:
+a) Automatizar tareas en el análisis y diseño de aplicaciones.
+b) Ayudar en las fases de planificación y análisis de requisitos.
+c) Automatizar la generación de código y crear programas de detección de errores.
+d) Depurar programas y realizar planes de pruebas.
+ANSWER: A
+
+2. [RESERVA] En una clasificación de herramientas CASE basada en las fases del ciclo de desarrollo que cubren, las denominadas Lower Case se emplean en:
+a) La generación de código.
+b) El análisis de requisitos.
+c) La fase de planificación.
+d) La fase de diseño.
+ANSWER: A
+
+3. [RESERVA] ¿Qué tiene que declarar un módulo o plug-in de Eclipse para que otros módulos le puedan agregar funcionalidades?
+a) La localización de cada módulo que contribuye con sus nuevas funcionalidades.
+b) Una o varias extensiones.
+c) Uno o varios puntos de extensión.
+d) Un servicio web.
+ANSWER: C

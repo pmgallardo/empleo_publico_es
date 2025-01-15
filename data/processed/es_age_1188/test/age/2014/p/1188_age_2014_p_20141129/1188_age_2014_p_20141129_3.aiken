@@ -1,0 +1,196 @@
+1. En un sistema operativo UNIX, ¿qué hace la siguiente cadena de comandos?
+$ scp paco@almendro.admin.org:/etc/hosts paco@abedul.admin.org:/etc/hosts
+a) El usuario paco está realizando una copia del fichero host del servidor abedul en el servidor almendro.
+b) El usuario paco está realizando una copia del fichero host del servidor almendro en el servidor abedul.
+c) El usuario paco está configurando un nuevo dominio en el servidor almendro correspondiente al servidor abedul.
+d) El usuario paco está configurando un nuevo dominio en el servidor almendro con los datos de dominio guardados en el servidor abedul.
+ANSWER: B
+
+2. Indique cuál de los siguientes comandos UNIX muestra el % del uso de CPU:
+a) tar
+b) crontab
+c) iostat
+d) netstat
+ANSWER: C
+
+3. De los siguientes comandos/<combinación de teclas>, indique cuál permite salir del editor Vi salvando los cambios del fichero que se está editando:
+a) <Esc> ZZ
+b) q!
+c) <Ctrl + x>
+d) <Supr + x>
+ANSWER: A
+
+4. Cuando una transacción devuelve un conjunto de filas que satisfacen una condición de búsqueda pero alguna de esas filas no existía cuando se inició la transacción, estamos hablando de:
+a) Lectura no repetible.
+b) Lectura fantasma.
+c) Lectura sucia.
+d) Lectura arbitraria.
+ANSWER: B
+
+5. En el sistema de gestión de base de datos Oracle, indique cuál de las siguientes afirmaciones es FALSA en relación al comando EXPLAIN PLAN:
+a) Permite determinar si en la ejecución de una consulta SELECT se utiliza un índice.
+b) Permite determinar el rendimiento del comando INSERT.
+c) Permite determinar el rendimiento del comando DROP TABLE.
+d) Permite determinar el rendimiento de una consulta DELETE.
+ANSWER: C
+
+6. Indique el puerto que utiliza el protocolo Post Office Protocol - version 3:
+a) 143
+b) 110
+c) 220
+d) 109
+ANSWER: B
+
+7. Cómo se denomina la extensión de SMTP, estandarizada en la RFC 2645, que permite que el correo electrónico sea transmitido a receptores que se conectan de forma intermitente después de que hayan sido autenticados:
+a) SMTP Service Extension for Secure SMTP.
+b) Message Submission for Mail (MSM).
+c) SMTP Service Extension for Authentication.
+d) On-Demand Mail Relay (ODMR).
+ANSWER: D
+
+8. SNMP es un protocolo de gestión de dispositivos de red significa:
+a) Standard Network Manipulation Protocol.
+b) Simple Network Manipulation Protocol.
+c) Standard Network Management Protocol.
+d) Simple Network Management Protocol.
+ANSWER: D
+
+9. ¿Cuál de las siguientes es una herramienta de monitorización de red?
+a) Xen.
+b) OpenView.
+c) OpenVZ.
+d) VirtualBox.
+ANSWER: B
+
+10. El protocolo de gestión de red SNMP:
+a) Sólo permite monitorizar dispositivos (leer estado), pero no gestionarlos (modificar su estado).
+b) Un TRAP SNMP es una comunicación asíncrona por la que un agente SNMP notifica a la estación de gestión de un evento significativo.
+c) Incorpora en su versión 1 el encriptado de la información, para proteger la información de gestión que es crítica.
+d) Utiliza únicamente como protocolo de transporte TCP.
+ANSWER: B
+
+11. Señale en qué versión del protocolo de gestión de redes SNMP se añade por primera vez la instrucción GetBulk:
+a) SNMP v0.
+b) SNMP v1.
+c) SNMP v2.
+d) SNMP v3.
+ANSWER: C
+
+12. Queremos utilizar RSA para asegurar la confidencialidad entre 4 personas. ¿Cuántas claves necesita conocer cada usuario?
+a) 2.
+b) 4.
+c) 6.
+d) 8.
+ANSWER: B
+
+13. ¿En qué algoritmo se basa el estándar AES (Advanced Encryption Standard)?
+a) TDES (Triple Data Encryption Standard).
+b) Rijndael.
+c) Blowfish.
+d) IDEA (International Data Encryption Algorithm) .
+ANSWER: B
+
+14. ¿Cuál de los siguientes problemas afecta a los medios de transmisión de señales?
+a) Reverberación.
+b) Ruido blanco.
+c) Afonía.
+d) Ninguno de los anteriores es un problema para los medios de transmisión.
+ANSWER: B
+
+15. Señale cuál de las siguientes NO es una codificación en banda base:
+a) Manchester.
+b) NRZ.
+c) Nyquist.
+d) AMI bipolar.
+ANSWER: C
+
+16. De los siguientes modos de comunicación ¿cuál se corresponde con la comunicación Anycast?
+a) Un emisor y un receptor.
+b) Un emisor y N receptores.
+c) Un emisor y todos receptores.
+d) Un emisor y un receptor en un grupo de posibles receptores.
+ANSWER: D
+
+17. Indique cuál de las siguientes afirmaciones es FALSA respecto al estándar 802.11n:
+a) Utiliza las bandas de uso común.
+b) La velocidad máxima de transmisión es 54 Mbps.
+c) Permite utilizar múltiples antenas para transmitir y recibir simultáneamente.
+d) Las redes con estándar 802.11n son susceptibles de ser interferidas por redes 802.11a/b/g.
+ANSWER: B
+
+18. Señalar la afirmación cierta sobre la cabecera de un paquete IPv6:
+a) Es igual que la cabecera de IPv4 por motivos de compatibilidad.
+b) La cabecera tiene un tamaño fijo, no admite extensiones.
+c) Las direcciones IPv6 tienen 128 bits.
+d) El campo Hop Limit indica el número de segundos que transcurrirán antes de descartar el paquete.
+ANSWER: C
+
+19. Señale a qué se corresponde la siguiente definición "técnica de desarrollo web para crear aplicaciones que se ejecutan en el cliente, mientras se mantiene la comunicación asíncrona con el servidor en segundo plano":
+a) AJAX.
+b) HTML.
+c) XHTML.
+d) Servlets.
+ANSWER: A
+
+20. En relación con el protocolo HTTP, ¿cuál es el código STATUS asociado al Error: "Service unavailable"?
+a) 501
+b) 502
+c) 503
+d) 504
+ANSWER: C
+
+21. El estándar IEEE 802.4 (Token Bus) tiene:
+a) Topología lógica en anillo y topología física en bus.
+b) Topología lógica en bus y topología física en anillo.
+c) Topología lógica y física en anillo.
+d) Topología lógica y física en bus.
+ANSWER: A
+
+22. Con respecto a los ataques a las redes de comunicaciones, ¿cuál de las siguientes afirmaciones es cierta?
+a) Los ataques causados cuando se copia una cantidad de datos sobre un área que no es lo suficientemente grande para contenerlos son llamados hoax.
+b) Para evitar puertas traseras o back doors hay que tener los antivirus y parches actualizados.
+c) Los ataques mediante sniffing se basan en la suplantación de identidad.
+d) Ninguna de las anteriores es cierta.
+ANSWER: D
+
+23. Cuál de los siguientes algoritmos de cifrado NO es un algoritmo de cifrado simétrico:
+a) RSA
+b) DES
+c) TDES
+d) IDEA
+ANSWER: A
+
+24. Un ataque de "phishing" consiste en un ataque:
+a) De fuerza bruta para adivinar la contraseña de acceso a un sistema.
+b) En el que se suplanta la identidad de una entidad de confianza para solicitar a la víctima datos personales que le permitan realizar un fraude.
+c) De acoso a una persona realizada en redes sociales o Internet utilizando información personal.
+d) De denegación de servicio realizado desde una botnet (red de ordenadores zombies).
+ANSWER: B
+
+25. Según el RFC 4026, una VPN (Virtual Private Network), ¿en qué capas del modelo de referencia OSI se puede establecer?
+a) Capa 1 y capa 2.
+b) Capa 2 y capa 3.
+c) Capa 3 y capa 4.
+d) Capa 5 y capa 6.
+ANSWER: B
+
+1. [RESERVA] En Linux/Unix ¿qué señal, de las definidas en el <signal.h>, provoca la finalización ordenada de un proceso?
+a) SIGTERM
+b) SIGKILL
+c) SIGILL
+d) SIGTTOU
+ANSWER: A
+
+2. La capacidad nativa de la tecnología LTO (Linear Tape-Open) Ultrium es, por cada generación:
+a) LTO-3: 200 GB, LTO-4: 400 GB, LTO-5: 800 GB, LTO-6: 1,5 TB.
+b) LTO-3: 400 GB, LTO-4: 800 GB, LTO-5: 1,5 TB, LTO-6: 2,5 TB.
+c) LTO-3: 100 GB, LTO-4: 200 GB, LTO-5: 400 GB, LTO-6: 800 GB.
+d) LTO-3: 1600 GB, LTO-4: 3200 GB, LTO-5: 6400 GB, LTO-6: 12800 GB.
+ANSWER: B
+
+3. Las unidades de información que maneja el nivel de presentación del modelo OSI se denominan:
+a) Celdas.
+b) Tramas.
+c) Paquetes.
+d) Ninguna es correcta.
+ANSWER: D

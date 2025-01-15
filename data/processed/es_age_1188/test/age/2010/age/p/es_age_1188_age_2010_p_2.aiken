@@ -1,0 +1,197 @@
+1 Indicar cuál de los siguientes tipos de flujos NO aparece en los diagramas de flujo de datos:
+a) Iteración.
+b) Consulta.
+c) Actualización.
+d) Diálogo.
+ANSWER: A
+
+2 Un determinado diseño Entidad-Relación contiene una relación M:N entre dos entidades A y B. Al obtener su diseño lógico, dichas entidades se convierten en las tablas TA y TB con sus claves primarias respectivas KA y KB. Al transformar la mencionada relación M:N al diseño lógico, habrá que:
+a) O bien añadir un campo adicional a la tabla A, que será una clave foránea correspondiente a KB de TB, o bien añadir un campo adicional a la tabla B, que será foránea de KA de TA.
+b) Añadir un campo adicional a la tabla A, que será una clave foránea correspondiente KB de TB, y también añadir un campo a la tabla B, que será foránea de la clave KA de TA.
+c) Crear dos nuevas tablas, cada una con un campo. Cada campo es la clave primaria de su tabla, y a su vez es clave foránea, en un caso correspondiente a KA de TA y en otro, KB de TB.
+d) Crear una nueva tabla, con dos campos. La clave primaria es la composición de ambos. Cada campo es una clave foránea. Uno corresponderá a KA de TA y el otro a KB de TB.
+ANSWER: D
+
+3 Los procesos de control en un diagrama de flujo de datos de acuerdo a la notación empleada en Métrica v3 se representan:
+a) Con dos líneas paralelas cerradas en un extremo y una línea vertical que las une.
+b) Mediante una elipse con un identificador y un nombre signficativo en su interior.
+c) Con una flecha con trazo discontinuo que indica la dirección de flujo y que se etiqueta con un nombre representativo.
+d) Con un rectángulo, con trazo discontinuo, subdividido en tres casillas donde se indica el nombre del proceso, un número identificativo y la localización.
+ANSWER: D
+
+4 Una relación si los atributos que NO forman parte de ninguna clave dependen de forma completa de la clave principal se dice que está en:
+a) Tercera Forma Normal.
+b) Cuarta Formal Normal.
+c) Quinta Formal Normal.
+d) SegUnda Formal Normal.
+ANSWER: D
+
+5 En el modelo Entidad Relación número de atributos de una relación define lo que se conoce como:
+a) Grado.
+b) Cardinalidad.
+c) Dominio.
+d) Relación.
+ANSWER: A
+
+6 En el marco de las reglas de Codd la regla por la que toda la información en la base de datos es representada unidireccionalmente, por valores en posiciones de las columnas dentro de filas de tablas es la que se conoce como:
+a) Regla 3: tratamiento sistemático de valores nulos.
+b) Regla 1: la regla de la información.
+c) Regla 10: independencia de la integrldad,
+d) Regla 12: la regla de la no subversión.
+ANSWER: B
+
+7 La técnica de programación conocida como "divide v vencerás", está basada en el concepto de:
+a) Linealidad.
+b) Recursividad.
+c) Particionado.
+d) Programación funcional.
+ANSWER: B
+
+8 En una tabla, si cada determinante, atributo que determina completamente a otro, es clave candidata se dice que está en:
+a) Primera Forma Normal.
+b) Segunda Forma Normal.
+c) Formal Normal Boyce-Codd.
+d) Quinta formal Normal.
+ANSWER: C
+
+9 Un tipo abstracto de datos (TAD) representa una abstracción donde:
+a) Se destacan los detalles de la especificación (el que) y se ocultan los detalles de la implementación (el cómo).
+b) Se ocultan los detalles de la especificación (el que) y se destacan los detalles de la implementación (el cómo).
+c) Se ocultan los detalles de la especificación (el que) y se ocultan los detalles de la implementación (el cómo).
+d) Se destacan los detalles de la especificación (el que) y se destacan los detalles de la implementación (el cómo),
+ANSWER: A
+
+10 En la estructura de datos conocida como tabla hash, ¿qué consecuencias tiene que se produzca una "colisión de claves" al intentar añadir un nuevo elemento?
+a) En una tabla hash nunca pueden darse colisiones, ya que en eso consiste la principal ventaja de usar una función hash sobre las tablas habituales.
+b) En una tabla hash las colisiones son un fenómeno normal, que se resuelve encadenando los valores en una lista usando direcdonamiento abierto.
+c) En una tabla hash podrían darse colisiones, pero matemáticamente es tan improbable que no se hacen previsiones especiales para el caso.
+d) En una tabla hash siempre ocurren colisiones, ya que es la colisión es un requisito del algoritmo de inserción en la tabla.
+ANSWER: B
+
+11 Cuando para suministrar un valor a una subrutina de un programa, le indicamos la dirección de memoria donde se encuentra dicho valor, decimos que es un paso de parámetro de tipo:
+a) Por valor.
+b) Por referencla.
+c) Absoluto.
+d) Estático.
+ANSWER: B
+
+12 El lenguaje de consulta estructurado (SQL) posee una serie de operadores de agregación, cual de los siguientes NO es uno de ellos:
+a) LIKE.
+b) AVG.
+c) MIN.
+d) COUNT.
+ANSWER: A
+
+13 En el lenguaje SQL, las cláusulas para, respectivamente, consultar datos, introducirlos, modificarlos y borrarlos, son:
+a) SELECT, APPEND, UPDATE, DELETE.
+b) SELECT, INSERT, UPDATE, ERASE.
+c) SELECT, APPEND, UPDATE, ERASE.
+d) SELECT, INSERT, UPDATE, DELETE.
+ANSWER: D
+
+14 La sentencia TRUNCATE del lenguaje SQL pertenece al:
+a) DDL (Data Definition Language).
+b) DCL (Data Control Language).
+c) DCU (Data Control User).
+d) DML (Data Management Language).
+ANSWER: A
+
+15 Sean dos tablas relaoionaclas, A y B, en un SGBD relacional. En A la clave primarla es el campo llamado primaria" y, en ·e, la clave f'oranea (referenciada con A) es el campo "f'oranea. Si queremos obtener mediante un JOIN las filas de A junta con las filasde 8 correspondientes, y ademas tambien las filas de A que no tengan correspo(ldenclasen 11, i.queusariamos?
+a) A LEFT JOIN B ON A.primaria = B.foranea
+b) A INNER JOIN B ON A.primaria = B.foranea
+c) A RIGHTJOIN B ON A.primaria = B.foranea
+d) A OUTER JOIN B ON A.primaria = B.foranea
+ANSWER: A
+
+16. En programacion orientada a objetos, aquella clase que nunca sera lnstandada.se denomina:
+a) Clase Privada.
+b) Clase Pública.
+c) Clase Protegida.
+d) Clase Abstracta.
+ANSWER: D
+
+17 Dentro de la programaci6n orientada a objetos, la caracteristica que permite a tos valores de diferentes tipos de datos ser manejados usando una interfaz uniforme se denomina:
+a) Herencla.
+b) Encapsulad6n.
+c) Polimorlismo.
+d) Instanciadon.
+ANSWER: C
+
+18 En la arquitectura ANSI SQL la capacidad de modificar el esquema interno sin tener que alterar el esquema conceptual (o los externos) es lo que se conoce coma:
+a) Independencia física.
+b) Independencia lógica.
+c) Integridad de la entidad.
+d) Integridad referencial.
+ANSWER: A
+
+19 En el framework .Net, el encargado de proveer lo que se llama código administrado se denomina:
+a) MSIL (Microsoft Intermediate Language),
+b) J2EE (Java 2 Platform, Enterprise Editlon).
+c) Common Language Runtime (CLR).
+d) BYTECODE.
+ANSWER: C
+
+20 En un fragmento de código en Java se desea recorrer la colección "Collection<Planta> plantas", llamando al método "regar()" de cada planta miembro de la colección. Indique cuál de los siguientes fragmentos cumple con el enunciado:
+a) for (Planta planta = plantas[0]; planta < plantas.Length; planta++) planta.regar();
+b) for (Planta planta : plantas) planta.regar();
+c) foreach (Planta planta in plantas) planta.regar();
+d) for (int p=O; p <= plantas.Count; p++) plantas[p].regar();
+ANSWER: B
+
+21 Señale cual NO es una característica de los servicios web:
+a) Rendimiento Alto.
+b) Alta interoperabilidad.
+c) Permiten la interoperabilidad entre plataformas.
+d) Fomentan los estándares y protocolos basados en texto.
+ANSWER: A
+
+22 El lenguaje de programación Javascript se caracteriza por:
+a) Ser fuertemente tipado.
+b) No estar basado en objetos.
+c) Estar basado en prototipos.
+d) Tener una sintaxis parecida al lenguaje XML.
+ANSWER: C
+
+23 En el contexto de aplicaciones web, "Ajax" es un conjunto de técnicas. Señale la opción correcta:
+a) Se utillza Java (o raramente VisualBasic.NET o C#) como lógica en el navegador.
+b) La comunicación con el servidor se hace con XMLHttpRequest o "JFrame Call", entre otras técnicas.
+c) Se usa XBRL o SGML para el intercambio dinámico de datos entre cliente y servidor.
+d) Para la presentación, se utiliza Eiffel o Smalltalk para poder manipular el DOM.
+ANSWER: B
+
+24 Representational State Transfer (REST) es una arquitectura basada en el lengoaje:
+a) HTTP.
+b) XML.
+c) HTML
+d) JAVA.
+ANSWER: B
+
+25 Cuál de las siguientes NO es una herramienta para evaluación de la accesibilidad de páginas web:
+a) TAW.
+b) Bobby.
+c) Hera.
+d) Magpie.
+ANSWER: D
+
+1 [RESERVA] ¿CUal de las slguientes es una pauta (guideline) incluida en WCAG 2.0 de W3C, sobre el contenido web7
+u) Contenido aceptable: no induya co tenidos lnapropladoso no aptos para entomos lamlhares.
+b) Acceslble por teclado: haga que toda la fonc;lonalidadeste d1sponlble por teclado.
+c) T,empo decarga reduddo: reduzcael tiempo de carga de la g,na para mantenet la atencl6n.
+ti) Neutralidad oomercial: en lo posible. no menc1one marcas comerciales nl muestre logot\pos.
+ANSWER: B
+
+2 [RESERVA] Un documento X.Mi qr.,e slgue tas reglas de sfnta1Cis definidas por la especificacion XML y que se valida con un DTD es documentn:
+a) Bien formado.
+b) Valido,
+c) No alldo.
+d) Estructurado.
+ANSWER: B
+
+3 [RESERVA] En el modelo E/R de Chenpodemos definlr entidad como:
+a) Cualquier objeto u elemento (real o abstracto) acerca del cual se pueda almacenar 1nformaci6n en la basededatos,
+b) .Cualquier asociaci6n entre elementos.
+c) El mimero derelaciones en las que un elemento puede aparecer.
+d) Una propiedad ooncreta de una reladon.
+ANSWER: A
+
+

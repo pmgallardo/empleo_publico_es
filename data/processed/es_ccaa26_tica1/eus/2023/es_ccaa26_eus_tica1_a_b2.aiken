@@ -1,0 +1,246 @@
+PARTE B
+2ª OPCIÓN
+Eres la persona Técnica de Informática de un departamento del Gobierno Vasco y tu misión es gestionar proyectos en el ámbito de los sistemas de información, debiendo, para ello, diseñar aplicaciones, administrar el inventario de equipos y analizar necesidades. Además, tienes que encargarte de la gestión de la seguridad y de lossistemas de calidad de los sistemas de información y del apoyo técnico y asesoramiento a las diferentes personas usuarias. Responde a las siguientes cuestiones relacionadas con las funciones y tareas del puesto:
+
+1 ¿Cuál es el objetivo principal de la normalización de una base de datos?.
+1a)
+1b)
+1c)
+1d)Mejorar la capacidad de almacenamiento.
+Minimizar la redundancia de datos.
+Mejorar el rendimiento de las consultas.
+Todas las anteriores son correctas.A eredua
+ANSWER: B
+
+2 ¿A cuál de las siguientes opciones corresponde la definición siguiente?: «Un medio a través
+del cual se simula el aspecto visual del sistema mediante la representación de los conceptos,
+componentes, objetos gráficos, entradas y salidas requeridas para la ejecución de cada
+función en respuesta a las necesidades planteadas»
+2a)
+2b)
+2c)
+2d)Diseño orientado a objetos..
+JRP.
+Prototipado.
+JAD.
+ANSWER: C
+
+3 La función de un hub es:
+3a)
+3b)
+3c)
+3d)Reenviar los paquetes en función de la dirección MAC de destino.
+Repetir la información que llega a un puerto por el resto de puertos.
+Dirigir correctamente el tráfico de una red a otra.
+Asignar diferentes preferencias a los mensajes que fluyen por la red.
+ANSWER: B
+
+4 En cloud computing, cuando utilizamos el término "nube hibrida", nos referimos a:
+4a)
+4b)
+4c)
+4d)La combinación del modelo de nube pública y de nube privada.
+La alianza de dos o más organizaciones para implementar una infraestructura cloud.
+La nube pública utilizada, tanto por pequeñas como medianas empresas.
+La modalidad que combina Backup as a Service (BaaS) con Recovery as a Service (RaaS)
+ANSWER: A
+
+5 ¿Cómo se llama el protocolo que usa el navegador para encontrar la IP que corresponde a
+un nombre de dominio?
+5a)
+5b)
+5c)
+5d)TCP/IP.
+URI.
+DNS.
+URL.
+ANSWER: C
+
+6 Identifique la respuesta FALSA entre las siguientes opciones. La gestión de la configuración:
+6a) Proporciona requisitos a los equipos de desarrollo relativos a la medida en que una aplicación y sus componentes deben ser parametrizables a lo largo de su ciclo de vida (por ejemplo, a través de ficheros separados por comas o CSV).
+Es una interfaz (GC) descrita en Métrica v3. El Plan de Gestión de la Configuración se define durante el proceso del Estudio de Viabilidad del Sistema.
+Está contemplada en ITIL, fundamentalmente dentro del libro Service Transition (Transición del Servicio).
+Es un proceso contemplado dentro del modelo CMMI-DEV, denominado Configuration Management.
+6b)
+6c)
+6d)
+ANSWER: A
+
+7 ¿Qué plugin se necesita para poder ejecutar HTML5?
+7a)
+7b)
+7c)
+7d)Adobe Flash.
+W3C Standard Plugin.
+Internet Explorer.
+Ninguno, sólo se necesita tener un navegador con soporte nativo.A eredua
+ANSWER: D
+
+8¿Cuál de los siguientes algoritmos NO es utilizado en las funciones Hash o resumen?
+8a)
+8b)
+8c)
+8d)RIPEMD-128.
+WHIRLPOOL.
+SHA-3.
+KASUMI.
+ANSWER: D
+
+9¿Cuál es la función principal de DHCP?
+9a)
+9b)
+9c)
+9d)Gestionar el tráfico de la red WAN.
+Asignar direcciones IP de forma dinámica.
+Controlar el acceso a Internet.
+Proteger la red contra ataques informáticos.
+ANSWER: B
+
+10El conjunto de instrucciones que gestionan los datos de una clase, se denomina:
+10a)
+10b)
+10c)
+10d)Método.
+Mensaje.
+Protocolo de la clase.
+Ninguna de las anteriores.
+ANSWER: A
+
+11 En el modelo de ciclo de vida del desarrollo de los sistemas de información denominado "en espiral", las fases son:
+11a)
+11b)11c)
+11d)Análisis, diseño, codificación, integración, mantenimiento.
+Planificación, especificaciones de operación, especificaciones de codificación, codificación, prueba
+de cada unidad, prueba de integración, eliminación de problemas, evaluación del sistema.
+Planificación, análisis de riesgos, ingeniería, evaluación.
+Análisis, diseño, construcción, implantación y aceptación.
+ANSWER: C
+
+12 ¿Qué es MAGERIT?
+12a)
+12b)
+12c)Un modelo de madurez para la gestión de proyectos.
+Un método de gestión de riesgos para proyectos de construcción.
+Una metodología de análisis y gestión de riesgos de los sistemas de información de las
+Administraciones públicas.
+Un modelo de negocio para la gestión de la calidad.
+12d)
+ANSWER: C
+
+13 ¿Cuál de las siguientes NO es una característica de una configuración típica de granja de servidores Web?
+13a)
+13b)Disponer de múltiples servidores.
+Cada uno de los servidores tiene acceso únicamente a la información y datos almacenados en local.
+El aumento en capacidad y rendimiento se consigue añadiendo nuevos servidores front-end web.
+Un "balanceador de carga" (load balancer) reparte las peticiones de las personas usuarias entre los servidores de la granja según un algoritmo definido para repartir la carga de forma equilibrada.
+13c)
+13d)
+ANSWER: B
+
+14 Indica cuál de las siguientes pautas NO está incluida en el principio de perceptibilidad de las pautas de accesibilidad para el contenido Web (WCAG) 2.0 del estándar W3C:
+14a)
+14b)
+14c)
+14d)Las alternativas textuales.
+El contenido multimedia dependiente del tiempo.
+La validación.
+La adaptabilidad.
+ANSWER: C
+
+15 ¿Qué ventajas ofrecen los Smart Contracts (contratos inteligentes) sobre los contratostradicionales?
+15a)
+15b)
+15c)
+15d) Mayor inmediatez, claridad e imparcialidad en la ejecución de contratos.
+Mayor flexibilidad en la negociación de los términos del contrato.
+Mayor rapidez en la firma del contrato con la persona intermediaria.
+Ninguna de las anteriores.
+ANSWER: A
+
+16 Dentro del proceso de creación y validación de una firma electrónica, la persona firmante es:
+16a) La persona física o jurídica que valida o verifica una firma electrónica apoyándose en las condiciones exigidas por una política de firma concreta.
+La persona física o jurídica que expide certificados electrónicos o presta otros servicios en relación con la firma electrónica.
+La entidad que se encarga de generar y gestionar el documento de política de firma.
+La persona que posee un dispositivo de creación de firma y que actúa en nombre propio o en nombre de una persona física o jurídica a la que representa.
+16b)
+16c)
+16d)
+ANSWER: D
+
+17 En una VPN (Virtual Private Network) de acceso remoto:
+17a)17b)
+17c)
+17d)No es necesario ningún tipo de encapsulamiento de los paquetes de datos para protegerlos de posibles ataques, ya que se trata de una red privada.
+No es necesario verificar la identidad de las personas usuarias.
+No permite el cifrado de datos.
+Los paquetes de datos viajan por un túnel definido en la red pública.
+ANSWER: D
+
+18En relación con las responsabilidades señaladas en el Esquema Nacional de Seguridad:
+18a)18d)La responsabilidad de la seguridad de los sistemas de información y de la prestación de los servicios debe recaer en la misma persona.
+La persona responsable de seguridad debe depender orgánicamente de la persona responsable del sistema.
+La responsabilidad de la seguridad de los sistemas de información debe estar segregada de la responsabilidad de la prestación de los servicios.
+La persona responsable de seguridad determina los requisitos de los servicios prestados.
+ANSWER: C
+
+19 Si en una empresa se utiliza BYOD...
+19a)
+19b)
+19c)
+19d)No es necesario implantar medidas de seguridad específicas.
+Es necesario implantar medidas de seguridad específicas.
+Las personas empleadas no deben considerar ningún requisito de la política de seguridad.
+Las personas empleadas deben desinstalar el antivirus de sus dispositivos personales.
+18b)
+18c)
+ANSWER: B
+
+20 ¿Cuál de las siguientes NO es una de las tres condiciones de Popek y Goldberg que debe cumplir toda arquitectura informática para soportar adecuadamente la virtualización de sistemas?
+20a)
+20b)
+20c)
+20d)Eficiencia.
+Escalabilidad.
+Control de recursos.
+Equivalencia.
+ANSWER: B
+
+21 [RESERVA] Desde el punto de vista de la QoS (Calidad de Servicio), ¿Cuál de los siguientes servicios o aplicaciones tiene unos requisitos mayores con respecto al retardo?
+21a)
+21b)
+21c)
+21d)Correo electrónico.
+Videoconferencia.
+Transferencia de archivos.
+Acceso a la Web.
+ANSWER: B
+
+22 [RESERVA] Si hablamos de criptografía, señala la respuesta CORRECTA.
+22a)22b)
+22c)
+22d)La criptografía se divide en dos grandes ramas, la criptografía simétrica (o de clave privada o secreta), y la criptografía asimétrica (o de clave pública).
+La criptografía simétrica utiliza dos claves.
+La criptografía asimétrica utiliza una única clave.
+Para utilizar un sistema criptográfico es obligatorio utilizar VPN.
+ANSWER: A
+
+23 [RESERVA] AJAX es:
+a) Un lenguaje de programación basado en la codificación en programas en XML.
+b) Una filosofía o técnica de desarrollo de aplicaciones Web que se apoya, entre otras tecnologías, en XML y JavaScript.
+c) Un servidor de aplicaciones de Internet desarrollado en Java cuyas páginas Web están escritas en XHTML.
+d) Una alternativa a SOAP en la descripción de Web services.
+ANSWER: B
+
+24 [RESERVA] ¿Qué es CIERTO respecto a los dispositivos bridge y switch de interconexión de redes locales?
+a) El switch opera en el nivel 2 y el bridge en el nivel 3 del modelo OSI.
+b) Los switches se suelen emplear para interconectar servidores y los bridges para interconectar LANs.
+c) Un switch puede interconectar distintos tipos de LAN y un bridge no.
+d) En los switches cada puerto forma su dominio de colisión propio, mientras que los bridges tienen varios dominios de colisión por puerto.
+ANSWER: B
+
+25 [RESERVA] ¿Cuál de los siguientes planes NO forma parte de un Plan de Continuidad de Negocio?.
+a) El Plan de Continuidad de Operaciones (COP).
+b) El Plan de Gestión del Cambio (CMP).
+c) El Plan de Evacuación de Emergencia (OEP).
+d) El Plan de Reanudación del negocio (BRP).
+ANSWER: B
