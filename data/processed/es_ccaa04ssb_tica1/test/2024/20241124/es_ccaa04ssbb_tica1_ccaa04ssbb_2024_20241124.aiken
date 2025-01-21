@@ -1,0 +1,531 @@
+1. ¿Según qué parámetros se clasifica el personal estatutario de los servicios de salud, de conformidad con la Ley 55/2003, de 16 de diciembre, del Estatuto marco del personal estatutario de los servicios de salud?
+a) Según la función desarrollada, el nivel del título exigido para el ingreso y el tipo de nombramiento,
+b) Según la función desarrollada y el tipo de nombramiento.
+c) Según el nivel del título exigido para el ingreso y el tipo de nombramiento.
+d) Ninguna de las respuestas anteriores es correcta.
+ANSWER: A
+
+2. ¿Qué se entiende por documentación clínica según la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica?
+a) La declaración escrita de un médico que da fe del estado de salud de una persona en un determinado momento.
+b) El soporte de cualquier tipo o clase que contiene un conjunto de datos e informaciones de carácter asistencial.
+c) El documento emitido por el médico responsable en un centro sanitario al finalizar cada proceso asistencial de un paciente, que especifica los datos de este, un resumen de su historial clínico, la actividad asistencial prestada, el diagnóstico y las recomendaciones terapéuticas.
+d) El conjunto de documentos que contienen los datos, las valoraciones y las informaciones de cualquier índole sobre la situación y la evolución clínica de un paciente durante el proceso asistencial.
+ANSWER: B
+
+3. ¿Cuál puede ser la razón de dichos resultados diferentes de nslookup desde el mismo servidor?
+
+$ nslookup www. ibsalut.es 8.8.8.8
+Server: 8.8.8.8
+Address: 8.8.8.8#53
+
+Non-authoritative answer:
+Name: www.ibsalut.es
+Address: 195.76.89.10
+
+$ nslookup www.ibsalut.es
+Server: 10.215.137.133
+Address: 10.215.137.133#53
+
+Name: www.ibsalut.es
+Address: 10.215.134.20
+a) Esun error en la configuración DNS de www.ibsalut.es ya que según el servidor web al que se accede resuelve una IP pública o la IP interna.
+b) Es un error en la configuración DNS del servidor de DNS 10.215,137.133 que resuelve www.ibsalut.es ya que debería resolver la IP pública.
+c) Es un comportamiento normal ya que los servidores DNS utilizados son diferentes.
+d) Es un comportamiento anormal ya que ambos servidores de DNS deberían resolver la misma IP pública.
+ANSWER: C
+
+4. ¿Cuál de las tareas siguientes no es responsabilidad de un administrador de sistemas?
+a) Mantener y explotar los servidores.
+b) Garantizar la continuidad en el funcionamiento del hardware de los servidores.
+c) Mantener actualizados los sistemas operativos y el software de base.
+d) Analizar nuevas aplicaciones y herramientas útiles para los usuarios.
+ANSWER: D
+
+5. ¿Cuántas IP hay utilizables en el rango 172.16.0.0/16?
+a) 65.536.
+b) 65.534.
+c) 32.768.
+d) Ninguna ya que el /16 ocupa todo el espacio de red.
+ANSWER: B
+
+6. ¿Por qué aun teniendo una estrategia de HA/DR se recomienda tener una copia de seguridad?
+a) Porque el DR puede fallar.
+b) Para poder recuperar una corrupción física de los datos.
+c) Para poder recuperar de la copia de seguridad en caso de ataque con programa de ransomware.
+d) Todas las respuestas anteriores son correctas.
+ANSWER: D
+
+7. Señale la respuesta correcta en relación con los sistemas RAID:
+a) Mejoran el rendimiento de todas las aplicaciones y aseguran más velocidad de acceso.
+b) RAID 0 y RAID 1 no necesitan hacer el cálculo de la paridad.
+c) El RAID 5 es más seguro que el RAID 6.
+d) RAID 1 mejora el rendimiento en escritura.
+ANSWER: B
+
+8. ¿A qué se refieren las siglas ACID en una transacción de base de datos?
+a) Availability, capacity, isolation, durability.
+b) Availability, consistency, isolation, durability.
+c) Atomicity, consistency, interaction, durability.
+d) Atomicity, consistency, isolation, durability.
+ANSWER: D
+
+9. De acuerdo con las tablas A (columnas A1 y A2) y B (columnas B1 y B2), ¿cuál será el resultado en ANSI SQL de la siguiente sentencia?
+SELECT A.*, B.* FROM A FULL OUTER JOIN B ON A.A1 = B.B1
+a) FULL OUTER JOIN no existe en la sintaxis SQL.
+b) No mostrará ningún resultado. Esta condición no se puede cumplir,
+c) Mostrará solo las filas en las que el valor de la columna A1 sea igual que el de la columna Bl1.
+d) Mostrará todas las filas de las dos tablas.
+ANSWER: D
+
+10. ¿Qué respuesta es la más completa sobre MPLS?
+a) Es un protocolo propietario que opera entre la capa de enlace de datos y la capa de red del modelo OSI que permite aplicar QoS sobre IP.
+b) Es un protocolo de la IETF que opera entre la capa de enlace de datos y la capa de red del modelo OSI que permite aplicar QoS sobre IP.
+c) Es un protocolo propietario que opera entre la capa de enlace de datos y la capa de red del modelo OSI que permite aplicar QoS si el protocolo que encapsula tiene dicha capacidad.
+d) Es un protocolo propietario que opera entre la capa de enlace de datos y la capa de sesión del modelo OSI que permite aplicar QoS sobre IP.
+ANSWER: B
+
+11. ¿Qué métodos de petición existen en HTTP 1.1? Señale la respuesta más completa:
+a) GET, HEAD, POST, PUT, DELETE, CONNECT, OPTIONS, TRACE, PATCH.
+b) GET, PUT, DELETE, CONNECT, OPTIONS, TRACE, PATCH.
+c) GET, HEAD, POST, PUT, DELETE, OPTIONS, TRACE, PATCH.
+d) GET, HEAD, POST, PUT, DELETE, CONNECT, OPTIONS, DEBUG, TRACE, PATCH.
+ANSWER: A
+
+12. Señale la afirmación correcta en relación con las tecnologías de telecomunicaciones:
+a) La xDSL aún es necesaria para aquellas ubicaciones donde no hay cobertura de la CATV.
+b) La xDSL puede funcionar tanto sobre una fibra óptica como sobre un par de cobre telefónico.
+c) El HSUPA está diseñado para tener más ancho de banda desde el móvil hacia la red que el HSDPA.
+d) El UMTS es más eficiente y por eso utiliza rangos de banda electromagnéticos más bajos que el GSM.
+ANSWER: C
+
+13. ¿Qué tecnologías de telecomunicaciones son necesarias en un proyecto sanitario de conectividad para un servicio de urgencias ambulatorias, oficinas y ambulancias, desplegadas por toda la geografía balear, con atención especial en las zonas remotas y agrestes?
+a) La FTTH exclusivamente ya que es la única que permite una calidad de servicio en toda la geografía.
+b) La FTTH para las oficinas y conectividad móvil mediante UMTS para las ambulancias.
+c) El HSUPA en ambos casos ya que lo más importante en este caso de uso es el UPLINK.
+d) La FTTH y la xDSL para las oficinas y conectividad móvil por medio de UMTS para las ambulancias,
+ANSWER: D
+
+14. ¿Por qué el control de crawlers mediante «robots.txt» no basta para evitar que los buscadores indexen la información que se quiere ocultar?
+a) Porque los robots/crawlers pueden ignorar la directiva definida.
+b) Porque los buscadores no utilizan crawlers.
+c) Porque el control de los crawlers se tiene que hacer por medio de directivas de acceso por cada directorio publicado.
+d) Porque el control se tiene que hacer mediante el fichero «spider.txt».
+ANSWER: A
+
+15. ¿Cuáles son las principales ventajas de utilizar JSON en vez de XML para SOA?
+a) Es más ligero tanto en procesamiento como en peso, menos complejo, visualmente más claro y más flexible.
+b) Es más ligero en peso, menos complejo, visualmente más claro y más flexible.
+c) Es más ligero tanto en procesamiento como en peso, menos complejo, visualmente más claro, validable mediante un WSDL y más flexible.
+d) Es un protocolo estandarizado más ligero tanto en procesamiento como en peso, visualmente más claro y más flexible.
+ANSWER: A
+
+16. ¿Qué corresponde a un CPD Tier III según el Uptime Institute?
+a) Redundancia completa de proveedor de energía y A/C.
+b) Redundancia (N+1) de los componentes y redundancia completa de componentes de energía y A/C.
+c) Disponibilidad del 99,741 %.
+d) Redundancia entre este CPD y otro en DR.
+ANSWER: B
+
+17. ¿Qué es un Paas?
+a) Es una oferta de cloud computing que proporciona a los usuarios un entorno de nube (cloud) en el que pueden desarrollar, gestionar y distribuir aplicaciones.
+b) Es un sistema seguro de almacenamiento de contraseñas en entornos corporativos.
+c) Es un sistema de gestión de bases de datos relacional utilizado sobre todo en entornos distribuidos.
+d) Es un lenguaje de programación que incide sobre todo en aspectos de seguridad de las aplicaciones.
+ANSWER: A
+
+BLOQUE II
+18. ¿Cuál no es un ejemplo de motor de integración entre aplicaciones (EAI)?
+a) Rhapsody (Orion Health).
+b) WebLogic (Oracle?).
+c) Ensemble (InterSystems?).
+d) Mirth"" (motor de software libre).
+ANSWER: B
+
+19. Señale la afirmación falsa en relación con los motores de integración entre aplicaciones (EAI):
+a) Mediante el EAL todos los sistemas, existentes o nuevos, se integran por medio de un elemento de integración estándar (middleware) que se utiliza como bus o canal de comunicación entre los sistemas.
+b) Los motores de integración intercambian mensajes entre sistemas y permiten la gestión, mapeo, traducción y modificación de datos entre sistemas de información para asegurar el intercambio efectivo de datos en la organización.
+c) La integración se consigue con sistemas corporativos centralizados, basados en una misma solución de software para todos los centros y hospitales, y no es necesaria la creación de un centro de competencias de integración (ICC) formado en el uso de lenguajes de comunicación (HL7, DICOM, IHE).
+d) Las aplicaciones se integran y permiten la consistencia de datos, por ejemplo, el envío automático de los datos demográficos de un paciente desde la aplicación central de registro de pacientes a las aplicaciones de radiología, farmacia y laboratorio a través del motor de integración.
+ANSWER: C
+
+20. Señale la afirmación incorrecta:
+a) REST y SOAP definen cómo diseñar interfaces de programación de aplicaciones (API).
+b) SOAP es un conjunto de principios arquitectónicos, mientras que REST es un protocolo oficial cuyo mantenimiento está a cargo del World Wide Web Consortium (W3C).
+c) Cuando se envía una solicitud de datos a una API REST, se suele hacer a través de un protocolo de transferencia de hipertexto (HTTP). Las API diseñadas para REST pueden devolver mensajes en distintos formatos: HTML, XML, texto sin formato o JSON.
+d) El envío de una solicitud de datos a una API de SOAP se puede hacer a través de cualquiera de los protocolos de la capa de la aplicación: HTTP (para los navegadores web), SMTP (para el correo electrónico), TCP, entre otros. Sin embargo, los mensajes SOAP de retorno deben ser documentos XML.
+ANSWER: B
+
+21. Para el desarrollo evolutivo del sistema de información de historia clínica de atención primaria se aplica la metodología ágil SCRUM. En un momento dado del sprint en curso, la dirección médica pide modificar una funcionalidad del product backlog que está incorporada en el sprint backlog actual. Señale la respuesta correcta:
+a) El sprint backlog es la relación de requisitos de nivel alto que han sido implementados hasta ese momento.
+b) Para poder cambiar el alcance del sprint será necesario hacer una sesión de backlog grooming de emergencia para identificar las afectaciones que implica el cambio y si se puede asumir en el sprint.
+c) En el backlog grooming de emergencia también se decide si hace falta recalcular las prioridades del product backlog, e incluso, si hace falta abortar el sprint o el proyecto.
+d) Las respuestas b) y c) son correctas.
+ANSWER: D
+
+22. ¿Cómo se llama el tipo de mantenimiento que se refiere a las incorporaciones, modificaciones y eliminaciones necesarias en un producto de software para cubrir la expansión o el cambio en las necesidades del usuario?
+a) Mantenimiento evolutivo.
+b) Mantenimiento perfectivo.
+c) Mantenimiento adaptativo.
+d) Mantenimiento correctivo.
+ANSWER: A
+
+23. ¿Cuál no es una herramienta para el modelado de datos?
+a) Diagrama entidad/relación (entidades, atributos, relaciones).
+b) Diccionario de datos.
+c) Diagrama de flujo de datos.
+a) Diagrama de clases UML (clases, asociaciones, atributos).
+ANSWER: C
+
+24. Los diagramas de casos de uso son una técnica para la especificación de requerimientos funcionales que forma parte de UML. Señale la afirmación incorrecta:
+
+- diagrama de casos de uso -
+
+a) En el diagrama mostrado, «paciente», «enfermera» y «médico» son actores. También podría ser actor una entidad externa al sistema que guarde una relación con este y que le demande una funcionalidad.
+b) «Definir tratamiento» es un caso de uso asociado. La relación «extend» indica que no es obligatorio realizar «Definir tratamiento».
+c) Los casos de uso describen las funcionalidades internas del sistema y explican detalladamente cómo se implementarán.
+d) Los diagramas de casos de uso muestran el comportamiento dinámico de los objetos en el sistema.
+ANSWER: C
+
+
+25. Señale la afirmación incorrecta en referencia a la arquitectura ANSI/SPARC:
+a) La descripción general de una base de datos se llama esquema de base de datos.
+b) El esquema externo describe las diferentes vistas externas de los datos; puede haber muchos esquemas externos para una base de datos dada.
+c) El esquema conceptual describe todos los datos y las relaciones entre ellos, junto con las restricciones de integridad. Puede haber más de un esquema conceptual por cada base de datos.
+d) El esquema interno es el nivel más bajo que contiene los registros almacenados, los métodos de representación y los campos de datos e índices. Solo hay un esquema interno por cada base de datos.
+ANSWER: C
+
+26. El conductor de la ambulancia de servicio programado de un hospital comarcal (A) necesita conocer el recorrido más corto para ir a recoger a cuatro pacientes en cuatro localidades diferentes, pasando una sola vez por cada localidad (B, C, D y E). Los números indican la distancia en quilómetros. Señale la afirmación correcta:
+
+- imagen que muestra un grafo completo de 5 nodos con sus distancias -
+
+a) Representa el problema del viajante (travelling salesman problem, TSP). Este problema es representado mediante un grafo hamiltoniano en el que las localidades son las aristas y los caminos son los vértices.
+b) Es un grafo no dirigido debido a que cada arista tiene un valor que en este caso corresponde con el número de quilómetros que separan a las localidades.
+c) En los grafos de lipo hamilloniano hay que pasar una sola vez por cada vértice, y no es obligatorio pasar por todas las aristas. Representa el problema del viajante (travelling salesman problem, TSP).
+d) Es un grafo dirigido puesto que los caminos pueden recorrerse en una dirección o en otra. Y es un grafo completo, porque cada par de vértices está unido por una arista (todos los vértices están unidos con todos).
+ANSWER: C
+
+27. ¿Cuál no es uno de los tres conceptos clave en los que está basada la arquitectura Java EE?
+a) Servicios.
+b) Contenedores.
+c) Componentes.
+d) Clases.
+ANSWER: D
+
+28. Señale la afirmación correcta con relación al patrón de arquitectura de software modelo-vista-controlador (MVC):
+
+- diagrama que refresenta el modelo-vista-controlador -
+
+a) Es un patrón de diseño utilizado para la implementación de interfaces de usuario.
+b) Este patrón de desarrollo de software divide la aplicación en tres partes interconectadas: el modelo de datos, la interfaz del usuario y la lógica de control.
+c) El patrón MVC se ve frecuentemente en aplicaciones web, donde se puede visualizar una página HTML y existe un controlador de los datos que se muestran al usuario con origen en el modelo de datos.
+d) Todas las respuestas anteriores son correctas.
+ANSWER: D
+
+29. De acuerdo con el Real decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público, ¿cuándo debe actualizarse la declaración responsable?
+a) Periódicamente, como mínimo una vez al año, o cada vez que se haga una revisión de accesibilidad conforme a lo que se especifica en el artículo 17,
+b) No existe obligatoriedad en la periodicidad, es a criterio de la entidad responsable.
+c) Obligatoriamente con una periodicidad semestral, conforme a lo que se establece en el artículo 17.
+d) En el plazo máximo de tres años.
+ANSWER: A
+
+30. Señale la afirmación correcta en cuanto a desarrollo, calidad, medida del software y, en especial, a los entornos necesarios:
+a) Siempre debe existir el entorno de test o stagíng, desarrollo, preproducción, integración, explotación y producción.
+b) Los entornos de test y preproducción son utilizados únicamente por parte de los responsables funcionales que han solicitado esas funcionalidades.
+c) Si se utiliza extreme programming, una metodología ágil relacionada con desarrollo de software, entonces solo se utiliza el entorno de integración.
+d) El entorno de preproducción debería tener, además de la misma configuración de software que irá a producción, la misma configuración de hardware.
+ANSWER: D
+
+31. ¿Qué opción enumera únicamente métricas o herramientas de calidad del código fuente?
+a) Análisis de código muerto, análisis de dependencias y complejidad ciclomática.
+b) Ofuscador de código y detector de magic numbers.
+c) Complejidad ciclomática, acoplamiento entre objetos, pruebas de estrés y parámetros no usados.
+d) Análisis de líneas de código, análisis de dependencias y análisis de enlazado de bibliotecas de enlaces dinámicos (DLL),
+ANSWER: A
+
+32. ¿Cómo se llama la operación que permite navegar hacia un nivel de detalle mayor en la jerarquía en un data warehouse?
+a) Drill-up.
+b) Drill-down.
+c) Pivot.
+d) Drill-through.
+ANSWER: B
+
+33. ¿Qué es el machine learning?
+a) El uso de datos para la automatización de tareas repetitivas.
+b) El aprendizaje de mecanismos de monitorización y alertas.
+c) El uso de los datos para el desarrollo de mecanismos de predicción y aprendizaje.
+d) Un paradigma en el desarrollo de mecanismos de control.
+ANSWER: C
+
+34. Una persona (emisor) firma un documento con su certificado X.509 y lo envía telemáticamente a otra persona (receptor). ¿Qué debe usar el receptor para verificar la integridad del documento firmado?
+a) La parte privada de su clave asimétrica.
+b) La parte pública de su clave asimétrica.
+c) La parte privada de la clave asimétrica del emisor.
+d) La parte pública de la clave asimétrica del emisor.
+ANSWER: D
+
+35. El Servicio de Salud de las Islas Baleares dispone de un centro de operaciones de seguridad (SOC). ¿Qué debe garantizar un SOC en relación con posibles incidentes de seguridad?
+a) Que se identifiquen, analicen, defiendan, investiguen e informen correctamente.
+b) Que se custodie el acceso físico a los centros de proceso de datos,
+c) Que las cámaras de seguridad estén operativas en todo momento.
+d) Las respuestas b) y c) son correctas.
+ANSWER: A
+
+36. Los IPS se asemejan al comportamiento de los cortafuegos, ambos toman decisiones sobre la aceptación de paquetes en un sistema.
+Señale la afirmación correcta:
+a) Los IPS basan sus decisiones en los encabezados de paquetes entrantes y en las capas de red y de transporte.
+b) Los IPS basan sus decisiones tanto en los encabezados como en el contenido de datos del paquete.
+c) Los cortafuegos no toman decisiones sobre la aceptación de paquetes en un sistema.
+d)Los cortafuegos basan sus decisiones únicamente en los encabezados del paquete.
+ANSWER: B
+
+37. Se indica a un profesional del servicio de salud que tiene que instalar en su teléfono inteligente con sistema operativo Android una aplicación de autenticación avanzada para poder acceder a la VPN. ¿Qué finalidad puede tener eso?
+a) Disponer de un antivirus avanzado en el teléfono inteligente.
+b) Asegurarse de que el usuario puede autenticar el desbloqueo del teléfono inteligente con una característica biométrica.
+c) Utilizar esa aplicación para acceder directamente al escritorio remoto del profesional.
+d) El uso de MFA, utilizando un doble factor de autenticación.
+ANSWER: D
+
+38. En un pliego de prescripciones técnicas para la contratación de un nuevo sistema de información para el seguimiento de enfermedades reumatoides se indica lo siguiente: «Federación de identidades: el adjudicatario debe integrar todas las aplicaciones de usuario con el SSO corporativo mediante el estándar SAML>». Señale la afirmación correcta:
+a) S50 se refiere a smart system operation y SAML (security assertion markup language) es un estándar abierto que define un esquema XML para el intercambio de credenciales entre distintos dominios de seguridad y autorización.
+b) SSO es single sign-on y en SAML, en general, las partes que intervienen en el intercambio son un proveedor de identidad que dispone de la infraestructura necesaria para la autenticación de los usuarios y un proveedor de servicio que concede a un usuario el acceso o no a un recurso.
+c) En SAML el proveedor de servicios (service provider, SP) es el componente que almacena las identidades y, por tanto, autentica e identifica a los usuarios atendiendo a las peticiones de datos que llegan desde los proveedores de identidad (IdP).
+d) En SAML el proveedor de identidad (identity provider, 1dP) es una aplicación (generalmente web), API o conjunto de aplicaciones que aportan la funcionalidad al usuario, a excepción del proceso de autenticación.
+ANSWER: B
+
+39. ¿Cuál de los siguientes derechos no se contempla en la Ley orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales como derechos del afectado?
+a) Derecho de acceso.
+b) Derecho a la limitación del tratamiento.
+c) Derecho de publicación.
+d) Derecho a la portabilidad.
+ANSWER: C
+
+40. Según el artículo 4 del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos), ¿qué se entiende por datos relativos a la salud?
+a) No se consideran datos personales.
+b) Datos personales relativos a la salud física o mental de una persona física, excepto la prestación de servicios de atención sanitaria.
+c) Datos personales relativos a la salud mental de una persona física.
+d) Datos personales relativos a la salud física o mental de una persona física, incluida la prestación de servicios de atención sanitaria, que revelen información sobre su estado de salud,
+ANSWER: D
+
+41. ¿Cuándo serán objeto de una auditoría regular ordinaria los sistemas de información afectados por el Esquema Nacional de Seguridad?
+a) Nunca, sólo debe hacerse una auditoría en el momento de su implantación.
+b) Una vez cada cinco años.
+c) Al menos cada dos años.
+d) Siempre que se produzcan modificaciones sustanciales en los sistemas de información que puedan repercutir en las medidas de seguridad requeridas.
+ANSWER: C
+
+42. Según el Reglamento UE 910/2014 del Parlamento Europeo y del Consejo, de 23 de julio, relativo a la identificación electrónica y a los servicios de confianza para las transacciones electrónicas en el mercado interior, ¿en qué estados se puede encontrar un certificado cualificado de firma electrónica durante su periodo de validez?
+a) Activo y revocado.
+b) Activo, revocado y suspendido.
+c) Activo, repudiado y comprometido.
+d) Activo, revocado y prorrogado.
+ANSWER: B
+
+43. ¿Qué herramienta del CCN-Cert (Centro Criptológico Nacional Computer Emergency Response Team) permite la gestión de ciberincidentes?
+a) VANESA.
+b) IRIS.
+c) LUCIA.
+d) CARMEN.
+ANSWER: C
+
+44. ¿Cómo se describe la fase de transición del servicio del ciclo de vida del servicio de ITIL versión 3?
+a) La fase de diseño para el desarrollo de servicios de Tl apropiados, incluyendo arquitectura, procesos, política y documentos.
+b) La fase en la que se garantiza la efectividad y la eficacia en la provisión y el soporte de servicios con el fin de generar valor para el cliente y el proveedor del servicio.
+c) La fase de desarrollo y mejora de capacidades para el paso a producción de servicios nuevos y modificados.
+d) La fase en la que se genera y se mantiene el valor para el cliente mediante la mejora del diseño y la introducción y la operación del servicio.
+ANSWER: C
+
+45. ¿Cuáles son las dimensiones de la calidad?
+a) Técnica, funcional y percibida.
+b) Técnica, humana y económica.
+c) Técnica, esperada y obtenida.
+d) Técnica, de desarrollo y acreditada.
+ANSWER: B
+
+46. Señale la afirmación incorrecta respecto a la interoperabilidad de la tarjeta sanitaria individual del Sistema Nacional de Salud (SNS):
+a) El Ministerio de Sanidad, Consumo y Bienestar Social asume la competencia de asignar un código de identificación personal (CIP-SNS) único en el SNS y vitalicio para cada persona.
+b) El Ministerio de Sanidad, Consumo y Bienestar Social actúa como nodo central de interoperabilidad, sin invadir los sistemas de gestión propios de cada comunidad autónoma.
+c) La identificación homogénea de cada persona ante todos los servicios sanitarios públicos se consigue a través del código de identificación personal CIP autonómico (CIP-CA) expedido por las comunidades autónomas.
+d) El CIP autonómico (CIP-CA) tiene como principal objectivo asegurar la asociación biunivoca de la persona con su información administrativa y clínica dentro de cada comunidad autónoma.
+ANSWER: C
+
+47. ¿Cuál de los siguientes no es un elemento que forma parte de la historia clínica del paciente?
+a) Informes clínicos y anotaciones de curso evolutivo, antecedentes y alergias.
+b) La prescripción y administración de medicación intrahospitalaria.
+c) Los turnos de enfermería durante la hospitalización del paciente.
+d) La identificación de contactos con el hospital: episodios y actos quirúrgicos.
+ANSWER: C
+
+48. Señale la afirmación incorrecta en referencia a las funciones de los software de triaje en el ámbito de las urgencias hospitalarias:
+a) Permiten clasificar a los pacientes en base a su grado de urgencia para priorizar su atención.
+b) Disponen de una versión para adultos y de una para pediatría.
+c) Permiten integrarse con el sistema de información hospitalaria (HIS).
+d) Su objetivo es ordenar a los pacientes en base a criterios estructurales de los centros hospitalarios para optimizar los espacios de ubicación de los pacientes en urgencias durante la espera.
+ANSWER: D
+
+49. Señale la afirmación correcta sobre los sistemas RIS y PACS en relación con los sistemas departamentales de radiología:
+a) RIS y PACS son sistemas de gestión de imagen médica digital, ambos especializados en el archivo y la comunicación de imágenes.
+b) RIS y PACS son sistemas de gestión de imagen médica digital, ambos especializados en la gestión (citación y admisión de pacientes, práctica de exploraciones, informado, facturación, etc.) del departamento de diagnóstico por imagen.
+c) Son sistemas de gestión de imagen médica digital. RIS está especializado en el archivo y la comunicación de imágenes y PACS en la gestión (citación y admisión de pacientes, práctica de exploraciones, informado, facturación, etc.) del departamento de diagnóstico por la imagen.
+d) PACS está especializado en el archivo y la comunicación de imágenes y RIS en la gestión (citación y admisión de pacientes, práctica de exploraciones, informado, facturación, etc.) del departamento de diagnóstico por la imagen.
+ANSWER: D
+
+50. Señale la afirmación incorrecta en referencia al sistema de información departamental de laboratorio (LIS) en un ámbito hospitalario:
+a) LOINC es un estándar de codificación de pruebas de laboratorio.
+b) Se integran con el HIS hospitalario para la recepción de peticiones y el envío de resultados.
+c) Se conecta con los equipos de análisis (analizadores) de distintos proveedores.
+d) Abarca la gestión exclusivamente de las pruebas del laboratorio de bioquímica, no abarca el laboratorio de microbiología.
+ANSWER: D
+
+51. Según el Real decreto 1718/2010, de 17 de diciembre, sobre la receta médica y las órdenes de dispensación, ¿qué deben incorporar necesariamente las recetas médicas electrónicas para garantizar la interoperabilidad entre los diferentes servicios de salud del Sistema Nacional de Salud (SNS)?
+a) El código identificador univoco de usuarios del SNS.
+b) El código de identificación del medicamento o del producto sanitario que figure en el nomenclátor oficial de productos farmacéuticos del SNS.
+c) Las respuestas a) y b) son correctas.
+d) El código de identificación del medicamento o del producto sanitario que figure en el videmécum propio de cada servicio de salud.
+ANSWER: C
+
+52. ¿Qué ofrece el sistema de historia clínica digital del Sistema Nacional de Salud (HCDSNS)?
+a) Acceso a determinados documentos clínicos generados en cualquier Servicio de Salud del SNS, y garantizar que puedan ser consultados cuando los ciudadanos requieran atención sanitaria en sus desplazamientos por el territorio nacional.
+b) Acceso a toda la información de un ciudadano que pudiera estar disponible en los sistemas de información clínicos de cualquier comunidad o ciudad autónoma.
+c) Acceso a toda la información de un ciudadano que pudiera estar disponible en el sistema de información clínico del nodo central del Sistema Nacional de Salud en el Ministerio.
+d) Acceso a determinados documentos clínicos, generados en cualquier servicio de salud del SNS y almacenados en el nodo central del Ministerio, y garantizar que puedan ser consultados cuando los ciudadanos requieran atención sanitaria en sus desplazamientos por el territorio nacional.
+ANSWER: A
+
+53. ¿Cómo se denomina al identificador único de petición de un estudio en el estándar DICOM?
+a) AElTitle.
+b) Accession number.
+c) ExamlID.
+d) UID.
+ANSWER: B
+
+54. ¿Cuál de los siguientes mensajes HL7 se debería construir para enviar un evento de ingreso hospitalario al sistema de información departamental de cocina?
+a) SIU.
+b) ADT.
+c) ORU.
+d) ORM.
+ANSWER: B
+
+55. ¿Qué técnicas/prácticas son válidas en un análisis de alternativas según METRICAv3?
+a) Análisis coste-beneficio, catalogación y diagrama de componentes.
+b) Análisis coste-beneficio y diagrama de subsistemas.
+c) Diagrama de despliegue y análisis coste-beneficio,
+d) Diagrama de interacción de objetos, catalogación y análisis coste- beneficio,
+ANSWER: D
+
+56. ¿Cuál no es una metodología de gestión de proyectos?
+a) PRINCE2.
+b) EMBARCADERO.
+c) LEAN.
+d) SIX SIGMA.
+ANSWER: B
+
+57. ¿Cuáles son los tres elementos que según PMBOK son interdependientes y deben mantenerse controlados en un proyecto?
+a) Plazos, equipo de trabajo y costes.
+b) Equipo de trabajo, plazos y valor ganado.
+c) Calidad, plazos y costes.
+d) Comunicación, planificación y costes.
+ANSWER: C
+
+58. ¿Si se modifica un programa de otra persona publicado bajo licencia GPL, se debe distribuir el código fuente modificado?
+a) Obligatoriamente, al autor original del programa.
+b) Obligatoriamente, a cualquier persona a quien se dé el programa modificado.
+c) Obligatoriamente, a cualquier persona que pida el programa modificado.
+d) No es obligatorio distribuir el código fuente en ningún caso.
+ANSWER: B
+
+59. ¿Cuál no es una certificación en el ámbito de las TIC?
+a) Calidad en los servicios de TE(ISO 20000-1 - Sistema de gestión de servicios de TI).
+b) La certificación según el estándar ISO 38500 sobre gobernanza de TL.
+c) EFQM (European Foundation for Quality Management).
+d) Seguridad en los servicios de TI (ISO/IEC 27001, ISO/IEC 27002 - Sistema de gestión de seguridad de la información).
+ANSWER: C
+
+60. ¿Qué concepto corresponde al hecho de asegurar que los usuarios autorizados tengan acceso cuando lo requieran a la información y sus activos asociados según la norma ISO/IEC 27002?
+a) Seguridad.
+b) Integridad.
+c) Disponibilidad.
+d) Confidencialidad.
+ANSWER: C
+
+61. [RESERVA] Señale la respuesta incorrecta. Según establece la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, el empresario deberá consultar a los trabajadores, con la debida antelación, la adopción de las decisiones relativas a...
+a) ...la organización y el desarrollo de las actividades de protección de la salud y de prevención de los riesgos profesionales en la empresa, incluida la designación de los trabajadores encargados de dichas actividades o el recurso a un servicio de prevención externo.
+b) la designación de los trabajadores encargados de las medidas de emergencia.
+c) los procedimientos de información y documentación de cualquier indole.
+d) ...el proyecto y la organización de la formación en materia preventiva.
+ANSWER: C
+
+62. [RESERVA] ¿Qué término no está relacionado con metodologías ágiles?
+a) Kanban.
+b) Scrum.
+c) Lean.
+d) Waterfall.
+ANSWER: D
+
+63. [RESERVA] Señale la afirmación correcta sobre la programación orientada a objetos y la programación procedimental:
+a) La encapsulación es una funcionalidad propia de la programación procedimental.
+b) La herencia es una característica de la programación procedimental que permite reaprovechar el código.
+c) El paso de variables por referencia en la llamada a una función permite que esta modifique múltiples variables del procedimiento que la llama.
+d) En la programación orientada a objetos, en la definición de clases no se pueden usar las funciones.
+ANSWER: C
+
+64. [RESERVA] ¿Cuál de las siguientes opciones no es un área de conocimiento de la dirección de proyectos según la guía PMBOK?
+a) Gestión de la integración de proyectos.
+b) Gestión del alcance del proyecto.
+c) Gestión de la monitorización y control del proyecto.
+d) Gestión de los riesgos de proyecto.
+ANSWER: C
+
+65. [RESERVA] ¿Qué tipo de dirección IP son estas direcciones IP: ::ffff:127.0.0.1, ::1, 127.0.0.1 y ::ffff:7f00:1?
+a) Son IP anycast.
+b) Son IP multicast.
+c) Son IP que hacen referencia a la interfaz loopback.
+d) Son IP IPva4,
+ANSWER: C
+
+66. [RESERVA] El Reglamento UE 910/2014 del Parlamento Europeo y del Consejo, de 23 de julio de 2014, relativo a la identificación electrónica y los servicios de confianza para las transacciones electrónicas en el mercado interior, ¿a qué tipo de firma otorga la equivalencia funcional con la firma manuscrita respecto de los datos consignados en forma electrónica?
+a) La firma electrónica autenticada.
+b) La firma electrónica avanzada.
+c) La firma electrónica reconocida.
+d) La firma electrónica cualificada.
+ANSWER: D
+
+67. [RESERVA] En todas las páginas del sitio web del Servicio de Salud hay un enlace denominado «Accesibilidad». Señale la afirmación incorrecta:
+a) Es una obligación recogida en el capítulo III de control, revisión, seguimiento y presentación de informes del Real decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público.
+b) En el caso de las aplicaciones para dispositivos móviles, el Real decreto 1112/2018, dice que la declaración de accesibilidad no es necesaria si se ha publicado la del sitio web de la entidad que las han promovido, conforme a lo que se especifica en el artículo 17.
+c) Según el Real decreto 1112/2018 la declaración de accesibilidad será actualizada periódicamente, como mínimo una vez al año, o cada vez que se haga una revisión de accesibilidad conforme a lo que se especifica en el mismo Real decreto.
+d) Según el Real Decreto 1112/2018 la declaración de accesibilidad deberá incluir, entre otras, una explicación sobre aquellas partes del contenido que no sean accesibles y las razones de dicha inaccesibilidad, así como, en su caso, las alternativas accesibles que se ofrezcan.
+ANSWER: B
+
+68. [RESERVA] Señale la afirmación correcta en relación con los certificados digitales cualificados:
+a) Se puede exportar la clave privada y la pública del certificado.
+b) La clave privada no puede salir del dispositivo cualificado.
+c) Un certificado cualificado no puede estar en la nube.
+d) Las respuestas b) y c) son correctas.
+ANSWER: B
+
+69. [RESERVA] SNOMED CT es un estándar internacional. De los siguientes elementos, señale cuál no es un componente básico de SNOMED CT:
+a) Descripciones.
+b) Arquetipos.
+c) Conceptos.
+d) Relaciones.
+ANSWER: B
+
+70. [RESERVA] Señale la afirmación incorrecta en relación con los sistemas de almacenamiento:
+a) Los protocolos principales usados en DAS son SCSI, SAS y Fibre Channel.
+b) SAN se basa en archivos y NAS en bloques.
+c) Los dispositivos NAS utilizan usualmente más de un dispositivo de almacenamiento, en la mayoría de los casos están compuestos por RAID de discos.
+d) La SAN es una red concebida para conectar servidores, array de discos y equipos de copia de seguridad.
+ANSWER: B
+
+71. [RESERVA] Señale la afirmación incorrecta en relación con los sistemas de información de un servicio de salud:
+a) Es básico que todos tengan un identificador único del paciente.
+b) La duplicidad de pacientes es un riesgo que debe ser gestionado.
+c) Es imprescindible que todos los sistemas tengan el mismo número de historia clínica.
+d) La identificación errónea del paciente es un riesgo de seguridad que puede ser muy grave.
+ANSWER: C
+
+72. [RESERVA] ¿Cuál es la mejor definición de un datalake?
+a) Repositorio distribuido de datos estructurados y no estructurados.
+b) Repositorio centralizado de datos estructurados y no estructurados.
+c) Repositorio centralizado de datos estructurados.
+d) Repositorio multidimensional para el análisis de datos.
+ANSWER: B

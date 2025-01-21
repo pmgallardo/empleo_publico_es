@@ -1,0 +1,368 @@
+PRIMER EJERCICIO (2"PARTE)
+
+
+
+TIEMPO DE REALIZACION:
+2 horas (120 minutos)
+
+
+
+
+
+
+
+
+Pa gin  a 1 I 17
+
+la segunda parte del ejercicio 1 consta de 6 escenarios (del "A" al "F"), uno por cada bloque tematico del temario especial de la convocatoria, de los que se plantean 40 preguntas te6rico-practicas, con 4 opciones de respuesta, de las que solo una es verdadera.
+
+
+
+
+
+
+ESCENARIO "A"
+
+
+La Generalitat, en el marco del plan "GEN DIGITAL 2025", va a lanzar un proyecto para el desarrollo de una aplicaci6n m6vii (en adelante app) par media de la cual, las personas in­ teresadas en las tramites administrativos podran interactuar con la Generalitat y recibir noti­ ficaciones sabre las avances de la tramitaci6n.
+El proyecto cuenta con el respaldo de la Conselleria de Justicia, Interior y Administraci6n Pu­ blica, responsable desde el punto de vista funcional. Los requisitos que debera cubrir la app pueden ir evolucionando, par lo que el equipo de desarrollo se enfrentara a un contexto de incertidumbre. La app es un compromiso de la Generalitat para la cual se ha anunciado publi­ camente ur\a fecha de publicaci6n.
+Esta aplicaci6n debera integrarse con las aplicaciones de tramitaci6n electr6nica de la Gene­ ralitat ya existentes.
+Una vez terminada y publicada en las diferentes markets de apps, el Centro de Atenci6n a Usuarios de las TIC (CAU-TIC) de la Generalitat se encargara del soporte a las usuarios.
+
+
+1.- lEn que lfnea estrategica del plan "GEN DIGITAL 2025" se enmarcara el proyecto descrito en el escenario A?
+A) En la lfnea 2.1 "Acercar la administraci6n a las personas".
+B) En la lfnea 1.2 "Tecnologia estandarizada".
+C) En la lfnea 5.3 "Reconocimiento de la diversidad".
+D) En la lfnea 3.5 "Favorecer la movilidad sostenible de la ciudadanfa".
+ANSWER:
+
+2.- Para el correcto desarrollo dei proyecto, lQue actividad, de entre las siguientes, se de­
+bera acometer en primer lugar, en lo que a la gesti6n de proyectos se refiere?
+A) ldentificar a las partes interesadas (stakeholders).
+B) Designar al comite de proyecto (project board/steering committee).
+C) Designar al gestor del proyecto (project manager).
+D) Elaborar el caso de negocio (business case).
+ANSWER:
+
+3.- En el proyecto descrito, se identifican una serie de riesgos. El principal se refiere al in­ cumplimiento de plazos de desarrollo y puesta en producci6n. De entre las siguientes opdo­ nes, c:.Que deberia hacer el project manager, yen que momento del proyecto, para gestionar correctamente ese riesgo?
+A) Definir, durante la fase de planificaci6n de/ proyecto, los posibles escenarios de riesgo para asegurar que, ante un previsible retraso en los plazos de entrega del producto, se pueda co­ rregir esa situaci6n.
+8) Cuando ya se haya producido el retraso en la finalizaci6n de la aplicaci6n en la fase de eje­ cuci6n del proyecto, el project manager debe negociar con el comite de! proyecto la asigna­ ci6n de una pr6rroga del plazo.
+C) Cuando este a punto de producirse el retraso en la finalizaci6n de la aplicaci6n en la fase de ejecuci6n del proyecto, el project manager debe negociar con el comite del proyecto la asig­ naci6n de mas personal al proyecto.
+D) Teniendo en cuenta que en todo proyecto hay holguras en los diferentes recursos, no es necesario gestionar el riesgo de retraso en la entrega de la aplicaci6n m6vil.
+ANSWER:
+
+4.- En base a la informaci6n de contexto de que se dispone sobre el proyecto, lque metodo­ logfa de gesti6n es mas adecuada para el desarrollo de la app?
+A) Una metodologia agil porque facilita la obtenci6n de una documentaci6n exhaustiva de la aplicaci6n y sus integraciones.
+B) Una metodologia predictiva o tradicional porque prioriza la satisfacci6n de! cliente me­ diante la entrega temprana y continua de software con valor.
+C) Una metodologfa agil porque el desarrollo por iteraciones permite adaptarse rapidamente a los cambios.
+D) Una metodologfa predictiva o tradicional porque la determinaci6n temprana y exhaustiva del conjunto de requisitos facilitara el exito del proyecto.
+ANSWER:
+
+5.- Suponiendo que la gesti6n del proyecto de desarrollo descrito se realiza usando SCRUM,
+<'.Que rol representa la Conselleria de Justicia, Interior y Administraci6n Publica?
+A) Project Manager, como responsable de que el proyecto termine exitosamente.
+B) Product Owner, como responsable de maximizar el valor del producto resultante del tra­ bajo.
+C) Scrum Master, como responsable directo del equipo de desarrollo.
+D) Team Manager, como responsable directo del equipo de pruebas de integraci6n.
+ANSWER:
+
+
+
+6.- El equipo de desarrollo estudia un requerimiento segun el cual la app descrita debe mos­ trar, cuando se abre, las ultimas cinco notificaciones recibidas junto a una leyenda que in­ dica si ya se han leido o estan pendientes de leer. Antes de empezar a desarroliar y con la intention de probar el software de forma temprana, el equipo prepara una tabla de decision con las situaciones posibles en lo que se refiere a este requerimiento y cuales son los resul­ tados esperados. En este caso, en lo que se refiere a pruebas del software, el equipo esta aplicando:
+A) Tecnicas de prueba de caja blanca.
+B) Tecnicas de monitorizaci6n independiente.
+C) Tecnicas de prueba de caja negra.
+D) Tecnicas de cobertura de decision.
+ANSWER:
+
+7.-AI disponer de una primera version del software, se ejecuta un analisis estatico del codigo entregado, detectando un valor inaceptablemente alto en la medida de "codigo duplicado". En este caso, .:.Que requisito o caracteristica de calidad se esta incumpliendo en el software entregado?
+A) La mantenibilidad.
+B) La seguridad.
+C) La portabilidad.
+D) La fiabilidad.
+ANSWER:
+
+8.- Una vez validado y entregado el producto {app), aprovisionados los recurses de compu­ tacion, almacenamiento y comunicaciones necesarios, y formado el personal de soporte, se publicita la aplicacion en diferentes grupos de usuarios potenciales, para obtener datos de tiempos de respuesta, accesibilidad, etc. con usuarios reales. A partir de esta informacion, seleccione, de entre las siguientes, la afirmacion correcta:
+A) Se podra llevar a cabo un correcto proceso de Gesti6n de la Demanda, de acuerdo con ITIL4.
+B) Se podran definir los requisitos de accesibilidad de la aplicaci6n m6vil, de acuerdo con la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Comun de las Administracio­ nes Publicas.
+C) Se podra validar que la aplicacion cumpie los requisitos funcionales definidos en la fase de analisis del proyecto SCRUM.
+D) Se podra realizar una correcta practica de Gestion de la Capacidad y del Rendimiento del servicio, de acuerdo con las buenas practicas de ITIL4.
+ANSWER:
+
+
+ESCENARIO "B"
+
+
+La Generalitat decide desarrollar una aplicaci6n informatica que permita consultar, de manera telematica, las importes de las tasas e impuestos transferidos a la Generalitat Valenciana co­ rrespondientes a las personas que habitan en la Comunitat. Ademas, la aplicaci6n debe per­ mitir registrar las cuentas bancarias de las personas para la posible domiciliaci6n de las pagos.
+
+
+9.- lnicialmente, la identificacion de las usuarlos se reallza mediante usuario y contrasefia. Los datos de las usuarios se almacenan en la base de datos, a excepci6n de las contrasefias, que se guardan en un fichero encriptado del sistema, que se actualiza cuando los usuarios cambian su contrasefia. Este sistema ha demostrado ser poco seguro porque las credencia­ les pueden no estar bajo el control exclusivo del usuario. De entre las siguientes, seleccione la mejor opcion para incrementar la seguridad:
+A) lndexar el fichero para que el acceso sea mas rapido.
+B) Guardar las claves encriptadas en un campo de la tabla de usuarios.
+C) Dividir el fichero en varios ficheros para mejorar el acceso, guardando en un campo de la tabla de usuarios el nombre del fichero donde reside la clave de cada usuario.
+D) No guardar la clave, sino su hash y comprobar si concuerda con el hash de la contrasefia introducida.
+ANSWER:
+
+10.- la aplicacion desarrollada forma parte def sistema de informaci6n de la Generalitat que utiliza y almacena informacion personal yfiscal de las personas que habitan en la Camunitat, que implementa tramitaciones electronicas de la Generalitat y su disponibilidad resulta crftica para la Generalitat. Elija, de entre las siguientes apcianes, que nivel de seguridad, de los previstas por el Esquema Nacional de Seguridad (ENS), corresponderia a la disponibilidad de! sistema de informacion:
+A) Medio.
+B) Alto.
+C) Bajo.
+D) No corresponde a ninguno porque esta fuera de/ ambito del ENS.
+ANSWER:
+
+11.- Un hacker detecta y explata la vulnerabilidad, respecto a las credenciales de acceso al sistema por parte de los usuarias, para acceder a las datos de los usuarios y, potencialmente, a otras sistemas. De entre las siguientes, indique que nivel de peligrosidad se debe asociar al incidente, segun la Gura national de notificacion y gestion de ciberincidentes:
+A) Bajo.
+B) Medio o alto.
+C) Muy alto.
+D) Crftico.
+
+12.- Dada la informadon de contexto, respecto a las medidas de seguridad aplicadas y las auditorfas de seguridad llevadas a cabo, indique, de entre las siguientes, la respuesta correcta respecto a si hay alguna obligadon de auditar el mencionado sistema de informacion:
+A) Es una medida conveniente pero no existe ninguna obligaci6n de realizar auditorfas.
+B) No hay obligaci6n porque las auditorfas obligatorias solo son las de cuentas.
+C) El Servicio de Informatica no consider6 necesario realizar ninguna auditoria porque hicieron pruebas de la aplicaci6n y no encontraron ningun problema.
+D) Sf, por tratarse de sistemas de informaci6n incluidos en el ambito del ENS.
+ANSWER:
+
+13.- Dada la situaci6n expuesta, indique la respuesta correcta respecto a si deberfa haberse llevado a cabo algun tipo de analisis de riesgos:
+A) No era necesario porque el desarrollo de la aplicaci6n es interno.
+B) Es conveniente pero no obligatorio.
+C) Es obligatorio yes imprescindible utilizar MAGERIT.
+D) Es obligatorio yes aconsejable utilizar MAGERIT.
+ANSWER:
+
+14.- Si habia obligaci6n, por parte de la Generalitat, de notificar el ciberinddente, seleccione, de entre las siguientes opciones, a que entidad y con que herramienta debfa hacerlo:
+A) Al CCN y con LUCIA.
+B) A INCIBE y con LUCIA.
+C) Al CCN y con PILAR.
+D) Al CCN y con LORETO.
+ANSWER:
+
+15.- Finalmente se decide mejorar el nivel de seguridad en el proceso de autenticadon de los us11arios de la aplicacion para que satisfaga los requisitos de un sistema de categorfa de seguridad alta. De entre las siguientes opdones, indique cual tiene mas sentido para mejorar la seguridad del proceso de autenticacion de usuarios en la aplicadon:
+A) lmplantar un IDS (Intrusion Detection System).
+B) lnstalar unfirewa/1 de red entre las sistemas de informaci6n de la Generalitat e Internet.
+C) Poner en marcha un sistema MFA (Multiple Factor de Autenticaci6n).
+D) Poner en marcha un sistema de 550 (Single Sign On) con antivirus.
+ANSWER:
+
+ESCENARIO "C"
+
+
+la Generalitat Valenciana, con la intenci6n de mejorar sus procedimientos administrativos, pretende simplificary eliminar tareas repetitivas que no aporten valor a los procesos, asi como reducir el riesgo del error humano, aumentar la transparencia y por ultimo, permitir a traves de su portal de datos abiertos, la maxima reutilizaci6n de los datos generados en su gesti6n.
+Se ha seleccionado, como piloto, un procedimiento administrativo de concesi6n de ayudas en el que se presentan las solicitudes de forma presencial, se gestionan y resuelven en una aplicaci6n de gesti6n de ayudas y por, ultimo, se notifica su concesi6n a traves de otra aplicaci6n de notificaci6n.
+la ciudadania presenta la solicitud impresa (PDF) acompafiada de un gran volumen de documentaci6n (estructurada y no estructurada) para acreditar que cumple los requisitos de la convocatoria.
+la aplicaci6n que gestiona las ayudas es muy antigua y s61o permite la interacci6n a traves de una interfaz grafica de usuario y la de notificaci6n tiene un proceso que permite generar las mismas a partir de los datos que le envia cualquier otro sistema.
+Se pretende gestionar las ayudas de forma mas eficiente, utilizando tecnologfas que permitan recuperar informaci6n de las solicitudes y de la documentaci6n adicional e incorporarla en la aplicaci6n de gesti6n de ayudas como lo haria un humano. Asf mismo, se desea poder generar de forma automatica la notificaci6n de las resoluciones en la aplicaci6n de notificaci6n.
+La soluci6n debera automatizar al maximo el proceso, pero es imprescindible que incorpore procesos de verificaci6n manual por parte de los gestores (intervenci6n humana).
+Para certificar y garantizar el proceso de notificaci6n, se va a utilizar la tecnologfa b/ockchain.
+Para intentar mejorar el procedimiento, se han utilizado dos algoritmos de aprendizaje automatico que intentan predecir cuantas subvenciones van a sufrir alegaciones. Dichos algoritmos tienen las siguientes matrices de confusion:
+
+
+16.- Con respecto a la automatizaci6n de procesos, indique, de entre las siguientes opciones, que tipos de robots (atendiendo a la intervenci6n humana) se podrfan utilizar en el caso del uso planteado:
+A) Solo robots desatendidos.
+B) No es aplicable ningun tipo de robotizaci6n.
+C) Solo robots atendidos, puesto que no seria aplicable el uso de robots desatendidos.
+D) Robots desatendidos y atendidos.
+ANSWER:
+
+17.- En cuanto a las tecnologias de automatizaci6n de procesos a utilizar para conseguir los diferentes objetivos del caso enunciado, seleccione la afirmaci6n correcta de entre las siguientes:
+A) La tecnologia RPA (Automatizacion Rob6tica de Procesos) no es aplicable al proceso de grabacion en la aplicacion de gestion de ayudas como lo haria un humano. Nose podria utilizar para poder simular y reproducir las acciones de los gestores en la aplicacion de gestion de ayudas.
+B) El proceso de generaci6n automatica de la notificacion de las resoluciones a la ciudadania, a partir de los datos y resoluciones generadas en la aplicacion de gestion de ayudas, no es un proceso candidate a automatizar mediante RPA (Automatizaci6n Robotica de Procesos).
+C) Para poder extraer datos de la documentaci6n (estructurada o no estructurada) presentada por la ciudadania y posteriormente incorporarlos en la aplicacion de gestion de ayudas, solamente se puede utilizar la tecnologia Automatizaci6n Rob6tica de Procesos {RPA).
+D) Algunas de las tecnologias que se podrian aplicar en el caso enunciado son: Automatizacion Rob6tica de Procesos (RPA), aprendizaje automatico (Ml) y el procesamiento del lenguaje natural (NLP).
+ANSWER:
+
+
+18.- Con el fin de reducir el numero de bloques que se van a grabar en los nodos de la cadena
+"blockchain", lcual de las siguientes opdones seria la correcta?:
+A) Aumentar los recursos de las nodos implicados.
+B) Utilizar un smart contract.
+C) Usar arbo!es de Merkle para agrupar, en un unico registro, varies registros representados por sus hashes.
+D) Cambiar el algoritmo de consenso y utilizar Proof of Work (PoW).
+ANSWER:
+
+19.- Con respecto a la mejora del portal de datos abiertos, se aconseja el uso de "Al'I" (Application Programming Interfaces). lCual de las siguientes respuestas seria una lmena practica para la definicion de estas Al'I:
+A) No utilizar estandares abiertos, como por ejemplo OpenAPI (OAS).
+B) Utilizar URI (Uniform Resource Identifier o ldentificador Uniforme de Recursos) para identificar recurses.
+C) No usar cabeceras HTTP para negociar el contenido.
+D) No aplicar directrices de Seguridad coma por ejemplo AP! Security-OWASP.
+ANSWER:
+
+20.- Respecto al apartado de inteligencia artificial (machine learning), a la vista de las dos matrices de confusion presentadas y en relacion con la precision (PPV por sus siglas en in­ gles) ya la sensibilidad (TPR por sus siglas en ingles) lCual es la precision def "Algoritmo A"
+?, escoja la respuesta correcta:
+A) 0,571.
+B) 0,703.
+C) 0,999.
+D) 0,655.
+ANSWER:
+
+21.- Partiendo de las dos matrices de confusion presentadas y en relacion con la precision (PPV por sus siglas en ingles) ya la sensibilidad (TPR por sus siglas en ingles). En relad6n con el "Algoritmo A" y el "Algoritmo B", lCual de las siguientes respuestas es correda?:
+A) Ambos algoritmos tienen la misma sensibilidad, pero distinta precision.
+B) La sensibilidad de/ "Algoritmo A" es menor que la del "Algoritmo B".
+C) Ambos algoritmos tienen la misma precision, pero distinta sensibilidad.
+D) La precision del "Algoritmo B" es mayor que la del "Algoritmo A".
+ANSWER:
+
+
+
+
+
+
+ESCENARIO "D"
+
+
+La Generalitat Valenciana, como medida de impulso del teletrabajo y en prevision de otro posible confinamiento en el futuro, necesita preparar un nuevo disefio de sus servicios TIC, de forma que permita al personal publico y, en su caso, a los usuarios acceder a la informacion y a las aplicaciones internas desde el exterior de la red corporativa de la Generalitat, con las maximas garantfas de seguridad.
+
+
+22.- En este escenario, la Generalitat pretende mejorar la arquitectura de los servidores de su Centro de Proceso de Datos (CPD) que dan soporte a la aplicaci6n "Au/a Virtual" para los alumno de centros educativos, de manera que sea posible escalar capacidades rapidamente en el caso de que todos los alumnos se encuentren en sus domidlios accediendo a las dases online. De entre las siguientes opciones, ,:Cua! serfa el diseiio mas adecuado para estos servidores con el fin de garantizar el servicio al menor coste posible?:
+A) La creacion de un segundo CPD, en modo pasivo, replica identica del principal, que se pueda activar ante cualquier contingencia o necesidad.
+B) Virtualizacion de los mismos servidores ubicados en el CPD, con lo que se incrementa muy significativamente la capacidad de calculo y de almacenamiento, sin necesidad de adquirir nuevos equipos.
+C) Despliegue de la aplicacion "Aula Virtual" sobre una plataforma hiperconvergente, lo que la convierte, automaticamente, en mucho mas eficiente y aumenta considerablemente su capa­ cidad de almacenamiento.
+D) Traslado de la aplicacion "Aula Virtual" a un "Software Defined Data Center" (SDDC), que permita dimensionar dinamicamente el aprovisionamiento y escalado de capacidades.
+ANSWER:
+
+23.- En ese mismo contexto, con el fin de posibilitar el teletrabajo, se quiere preparar 1.ma arquitectura que permita al personal publico trabajar con sus propios dispositivos persona­ les desde fuera de las sedes de la Generalitat, manteniendo todas las funcionalidades (ac­ ceso a aplicaciones, ficheros, ...) y con las maximas garantfas de seguridad de la informacion. lCual de las siguientes opciones cumpliria con esos requisitos de funcionalidad y seguridad?
+A) Activacion de una VPN de acceso completo a la red corporativa Generalitat.
+B) Traslado de la informacion del usuario (correo electr6nico, documentos de carpetas com­ partidas, ...) a un servicio "SaaS" (Software as a Service) externo, con un acceso protegido por un doble factor de autentificacion. Dicho Saas deberfa estar certificado con el cumplimiento del Reglamento General de Proteccion de Datos (RPGD) de la Union Europea.
+C) Habilitar el acceso externo a los equipos de sobremesa de usuario y, desde esos equipos, que puedan acceder a todo lo que necesitan.
+D) Creacion de una plataforma de virtualizacion de escritorios (VDI) con acceso restringido por certificado digital.
+ANSWER:
+
+24.- la Generalitat Valenciana pretende poner en marcha un nuevo Centro de Proceso de Datos (CPD). De acuerdo con el estandar "TIA-942", lQue subsistemas deben considerarse para el diseno de este nuevo Centro de l'roceso de Datos?:
+A) Telecomunicaciones, arquitectura, electrico y mecanico.
+B) Telecomunicaciones, electrico y climatico.
+C) Telecomunicaciones, antiincendios y electrico.
+D) Telecomunicaciones, seguridad, electrico y climatico.
+ANSWER:
+
+ZS.- En este nuevo CPD, indique cual de los siguientes equipos deberia situarse en la zona desmilitarizada o DMZ:
+A) El servidor de directorio activo.
+B) El servidor web de las lntranets de las Consellerias.
+C) El servidor de nombres de dominio o DNS.
+D) El servidor de aplicaciones internas.
+ANSWER:
+
+ESCENARIO "E"
+
+
+El Ministerio de Educaci6n propane la concesi6n de becas salario, ligadas a la renta, para la realizaci6n de estudios universitarios en las universidades publicas. En el caso de la Comuni­
+dad Valenciana la solicitud se realizara a traves de un tramite electr6nico de la Consel/erio de lnnovaci6n, Universidades, Ciencia y Sociedad Digital y, por medio del Sistema de lntercone­
+xi6n de Registros (SIR), se enviara la solicitud a la oficina de registro del Ministerio de Educa­ ci6n. Para la resoluci6n del tramite se debe obtener informaci6n de los datos del padr6n de la persona interesada. Se permitira adjuntar documentos anexos.
+Se ha decidido que la aplicaci6n que gestionara los tramites de solicitud y subsanaci6n de las becas estara orientada a contenedores Dockers y se basara en una arquitectura de microser­ vicios.
+Ademas, se propane la creaci6n de un portal para el seguimiento de las becas, con toda la informaci6n sobre ellas y con acceso a la aplicaci6n de tramitaci6n. La aplicaci6n debera ser accesible desde cualquier dispositivo (ordenador, tablet o smartphone).
+
+
+26.- Cuando se registre una solicitud en el Ministerio, se debe indicar el c6digo 0IR3 de la Conselleria que ha registrado en origen el tramite. De entre las siguientes opciones, elija la que podria corresponder a la Conselleria de lnnovaci6n, Universidades, Ciencia y Sociedad Digital de la Generalitat:
+A) A10026757.
+B) E04857703.
+C) LA01030921.
+D) 100000258.
+ANSWER:
+
+27.-Atendiendo a la ultima actualizacion de la libreria de intercambio de SIR de 2019 y segun la guia de aplicacion de las Normas Tecnicas de lnteroperabilidad (NTI) relativas al modelo de datos para el intercambio de asientos entre lasentidades registrales, de entre las siguien­ tes opciones, seleccione c6mo se enviara la informacion del registro y de los documentos
+anexos entre la aplicacion de registro origen y destino:
+A) Se enviaran mensajes SICRES con el contenido del registro, metadatos y los documentos anexos adjuntados.
+B) Se enviaran mensajes SIR en formato XML que incluye el contenido del registro, metadatos y documentos anexos embebidos.
+C) Se enviaran mensajes SICRES sin documentos anexos ya que una referencia a estos se in­ cluira en los metadatos para que la aplicaci6n destino pueda recuperarlos.
+D) Se enviaran mensajes SIR en formato XML con el contenido de! registro, los metadatos y los documentos anexos adjuntados.
+ANSWER:
+
+28.- Segun la nueva version de la libreria de intercambio SIR de 2019 y segun la guia de aplicaci6n de la NTI de modelo de datos para el intercambio de asientos entre las entidades registrales y su intend6n de simplificar los tipos de firma, indique, de entre las siguientes opdones, que tipo de firma se recomienda usar en los envfos de la documentaci6n anexa si es un fichero > 8 MB:
+A) XADES enveloped signatura.
+B) CADES detached/explicit signatura.
+C) CADES-T.
+D) CSV.
+ANSWER:
+
+29.- Para el tramite electr6nico se ha considerado el nivei "sustandal" (segun elDAS) como el adecuado para la identificaci6n y autenticad6n del ciudadano. Considerando que el in­ teresado se ha registrado en "Cl@ve" de forma presencial o telematica con certificado re­ conoddo o sistema equivalente, lque tipos de credenciales, como mfnimo, se permitiriin?:
+A) Solo Cl@ve PIN.
+B) Cl@ve PIN y Cl@ve permanente sin OTP.
+C) Cl@ve Pin, Cl@ve permanente con OTP y certificado reconocido en soporte software.
+D) Cualquier certificado reconocido en soporte hardware.
+ANSWER:
+
+30.- En el tramite se exige verificar la residencia de la persona solicitante (datos del padr6n).
+,Como se pueden obtener la verificaci6n de residencia?
+A) lnvocando al SVDR (servicio de verificaci6n de datos de residencia) disponible en cada ayun­ tamiento.
+B) lnvocando al servicio de verificaci6n de datos de residencia ofrecido par la PAI que utiliza la estructura de! protocolo SCSP (Sustituci6n certificados en soporte en papel) para la con­ sulta.
+C) lnvocando al servicio REST de verificaci6n de datos de residencia ofrecido por la PAI.
+D) lnvocando al servicio REST SVDR (servicio de verificaci6n de datos de residencia) disponible en el INE invocado a traves de la plataforma de lntermediaci6n de datos (PID).
+ANSWER:
+
+31.- El tramite genera un justificante de registro que se firmara en una actuad6n automatica
+con:
+A) Certificado de sello electr6nico de 6rgano.
+B) Certificado software de empleado publico de! registro.
+C) Certificado de sede electr6nica.
+D) Certificado SSL/TSL.
+ANSWER:
+
+32.- Los documentos anexados a cada solicitud se incorporaran al sistema en formate "pdf". Si se utilizan "servicios web" para la recepcion de estos documentos, seleccione, de entre las siguientes, la afirmacion correcta:
+A) En caso de emplear servicios SOAP, sera posible usar el estandar MTOM para la recepci6n eficiente de los documentos.
+B) No es posible el envfo de estos archivos usando SOAP.
+C) El envfo de archivos usando REST se realizara unicamente a traves del metodo PUT.
+D) No es posible el envfo de archivos usando REST.
+ANSWER:
+
+33.- Segun el Real Decreto 1112/2018, de 7 de septiembre, sabre accesibilidad de los sitios web y aplicaciones para dispositivos moviles del sector publico, de entre las siguientes op­ ciones seleccione la que se corresponde con los requisites mfnimos de accesibilidad web WCAG 1.0 que debe cumplir el portal Web donde se va a induir toda la informaci6n de las becas:
+A) A.
+B) AA.
+C) Ay AA.
+D) AAA.
+ANSWER:
+
+34.- De entre las siguientes opciones, indique que uso podrfa darse al protocolo "WebSo­
+ckets" dentro del portal desarrollado por la Generalitat para el seguimiento de las becas:
+A) Desarrollo de un foro de usuarios.
+B) Envfo de correos masivos.
+C) Desarrollo de un buscador interno.
+D) Desarrollo de un chat de asistencia al usuario.
+ANSWER:
+
+ESCENARIO "F"
+La Generalitat pretende evolucionar su red de emergencias y seguridad de banda estrecha actual (red COMDES), basada en un sistema TETRA, hacia una nueva red de misi6n crftica de banda ancha utilizando, por una parte, servicios radio usando el estandar SG definido por el "3GPP" (en adelante, 5G-COMDES) y, por otra parte, mediante un conjunto de enlaces de fibra 6ptica que unen tres centros de servicio (en adelante MSC) y un nodo de operaci6n (NOC) tal y coma se muestra, de forma muy simplificada, en la figura siguiente:
+
+El nucleo de SG-COMDES esta formado por tres MSC, que proporcionan conmutaci6n de lla­ madas, administraci6n de movilidad y servicios de datos para los abonados con telefonos m6- viles dentro de su area de servicio. Ademas, esta el centro de operaciones y control (NOC) de la red. To.dos los nodos del nucleo estan unidos entre sf y con el NOC, formando una red ma­ llada mediante enlaces de fibra 6ptica de alta capacidad, que se operan utilizando el protocolo IP version 4 con direcciones privadas en el rango 10.0.0.0/8. Las comunicaciones entre los MSC y el NOC se implementan mediante routers, de forma que no existen redes locales virtuales (VLAN) que pertenezcan a dos ubicaciones distintas en el mismo rango IP.
+Para permitir la conexi6n a internet de la red SG-COMDES, se dispone en el NOC de un Firewall NGFW (Next Generation) que realiza dicha interconexi6n y provee de las funcionalidades de sistema de prevenci6n de intrusiones (IPS), Deep Inspection y red privada virtual (VPN).
+
+35.- Se desea permitir un cierto numero de conexiones entrantes desde Internet a algunos servidores HTTPS en el MSC de Alicante. En este entorno, de entre las siguientes, lQue afir­ maci6n es la correcta?:
+A) Es necesario instalar el certificado SSL de cada servidor a inspeccionar en el Firewall NGFW para poder realizar las operaciones de Deep Inspection.
+B) No es posible realizar esta operaci6n sin instalar otro firewall NGFW en el MSC de Alicante.
+C) Es necesario configurar el Firewall para que las conexiones HTTPS utilicen el puerto TCP 80.
+D) Es necesario que los servidores HTTPS de todos los servicios a los que se quiere acceder en el MSC de Alicante tengan la misma direcci6n IP publica.
+ANSWER:
+
+36.- Como se ha comentado, el firewall NGFW del NOC lleva a cabo las funciones de servidor VPN. Sise dispone de esa funcionalidad para un maximo de 512 dientes. lndique cual de los siguientes rangos de IP version 4 tendria sentido utilizar para los clientes sin modificar la configuracion de enrutamiento o routing de la red SG-COMDES:
+A) 10.0.255.0/24.
+B) 10.0.248.0/22.
+C) 192.168.12.0/24.
+D) 192.168.250.0/22.
+ANSWER:
+
+37.- Se desea gestionar de forma centralizada el equipamiento de red de los distintos MSC y la red SG y crear dashboards del estado de la misma. Seieccione, de entre los siguientes, que protocolo seria mas indicado que soportara el equipamiento de red para esta funcion:
+A) OSPF.
+B) SMTP.
+C) Telnet.
+D) SNMP.
+ANSWER:
+
+38.- En el MSC de Castellon existe un equipo que tiene una direccion IP del rango asignado a dicho MSC que se tiene que mover temporalmente al MSC de Valencia. Por motivos hist6- ricos no es conveniente ni posible cambiar la IP del servidor. De entre las siguientes, lQue soluci6n permitirfa el funcionamiento correcto del equipo?:
+A) Cambiar las mascaras de red del interfaz del router del MSC Valencia para que admita todo el direccionamiento 10.0.0.0/8.
+B) lmplementar un tune! IPSEC entre los routers de Valencia y del NOC.
+C) lmplementar una red definida por software (SDN) y modificar las tablas de flujos de los equipos de red para que los paquetes de dates dirigidos al equipo a mover y provenientes del mismo se lleven al punto correcto del MSC de Valencia.
+D) No es posible realizar esta operaci6n sin cambiar la IP del equipo.
+ANSWER:
+
+39.- la red COMDES cubre toda la Comunitat Valenciana con unas 200 estaciones y unos 15.000 abonados, usando la banda de 400 MHz. Suponiendo que vamos a operar el sistema SG-COMDES en la banda de 700 MHz (banda 68) y manteniendo el objetivo de cobertura solo en los exteriores de los edificios, indique cual de las siguientes afirmaciones es correcta:
+A) El numero de estaciones base necesario de SG-COMDES sera siempre el mismo que el exis0 tente en la red COMDES actual, ya que SG-COMDES es un sistema limitado par potencia y el radio de la celula es independiente de la frecuencia de trabajo.
+B) El numero de estaciones base de SG-COMDES sera, en todo caso, menor que el existente en la red COMDES actual, ya que SG-COMDES es un sistema celular limitado par interferencia y el principal parametro de disefio es la densidad de usuarios par celula.
+C) El numero de estaciones base de SG-COMDES sera entre un 30%-70% mayor que el exis­ tente en la red COMDES actual, ya que la frecuencia de trabajo es sensiblemente mas alta y las perdidas par propagaci6n seran mayores.
+D) El numero de estaciones base SG-COMDES sera mucho mayor que el existente en la red COMDES actual en las zonas metropolitanas y mucho menor que el existente en la red COM­ DES actual en las zonas rurales, al ser la propagaci6n en estas zonas independiente de las fre­ cuencias y haber pocos abonados en cada celula.
+ANSWER:
+
+40.- En relaci6n con la red SG de la plataforma de Internet de las Cosas (loT) no critica, de entre los siguientes, seleccione que tipo de network slicing 5G seria el mas apropiado que el operador comercial pusiera a disposici6n de la Generalitat para explotar esta red loT:
+A) Unslice que implemente el caso general de uso del tipo URLLC.
+B) Un slice que implemente el caso general de uso del tipo eMBB.
+C) Un slice que implemente el caso general de uso del tipo mMTC.
+D) Una combinaci6n de las casos de uso URLLC y eMBB.
+ANSWER:

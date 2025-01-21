@@ -1,0 +1,734 @@
+1. Las principales características de la modalidad de formación MOOC son:
+a) Son masivos (no hay límite de matriculaciones), son presenciales y tienen coste de matriculación.
+b) Son masivos (no hay límite de matriculaciones), se imparten en formato online y son abiertos.
+c) Hay un límite de matriculaciones, son presenciales y son gratuitos.
+d) Hay un límite de matriculaciones, son presenciales y tienen coste de matriculación..
+ANSWER: B
+
+2. Indica la opción en que todos sean CMS (Content Management System)
+a) Drupal, WordPress, Hadoop.
+b) Drupal, Liferay, SonarQube.
+c) Selenium, Cypress, Maven.
+d) Drupal, Joomla, Liferay.
+ANSWER: D
+
+3. ¿Qué organismo público se encarga de supervisar la aplicación de la Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales en España?
+a) La Secretaría General de Informática, Comunicaciones y Redes.
+b) El Ministerio de Derechos Sociales y Agenda 2030.
+c) La Sede Electrónica de Garantía de Derechos Digitales.
+d) La Agencia Española de Protección de Datos.
+ANSWER: D
+
+4. El mecanismo legal utilizado por los Desarrolladores de Software para prevenir copias no autorizadas de su Software se denomina:
+a) Derechos de autor del software.
+b) Encriptación.
+c) Registro electrónico.
+d) ISBN digital.
+ANSWER: A
+
+5. Según la Norma Técnica de Interoperabilidad de Documento electrónico, ¿cuales son los componentes del documento electrónico?
+a) Contenido, imagen del documento y firma electrónica.
+b) Imagen del documento y metadatos obligatorios.
+c) Contenido, firma electrónica y metadatos.
+d) Índice, firma electrónica y metadatos.
+ANSWER: C
+
+6. Señale la afirmación CORRECTA sobre UML
+a) En UML v2.5.1 hay dos clases principales de tipos de diagramas: diagramas estructurales y diagramas de comportamiento.
+b) Es el acrónimo de Ultra Machine Learning.
+c)  Esun lenguaje específico de la metodología de desarrollo RUP (Rational Unified Process).
+d)  Esun estándar oficial de transmisión de datos.
+ANSWER: A
+
+7. ¿A qué tecnología podría atribuirse la siguiente definición? "Es un libro mayor compartido e inalterable que facilita el proceso de registro de transacciones y de seguimiento de activos en una red de negocios”
+a) IoT.
+b) Machine Learning.
+c)  Blockchain.
+d) Metaverso.
+ANSWER: C
+
+8. Aproximación para el desarrollo de software que consiste en construir una aplicación como un conjunto de pequeños servicios, los cuales se ejecutan en su propio proceso y se comunican con mecanismos ligeros (normalmente una API a través de HTTP)
+a) Arquitectura de microservicios.
+b) Arquitectura monolítica.
+c) Arquitectura N-tier.
+d) Arquitectura MVC.
+ANSWER: A
+
+9. ¿Cuál de los siguientes es un formato de archivos para aplicaciones en el sistema operativo iOS de Apple?
+a) .ipa
+b) .apk
+c) .aip
+d) .art
+ANSWER: A
+
+10. ¿Qué tipo de sistema OLAP almacena físicamente la información sobre tecnología relacional?
+a) HOLAP.
+b) ROLAP.
+c) NOLAP.
+d) MOLAP.
+ANSWER: B
+
+11. En el expediente de contratación, el documento que contiene la descripción de la realización de la prestación y define sus calidades y sus condiciones sociales y ambientales, se denomina:
+a) Pliego de Prescripciones Técnicas Particulares.
+b) Anexo número siete.
+c) Certificado de existencia de cfedito.
+d) Motivación de la necesidad.
+ANSWER: A
+
+12. A la extensión de la conectividad que proporciona internet a dispositivos tales como por ejemplo una nevera, un sensor de pulsaciones o de presión arterial, se conoce como
+a) Tecnología 5G.
+b) Internet para todos.
+c) Smart Cities.
+d) Internet de las cosas (loT).
+ANSWER: D
+
+13. Una página o sitio web diseñado y construido para que sus contenidos y servicios estén disponibles para cualquier persona, con independencia de sus capacidades visuales, auditivas, cognitivas o motrices e independientemente de la tecnología que utilizan, es una página:
+a) SPA (Single Page Application).
+b) Accesible.
+c) HTML5.
+d) Corporativa.
+ANSWER: B
+
+14. ¿Cuál de los siguientes entornos es el más apropiado para que los usuarios finales puedan realizar pruebas para comprobar el comportamiento que luego tendrá la aplicación en el entorno de producción?
+a) Local.
+b) Post-Producción.
+c) Pre-Producción.
+d) Producción.
+ANSWER: C
+
+15. Está relacionado con la VOIP...
+a) Protocolo H323.
+b) Estandar 802.11.
+c) DHCP.
+d) DRM.
+ANSWER: A
+
+16. ¿Qué es un sistema de detección de intrusos (1IDS)?
+a) Un software que protege contra virus y malware.
+b) Un sistema que protege contra ataques de phishing.
+c) Una webcam con detección de movimiento.
+d) Un sistema que monitorea y controla el tráfico de red.
+ANSWER: D
+
+17. ¿Cómo se denomina el entorno en tiempo de ejecución que ejecuta el código y proporciona servicios que facilitan el proceso de desarrollo en .NET?
+a) NVM (.NET Virtual Machine).
+b) CLR (Common Language Runtime).
+c) CIL (Common Intermediate Language).
+d) CNR (Core .NET Runtime).
+ANSWER: B
+
+18. ¿Cuál de los siguientes estándares internacionales establece un marco de trabajo común para los procesos del ciclo de vida del software?
+a) ISO/NEC 27002.
+b) ISO/IEC/IEEE 12207.
+c) ISO 14001.
+d) ISO 9001.
+ANSWER: B
+
+19. El dispositivo que permite la interconexión de redes LAN y que trabaja en el nivel 2 del modelo OSI se denomina
+a) Repetidor.
+b) Puente (bridge).
+c) Encaminador (router).
+d) Pasarela (gateway).
+ANSWER: B
+
+20. ¿Cuál de las siguientes es una herramienta de trabajo colaborativo, disponiendo de funcionalidades como videoconferencia, chat o edición colaborativa de documentos?
+a) Microsoft Teams.
+b) Microsoft Word.
+c) Openshift.
+d) Redmine.
+ANSWER: A
+
+21. ¿Cuál de los siguientes es una guía que contiene fundamentos para la dirección de proyectos en el que se presentan estándares, pautas y normas para la gestión de estos proyectos y que está confeccionada y publicada por el Project Management Institute?
+a) AGILE GUIDE.
+b) SCRUM.
+c) PMBOK.
+d) ITIL.
+ANSWER: C
+
+22. ¿Cual es el tamaño de la cabecera en IPv6?
+a) Es de 40 bytes.
+b) Es variable para ayudar a los equipos a conmutar el tráfico.
+c) Sigue siendo de 20 Bytes como en |Pv4 para garantizar la compatibilidad.
+d) Se ha podido reducir de 20 a 16 bytes gracias a la desaparición de campos de la cabecera que antes eran obligatorios en IPv4.
+ANSWER: A
+
+23. Indique la afirmación verdadera sobre la auditoría informática:
+a) Se lleva a cabo exclusivamente por empleados de la empresa auditada.
+b) Se centra únicamente en la evaluación del desempeño de los empleados.
+c) Se centra en evaluar la eficiencia del uso de todos y cada uno de los recursos de la empresa.
+d) Se lleva a cabo para asegurar el cumplimiento de los estándares y regulaciones aplicables.
+ANSWER: D
+
+24. Cual es la ordenación correcta, de menor a mayor nivel, en el Modelo de referencia de interconexión de Sistemas Abiertos (OSI)
+a) 1.- Físico, 2.- Enlace, 3.- Red, 4.- Transporte, 5.- Sesión, 6.- Presentación, 7.- Aplicación.
+b) 1.- Físico, 2.- Enlace, 3.- Red, 4.- Transporte, 5.- Sesión, 6.- Seguridad, 7.- Aplicación.
+c) 1.- Físico, 2.- Enlace, 3.- Sesión, 4.- Red, 5.- Transporte, 6.- Presentación, 7.- Aplicación.
+d) 1.- Físico, 2.- Trama, 3.- Red, 4.- Transporte, 5.- Sesión, 6.- Presentación, 7.- Sistemas.
+ANSWER: A
+
+25. Según el Decreto 80/2019 por el que se establece la Estructura de la Consejería de Hacienda y Administraciones Públicas del 16 de julio 2019 de la JCCM, ¿cuál es el Organo Directivo con la función de "La elaboración y gestión de programas para promover el uso de las nuevas tecnologías y la implantación de la sociedad de la información en todos los ámbitos de la actividad económica y social, en coordinación con el resto de órganos de la Administración Regional y de otras Administraciones Públicas"?
+a) La Dirección General de Función Pública.
+b) La Consejería de Desarrollo Sostenible.
+c) La Dirección General de Telecomunicaciones y Nuevas Tecnologías.
+d) La Dirección General de Administración Digital.
+ANSWER: D
+
+26. En linux, el comando grep:
+a) Permite cambiar de directorio.
+b) Muestra el listado de ficheros en la ruta actual.
+c) Permite buscar una cadena o patrón de texto dentro de un fichero. :
+d) Muestra un listado con los comandos ejecutados anteriormente por el usuario.
+ANSWER: C
+
+27. ¿Cual de las siguientes opciones hace referencia a una API relacionada con el escaneado de imágenes?
+a) TWAIN.
+b) T-WIN.
+c) TWING.
+d) RESTFOR SCAN.
+ANSWER: A
+
+28. A la hora de establecer objetivos en una planificación estratégica, se recomienda que cumplan con la metodología SMART. Algunos de los criterios indicados en esta metodología son:
+a) Medible, Inalcanzable y Económico.
+b) Alcanzable, Económico y Relevante.
+c) Medible, Alcanzable y Relevante.
+d) Medible, Económico y Tangencial.
+ANSWER:
+
+29. De entre las siguientes opciones, indique qué atributo es más deseable con el fin de utilizar un rasgo biométrico en un sistema de control automático de accesos:
+a) Que posea una alta variabilidad temporal.
+b) Que posea una alta variabilidad inter-usuario.
+c) Que posea una alta variabilidad intra-usuario.
+d) Que posea una alta homogeneidad inter-usuario.
+ANSWER: B
+
+30. Respecto a MPLS:
+a) Analizando la etiqueta de los paquetes es posible extraer el destino y los puntos por los que tienen que transitar los paquetes.
+b) Los puntos intermedios de la red MPLS se llaman LSR (Label Switching router).
+c) Cada vez que un paquete atraviesa un elemento de red se calcula el siguiente punto por el que se debe reenviar.
+d) Los caminos entre 2 extremos son dinámicos para dar flexibilidad a la comunicación.
+ANSWER: B
+
+31. En la pirámide de Maslow o de la jerarquía de necesidades, ¿cuál es la necesidad que se encuentra en el último nivel?
+a) Necesidades básicas y fisiológicas.
+b) Necesidades de seguridad y protección.
+c) Necesidades de estima (reconocimiento).
+d) Autorrealización.
+ANSWER: D
+
+32. ¿Cuál de las siguientes opciones es una metodología de Análisis y Gestión de Riesgos?
+a) SCRUM.
+b) MAGERIT.
+c) PMBOOK.
+d) ISO 9000.
+ANSWER: B
+
+33. El organismo responsable de X.500, como conjunto de estándares de redes informáticas sobre servicios de directorio, entendidos estos como bases de datos de direcciones electrónicas, es:
+a) INTEF.
+b) ITU-T.
+c) IEEE.
+d) UNE.
+ANSWER: B
+
+34. ¿Cuál de las siguientes opciones corresponden a características asociadas a la información manejada en Big Data?
+a) Verticalidad, variedad y velocidad.
+b) Verticalidad, voracidad y variedad.
+c) Volumen, voracidad y velocidad.
+d) Volumen, variedad y velocidad.
+ANSWER: D
+
+35. La serie de normas, instrucciones, guías y recomendaciones desarrolladas por el Centro Criptológico Nacional con el fin de mejorar el grado de ciberseguridad de las organizaciones, se denomina:
+a) CCN-STIC.
+b) CCN-SOC.
+c) CCN-RFC.
+d) CCN-ENS.
+ANSWER: A
+
+36. Indique cual de las siguientes opciones es un mecanismo de consenso utilizado en una blockchain:
+a) Singleton.
+b) Semáforos.
+c) Prueba de trabajo.
+d) Algoritmo de Dijkstra.
+ANSWER: C
+
+37. ¿A qué hace referencia el concepto de VDI?
+a) Virtualización dinámica integral.
+b) Desarrollo de integraciones virtuales.
+c) Voz descomprimida en Internet.
+d) Infraestructura de escritorios virtuales.
+ANSWER: D
+
+38. Según el modelo de calidad definido por la ISO/IEC 25010, ¿cuales de las siguientes son algunas características de calidad del software?
+a) Adecuación funcional, Uso del lenguaje C++ y Funcionalidad inacabada.
+b) Usabilidad, Funcionalidad inacabada y Mantenibilidad.
+c) Adecuación funcional, Mantenibilidad y Uso del lenguaje C++.
+d) Adecuación funcional, Usabilidad y Mantenibilidad.
+ANSWER: D
+
+39. La entidad privada, independiente, sin ánimo de lucro reconocida en el Real Decreto 2200/1995 como el Organismo Nacional para desempeñar actividades de normalización, es:
+a) ITU-T.
+b) IEEE.
+c) AENOR.
+d) CENELEC.
+ANSWER: C
+
+40. La normativa de referencia que regula de forma general el derecho a la protección de datos en el ámbito Europeo y nacional es:
+a) Reglamento 2016/679 (RGPD) y Ley Órgánica 3/2018 (LOPDGDD).
+b) Directiva (UE) 2018/1972 y Ley 39/2015 (LPACAP).
+c) Directiva (UE) 2016/21022 y Ley 40/2015 (LRJSP).
+d) Directiva (UE) 2016/2102 y Ley 11/2007 (LAECSP).
+ANSWER: A
+
+41. Una organización capaz de tomar decisiones basadas en hechos y datos en lugar de hacerlo basándose en opiniones personales o intuiciones, se denomina:
+a) Organización comercial.
+b) Organización pública.
+c) Organización orientada a resultados.
+d) Organización orientada al dato.
+ANSWER: D
+
+42. En la metodología MAGERIT v3, el término que hace referencia a la medida del daño sobre un activo, derivado de la materialización de una amenaza es:
+a) Impacto.
+b) Riesgo.
+c) Magnitud.
+d) Contramedida.
+ANSWER: A
+
+43. El concepto de laC (Infraestructure as Code) se define como:
+a) Es un conjunto de herramientas para detectar automáticamente, definir pautas y supervisar de forma inteligente los entornos multi-cloud dinámicos.
+b) Es un modelo de gestión y aprovisionamiento de infraestructuras basado en código, que, al ser interpretado, permite desplegar y configurar automáticamente la infraestructura virtual descrita en él.
+c) Es un modelo de servicio en la nube en el que el consumidor no tiene control sobre la red, los servidores, sistemas operativos o almacenamiento, pero sí sobre las aplicaciones desplegadas y sobre los ajustes de configuración de dichas aplicaciones.
+d) Es un modelo de servicio en la nube en el que el cliente es responsable del sistema operativo, los datos, las aplicaciones, el middleware y los tiempos de ejecución.
+ANSWER: B
+
+44. ¿Cual de las siguientes opciones es una técnica de estimación de esfuerzo basada en el consenso y principalmente utilizada en metodologías ágiles como Scrum o XP (Extreme Programming)?
+a) Sprint Pert.
+b) COCOMO.
+c) Planning poker.
+d) Método Mark ll.
+ANSWER: C
+
+45. ¿Con qué nuevo nombre se conoce a la plataforma empresarial de Java, anteriormente Java EE, desde que está gestionada por la Eclipse Foundation?
+a) JavaNG (Java Next Generation).
+b) PACJEE (Plataforma Antes Conocida como Java EE).
+c) No ha cambiado de nombre.
+d) Jakarta EE.
+ANSWER: D
+
+46. Se considera como una buena práctica en la redacción de documentos normativos que su contenido conlleve el siguiente orden:
+a) De lo particular a lo general.
+b) Orden alfabético.
+c) De lo excepcional a lo normal.
+d) De lo abstracto a lo concreto.
+ANSWER: D
+
+47. ¿Qué Norma Técnica de Interoperabilidad tiene por objeto establecer las condiciones en las que cualquier órgano de una Administración, o Entidad de Derecho Público vinculada o dependiente de aquella, accederá a la Red SARA?
+a) La Norma Técnica de Interoperabilidad de Política de Firma y Sello Electrónicos y de Certificados de la Administración.
+b) La Norma Técnica de Interoperabilidad de Digitalización de Documentos.
+c) La Norma Técnica de Interoperabilidad de Requisitos de conexión a la red de comunicaciones de las Administraciones Públicas españolas.
+d) La Norma Técnica de Interoperabilidad de Relación de modelos de datos.
+ANSWER: C
+
+48. El proceso que consiste en la conversión de datos personales en datos que no se pueden utilizar para identificar a ningún individuo se denomina:
+a) Anonimización.
+b) Cifrado.
+c) Reidentificación.
+d) Categorización.
+ANSWER: A
+
+49. El período de tiempo tras un incidente dentro del cual se reanuda un producto, servicio o actividad o se recuperan recursos, se denomina:
+a) Análisis de impacto al negocio (BIA).
+b) Periodo máximo tolerable de interrupción (MTPD).
+c) Objetivo de punto de recuperación (RPO).
+d) Objetivo de tiempo de recuperación (RTO).
+ANSWER: D
+
+50. Según la Ley 10/2021, de 9 de julio, de trabajo a distancia, es necesario realizar un acuerdo entre empleado y empleador para teletrabajar
+a) Sólo en casos excepcionales.
+b) Si, y debe figurar en la toma de posesión.
+c) No hay regulación al respecto.
+d) Si, por escrito.
+ANSWER: D
+
+51. ¿Qué utilidad de Oracle permite realizar copias de seguridad, restauraciones y recuperaciones de archivos de bases de datos?
+a) MAN.
+b) RFID.
+c) NFC.
+d) RMAN.
+ANSWER: D
+
+52. Entre los requisitos de QoS en un sistema de videoconferencia, se encuentran...
+a) Latencia, Resolución y Sonido envolvente.
+b) Latencia, Sonido envolvente y Tasa de pérdida de paquetes.
+c) Resolución, Jitter y Tasa de pérdida de paquetes.
+d) Latencia, Tasa de pérdida de paquetes y Jitter.
+ANSWER: D
+
+53. Un sistema criptográfico que utiliza pares de claves (pública y privada) para cifrar y descifrar información se denomina:
+a) Simétrico.
+b) Asimétrico.
+c) Paralelo.
+d) Redundante.
+ANSWER: B
+
+54. El Directorio general de aplicaciones para su libre reutilización mantenido por la Administración General del Estado, se denomina
+a) Almacén de Reutilización de Aplicaciones (ARA).
+b) Centro de Transferencia Tecnológica (CTT).
+c) Repositorio Compartido de Software (RCS).
+d) Directorio Tecnológico Compartido (DTC).
+ANSWER: B
+
+55. Indique cómo se denomina el patrón de diseño GoF que define una dependencia de uno-a-muchos entre objetos, de forma que, cuando un objeto cambia de estado, se notifica y se actualizan automáticamente todos los objetos que dependen de él
+a) Isolated.
+b) Singleton.
+c) Observer.
+d) Command.
+ANSWER: C
+
+56. ¿Cuál de las siguientes herramientas permite realizar pruebas de carga?
+a) Jmeter.
+b) Redis.
+c) LTW (Load Testing Web).
+d) Microsoft Dynamics.
+ANSWER: A
+
+57. ¿Cuál de las siguientes normas establece estándares relativos a la organización de Centros de Procesos de Datos?
+a) No existen estándares sobre CPDs.
+b) X.500.
+c) TIA-942.
+d) Sólo los CPDs de organizaciones en Cloud utilizan estándares.
+ANSWER: C
+
+58. El acrónimo FIRST sobre las buenas prácticas en la definición de un test unitario, hace referencia a:
+a) Famous, Irrelevant, Referential, Slow, Terrible.
+b) Fast, Independent, Repeatable, Self-Validating, Timely.
+c) Forgettable, Immense, Ridiculous, Special, Testimonial.
+d) Factual, Irrelevant, Radical, Spherical, Traditional.
+ANSWER: B
+
+59. En el ámbito de una organización y la gestión de sus sistemas de información, el nivel de agregación de los datos que debe manejar el área o nivel operativo debe ser:
+a) Alto.
+b) Bajo.
+c) No se manejan datos a este nivel.
+d) Es indiferente.
+ANSWER: B
+
+60. ¿Qué nombre recibe el sistema de información que implementa la Dirección Electrónica Habilitada única?
+a) Cl@ve.
+b) Notific@.
+c) DEHú.
+d) Habilit@.
+ANSWER: C
+
+61. Lo que, con más frecuencia, supone la mayor pérdida de energía en la instalación de un CPD es:
+a) No es posible conocer el factor que supone una mayor pérdida de energía en un CPD.
+b) El uso de cargadores para teléfonos móviles por los técnicos del CPD.
+c) Los sistemas de refrigeración.
+d) Los equipos de almacenamiento y de red.
+ANSWER: C
+
+62. El órgano técnico para la cooperación en materia de administración electrónica entre la Administración General del Estado, las administraciones de las Comunidades Autónomas y las entidades que integran la Administración Local es:
+a) Comisión Sectorial de Administración Electrónica.
+b) Conferencia Sectorial de Informática.
+c) Agencia Sectorial Nacional TIC.
+d) Este órgano no existe.
+ANSWER: A
+
+63. La transformación de una forma de representación de un sistema a otra distinta, pero del mismo nivel de abstracción, sin modificar el comportamiento externo del sistema es:
+a) Ingeniería Inversa.
+b) Reestructuración.
+c) Ingeniería hacia delante.
+d) Desarrollo en cascada.
+ANSWER: B
+
+64. El manifiesto ágil se fundamenta en cuatro valores, entre los que se encuentra:
+a) Procesos y herramientas sobre individuos e interacciones.
+b) Documentación intensiva sobre software funcionando.
+c) Colaboración con el cliente sobre negociación contractual.
+d) Seguir un plan frente respuesta ante incidentes.
+ANSWER: C
+
+65. ¿Cuál de las siguientes respuestas muestra tipos de aplicaciones que pueden ser ejecutadas desde dispositivos móviles?
+a) Aplicaciones Web, aplicaciones Hibridas y aplicaciones Apropiativas.
+b) Aplicaciones Hibridas, aplicaciones Nativas y aplicaciones Apropiativas.
+c) Aplicaciones Web, aplicaciones Nativas y aplicaciones Apropiativas.
+d) Aplicaciones Web, aplicaciones Hibridas y aplicaciones Nativas.
+ANSWER: D
+
+66. Dentro de la administración, las técnicas de coaching...
+a) No pueden aplicarse en el caso de que no exista una normativa que regule su aplicación.
+b) Pueden aplicarse, ciñéndose a la normativa especifica que regula su aplicación dentro de la Administración.
+c) No deben aplicarse, ya que constituye un método informal de transferencia de conocimiento y queda fuera del marco normativo.
+d) Pueden aplicarse como un método para aumentar el conocimiento y rendimiento de las personas.
+ANSWER: D
+
+67. La Estrategia Nacional de Ciberseguridad 2019 se sustenta y se inspira en los siguientes principios rectores:
+a) Inversión, Corrección, Planificación y Puertas abiertas.
+b) Confidencialidad, Integridad, Disponibilidad y Autenticidad.
+c) Unidad de acción, Anticipación, Eficiencia y Resiliencia.
+d) Innovación, Investigación, Despliegue y Uso de sistemas analógicos.
+ANSWER: C
+
+68. ¿Cuál es el estandar que define mecanismos de seguridad para redes inalambricas?
+a) 802.119.
+b) 802.11ax.
+c) 802.11e.
+d) 802.11i.
+ANSWER: D
+
+69. Según el W3C, ¿qué es el Modelo de Objetos del Documento (DOM-Document Object Model en inglés)?
+a) Una especificación binaria.
+b) Una manera de acceder a objetos no alcanzables de documentos HTML y XML.
+c) El conjunto de objetos que pueden aparecer en un documento: encabezados, títulos, párrafos, figuras, etc.
+d) Una API para documentos HTML y XML que define la estructura lógica de los documentos y el modo en que se accede y manipula.
+ANSWER: D
+
+70. Relacionado con la matriz de la asignación de responsabilidades (RACI), el rol que posee alguna información o capacidad necesaria para realizar la tarea, se conoce como:
+a) Responsible (Responsable).
+b) Accountable (Aprobador).
+c) Consulted (Consultado).
+d) Informed (Informado).
+ANSWER: C
+
+71. ¿Qué gestiona un CRM?
+a) Las relaciones con los clientes.
+b) Las relaciones con los empleados.
+c) Las relaciones con la dirección.
+d) La relación con los proveedores.
+ANSWER: A
+
+72. El enfoque o filosofía de desarrollo de software en el que la seguridad se integra desde el principio y a lo largo de todo el proceso DevOps, y que se convierte en una responsabilidad compartida por todos los equipos involucrados en el proyecto, se denomina:
+a) SLOps.
+b) LSD (Lean Secure Development).
+c) SUP (Secure Unified Process).
+d) DevSecOps.
+ANSWER: D
+
+73. ¿Cuál de los siguientes factores es determinante para seleccionar las ventanas de transmisión empleadas en una fibra óptica?
+a) La relación entre el diámetro del núcleo y la cobertura de la fibra óptica.
+b) La atenuación.
+c) La dispersión.
+d) La frecuencia de Niquist.
+ANSWER: B
+
+74. ¿Cuál de las siguientes definiciones corresponde al concepto de mantenimiento correctivo del software?
+a) Modificación para corregir problemas o defectos detectados actualmente.
+b) Modificación para adaptarse a un entorno cambiado o cambiante.
+c) Modificación para mejorar el rendimiento o la mantenibilidad.
+d) Modificación para corregir fallos latentes antes de que se conviertan en fallos efectivos en un futuro.
+ANSWER: A
+
+75. ¿Cuál de las siguientes es una licencia de software libre?
+a) BNL (Binary Nefarious License).
+b) GNU GPL (GNU General Public License).
+c) FCL (Fundamental Common License).
+d) Copyright.
+ANSWER: B
+
+76. Seleccione el framework para creación de aplicaciones de una sola página (SPA) escrito en TypeScript y de código abierto
+a) Django.
+b) Groovy.
+c) Ruby on Rails.
+d) Angular.
+ANSWER: D
+
+77. Si hablamos de Integración Continua, ¿cuál de los siguientes es un servidor de automatización?
+a) Eclipse.
+b) Subversion.
+c) PHP.
+d) Jenkins.
+ANSWER: D
+
+78. "Es la hoja de ruta para la transformación digital del país, una estrategia ambiciosa para aprovechar plenamente las nuevas tecnologías y lograr un crecimiento económico más intenso y sostenido, rico en empleo de calidad, con mayor productividad y que contribuya a la cohesión social y territorial, aportando prosperidad y bienestar a todos los ciudadanos en todo el territorio".¿A qué iniciativa corresponde esta definición?
+a) Agenda España Digital.
+b) Iniciativa de empleo para España.
+c) Hacia un país digitalizado.
+d) Estrategia tecnología para la productividad.
+ANSWER: A
+
+79. ¿Qué significan las siglas CSS en relación a los lenguajes y herramientas de programación web?
+a) Cooperative Standard Specification.
+b) Crashing Stimulus Specification.
+c) Cascading Style Sheets.
+d) Commercial Spurious Simulation.
+ANSWER: C
+
+80. Entre los protocolos de correo electrónico más extendidos, se encuentra:
+a) NTP.
+b) SMTP.
+c) SAML.
+d) FTP.
+ANSWER: B
+
+81. La definición de servidores físicos que se montan en un chasis que proporciona diversos componentes comunes para aprovechar el espacio, reducir el consumo y simplificar la explotación corresponde a:
+a) Granjas de servidores.
+b) Servidores virtualizados.
+c) Blades.
+d) Bastionado de servidores.
+ANSWER: C
+
+82. ¿Cuál de las siguientes sería una herramienta apropiada para visualizar datos en un proyecto de Bl (Business Intelligence)?
+a) Filezilla.
+b) Microsoft Power BI.
+c) Jmeter.
+d) Artifactory.
+ANSWER: B
+
+83. El método de infiltración que se vale de una vulnerabilidad informática a la hora de validar las entradas del usuario para realizar operaciones sobre una base de datos, se denomina:
+a) Inyección de código SQL.
+b) Troyano.
+c) Vising.
+d) Ataque man in the middle.
+ANSWER: A
+
+84. El dispositivo criptográfico basado en hardware que genera, almacena y protege claves criptográficas, y suele aportar aceleración hardware para operaciones criptográficas, se denomina:
+a) PKI (Public Key Infrastructure).
+b) Token criptográfico.
+c) HSM (Hardware Security Module).
+d) Pen Drive.
+ANSWER: C
+
+85. En el ámbito de la Administración Pública, ¿a qué hace referencia el acrónimo RISP?
+a) Revisión, Intervención, Seguridad, Protección.
+b) Reutilización de la Información del Sector Público.
+c) Referencias a la Información del Sector Público.
+d) Ese acrónimo no existe en el ámbito de la Administración Pública.
+ANSWER: B
+
+86. En el campo de Sistemas de Información Geográfica, una imagen aérea corregida para representar una proyección ortogonal sin efectos de perspectiva de la cámara, se denomina
+a) Imagen LIDAR.
+b) Mapa coroplético.
+c) Modelo Digital del Elevación.
+d) Ortofoto.
+ANSWER: D
+
+87. ¿Cuales de los siguientes componentes forman parte de un sistema operativo?
+a) Sistema de Gestión de procesos.
+b) Sistema de Gestión de memoria.
+c) Sistema de Gestión de Entidades Relacionales.
+d) Las opciones a y b son correctas.
+ANSWER: D
+
+88. En el ámbito de las Bases de datos, las siglas ACID hacen referencia a:
+a) Automaticity (Automaticidad), Completeness (Completitud), Isolation (Aislamiento) y Disconnected (Desconectado).
+b) Atomicity (Atomicidad), Completeness (Completitud), Inverse (Inverso) y Durability (Durabilidad).
+c) Atomicity (Atomicidad), Consistency (Consistencia), Isolation (Aislamiento) y Durability (Durabilidad).
+d) Asynchronous (Asíncrono), Completeness (Completitud), Isolation (Aislamiento) y Disconnected (Desconectado).
+ANSWER: C
+
+89. ¿Cuál de los siguientes es un marco de gestión reconocido mundialmente que ayuda a las organizaciones a gestionar el cambio y mejorar su rendimiento?
+a) ISO 3924.
+b) ITILV5.
+c) EFQM.
+d) MAGERIT.
+ANSWER: C
+
+90. Una de las ventajas principales del uso del prototipado es que:
+a) Los tiempos de desarrollo se reducen.
+b) Los costes de desarrollo se reducen.
+c) Mejora la comunicación usuario-desarrollador.
+d) Se cumple mejor la planificación del sistema.
+ANSWER: C
+
+91. El modelo de servicio en la nube en el que el consumidor no tiene control sobre la red, los servidores, sistemas operativos o almacenamiento, pero sí sobre las aplicaciones desplegadas y sobre los ajustes de configuración de dichas aplicaciones, es:
+a) IaaS.
+b) PaaS.
+c) SaaS.
+d) CaaS.
+ANSWER: B
+
+92. Dado un diagrama de clases, seleccione la definición correcta sobre una relación de dependencia según Métrica v3
+a) Es un mecanismo que permite a una clase de objetos incorporar atributos y métodos de otra clase, añadiéndolos a los que ya posee.
+b) Es un tipo de relación jerárquica entre un objeto que representa la totalidad de ese objeto y las partes que lo componen.
+c) Se utiliza entre dos clases o entre una clase y una interfaz, e indica que una clase requiere de otra para proporcionar alguno de sus servicios.
+d) Es un mecanismo que permite especificar un conjunto de operaciones de una clase o paquete que son visibles desde otras clases o paquetes.
+ANSWER: C
+
+93. ¿Cuáles de las siguientes opciones se corresponden con formatos de firma electrónica?
+a) PNG, JPEG y TIFF.
+b) XML, PHP y HTML.
+c) X.509, ASN.1 y DER.
+d) XAdES, CAdES y PadES.
+ANSWER: D
+
+94. En el sistema operativo Windows, las bibliotecas de vínculos dinámicos que contienen códigos y datos que pueden ser utilizados por más de un programa al mismo tiempo, tienen la extensión:
+a) DLL.
+b) DOCX.
+c) EXE.
+d) PHP.
+ANSWER: A
+
+95. ¿Qué es ChatGPT?
+a) Es un chat para la Gestión Pública del Transporte.
+b) Es un chat para la Gestión Prevalente de Transacciones.
+c) Es un chatbot basado en inteligencia artificial desarrollado por OpenAl.
+d) Es una herramienta de Generación de Procesos Temporales.
+ANSWER: C
+
+96. ¿Para qué se utiliza la herramienta FIRe?
+a) Para almacenar apoderamientos electrónicos.
+b) Para el envío de notificaciones internas.
+c) Para la firma electrónica de documentos.
+d) Para el archivado rápido de expedientes.
+ANSWER: C
+
+97. Para trabajar con una vista que contenga tuplas de varias tablas, se utilizará la sentencia SQL:
+a) COMPOSE TABLE.
+b) CREATE VIEW.
+c) NEWVIEW.
+d) GREP VIEW.
+ANSWER: B
+
+98. ¿Cuál de de las siguientes opciones es una infraestructura de integración para la construcción de arquitecturas SOA?
+a) IKE (Internet Key Exchange).
+b) ESB (Enterprise Service Bus).
+c) SBC (Session Border Controller).
+d) WPA (Wi-Fi Protected Access).
+ANSWER: B
+
+99. La dimensión de interoperabilidad relativa a que la información intercambiada pueda ser interpretable de forma automática y reutilizable por aplicaciones que no intervinieron en su creación es:
+a) Dimensión organizativa.
+b) Dimensión semántica.
+c) Dimensión técnica.
+d) Dimensión temporal.
+ANSWER: B
+
+100. En el ámbito del aprendizaje automático (“Machine Learning”), ¿en qué tipo de aprendizaje se realiza un entrenamiento del modelo en base a datos etiquetados previamente?
+a) Supervisado.
+b) No supervisado.
+c) Con apoyo externo de ayuda.
+d) Sin apoyo externo de ayuda.
+ANSWER: A
+
+101. En una arquitectura orientada a servicios REST (REpresentational State Transfer), ¿cuál es la operación comúnmente utilizada para consultar datos?
+a) GET.
+b) POST.
+e) PUT.
+d) PATCH.
+ANSWER: A
+
+102. ¿Qué es un certificado digital?
+a) Es un conjunto de datos asociados a un mensaje que permite asegurar la identidad del firmante y la integridad del mensaje.
+b) Es un fichero digital emitido por una tercera parte de confianza que garantiza la vinculación entre la identidad de una persona o entidad y su clave pública.
+c) Es una contraseña que se utiliza para acceder a documentos protegidos.
+d) Es un software que permite verificar la validez de una firma electrónica.
+ANSWER: B
+
+103. Indique el nombre de un framework para el desarrollo de aplicaciones web basado en PHP
+a) Laravel.
+b) Spring PHP Core.
+c) Swift.
+d) Bootstrap.
+ANSWER: A
+
+104. ¿Qué tecnología permite mantener una comunicación asíncrona con el servidor, facilitando la actualización de elementos individuales de una página web sin necesidad de actualizar toda la página completa?
+a) JSON.
+b) JDBC.
+c) AJAX
+d) CSS.
+ANSWER: C
+
+105. En el contexto de las redes de comunicaciones, la necesidad de establecer un camino dedicado desde un extremo a otro antes de que se pueda enviar datos, es una propiedad de redes basadas en:
+a) Conmutación de circuitos.
+b) Conmutación de paquetes.
+c) Conmutación de mensajes.
+d) Conmutación de protocolos.
+ANSWER: A

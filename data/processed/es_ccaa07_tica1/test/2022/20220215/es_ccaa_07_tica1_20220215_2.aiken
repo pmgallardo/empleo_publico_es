@@ -1,0 +1,655 @@
+20. ¿Qué sistema informático distribuido es el más apropiado para procesamiento paralelo a gran escala con gran uso de la comunicación entre procesos?
+a) Cluster
+b) Peer-to-peer
+c) Grid
+d) Client/Server
+ANSWER: A
+
+21. ¿Cuáles son las principales características de un sistema informático distribuido grid?
+a) De gran escala, heterogéneo, con compartición de recursos, con dominios de administración múltiples, con coordinación de recursos y con acceso confiable
+b) De gran escala, heterogéneo, con compartición de recursos, con administración centralizada, con coordinación de recursos, y con acceso confiable
+c) De gran escala, distribuido geográficamente, heterogéneo, con compartición de recursos, con dominios de administración múltiples, con coordinación de recursos, y con acceso transparente y confiable
+d) De gran escala, distribuido geográficamente, homogéneo, con compartición de recursos, con dominios de administración múltiples, con coordinación de recursos, y con acceso transparente y confiable
+ANSWER: C
+
+22. ¿Qué niveles RAID (Redundant Array of Independent Disks) pueden presentar tolerancia a fallos en dos unidades de disco (drivers) simultáneamente?
+a) RAID1 y RAID5
+b) RAID4 y RAID5
+c) RAID1 y RAID6
+d) RAID2, RAID3, RAID4 y RAID5
+ANSWER: C
+
+23. ¿Qué tecnologías de conectividad con los dispositivos de almacenamiento se utilizan en una SAN?
+a) SCSI (Small Computer System Interface), iSCSI (Internet Small Computer System Interface), FCIP (Fiber Channel over IP), FCoTR (Fiber Channel over Token Ring), FCoE (Fiber Channel over Ethernet) y FC (Fiber Channel)
+b) SCSI, iSCSI, FCIP, FCoE y FC
+c) SCSI y FC
+d) FCIP, FCoTR, FCoE y FC
+ANSWER: B
+
+24. En la administración de memoria, marque el algoritmo que NO es uno de los utilizados para el reemplazo de páginas.
+a) WSClock
+b) MAF (más disponibles primero)
+c) Envejecimiento
+d) NFU (no utilizadas frecuentemente)
+ANSWER: B
+
+25. En Windows Server 2019, cuando se tienen grandes entornos, que tienen más de un dominio dentro de la misma red, ¿qué herramienta de gestión se utiliza para configurar el directorio activo?
+a) Domains, Trees and Trusts
+b) Active Directory Scope Expand
+c) Active Directory Domains and Trusts
+d) Active Directory Domains and Trees
+ANSWER: C
+
+26. ¿Cuáles son o fueron tecnologías de virtualización bare-metal?
+a) Intel VT-x, AMD-V, KVM y Microsoft Hyper-V
+b) VMware Server y Oracle VM VirtualBox
+c) KVM, Microsoft Hyper-V, VMware ESXI y VMware Server
+d) Intel VT-x, AMD-V, VMware ESXi y VMware Server
+ANSWER: A
+
+27. ¿Qué algoritmo NO se utiliza para la sincronización de relojes de distintos servidores?
+a) Lamport
+b) Christian
+c) ARPA
+d) Berkeley
+ANSWER: C
+
+28. Indique cuál de los siguientes sistemas corresponde a una herramienta de integración continua, como servidor autónomo de código abierto que se puede usar para automatizar todo tipo de tareas relacionadas con la construcción, prueba y entrega o implementación de software:
+a) Redis
+b) Jeronimo
+c) Cassandra
+d) Jenkins
+ANSWER: D
+
+29. Indique cuál de las siguientes NO es una de las cuatro libertades esenciales del software libre, según el Proyecto GNU:
+a) La libertad de ejecutar el programa como se desea, con cualquier propósito
+b) La libertad de explotar comercialmente el programa sin facilitar su código fuente
+c) La libertad de redistribuir copias para ayudar a otros
+d) La libertad de estudiar cómo funciona el programa, y cambiarlo para que haga lo que uno quiera
+ANSWER: B
+
+30. Según define la Guía PMBOK, un proyecto es:
+a) Un esfuerzo permanente y continuo con recursos asignados para realizar un conjunto estable de tareas que produce resultados repetitivos
+b) Un acuerdo legal, oral o escrito, manifestado en común entre dos o más personas con capacidad jurídica que se vinculan en virtud del mismo, regulando sus relaciones a una determinada finalidad o cosa
+c) Una opción elegible, viable y repetible que la oferta pone a disposición de la demanda, para satisfacer una necesidad o atender un deseo a través de su uso o consumo
+d) Un esfuerzo temporal que se lleva a cabo para crear un producto, servicio o resultado único
+ANSWER: D
+
+31. En ITIL v3, ¿quién es el responsable de definir los Indicadores Clave de Rendimiento (KPIs) para el proceso de Gestión de Cambios?
+a) El propietario del proceso de Gestión de Cambios
+b) El propietario del Servicio
+c) El Consejo Consultor para Cambios (CAB)
+d) El Consejo Consultor para Cambios de Emergencia (ECAB)
+ANSWER: A
+
+32. ¿Cuál de las siguientes es una característica del prototipado rápido como modelo de ciclo de vida de los sistemas de información?
+a) No importa el tiempo que se necesite emplear en su desarrollo
+b) El prototipo viene a ser una versión inicial del software, que habrá que ir refinando y mejorando para construir el sistema real
+c) El prototipo sirve para crear y validar la especificación y para que el usuario se haga una idea de cómo será el software definitivo
+d) Se utilizan en todas las fases del desarrollo, aunque su elevado coste hace que su uso se limite dentro de un proyecto
+ANSWER: C
+
+33. En un sistema de Data Warehouse la operación que permite ver datos con mayor nivel de agregación, disminuyendo el nivel de detalle se conoce como:
+a) Roll-up
+b) Slice-and-dice
+c) Drill-down
+d) Drill-up
+ANSWER: A
+
+34. En el ámbito de los sistemas de información geográfica, señale la respuesta INCORRECTA:
+a) Web Feature Service (WFS) es un servicio para consulta de datos vectoriales.
+b) MapReduce es una especificación OGC para el almacenamiento comprimido de datos ráster.
+c) Web Map Tile Service (WMTS) es un protocolo estándar basado en un modelo piramidal de mosaicos o teselas.
+d) Los datos ráster corresponden a un modelo matricial que representa el terreno.
+ANSWER: B
+
+35. De acuerdo al art. 27 del Esquema Nacional de Seguridad, la relación de medidas de seguridad que aplican las Administraciones Públicas para cumplir los requisitos mínimos de seguridad teniendo en cuenta los activos de un sistema, su categoría y las decisiones para gestionar los riesgos identificados se formaliza en:
+a) La Política de Seguridad de la Información.
+b) El Documento de Seguridad.
+c) El Informe de Auditoría
+d) La Declaración de Aplicabilidad.
+ANSWER: D
+
+36. En relación con la seguridad de los sistemas de información, seleccione la respuesta correcta:
+a) Amenaza es la debilidad de un sistema de información que puede ser explotada mediante un ataque.
+b) Impacto es la probabilidad de que se produzca un daño en la organización.
+c) Mecanismos de Seguridad son las acciones llevadas a cabo encaminadas a reducir el riesgo sobre alguna vulnerabilidad.
+d) Vulnerabilidad es un evento que pueden desencadenar un incidente en la organización, produciendo daños materiales o pérdidas inmateriales
+ANSWER: C
+
+37. En relación con las evaluaciones de impacto de protección de datos (EIPD), señale la opción INCORRECTA:
+a) La EIPD es obligatoria para todos los tratamientos de datos de las Administraciones Públicas.
+b) La EIPD es obligatoria cuando las operaciones de tratamiento entrañen un alto riesgo para los derechos y libertades de las personas físicas.
+c) Si no es posible mitigar el riesgo con medidas técnicas u organizativas, debe plantearse una consulta a la Agencia Española de Protección de Datos.
+d) El resultado de la evaluación debe tenerse en cuenta para determinar las medidas que mitiguen los riesgos, de forma que el tratamiento mantenga las garantías de protección de datos
+ANSWER: A
+
+38. La Tercera Parte de Confianza (TPC) de un entorno de clave pública, que se encarga de legitimar la relación de una clave pública con la identidad de un usuario o servicio es:
+a) Autoridad de Certificación (AC)
+b) Autoridad de Validación (AV)
+c) Autoridad de Registro (AR)
+d) Autoridad de Revocación (AR)
+ANSWER: A
+
+39. El término SQLInjection describe
+a) Una posible forma de ataque sobre sentencias SQL
+b) Una forma de introducir sentencias SQL dentro del código de un programa
+c) Una técnica para dar valor a parámetros de entrada o de salida en una sentencia SQL
+d) Un parámetro de optimización de sentencias SQL en Oracle
+ANSWER: A
+
+40. ¿Cuál de las siguientes es una métrica que define el número de caminos independientes dentro de un fragmento de código?
+a) Puntos de función
+b) Complejidad Ciclomática
+c) Longitud de programa de Halstead
+d) Recorrido de árbol
+ANSWER: B
+
+41. ¿Qué función de agregación de Oracle (a partir de la versión 11.2) se utiliza para pivotar filas en una única columna concatenando los valores con un separador indicado? Por ejemplo, un listado de departamentos en la que se desee incluir una columna con el nombre de los empleados de cada departamento separados por punto y coma.
+a) CONCATLIST
+b) JOINSTRING
+c) LISTAGG
+d) JOINLIST
+ANSWER: C
+
+42. En METRICA V3, ¿cuál es una tarea del proceso ASI?
+a) Aceptación de la arquitectura del sistema
+b) Especificación de casos de uso
+c) Optimización del modelo físico de datos
+d) Realización de las pruebas unitarias
+ANSWER: B
+
+43. ¿Qué componente de JSF2 permite tratar los eventos que tiene lugar en una página?
+a) Managed Bean
+b) ActionForm
+c) ADF Controller
+d) Controller
+ANSWER: A
+
+44. ¿Cuál de los siguientes NO es uno de los principios de la Orientación a Objetos?
+a) Abstracción
+b) Encapsulamiento
+c) Redundancia controlada
+d) Herencia
+ANSWER: C
+
+45. ¿Cuál de las siguientes es una característica de AJAX?
+a) Es una tecnología asíncrona
+b) Se utiliza únicamente para operaciones que se puedan realizar completamente en el navegador
+c) Las operaciones se invocan siempre desde el servidor de aplicaciones
+d) Cada vez que se realiza una operación se recarga la página
+ANSWER: C
+
+46. En la arquitectura REST, en un servicio RESTful que utilice HTTP como protocolo de comunicaciones, ¿qué verbo HTTP se usa para modificar un objeto?
+a) PUT
+b) MODIFY
+c) POST
+d) UPDATE
+ANSWER: A
+
+47. Un ciclo de vida de desarrollo del software en el que, en cada ciclo, se revisa y mejora el producto, pero sin desarrollar una parte nueva del producto, se denomina:
+a) Incremental
+b) Iterativo
+c) Iterativo e incremental
+d) Adaptativo
+ANSWER: B
+
+48. En SQL, siendo A=VERDADERO y B=NULL, ¿cuál de las siguientes afirmaciones es correcta?:
+a) Se cumpliría: (A AND B)=VERDADERO y no se cumpliría: (A AND B)=FALSO
+b) Se cumpliría: (A AND B)=FALSO y no se cumpliría: (A AND B)=VERDADERO
+c) Se cumpliría: (A AND B)=VERDADERO y también: (A AND B)=FALSO
+d) No se cumpliría: (A AND B)=VERDADERO y tampoco: (A AND B)=FALSO
+ANSWER: D
+
+49. ¿Cuál de los siguientes es un framework de desarrollo front-end?
+a) ASP.NET
+b) Angular
+c) ADF
+d) Spring
+ANSWER: B
+
+50. ¿Cuál de los siguientes elementos de una base de datos Oracle almacena cada operación que se efectúe en la base de datos y se utiliza en las operaciones de recuperación hacia adelante, roll- forward, durante las recuperaciones de la BD?
+a) Ficheros redo log
+b) Shared SQL Pool
+c) Segmento de rollback
+d) Roll-forward recovery file
+ANSWER: A
+
+51. ¿Cuál de los siguientes es un lenguaje para la descripción formal de expresiones en los modelos UML que permite representar, entre otros, invariantes, precondiciones y postcondiciones?
+a) RML
+b) EML
+c) CEL
+d) OCL
+ANSWER: D
+
+52. Con respecto a los protocolos de encaminamiento RIP y OSPF puede afirmarse que:
+a) RIP es del tipo “protocolo de puerta de enlace interior” y OSPF es del tipo “protocolo de puerta de enlace exterior”
+b) RIP es del tipo “protocolo de puerta de enlace exterior” y OSPF es del tipo “protocolo de puerta de enlace interior”
+c) RIP es del tipo “estado de enlace” mientras que OSPF es del tipo “vector distancia”
+d) RIP es del tipo “vector distancia” mientras que OSPF es del tipo “estado de enlace”
+ANSWER: D
+
+53. ¿Qué protocolo de red permite obtener la dirección de capa 2 (MAC address) a partir de la dirección de capa 3 (IP address)?
+a) ARP
+b) NTP
+c) ICMP
+d) DHCP
+ANSWER: A
+
+54. Una organización necesita desplegar una red privada sobre líneas de datos alquiladas a un operador de telecomunicaciones que no permite implementar redes VPN de capa dos sobre su infraestructura. De las siguientes tecnologías, ¿cuál deberá utilizar para implementar dicha VPN?
+a) PPTP
+b) L2TP
+c) TDEA
+d) IPSec
+ANSWER: D
+
+55. En un edificio se desea implantar una red WiFi (IEEE 802.11) segura, de forma que el acceso a la misma NO esté basado en una clave compartida entre todos los usuarios. ¿Qué protocolos y estándares se utilizarán para proporcionar la autenticación y cifrado en dicha red WiFi?
+a) WEP-TKIP
+b) WPA-TKIP
+c) WPA2-AES
+d) WPS-AES
+ANSWER: C
+
+56. La dirección IPv4 150.214.1.12 corresponde con el ordenador (nodo) de una red /23. ¿Cuál es la dirección IP que hay que utilizar para hacer una llamada a todos los nodos de esa red (broadcast)?
+a) 150.214.1.0
+b) 150.214.1.255
+c) 150.214.1.254
+d) 150.214.1.1
+ANSWER: B
+
+57. ¿Cuál de los siguientes conceptos NO aporta seguridad a una intranet?
+a) Spoofing
+b) Firewalls
+c) NAT
+d) Proxy
+ANSWER: A
+
+58. Respecto a la Reutilización de la información del Sector Público, señale la respuesta correcta:
+a) Las personas jurídicas son las únicas que pueden hacer uso de los datos generados y custodiados por los organismos del sector público
+b) La reutilización supone actividades como la copia, difusión, reordenación y combinación de la información siempre que sea con fines no comerciales
+c) Los documentos y recursos de información reutilizables puestos a disposición pública utilizarán estándares abiertos y estándares propietarios indistintamente
+d) El sitio web datos.gob.es es el portal de carácter nacional que organiza y gestiona el Catálogo de Información Pública del Sector Público
+ANSWER: D
+
+59. Qué nombre recibe, en el paradigma de orientación a objetos, el principio de diseño que establece que las interfaces definidas deben tener una finalidad específica?
+a) Principio abierto-cerrado
+b) Principio de segregación de interfaces
+c) Principio de responsabilidad simple
+d) Principio de sustitución
+ANSWER: A
+
+60. Señale cuál de las siguientes opciones es correcta:
+a) El Cuadro de Mandos Integral establece las oportunidades y amenazas de un proyecto en un momento concreto
+b) El diagrama de Gantt tiene como finalidad establecer los objetivos de la organización al inicio del proyecto
+c) El DAFO permite realizar el seguimiento del proyecto a nivel temporal
+d) El PERT establece las dependencias entre las distintas tareas del proyecto para poder realizar su planificación adecuada
+ANSWER: D
+
+61. De acuerdo con la Ley 25/2013 de impulso de la factura electrónica y creación del registro contable de facturas en el Sector Público, ¿cuál de las siguientes entidades NO está obligada al uso de factura electrónica en las entregas de bienes y prestaciones
+a) Sociedad de responsabilidad limitada
+b) Unión temporal de empresas
+c) Empresario individual
+d) Persona jurídica sin nacionalidad española
+ANSWER: C
+
+62. En relación con los principios de protección de datos desde el diseño, ¿cuál de las siguientes medidas NO se propone en el Reglamento General de Protección de Datos (UE) 2016/679 para cumplirlos?
+a) Reducir al máximo el tratamiento de datos personales
+b) Dar transparencia a las funciones y el tratamiento de datos personales
+c) Seudonimizar lo antes posible los datos personales
+d) Utilizar un registro de accesos y un procedimiento de gestión de incidencias
+ANSWER: D
+
+63. Indique la opción correcta en relación a la virtualización basada en contenedores:
+a) Los contenedores son instancias aisladas de ejecución de usuario que comparten un núcleo de sistema operativo común
+b) Cada contenedor integra un sistema operativo completo, incluido el KERNEL
+c) Los contenedores requieren ejecutarse dentro de un hipervisor
+d) Los contenedores no pueden ejecutarse dentro de máquinas virtuales
+ANSWER: A
+
+64. El Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público, es de aplicación:
+a) Tanto a los sitios web, independientemente del dispositivo empleado para acceder a ellos, como a las aplicaciones para dispositivos móviles de los organismos del sector público
+b) A los contenidos multimedia en directo y pregrabados de base temporal de los sitios web y aplicaciones para dispositivos móviles de prestadores del servicio público de radiodifusión y sus filiales
+c) A contenido multimedia pregrabado de base temporal publicado antes de la entrada en vigor de este real decreto
+d) A contenidos de sitios web y aplicaciones para dispositivos móviles que tengan la condición de archivos o herramientas de archivo por contener únicamente contenidos no necesarios para el desarrollo de cualesquiera tareas administrativas activas, siempre que no hayan sido actualizados ni editados con posterioridad a la entrada en vigor de este real decreto
+ANSWER: A
+
+65. Señale cuál de los siguientes NO es un principio en que se basan las Pautas de Accesibilidad para el Contenido Web (WCAG 2.1):
+a) Repetible
+b) Operable
+c) Comprensible
+d) Robusto
+ANSWER: A
+
+66. En el Framework .NET, ¿cómo se denomina al entorno de ejecución que controla la asignación y administración de memoria en la ejecución de programas?
+a) Common Intermediate Language o CIL
+b) Common Language Runtime o CLR
+c) Compilador Just-In-Time o JIT
+d) Microsoft Intermediate Language o MSIL
+ANSWER: B
+
+67. Bitlocker sirve para:
+a) Optimizar el rendimiento de las unidades de almacenamiento
+b) Cifrar ficheros individualmente mediante el algoritmo de cifrado AES
+c) Localizar dispositivos extraviados o robados
+d) Cifrar el disco duro en equipos con Sistema Operativo Windows
+ANSWER: D
+
+68. En la metodología ágil Scrum, la reunión al final del sprint en que el equipo Scrum colabora con interesados clave para inspeccionar el incremento de producto y, en su caso, adaptar el Product Backlog se denomina:
+a) Sprint Planning
+b) Daily Meeting
+c) Sprint Review
+d) Sprint Retrospective
+ANSWER: C
+
+69. Señale la opción correcta respecto a las soluciones EMM (Enterprise Mobility Management) para sistemas de movilidad:
+a) MAM permite la gestión de aplicaciones en los dispositivos móviles de una organización
+b) MEM se emplea para la gestión del acceso seguro a contenidos en movilidad
+c) MCM permite gestionar la securización del correo electrónico móvil
+d) Las soluciones EMM son independientes de otros sistemas ubicados en la red corporativa como servidores proxy o firewalls
+ANSWER: A
+
+70. Señale la opción correcta respecto a la validez y eficacia de las copias realizadas por las Administraciones Públicas, reguladas por la Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas:
+a) Las copias auténticas realizadas por una Administración Pública no tendrán validez en las restantes Administraciones
+b) Las copias electrónicas de un documento electrónico original o de una copia electrónica auténtica deberán incluir los metadatos que acrediten su condición de copia
+c) Las copias auténticas tendrán la misma validez y eficacia que los documentos originales siempre y cuando conserven su formato electrónico
+d) Las Administraciones Públicas podrán realizar copias auténticas mediante funcionario habilitado o por medio de representante
+ANSWER: B
+
+71. Uno de los grandes tipos en los que se puede clasificar la arquitectura de un SSO es la Arquitectura compuesta o federación, en la que se pueden utilizar distintos tipos de autenticación. Señale la respuesta INCORRECTA:
+a) Autenticación basada en vales (tokens), con criptografía simétrica
+b) Autenticación basada en PKI´s, con criptografía asimétrica
+c) Autenticación múltiple mediante cacheo en cliente
+d) Autenticación múltiple mediante cacheo en servidor utilizada, por ejemplo, en Kerberos
+ANSWER: D
+
+72. Uno de los requisitos mínimos del Esquema Nacional de Seguridad es el de la seguridad por defecto, según el cual ...
+a) las actuaciones en materia de seguridad deben basarse en el análisis de los defectos del sistema
+b) las actuaciones en materia de seguridad deben ser de naturaleza reactiva, de modo que los incidentes descubran las vulnerabilidades
+c) las consideraciones relativas a la seguridad deben retrasarse hasta las últimas fases del desarrollo del sistema para que su análisis sea lo más próximo posible a la realidad y se puedan minimizar los defectos
+d) el uso ordinario del sistema ha de ser sencillo y seguro, de forma que una utilización insegura requiera de un acto consciente por parte del usuario
+ANSWER: D
+
+73. En MAGERIT, el riesgo residual es ...
+a) el riesgo aceptado
+b) el riesgo despreciable
+c) el riesgo recomendable.
+d) el riesgo que resultaría tras aplicar un conjunto determinado de controles
+ANSWER: D
+
+74. Según EFQM, ¿en qué tipos se agrupan los criterios en que se basa el modelo?
+a) Agentes y resultados
+b) Procesos, personas y resultados
+c) Agentes internos y agentes externos
+d) Procesos y resultados
+ANSWER: A
+
+75. Dentro de la metodología de desarrollo ágil de software, ¿Cuál de estos NO es uno los valores sobre los que se sustenta la agilidad?
+a) Se valora un software que funciona, por encima de la documentación exhaustiva
+b) Se valora los procesos y herramientas, por encima de los individuos y sus interacciones
+c) Se valora la colaboración con el cliente, por encima de la negociación contractual
+d) Se valora la respuesta al cambio, frente al seguimiento de un plan
+ANSWER: B
+
+76. En METRICA v3 las actividades de la Interfaz de Gestión de Proyectos se dividen en los siguientes grupos:
+a) Actividades de Comienzo del Proyecto, Actividades de Seguimiento y Control y Actividades de Aceptación
+b) Actividades de Planificación del Proyecto, Actividades de Control de proyectos y Actividades de Aceptación
+c) Actividades de Inicio del Proyecto, Actividades de Seguimiento y Control y Actividades de Finalización
+d) Actividades de Inicio del Proyecto, Actividades de Control de Calidad y Actividades de Cierre
+ANSWER: C
+
+77. Según R. Kaplan y D. Norton, el método de Cuadro de Mando Integral es una herramienta para la gestión estratégica de las organizaciones. Esta técnica sugiere 4 perspectivas desde las que se ven las organizaciones, ¿cuál de las siguientes es una de ellas?:
+a) Financiera
+b) Del Proveedor
+c) Estrategia
+d) Fundacional
+ANSWER: A
+
+78. Según Anderson, ¿cuál de las siguientes es una de las prácticas centrales del método Kanban?:
+a) Limitar el trabajo en curso
+b) Limitar el número de fases del proceso
+c) Realizar iteraciones de duración fij.
+d) Documentar exhaustivamente los proyectos
+ANSWER: A
+
+79. Según ITIL v3, la gestión de cambios está intrínsecamente relacionada con:
+a) La gestión de la capacidad
+b) La gestión de la configuración
+c) La gestión del catálogo
+d) La gestión de la disponibilidad
+ANSWER: B
+
+80. La norma TIA/EIA-568-B establece lo siguiente;
+a) La distancia máxima permitida del cable horizontal no debe de exceder los 100 metros no pudiendo superar los 110 metros de longitud total máxima incluyendo los cables de conexión
+b) La distancia máxima permitida del cable horizontal no debe de exceder los 90 metros no pudiendo superar los 100 metros de longitud total máxima incluyendo los cables de conexión
+c) La distancia máxima permitida del cable horizontal no debe de exceder los 90 metros no pudiendo superar los 100 metros de longitud total máxima incluyendo los cables de conexión, salvo que se trate de fibra óptica cuyas dichas distancias máximas son superiores
+d) No hay tipificada ninguna distancia máxima permitida del cable horizontal
+ANSWER: B
+
+81. ¿A qué estándar nos referimos cuándo hablamos del Wifi 5, según WI-FI Alliance?
+a) 802.11ac
+b) 802.11g
+c) 802.11an
+d) 802.11ax
+ANSWER: A
+
+82. Si tuviera que optar por un modelo de movilidad empresarial que tuviera un menor coste de hardware, software y servicios combinado con un alto compromiso del usuario y bajos costes de aprendizaje, por qué modalidad optaría;
+a) CYOD
+b) COPE
+c) BYOD
+d) COBO
+ANSWER: C
+
+83. ¿Cuál de los siguientes protocolos es el encargado de generar mensajes de error en el caso de producirse fallos en el transporte de paquetes IP entre los diferentes gateways que comunican los host origen y destino?
+a) ICMP
+b) RARP
+c) ARP
+d) DNS
+ANSWER: A
+
+84. SSL (Secure Socket Layer) y TLS (Transport Layer Security) son protocolos de cifrado con las siguientes características. Señale la opción INCORRECTA.
+a) Ambos operan en la capa de transporte de internet
+b) Su función es cifrar el tráfico de datos entre el cliente y el servidor
+c) SSL es el protocolo sucesor de TLS
+d) Cuando la comunicación tiene lugar en esta capa de transporte cifrada, se añade una “s” al nombre del protocolo: por ejemplo, http pasa a ser https
+ANSWER: C
+
+85. Cómo se denomina el tipo de servicio de informática en la nube que ofrece recursos esenciales de proceso, almacenamiento y redes a petición que son de pago por uso:
+a) Infrastructure as a Service (IaaS)
+b) Platform as a Service (PaaS)
+c) Software as a Service (SaaS)
+d) Analytics as a Service (AaaS)
+ANSWER: A
+
+86. En el caso de firma de facturas electrónicas, en formato Facturae, el formato de firma que se utiliza es:
+a) CAdES
+b) XAdES
+c) PAdES
+d) Todos los anteriores
+ANSWER: B
+
+87. Se entiende por integridad de la información, según la norma ISO 27002:
+a) Que cada persona accederá únicamente a la información que le corresponda
+b) Disposición de los servicios a ser usados cuando sea necesario
+c) Característica que previene contra la denegación no autorizada de acceso a activos del dominio
+d) La salvaguarda de la precisión y completitud de la información y sus métodos de proceso
+ANSWER: D
+
+88. En relación con el modelo CMMI (Capability Maturity Model Integration), inicialmente se componía de un único modelo. Con el tiempo se desarrollaron tres modelos diferentes. Indicar cuál de los siguientes modelos no forma parte de ese desarrollo posterior:
+a) CMMI-DEV, centrado en el desarrollo de proyectos de software
+b) CMMI-ACQ, centrado en la adquisición o subcontratación de sistemas y servicios software
+c) CMMI-SPS, centrado en el desarrollo de software para el sector público
+d) CMMI-SVC, centrado en la mejora de prestación de servicios software
+ANSWER: C
+
+89.En relación con los prestadores de servicios de confianza cualificados, la Autoridad de Validación:
+a) Presta un servicio de comprobación de la vigencia de un determinado certificado
+b) Habitualmente coincide con la Autoridad de Certificación
+c) Es la encargada de revocar el certificado antes de su caducidad cuando deja de tener validez
+d) Es la encargada de verificar la identidad del titular de forma previa a la expedición del certificado
+ANSWER: A
+
+90.Señalar cuál de las siguientes es una obligación impuesta a los prestadores cualificados de servicios de confianza:
+a) Ser auditados, al menos cada 24 meses, corriendo con los gastos que ello genere, por un organismo de evaluación de la conformidad
+b) Elegir en cada país al organismo de supervisión que garantice que se cumple con lo establecido en el Reglamento (UE) 910/2014, de 23 de julio de 2014
+c) Incluir atributos específicos adicionales en los certificados cualificados de firmas electrónicas
+d) Utilizar la etiqueta de confianza "UE" para indicar de manera simple, reconocible y clara los servicios de confianza cualificados que prestan
+ANSWER: A
+
+91.Entre las siguientes opciones, ¿cuál es un estándar para firma electrónica?
+a) WAdES
+b) PdES
+c) XAdES
+d) CdES
+ANSWER: C
+
+92.Señale la opción INCORRECTA respecto a sistemas criptográficos:
+a) En un sistema de cifrado de clave asimétrica, la seguridad radica en la transmisión de la clave mediante canal seguro entre el emisor y el receptor del mensaje
+b) La criptografía asimétrica incluye sistemas basados en factorización entera, el problema del logaritmo discreto y el problema del logaritmo discreto elíptico
+c) La criptografía asimétrica se fundamenta en la imposibilidad práctica de resolver ciertos problemas matemáticos de forma eficiente
+d) Dos de las aplicaciones principales de la criptografía de clave pública son el intercambio seguro de claves privadas y la firma digital
+ANSWER: A
+
+93.Señale la opción correcta sobre el hash:
+a) La longitud del hash varía en función del tamaño del mensaje
+b) Para su implementación se considera más seguro emplear MD5 frente a SHA-2
+c) La función hash no es reversible, sino unidireccional
+d) Dos mensajes diferentes podrían producir la misma firma
+ANSWER: C
+
+94.Señale la opción correcta sobre la criptografía simétrica de bloque:
+a) El uso del algoritmo DES resulta más seguro que el de AES
+b) SNOW 3G es un algoritmo de este tipo de criptografía utilizado en UMTS/LTE
+c) 64 Kbits y 128 Kbits son longitudes típicas de los bloques empleadas en sus algoritmos
+d) Son algoritmos de este tipo de criptografía Camellia y AES/Rijndael
+ANSWER: D
+
+95.Kerberos es un protocolo de autenticación de redes de ordenador que:
+a) Se basa en criptografía de clave simétrica y requiere un tercero de confianza
+b) Se basa en criptografía de clave asimétrica y requiere un tercero de confianza
+c) Se basa en criptografía de clave asimétrica y no requiere un tercero de confianza
+d) Se basa en criptografía de clave simétrica y no requiere un tercero de confianza
+ANSWER: A
+
+96.Según el Agile Project Management framework el ciclo de vida de un proyecto ágil consta de cinco fases. Seleccione la respuesta correcta:
+a) Concebir (envision), especular (speculate), desarrollar (develop), controlar (control) y cerrar (close)
+b) Concebir (envision), planificar (plan), explorar (explore), controlar (control) y cerrar (close)
+c) Concebir (envision), planificar (plan), desarrollar (develop), adaptar (adapt) y cerrar (close)
+d) Concebir (envision), especular (speculate), explorar (explore), adaptar (adapt) y cerrar (close)
+ANSWER: D
+
+97.En relación con las Normas Técnicas de Interoperabilidad (NTI) relacionadas con la gestión documental seleccione la que NO forma parte de ellas:
+a) NTI de Política de gestión de documentos electrónicos
+b) NTI de Digitalización de documentos
+c) NTI de Almacenamiento de documentos electrónicos
+d) NTI de Política de firma electrónica y de certificados de la Administración
+ANSWER: C
+
+98.Señale cuál de las siguientes es una herramienta de trabajo en grupo para la administración de proyectos basada en el uso de tablones y tarjetas de forma coherente con la metodología ágil Kanban:
+a) Teams
+b) Slack
+c) Trello
+d) Doodle
+ANSWER: C
+
+99.Dado el siguiente diagrama UML. ¿Cuál sería la forma adecuada de representarlo en JPA si se usan dos tablas en base de datos?
+
+      |-------|
+      |   A   |
+      |-------|
+      |       |
+      |-------|
+          △
+          |
+    -------------
+    |           |
+|-------|   |-------|
+|   B   |   |   C   |
+|-------|   |-------|
+|       |   |       |
+|-------|   |-------|
+
+a) Una clase B y otra clase C con la anotación @Inheritance(strategy=InheritanceType.TABLE_PER_CLASS)
+b) Una clase A con la anotación @Inheritance(strategy=InheritanceType.TABLE_PER_CLASS) y dos clases B y C que hereden de A
+c) Una clase B y otra clase C con la anotación @Inheritance(strategy=InheritanceType.JOINED)
+d) Una clase A con la anotación @Inheritance(strategy=InheritanceType.JOINED) y dos clases B y C que hereden de A
+ANSWER: B
+
+100. Examine la estructura de la tabla EMPLOYEES:
+EMPLOYEE_ID NUMBER Primary Key
+FIRST_NAME VARCHAR2(25)
+LAST_NAME VARCHAR2(25)
+HIRE_DATE DATE
+
+Se ejecutan las siguientes sentencias:
+CREATE table new_emp (employee_id NUMBER, name VARCHAR2(30));
+INSERT INTO new_emp SELECT employee_id, last_name FROM employees;
+Savepoint s1;
+UPDATE new_emp set name=UPPER(name);
+Savepoint s2;
+Delete FROM new_emp;
+Rollback to s2;
+Delete from new_emp where employee_id=180;
+Rollback;
+¿Al final de la transacción cuál de las siguientes operaciones es correcta?
+
+a) No existen filas en la tabla
+b) No es posible volver atrás (rollback) al mismo punto de grabación más de una vez
+c) La última actualización falla ya que el empleado cuyo employee_id es 180 fue previamente eliminado
+d) Existe un empleado de nombre “James”
+ANSWER: A
+
+103. [RESERVA] ¿Cuál de las siguientes sentencias SELECT muestra el id de orden de compra, id de producto y la cantidad de ítems en la tabla ITEM que coincidan en id de producto y cantidad de items con la orden cuyo id es 605? No mostrar los detalles de la orden 605
+a) SELECT ordeid, prodid, qty FROM ITEM WHERE (prodid, qty) IN (SELECT prodid, qty FROM ítem WHERE ordid=605);
+b) SELECT ordeid, prodid, qty FROM ITEM WHERE (prodid, qty) = (SELECT prodid, qty FROM ítem WHERE ordid=605) AND ordid<>605;
+c) SELECT ordeid, prodid, qty FROM ITEM WHERE (prodid, qty) IN (SELECT prodid, qty FROM ítem WHERE ordid=605) AND ordid<>605;
+d) SELECT ordeid, prodid, qty FROM ITEM WHERE (prodid, qty) IN (SELECT prodid, prodid, qty FROM ítem WHERE ordid=605) AND ordid<>605;
+ANSWER: C
+
+104. [RESERVA] Según el artículo 38 de la Ley 40/2015, de 1 de octubre, del Régimen Jurídico del Sector Público, se define como “dirección electrónica disponible para los ciudadanos a través de redes de telecomunicaciones cuya titularidad, gestión y administración corresponde a una Administración Pública, órgano o entidad administrativa en el ejercicio de sus competencias”
+a) Sede electrónica.
+b) Administración electrónica.
+c) Página web de una Administración Pública.
+d) Estándar abierto
+ANSWER: A
+
+105. [RESERVA] Indique la respuesta correcta que resume el funcionamiento de la firma digital con criptografía de clave pública, garantizando autenticidad del origen, el no repudio en origen y la integridad:
+a) El emisor calcula un hash del mensaje, lo cifra con su clave pública y transmite el criptograma resultante (firma) junto al mensaje. El receptor utiliza la clave privada del emisor para descifrar el criptograma.
+b) El emisor calcula un hash del mensaje, lo cifra con su clave privada y trasmite el criptograma resultante (firma) junto al mensaje. El receptor utiliza su clave privada para descifrar el criptograma
+c) El emisor calcula un hash del mensaje, lo cifra con su clave pública y transmite el criptograma resultante (firma) junto al mensaje. El receptor utiliza su clave privada para descifrar el criptograma
+d) El emisor calcula un hash del mensaje, lo cifra con su clave privada y transmite el criptograma resultante (firma) junto al mensaje. El receptor utiliza la clave pública del emisor para descifrar el criptograma
+ANSWER: D
+
+106. [RESERVA] La solución de registro completa que proporciona un servicio en la nube que permite gestionar las Oficinas de Registro de entrada/salida de una Administración, proporcionando su propio libro de registro, se llama;
+a) SIR
+b) ORVE
+c) GEISER
+d) REC
+ANSWER: B
+
+107. [RESERVA] ¿Qué mecanismo NO se utiliza para evitar condiciones de carrera en el sistema operativo UNIX?
+a) Semáforos
+b) Mutexe
+c) Monitores
+d) Start-Stoping
+ANSWER: D
+
+108. [RESERVA] ¿Qué beneficio NO se consigue con las tecnologías de virtualización?
+a) Mejora de la disponibilidad
+b) Independencia del hardware
+c) Uso eficiente de los recursos de hardware
+d) Aumento de la capacidad de proceso
+ANSWER: D
+
+109. [RESERVA] En la metodología TDD (Test Driven Development), ¿cuál de las siguientes opciones describe los pasos de un ciclo correctamente?
+a) Elegir un requisito, escribir el código de la implementación, escribir el código de la prueba, comprobar que las prueba funcione, refactorizar
+b) Elegir un requisito, escribir el código de la prueba, ejecutar la prueba, escribir el código de la implementación, comprobar que la prueba funcione, refactorizar
+c) Elegir un conjunto de requisitos, escribir el código de la implementación, escribir el código de las pruebas, comprobar que las pruebas funcionen, refactorizar
+d) Escribir el código de la implementación de todos los requisitos, escribir el código de las pruebas, comprobar que las pruebas funcionen, refactorizar
+ANSWER: B
+
+110. [RESERVA] ¿Cuántos niveles tiene el sistema de clasificación denominado TIER diseñado por el Uptime Institute, el cual se vincula con el nivel de fiabilidad y disponibilidad de un Centro de Proceso de Datos?:
+a) Dos
+b) Tres
+c) Cuatro
+d) Siete
+ANSWER: C
