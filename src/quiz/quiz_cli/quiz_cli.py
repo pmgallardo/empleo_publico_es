@@ -3,6 +3,7 @@ import glob
 import os
 import csv
 from pathlib import Path
+from fpdf import FPDF
 
 from utils.text_utils import number_to_letter
 from utils.text_utils import letter_to_number
@@ -785,6 +786,48 @@ class AGEQuiz:
             # Cancelled are ignored as the reserved questions are less
             return num_total_qs - num_cancelled_qs
 
+    def export_to_pdf(self):
+        # init PDF
+        pdf = FPDF()
+        pdf.add_page()
+        pdf.set_font("helvetica", style="", size=9)
+
+        if self.q_group.parts is not None:
+            # generate exam title
+            title_text = "Exámen emitido por " + self.q_group.source + " para acceder al cuerpo/puesto " + self.q_group.body + " para la convocatoria " + self.q_group.call
+            if self.q_group.mode != "":
+                title_text += " en modalidad " + self.q_group.mode.upper()
+            title_text += " con fecha " + self.q_group.date + "\n"
+
+            self.add_pdf_line(pdf, title_text)
+
+            # loop exam parts
+            for i, part in enumerate(self.q_group.parts):
+
+                if len(self.q_group.parts) > 1:
+                    # print part title
+                    self.add_pdf_line(pdf, "PARTE "+ str(i + 1))
+
+                if len(part.questions) > 0:
+                    questions = part.questions
+
+                    # loop exam questions within the part
+                    for j, question in enumerate(questions):
+                        # append question number to question
+                        sno_text = str(j+1) + ". " + question.get_statement_and_options_text()
+                        # remove not latin-1 code, that would produce an error
+                        sno_text2 = sno_text.encode('latin-1', 'replace').decode('latin-1')
+                        self.add_pdf_line(pdf, sno_text2)
+
+            pdf.output("exam.pdf")
+
+            printt("\nFichero PDF exportado correctamente.")
+        else:
+            printt("\nNo se encontraron preguntas.")
+
+    def add_pdf_line(self, pdf, text):
+        pdf.multi_cell(w=0, h=5, txt=text, new_x="LMARGIN", new_y="NEXT", align='L')
+
 class Quiz:
     def __init__(self):
         self.questions = []
@@ -1199,8 +1242,21 @@ def select_exam(body_id, def_call, mode, question_pool):
         quiz = question_pool.get_quiz_by_exam(ch_body, ch_call, ch_source, ch_mode, ch_date)
         # quiz.shuffle()
 
-        # Play quiz
-        quiz.play()
+        # Decide whether the quiz should be done interactively or exported as a file
+        printt("")
+        exam_interact_mode = input("¿Quieres realizarlo interactivamente [I] o exportarlo a PDF [P]? [I/P] (defecto: I): ")
+
+        exam_interact_mode.lower()
+
+        if exam_interact_mode == '' or exam_interact_mode == 'i':
+            # Play quiz interactively
+            quiz.play()
+        elif exam_interact_mode == 'p':
+            quiz.export_to_pdf()
+        else:
+            print("Opción desconocida")
+
+
     else:
         printt("No se encontraron preguntas para ese tema")
 
