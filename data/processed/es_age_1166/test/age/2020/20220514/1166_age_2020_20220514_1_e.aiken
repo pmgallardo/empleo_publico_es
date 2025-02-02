@@ -225,7 +225,7 @@ ANSWER: D
 33. [TEMA="2022.60"] En cuanto a los siguientes directorios relativos a la estructura del sistema de archivos de Linux, NO es correcto:
 a) /dev contiene ficheros del sistema representando los dispositivos que estén físicamente instalados en el ordenador.
 b) /etc está reservado para los ficheros de configuración del sistema.
-c) /proc contiene programas que s on únicamente accesibles al superusuario o “root”.
+c) /proc contiene programas que son únicamente accesibles al superusuario o “root”.
 d) /var contiene información temporal de los programas.
 ANSWER: D
 
@@ -555,7 +555,7 @@ ANSWER: A
 a) GMSK, Desplazamiento Mínimo Gaussiano.
 b) OFDM, Acceso múltiple por División de Frecuencia Ortogonal.
 c) BPSK, Modulación por desplazamiento diferencial de fase binario.
-d) FHSS, espectr o ensanchado por salto de frecuencia.
+d) FHSS, espectro ensanchado por salto de frecuencia.
 ANSWER: B
 
 81. [TEMA="2022.113"] ¿Qué es FEC (Forwarding Equivalence Class) en MPLS?:
@@ -647,7 +647,7 @@ a) Es una gama de firewall de la compañía Barracuda.
 b) Es un tipo de firewall empleado en entornos “cloud” como AWS.
 c) Es un tipo de firewall específico para las redes 5G de comunicaciones móviles.
 d) Es un tipo de firewall con capacidades de inspección en la capa 7 del modelo OSI.
-ANSWER: B
+ANSWER: D
 
 94. [TEMA="2022.125"] En ciberseguridad, ¿qué se entiende por “honeypot”?:
 a) Es una funcionalidad de los “firewalls” web para bloquear “ransomware”.
@@ -717,7 +717,7 @@ a) Permite crear redes lógicas dependientes dentro de una misma red física.
 b) Es útil para aumentar el dominio de difusión.
 c) Se basa en el protocolo 802.5 para el etiquetado de las diferentes redes.
 d) De tipo estático también se denomina VLAN basada en puerto.
-ANSWER: A
+ANSWER: D
 
 Reserva 4. [RESERVA] [TEMA="2022.117"] ¿Qué protocolo de comunicaciones de los siguientes NO está relacionado con el Internet de las cosas o “Internet of Things”?:
 a) MQTT.
