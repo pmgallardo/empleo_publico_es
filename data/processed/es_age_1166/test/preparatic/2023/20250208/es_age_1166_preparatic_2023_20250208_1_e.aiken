@@ -1,0 +1,733 @@
+
+
+
+
+1. ¿A qué responden las siglas BAM en el contexto de cuadros de mando?
+A) Business Analytics Management
+B) Business Asset Management
+C) Business Activity Monitoring
+D) Business Application Modeling
+ANSWER: C
+
+2. ¿Cuál de los siguientes no es un método dinámico de análisis de rentabilidad de inversiones?
+A) VAN
+B) Tasa de Valor Actual
+C) Índice de Rentabilidad
+D) Tasa de Rendimiento Contable
+ANSWER: D
+
+3. ¿Qué capa de iOS se encarga del manejo de ficheros?
+A) Media Services
+B) Core OS
+C) Core Services
+D) Cocoa Touch
+ANSWER:C
+
+4. ¿Cuál es uno de los objetivos propuestos por la Brújula Digital 2030 en cuanto a la digitalización de los servicios públicos en Europa?
+A) Acceso de todos los ciudadanos europeos a su historial médico electrónico
+B) Cobertura del 100% de las zonas rurales con conectividad 5G
+C) Reducir el número de especialistas en TIC a 10 millones para 2030
+D) Producción europea del 30% de la fabricación mundial de semiconductores de punta y sostenibles
+ANSWER: A
+
+5. ¿Cuál de las siguientes afirmaciones describe correctamente una característica de las Pruebas de Conocimiento Cero (ZKP)?
+A) Permiten que un usuario demuestre que conoce un secreto sin revelar el secreto. B) Son siempre no interactivas, ya que no requieren ninguna comunicación.
+C) Son un tipo de tecnología específica para la autenticación de contraseñas.
+D) Requieren que el usuario revele parte de su secreto para completar el proceso.
+ANSWER: A
+
+6. ¿Cuál de las siguientes especificaciones cubre aspectos relativos a Gobierno del dato?
+A) ISO 27001
+B) UNE 0077:2023
+C) DCAT
+D) COBIT 2019
+ANSWER:B
+
+7. Señale cuál de las siguientes opciones no es un tipo de Blockchain:
+A) Blockchain privada
+B) Blockchain de consorcio
+C) Blockchain pública o no permisionada
+D) Blockchain federada
+ANSWER:D
+
+8. ¿Qué modelo de ciclo de vida de los sistemas de información se basa en la utilización de una notación rigurosa y matemática?
+A) Ciclo de vida ágil
+B) Modelo por etapas
+C) Basado en transformaciones
+D) Métodos formales
+ANSWER:D
+
+9. Señale cuál no se considera una herramienta de gestión de proyectos:
+A) Monday.com
+B) Zoho Projects
+C) Mattermost
+D) Wrike
+ANSWER:C
+
+10. ¿Cuál de las siguientes afirmaciones describe correctamente el concepto de acoplamiento en el desarrollo de software?
+A) Un bajo acoplamiento entre módulos hace que los cambios en un módulo no afecten a otros.
+B) Un alto acoplamiento facilita la comprensión y el mantenimiento del código
+C) El acoplamiento promueve la dependencia entre módulos para mejorar la comunicación directa
+D) El principio "Tell, Don’t Ask" fomenta un acoplamiento alto para facilitar la interacción entre módulos
+ANSWER: A
+
+11. ¿Qué concepto en la informática cuántica permite que dos qubits estén correlacionados de manera que el estado de uno influya en el estado del otro, sin importar la distancia entre ellos?
+A) Superposición
+B) Colapso de la función de onda
+C) Entrelazamiento
+D) Teleportación cuántica
+ANSWER: C
+
+ 12. ¿Cuál de las siguientes técnicas se utiliza para combinar dos o más ejecutables en un solo programa empaquetado, añadiendo capas de ofuscación y cifrado?
+A) Packers
+B) Wrappers
+C) Droppers
+D) Cripters
+ANSWER: A
+
+13. Según el artículo 16 del ENI, ¿cuál de los siguientes es un aspecto clave en las condiciones de licenciamiento de aplicaciones informáticas y documentación de titularidad de una Administración Pública?
+A) La obligación de asistencia técnica por parte del cedente
+B) La protección contra la apropiación exclusiva o parcial por parte de terceros
+C) La garantía de funcionamiento sin errores por parte del cedente
+D) La obligación de actualización continua por parte del cedente
+ANSWER: B
+
+14. ¿Cuál de los siguientes servicios queda excluido de la regulación de la Ley General de Telecomunicaciones 11/2022 según el artículo 1?
+A) Instalación de redes de comunicaciones electrónicas
+B) Servicios de comunicación audiovisual
+C) Equipos radioeléctricos
+D) Prestación de servicios de comunicaciones electrónicas
+ANSWER: B
+
+15. ¿Cuál es el propósito principal de MLOps en el contexto del aprendizaje automático?
+A) Crear modelos de aprendizaje automático sin datos etiquetados.
+B) Facilitar la implementación y gestión de modelos de aprendizaje automático en producción.
+C) Desarrollar algoritmos de inteligencia artificial desde cero.
+D) Crear gráficos de datos para visualizar patrones en un conjunto de datos.
+ANSWER: B
+
+16. ¿Cuál de las siguientes herramientas se utiliza específicamente para realizar reconocimiento óptico de caracteres (OCR)?
+A) TensorFlow
+B) PyTorch
+C) pytesseract
+D) Matplotlib
+ANSWER: C
+
+17. ¿Cuál de las siguientes etiquetas se introdujo en la versión HTML5?
+A) article
+B) div
+C) table
+D) font
+ANSWER: A
+
+ 18. ¿Cuál de las siguientes afirmaciones sobre el uso de la cláusula WITH en SQL es correcta?
+A) La cláusula WITH solo se puede usar para crear vistas temporales y no se puede utilizar en subconsultas.
+B) WITH permite definir Common Table Expressions (CTEs), que son subconsultas temporales que pueden ser referenciadas dentro de la consulta principal.
+C) WITH se utiliza únicamente para unir tablas de diferentes bases de datos y no tiene relación con subconsultas.
+D) WITH solo se puede usar para definir funciones almacenadas dentro de una consulta SQL.
+ANSWER: B
+
+19. ¿Cuál de las siguientes opciones describe correctamente qué aporta Angular frente a utilizar únicamente JavaScript para el desarrollo web?
+A) Proporciona un entorno de ejecución para ejecutar JavaScript fuera del navegador.
+B) Facilita la creación de interfaces de usuario reactivas y estructuradas mediante componentes y proporciona un sistema de enlace de datos bidireccional, así como una arquitectura modular para gestionar proyectos grandes de forma eficiente.
+C) Permite compilar aplicaciones de JavaScript en código binario para mejorar el rendimiento.
+D) Añade funcionalidades nativas para el desarrollo de aplicaciones móviles en Android e iOS.
+ANSWER: B
+
+20. En un proyecto, la Actividad B tiene un Inicio Temprano (IT) de 8 días, un Fin Temprano (FT) de 12 días, un Inicio Tardío (ITa) de 10 días y un Fin Tardío (FTa) de 14 días. ¿Cuál es la holgura total de la Actividad B?
+A) 0 días
+B) 2 días
+C) 4 días
+D) 6 días
+ANSWER: B
+
+21. ¿Cuál de las siguientes direcciones IP no pertenece al rango de direcciones privadas en IPv4?
+A) 192.168.1.10
+B) 172.16.5.25
+C) 10.0.0.1
+D) 172.32.0.15
+ANSWER: D
+
+22. En el framework Spring, ¿cuál es la principal diferencia entre @Component y @Repository?
+A) @Repository maneja automáticamente las excepciones de la base de datos, mientras que @Component solo define un bean genérico.
+B) @Component se usa únicamente para la capa de persistencia, mientras que @Repository se usa para la capa de servicios.
+C) @Repository es para servicios RESTful, mientras que @Component es para controladores.
+D) @Component y @Repository son completamente intercambiables y no tienen ninguna diferencia funcional.
+ANSWER: A
+
+ 23. Durante el teletrabajo, tu organización utiliza Azure Active Directory para gestionar el acceso a las aplicaciones corporativas. ¿Cuál de las siguientes configuraciones te permitirá asegurar que solo se puede acceder a los recursos corporativos desde dispositivos gestionados por la empresa y ubicaciones específicas?
+A) Configurar Azure AD con autenticación básica.
+B) Implementar Directivas de Acceso Condicional (Conditional Access) en Azure AD.
+C) Configurar Azure AD con autenticación de dos factores solamente.
+D) Usar Azure AD Connect para sincronizar contraseñas desde el Active Directory local.
+ANSWER: B
+
+24. Tu organización está migrando al entorno cloud y está evaluando el uso de distintos servicios en la nube. Se plantea utilizar SaaS (Software como Servicio) para sus aplicaciones empresariales, PaaS (Plataforma como Servicio) para el desarrollo de nuevas aplicaciones, e IaaS (Infraestructura como Servicio) para alojar servidores virtuales y almacenamiento. ¿Cuál de las siguientes afirmaciones describe correctamente estos servicios y su uso?
+A) SaaS proporciona una plataforma para que los desarrolladores creen aplicaciones, mientras que IaaS permite usar aplicaciones listas para el usuario final y PaaS se encarga de la infraestructura virtual.
+B) IaaS se utiliza para ejecutar servidores y almacenamiento virtuales, PaaS ofrece un entorno de desarrollo completo, y SaaS proporciona aplicaciones listas para el uso del usuario final, como correo electrónico o CRM.
+C) PaaS permite utilizar aplicaciones empresariales como Office 365, IaaS proporciona un entorno de desarrollo basado en la nube, y SaaS permite gestionar servidores virtuales.
+D) SaaS ofrece infraestructura virtual para alojar aplicaciones, PaaS se utiliza para gestionar la infraestructura y IaaS permite a los usuarios ejecutar aplicaciones finales.
+ANSWER: B
+
+25. ¿Cuál de los siguientes niveles de Tier garantiza una disponibilidad del 99.982% y cuenta con múltiples líneas de distribución eléctrica y refrigeración, pero no tolera fallos de componentes sin interrumpir el servicio?
+A) Tier I
+B) Tier II
+C) Tier III
+D) Tier IV
+ANSWER: C
+
+26. ¿Cuál de las siguientes afirmaciones describe correctamente la tecnología NFC en cuanto a su alcance y uso?
+A) NFC permite la transferencia de datos a una distancia de hasta 10 metros y es ideal para redes Wi-Fi de alta velocidad.
+B) NFC opera a una distancia de unos pocos centímetros y se utiliza principalmente en sistemas de pago, identificación y transferencias de datos de baja velocidad.
+C) NFC requiere contacto directo entre dispositivos y permite la transferencia de grandes archivos en segundos.
+D) NFC funciona a través de una conexión por Bluetooth, lo que permite emparejar dispositivos a distancia para transferencias de datos rápidas.
+ANSWER: B
+
+ 27. En un entorno de almacenamiento SAN, ¿Qué representa un LUN?
+A) Una dirección IP asignada a un servidor en la red SAN.
+B) Un identificador único asignado a una unidad lógica de almacenamiento para definir volúmenes y controlar el acceso.
+C) Un protocolo de seguridad utilizado para proteger datos en la red SAN.
+D) Un sistema de archivos específico utilizado para formatear discos duros en un entorno NAS.
+ANSWER: B
+
+28. ¿Cuál de las siguientes afirmaciones describe correctamente cómo funcionan los contenedores en comparación con las máquinas virtuales?
+A) Los contenedores requieren un sistema operativo completo y consumen más recursos que las máquinas virtuales.
+B) Los contenedores comparten el kernel del sistema operativo host
+C) Los contenedores necesitan un hipervisor para su ejecución, igual que las máquinas virtuales.
+D) Los contenedores permiten el aislamiento entre aplicaciones y se ejecutan directamente sobre el hardware.
+ANSWER: B
+
+29. ¿Cuál de las siguientes afirmaciones describe la relación entre REST y la arquitectura SOA (Service- Oriented Architecture)?
+A) REST es un protocolo obligatorio en SOA
+B) REST es un estilo de comunicación que puede ser utilizado dentro de una arquitectura SOA para crear servicios ligeros y escalables.
+C) REST solo se utiliza para implementar servicios monolíticos y no es compatible con SOA.
+D) REST y SOA son incompatibles debido a sus diferencias en protocolos y arquitectura.
+ANSWER: B
+
+30. ¿Cuál de las siguientes afirmaciones describe correctamente una intranet?
+A) Una intranet es una red privada utilizada exclusivamente dentro de una organización para compartir información y recursos de manera segura.
+B) Una intranet es una red privada que conecta una organización con sus proveedores y clientes externos.
+C) Una intranet es una red pública que permite el acceso a información confidencial desde cualquier parte del mundo.
+D) Una intranet es una red interna diseñada para brindar acceso al público general a los servicios y datos de la organización.
+ANSWER: A
+
+31. ¿Cuál de los siguientes proyectos representa un esfuerzo conjunto entre UN/CEFACT y OASIS para desarrollar un marco estándar de comercio electrónico basado en XML?
+A) UN/EDIFACT ISO9735
+B) ebXML-ISO
+C) UMM Technical Specification
+D) XML Naming and Design Rules
+ANSWER: B
+
+32. ¿Cuál de las siguientes afirmaciones sobre el algoritmo RSA es correcta?
+A) La clave pública de RSA se compone del módulo n y el exponente d
+B) El algoritmo RSA se basa en la dificultad de resolver el problema de logaritmos discretos
+C) En RSA, los valores de p y q deben ser números primos y no se deben revelar
+D) RSA utiliza solo la clave pública para cifrar y descifrar mensajes
+ANSWER: C
+
+33. ¿Qué requisito debe cumplirse en una actuación administrativa automatizada según el artículo 41 de la Ley 40/2015?
+A) Debe ser realizada en parte por un empleado público
+B) Debe ser realizada completamente por medios electrónicos sin intervención de un empleado público.
+C) Debe ser realizada en colaboración entre varios órganos sin especificar responsabilidades.
+D) Debe incluir una firma electrónica manual para ser válida
+ANSWER: B
+
+34. ¿Cuál es una de las funciones principales del nodo eIDAS en el marco de la identificación electrónica transfronteriza en la Unión Europea?
+A) Proveer números de identificación nacional únicos a los ciudadanos de la UE
+B) Servir como punto de conexión para la interoperabilidad de los sistemas de identificación electrónica entre Estados miembros
+C) Verificar manualmente la identidad de los ciudadanos en las solicitudes transfronterizas
+D) Proporcionar certificación de identidad exclusivamente a ciudadanos españoles
+ANSWER: B
+
+35. ¿Cuál es una de las responsabilidades del encargado del tratamiento según el RGPD en relación con el Registro de Actividades de Tratamiento (RAT)?
+A) Definir el nivel de granularidad en el análisis de riesgos
+B) Llevar y mantener actualizado el Registro de Actividades de Tratamiento (RAT)
+C) Obtener el consentimiento explícito de los usuarios para todas las actividades de tratamiento
+D) Identificar únicamente las actividades de tratamiento de alto riesgo
+ANSWER: B
+
+36. ¿Cuál es una de las principales funciones de SAML en entornos de servicios web?
+A) Proporcionar un formato de cifrado para proteger los datos en reposo
+B) Permitir el acceso a múltiples sitios web sin necesidad de autenticación repetida
+C) Gestionar el almacenamiento de contraseñas de los usuarios en los proveedores de servicios
+D) Definir políticas de privacidad para sitios web
+ANSWER: B
+
+37. ¿Cuál de las siguientes afirmaciones es correcta sobre la tecnología GPON y su implementación en redes FTTH?
+A) En una red GPON, la transmisión de datos descendente utiliza multiplexación por división de frecuencia (FDM), mientras que la transmisión ascendente se realiza mediante multiplexación por división en el tiempo (TDM).
+B) La tecnología GPON en redes FTTH permite alcanzar distancias de hasta 60 km entre el OLT y el ONT, gracias a la ausencia de equipos activos intermedios.
+C) GPON implementa control de acceso múltiple TDMA en sentido descendente, permitiendo a cada ONT recibir solo los datos que le corresponden en su asignación temporal.
+D) La capacidad de transmisión en GPON es simétrica, ofreciendo 2,5 Gbps tanto en el enlace descendente como en el ascendente.
+ANSWER: B
+
+ 38. ¿Cuál de los siguientes NO es un algoritmo común de paginación de Sistema Operativo?
+A) FIFO
+B) NRU
+C) LRU
+D) LIFO
+ANSWER: D
+
+39. ¿Qué comando linux se debe emplear para obtener información del espacio total, usado y disponible en los sistemas de archivos montados?
+A) du
+B) df
+C) ls
+D) mount
+ANSWER: B
+
+40. ¿Cuál de las siguientes NO es una edición Windows Server 2022?
+A) Foundation
+B) Standard
+C) Datacenter
+D) Azure Datacenter
+ANSWER: A
+
+41. ¿Qué niveles de aislamiento entre transacciones de base de datos evitará la aparición de “lectura sucia”?
+A) Sólo nivel de aislamiento “Serializable”
+B) Niveles de aislamiento “Lectura no comprometida”, “Lectura repetible” y “Serializable” C) Niveles de aislamiento “Lectura comprometida”, “Lectura repetible” y “Serializable”
+D) Sólo niveles de aislamiento “Lectura repetible” y “Serializable”
+ANSWER: C
+
+42. ¿Qué es NuGet?
+A) Herramienta que muestra información sobre los enlaces de ensamblado para ayudarle a diagnosticar por qué .NET Framework no puede encontrar un ensamblado en tiempo de ejecución
+B) Herramienta que ayuda a los proveedores de herramientas y desarrolladores de aplicaciones encontrar y corregir errores en los programas que tienen como destino Common Language Runtime de .NET Framework
+C) Mecanismo que permite desarrollar e integrar modelos personalizados de machine learning en aplicaciones .NET
+D) Mecanismo compatible con Microsoft para compartir código que define cómo se crean, hospedan y consumen paquetes en .NET
+ANSWER: D
+
+43. ¿Qué significan las siglas “PAS” en el contexto vinculado a Red SARA?
+A) Punto de Acceso a la Red SARA
+B) Punto de Acceso Seguro
+C) Proveedor de Acceso a la Red SARA
+D) Proveedor de Acceso al Servicio
+ANSWER: C
+
+ 44. ¿Cuál es la máxima velocidad de descarga acorde al estándar DOCSIS 3.1?
+A) 200 Mbps
+B) 1Gbps
+C) 6 Gbps
+D) 10 Gbps
+ANSWER: D
+
+45. Indique cuál de los siguientes NO es un framework de desarrollo basado en PHP:
+A) Laravel
+B) CodeIgniter
+C) Thymeleaf
+D) Phalcon
+ANSWER: C
+
+46. Las licencias libres con copyleft robusto:
+A) No cumplen las cuatro libertades de software libre
+B) Cumplen las cuatro libertades de software libre y además sus obras derivadas que se distribuyan deben cumplir estas libertades
+C) Cumplen las cuatro libertades de software libre, pero sus obras derivadas que se distribuyan no tienen que cumplir necesariamente estas libertades
+D) Cumplen las cuatro libertades de software libre, pero sus obras derivadas que se distribuyan no cumplen en ningún caso estas libertades
+ANSWER: B
+
+47. ¿Qué clasificación corresponde mejor a un CRM (Customer Relationship Management)?:
+A) operativo o de investigación
+B) experimental o analítico
+C) experimental, de investigación o colaborativo
+D) operativo, analítico o colaborativo
+ANSWER: D
+
+48. Entre los tipos de e-Learning se encuentra el u-Learning (Ubiquitous learning), que hace referencia a:
+A) Cualquier actividad educativa que utiliza dispositivos electrónicos para llevar a cabo la formación
+B) Inclusión de educación presencial y e-learning
+C) Uso de los dispositivos móviles en la enseñanza
+D) Posibilidad de ejercer la enseñanza en cualquier momento y situación, a través de distintos medios electrónicos
+ANSWER: D
+
+49. Señale cuál NO es un componente principal de un SIG (Sistema de Información Geográfica):
+A) Tiempo
+B) Datos
+C) Software
+D) Métodos
+ANSWER: A
+
+50. En relación con los servicios de directorio, en el modelo X.500 el elemento que hace de punto de acceso al directorio para los usuarios, y además es el encargado de almacenar y gestionar parte de las entradas del directorio es:
+A) Directory Information Tree (DIT)
+B) Directory Information Base (DIB)
+C) Directory System Agent (DSA)
+D) Directory User Agent (DUA)
+ANSWER: C
+
+51. Según el artículo 11 de la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público, ante la comisión de infracciones graves y muy graves en materia de reutilización, se podrá sancionar con la prohibición de reutilizar documentos sometidos a licencia durante un periodo de tiempo entre:
+A) 1 y 5 años
+B) 1 y 20 años
+C) 5 y 10 años
+D) 5 y 20 años
+ANSWER: A
+
+52. Indique cuál de los siguientes perfiles directivos de la Administración General del Estado debe ser un funcionario de carrera:
+A) Ministro
+B) Secretario de Estado
+C) Secretario General
+D) Subdirector General
+ANSWER: D
+
+53. Señale la respuesta INCORRECTA en relación al CAU (Centro de Atención a Usuarios):
+A) El CAU da soporte tecnológico a los usuarios
+B) Existen 2 niveles en el CAU: el primer nivel, donde se recibe la petición del usuario y se intenta resolver, y el segundo nivel, donde el resto de áreas de la Unidad TIC se encargan de resolver la petición
+C) El CAU es un servicio multicanal, es decir, se ofrecen distintos medios para hacer llegar las peticiones
+D) ITIL es el estándar de referencia para la gestión del CAU
+ANSWER: B
+
+54. Entre las actividades de gestión de proyectos, según la metodología Métrica v3, se encuentra el Grupo de actividades de Seguimiento y Control (GPS), que comprende los procesos de:
+A) Análisis, Desarrollo, Construcción e Implantación y Aceptación del Sistema de Información
+B) Análisis, Desarrollo, Construcción, Implantación y Aceptación y Mantenimiento del Sistema de Información C) Análisis, Diseño, Construcción e Implantación y Aceptación del Sistema de Información
+D) Análisis, Diseño, Construcción, Implantación y Aceptación y Mantenimiento del Sistema de Información
+ANSWER: D
+
+55. Indique cuáles de las siguientes garantías se han de incluir, con carácter general, en la contratación pública:
+A) La garantía definitiva
+B) La garantía provisional y la definitiva
+C) La garantía definitiva y la complementaria de la definitiva Página 10 de 25
+D) La garantía provisional, la definitiva y la complementaria de la definitiva
+ANSWER: A
+
+56. Indique qué estándar se relaciona directamente con WIMAX (Worldwide Interoperability for Microwave Access):
+A) IEEE 802.11
+B) IEEE 802.15
+C) IEEE 802.16
+D) IEEE 802.17
+ANSWER: C
+
+57. ¿Qué fase, dentro del modelo de Nolan inicial o modelo Nolan/Gibson, es aquella en la que el presupuesto de informática alcanza un volumen tan alto que hace que la dirección deba gestionarlo como otros más de la empresa?
+A) Expansión
+B) Madurez
+C) Formalización
+D) Iniciación
+ANSWER: C
+
+58. Indica la respuesta CORRECTA respecto las diferencias entre la Alta dirección y la Dirección táctica en la pirámide de niveles de información de Laudon & Laudon
+A) La Dirección táctica se encarga del diseño de los productos, mientras la Alta dirección maneja la información estratégica
+B) La Alta dirección maneja la información estratégica mientras la Dirección táctica se encarga de la supervisión, control y coordinación
+C) La Dirección táctica determina los objetivos mientras la Alta dirección supervisa el cumplimiento diario de estos objetivos
+D) La Alta dirección supervisa, coordina y controla, mientras la Dirección táctica trata la información estratégica
+ANSWER: B
+
+59. ¿Cuál de los siguientes proyectos NO se engloba bajo la medida 11. Transformación Digital de la Administración de Justicia?
+A) Laboratorio ciudadano de innovación tecnológica
+B) Disponer de un Expediente Judicial Electrónico Sostenible
+C) Administración de Justicia orientada al dato
+D) Facilitar la inmediación digital, fe pública digital y teletrabajo
+ANSWER: A
+
+60. ¿Cómo se denomina, en una red MPLS, la tabla que relaciona la etiqueta de entrada con la etiqueta de salida?
+A) FEC
+B) LSP
+C) LIB
+D) LSR
+ANSWER: C
+
+ 61. ¿Cuál de los siguientes no se corresponde con un método de asignación de pesos a los criterios para la evaluación de alternativas en la teoría de decisión multicriterio discreta?
+A) Método de la entropía
+B) Método DELPHI
+C) Método lexicográfico
+D) Método SAATY
+ANSWER: C
+
+62. A la hora de evaluar un servicio de hosting, ¿qué aspecto es fundamental para garantizar el cumplimiento con el Esquena Nacional de Seguridad y con el Reglamento General de Protección de Datos?
+A) Contar con certificaciones reconocidas en seguridad de la información, como ISO 27001 o ENS
+B) Implementar medidas técnicas y organizativas sólidas, como encriptación de datos en reposo y en tránsito, sistemas de detección de intrusiones y políticas de acceso restringido
+C) Ofrecer informes de auditoría regulares y transparentes sobre las medidas de seguridad implementadas y los incidentes de seguridad gestionados.
+D) Todas las anteriores.
+ANSWER: D
+
+63. ¿Cuál de las siguientes licencias obliga a compartir las modificaciones hechas al código fuente cuando se utiliza para ofrecer un servicio por internet?
+A) MIT
+B) AGPL
+C) EUPL
+D) BSD
+ANSWER: B
+
+64. ¿De qué hablamos cuando desde la concepción de un sistema se busca que pueda ser utilizado por el mayor número posible de personas?
+A) Usabilidad
+B) Diseño centrado en el usuario
+C) Accesibilidad
+D) Diseño Adaptativo
+ANSWER: C
+
+65. El fichero de contenido es uno de los elementos que debe incluir un documento electrónico, según la Norma Técnica de Interoperabilidad de Documento Electrónico. ¿Cómo puede ser tratado el fichero de contenido?
+A) En formato XML
+B) Codificado en base64
+C) Referenciado
+D) Todos los anteriores
+ANSWER: D
+
+66. Señale la opción correcta
+A) El protocolo SIP es mantenido por la ITU
+B) SIP es más fácil de extender que H.323, gracias a su diseño modular
+C) Los mensajes de SIP siguen un formato binario, y H.323 usa mensajes basados en texto, como HTTP.
+D) SIP obliga a que todos los terminales soporten G.711, mientras que H.323 no impone ninguna obligación
+ANSWER: B
+
+ 67. Según INCIBE, ¿Cuál no es una de las fases del Plan de Continuidad de Negocio?
+A) Análisis de la Organización.
+B) Determinación de la Estrategia de Continuidad.
+C) Respuesta a la Contingencia.
+D) Plan de Determinación.
+ANSWER: D
+
+68. ¿Cuáles son las especificaciones base para definir el protocolo de comunicaciones H.323?
+A) H.225.0, H.245 Y H.323
+B) H.226, H323 y H244
+C) H226, H323 y H246
+D) H323, H245 y H242
+ANSWER: A
+
+69. Cuatro elementos principales de SAML 2.0
+A) Protocols, Bindings, Profiles y ACKs.
+B) Protocol, Checksum, Binding, Profiles.
+C) Assertions, Protocol, ACKs, SSO.
+D) Assertions, Protocols, Binding y Profiles.
+ANSWER: D
+
+70. En la Virtualización ...
+A) El tipo 1, alojado o hosted se ejecuta en el entorno convencional de un sistema operativo anfitrión instalado en la máquina física.
+B) Oracle VM VirtualBox, VMWARE Workstation , MUQE son ejemplos de virtualización tipo 2.
+C) VWMARE ESXi se ejecuta directamente sobre el hardware y permite gestionar los accesos de los diferentes sistemas invitados a los recursos.
+D) La mejor administración de la infraestructura no es una ventaja.
+ANSWER: C
+
+71. En la siguiente relación entre capas del modelo OSI y su unidad de datos, se ha colado una errata. Indíquela.
+A) Presentación: PPDU.
+B) Transporte: Paquete.
+C) Enlace: Trama.
+D) Física: Bit.
+ANSWER: B
+
+72. Según el proceso de análisis de riesgos en la metodología Magerit, ¿cuál de las siguientes afirmaciones es Falsa?
+A) La valoración de las amenazas se basa en la probabilidad de ocurrencia y el daño potencial al activo.
+B) La caracterización de las salvaguardas solo incluye su identificación, sin necesidad de valorarlas.
+C) La estimación del estado de riesgo final incluye tanto el impacto residual como el riesgo residual después de aplicar salvaguardas.
+D) La identificación de dependencias entre activos permite entender la seguridad de los activos en función de su relación jerárquica.
+ANSWER: B
+
+73. ¿Cuál de las siguientes guías NO forma parte de la serie 800 del CCN-STIC relacionada con el Esquema Nacional de Seguridad (ENS)?
+A) CCN-STIC-802. Auditoría del ENS.
+B) CCN-STIC-803. Valoración de Sistemas en el ENS.
+C) CCN-STIC-812. Evaluación de Seguridad para Aplicaciones Locales.
+D) CCN-STIC-824. Informe nacional del estado de seguridad de los sistemas TIC.
+ANSWER: C
+
+74. ¿Cuál de las siguientes afirmaciones sobre el sistema ORVE es Falsa?
+A) ORVE permite el intercambio de registros electrónicos con otros organismos a través de la plataforma SIR.
+B) ORVE puede ser utilizado para digitalizar documentos en papel presentados en oficinas de registro y enviarlos electrónicamente al destino correspondiente.
+C) Para utilizar ORVE, es obligatorio firmar un Acuerdo de Adhesión con el organismo competente
+D) ORVE permite la gestión de Oficinas de Registro únicamente en el ámbito de la Administración Central, excluyendo las EE.LL.
+ANSWER: D
+
+75. ¿Cuál de las siguientes opciones NO es una categoría de miembro de la ISO (International Organization for Standardization)?
+A) De pleno derecho
+B) Natos
+C) Correspondientes
+D) Suscritos
+ANSWER: A
+
+76. ¿Cuál de las siguientes características es exclusiva de los sistemas Grid Computing y no se aplica a los sistemas de Clustering?
+A) Operan con nodos de computación interconectados en una red de altas prestaciones en un entorno controlado.
+B) Permiten la agregación dinámica y en tiempo real de recursos distribuidos geográficamente, según disponibilidad y requerimientos de calidad.
+C) Se comportan de cara a los sistemas externos como un único recurso computacional.
+D) Son arquitecturas paralelas que permiten escalabilidad y distribución de tareas en múltiples nodos de computación.
+ANSWER: B
+
+77. En el contexto de un sistema IoT, ¿cuál de las siguientes afirmaciones sobre los elementos que lo componen es Falsa?
+A) Los sensores son responsables de recoger datos del entorno y deben ser identificados de manera única mediante una dirección IP.
+B) Los gateways solo se encargan de enrutar los datos, sin realizar ninguna forma de procesamiento o transformación de la información.
+C) Las aplicaciones son esenciales para el uso adecuado de los datos recolectados y pueden incluir análisis avanzados y visualización de datos.
+D) Los procesadores tienen la función principal de extraer información relevante de los datos en bruto capturados por los sensores, actuando como el "cerebro" del sistema IoT.
+ANSWER: B
+
+78. En ITIL 4, el Sistema de Valor del Servicio (SVS) integra la Cadena de Valor del Servicio (CVS) como su núcleo. Dentro de la CVS, la actividad de 'Obtener/Construir' interactúa con diversos componentes del sistema. ¿Cuál de las siguientes afirmaciones representa el riesgo más significativo si esta actividad falla?
+A) Los productos y servicios no cumplirán con las expectativas de las partes interesadas debido a la falta de alineación con los objetivos de negocio.
+B) Los componentes del servicio no estarán disponibles en el momento ni lugar adecuados, afectando la entrega oportuna de los servicios.
+C) Los servicios no podrán ser mejorados ni optimizados de forma efectiva.
+D) La transparencia y la comunicación con los usuarios finales se verán afectadas, generando insatisfacción en la prestación del servicio.
+ANSWER: B
+
+79. ¿Cuál de los siguientes es uno de los factores clave de calidad del software en el Modelo de McCall?
+A) Facilidad de aprendizaje
+B) Compatibilidad
+C) Corrección
+D) Disponibilidad
+ANSWER: C
+
+80. Dentro del marco ágil de Kanban, ¿cuál es uno de los principios clave para gestionar el flujo de trabajo?
+A) Limitar el número de tareas completadas
+B) Repriorizar las tareas según la retroalimentación del cliente
+C) Aumentar o reducir el tamaño del equipo en función del backlog
+D) Limitar el trabajo en curso
+ANSWER: D
+
+81. Según lo definido en el Agile Project Management framework, ¿cuál es el órden de las cinco fases que define?
+A) Concebir > Especular > Explorar > Adaptar > Cerrar
+B) Concebir > Explorar > Especular > Adaptar > Cerrar
+C) Especular > Adaptar > Concebir > Explorar > Cerrar
+D) Concebir > Adaptar > Explorar > Especular > Cerrar
+ANSWER: A
+
+82. ¿Cuál de los siguientes no es un principio básico en la auditoría informática?
+A) Independencia
+B) Autoridad
+C) Transparencia de los resultados auditados hacia todo el personal
+D) Evidencia suficiente y adecuada
+ANSWER: C
+
+83. ¿Qué elemento no forma parte de un diagrama de despliegue en UML? A) Nodo
+B) Artefacto
+C) Asociación
+D) Mensaje
+ANSWER: D
+
+ 84. ¿Cuál de los siguientes no es un patrón de diseño de comportamiento?
+A) Proxy
+B) Command
+C) Observer
+D) Visitor
+ANSWER: A
+
+85. ¿Cuál de los siguientes no es un BPMS (Business Process Management Suite)?
+A) FlowMaster
+B) Aris
+C) Bizagi
+D) Adonis
+ANSWER: A
+
+86. ¿Cuál de las siguientes estándares no está relacionado con la gestión de requisitos?
+A) ISO/IEC 25010
+B) ISO/IEC/IEEE 29148
+C) IEEE 830
+D) ISO 14001
+ANSWER: D
+
+87. ¿En qué característica de calidad se engloba la Disponibilidad según el estándar ISO/IEC 25010?
+A) Seguridad
+B) Usabilidad
+C) Fiabilidad
+D) Eficiencia de desempeño
+ANSWER: C
+
+88. ¿Cuál de las siguientes actividades se clasifica como mantenimiento preventivo?
+A) Actualización de sistemas operativos a nuevas versiones.
+B) Reestructuración de programas para mejorar su mantenibilidad.
+C) Implementación de nuevas funcionalidades debido a una nueva norma.
+D) Captura y tratamiento de excepciones.
+ANSWER: B
+
+89. ¿Cuál de las siguientes NO es una técnica para reducir el sobreentrenamiento de las redes neuronales?
+A) Aumento de datos
+B) Dropout
+C) Aumento del tamaño de la red
+D) Parada tempranda del entrenamietno (early stopping)
+ANSWER: C
+
+ 90. ¿En qué longitud de onda se sitúa la segunda ventana de transmisión en la fibra óptica monomodo?
+A) 850
+B) 1310
+C) 1550
+D) 1650
+ANSWER: B
+
+91. ¿Qué banda, anteriormente dedicada a la TDT, ha sido liberada para su uso en el 5G en el segundo dividendo digital?
+A) 694-790 MHz
+B) 507-600 MHz
+C) 2,03-2,14 GHz
+D) 15-16 GHz
+ANSWER: A
+
+92. ¿En qué topología de red todos los nodos se conectan a la red a través de un nodo central?
+A) Bus
+B) Estrella
+C) Malla
+D) Árbol
+ANSWER: B
+
+93. ¿Qué entidad desarrolló el estándar HTML?
+A) W3C
+B) ICANN
+C) ISOC
+D) IEEE
+ANSWER: A
+
+94. ¿Qué consecuencias tiene una mayor frecuencia de transmisión?
+A) Mayor alcance, menor ancho de banda
+B) Menor alcance, mayor ancho de banda
+C) Mayor alcance, mayor ancho de banda
+D) Menor alcance, menor ancho de banda
+ANSWER: B
+
+95. ¿Qué algoritmo utiliza JPG para comprimir los archivos de imagen?
+A) Lempel-Ziv
+B) Transformada de Fourier
+C) Transformada del Coseno
+D) Transformada de Wiener
+ANSWER: C
+
+96. Qué punto de vista describe como se transforman los datos dentro del sistema
+A) Funcional
+B) Estático
+C) Dinámico
+D) Analítico
+ANSWER: A
+
+97. Cuál NO es una herramienta de desarrollo de interfaces de usuario
+A) GLADE
+B) GTK+
+C) WXWidgets
+D) Django
+ANSWER: D
+
+98. Cuál NO es un perfil establecido en la metodología Metricav3
+A) Consultor
+B) Auditor
+C) Analista
+D) Programador
+ANSWER: B
+
+99. Cuál de las siguientes herramientas es un repositorio de arterfactos
+A) Jmeter
+B) Selenium
+C) Jfrog
+D) Maven
+ANSWER: C
+
+100. Según el Top 10 de OWASP de 2021, cuál el riesgo de seguridad más importante en aplicaciones web actualmente
+A) Fallas criptográficas
+B) Inyección
+C) Pérdida de control de acceso
+D) Fallos de registro y monitoreo
+ANSWER: C
+
+R1. Según el teorema de Nyquist, ¿cuál es número máximo de baudios por hercio que se pueden transmitir por un canal?
+A) 0.5
+B) 1
+C) 2
+D) No hay un límite establecido
+ANSWER: C
+
+R2. ¿Cuál de estas técnicas de estimación NO usa puntos de función para medir la complejidad de un software?
+A) Albrecht
+B) MARK II
+C) COCOMO
+D) Todas las anteriores usan puntos de función.
+ANSWER: C
+
+ R3. ¿Cuál de estas afirmaciones sobre los comandos de Git es correcta?
+A) Pull descarga una copia del código sin sustituir a la local
+B) Fetch descarga una copia del código sin sustituir a la local
+C) Fork crea una nueva rama de modificaciones que se fusionará con la rama principal D) Update envía el código al servidor tras hacer el commit en local
+ANSWER: B
+
+R4. ¿Cuál de estos gestores de contenidos (CMS) usa tecnología Java?
+A) OpenCMS
+B) Drupal
+C) Joomla
+D) Wordpress
+ANSWER: A
+
+R5. ¿Cuál de los siguientes tipos de copia de seguridad, NO borra el bit de modificado al finalizar?
+A) Incremental
+B) Completa
+C) Diferencial
+D) Todas las anteriores eliminan el bit de modificado
+ANSWER: C
